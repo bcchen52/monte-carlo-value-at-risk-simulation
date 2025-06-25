@@ -1,4 +1,5 @@
 import streamlit as sl
+import requests
 
 sl.title("Monte Carlo Value at Risk Simulator")
 sl.write("Hello")
