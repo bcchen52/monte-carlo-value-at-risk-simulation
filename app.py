@@ -25,13 +25,13 @@ def fetch_nasdaq_tickers():
         return df
 
     except Exception as e:
-        st.error(f"Failed to fetch NASDAQ tickers: {e}")
+        sl.error(f"Failed to fetch NASDAQ tickers: {e}")
         return None
 
-st.header("Test Ticker Fetch from NASDAQ")
+sl.header("Test Ticker Fetch from NASDAQ")
 
-if st.button("Fetch Tickers"):
+if sl.button("Fetch Tickers"):
     df = fetch_nasdaq_tickers()
     if df is not None:
-        st.success(f"✅ Fetched {len(df)} tickers")
-        st.dataframe(df.head(10))
+        sl.success(f"✅ Fetched {len(df)} tickers")
+        sl.dataframe(df.head(10))
