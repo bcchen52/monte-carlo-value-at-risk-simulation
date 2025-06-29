@@ -1,1405 +1,1895 @@
-(SKYU) ProShares Ultra Cloud Computing
-(FXE) Invesco CurrencyShares Euro Currency Trust
-(UOCT) Innovator U.S. Equity Ultra Buffer ETF - October
-(HSY) The Hershey Company Common Stock
-(PREF) Principal Spectrum Preferred Securities Active ETF
-(BLFY) Blue Foundry Bancorp - Common Stock
-(AP) Ampco-Pittsburgh Corporation Common Stock
-(WU) Western Union Company (The) Common Stock
-(BKLN) Invesco Senior Loan ETF
-(NACP) Impact Shares Trust I Impact Shares NAACP Minority Empowerment ETF
-(SPCB) SuperCom, Ltd. - Ordinary Shares
-(CVGW) Calavo Growers, Inc. - Common Stock
-(QUAL) iShares MSCI USA Quality Factor ETF
-(AFJK) Aimei Health Technology Co., Ltd - Ordinary Share
-(PYLD) PIMCO U.S. Treasury Index Fund PIMCO Multisector Bond Active Exchange-Traded Fund
-(BILD) Macquarie ETF Trust Macquarie Global Listed Infrastructure ETF
-(JXN) Jackson Financial Inc. Class A Common Stock 
-(UMC) United Microelectronics Corporation (NEW) Common Stock
-(BRID) Bridgford Foods Corporation - Common Stock
-(GLBE) Global-E Online Ltd. - ordinary shares
-(CVLT) Commvault Systems, Inc. - Common Stock
-(MUU) Direxion Daily MU Bull 2X Shares
-(PAGS) PagSeguro Digital Ltd. Class A Common Shares
-(PHIO) Phio Pharmaceuticals Corp. - Common Stock
-(PSC) Principal U.S. Small-Cap ETF
-(FTWO) Strive Natural Resources and Security ETF
-(FESM) Fidelity Covington Trust Fidelity Enhanced Small Cap ETF
-(XYZY) Tidal Trust II YieldMax XYZ Option Income Strategy ETF
-(BAMU) Brookstone Ultra-Short Bond ETF
-(LIXTW) Lixte Biotechnology Holdings, Inc. - Warrants
-(FALN) iShares Fallen Angels USD Bond ETF
-(BUD) Anheuser-Busch Inbev SA Sponsored ADR (Belgium)
-(GIS) General Mills, Inc. Common Stock
-(INSP) Inspire Medical Systems, Inc. Common Stock
-(SLI) Standard Lithium Ltd. Common Shares
-(TOI) The Oncology Institute, Inc. - Common Stock
-(NREF) NexPoint Real Estate Finance, Inc. Common Stock
-(BRY) Berry Corporation (bry) - Common Stock
-(CNDT) Conduent Incorporated - Common Stock
-(COHR) Coherent Corp. Common Stock
-(MSMR) ETF Series Solutions McElhenny Sheffield Managed Risk ETF
-(AGIH) iShares U.S. ETF Trust iShares Inflation Hedged U.S. Aggregate Bond ETF
-(KRKR) 36Kr Holdings Inc. - American Depositary Shares
-(DURA) VanEck Durable High Dividend ETF
-(LVTX) LAVA Therapeutics N.V. - Ordinary Shares
-(MSDL) Morgan Stanley Direct Lending Fund Common Stock
-(GGOV) BlackRock ETF Trust II iShares Global Government Bond USD Hedged Active ETF
-(RMNI) Rimini Street, Inc. - Common Stock
-(XCEM) Columbia EM Core ex-China ETF
-(CORO) iShares International Country Rotation Active ETF
-(CBSH) Commerce Bancshares, Inc. - Common Stock
-(PHAR) Pharming Group N.V. - ADS, each representing 10 ordinary shares
-(COCP) Cocrystal Pharma, Inc. - Common Stock
-(EBC) Eastern Bankshares, Inc. - Common Stock
-(COMP) Compass, Inc. Class A Common Stock
-(ODVWZ) Osisko Development Corp. - Warrant
-(NUAG) Nuveen Enhanced Yield U.S. Aggregate Bond ETF
-(PRE) Prenetics Global Limited - Class A Ordinary Share
-(KKRT) KKR & Co. Inc. 6.875% Subordinated Notes due 2065
-(CTWO) COtwo Advisors Physical European Carbon Allowance Trust Common units
-(NOVZ) TrueShares Structured Outcome (November) ETF
-(BLUI) Exchange Traded Concepts Trust Bluemonte Diversified Income ETF
-(TDV) ProShares S&P Technology Dividend Aristocrats ETF
-(VCRB) Vanguard Core Bond ETF
-(PLDR) Putnam Sustainable Leaders ETF
-(FNF) Fidelity National Financial, Inc. Common Stock
-(WHWK) Whitehawk Therapeutics, Inc. - Common Stock
-(GE) GE Aerospace Common Stock
-(HTRB) Hartford Total Return Bond ETF
-(DVS) Dolly Varden Silver Corporation Common Shares
-(IYF) iShares U.S. Financial ETF
-(GSID) Goldman Sachs MarketBeta International Equity ETF
-(EUDAW) Euda Health Holdings Limited - Warrant
-(BPRN) Princeton Bancorp, Inc. - Common Stock
-(CHCO) City Holding Company - Common Stock
-(TNGY) Tortoise Capital Series Trust Tortoise Energy Fund
-(JBND) J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Bond ETF
-(QBIG) Invesco Top QQQ ETF
-(VECO) Veeco Instruments Inc. - Common Stock
-(CGIB) Capital Group International Bond ETF (USD-Hedged)
-(VSGX) Vanguard ESG International Stock ETF
-(PIO) Invesco Global Water ETF
-(PAAS) Pan American Silver Corp. Common Stock
-(BRBS) Blue Ridge Bankshares, Inc. Common Stock
-(WISE) Themes Generative Artificial Intelligence ETF
-(INTF) iShares International Equity Factor ETF
-(HSII) Heidrick & Struggles International, Inc. - Common Stock
-(SIMAU) SIM Acquisition Corp. I - Unit
-(SWAG) Stran & Company, Inc. - Common Stock
-(DRDB) Roman DBDR Acquisition Corp. II - Ordinary shares
-(KNGZ) First Trust S&P 500 Diversified Dividend Aristocrats ETF
-(NANR) SPDR S&P North American Natural Resources ETF
-(EDC) Direxion Emerging Markets Bull 3X Shares
-(DOYU) DouYu International Holdings Limited - American Depositary Shares
-(JMSB) John Marshall Bancorp, Inc. - Common Stock
-(ORIS) Oriental Rise Holdings Limited - Ordinary Shares
-(LTPZ) Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund
-(NRXS) Neuraxis, Inc. Common Stock
-(ESGD) iShares ESG Aware MSCI EAFE ETF
-(ONFOW) Onfolio Holdings Inc. - Warrant
-(SSG) ProShares UltraShort Semiconductors
-(LPBBU) Launch Two Acquisition Corp. - Unit
-(MTRN) Materion Corporation
-(NSI) National Security Emerging Markets Index ETF
-(KTCC) Key Tronic Corporation - Common Stock
-(PINK) Simplify Health Care ETF
-(NIVF) NewGenIvf Group Limited - Class A Ordinary Shares
-(PFSI) PennyMac Financial Services, Inc. Common Stock
-(PHR) Phreesia, Inc. Common Stock
-(TDW) Tidewater Inc. Common Stock
-(SXQG) ETC 6 Meridian Quality Growth ETF
-(UMH) UMH Properties, Inc. Common Stock
-(UZD) United States Cellular Corporation 6.250% Senior Notes due 2069
-(RDIB) Reading International Inc - Class B Voting Common Stock
-(ASBA) Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033
-(CBOJ) Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - January
-(MULL) GraniteShares 2x Long MU Daily ETF
-(PMF) PIMCO Municipal Income Fund Common Stock
-(SPHD) Invesco S&P 500 High Dividend Low Volatility ETF
-(KMT) Kennametal Inc. Common Stock
-(AUPH) Aurinia Pharmaceuticals Inc - Common Shares
-(STSS) Sharps Technology Inc. - Common Stock
-(LITM) Snow Lake Resources Ltd. - Common Shares
-(CANQ) Calamos Nasdaq Equity & Income ETF
-(CLST) Catalyst Bancorp, Inc. - common stock
-(ARBKL) Argo Blockchain plc - 8.75% Senior Notes due 2026
-(UHGWW) United Homes Group, Inc - Warrant
-(CION) CION Investment Corporation Common Stock
-(VAL) Valaris Limited Common Shares
-(MNTN) MNTN, Inc. Class A Common Stock
-(HYDW) Xtrackers Low Beta High Yield Bond ETF
-(SDSI) American Century Short Duration Strategic Income ETF
-(TDACW) Translational Development Acquisition Corp. - Warrants
-(PAWZ) ProShares Pet Care ETF
-(SLDB) Solid Biosciences Inc. - Common Stock
-(SHYD) VanEck ETF Trust VanEck Short High Yield Muni ETF
-(KPRO) KraneShares 100% KWEB Defined Outcome January 2027 ETF
-(CRNC) Cerence Inc. - Common Stock
-(TSMG) Leverage Shares 2X Long TSM Daily ETF
-(ERII) Energy Recovery, Inc. - Common Stock
-(ESCA) Escalade, Incorporated - Common Stock
-(OAKUU) Oak Woods Acquisition Corporation - Unit
-(ICAP) Infrastructure Capital Equity Income ETF
-(PSFF) Pacer Swan SOS Fund of Funds ETF
-(NEUE) NeueHealth, Inc. Common Stock
-(PTL) Northern Lights Fund Trust IV Inspire 500 ETF
-(ALMS) Alumis Inc. - Common Stock
-(PBM) Psyence Biomedical Ltd. - Ordinary Shares
-(OGSP) Spinnaker ETF Series Obra High Grade Structured Products ETF
-(VGMS) Vanguard Malvern Funds Vanguard Multi-Sector Income Bond ETF
-(MTZ) MasTec, Inc. Common Stock
-(IONR) ioneer Ltd - American Depositary Shares
-(JOUT) Johnson Outdoors Inc. - Class A Common Stock
-(CNS) Cohen & Steers Inc Common Stock
-(CLF) Cleveland-Cliffs Inc. Common Stock
-(CIBR) First Trust NASDAQ Cybersecurity ETF
-(LFDR) LifeX Durable Income ETF
-(LVO) LiveOne, Inc. - Common Stock
-(MQT) Blackrock MuniYield Quality Fund II, Inc. Common Stock
-(NAMM) Namib Minerals - Ordinary Shares
-(ARMH) Precidian ETFs Trust Arm Holdings PLC ADRhedged
-(GPN) Global Payments Inc. Common Stock
-(CME) CME Group Inc. - Class A Common Stock
-(MODL) VictoryShares WestEnd U.S. Sector ETF
-(ITRM) Iterum Therapeutics plc - Ordinary Share
-(GLXG) Galaxy Payroll Group Limited - Class A Ordinary Shares
-(NBBK) NB Bancorp, Inc. - Common Stock
-(MDT) Medtronic plc. Ordinary Shares
-(FEM) First Trust Emerging Markets AlphaDEX Fund
-(HKND) Humankind US Stock ETF
-(IONS) Ionis Pharmaceuticals, Inc. - Common Stock
-(ARWR) Arrowhead Pharmaceuticals, Inc. - Common Stock
-(BSMR) Invesco BulletShares 2027 Municipal Bond ETF
-(ATPC) Agape ATP Corporation - Common Stock
-(XSHD) Invesco S&P SmallCap High Dividend Low Volatility ETF
-(RHTX) RH Tactical Outlook ETF
-(ETHV) VanEck Ethereum ETF VanEck Ethereum ETF
-(AIM) AIM ImmunoTech Inc. Common Stock
-(AMSF) AMERISAFE, Inc. - Common Stock
-(BRT) BRT Apartments Corp. (MD) Common Stock
-(ICMB) Investcorp Credit Management BDC, Inc. - Common Stock
-(CMSC) CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078
-(EMTY) ProShares Decline of the Retail Store ETF
-(ZHDG) ZEGA Buy and Hedge ETF
-(HLP) Hongli Group Inc. - Ordinary Shares
-(COR) Cencora, Inc. Common Stock
-(FLSA) Franklin FTSE Saudi Arabia ETF
-(QURE) uniQure N.V. - Ordinary Shares
-(STAA) STAAR Surgical Company - Common Stock
-(BTOP) Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF
-(JANU) AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Jan ETF
-(BULL) Webull Corporation - Class A Ordinary Shares
-(GRRRW) Gorilla Technology Group Inc. - Warrant
-(MSIF) MSC Income Fund, Inc. Common Stock
-(ADAG) Adagene Inc. - ADS, each representing 1.25 ordinary shares
-(WUGI) AXS Esoterica NextG Economy ETF
-(MSTR) MicroStrategy Incorporated - Class A Common Stock
-(HWCPZ) Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060
-(WKC) World Kinect Corporation Common Stock
-(RAYJ) The Advisors' Inner Circle Fund III Rayliant SMDAM Japan Equity ETF
-(ITUB) Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
-(NYMTL) New York Mortgage Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share
-(LEXX) Lexaria Bioscience Corp. - Common Stock
-(NLR) VanEck Uranium and Nuclear ETF
-(FMUB) Fidelity Municipal Bond Opportunities ETF
-(VSTM) Verastem, Inc. - Common Stock
-(TOLZ) ProShares DJ Brookfield Global Infrastructure ETF
-(NRSNW) NeuroSense Therapeutics Ltd. - Warrant
-(MIY) Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock
-(TAIT) Taitron Components Incorporated - Class A Common Stock
-(ERJ) Embraer S.A. Common Stock
-(ELBM) Electra Battery Materials Corporation - Common Stock
-(CSX) CSX Corporation - Common Stock
-(RSPR) Invesco S&P 500 Equal Weight Real Estate ETF
-(ALLO) Allogene Therapeutics, Inc. - Common Stock
-(EMBC) Embecta Corp. - Common Stock
-(DMAX) iShares Trust iShares Large Cap Max Buffer Dec ETF
-(FFIC) Flushing Financial Corporation - Common Stock
-(DGRO) iShares Core Dividend Growth ETF
-(EMMF) WisdomTree Emerging Markets Multifactor Fund
-(IWY) iShares Russell Top 200 Growth ETF
-(TSAT) Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares
-(BARK) BARK, Inc. Class A Common Stock
-(GENC) Gencor Industries, Inc. Common Stock
-(MEG) Montrose Environmental Group, Inc. Common Stock
-(AFRM) Affirm Holdings, Inc. - Class A Common Stock
-(EEA) The European Equity Fund, Inc. Common Stock
-(CRAK) VanEck Oil Refiners ETF
-(ZUMZ) Zumiez Inc. - Common Stock
-(BETR) Better Home & Finance Holding Company - Class A Common Stock
-(NHICW) NewHold Investment Corp III - Warrants
-(PASG) Passage Bio, Inc. - Common Stock
-(PTLO) Portillo's Inc. - Class A Common Stock
-(SNPS) Synopsys, Inc. - Common Stock
-(DIVS) SmartETFs Dividend Builder ETF
-(GMUN) Goldman Sachs ETF Trust Goldman Sachs Community Municipal Bond ETF
-(URNJ) Sprott Junior Uranium Miners ETF
-(ADBE) Adobe Inc. - Common Stock
-(EAPR) Innovator Emerging Markets Power Buffer ETF April
-(JSM) Navient Corporation - 6% Senior Notes due December 15, 2043
-(THY) Toews Agility Shares Dynamic Tactical Income ETF
-(FVRR) Fiverr International Ltd. Ordinary Shares, no par value
-(PRNT) 3D Printing (The) ETF
-(UYSCU) UY Scuti Acquisition Corp. - Units
-(FDIS) Fidelity MSCI Consumer Discretionary Index ETF
-(EFU) ProShares UltraShort MSCI EAFE
-(BIV) Vanguard Intermediate-Term Bond ETF
-(LUD) Luda Technology Group Limited Ordinary Shares
-(NIXX) Nixxy, Inc. - Common Stock
-(WIMI) WiMi Hologram Cloud Inc. - Class B Ordinary Shares
-(GEGGL) Great Elm Group, Inc.  - 7.25% Notes due 2027
-(FDLO) Fidelity Low Volatility Factor ETF
-(FDRR) Fidelity Dividend ETF for Rising Rates
-(EMEQ) Macquarie Focused Emerging Markets Equity ETF
-(QVCGP) QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock
-(RFLR) Innovator U.S. Small Cap Managed Floor ETF
-(MDU) MDU Resources Group, Inc. Common Stock (Holding Company)
-(CEV) Eaton Vance California Municipal Income Trust Shares of Beneficial Interest
-(WOMN) Tidal Trust III Impact Shares Women's Empowerment ETF
-(ACCO) Acco Brands Corporation Common Stock
-(SPHY) SPDR Portfolio High Yield Bond ETF
-(EDRY) EuroDry Ltd. - Common Shares
-(BKKT) Bakkt Holdings, Inc. Class A Common Stock
-(EXAS) Exact Sciences Corporation - Common Stock
-(HST) Host Hotels & Resorts, Inc. - Common Stock
-(JCI) Johnson Controls International plc Ordinary Share
-(KLRS) Kalaris Therapeutics, Inc.  - Common Stock
-(SIZE) iShares MSCI USA Size Factor ETF
-(WGO) Winnebago Industries, Inc. Common Stock
-(MINO) PIMCO Municipal Income Opportunities Active Exchange-Traded Fund
-(BRBR) BellRing Brands, Inc. Common Stock 
-(TGNA) TEGNA Inc
-(PFM) Invesco Dividend Achievers ETF
-(UROY) Uranium Royalty Corp. - Common Stock
-(NPK) National Presto Industries, Inc. Common Stock
-(INSW) International Seaways, Inc. Common Stock 
-(PAR) PAR Technology Corporation Common Stock
-(DMAY) FT Vest U.S. Equity Deep Buffer ETF - May
-(BANFP) BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities
-(EGP) EastGroup Properties, Inc. Common Stock
-(EVR) Evercore Inc. Class A Common Stock
-(ASAN) Asana, Inc. Class A Common Stock
-(LEA) Lear Corporation Common Stock
-(SIM) Grupo Simec, S.A.B. de C.V. American Depositary Shares
-(AHYB) American Century Select High Yield ETF
-(TRAK) ReposiTrak, Inc. Common Stock
-(CLPT) ClearPoint Neuro Inc. - Common Stock
-(FLXR) TCW Flexible Income ETF
-(OKLO) Oklo Inc. Class A common stock
-(KULR) KULR Technology Group, Inc. Common Stock
-(PYPD) PolyPid Ltd. - Ordinary Shares
-(TGLS) Tecnoglass Inc. Ordinary Shares
-(RXRX) Recursion Pharmaceuticals, Inc. - Class A Common Stock
-(BKV) BKV Corporation Common Stock
-(FTXN) First Trust Nasdaq Oil & Gas ETF
-(ELFY) ALPS Electrification Infrastructure ETF
-(BMVP) Invesco Bloomberg MVP Multi-factor ETF
-(ATHR) Aether Holdings, Inc. - Common Stock
-(EWC) iShares MSCI Canada Index Fund
-(JETU) Bank Of Montreal MAX Airlines 3X Leveraged ETNs
-(JHSC) John Hancock Multifactor Small Cap ETF
-(RILYT) B. Riley Financial, Inc. - 6.00% Senior Notes Due 2028
-(ACHV) Achieve Life Sciences, Inc.  - Common Shares
-(CHIQ) Global X MSCI China Consumer Discretionary ETF
-(RSKD) Riskified Ltd. Class A Ordinary Shares
-(GOGO) Gogo Inc. - Common Stock
-(JEMA) JPMorgan ActiveBuilders Emerging Markets Equity ETF
-(CALI) iShares Short-Term California Muni Active ETF
-(WSBF) Waterstone Financial, Inc. - Common Stock
-(STRL) Sterling Infrastructure, Inc. - Common Stock
-(BHFAM) Brighthouse Financial, Inc. - Depositary shares each representing a 1/1,000th Interest in a Share of 4.625% Non-Cumulative Preferred Stock, Series D
-(VLGEA) Village Super Market, Inc. - Class A Common Stock
-(SPYC) Simplify Exchange Traded Funds Simplify US Equity PLUS Convexity ETF
-(AHH) Armada Hoffler Properties, Inc. Common Stock
-(FLS) Flowserve Corporation Common Stock
-(ISPOW) Inspirato Incorporated - Warrant
-(REMG) Emerging Markets Active ETF
-(FCOR) Fidelity Corporate Bond ETF
-(PRTA) Prothena Corporation plc - Ordinary Shares
-(SPCY) STKd 100% SMCI & 100% NVDA ETF
-(IWMW) iShares Trust iShares Russell 2000 BuyWrite ETF
-(CRH) CRH PLC Ordinary Shares
-(MLACU) Mountain Lake Acquisition Corp. - Units
-(BSEP) Innovator U.S. Equity Buffer ETF - September
-(FSK) FS KKR Capital Corp. Common Stock
-(FMB) First Trust Managed Municipal ETF
-(PACS) PACS Group, Inc. Common Stock
-(APRE) Aprea Therapeutics, Inc. - Common Stock
-(OPTT) Ocean Power Technologies, Inc. Common Stock
-(WEX) WEX Inc. common stock
-(OPER) ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF
-(LCCCR) Lakeshore Acquisition III Corp. - Rights
-(CEPI) REX Crypto Equity Premium Income ETF
-(RANG) Range Capital Acquisition Corp. - Ordinary Shares
-(LHSW) Lianhe Sowell International Group Ltd - Ordinary Shares
-(RFIL) RF Industries, Ltd. - Common Stock
-(GAMR) Amplify Video Game Leaders ETF
-(SELV) SEI Enhanced Low Volatility U.S. Large Cap ETF
-(IPDP) Listed Funds Trust Dividend Performers ETF
-(MLM) Martin Marietta Materials, Inc. Common Stock
-(INEQ) Columbia International Equity Income ETF
-(QGRO) American Century U.S. Quality Growth ETF
-(SNPG) Xtrackers S&P 500 Growth Scored & Screened ETF
-(IGME) Bitwise Funds Trust Bitwise GME Option Income Strategy ETF
-(LUCK) Lucky Strike Entertainment Corporation Class A Common Stock
-(BKCI) BNY Mellon ETF Trust BNY Mellon Concentrated International ETF
-(EIPI) First Trust Exchange-Traded Fund VIII FT Energy Income Partners Enhanced Income ETF
-(APD) Air Products and Chemicals, Inc. Common Stock
-(KNCT) Invesco Next Gen Connectivity ETF
-(HWC) Hancock Whitney Corporation - Common Stock
-(JOYY) JOYY Inc. - American Depositary Shares
-(BITU) ProShares Trust ProShares Ultra Bitcoin ETF
-(RMIF) ETF Series Solutions LHA Risk-Managed Income ETF
-(DFJ) WisdomTree Japan SmallCap Fund
-(BPOPM) Popular, Inc. - Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities
-(CSAI) Cloudastructure, Inc. - Class A Common Stock
-(STR) Sitio Royalties Corp. Class A Common Stock
-(AROC) Archrock, Inc. Common Stock
-(MACIW) Melar Acquisition Corp. I - Warrant
-(NWTNW) NWTN Inc. - Warrant
-(LTBR) Lightbridge Corporation - Common Stock
-(SMOT) VanEck ETF Trust VanEck Morningstar SMID Moat ETF
-(BOEU) Direxion Daily BA Bull 2X Shares
-(FOR) Forestar Group Inc Common Stock 
-(RUSC) US Small Cap Equity Active ETF
-(OLP) One Liberty Properties, Inc. Common Stock
-(PTMN) Portman Ridge Finance Corporation - Closed End Fund
-(PSQA) Palmer Square Funds Trust Palmer Square CLO Senior Debt ETF
-(BKHY) BNY Mellon High Yield ETF
-(DOCS) Doximity, Inc. Class A Common Stock
-(TSSI) TSS, Inc. - Common Stock
-(QYLD) Global X NASDAQ 100 Covered Call ETF
-(SLM) SLM Corporation - Common Stock
-(DSEP) FT Vest U.S. Equity Deep Buffer ETF - September
-(JHPI) John Hancock Exchange-Traded Fund Trust John Hancock Preferred Income ETF
-(J) Jacobs Solutions Inc. Common Stock
-(OST) Ostin Technology Group Co., Ltd. - Class A Ordinary Shares
-(RFEM) First Trust RiverFront Dynamic Emerging Markets ETF
-(MUSA) Murphy USA Inc. Common Stock
-(TROX) Tronox Holdings plc Ordinary Shares (UK)
-(PQJL) PGIM Nasdaq-100 Buffer 12 ETF - July
-(KOPN) Kopin Corporation - Common Stock
-(VRTL) GraniteShares 2x Long VRT Daily ETF
-(TMED) T. Rowe Price Health Care ETF
-(IBTH) iShares iBonds Dec 2027 Term Treasury ETF
-(ENFY) Enlightify Inc. Common Stock
-(VSLU) Applied Finance Valuation Large Cap ETF
-(DHF) BNY Mellon High Yield Strategies Fund Common Stock
-(FTIF) First Trust Exchange-Traded Fund First Trust Bloomberg Inflation Sensitive Equity ETF
-(CCB) Coastal Financial Corporation - Common Stock
-(CBZ) CBIZ, Inc. Common Stock
-(DVYA) iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund
-(MC) Moelis & Company Class A Common Stock
-(SOYB) Teucrium Soybean Fund ETV
-(HIMU) BlackRock ETF Trust II iShares High Yield Muni Active ETF
-(DTAN) EA Series Trust Sparkline International Intangible Value ETF
-(LNZAW) LanzaTech Global, Inc. - Warrant
-(DOLE) Dole plc Ordinary Shares
-(KMID) Virtus ETF Trust II Virtus KAR Mid-Cap ETF
-(AACI) Armada Acquisition Corp. II - Class A Ordinary Shares
-(SWIM) Latham Group, Inc. - Common Stock
-(AOA) iShares Core 80/20 Aggressive Allocation ETF
-(YETH) Roundhill ETF Trust Roundhill Ether Covered Call Strategy ETF
-(BAM) Brookfield Asset Management Inc Class A Limited Voting Shares
-(IBBQ) Invesco Nasdaq Biotechnology ETF
-(SOUL) Soulpower Acquisition Corporation Class A Ordinary Shares
-(NPWR) NET Power Inc. Class A Common Stock
-(STM) STMicroelectronics N.V. Common Stock
-(PTGX) Protagonist Therapeutics, Inc. - Common Stock
-(TTNP) Titan Pharmaceuticals, Inc. - Common Stock
-(SCHX) Schwab U.S. Large-Cap ETF
-(QSIX) Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF
-(AEI) Alset Inc. - Common Stock
-(NET) Cloudflare, Inc. Class A Common Stock
-(QABA) First Trust NASDAQ ABA Community Bank Index Fund
-(BRZE) Braze, Inc. - Class A Common Stock
-(INVN) The Alger ETF Trust Alger Russell Innovation ETF
-(IJT) iShares S&P SmallCap 600 Growth ETF
-(LANDM) Gladstone Land Corporation - 5.00% Series D Cumulative Term Preferred Stock
-(SPY) SPDR S&P 500
-(PFFA) Virtus InfraCap U.S. Preferred Stock ETF
-(JMSI) J.P. Morgan Exchange-Traded Fund Trust JPMorgan Sustainable Municipal Income ETF
-(JEPQ) JPMorgan Nasdaq Equity Premium Income ETF
-(TMAT) Main Thematic Innovation ETF
-(UIVM) VictoryShares International Value Momentum ETF
-(TSL) GraniteShares 1.25x Long TSLA Daily ETF
-(TLRY) Tilray Brands, Inc. - Common Stock
-(TILE) Interface, Inc. - Common Stock
-(CGSD) Capital Group Short Duration Income ETF
-(PUK) Prudential Public Limited Company Common Stock
-(DFNL) Davis Fundamental ETF Trust Davis Select Financial ETF
-(LXP) LXP Industrial Trust Common Stock (Maryland REIT)
-(IDYA) IDEAYA Biosciences, Inc. - Common Stock
-(CLDT) Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
-(HTGC) Hercules Capital, Inc. Common Stock
-(ALFUU) Centurion Acquisition Corp. - Unit
-(CLSKW) CleanSpark, Inc. - Warrant
-(CVMC) Morgan Stanley ETF Trust Calvert US Mid-Cap Core Responsible Index ETF
-(SPBC) Simplify US Equity PLUS Bitcoin Strategy ETF
-(AWK) American Water Works Company, Inc. Common Stock
-(NBCM) Neuberger Berman ETF Trust Neuberger Berman Commodity Strategy ETF
-(TV) Grupo Televisa S.A.B. Common Stock
-(AGMI) Themes Silver Miners ETF
-(OXSQG) Oxford Square Capital Corp. - 5.50% Notes due 2028
-(XRX) Xerox Holdings Corporation - Common Stock
-(APEI) American Public Education, Inc. - Common Stock
-(FAX) abrdn Asia-Pacific Income Fund, Inc. Common Stock
-(VTEX) VTEX Class A Common Shares
-(DATSW) DatChat, Inc. - Series A Warrant
-(XPON) Expion360 Inc. - Common Stock
-(ODFL) Old Dominion Freight Line, Inc. - Common Stock
-(VFVA) Vanguard U.S. Value Factor ETF
-(MP) MP Materials Corp. Common Stock
-(NL) NL Industries, Inc. Common Stock
-(GOCO) GoHealth, Inc. - Class A Common Stock
-(OPTZ) Optimize Strategy Index ETF
-(JRVR) James River Group Holdings, Ltd. - Common Shares
-(SSP) E.W. Scripps Company (The) - Class A Common Stock
-(LAZ) Lazard, Inc. Common Stock
-(PRXG) Praxis Funds Praxis Impact Large Cap Growth ETF
-(EDGE) EA Series Trust MRBL Enhanced Equity ETF
-(PENG) Penguin Solutions, Inc. - Ordinary Shares
-(MDLZ) Mondelez International, Inc. - Class A Common Stock
-(PVLA) Palvella Therapeutics, Inc. - Common Stock
-(MSPR) MSP Recovery, Inc. - Class A Common Stock
-(NVAX) Novavax, Inc. - Common Stock
-(GBDC) Golub Capital BDC, Inc. - Closed End Fund
-(NFBK) Northfield Bancorp, Inc. - Common Stock
-(GOSS) Gossamer Bio, Inc. - Common Stock
-(YLDE) Franklin ClearBridge Enhanced Income ETF
-(PCT) PureCycle Technologies, Inc. - Common stock
-(HYS) PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund
-(UCTT) Ultra Clean Holdings, Inc. - Common Stock
-(MINV) Matthews International Funds Matthews Asia Innovators Active ETF
-(OXLCN) Oxford Lane Capital Corp. - 7.125% Series 2029 Term Preferred Stock
-(TRNS) Transcat, Inc. - Common Stock
-(LANV) Lanvin Group Holdings Limited Ordinary Shares
-(SPRU) Spruce Power Holding Corporation Class A Common Stock
-(IOSP) Innospec Inc. - Common Stock
-(INKM) SPDR SSgA Income Allocation ETF
-(GCMG) GCM Grosvenor Inc. - Class A Common Stock
-(PIZ) Invesco Dorsey Wright Developed Markets Momentum ETF
-(SBI) Western Asset Intermediate Muni Fund Inc Common Stock
-(AZTR) Azitra Inc Common Stock
-(JRE) Janus Henderson U.S. Real Estate ETF
-(QDIV) Global X S&P 500 Quality Dividend ETF
-(SQM) Sociedad Quimica y Minera S.A. Common Stock
-(TOAK) Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF
-(CULP) Culp, Inc. Common Stock
-(XNET) Xunlei Limited - American Depositary Shares
-(LIAM) LifeX 2055 Inflation-Protected Longevity Income ETF
-(PAHC) Phibro Animal Health Corporation - Class A Common Stock
-(LVHI) Franklin International Low Volatility High Dividend Index ETF 
-(GLOB) Globant S.A. Common Shares
-(IQRA) NYLI CBRE Real Assets ETF
-(KRUS) Kura Sushi USA, Inc. - Class A Common Stock
-(ESN) Essential 40 Stock ETF
-(MANH) Manhattan Associates, Inc. - Common Stock
-(WABC) Westamerica Bancorporation - Common Stock
-(PBF) PBF Energy Inc. Class A Common Stock
-(FER) Ferrovial SE - Ordinary Shares
-(IBDQ) iShares iBonds Dec 2025 Term Corporate ETF
-(CCIA) Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028
-(APYX) Apyx Medical Corporation - Common Stock
-(DEUS) Xtrackers Russell US Multifactor ETF
-(DTM) DT Midstream, Inc. Common Stock 
-(BBC) Virtus LifeSci Biotech Clinical Trials ETF
-(GRFS) Grifols, S.A. - American Depositary Shares
-(AIYY) Tidal Trust II YieldMax AI Option Income Strategy ETF
-(HFSP) TradersAI Large Cap Equity & Cash ETF
-(CPRI) Capri Holdings Limited Ordinary Shares
-(JHCR) John Hancock Exchange-Traded Fund Trust John Hancock Core Bond ETF
-(MAYP) PGIM S&P 500 Buffer 12 ETF - May
-(SSPY) Exchange Listed Funds Trust Stratified LargeCap Index ETF
-(QQWZ) Pacer Cash COWZ 100-Nasdaq 100 Rotator ETF
-(AACIU) Armada Acquisition Corp. II - Units
-(BY) Byline Bancorp, Inc. Common Stock
-(XBIL) US Treasury 6 Month Bill ETF
-(NNE) Nano Nuclear Energy Inc. - common stock
-(MIND) MIND Technology, Inc. - Common Stock
-(MDGL) Madrigal Pharmaceuticals, Inc. - Common Stock
-(RING) iShares MSCI Global Gold Miners ETF
-(NAN) Nuveen New York Quality Municipal Income Fund Common Stock
-(BENFW) Beneficient - Warrant
-(CATY) Cathay General Bancorp - Common Stock
-(ITM) VanEck ETF Trust VanEck Intermediate Muni ETF
-(PIT) VanEck ETF Trust VanEck Commodity Strategy ETF
-(FVD) First Trust VL Dividend
-(TNXP) Tonix Pharmaceuticals Holding Corp. - Common Stock
-(FLOT) iShares Floating Rate Bond ETF
-(DTST) Data Storage Corporation - Common Stock
-(RVMDW) Revolution Medicines, Inc. - Warrant
-(UX) Roundhill ETF Trust Roundhill Uranium ETF
-(EDOG) ALPS Emerging Sector Dividend Dogs ETF
-(ASMH) Precidian ETFs Trust ASML Holding NV ADRhedged
-(CCOI) Cogent Communications Holdings, Inc. - Common Stock
-(FTI) TechnipFMC plc Ordinary Share
-(CNR) Core Natural Resources, Inc. Common Stock
-(OMF) OneMain Holdings, Inc. Common Stock
-(PRFX) PainReform Ltd. - Ordinary Shares
-(SPH) Suburban Propane Partners, L.P. Common Stock
-(SMST) Defiance Daily Target 2x Short MSTR ETF
-(PRGS) Progress Software Corporation - Common Stock
-(EP) Empire Petroleum Corporation Common Stock
-(PFUT) Putnam Sustainable Future ETF
-(TMDV) ProShares Russell US Dividend Growers ETF
-(DFIS) Dimensional ETF Trust Dimensional International Small Cap ETF
-(VIAV) Viavi Solutions Inc. - Common Stock
-(DWM) WisdomTree International Equity Fund
-(LLYX) Tidal Trust II Defiance Daily Target 2X Long LLY ETF
-(JANM) First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - January
-(AQST) Aquestive Therapeutics, Inc. - Common Stock
-(SR) Spire Inc. Common Stock
-(BSLK) Bolt Projects Holdings, Inc. - Common Stock
-(TELA) TELA Bio, Inc. - Common stock
-(LAPR) Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF - April
-(OOTO) Direxion Daily Travel & Vacation Bull 2X Shares
-(EBAY) eBay Inc. - Common Stock
-(ASEA) Global X FTSE Southeast Asia ETF
-(GOVI) Invesco Equal Weight 0-30 Year Treasury ETF
-(PRME) Prime Medicine, Inc. - Common Stock
-(WCC) WESCO International, Inc. Common Stock
-(TSPA) T. Rowe Price U.S. Equity Research ETF
-(NEM) Newmont Corporation
-(AHL) Aspen Insurance Holdings Limited Class A Ordinary Shares
-(STG) Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares
-(LKFN) Lakeland Financial Corporation - Common Stock
-(CCCC) C4 Therapeutics, Inc. - Common Stock
-(SPVU) Invesco S&P 500 Enhanced Value ETF
-(ALKT) Alkami Technology, Inc. - Common Stock
-(PEZ) Invesco Dorsey Wright Consumer Cyclicals Momentum ETF
-(EOI) Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest
-(OZK) Bank OZK - Common Stock
-(LBTYA) Liberty Global Ltd. - Class A Common Shares
-(NOG) Northern Oil and Gas, Inc. Common Stock
-(MMIT) NYLI MacKay Muni Intermediate ETF
-(RWAYZ) Runway Growth Finance Corp. - 8.00% Notes due 2027
-(APIE) Trust for Professional Managers ActivePassive International Equity ETF
-(ERNZ) TrueShares Active Yield ETF
-(BIPC) Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation
-(EFV) iShares MSCI EAFE Value ETF
-(FFSM) Fidelity Fundamental Small-Mid Cap ETF
-(TAIL) Cambria Tail Risk ETF
-(VHT) Vanguard Health Care ETF
-(HMR) Heidmar Maritime Holdings Corp. - Common Stock
-(TGB) Taseko Mines, Ltd. Common Stock
-(GBIO) Generation Bio Co. - Common stock
-(CRED) Columbia ETF Trust I Columbia Research Enhanced Real Estate ETF
-(DRVN) Driven Brands Holdings Inc. - Common Stock
-(MEGL) Magic Empire Global Limited - Class A Ordinary Shares
-(TRMD) TORM plc - Class A Common Stock
-(MOBX) Mobix Labs, Inc. - Class A Common Stock
-(MXE) Mexico Equity and Income Fund, Inc. (The) Common Stock
-(HSPTU) Horizon Space Acquisition II Corp. - Units
-(QBTX) Tradr 2X Long QBTS Daily ETF Tradr 2X Long QBTS Daily ETF
-(ENVB) Enveric Biosciences, Inc.  - Common Stock
-(CLVT) Clarivate Plc Ordinary Shares
-(NFG) National Fuel Gas Company Common Stock
-(TXXI) BondBloxx ETF Trust BondBloxx IR+M Tax-Aware Intermediate Duration ETF
-(SYF) Synchrony Financial Common Stock
-(JCHI) J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active China ETF
-(IG) Principal Investment Grade Corporate Active ETF
-(HBANL) Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock
-(GVI) iShares Intermediate Government/Credit Bond ETF
-(PILL) Direxion Daily Pharmaceutical & Medical Bull 3X Shares
-(XCLR) Global X Funds Global X S&P 500 Collar 95-110 ETF
-(HAPY) Harbor Human Capital Factor Unconstrained ETF
-(BFRG) Bullfrog AI Holdings, Inc. - Common Stock
-(WEYS) Weyco Group, Inc. - Common Stock
-(GAME) GameSquare Holdings, Inc. - Common stock
-(OVLY) Oak Valley Bancorp (CA) - Common Stock
-(SCPH) scPharmaceuticals Inc. - Common Stock
-(XP) XP Inc. - Class A Common Stock
-(CCO) Clear Channel Outdoor Holdings, Inc. Common Stock
-(SPYU) Bank Of Montreal MAX S&P 500 4X Leveraged ETNs due October 30, 2043
-(FLMI) Franklin Dynamic Municipal Bond ETF
-(SPNT) SiriusPoint Ltd. Common Shares
-(CRWL) GraniteShares 2x Long CRWD Daily ETF
-(CGIC) Capital Group International Core Equity ETF
-(RGR) Sturm, Ruger & Company, Inc. Common Stock
-(SHUS) Exchange Listed Funds Trust Stratified LargeCap Hedged ETF
-(PBDE) PGIM S&P 500 Buffer 20 ETF - December
-(RDNT) RadNet, Inc. - Common Stock
-(CYCUW) Cycurion, Inc. - Warrants
-(SPMA) Sound Point Meridian Capital, Inc. 8.00% Series A Preferred Shares Due 2029
-(DJD) Invesco Dow Jones Industrial Average Dividend ETF
-(DYFI) IDX Dynamic Fixed Income ETF
-(FFGX) Fidelity Covington Trust Fidelity Fundamental Global ex-U.S. ETF
-(FSHPR) Flag Ship Acquisition Corp. - Right
-(GVUS) Goldman Sachs ETF Trust Goldman Sachs MarketBeta Russell 1000 Value Equity ETF
-(FEPI) REX FANG & Innovation Equity Premium Income ETF
-(OND) ProShares On-Demand ETF
-(THAR) Tharimmune, Inc. - Common Stock
-(RPHS) Two Roads Shared Trust Regents Park Hedged Market Strategy ETF
-(MLGO) MicroAlgo, Inc. - Ordinary Shares
-(PIPR) Piper Sandler Companies Common Stock
-(BAMG) Brookstone Growth Stock ETF
-(RENB) Renovaro Inc. - Common Stock
+(PSR) Invesco Active U.S. Real Estate Fund
+(XUDV) Franklin Templeton ETF Trust Franklin U.S. Dividend Multiplier Index ETF
+(HTFC) Horizon Technology Finance Corporation 6.25% Notes due 2027
 (JGLO) JPMorgan Global Select Equity ETF
-(ALCYW) Alchemy Investments Acquisition Corp 1 - Warrants
-(CEMB) iShares J.P. Morgan EM Corporate Bond ETF
-(BAYAR) Bayview Acquisition Corp - Right
-(PYZ) Invesco Dorsey Wright Basic Materials Momentum ETF
-(LOKVW) Live Oak Acquisition Corp. V - Warrants
-(NTSI) WisdomTree Trust WisdomTree International Efficient Core Fund
-(TSLW) Roundhill ETF Trust Roundhill TSLA WeeklyPay ETF
-(ACTU) Actuate Therapeutics, Inc. - Common stock
-(HAO) Haoxi Health Technology Limited - Class A Ord Share
-(ULBI) Ultralife Corporation - Common Stock
-(UCRD) VictoryShares Corporate Bond ETF
-(ACRE) Ares Commercial Real Estate Corporation Common Stock
-(ERIC) Ericsson - American Depositary Shares each representing 1 underlying Class B share
-(AAPX) ETF Opportunities Trust T-Rex 2X Long Apple Daily Target ETF
-(SPGP) Invesco S&P 500 GARP ETF
-(JBGS) JBG SMITH Properties Common Shares 
+(TDVG) T. Rowe Price Dividend Growth ETF
+(AUBN) Auburn National Bancorporation, Inc. - Common Stock
+(CSRE) Cohen & Steers ETF Trust Cohen & Steers Real Estate Active ETF
 (NUHY) Nuveen ESG High Yield Corporate Bond ETF
-(RFV) Invesco S&P Midcap 400 Pure Value ETF
-(XTAP) Innovator U.S. Equity Accelerated Plus ETF - April
-(IGV) iShares Expanded Tech-Software Sector ETF
-(IBMR) iShares Trust iShares iBonds Dec 2029 Term Muni Bond ETF
-(TOVX) Theriva Biologics, Inc. Common Stock
-(SDGR) Schrodinger, Inc. - Common Stock
-(MVST) Microvast Holdings, Inc. - Common Stock
-(UOKA) MDJM LTD - Ordinary Shares
-(PLL) Piedmont Lithium Inc.   - Common Stock
-(PXJ) Invesco Oil & Gas Services ETF
-(CUE) Cue Biopharma, Inc. - Common Stock
-(STEC) Santech Holdings Limited - American Depositary Shares
-(SMIZ) Zacks Trust Zacks Small/Mid Cap ETF
-(VACHW) Voyager Acquisition Corp - Warrants
-(ZTS) Zoetis Inc. Class A Common Stock
-(FINW) FinWise Bancorp - Common Stock
-(TACHU) Titan Acquisition Corp. - Units
-(USGOW) U.S. GoldMining Inc. - Warrant
-(BKF) iShares MSCI BIC ETF
-(SAH) Sonic Automotive, Inc. Common Stock
-(NHYM) NuShares ETF Trust Nuveen High Yield Municipal Income ETF
-(XRTX) XORTX Therapeutics Inc. - Common Stock
-(WEST) Westrock Coffee Company - Common Stock
-(SM) SM Energy Company Common Stock
-(BSCV) Invesco BulletShares 2031 Corporate Bond ETF
-(MTCH) Match Group, Inc. - Common Stock
-(ALTS) ALT5 Sigma Corporation - Common Stock
-(RAAX) VanEck Real Assets ETF
-(MET) MetLife, Inc. Common Stock
-(GGRW) Gabelli Growth Innovators ETF
-(ONCY) Oncolytics Biotech Inc. - Common Shares
-(CRT) Cross Timbers Royalty Trust Common Stock
-(AVGB) Avantis Credit ETF
-(NPO) Enpro Inc. Common Stock
-(PNOV) Innovator U.S. Equity Power Buffer ETF - November
-(MSFY) Kurv Yield Premium Strategy Microsoft (MSFT) ETF
-(JL) J-Long Group Limited - Ordinary Shares
-(CAR) Avis Budget Group, Inc. - Common Stock
-(EWTX) Edgewise Therapeutics, Inc. - Common Stock
-(SPEU) SPDR Portfolio Europe ETF
-(HEAT) Touchstone ETF Trust Touchstone Climate Transition ETF
-(GK) AdvisorShares Gerber Kawasaki ETF
-(FCF) First Commonwealth Financial Corporation Common Stock
-(TCMD) Tactile Systems Technology, Inc. - Common Stock
-(FDBC) Fidelity D & D Bancorp, Inc. - Common Stock
-(GTIP) Goldman Sachs Access Inflation Protected USD Bond ETF
-(DLO) DLocal Limited - Class A Common Shares
-(JOE) St. Joe Company (The) Common Stock
-(CDTX) Cidara Therapeutics, Inc. - Common Stock
-(CAEP) Cantor Equity Partners III, Inc. - Class A Ordinary Shares
-(KWR) Quaker Houghton Common Stock
-(BSJX) Invesco BulletShares 2033 High Yield Corporate Bond ETF
-(ELC) Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066
-(PHLT) Performant Healthcare, Inc. - Common Stock
-(KOLD) ProShares UltraShort Bloomberg Natural Gas
-(VTSI) VirTra, Inc. - Common Stock
-(RAIL) Freightcar America, Inc. - Common Stock
-(AX) Axos Financial, Inc. Common Stock
-(NYT) New York Times Company (The) Common Stock
-(OVL) Overlay Shares Large Cap Equity ETF
-(LSPD) Lightspeed Commerce Inc. Subordinate Voting Shares
-(ODP) The ODP Corporation - Common Stock
-(ETWO) E2open Parent Holdings, Inc.Class A Common Stock
-(IMPPP) Imperial Petroleum Inc. - 8.75% Series A Cumulative Redeemable Perpetual Preferred Shares
-(IXG) iShares Global Financial ETF
-(GTBP) GT Biopharma, Inc. - Common Stock
-(ROBN) ETF Opportunities Trust T-Rex 2X Long HOOD Daily Target ETF
-(APLD) Applied Digital Corporation - Common Stock
-(GBTG) Global Business Travel Group, Inc. Class A Common Stock
-(ENVA) Enova International, Inc. Common Stock
-(SPSM) SPDR Portfolio S&P 600 Small Cap ETF
-(LDRC) iShares Trust iShares iBonds 1-5 Year Corporate Ladder ETF
-(PHAT) Phathom Pharmaceuticals, Inc. - Common Stock
-(NMAR) Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - March
-(ITRI) Itron, Inc. - Common Stock
-(SNFCA) Security National Financial Corporation - Class A Common Stock
-(XYLG) Global X S&P 500 Covered Call & Growth ETF
-(EVOK) Evoke Pharma, Inc. - Common Stock
-(AXTA) Axalta Coating Systems Ltd. Common Shares
-(PTEU) Pacer TrendpilotTM European Index ETF
-(SBRA) Sabra Health Care REIT, Inc. - Common Stock
-(NPACU) New Providence Acquisition Corp. III - Units
-(FRGE) Forge Global Holdings, Inc. Common Stock
-(GRDN) Guardian Pharmacy Services, Inc. Class A Common Stock
-(LNN) Lindsay Corporation Common Stock
-(AUGZ) TrueShares Structured Outcome (August) ETF
-(IMDX) Insight Molecular Diagnostics Inc. - Common Stock
-(BBEU) JPMorgan BetaBuilders Europe ETF 
-(GS) Goldman Sachs Group, Inc. (The) Common Stock
-(RGC) Regencell Bioscience Holdings Limited - Ordinary Shares
-(BSGM) BioSig Technologies, Inc. - Common Stock
-(SNAP) Snap Inc. Class A Common Stock
-(GIND) Goldman Sachs India Equity ETF
-(GES) Guess?, Inc. Common Stock
-(ELTK) Eltek Ltd. - Ordinary Shares
-(JANP) PGIM S&P 500 Buffer 12 ETF - January
-(NNN) NNN REIT, Inc. Common Stock
-(ZBRA) Zebra Technologies Corporation - Class A Common Stock
-(EGAN) eGain Corporation - Common Stock
-(BTE) Baytex Energy Corp Common Shares
-(RBBN) Ribbon Communications Inc.  - Common Stock
-(CALF) Pacer US Small Cap Cash Cows ETF
-(CHPG) ChampionsGate Acquisition Corporation - Class A Ordinary Share
-(ENR) Energizer Holdings, Inc. Common Stock
-(OFG) OFG Bancorp Common Stock
-(CLDL) Direxion Daily Cloud Computing Bull 2X Shares
-(MYNZ) Mainz Biomed N.V. - Ordinary Shares
-(BBJP) JPMorgan BetaBuilders Japan ETF 
-(HTAB) Hartford Schroders Tax-Aware Bond ETF
-(JUNM) SHL Telemedicine Ltd FT Vest U.S. Equity Max Buffer ETF - June
-(SVAL) iShares US Small Cap Value Factor ETF
-(DYNXW) Dynamix Corporation - Warrant
-(WCBR) WisdomTree Cybersecurity Fund
-(AEG) Aegon Ltd. New York Registry Shares
-(RSBY) Tidal Trust II Return Stacked Bonds & Futures Yield ETF
-(CPSY) Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  January
-(NWL) Newell Brands Inc. - Common Stock
-(BCD) abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF
-(PSMJ) Pacer Swan SOS Moderate (July) ETF
-(MCR) MFS Charter Income Trust Common Stock
-(OZ) Belpointe PREP, LLC Class A Units
-(CEE) The Central and Eastern Europe Fund, Inc. (The) Common Stock
-(BMR) Beamr Imaging Ltd. - Ordinary Share
-(NCTY) The9 Limited - American Depository Shares
-(SORA) Top Win International Limited - Ordinary Shares
-(AMP) Ameriprise Financial, Inc. Common Stock
-(GLNG) Golar LNG Limited - Common Shares
-(NUW) Nuveen AMT-Free Municipal Value Fund
-(THW) abrdn World Healthcare Fund Shares of Beneficial Interest
-(MXL) MaxLinear, Inc - Common Stock
-(DK) Delek US Holdings, Inc. Common Stock
-(EWL) iShares Inc iShares MSCI Switzerland ETF
-(PAMC) Pacer Lunt MidCap Multi-Factor Alternator ETF
-(MSM) MSC Industrial Direct Company, Inc. Common Stock
-(JNJ) Johnson & Johnson Common Stock
-(BCAL) California BanCorp - Common Stock
+(ALAI) The Alger ETF Trust Alger AI Enablers & Adopters ETF
 (EPSN) Epsilon Energy Ltd. - Common Shares
-(BHR) Braemar Hotels & Resorts Inc. Common Stock
-(FLHY) Franklin High Yield Corporate ETF
-(HBTC) Listed Funds Trust Fortuna Hedged Bitcoin Fund
-(NUSA) Nuveen ESG 1-5 Year U.S. Aggregate Bond ETF
-(PLD) Prologis, Inc. Common Stock
-(MAR) Marriott International - Class A Common Stock
-(SDCI) USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund
-(IBID) iShares Trust iShares iBonds Oct 2027 Term TIPS ETF
-(NEON) Neonode Inc. - Common Stock
-(JBIO) Jade Biosciences, Inc. - Common Stock
-(NATH) Nathan's Famous, Inc. - Common Stock
-(DHDG) First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Quarterly 2.5 to 15 Buffer ETF
-(DE) Deere & Company Common Stock
-(BDMD) Baird Medical Investment Holdings Ltd - Ordinary Share
-(ISHP) First Trust S-Network E-Commerce ETF
-(WEAV) Weave Communications, Inc. Common Stock
-(LNTH) Lantheus Holdings, Inc. - Common Stock
-(SPLB) SPDR Portfolio Long Term Corporate Bond ETF
-(MYFW) First Western Financial, Inc. - Common Stock
-(LIAB) LifeX 2048 Inflation-Protected Longevity Income ETF
-(CETX) Cemtrex Inc. - Common Stock
-(TRI) Thomson Reuters Corp - Common Shares
-(GCAL) Goldman Sachs ETF Trust Goldman Sachs Dynamic California Municipal Income ETF
-(LGHL) Lion Group Holding Ltd. - American Depositary Share
-(ACHC) Acadia Healthcare Company, Inc. - Common Stock
-(PSHG) Performance Shipping Inc. - Common Shares
-(EL) Estee Lauder Companies, Inc. (The) Common Stock
-(LST) Managed Portfolio Series Leuthold Select Industries ETF
-(CCGWW) Cheche Group Inc. - Warrant
+(NE) Noble Corporation plc A Ordinary Shares
+(BVN) Buenaventura Mining Company Inc.
+(LFMDP) LifeMD, Inc. - 8.875% Series A Cumulative Perpetual Preferred Stock
+(ABLLW) Abacus Global Management, Inc. - Warrant
+(MDGL) Madrigal Pharmaceuticals, Inc. - Common Stock
+(MYLD) Cambria ETF Trust Cambria Micro and SmallCap Shareholder Yield ETF
+(TEMP) J.P. Morgan Exchange-Traded Fund Trust JPMorgan Climate Change Solutions ETF
 (WLDR) Affinity World Leaders Equity ETF 
-(OXLCP) Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares
-(IGIC) International General Insurance Holdings Ltd. - Ordinary Shares
-(MBCC) Monarch Blue Chips Core Index ETF
-(BRLN) iShares Floating Rate Loan Active ETF
-(IPX) IperionX Limited - American Depositary Share
-(MBNKP) Medallion Bank - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F
-(CVAR) ETF Opportunities Trust Cultivar ETF
-(HERO) Global X Video Games & Esports ETF
-(PTF) Invesco Dorsey Wright Technology Momentum ETF
-(NGL) NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
-(MTEX) Mannatech, Incorporated - Common Stock
-(PR) Permian Resources Corporation Class A Common Stock
-(RYAM) Rayonier Advanced Materials Inc. Common Stock
-(CHSCP) CHS Inc - 8%  Cumulative Redeemable Preferred Stock
-(FLTW) Franklin FTSE Taiwan ETF
-(HL) Hecla Mining Company Common Stock
-(MARPS) Marine Petroleum Trust - Units of Beneficial Interest
-(ICU) SeaStar Medical Holding Corporation - Common Stock
-(IBMP) iShares iBonds Dec 2027 Term Muni Bond ETF
-(ATLN) Atlantic International Corp. - Common Stock
-(AMBA) Ambarella, Inc. - Ordinary Shares
-(LOVE) The Lovesac Company - Common Stock
-(MNSBP) MainStreet Bancshares, Inc. - Depositary Shares
-(PCK) Pimco California Municipal Income Fund II Common Shares of Beneficial Interest
-(MFLX) First Trust Flexible Municipal High Income ETF
-(MMC) Marsh & McLennan Companies, Inc. Common Stock
-(PY) Principal Value ETF
-(KR) Kroger Company (The) Common Stock
-(TNA) Direxion Small Cap Bull 3X Shares
-(OACCW) Oaktree Acquisition Corp. III Life Sciences - Warrant
-(AVAL) Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)
-(BITO) ProShares Bitcoin ETF
-(ZM) Zoom Communications, Inc. - Class A Common Stock
-(GGME) Invesco Next Gen Media and Gaming ETF
-(BBAG) JPMorgan BetaBuilders U.S. Aggregate Bond ETF
-(BAB) Invesco Taxable Municipal Bond ETF
-(PNW) Pinnacle West Capital Corporation Common Stock
-(BIOX) Bioceres Crop Solutions Corp. - Ordinary Shares
-(AIV) Apartment Investment and Management Company Common Stock
-(CLOI) VanEck ETF Trust VanEck CLO ETF
-(JBLU) JetBlue Airways Corporation - Common Stock
-(GSM) Ferroglobe PLC - Ordinary Shares
-(EURL) Direxion Daily FTSE Europe Bull 3x Shares
-(CW) Curtiss-Wright Corporation Common Stock
-(VYLD) J P Morgan Chase & Co Inverse VIX  Short-Term Futures ETNs due March 22, 2045
-(TXSS) Texas Capital Texas Small Cap Equity Index ETF
-(IMOS) ChipMOS TECHNOLOGIES INC. - American Depositary Shares
-(MRTN) Marten Transport, Ltd. - Common Stock
-(HSDT) Helius Medical Technologies, Inc. - Class A Common Stock
-(CGCV) Capital Group Conservative Equity ETF
-(ZJYL) JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares
-(BCGWW) Binah Capital Group, Inc. - Warrants
-(DNOV) FT Vest U.S. Equity Deep Buffer ETF - November
-(IVV) iShares Core S&P 500 ETF
-(ONDS) Ondas Holdings Inc. - Common Stock
-(DELL) Dell Technologies Inc. Class C Common Stock 
-(CUK) Carnival Plc ADS ADS
-(XLF) SPDR Select Sector Fund - Financial
-(SRM) SRM Entertainment, Inc. - Common Stock
-(MESA) Mesa Air Group, Inc. - Common Stock
-(SRVR) Pacer Data & Infrastructure Real Estate ETF
-(ETB) Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest
-(REM) iShares Trust iShares Mortgage Real Estate ETF
-(IRM) Iron Mountain Incorporated (Delaware)Common Stock REIT
-(SPHB) Invesco S&P 500 High Beta ETF
-(ABCS) Alpha Blue Capital US Small-Mid Cap Dynamic ETF
-(HWKN) Hawkins, Inc. - Common Stock
-(JBI) Janus International Group, Inc. Common Stock
-(EQS) Equus Total Return, Inc. Common Stock
-(MGA) Magna International, Inc. Common Stock
-(MUR) Murphy Oil Corporation Common Stock
-(IEZ) iShares U.S. Oil Equipment & Services ETF
-(SAA) ProShares Ultra SmallCap600
-(DFAC) Dimensional ETF Trust Dimensional U.S. Core Equity 2 ETF
-(AMST) Amesite Inc. - Common Stock
-(VAPE) CEA Industries Inc. - Common Stock
-(PRSO) Peraso Inc. - Common Stock
-(CABO) Cable One, Inc. Common Stock
-(HBI) Hanesbrands Inc. Common Stock
-(FFDI) Fidelity Covington Trust Fidelity Fundamental Developed International ETF
-(LITB) LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares
-(ENGN) enGene Holdings Inc. - Common Stock
-(DTCK) Davis Commodities Limited - Ordinary Shares
-(DXUV) Dimensional ETF Trust Dimensional US Vector Equity ETF
-(BULD) Pacer BlueStar Engineering the Future ETF
-(MDYG) SPDR S&P 400 Mid Cap Growth ETF (based on S&P MidCap 400 Growth Index--symbol: MUV)
-(EDF) Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest
-(UAL) United Airlines Holdings, Inc. - Common Stock
-(LUCYW) Innovative Eyewear, Inc. - Warrants
-(CCSO) Carbon Collective Climate Solutions U.S. Equity ETF
-(YCS) ProShares UltraShort Yen New
-(MATV) Mativ Holdings, Inc. Common Stock
-(FIXP) FolioBeyond Enhanced Fixed Income Premium ETF
-(FSHPU) Flag Ship Acquisition Corp. - Unit
-(EELV) Invesco S&P Emerging Markets Low Volatility ETF
-(SNYR) Synergy CHC Corp. - Common Stock
-(FWONK) Liberty Media Corporation - Series C Liberty Formula One Common Stock
-(USA) Liberty All-Star Equity Fund Common Stock
-(GIGGU) GigCapital7 Corp. - Unit
-(MARM) SHL Telemedicine Ltd FT Vest U.S. Equity Max Buffer ETF - March
-(IFN) India Fund, Inc. (The) Common Stock
-(TOMZ) TOMI Environmental Solutions, Inc. - Common Stock
-(CNCK) Coincheck Group N.V. - Ordinary Shares
-(PWV) Invesco Large Cap Value ETF
-(XLI) SPDR Select Sector Fund - Industrial
-(SVCO) Silvaco Group, Inc. - Common Stock
-(WHF) WhiteHorse Finance, Inc. - Closed End Fund
-(AFGB) American Financial Group, Inc. 5.875% Subordinated Debentures due 2059
-(PCRX) Pacira BioSciences, Inc. - Common Stock
-(LRGC) AB Active ETFs, Inc. AB US Large Cap Strategic Equities ETF
-(MLPA) Global X MLP ETF
-(AVS) Direxion Daily AVGO Bear 1X Shares
-(REKR) Rekor Systems, Inc. - Common Stock
-(EFSCP) Enterprise Financial Services Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of 5% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
-(AAPW) Roundhill ETF Trust Roundhill AAPL WeeklyPay ETF
-(AM) Antero Midstream Corporation Common Stock
-(KIRK) Kirkland's, Inc. - Common Stock
-(EBTC) Enterprise Bancorp Inc - Common Stock
-(TGRT) T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Growth ETF
-(TRTY) Cambria Trinity ETF
-(SCLX) Scilex Holding Company - Common Stock
-(XOMX) Direxion Daily XOM Bull 2X Shares
-(DIVN) Horizon Funds Horizon Dividend Income ETF
-(QQQS) Invesco NASDAQ Future Gen 200 ETF
-(CLPR) Clipper Realty Inc. Common Stock
-(FLDDW) Fold Holdings, Inc. - Warrant
-(FXC) Invesco CurrencyShares Canadian Dollar Trust
-(CA) Xtrackers California Municipal Bonds ETF
-(PNQI) Invesco Nasdaq Internet ETF
-(VIST) Vista Energy S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value
-(DHAIW) DIH Holding US, Inc. - Warrant
-(FOSL) Fossil Group, Inc. - Common Stock
-(ZCMD) Zhongchao Inc. - Class A Ordinary Shares
-(GPUS) Hyperscale Data, Inc. Common Stock
-(SCZ) iShares MSCI EAFE Small-Cap ETF
-(PLMKU) Plum Acquisition Corp. IV - Unit
-(KFS) Kingsway Financial Services, Inc. Common Stock (DE)
-(UVSP) Univest Financial Corporation - Common Stock
-(TXRH) Texas Roadhouse, Inc. - Common Stock
-(AVXC) Avantis Emerging Markets ex-China Equity ETF
-(MMSD) New York Life Investments Active ETF Trust NYLI MacKay Muni Short Duration ETF
-(ZOOZ) ZOOZ Power Ltd. - Ordinary Shares
-(IVA) Inventiva S.A. - American Depository Shares
-(GRNY) Fundstrat Granny Shots US Large Cap ETF
-(NRC) National Research Corporation - Common Stock
-(NYC) American Strategic Investment Co. Class A Common Stock
-(ALTI) AlTi Global, Inc. - Class A Common Stock
-(DARE) Dare Bioscience, Inc. - Common Stock
-(IPAR) Interparfums, Inc. - Common Stock
-(FFOX) FundX Investment Trust FundX Future Fund Opportunities ETF
-(AJAN) Innovator ETFs Trust Innovator Equity Defined Protection ETF - 2 Yr to January 2026
-(CETH) 21Shares Core Ethereum ETF
-(HAYW) Hayward Holdings, Inc. Common Stock
-(ETD) Ethan Allen Interiors Inc. Common Stock
-(CAPL) CrossAmerica Partners LP Common Units representing limited partner interests
-(MRC) MRC Global Inc. Common Stock
-(OMER) Omeros Corporation - Common Stock
-(USTB) VictoryShares Short-Term Bond ETF
-(SKYE) Skye Bioscience, Inc. - Common Stock
-(ITOT) iShares Core S&P Total U.S. Stock Market ETF
-(OCTD) Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF - October
-(UPBD) Upbound Group, Inc. - Common Stock
-(USOI) ETRACS Crude Oil Shares Covered Call ETNs due April 24, 2037
-(JPI) Nuveen Preferred Securities & Income Opportunities Fund Common Shares
-(JSPR) Jasper Therapeutics, Inc. - Class A Common Stock
-(CPNJ) Calamos ETF Trust Calamos Nasdaq - 100 Structured Alt Protection ETF -June
-(VOTE) TCW Transform 500 ETF
-(SBIO) ALPS Medical Breakthroughs ETF
-(SUSA) iShares ESG Optimized MSCI USA ETF
-(BLDE) Blade Air Mobility, Inc. - Class A Common Stock
-(MCD) McDonald's Corporation Common Stock
-(VFF) Village Farms International, Inc. - Common Shares
-(QCLR) Global X NASDAQ 100 Collar 95-110 ETF
-(CARM) Carisma Therapeutics, Inc. - Common Stock
-(TPVG) TriplePoint Venture Growth BDC Corp. Common Stock
-(QXO) QXO, Inc. Common Stock
-(COWG) Pacer US Large Cap Cash Cows Growth Leaders ETF
-(FSBW) FS Bancorp, Inc. - Common Stock
-(DFAT) Dimensional U.S. Targeted Value ETF
-(GGG) Graco Inc. Common Stock
-(FNWD) Finward Bancorp - common stock
-(NERD) Roundhill Video Games ETF
-(AOCT) Innovator Equity Defined Protection ETF - 2 Yr to October 2026
-(GRAF) Graf Global Corp. Class A ordinary shares
-(HYFM) Hydrofarm Holdings Group, Inc. - Common Stock
-(TWG) Top Wealth Group Holding Limited - Class A Ordinary Shares
-(MA) Mastercard Incorporated Common Stock
-(UNG) United States Natural Gas Fund LP
-(SSSS) SuRo Capital Corp. - Closed End Fund
-(CNL) Collective Mining Ltd. Common Shares
-(OVID) Ovid Therapeutics Inc. - Common Stock
-(ELAB) PMGC Holdings Inc. - Common Stock
-(GPCR) Structure Therapeutics Inc. - American Depositary Shares
-(TREE) LendingTree, Inc. - Common Stock
-(GCL) GCL Global Holdings Ltd - Ordinary Shares
-(IBIK) iShares Trust iShares iBonds Oct 2034 Term TIPS ETF
-(GCI) Gannett Co., Inc. Common Stock
-(CPSP) Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF - April
-(PTH) Invesco Dorsey Wright Healthcare Momentum ETF
-(CHX) ChampionX Corporation - Common Stock
-(UGI) UGI Corporation Common Stock
-(QRHC) Quest Resource Holding Corporation - Common Stock
-(HESM) Hess Midstream LP Class A Representing Limited Partner Interests
-(EDTK) Skillful Craftsman Education Technology Limited - Ordinary Share
-(CMPX) Compass Therapeutics, Inc. - Common Stock
-(GBCI) Glacier Bancorp, Inc. Common Stock
-(HCI) HCI Group, Inc. Common Stock
-(LTRY) Lottery.com, Inc. - Common Stock
-(F) Ford Motor Company Common Stock
-(IBIL) iShares Trust iShares iBonds Oct 2035 Term TIPS ETF
-(LPAAU) Launch One Acquisition Corp. - Unit
-(SKRE) Tuttle Capital Daily 2X Inverse Regional Banks ETF
-(PIII) P3 Health Partners Inc. - Class A Common Stock
-(PW) Power REIT (MD) Common Stock
-(XXCH) Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares
-(IMCR) Immunocore Holdings plc - American Depositary Shares
-(BPYPM) Brookfield Property Partners L.P. - 6.25% Class A Cumulative Redeemable Preferred Units, Series 1
-(CENN) Cenntro Inc. - Common Stock
-(MFAN) MFA Financial, Inc. 8.875% Senior Notes due 2029
-(RYSE) Vest 10 Year Interest Rate Hedge ETF
-(SMPL) The Simply Good Foods Company - Common Stock
-(SMCZ) Defiance Daily Target 2X Short SMCI ETF
-(ANGHW) Anghami Inc. - Warrants
-(NVMI) Nova Ltd. - Ordinary Shares
-(IYG) iShares U.S. Financial Services ETF
-(LCTU) BlackRock U.S. Carbon Transition Readiness ETF
-(HPI) John Hancock Preferred Income Fund Common Shares of Beneficial Interest
-(TKO) TKO Group Holdings, Inc. Class A Common Stock
-(LPL) LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
-(CURB) Curbline Properties Corp. Common Stock
-(PFG) Principal Financial Group Inc - Common Stock
-(ABG) Asbury Automotive Group Inc Common Stock
-(CPLS) AB Core Plus Bond ETF
-(VAPEW) CEA Industries Inc. - Warrant
-(HOLX) Hologic, Inc. - Common Stock
-(TURN) 180 Degree Capital Corp. - Closed End Fund
-(NBR) Nabors Industries Ltd.
-(ESHA) ESH Acquisition Corp. - Class A Common Stock
-(ESSA) ESSA Bancorp, Inc. - common stock
-(SAND) Sandstorm Gold Ltd. Ordinary Shares (Canada)
-(GEG) Great Elm Group, Inc.  - Common Stock
-(EUDG) WisdomTree Europe Quality Dividend Growth Fund
-(IBIG) iShares Trust iShares iBonds Oct 2030 Term TIPS ETF
-(WDNA) WisdomTree BioRevolution Fund
-(ENLV) Enlivex Therapeutics Ltd. - Ordinary Shares
-(ZTR) Virtus Total Return Fund Inc.
-(KMTS) Kestra Medical Technologies, Ltd. - Common Stock
-(DIPS) Tidal Trust II YieldMax Short NVDA Option Income Strategy ETF
-(SCHB) Schwab U.S. Broad Market ETF
-(CCIF) Carlyle Credit Income Fund Shares of Beneficial Interest
-(OMCL) Omnicell, Inc. - Common Stock
-(BBU) Brookfield Business Partners L.P. Limited Partnership Units 
-(FMAY) FT Vest U.S. Equity Buffer ETF - May
-(APOS) Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053
-(IDE) Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest
-(AEO) American Eagle Outfitters, Inc. Common Stock
-(ITRN) Ituran Location and Control Ltd. - Ordinary Shares
-(MUJ) Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock
-(XRLX) FundX Investment Trust FundX Conservative ETF
-(FNGO) MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038
-(OBK) Origin Bancorp, Inc. Common Stock
-(OAIM) Unified Series Trust OneAscent International Equity ETF
-(WILC) G. Willi-Food International,  Ltd. - Ordinary Shares
-(AIG) American International Group, Inc. New Common Stock
-(RMCO) Royalty Management Holding Corporation - Class A Common Stock
-(DFND) Siren DIVCON Dividend Defender ETF
-(RBKB) Rhinebeck Bancorp, Inc. - Common Stock
-(TRMK) Trustmark Corporation - Common Stock
-(THC) Tenet Healthcare Corporation Common Stock
-(EPAM) EPAM Systems, Inc. Common Stock
-(TOWN) Towne Bank - Common Stock
-(ZEUS) Olympic Steel, Inc. - Common Stock
-(MGEE) MGE Energy Inc. - Common Stock
-(SJ) Scienjoy Holding Corporation - Class A Ordinary Shares
-(SEIQ) SEI Enhanced U.S. Large Cap Quality Factor ETF
-(MFIN) Medallion Financial Corp. - Common Stock
-(PEVC) Pacer Funds Trust Pacer PE/VC ETF
-(ARDX) Ardelyx, Inc. - Common Stock
-(BTF) CoinShares Valkyrie Bitcoin and Ether Strategy ETF
-(NDOW) Collaborative Investment Series Trust Anydrus Advantage ETF
-(PSFE) Paysafe Limited Common Shares
-(FLKR) Franklin FTSE South Korea ETF
-(UUP) Invesco DB USD Index Bullish Fund ETF
-(GLUE) Monte Rosa Therapeutics, Inc. - Common Stock
-(BCYC) Bicycle Therapeutics plc - American Depositary Shares
-(FPH) Five Point Holdings, LLC Class A Common Shares
-(ARP) The Advisors Inner Circle Fund II PMV Adaptive Risk Parity ETF
-(RDAG) Republic Digital Acquisition Company - Class A Ordinary Shares
-(PIPE) Invesco Actively Managed Exchange-Traded Fund Trust Invesco SteelPath MLP & Energy Infrastructure ETF
-(IBM) International Business Machines Corporation Common Stock
-(VCLN) Virtus Duff & Phelps Clean Energy ETF
-(NIPG) NIP Group Inc. - American Depositary Shares
-(SEIV) SEI Enhanced U.S. Large Cap Value Factor ETF
-(SPCX) SPAC and New Issue ETF
-(HYD) VanEck ETF Trust VanEck High Yield Muni ETF
-(JQC) Nuveen Credit Strategies Income Fund Shares of Beneficial Interest
-(MFSG) MFS Active Exchange Traded Funds Trust MFS Active Growth ETF
-(LEE) Lee Enterprises, Incorporated - Common Stock
-(GNW) Genworth Financial Inc Common Stock
-(APED) STKd 100% MSTR & 100% COIN ETF
-(MRP) Millrose Properties, Inc. Class A Common Stock
-(BTM) Bitcoin Depot Inc. - Class A Common Stock
-(SCIO) First Trust Exchange-Traded Fund IV First Trust Structured Credit Income Opportunities ETF
-(LSBPW) LakeShore Biopharma Co., Ltd - Warrants
-(QMFE) First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Moderate Buffer ETF - February
-(WAFDP) WaFd, Inc. - Depositary Shares
-(CLGN) CollPlant Biotechnologies Ltd. - Ordinary Shares
-(AMX) America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares
-(SONY) Sony Group Corporation American Depositary Shares 
-(RSJN) First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Equal Weight Buffer ETF - June
-(CEFA) Global X S&P Catholic Values Developed ex-U.S. ETF
-(LCCCU) Lakeshore Acquisition III Corp. - Unit
-(FDEV) Fidelity Emerging Markets Multifactor ETF
-(RITM) Rithm Capital Corp. Common Stock
-(SMDD) UltraPro Short MidCap400
-(ACNT) Ascent Industries Co. - Common Stock
-(UUU) Universal Security Instruments, Inc. Common Stock
-(GDOT) Green Dot Corporation Class A Common Stock, $0.001 par value
-(SJLD) SanJac Alpha Low Duration ETF
-(KGRN) KraneShares MSCI China Clean Technology Index ETF
-(AMJB) JPMorgan Chase & Co. Alerian MLP Index ETNs due January 28, 2044
-(RSMC) Tidal Trust III Rockefeller U.S. Small-Mid Cap ETF
-(IOT) Samsara Inc. Class A Common Stock
-(HF) DGA Core Plus Absolute Return ETF
-(HDSN) Hudson Technologies, Inc. - Common Stock
-(BSV) Vanguard Short-Term Bond ETF
-(INDA) Ishares MSCI India ETF
-(MAIN) Main Street Capital Corporation Common Stock
-(VSA) TCTM Kids IT Education Inc. - American Depositary Shares
-(GHLD) Guild Holdings Company Class A Common Stock
-(GSL) Global Ship Lease Inc New Class A Common Shares
-(BNGE) First Trust S-Network Streaming and Gaming ETF
-(NEN) New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership
-(BHAT) Blue Hat Interactive Entertainment Technology - Ordinary Shares
-(LTH) Life Time Group Holdings, Inc. Common Stock
-(NPV) Nuveen Virginia Quality Municipal Income Fund Common Stock
-(BDCX) ETRACS Quarterly Pay 1.5x Leveraged MarketVector BDC Liquid Index ETN due June 10, 2050
-(DV) DoubleVerify Holdings, Inc. Common Stock
-(FLGB) Franklin FTSE United Kingdom ETF
-(RIME) Algorhythm Holdings, Inc. - Common Stock
-(ISWN) Amplify BlackSwan ISWN ETF
-(RSP) Invesco S&P 500 Equal Weight ETF
-(VVOS) Vivos Therapeutics, Inc. - Common Stock
-(MBINL) Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value
-(NU) Nu Holdings Ltd. Class A Ordinary Shares
-(CARY) Angel Oak Income ETF
-(NUMV) Nuveen ESG Mid-Cap Value ETF
-(MTEKW) Maris-Tech Ltd. - Warrants
-(FLTR) VanEck ETF Trust VanEck IG Floating Rate ETF
-(CWST) Casella Waste Systems, Inc. - Class A Common Stock
-(KDP) Keurig Dr Pepper Inc. - Common Stock
-(CRCL) Circle Internet Group, Inc. Class A Common Stock
-(WDFC) WD-40 Company - Common Stock
-(PYT) PPlus Tr GSC-2 Tr Ctf Fltg Rate
-(OMDA) Omada Health, Inc. - Common Stock
-(KRT) Karat Packaging Inc. - Common Stock
-(TBMCR) Trailblazer Merger Corporation I - Rights
-(RMI) RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock
-(JIG) JPMorgan International Growth ETF
-(VRME) VerifyMe, Inc. - Common Stock
-(RGTX) Defiance Daily Target 2X Long RGTI ETF
-(CPNM) Calamos ETF Trust Calamos Nasdaq-100 Structured Alt Protection ETF - March
-(DBND) DoubleLine Opportunistic Core Bond ETF
-(JHID) John Hancock Exchange-Traded Fund Trust John Hancock International High Dividend ETF
-(MVBF) MVB Financial Corp. - Common Stock
-(ADV) Advantage Solutions Inc.  - Class A Common Stock
-(MAGS) Roundhill Magnificent Seven ETF
-(MCI) Barings Corporate Investors Common Stock
-(JVA) Coffee Holding Co., Inc. - Common Stock
-(MSS) Maison Solutions Inc. - Class A Common Stock
-(SHOT) Safety Shot, Inc. - Common Stock
-(XTIA) XTI Aerospace, Inc. Common Stock  - Common Stock
-(JHMU) John Hancock Exchange-Traded Fund Trust John Hancock Dynamic Municipal Bond ETF
-(PFH) Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060
+(SCPH) scPharmaceuticals Inc. - Common Stock
+(ONFO) Onfolio Holdings Inc. - Common Stock
+(PRN) Invesco Dorsey Wright Industrials Momentum ETF
+(INV) Innventure, Inc. - Common Stock
+(FSBD) Fidelity Merrimack Street Trust Fidelity Sustainable Core Plus Bond ETF
+(EDOG) ALPS Emerging Sector Dividend Dogs ETF
+(DVYA) iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund
+(HBDC) Hilton BDC Corporate Bond ETF
+(STG) Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares
+(HCSG) Healthcare Services Group, Inc. - Common Stock
+(NQP) Nuveen Pennsylvania Quality Municipal Income Fund Common Stock
+(NCEW) New Century Logistics (BVI) Limited - Ordinary Shares
+(SYFI) AB Active ETFs, Inc. AB Short Duration High Yield ETF
+(RELI) Reliance Global Group, Inc. - Common Stock
+(ECDA) ECD Automotive Design, Inc. - Common Stock
 (ENGS) Energys Group Limited - Ordinary Shares
-(GDXJ) VanEck Junior Gold Miners ETF
-(LDRT) iShares Trust iShares iBonds 1-5 Year Treasury Ladder ETF
-(MAG) MAG Silver Corporation Ordinary Shares
-(IGSB) iShares 1-5 Year Investment Grade Corporate Bond ETF
-(WORX) SCWorx Corp. - Common Stock
-(TOK) iShares MSCI Kokusai ETF
-(OSIS) OSI Systems, Inc. - Common Stock
-(HIG) The Hartford Insurance Group, Inc. Common Stock
-(RILYG) B. Riley Financial, Inc. - 5.00% Senior Notes due 2026
-(SNOU) ETF Opp Tr T-REX 2X Long SNOW Daily Target ETF
-(NEE) NextEra Energy, Inc. Common Stock
-(CBOA) Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - April
-(KVYO) Klaviyo, Inc. Series A Common Stock
-(MGMT) Ballast Small/Mid Cap ETF
-(TMFG) Motley Fool Global Opportunities ETF
-(EMB) iShares J.P. Morgan USD Emerging Markets Bond ETF
-(LQAI) Exchange Listed Funds Trust LG QRAFT AI-Powered U.S. Large Cap Core ETF
-(TXO) TXO Partners, L.P. Common Units Representing Limited Partner Interests
-(DPRO) Draganfly Inc. - Common Shares
-(LBRDK) Liberty Broadband Corporation - Class C Common Stock
-(DHIL) Diamond Hill Investment Group, Inc. - Class A Common Stock
-(OSK) Oshkosh Corporation (Holding Company)Common Stock
-(SNN) Smith & Nephew SNATS, Inc. Common Stock
-(NMCO) Nuveen Municipal Credit Opportunities Fund Common Shares
-(FIVN) Five9, Inc. - Common Stock
-(URTH) iShares, Inc. iShares MSCI World ETF
-(BFAP) First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy Floor15 ETF   April
-(DGRS) WisdomTree U.S. SmallCap Quality Dividend Growth Fund
-(BOLT) Bolt Biotherapeutics, Inc. - Common Stock
-(EFSC) Enterprise Financial Services Corporation - Common Stock
-(RUSHA) Rush Enterprises, Inc. - Class A Common Stock
-(SAIA) Saia, Inc. - Common Stock
-(JSMD) Janus Henderson Small/Mid Cap Growth Alpha ETF
-(STGW) Stagwell Inc. - Class A Common Stock
-(HKPD) Hong Kong Pharma Digital Technology Holdings Limited - Ordinary shares
-(TRIP) TripAdvisor, Inc. - Common Stock
-(PTCT) PTC Therapeutics, Inc. - Common Stock
-(MBBB) VanEck Moody's Analytics BBB Corporate Bond ETF
-(MLPD) Global X Funds Global X MLP & Energy Infrastructure Covered Call ETF
-(IBGA) iShares iBonds Dec 2044 Term Treasury ETF
-(EAGG) iShares ESG Aware U.S. Aggregate Bond ETF
-(TMCI) Treace Medical Concepts, Inc. - Common Stock
-(EQLT) iShares Trust iShares MSCI Emerging Markets Quality Factor ETF
-(AEYE) AudioEye, Inc. - Common Stock
-(HYBL) SPDR Series Trust SPDR Blackstone High Income ETF
-(PIE) Invesco Dorsey Wright Emerging Markets Momentum ETF
-(CLBK) Columbia Financial, Inc. - Common Stock
-(IQM) Franklin Intelligent Machines ETF
-(IOO) iShares Global 100 ETF
-(KEP) Korea Electric Power Corporation Common Stock
-(ADTN) ADTRAN Holdings, Inc. - Common Stock
-(IXC) iShares Global Energy ETF
-(JYD) Jayud Global Logistics Limited - Class A Ordinary Shares
-(SXI) Standex International Corporation Common Stock
-(MMSC) First Trust Multi-Manager Small Cap Opportunities ETF
-(VSME) VS Media Holdings Limited - Class A Ordinary Shares
-(EIM) Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value
-(IBIE) iShares Trust iShares iBonds Oct 2028 Term TIPS ETF
-(GAPR) FT Vest U.S. Equity Moderate Buffer ETF - April
-(MNSO) MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares
-(VLTO) Veralto Corp Common Stock 
-(UPXI) Upexi, Inc. - Common Stock
-(CETY) Clean Energy Technologies, Inc. - Common Stock
-(PRFZ) Invesco RAFI US 1500 Small-Mid ETF
-(BUXX) EA Series Trust Strive Enhanced Income Short Maturity ETF
-(GANX) Gain Therapeutics, Inc. - Common Stock
-(BNAI) Brand Engagement Network Inc. - Common Stock
-(UNP) Union Pacific Corporation Common Stock
-(TEMT) Tradr 2X Long QBTS Daily ETF Tradr 2X Long TEM Daily ETF
-(BDRX) Biodexa Pharmaceuticals plc - American Depositary Shares
-(EVN) Eaton Vance Municipal Income Trust Common Stock
-(ILCG) iShares Morningstar Large-Cap Growth ETF
-(OCTJ) Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - October
-(EPOL) iShares Trust iShares MSCI Poland ETF
-(VTEL) Vanguard Tax-Managed Funds Vanguard Long-Term Tax-Exempt Bond ETF
-(VSEC) VSE Corporation - Common Stock
-(LGND) Ligand Pharmaceuticals Incorporated - Common Stock
-(NYMTG) New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2030
-(FARX) The Advisors' Inner Circle Fund II Frontier Asset Absolute Return ETF
-(DNLI) Denali Therapeutics Inc. - Common Stock
-(BRLT) Brilliant Earth Group, Inc. - Class A Common Stock
-(OMSE) OMS Energy Technologies Inc. - Ordinary Shares
-(DMAAU) Drugs Made In America Acquisition Corp. - Units
-(ICLR) ICON plc - Ordinary Shares
-(ACMR) ACM Research, Inc. - Class A Common Stock
-(IEQ) Lazard Active ETF Trust Lazard International Dynamic Equity ETF
-(CGGG) Capital Group Equity ETF Trust I Capital Group U.S. Large Growth ETF
-(RXT) Rackspace Technology, Inc. - Common Stock
-(HSCZ) iShares Currency Hedged MSCI EAFE Small-Cap ETF
-(USAF) Atlas America Fund
-(CDEI) Morgan Stanley ETF Trust Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF
-(IGCB) TCW Corporate Bond ETF
-(CMPS) COMPASS Pathways Plc - American Depository Shares
-(DATS) DatChat, Inc. - Common Stock
-(IDEC) Innovator ETFs Trust Innovator International Developed Power Buffer ETF  December
-(CHKP) Check Point Software Technologies Ltd. - Ordinary Shares
-(CRBN) iShares MSCI ACWI Low Carbon Target ETF
-(EHAB) Enhabit, Inc. Common Stock
-(ULST) SPDR SSgA Ultra Short Term Bond ETF
-(SVM) Silvercorp Metals Inc. Common Shares
-(GOOG) Alphabet Inc. - Class C Capital Stock
-(PFE) Pfizer, Inc. Common Stock
-(AVSD) American Century ETF Trust Avantis Responsible International Equity ETF
-(GLTO) Galecto, Inc. - Common Stock
-(OIA) Invesco Municipal Income Opportunities Trust Common Stock
-(SCHC) Schwab International Small-Cap Equity ETF
-(AZEK) The AZEK Company Inc. Class A Common Stock
-(WOK) WORK Medical Technology Group LTD - Class A Ordinary Shares
-(AES) The AES Corporation Common Stock
-(CSCO) Cisco Systems, Inc. - Common Stock
-(KINS) Kingstone Companies, Inc - Common Stock
-(QWLD) SPDR MSCI World StrategicFactors ETF
-(DEI) Douglas Emmett, Inc. Common Stock
-(AIFEU) Aifeex Nexus Acquisition Corporation - Unit
-(BUR) Burford Capital Limited Ordinary Shares
-(AKBA) Akebia Therapeutics, Inc. - Common Stock
-(MSBI) Midland States Bancorp, Inc. - Common Stock
-(ELSE) Electro-Sensors, Inc. - Common Stock
-(KIDZ) Classover Holdings, Inc. - Class B Common Stock
-(NCI) Neo-Concept International Group Holdings Limited - Class A Ordinary Shares
-(PGP) Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest
-(VCLT) Vanguard Long-Term Corporate Bond ETF
-(SWK) Stanley Black & Decker, Inc. Common Stock
+(CYN) Cyngn Inc. - Common stock
+(TITN) Titan Machinery Inc. - Common Stock
+(YMAR) FT Vest International Equity Moderate Buffer ETF - March
+(CISO) CISO Global, Inc. - Common Stock
+(TNGY) Tortoise Capital Series Trust Tortoise Energy Fund
+(ALEC) Alector, Inc. - Common Stock
+(ZBRA) Zebra Technologies Corporation - Class A Common Stock
+(HXL) Hexcel Corporation Common Stock
+(NITE) Capitol Series Trust The Nightview Fund NITE
+(ZYBT) Zhengye Biotechnology Holding Limited - Ordinary Shares
+(LNC) Lincoln National Corporation Common Stock
 (OXY) Occidental Petroleum Corporation Common Stock
-(EPIN) Harbor ETF Trust Harbor International Equity ETF
-(YETI) YETI Holdings, Inc. Common Stock
-(DFSV) Dimensional ETF Trust Dimensional US Small Cap Value ETF
-(QSI) Quantum-Si Incorporated - Class A Common Stock
-(MDPL) Northern Lights Fund Trust IV Monarch Dividend Plus Index ETF
-(CCIR) Cohen Circle Acquisition Corp. I - Class A Ordinary Shares
-(DHC) Diversified Healthcare Trust  - Common Shares of Beneficial Interest
-(SOHU) Sohu.com Limited  - American Depositary Shares
-(DOW) Dow Inc. Common Stock 
-(BWA) BorgWarner Inc. Common Stock
-(GUSA) Goldman Sachs ETF Trust II Goldman Sachs MarketBeta U.S. 1000 Equity ETF
-(SPXE) ProShares S&P 500 Ex-Energy ETF
-(VDC) Vanguard Consumer Staples ETF
-(FICS) First Trust International Developed Capital Strength ETF
-(APUE) Trust for Professional Managers ActivePassive U.S. Equity ETF
-(IBRX) ImmunityBio, Inc. - Common Stock
-(CMBS) iShares CMBS Bond ETF
-(XBOC) Innovator U.S. Equity Accelerated 9 Buffer ETF - October
-(SPSC) SPS Commerce, Inc. - Common Stock
-(KLMN) Invesco Exchange-Traded Fund Trust II Invesco MSCI North America Climate ETF
-(KHYB) KraneShares Asia Pacific High Income USD Bond ETF
-(ANY) Sphere 3D Corp. - Common Shares
-(RCMT) RCM Technologies, Inc. - Common Stock
-(LSGR) Natixis ETF Trust II Natixis Loomis Sayles Focused Growth ETF
-(VNCE) Vince Holding Corp. Common Stock
-(VSDB) Vanguard Malvern Funds Vanguard Short Duration Bond ETF
-(PM) Philip Morris International Inc Common Stock
-(MMD) NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares
-(CRBD) Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
-(BGY) Blackrock Enhanced International Dividend Trust
-(FBLA) FB Bancorp, Inc. - Common Stock
-(NXE) Nexgen Energy Ltd. Common Shares
-(CGGE) Capital Group Global Equity ETF
-(RDI) Reading International Inc - Class A Non-voting Common Stock
-(PMFB) PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - February
-(FITBO) Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K
+(HF) DGA Core Plus Absolute Return ETF
+(ATKR) Atkore Inc. Common Stock
+(ELTX) Elicio Therapeutics, Inc. - Common Stock
+(SEMG) EA Series Trust Suncoast Select Growth ETF
+(WOOF) Petco Health and Wellness Company, Inc. - Class A Common Stock
+(OOSP) Spinnaker ETF Series Obra Opportunistic Structured Products ETF
+(FPAG) Investment Managers Series Trust III FPA Global Equity ETF
+(ORGO) Organogenesis Holdings Inc.  - Class A 
+(TPL) Texas Pacific Land Corporation Common Stock
+(UZE) United States Cellular Corporation 5.500% Senior Notes due 2070
+(FHDG) First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Quarterly Dynamic Buffer ETF
+(NDEC) Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - December
+(POLA) Polar Power, Inc. - Common Stock
+(SPYD) SPDR Series Trust SPDR Portfolio S&P 500 High Dividend ETF
+(HONDU) HCM II Acquisition Corp. - Unit
+(JEPQ) JPMorgan Nasdaq Equity Premium Income ETF
+(NYMTN) New York Mortgage Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
+(CXW) CoreCivic, Inc. Common Stock
+(IRM) Iron Mountain Incorporated (Delaware)Common Stock REIT
 (DMAAR) Drugs Made In America Acquisition Corp. - Rights
-(SIEB) Siebert Financial Corp. - Common Stock
-(FCOM) Fidelity MSCI Communication Services Index ETF
-(PARA) Paramount Global - Class B Common Stock
-(QUP) Strategic Trust DailyDelta  Q100 Upside Option Strategy ETF
-(TMO) Thermo Fisher Scientific Inc Common Stock
-(ASIA) Matthews International Funds Matthews Pacific Tiger Active ETF
-(HG) Hamilton Insurance Group, Ltd. Class B Common Shares
-(EUFN) iShares MSCI Europe Financials ETF
-(PPT) Putnam Premier Income Trust Common Stock
-(UPAR) UPAR Ultra Risk Parity ETF
-(CLM) Cornerstone Strategic Investment Fund, Inc. Common Shares
-(USPX) Franklin U.S. Equity Index ETF
-(NPKI) NPK International Inc. Common Stock
-(CHRO) Channel Therapeutics Corporation Common Stock
-(NPFI) Nuveen Preferred and Income ETF
-(EE) Excelerate Energy, Inc. Class A Common Stock
-(CUBWW) Lionheart Holdings - Warrant
-(FBCV) Fidelity Blue Chip Value ETF
-(OPHC) OptimumBank Holdings, Inc. Common Stock
-(PANL) Pangaea Logistics Solutions Ltd. - Common Stock
-(ACVA) ACV Auctions Inc. Class A Common Stock
-(RTX) RTX Corporation Common Stock
-(VMAR) Vision Marine Technologies Inc. - Common Shares
-(AWI) Armstrong World Industries Inc Common Stock
-(FDN) First Trust DJ Internet Index Fund
-(BSVN) Bank7 Corp. - Common stock
-(ATMV) AlphaVest Acquisition Corp - Ordinary Shares
-(IWMY) Defiance R2000 Enhanced Options & 0DTE Income ETF
-(MODG) Topgolf Callaway Brands Corp. Common Stock
-(CAL) Caleres, Inc. Common Stock
-(GPRK) Geopark Ltd Common Shares
-(PEG) Public Service Enterprise Group Incorporated Common Stock
-(FTHI) First Trust BuyWrite Income ETF
-(SRL) Scully Royalty Ltd.
-(CASI) CASI Pharmaceuticals, Inc. - Ordinary Shares
-(CMP) Compass Minerals Intl Inc Common Stock
-(GHTA) Goose Hollow Tactical Allocation ETF
-(AFGC) American Financial Group, Inc. 5.125% Subordinated Debentures due 2059
-(CPSO) Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF - October
-(KEX) Kirby Corporation Common Stock
+(ARCO) Arcos Dorados Holdings Inc. Class A Shares
+(NVEC) NVE Corporation - Common Stock
+(ICFI) ICF International, Inc. - Common Stock
+(GIBO) GIBO Holdings Limited - Class A Ordinary Shares
+(CDZIP) Cadiz, Inc. - Depositary Shares
+(SOFI) SoFi Technologies, Inc.  - Common Stock
+(DHS) WisdomTree U.S. High Dividend Fund
+(LUMN) Lumen Technologies, Inc. Common Stock
+(SER) Serina Therapeutics, Inc. Common Stock
+(TGRW) T. Rowe Price Growth Stock ETF
+(TXT) Textron Inc. Common Stock
+(H) Hyatt Hotels Corporation Class A Common Stock
+(OS) OneStream, Inc. - Class A Common Stock
+(STRR) Star Equity Holdings, Inc. - Common Stock
+(PLX) Protalix BioTherapeutics, Inc. (DE) Common Stock
+(HEJD) VictoryShares Hedged Equity Income ETF
+(WEED) Listed Funds Trust Roundhill Cannabis ETF
+(BFRZ) Innovator ETFs Trust Innovator Equity Managed 100 Buffer ETF
+(HROW) Harrow, Inc. - Common Stock
+(CLOZ) Eldridge BBB-B CLO ETF
+(ODFL) Old Dominion Freight Line, Inc. - Common Stock
+(MAS) Masco Corporation Common Stock
+(DGZ) DB Gold Short ETN due February 15, 2038
+(KONG) ETF Opportunities Trust Formidable Fortress ETF
+(ASPC) A SPAC III Acquisition Corp. - Class A Ordinary Shares
+(KBWD) Invesco KBW High Dividend Yield Financial ETF
 (DSTX) Distillate International Fundamental Stability & Value ETF
+(EASG) Xtrackers MSCI EAFE Selection Equity ETF
+(GOOGL) Alphabet Inc. - Class A Common Stock
+(RKLX) Defiance Daily Target 2X Long RKLB ETF
+(TDOC) Teladoc Health, Inc. Common Stock
+(VBIX) Viewbix Inc. - Common Stock 
+(MDB) MongoDB, Inc. - Class A Common Stock
+(DNOW) DNOW Inc. Common Stock
+(GCI) Gannett Co., Inc. Common Stock
+(SLMBP) SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B
+(VNET) VNET Group, Inc. - American Depositary Shares
+(YBIT) Tidal Trust II YieldMax Bitcoin Option Income Strategy ETF
+(PDPA) Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029
+(ROBN) ETF Opportunities Trust T-Rex 2X Long HOOD Daily Target ETF
+(INVZW) Innoviz Technologies Ltd. - Warrant
+(TSLG) Leverage Shares 2X Long TSLA Daily ETF
+(PPBI) Pacific Premier Bancorp Inc - Common Stock
+(ARKK) ARK Innovation ETF
+(CEE) The Central and Eastern Europe Fund, Inc. (The) Common Stock
+(ARKQ) ARK Autonomous Technology & Robotics ETF
+(AMBI) Ambipar Emergency Response Class A Ordinary Shares
+(TNXP) Tonix Pharmaceuticals Holding Corp. - Common Stock
+(ZOOZ) ZOOZ Power Ltd. - Ordinary Shares
+(MNMD) Mind Medicine (MindMed) Inc. - Common Shares
+(BMED) iShares Health Innovation Active ETF
+(FLGV) Franklin U.S. Treasury Bond ETF
+(WTW) Willis Towers Watson Public Limited Company - Ordinary Shares
+(FLSW) Franklin FTSE Switzerland ETF
+(NUSB) Nuveen Ultra Short Income ETF
+(DAAQU) Digital Asset Acquisition Corp. - Units
+(RDCM) Radcom Ltd. - Ordinary Shares
+(GETY) Getty Images Holdings, Inc. Class A Common Stock
+(TPG) TPG Inc. - Class A Common Stock
+(PYLD) PIMCO U.S. Treasury Index Fund PIMCO Multisector Bond Active Exchange-Traded Fund
+(KMID) Virtus ETF Trust II Virtus KAR Mid-Cap ETF
+(DHDG) First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Quarterly 2.5 to 15 Buffer ETF
+(TBMCR) Trailblazer Merger Corporation I - Rights
+(TAX) Cambria Tax Aware ETF
+(NDAA) Ned Davis Research 360 Dynamic Allocation ETF
+(BDCZ) ETRACS MarketVector Business Development Companies Liquid Index ETN due April 26, 2041
+(JRS) Nuveen Real Estate Income Fund Common Shares of Beneficial Interest
+(SDCI) USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund
+(EQ) Equillium, Inc. - Common Stock
+(ATMCR) AlphaTime Acquisition Corp - Right
+(ENSC) Ensysce Biosciences, Inc. - Common Stock
+(NEOG) Neogen Corporation - Common Stock
+(IMTE) Integrated Media Technology Limited - Ordinary Shares
+(DIV) Global X Super Dividend ETF
+(RSSL) Global X Funds Global X Russell 2000 ETF
+(INZY) Inozyme Pharma, Inc. - Common Stock
+(LIVN) LivaNova PLC - Ordinary Shares
+(DSX) Diana Shipping inc. common stock
+(EPOW) Sunrise New Energy Co., Ltd - Class A Ordinary Shares
+(NAKA) Kindly MD, Inc. - Common Stock
+(AMDG) Leverage Shares 2X Long AMD Daily ETF
+(CRSH) Tidal Trust II YieldMax Short TSLA Option Income Strategy ETF
+(KSPY) KraneShares Trust KraneShares Hedgeye Hedged Equity Index ETF
+(ATMP) iPath Select MLP ETN
+(ELSE) Electro-Sensors, Inc. - Common Stock
+(XLG) Invesco S&P 500 Top 50 ETF
+(ALX) Alexander's, Inc. Common Stock
+(EVX) VanEck Environmental Services ETF
+(KRO) Kronos Worldwide Inc Common Stock
+(CPNM) Calamos ETF Trust Calamos Nasdaq-100 Structured Alt Protection ETF - March
+(CHDN) Churchill Downs, Incorporated - Common Stock
+(SHBI) Shore Bancshares, Inc. - Common Stock
+(SMCL) GraniteShares 2x Long SMCI Daily ETF
+(PBSE) PGIM S&P 500 Buffer 20 ETF - September
+(EC) Ecopetrol S.A. American Depositary Shares
+(RSPF) Invesco S&P 500 Equal Weight Financial ETF
+(UI) Ubiquiti Inc. Common Stock
+(ASAN) Asana, Inc. Class A Common Stock
+(NVAWW) Nova Minerals Limited - Warrant
+(JMSB) John Marshall Bancorp, Inc. - Common Stock
+(CPOP) Pop Culture Group Co., Ltd - Class A Ordinary Shares
+(FDIG) Fidelity Crypto Industry and Digital Payments ETF
+(BILZ) PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange-Traded Fund
+(CBNA) Chain Bridge Bancorp, Inc. Class A Common Stock
+(BURL) Burlington Stores, Inc. Common Stock
+(STOT) SPDR DoubleLine Short Duration Total Return Tactical ETF
+(TG) Tredegar Corporation Common Stock
+(GBIO) Generation Bio Co. - Common stock
+(MYMF) SPDR SSGA My2026 Municipal Bond ETF
+(PEN) Penumbra, Inc. Common Stock
+(CPSJ) Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  July
+(PNTG) The Pennant Group, Inc. - Common Stock
+(EPHE) iShares MSCI Philippines ETF
+(JPMB) JPMorgan USD Emerging Markets Sovereign Bond ETF
+(AGM) Federal Agricultural Mortgage Corporation Common Stock
+(LB) LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests
+(AMBO) Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares)
+(HGRO) ETF Opp Tr Hedgeye Quality Growth ETF
+(EW) Edwards Lifesciences Corporation Common Stock
+(SRVR) Pacer Data & Infrastructure Real Estate ETF
+(GLW) Corning Incorporated Common Stock
+(FEAM) 5E Advanced Materials, Inc. - Common Stock
+(UGL) ProShares Ultra Gold
+(IYG) iShares U.S. Financial Services ETF
+(UTI) Universal Technical Institute Inc Common Stock
+(RPM) RPM International Inc. Common Stock
+(TEC) Harbor ETF Trust Harbor Transformative Technologies ETF
+(KRNY) Kearny Financial - Common Stock
+(PKW) Invesco BuyBack Achievers ETF
+(SHUS) Exchange Listed Funds Trust Stratified LargeCap Hedged ETF
+(FDN) First Trust DJ Internet Index Fund
+(DWSN) Dawson Geophysical Company - Common Stock
+(BCHI) The 2023 ETF Series Trust II GMO Beyond China ETF
+(GRRR) Gorilla Technology Group Inc. - Ordinary shares
+(JEF) Jefferies Financial Group Inc. Common Stock
+(NWN) Northwest Natural Holding Company Common Stock
+(SFYX) SoFi Next 500 ETF
+(BBLGW) Bone Biologics Corp - warrants
+(EXAS) Exact Sciences Corporation - Common Stock
+(PLTZ) Defiance Daily Target 2x Short PLTR ETF
+(THLV) THOR Equal Weight Low Volatility ETF
+(DHCNL) Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046
+(REPX) Riley Exploration Permian, Inc. Common Stock
+(ORLY) O'Reilly Automotive, Inc. - Common Stock
+(GDMA) GadsdenA DynamicA Multi-AssetA ETF
+(IBUF) SHL Telemedicine Ltd Innovator International Developed 10 Buffer ETF - Quarterly
+(QMNV) First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Moderate Buffer ETF - November
+(HQI) HireQuest, Inc. - Common Stock
+(GYRO) Gyrodyne , LLC - Common Stock
+(BGL) Blue Gold Limited - Class A ordinary shares
+(CELZ) Creative Medical Technology Holdings, Inc. - Common Stock
+(IPG) Interpublic Group of Companies, Inc. (The) Common Stock
+(RCD) Ready Capital Corporation 9.00% Senior Notes due 2029
+(SHV) iShares Short Treasury Bond ETF
+(BTCI) NEOS ETF Trust NEOS Bitcoin High Income ETF
+(ATHR) Aether Holdings, Inc. - Common Stock
+(CDW) CDW Corporation - Common Stock
+(USFR) WisdomTree Floating Rate Treasury Fund
+(CRON) Cronos Group Inc. - Common Share
+(OSUR) OraSure Technologies, Inc. - Common Stock
+(CNSP) CNS Pharmaceuticals, Inc. - Common Stock
+(NEU) NewMarket Corp Common Stock
+(ZMAR) Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr March
+(TAVI) Tavia Acquisition Corp. - Ordinary Shares
+(FRSH) Freshworks Inc. - Class A Common Stock
+(MYMJ) SPDR SSGA My2030 Municipal Bond ETF
+(BAR) GraniteShares Gold Trust Shares of Beneficial Interest
+(NOVP) PGIM S&P 500 Buffer 12 ETF - November
+(NIVF) NewGenIvf Group Limited - Class A Ordinary Shares
+(MG) Mistras Group Inc Common Stock
+(QMAR) FT Vest Nasdaq-100 Buffer ETF - March
+(LRGF) iShares U.S. Equity Factor ETF
+(AFBI) Affinity Bancshares, Inc. - Common Stock
+(ZBAI) ATIF Holdings Limited - Ordinary Shares
+(FDIV) MarketDesk Focused U.S. Dividend ETF
+(SCCD) Sachem Capital Corp. 6.00% Notes due 2026
+(PBR) Petroleo Brasileiro S.A.- Petrobras Common Stock
+(EPRX) Eupraxia Pharmaceuticals Inc. - Common Stock
+(CHMI) Cherry Hill Mortgage Investment Corporation Common Stock
+(FAST) Fastenal Company - Common Stock
+(PAYS) Paysign, Inc. - Common Stock
+(SMIN) Ishares MSCI India Small Cap ETF
+(SOS) SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares
+(PGP) Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest
+(CRCL) Circle Internet Group, Inc. Class A Common Stock
+(JLS) Nuveen Mortgage and Income Fund
+(FEBO) Fenbo Holdings Limited - Ordinary Shares
+(GJP) Synthetic Fixed-Income Securities, Inc. on behalf of STRATS (SM) Trust for Dominion Resources, Inc. Securities, Series 2005-6, Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates
+(ACHC) Acadia Healthcare Company, Inc. - Common Stock
+(CX) Cemex, S.A.B. de C.V. Sponsored ADR
+(VLUE) iShares MSCI USA Value Factor ETF
+(COIW) Roundhill ETF Trust Roundhill COIN WeeklyPay ETF
+(CCCXU) Churchill Capital Corp X - Unit
+(OPXS) Optex Systems Holdings, Inc. - Common Stock
+(SMMT) Summit Therapeutics Inc.  - Common Stock
+(RIOX) Tidal Trust II Defiance Daily Target 2X Long RIOT ETF
+(DIA) SPDR Dow Jones Industrial Average ETF
+(WES) Western Midstream Partners, LP Common Units Representing Limited Partner Interests
+(NUS) Nu Skin Enterprises, Inc. Common Stock
+(SOVF) Elevation Series Trust Sovereign's Capital Flourish Fund
+(DDEC) FT Vest U.S. Equity Deep Buffer ETF - December
+(RSPG) Invesco S&P 500 Equal Weight Energy ETF
+(IONR) ioneer Ltd - American Depositary Shares
+(AUGT) AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Aug ETF
+(HTAB) Hartford Schroders Tax-Aware Bond ETF
+(HWH) HWH International Inc. - Common Stock
+(AOMR) Angel Oak Mortgage REIT, Inc. Common Stock
+(BIIB) Biogen Inc. - Common Stock
+(CVKD) Cadrenal Therapeutics, Inc. - Common Stock
+(EPIN) Harbor ETF Trust Harbor International Equity ETF
+(NXTE) Investment Managers Series Trust II AXS Green Alpha ETF
+(DNTH) Dianthus Therapeutics, Inc. - Common Stock
+(IBTP) iShares iBonds Dec 2034 Term Treasury ETF
+(GSBC) Great Southern Bancorp, Inc. - Common Stock
+(VIOV) Vanguard S&P Small-Cap 600 Value ETF
+(LTRN) Lantern Pharma Inc. - Common Stock
+(XOMX) Direxion Daily XOM Bull 2X Shares
+(CWS) AdvisorShares Focused Equity ETF
+(LPCN) Lipocine Inc. - Common Stock
+(HTD) John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
+(HNNAZ) Hennessy Advisors, Inc. - 4.875% Notes due 2026
+(EWA) iShares MSCI Australia Index Fund
+(ROP) Roper Technologies, Inc. - Common Stock
+(CRDT) Simplify Exchange Traded Funds Simplify Opportunistic Income ETF
+(WSC) WillScot Holdings Corporation - Class A Common Stock
+(CRSP) CRISPR Therapeutics AG - Common Shares
+(MTGP) WisdomTree Mortgage Plus Bond Fund
+(ECG) Everus Construction Group, Inc. Common Stock
+(SROI) Calamos ETF Trust Calamos Antetokounmpo Global Sustainable Equities ETF
+(KORE) KORE Group Holdings, Inc. Common Stock
+(FXE) Invesco CurrencyShares Euro Currency Trust
+(MAYZ) Listed Funds Trust TrueShares Structured Outcome (May) ETF
+(FFOG) Franklin Templeton ETF Trust Franklin Focused Growth ETF
+(HVII) Hennessy Capital Investment Corp. VII - Ordinary Shares
+(NSCR) Nuveen Sustainable Core ETF
+(SBFG) SB Financial Group, Inc. - Common Stock
+(INSE) Inspired Entertainment, Inc. - Common Stock
+(NRGU) Bank Of Montreal MicroSectors U.S. Big Oil 3 Leveraged ETNs due February 17, 2045
+(DMO) Western Asset Mortgage Opportunity Fund Inc. Common Stock
+(HUMAW) Humacyte, Inc. - Warrant
+(CODI) D/B/A Compass Diversified Holdings Shares of Beneficial Interest
+(DFII) First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy & Target Income ETF
+(STRA) Strategic Education, Inc. - Common Stock
+(IJS) iShares S&P SmallCap 600 Value ETF
+(IVW) iShares S&P 500 Growth ETF
+(MGEE) MGE Energy Inc. - Common Stock
+(NGVT) Ingevity Corporation Common Stock 
+(KLG) WK Kellogg Co Common Stock
+(BNDC) FlexShares Core Select Bond Fund
+(AKBA) Akebia Therapeutics, Inc. - Common Stock
+(TUSB) Thrivent ETF Trust Thrivent Ultra Short Bond ETF
+(RMD) ResMed Inc. Common Stock
+(TOPC) iShares Trust iShares S&P 500 3% Capped ETF
+(FTFT) Future FinTech Group Inc. - Common Stock
+(BWXT) BWX Technologies, Inc. Common Stock
+(DLX) Deluxe Corporation Common Stock
+(TDC) Teradata Corporation Common Stock
+(AISP) Airship AI Holdings, Inc - Class A Common Stock
+(THRD) Third Harmonic Bio, Inc. - Common Stock
+(AVUQ) Avantis U.S. Quality ETF
+(ELPC) Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
+(FFTY) Innovator IBD 50 ETF
+(IBTG) iShares iBonds Dec 2026 Term Treasury ETF
+(SPYV) SPDR Series Trust SPDR Portfolio S&P 500 Value ETF
+(VGUS) Vanguard Ultra-Short Treasury ETF
+(SMBS) Schwab Strategic Trust Schwab Mortgage-Backed Securities ETF
+(OSCR) Oscar Health, Inc. Class A Common Stock
+(OCTD) Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF - October
+(DAAQW) Digital Asset Acquisition Corp. - Warrant
+(JOB) GEE Group Inc. Common Stock
+(MMCA) NYLI MacKay California Muni Intermediate ETF
+(CWEN) Clearway Energy, Inc. Class C Common Stock
+(EMTY) ProShares Decline of the Retail Store ETF
+(XLO) Xilio Therapeutics, Inc. - Common Stock
+(NN) NextNav Inc. - Common stock
+(VOO) Vanguard S&P 500 ETF
+(STEC) Santech Holdings Limited - American Depositary Shares
+(RYAM) Rayonier Advanced Materials Inc. Common Stock
+(PHH) Park Ha Biological Technology Co., Ltd. - ordinary shares
+(ZROZ) PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund
+(ARL) American Realty Investors, Inc. Common Stock
+(JOJO) ATAC Credit Rotation ETF
+(IFRX) InflaRx N.V. - Common Stock
+(VLN) Valens Semiconductor Ltd. Ordinary Shares
+(PJBF) PGIM ETF Trust PGIM Jennison Better Future ETF
+(MSFX) ETF Opportunities Trust T-Rex 2X Long Microsoft Daily Target ETF
+(MMKT) Texas Capital Funds Trust Texas Capital Government Money Market ETF
+(ITDE) iShares Trust iShares LifePath Target Date 2045 ETF
+(SPDV) AAM S&P 500 High Dividend Value ETF
+(SGBX) Safe & Green Holdings Corp. - Common Stock
+(ADTN) ADTRAN Holdings, Inc. - Common Stock
+(IG) Principal Investment Grade Corporate Active ETF
+(MYCJ) SPDR SSGA My2030 Corporate Bond ETF
+(MPTI) M-tron Industries, Inc. Common Stock
+(ODYS) Odysight.ai Inc. - Common Stock
+(AIZN) Assurant, Inc. 5.25% Subordinated Notes due 2061
+(BIS) ProShares UltraShort Nasdaq Biotechnology
+(BSET) Bassett Furniture Industries, Incorporated - Common Stock
+(OVLY) Oak Valley Bancorp (CA) - Common Stock
+(BBSC) JPMorgan BetaBuilders U.S. Small Cap Equity ETF
+(BWEB) Bitwise Funds Trust Bitwise Web3 ETF
+(MSTZ) ETF Opportunities Trust T-Rex 2X Inverse MSTR Daily Target ETF
+(DTCR) Global X Data Center & Digital Infrastructure ETF
+(LUCYW) Innovative Eyewear, Inc. - Warrants
+(PSCM) Invesco S&P SmallCap Materials ETF
+(BIP) Brookfield Infrastructure Partners LP Limited Partnership Units
+(NECB) NorthEast Community Bancorp, Inc. - Common Stock
+(NVDL) GraniteShares 2x Long NVDA Daily ETF
+(HLF) Herbalife Ltd. Common Shares
+(ATMVR) AlphaVest Acquisition Corp - Right
+(MBBC) Marathon Bancorp, Inc. - Common Stock
+(VS) Versus Systems Inc. - Common Stock
+(TRIP) TripAdvisor, Inc. - Common Stock
+(SNY) Sanofi - American Depositary Shares
+(JYNT) The Joint Corp. - Common Stock
+(IDEC) Innovator ETFs Trust Innovator International Developed Power Buffer ETF  December
+(GDIV) Harbor ETF Trust Harbor Dividend Growth Leaders ETF
+(ASMG) Leverage Shares 2X Long ASML Daily ETF
+(XPAY) Roundhill ETF Trust Roundhill S&P 500 Target 20 Managed Distribution ETF
+(RM) Regional Management Corp. Common Stock
+(LCOW) Pacer Funds Trust Pacer S&P 500 Quality FCF Aristocrats ETF
+(JUNT) AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Jun ETF
+(TSLT) ETF Opportunities Trust T-REX 2X Long Tesla Daily Target ETF
+(MARA) MARA Holdings, Inc. - Common Stock
+(EVO) Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
+(NBTR) Neuberger Berman ETF Trust Neuberger Berman Total Return Bond ETF
+(MSMR) ETF Series Solutions McElhenny Sheffield Managed Risk ETF
+(MITT) AG Mortgage Investment Trust, Inc. Common Stock
+(LSAT) LeaderShares AlphaFactor Tactical Focused ETF
+(QQMG) Invesco ESG NASDAQ 100 ETF
+(IBDR) iShares iBonds Dec 2026 Term Corporate ETF
+(DRUP) GraniteShares Nasdaq Select Disruptors ETF
+(SSTI) SoundThinking, Inc. - Common Stock
+(MRK) Merck & Company, Inc. Common Stock (new)
+(EWZ) iShares Inc iShares MSCI Brazil ETF
+(ILS) ETF Opportunities Trust Brookmont Catastrophic Bond ETF
+(INVN) The Alger ETF Trust Alger Russell Innovation ETF
+(ABCB) Ameris Bancorp Common Stock
+(BMEZ) BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest
+(BTAI) BioXcel Therapeutics, Inc. - Common Stock
+(SYPR) Sypris Solutions, Inc. - Common Stock
+(HEI) Heico Corporation Common Stock
+(RH) RH Common Stock
+(BAYA) Bayview Acquisition Corp - Ordinary Share
+(CHPGR) ChampionsGate Acquisition Corporation - Rights
+(CRNT) Ceragon Networks Ltd. - Ordinary Shares
+(SNDK) Sandisk Corporation - Common Stock
+(VLY) Valley National Bancorp - Common Stock
+(FOX) Fox Corporation - Class B Common Stock
+(NGD) New Gold Inc.
+(VIOO) Vanguard S&P Small-Cap 600 ETF
+(PSTP) Innovator ETFs Trust Innovator Power Buffer Step-Up Strategy ETF
+(TPMN) The Timothy Plan Timothy Plan Market Neutral ETF
+(SCZ) iShares MSCI EAFE Small-Cap ETF
+(TOLZ) ProShares DJ Brookfield Global Infrastructure ETF
+(GJO) Synthetic Fixed-Income Securities, Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores, Inc. Securities, Series 2004-5
+(TDSB) Cabana Target Beta ETF
+(INFL) Horizon Kinetics Inflation Beneficiaries ETF
+(KG) Kestrel Group, Ltd. - Common Stock
+(CAML) Professionally Managed Portfolios Congress Large Cap Growth ETF
+(AUGP) PGIM S&P 500 Buffer 12 ETF - August
+(SCHE) Schwab Emerging Markets Equity ETF
+(FTCE) First Trust Exchange-Traded Fund VI First Trust New Constructs Core Earnings Leaders ETF
+(FTHY) First Trust High Yield Opportunities 2027 Term Fund Common Stock
+(OEF) iShares S&P 100 ETF
+(ZJUN) Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr June
+(BINT) Exchange Traded Concepts Trust Bluemonte Global Equity ETF
+(XRLV) Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF
+(FENC) Fennec Pharmaceuticals Inc. - Common Stock
+(ISVL) iShares Trust iShares International Developed Small Cap Value Factor ETF
+(DFIC) Dimensional ETF Trust Dimensional International Core Equity 2 ETF
+(BOXL) Boxlight Corporation - Class A Common Stock
+(TOLL) Tema ETF Trust Tema Monopolies and Oligopolies ETF
+(ARM) Arm Holdings plc - American Depositary Shares
+(MYPS) PLAYSTUDIOS, Inc.  - Class A Common Stock
+(NBHC) National Bank Holdings Corporation Common Stock
+(KTH) Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock
+(JPSV) J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Small Cap Value ETF
+(MEXX) Direxion Daily MSCI Mexico Bull 3X Shares
+(NXTG) First Trust Indxx NextG ETF
+(BOF) BranchOut Food Inc. - Common Stock
+(SPVM) Invesco S&P 500 Value with Momentum ETF
+(LND) Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
+(ISRLU) Israel Acquisitions Corp - Unit
+(FTI) TechnipFMC plc Ordinary Share
+(UTHY) US Treasury 30 Year Bond ETF
+(SJT) San Juan Basin Royalty Trust Common Stock
+(IBMR) iShares Trust iShares iBonds Dec 2029 Term Muni Bond ETF
+(DVAX) Dynavax Technologies Corporation - Common Stock
+(IBGL) iShares iBonds Dec 2055 Term Treasury ETF
+(AVDX) AvidXchange Holdings, Inc. - Common Stock
+(SMB) VanEck ETF Trust VanEck Short Muni ETF
+(QVML) Invesco S&P 500 QVM Multi-factor ETF
+(SSP) E.W. Scripps Company (The) - Class A Common Stock
+(WIW) Western Asset Inflation-Linked Opportunities & Income Fund
+(FLCV) Federated Hermes ETF Trust Federated Hermes MDT Large Cap Value ETF
+(LMND) Lemonade, Inc. Common Stock
+(PCQ) PIMCO California Municipal Income Fund Common Stock
+(JPLD) J.P. Morgan Exchange-Traded Fund Trust JPMorgan Limited Duration Bond ETF
+(TSPY) TappAlpha SPY Growth & Daily Income ETF
+(AMAT) Applied Materials, Inc. - Common Stock
+(VERI) Veritone, Inc. - Common Stock
+(SA) Seabridge Gold, Inc. Ordinary Shares (Canada)
+(DFAT) Dimensional U.S. Targeted Value ETF
+(VPG) Vishay Precision Group, Inc. Common Stock
+(AUUDW) Auddia Inc. - Warrants
+(UBS) UBS Group AG Registered Ordinary Shares
+(HFND) Unlimited HFND Multi-Strategy Return Tracker ETF
+(JCE) Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest
+(FET) Forum Energy Technologies, Inc. Common Stock
+(ALTY) Global X Alternative Income ETF
+(VTR) Ventas, Inc. Common Stock
+(HYMCL) Hycroft Mining Holding Corporation - Warrants
+(HBTC) Listed Funds Trust Fortuna Hedged Bitcoin Fund
+(PLTG) Leverage Shares 2X Long PLTR Daily ETF
+(FERA) Fifth Era Acquisition Corp I - Class A Ordinary Shares
+(BRID) Bridgford Foods Corporation - Common Stock
+(HBANL) Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock
+(ISSC) Innovative Solutions and Support, Inc. - Common Stock
+(GITS) Global Interactive Technologies, Inc. Common Stock - Common Stock
+(PD) PagerDuty, Inc. Common Stock
+(NNY) Nuveen New York Municipal Value Fund Common Stock
+(MKC) McCormick & Company, Incorporated Common Stock
+(HYKE) ETF Series Solutions Vest 2 Year Interest Rate Hedge ETF
+(MFDX) PIMCO Equitiy Series PIMCO RAFI Dynamic Multi-Factor International Equity ETF
+(RCGE) RockCreek Global Equality ETF
+(ICMB) Investcorp Credit Management BDC, Inc. - Common Stock
+(CCAP) Crescent Capital BDC, Inc. - Common Stock
+(CRGOW) Freightos Limited - Warrants
+(FCPI) Fidelity Stocks for Inflation ETF 
+(TPVG) TriplePoint Venture Growth BDC Corp. Common Stock
+(BFK) BlackRock Municipal Income Trust
+(TTT) ProShares UltraPro Short 20 Year Treasury
+(PRNT) 3D Printing (The) ETF
+(ORKT) Orangekloud Technology Inc. - Class A Ordinary Shares
+(EDTK) Skillful Craftsman Education Technology Limited - Ordinary Share
+(SOUX) Defiance Daily Target 2X Long SOUN ETF
+(INDY) iShares India 50 ETF
+(RVNL) GraniteShares 2x Long RIVN Daily ETF
+(NVA) Nova Minerals Limited - American Depositary Shares
+(WTRG) Essential Utilities, Inc. Common Stock
+(INBS) Intelligent Bio Solutions Inc.  - Common Stock
+(QQQT) Defiance Nasdaq 100 Income Target ETF
+(RVSN) Rail Vision Ltd. - Ordinary Shares
+(RAAX) VanEck Real Assets ETF
+(KLC) KinderCare Learning Companies, Inc. Common Stock
+(SOXY) Tidal Trust II YieldMax Target 12 Semiconductor Option Income ETF
+(FPE) First Trust Preferred Securities and Income ETF ETF
+(EWH) iShares MSCI Hong Kong Index Fund
+(AACI) Armada Acquisition Corp. II - Class A Ordinary Shares
+(IGIB) iShares 5-10 Year Investment Grade Corporate Bond ETF
+(IGR) CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest
+(JNPR) Juniper Networks, Inc. Common Stock
+(CPLS) AB Core Plus Bond ETF
+(DYN) Dyne Therapeutics, Inc. - Common Stock
+(RFI) Cohen & Steers Total Return Realty Fund, Inc. Common Stock
+(GLV) Clough Global Dividend and Income Fund Common Shares of beneficial interest
+(IEMG) iShares Core MSCI Emerging Markets ETF
+(IOBT) IO Biotech, Inc. - Common Stock
+(SMDD) UltraPro Short MidCap400
+(JANX) Janux Therapeutics, Inc. - Common Stock
+(PCIG) Litman Gregory Funds Trust Polen Capital International Growth ETF
+(GTLB) GitLab Inc. - Class A Common Stock
+(HCRB) Hartford Core Bond ETF
+(FIXT) TCW ETF Trust TCW Core Plus Bond ETF
+(TAXE) Intermediate Municipal Income ETF
+(FMF) First Trust Managed Futures Strategy Fund
+(BKCH) Global X Blockchain ETF
+(CARK) The Advisors Inner Circle Fund II CastleArk Large Growth ETF
+(DLR) Digital Realty Trust, Inc. Common Stock
+(CGMM) Capital Group Equity ETF Trust I Capital Group U.S. Small and Mid Cap ETF
+(BSGM) BioSig Technologies, Inc. - Common Stock
+(PDO) PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest
+(SMLR) Semler Scientific, Inc. - Common Stock
+(IVOO) Vanguard S&P Mid-Cap 400 ETF
+(BCDA) BioCardia, Inc. - Common Stock
+(NWPX) NWPX Infrastructure, Inc. - Common Stock
+(TSSI) TSS, Inc. - Common Stock
+(PSIG) PS International Group Ltd. - Ordinary Shares
+(LCAP) Principal Exchange-Traded Funds Principal Capital Appreciation Select ETF
+(TSMU) GraniteShares 2x Long TSM Daily ETF
+(CLDL) Direxion Daily Cloud Computing Bull 2X Shares
+(LOKVU) Live Oak Acquisition Corp. V - Units
+(RC) Ready Capital Corporation Common Stock
+(PLL) Piedmont Lithium Inc.   - Common Stock
+(SMC) Summit Midstream Corporation Common Stock
+(CHW) Calamos Global Dynamic Income Fund - Closed End Fund
+(HERD) Pacer Cash Cows Fund of Funds ETF
+(GTLS) Chart Industries, Inc. Common Stock
+(CCRD) CoreCard Corporation Common Stock
+(VOOV) Vanguard S&P 500 Value ETF
+(BCE) BCE, Inc. Common Stock
+(MLAB) Mesa Laboratories, Inc. - Common Stock
+(HMR) Heidmar Maritime Holdings Corp. - Common Stock
+(KN) Knowles Corporation Common Stock
+(EXOZ) eXoZymes Inc. - Common Stock
+(CSV) Carriage Services, Inc. Common Stock
+(KNGZ) First Trust S&P 500 Diversified Dividend Aristocrats ETF
+(FMX) Fomento Economico Mexicano S.A.B. de C.V. Common Stock
+(HTH) Hilltop Holdings Inc.
+(NAKAW) Kindly MD, Inc. - Warrants
+(XSEP) FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September
+(ZSB) USCF ETF Trust USCF Sustainable Battery Metals Strategy Fund
+(PRTC) PureTech Health plc - American Depositary Shares
+(CLOX) Eldridge AAA CLO ETF
+(BCI) abrdn Bloomberg All Commodity Strategy K-1 Free ETF
+(DOC) Healthpeak Properties, Inc. Common Stock
+(FBIN) Fortune Brands Innovations, Inc. Common Stock
+(TGNA) TEGNA Inc
+(LSCC) Lattice Semiconductor Corporation - Common Stock
+(IBGK) iShares iBonds Dec 2054 Term Treasury ETF
+(DIVI) Franklin International Core Dividend Tilt Index ETF
+(EVR) Evercore Inc. Class A Common Stock
+(UEVM) VictoryShares Emerging Markets Value Momentum ETF
+(OACP) Unified Series Trust OneAscent Core Plus Bond ETF
+(PMM) Putnam Managed Municipal Income Trust Common Stock
+(NTST) NetSTREIT Corp. Common Stock
+(TYO) Direxion Daily 10-Yr Treasury Bear 3x Shrs
+(WOLF) Wolfspeed, Inc. Common Stock
+(SGLC) The RBB Fund, Inc. SGI U.S. Large Cap Core ETF
+(ROE) Astoria US Equal Weight Quality Kings ETF
+(LUX) Tema ETF Trust Tema Luxury ETF
+(CTRI) Centuri Holdings, Inc. Common Stock
+(PLTR) Palantir Technologies Inc. - Class A Common Stock
+(MVPA) Advisor Managed Portfolios Miller Value Partners Appreciation ETF
+(NAPR) Innovator Growth-100 Power Buffer ETF - April
+(JLHL) Julong Holding Limited - Class A Ordinary Shares
+(MHNC) Maiden Holdings North America, Ltd. 7.75% Notes due 2043
+(IIGD) Invesco Investment Grade Defensive ETF
+(XOMAP) XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock
+(INN) Summit Hotel Properties, Inc. Common Stock
+(DUKB) Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078
+(BRBR) BellRing Brands, Inc. Common Stock 
+(CLWT) Euro Tech Holdings Company Limited - Ordinary Shares
+(ZJYL) JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares
+(APED) STKd 100% MSTR & 100% COIN ETF
+(STT) State Street Corporation Common Stock
+(DRRX) DURECT Corporation - Common Stock
+(ENTG) Entegris, Inc. - Common Stock
+(FDTS) First Trust Developed Markets ex-US Small Cap AlphaDEX Fund
+(CEF) Sprott Physical Gold and Silver Trust Units
+(AEIS) Advanced Energy Industries, Inc. - Common Stock
+(FRD) Friedman Industries Inc. - Common Stock
+(MBWM) Mercantile Bank Corporation - Common Stock
+(LIAT) LifeX 2059 Inflation-Protected Longevity Income ETF
+(HUBCZ) Hub Cyber Security Ltd. - Warrant
+(DZZ) DB Gold Double Short ETN due February 15, 2038
+(BAX) Baxter International Inc. Common Stock
+(TBMC) Trailblazer Merger Corporation I - Class A Common Stock
+(MBB) iShares MBS ETF
+(GOEX) Global X Gold Explorers ETF
+(SPIN) SSGA Active Trust SPDR SSGA US Equity Premium Income ETF
+(HR) Healthcare Realty Trust Incorporated Common Stock
+(ECH) iShares Inc. iShares MSCI Chile ETF
+(AUR) Aurora Innovation, Inc.  - Class A Common Stock
+(QFLR) Innovator ETFs Trust Innovator Nasdaq-100 Managed Floor ETF
+(SMN) ProShares UltraShort Materials
+(IMRX) Immuneering Corporation - Class A Common Stock
+(LZMH) LZ Technology Holdings Limited - Class B Ordinary Shares
+(DDL) Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)
+(OSIS) OSI Systems, Inc. - Common Stock
+(AAPD) Direxion Daily AAPL Bear 1X Shares
+(RDGT) Ridgetech, Inc. - Ordinary Shares
+(EWC) iShares MSCI Canada Index Fund
+(TFX) Teleflex Incorporated Common Stock
+(PWER) Macquarie ETF Trust Macquarie Energy Transition ETF
+(EMXC) iShares MSCI Emerging Markets ex China ETF
+(EONR) EON Resources Inc. Class A Common Stock
+(UE) Urban Edge Properties Common Shares of Beneficial Interest
+(COLL) Collegium Pharmaceutical, Inc. - Common Stock
+(RXO) RXO, Inc. Common Stock
+(CNFR) Conifer Holdings, Inc. - Common Stock
+(ROMO) Strategy Shares Newfound/ReSolve Robust Momentum ETF
+(PIT) VanEck ETF Trust VanEck Commodity Strategy ETF
+(RWAYL) Runway Growth Finance Corp. - 7.50% Notes due 2027
+(CNXT) VanEck ChiNext ETF
+(GLOW) VictoryShares WestEnd Global Equity ETF
+(ATFV) Alger 35 ETF
+(ENGNW) enGene Holdings Inc. - Warrants
+(DFIP) Dimensional ETF Trust Dimensional Inflation-Protected Securities ETF
+(UPSX) Tradr 2X Long QBTS Daily ETF Tradr 2X Long UPST Daily ETF
+(PABU) iShares Paris-Aligned Climate Optimized MSCI USA ETF
+(SHC) Sotera Health Company - Common Stock
+(VERB) Verb Technology Company, Inc. - Common Stock
+(ACONW) Aclarion, Inc. - Warrant
+(LNTH) Lantheus Holdings, Inc. - Common Stock
+(GRNQ) Greenpro Capital Corp. - Common Stock
+(HDUS) Lattice Strategies Trust Hartford Disciplined US Equity ETF
+(ALIL) Argent Focused Small Cap ETF
+(SPAM) Themes Cybersecurity ETF
+(FIAX) Tidal ETF Trust II Nicholas Fixed Income Alternative ETF
+(MIY) Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock
+(FXED) Sound Enhanced Fixed Income ETF
+(ASND) Ascendis Pharma A/S - American Depositary Shares
+(ETO) Eaton Vance Tax-Advantage Global Dividend Opp Common Stock
+(INDV) Indivior PLC - Ordinary Shares
+(QDCC) Global X Funds Global X S&P 500 Quality Dividend Covered Call ETF
+(WST) West Pharmaceutical Services, Inc. Common Stock
+(HBCP) Home Bancorp, Inc. - Common Stock
+(SHYM) iShares High Yield Muni Income Active ETF
+(WALD) Waldencast plc - Class A Ordinary Share
+(FIDU) Fidelity MSCI Industrials Index ETF
+(SAMT) The Advisors' Inner Circle Fund III Strategas Macro Thematic Opportunities ETF
+(JYD) Jayud Global Logistics Limited - Class A Ordinary Shares
+(PAMT) PAMT CORP - Common Stock
+(PEPS) Parametric Equity Plus ETF
+(PLUG) Plug Power, Inc. - Common Stock
+(CLVT) Clarivate Plc Ordinary Shares
+(FICS) First Trust International Developed Capital Strength ETF
+(GAME) GameSquare Holdings, Inc. - Common stock
+(SRZNW) Surrozen, Inc. - Warrant
+(IBACR) IB Acquisition Corp. - Right
+(ZEO) Zeo Energy Corporation - Class A Common Stock
+(RAFE) PIMCO RAFI ESG U.S. ETF
+(ALVO) Alvotech - Ordinary Shares
+(GENVR) Gen Digital Inc. - Contingent Value Rights
+(WAFD) WaFd, Inc. - Common Stock
+(MAT) Mattel, Inc. - Common Stock
+(PESI) Perma-Fix Environmental Services, Inc. - Common Stock
+(XLV) SPDR Select Sector Fund - Health Care
+(AXSM) Axsome Therapeutics, Inc. - Common Stock
+(DNA) Ginkgo Bioworks Holdings, Inc. Class A Common Stock
+(DRIV) Global X Autonomous & Electric Vehicles ETF
+(ERIE) Erie Indemnity Company - Class A Common Stock
+(ONBPO) Old National Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series C Preferred Stock
+(MRSN) Mersana Therapeutics, Inc. - Common Stock
+(IAUX) i-80 Gold Corp. Common Shares
+(CALM) Cal-Maine Foods, Inc. - Common Stock
+(INVH) Invitation Homes Inc. Common Stock
+(SMWB) Similarweb Ltd. Ordinary Shares
+(FLUT) Flutter Entertainment plc Ordinary Shares
+(BKMC) BNY Mellon US Mid Cap Core Equity ETF
+(HUN) Huntsman Corporation Common Stock
+(GBUG) Sprott Active Gold & Silver Miners ETF
+(RILYK) B. Riley Financial, Inc. - 5.50% Senior Notes Due 2026
+(NI) NiSource Inc Common Stock
+(MAR) Marriott International - Class A Common Stock
+(INQQ) INQQ The India Internet ETF
+(IGM) iShares Expanded Tech Sector ETF
+(KNX) Knight-Swift Transportation Holdings Inc.
+(AMZP) Kurv Yield Premium Strategy Amazon (AMZN) ETF
+(FGI) FGI Industries Ltd. - Ordinary Shares
+(ARWR) Arrowhead Pharmaceuticals, Inc. - Common Stock
+(BBDO) Banco Bradesco Sa American Depositary Shares (each representing one Common Share)
+(UVE) UNIVERSAL INSURANCE HOLDINGS INC Common Stock
+(FAUG) FT Vest U.S. Equity Buffer ETF - August
+(SPFF) Global X SuperIncome Preferred ETF
+(FTCS) First Trust Capital Strength ETF
+(DTCK) Davis Commodities Limited - Ordinary Shares
+(SHOT) Safety Shot, Inc. - Common Stock
+(OVL) Overlay Shares Large Cap Equity ETF
+(CUZ) Cousins Properties Incorporated Common Stock
+(SEIC) SEI Investments Company - Common Stock
+(ZETA) Zeta Global Holdings Corp. Class A Common Stock
+(VEMY) Virtus ETF Trust II Virtus Stone Harbor Emerging Markets High Yield Bond ETF
+(BAMG) Brookstone Growth Stock ETF
+(PRCS) Parnassus Income Funds Parnassus Core Select ETF
+(LXRX) Lexicon Pharmaceuticals, Inc. - Common Stock
+(VOXR) Vox Royalty Corp. - common stock
+(IBTH) iShares iBonds Dec 2027 Term Treasury ETF
+(VTES) Vanguard Wellington Fund Vanguard Short-Term Tax Exempt Bond ETF
+(EQNR) Equinor ASA
+(KLIC) Kulicke and Soffa Industries, Inc. - Common Stock
+(ILCB) iShares Morningstar Large-Cap ETF
+(DFGR) Dimensional ETF Trust Dimensional Global Real Estate ETF
+(ANVS) Annovis Bio, Inc. Common Stock
+(FPI) Farmland Partners Inc. Common Stock
+(BGR) BlackRock Energy and Resources Trust
+(ALGS) Aligos Therapeutics, Inc. - Common stock
+(TAN) Invesco Solar ETF
+(FNLC) First Bancorp, Inc (ME) - Common Stock
+(CARY) Angel Oak Income ETF
+(NXP) Nuveen Select Tax Free Income Portfolio Common Stock
+(NOW) ServiceNow, Inc. Common Stock
+(BIGC) BigCommerce Holdings, Inc. - Series 1 Common Stock
+(UCON) First Trust Smith Unconstrained Bond ETF
+(CTEX) ProShares S&P Kensho Cleantech ETF
+(OPRT) Oportun Financial Corporation - common stock
+(ROLR) High Roller Technologies, Inc. Common Stock
+(PMAP) PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - April
+(EZET) Franklin Ethereum ETF Franklin Ethereum ETF
+(IMTB) iShares Core 5-10 Year USD Bond ETF
+(GIFI) Gulf Island Fabrication, Inc. - Common Stock
+(GDMN) WisdomTree Trust WisdomTree Efficient Gold Plus Gold Miners Strategy Fund
+(VPV) Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)
+(ICVT) iShares Convertible Bond ETF
+(BITS) Global X Blockchain & Bitcoin Strategy ETF
+(JFBRW) Jeffs' Brands Ltd - Warrant
+(VTWV) Vanguard Russell 2000 Value ETF
+(PTF) Invesco Dorsey Wright Technology Momentum ETF
+(NNAVW) NextNav Inc. - Warrant
+(QRFT) QRAFT AI-Enhanced U.S. Large Cap ETF
+(IUS) Invesco RAFI Strategic US ETF
+(GCMGW) GCM Grosvenor Inc. - Warrant
+(PRAA) PRA Group, Inc. - Common Stock
+(HNI) HNI Corporation Common Stock
+(JVSAR) JVSPAC Acquisition Corp. - Right
+(CDE) Coeur Mining, Inc. Common Stock
+(ZENA) ZenaTech, Inc. - Common Stock
+(FDHY) Fidelity Enhanced High Yield ETF
+(ALFUU) Centurion Acquisition Corp. - Unit
+(BFRIW) Biofrontera Inc. - Warrants
+(KWM) K Wave Media, Ltd. - Ordinary Shares
+(EYPT) EyePoint Pharmaceuticals, Inc. - Common Stock
+(DBE) Invesco DB Energy Fund
+(BTSGU) BrightSpring Health Services, Inc. - Tangible Equity Unit
+(MTUL) ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN
+(SAWS) ETF Series Solutions AAM Sawgrass US Small Cap Quality Growth ETF
+(LEG) Leggett & Platt, Incorporated Common Stock
+(CMMB) Chemomab Therapeutics Ltd.  - American Depositary Shares
+(FYT) First Trust Small Cap Value AlphaDEX Fund
+(SOXS) Direxion Daily Semiconductor Bear 3x Shares
+(AVMV) American Century ETF Trust Avantis U.S. Mid Cap Value ETF
+(IBHJ) iShares Trust iShares iBonds 2030 Term High Yield and Income ETF
+(AVUS) Avantis U.S. Equity ETF
+(IBDZ) iShares Trust iShares iBonds Dec 2034 Term Corporate ETF
+(SPXT) ProShares S&P 500 Ex-Technology ETF
+(RAVI) FlexShares Ultra-Short Income Fund
+(SVT) Servotronics, Inc. Common Stock
+(PAHC) Phibro Animal Health Corporation - Class A Common Stock
+(MOFG) MidWestOne Financial Group, Inc. - Common Stock
+(ASMF) Virtus ETF Trust II Virtus AlphaSimplex Managed Futures ETF
+(KLMT) Invesco Exchange-Traded Fund Trust II Invesco MSCI Global Climate 500 ETF
+(DEEP) Acquirers Small and Micro Deep Value ETF
+(KJUL) Innovator U.S. Small Cap Power Buffer ETF - July
+(BBSI) Barrett Business Services, Inc. - Common Stock
+(BRZU) Direxion Daily Brazil Bull 2X Shares
+(TILL) Listed Funds Trust Teucrium Agricultural Strategy No K-1 ETF
+(XES) SPDR Series Trust SPDR S&P Oil & Gas Equipment & Services ETF
+(ECCC) Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031
+(SSII) SS Innovations International Inc. - Common Stock
+(CTGO) Contango ORE, Inc. Common Stock
+(OBK) Origin Bancorp, Inc. Common Stock
+(MTBA) Simplify Exchange Traded Funds Simplify MBS ETF
+(KIE) SPDR S&P Insurance ETF
+(AMCR) Amcor plc Ordinary Shares
+(CLNNW) Clene Inc. - Warrant
+(APLM) Apollomics Inc. - Class A Ordinary Shares
+(FNWD) Finward Bancorp - common stock
+(RITR) Reitar Logtech Holdings Limited - Ordinary shares
+(AWAY) Amplify ETF Trust Amplify Travel Tech ETF
+(JRVR) James River Group Holdings, Ltd. - Common Shares
+(WGMI) CoinShares Valkyrie Bitcoin Miners ETF
+(MUD) Direxion Daily MU Bear 1X Shares
+(XBI) SPDR Series Trust  SPDR S&P Biotech ETF
+(FSHPU) Flag Ship Acquisition Corp. - Unit
+(NEHC) New Era Helium Inc - Common Stock
+(IBIF) iShares Trust iShares iBonds Oct 2029 Term TIPS ETF
+(BFAM) Bright Horizons Family Solutions Inc. Common Stock
+(GLQ) Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest
+(ALTL) Pacer Lunt Large Cap Alternator ETF
+(QNST) QuinStreet, Inc. - Common Stock
+(INTL) Northern Lights Fund Trust IV Main International ETF
+(MLECW) Moolec Science SA - Warrant
+(LTTI) First Trust Exchange-Traded Fund IV FT Vest 20+ Year Treasury & Target Income ETF
+(IWR) iShares Russell Mid-Cap ETF
+(LVO) LiveOne, Inc. - Common Stock
+(ALRS) Alerus Financial Corporation - Common Stock
+(ASNS) Actelis Networks, Inc. - Common Stock
+(RDTL) GraniteShares 2x Long RDDT Daily ETF
+(GMUB) Goldman Sachs ETF Trust Goldman Sachs Municipal Income ETF
+(LAPR) Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF - April
+(CGEM) Cullinan Therapeutics, Inc. - Common Stock
+(ADC) Agree Realty Corporation Common Stock
+(EAT) Brinker International, Inc. Common Stock
+(AVPT) AvePoint, Inc. - Class A Common Stock
+(HST) Host Hotels & Resorts, Inc. - Common Stock
+(IBGA) iShares iBonds Dec 2044 Term Treasury ETF
+(CHPY) Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF
+(PX) P10, Inc. Class A Common Stock
+(BLOX) Tidal Trust II Nicholas Crypto Income ETF
+(TSQ) Townsquare Media, Inc. Class A Common Stock
+(MAPS) WM Technology, Inc. - Class A Common Stock
+(VSDA) VictoryShares Dividend Accelerator ETF
+(KIM) Kimco Realty Corporation (HC) Common Stock
+(EWZS) iShares MSCI Brazil Small-Cap ETF
+(LGLV) SPDR SSGA US Large Cap Low Volatility Index ETF
+(NMAX) Newsmax, Inc. Class B Common Stock
+(NTES) NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares
+(PT) Pintec Technology Holdings Limited - American Depositary Shares
+(SHDG) Trust For Advised Portfolios Soundwatch Hedged Equity ETF
+(OVS) Overlay Shares Small Cap Equity ETF
+(CGSD) Capital Group Short Duration Income ETF
+(PHT) Pioneer High Income Fund, Inc.
+(VRIG) Invesco Variable Rate Investment Grade ETF
+(GNTY) Guaranty Bancshares, Inc. Common Stock
+(AMZA) InfraCap MLP ETF
+(URAN) Themes ETF Trust Themes Uranium & Nuclear ETF
+(HCHL) Happy City Holdings Limited - Class A Ordinary shares
+(AGIH) iShares U.S. ETF Trust iShares Inflation Hedged U.S. Aggregate Bond ETF
+(HYS) PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund
+(SPYH) NEOS ETF Trust NEOS S&P 500 Hedged Equity Income ETF
+(APLMW) Apollomics Inc. - Warrant
+(FHTX) Foghorn Therapeutics Inc. - Common Stock
+(FVR) FrontView REIT, Inc. Common Stock
+(TRNS) Transcat, Inc. - Common Stock
+(HOVNP) Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock
+(GXUS) Goldman Sachs ETF Trust II Goldman Sachs MarketBeta Total International Equity ETF
+(NETDU) Nabors Energy Transition Corp. II - Unit
+(FNGS) MicroSectors FANG  ETNs due January 8, 2038
+(VVOS) Vivos Therapeutics, Inc. - Common Stock
+(FINE) Themes European Luxury ETF
+(RILYT) B. Riley Financial, Inc. - 6.00% Senior Notes Due 2028
+(GNLN) Greenlane Holdings, Inc. - Class A Common Stock
+(TEI) Templeton Emerging Markets Income Fund, Inc. Common Stock
+(JBND) J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Bond ETF
+(PRFX) PainReform Ltd. - Ordinary Shares
+(SPGP) Invesco S&P 500 GARP ETF
+(BJ) BJ's Wholesale Club Holdings, Inc. Common Stock
+(NTRSO) Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock
+(EPD) Enterprise Products Partners L.P. Common Stock
+(OPEN) Opendoor Technologies Inc  - Common Stock
+(GOTU) Gaotu Techedu Inc. American Depositary Shares
+(MYE) Myers Industries, Inc. Common Stock
+(SNAV) Collaborative Investment Series Trust Mohr Sector Nav ETF
+(SANM) Sanmina Corporation - Common Stock
+(PRF) Invesco RAFI US 1000 ETF
+(AGGY) WisdomTree Yield Enhanced U.S. Aggregate Bond Fund
+(KMAY) Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - May
+(ROAD) Construction Partners, Inc. - Common Stock
+(PRIV) SPDR SSGA IG Public & Private Credit ETF
+(GLXY) Galaxy Digital Inc. - Class A common stock
+(COPL) Copley Acquisition Corp Ordinary Shares
+(LPA) Logistic Properties of the Americas Ordinary Shares
+(PCFI) FundVantage Trust Polen Floating Rate Income ETF
+(WHF) WhiteHorse Finance, Inc. - Closed End Fund
+(GFLW) VictoryShares Free Cash Flow Growth ETF
+(BPAY) iShares FinTech Active ETF
+(PGX) Invesco Preferred ETF
+(WTTR) Select Water Solutions, Inc. Class A common stock
+(DSM) BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock
+(BAYAU) Bayview Acquisition Corp - Unit
+(CGNT) Cognyte Software Ltd. - Ordinary Shares
+(WPRT) Westport Fuel Systems Inc - Common Shares
+(PBOC) PGIM S&P 500 Buffer 20 ETF - October
+(SQNS) Sequans Communications S.A. American Depositary Shares (each representing ten (10) Ordinary Shares)
+(INEQ) Columbia International Equity Income ETF
+(OLO) Olo Inc. Class A Common Stock
+(LOCO) El Pollo Loco Holdings, Inc. - Common Stock
+(HPS) John Hancock Preferred Income Fund III Preferred Income Fund III
+(AUDC) AudioCodes Ltd. - Ordinary Shares
+(LBRDA) Liberty Broadband Corporation - Class A Common Stock
+(SPBU) AIM ETF Products Trust AllianzIM Buffer15 Uncapped Allocation ETF
+(DHC) Diversified Healthcare Trust  - Common Shares of Beneficial Interest
+(PMTRU) Perimeter Acquisition Corp. I - Unit
+(ZENV) Zenvia Inc. - Class A Common Stock
+(NAIL) Direxion Daily Homebuilders & Supplies Bull 3X Shares
+(MSI) Motorola Solutions, Inc. Common Stock
+(GFEB) FT Vest U.S. Equity Moderate Buffer ETF - February
+(TRFM) ETF Series Solutions AAM Transformers ETF
+(WNTR) Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF
+(UTSI) UTStarcom Holdings Corp - Ordinary Shares
+(NNNN) Anbio Biotechnology - Class A Ordinary Shares
+(QMOM) Alpha Architect U.S. Quantitative Momentum ETF
+(FTXN) First Trust Nasdaq Oil & Gas ETF
+(NIO) NIO Inc. American depositary shares, each  representing one Class A ordinary share
+(FBLG) FibroBiologics, Inc. - Common Stock
+(VLTO) Veralto Corp Common Stock 
+(VCSH) Vanguard Short-Term Corporate Bond ETF
+(IFS) Intercorp Financial Services Inc. Common Shares
+(FBCG) Fidelity Blue Chip Growth ETF
+(EBR) Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share)
+(JBL) Jabil Inc. Common Stock
+(ASTLW) Algoma Steel Group Inc. - Warrant
+(VNSE) Natixis Vaughan Nelson Select ETF
+(BOKF) BOK Financial Corporation - Common Stock
+(FDP) Fresh Del Monte Produce, Inc. Common Stock
+(AKR) Acadia Realty Trust Common Stock
+(DH) Definitive Healthcare Corp. - Class A Common Stock
+(UXIN) Uxin Limited - American Depositary Shares
+(NLSP) NLS Pharmaceutics Ltd. - Common Shares
+(FLCB) Franklin U.S. Core Bond ETF
+(BRBS) Blue Ridge Bankshares, Inc. Common Stock
+(OGE) OGE Energy Corp Common Stock
+(YHC) LQR House Inc. - Common Stock
+(GINN) Goldman Sachs Innovate Equity ETF
+(SNPE) Xtrackers S&P 500 Scored & Screened ETF
+(VTV) Vanguard Value ETF
+(WIA) Western Asset Inflation-Linked Income Fund
+(BALT) Innovator Defined Wealth Shield ETF
+(WRBY) Warby Parker Inc. Class A Common Stock
+(CGGO) Capital Group Global Growth Equity ETF
+(KRRO) Korro Bio, Inc. - Common Stock
+(EGGY) NestYield Dynamic Income ETF
+(UFEB) Innovator U.S. Equity Ultra Buffer ETF - February
+(ESN) Essential 40 Stock ETF
+(KAPA) Kairos Pharma, Ltd. Common Stock
+(PJAN) Innovator U.S. Equity Power Buffer ETF - January
+(CSIQ) Canadian Solar Inc. - Common Shares
+(NOTV) Inotiv, Inc. - Common Stock
+(AIRJW) AirJoule Technologies Corporation - Warrant
+(LITM) Snow Lake Resources Ltd. - Common Shares
+(AXS) Axis Capital Holdings Limited Common Stock
+(MGC) Vanguard Mega Cap ETF
+(EMB) iShares J.P. Morgan USD Emerging Markets Bond ETF
+(GENT) Spinnaker ETF Series Genter Capital Taxable Quality Intermediate ETF
+(WETH) Wetouch Technology Inc. - Common Stock
+(INBKZ) First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029
+(BLCO) Bausch + Lomb Corporation Common Shares
+(SGOV) iShares 0-3 Month Treasury Bond ETF
+(PJIO) PGIM ETF Trust PGIM Jennison International Opportunities ETF
+(CGHM) Capital Group Municipal High-Income ETF
+(FE) FirstEnergy Corp. Common Stock
+(MVO) MV Oil Trust Units of Beneficial Interests
+(SIFY) Sify Technologies Limited - American Depository Shares, each represented by one Equity Share
+(ORKA) Oruka Therapeutics, Inc. - Common Stock
+(MNPR) Monopar Therapeutics Inc. - Common Stock
+(OPRA) Opera Limited - American Depositary Shares
+(SNT) Senstar Technologies Corporation - Common Shares
+(IOT) Samsara Inc. Class A Common Stock
+(HLAL) Wahed FTSE USA Shariah ETF
+(PIZ) Invesco Dorsey Wright Developed Markets Momentum ETF
+(BUI) BlackRock Utility, Infrastructure & Power Opportunities Trust
+(INFY) Infosys Limited American Depositary Shares
+(NTSI) WisdomTree Trust WisdomTree International Efficient Core Fund
+(GBIL) Goldman Sachs Access Treasury 0-1 Year ETF
+(SURI) Simplify Exchange Traded Funds Simplify Propel Opportunities ETF
+(DAICW) CID HoldCo, Inc. - Warrants
+(CIFRW) Cipher Mining Inc. - Warrant
+(CREVW) Carbon Revolution Public Limited Company - Warrant
+(VANI) Vivani Medical, Inc.  - Common Stock
+(ARI) Apollo Commercial Real Estate Finance, Inc
+(FL) Foot Locker, Inc.
+(ASLV) Allspring Exchange-Traded Funds Trust Allspring Special Large Value ETF
+(MATW) Matthews International Corporation - Class A Common Stock
+(TXS) Texas Capital Funds Trust Texas Capital Texas Equity Index ETF
+(GTIP) Goldman Sachs Access Inflation Protected USD Bond ETF
+(MAYM) First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - May
+(RSPS) Invesco S&P 500 Equal Weight Consumer Staples ETF  
+(CMCO) Columbus McKinnon Corporation - Common Stock
+(RLX) RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class A ordinary share
+(CHPT) ChargePoint Holdings, Inc. Common Stock
+(MTN) Vail Resorts, Inc. Common Stock
+(NBSM) Neuberger Berman ETF Trust Neuberger Berman Small-Mid Cap ETF
+(CDRO) Codere Online Luxembourg, S.A. - Ordinary Shares
+(KRKR) 36Kr Holdings Inc. - American Depositary Shares
+(DIAL) Columbia Diversified Fixed Income Allocation ETF
+(ESAB) ESAB Corporation Common Stock
+(AZI) Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares
+(ACA) Arcosa, Inc. Common Stock 
+(ASPS) Altisource Portfolio Solutions S.A. - Common Stock
+(KKRS) KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061
+(LGOV) First Trust Long Duration Opportunities ETF
+(VOT) Vanguard Mid-Cap Growth ETF
+(BGY) Blackrock Enhanced International Dividend Trust
+(VAC) Marriott Vacations Worldwide Corporation Common Stock
+(IGSB) iShares 1-5 Year Investment Grade Corporate Bond ETF
+(FNDX) Schwab Fundamental U.S. Large Company ETF
+(GAINZ) Gladstone Investment Corporation - 4.875% Notes due 2028
+(ZLAB) Zai Lab Limited - American Depositary Shares
+(GHI) Greystone Housing Impact Investors LP Beneficial Unit Certificates representing assignments of limited partnership interests
+(HSPOW) Horizon Space Acquisition I Corp. - Warrant
+(SFBS) ServisFirst Bancshares, Inc. Common Stock
+(XENE) Xenon Pharmaceuticals Inc. - Common Shares
+(OCCIO) OFS Credit Company, Inc. - 6.125% Series C Term Preferred Stock
+(TORO) Toro Corp. - Common stock
+(EXTR) Extreme Networks, Inc. - Common Stock
+(OPTX) Syntec Optics Holdings, Inc. - Class A Common Stock
+(MAMO) Massimo Group - Common Stock
+(LPL) LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
+(PMMR) PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - March
+(PKOH) Park-Ohio Holdings Corp. - Common Stock
+(RAYA) Erayak Power Solution Group Inc. - Class A Ordinary Shares
+(WDAY) Workday, Inc. - Class A Common Stock
+(THMZ) Lazard Equity Megatrends ETF
+(GLMD) Galmed Pharmaceuticals Ltd. - Ordinary Shares
+(OSBC) Old Second Bancorp, Inc. - Common Stock
+(KOD) Kodiak Sciences Inc - Common Stock
+(FVNNR) Future Vision II Acquisition Corporation - Right
+(DCOM) Dime Community Bancshares, Inc. - Common Stock
+(KMPR) Kemper Corporation
+(CINGW) Cingulate Inc. - Warrants
+(MUJ) Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock
+(CAMX) The Advisors Inner Circle Fund Cambiar Aggressive Value ETF
+(IAC) IAC Inc. - Common Stock
+(GNLX) Genelux Corporation - Common Stock
+(SOHON) Sotherly Hotels Inc. - 8.25% Series D Cumulative Redeemable Perpetual Preferred Stock
+(DEHP) Dimensional ETF Trust Dimensional Emerging Markets High Profitability ETF
+(RDTE) Roundhill Russell 2000 0DTE Covered Call Strategy ETF
+(GBTG) Global Business Travel Group, Inc. Class A Common Stock
+(CRDL) Cardiol Therapeutics Inc. - Class A Common Shares
+(HBT) HBT Financial, Inc. - Common Stock
+(GTENW) Gores Holdings X, Inc. - Warrants
+(AKAM) Akamai Technologies, Inc. - Common Stock
+(BKHA) Black Hawk Acquisition Corporation - Class A Ordinary Shares
+(JBSS) John B. Sanfilippo & Son, Inc. - Common Stock
+(BFAP) First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy Floor15 ETF   April
+(FNGO) MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038
+(GPRF) Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF
+(BIDD) iShares International Dividend Active ETF
+(AEP) American Electric Power Company, Inc. - Common Stock
+(PAWZ) ProShares Pet Care ETF
+(TRTY) Cambria Trinity ETF
+(ROPE) EA Series Trust Coastal Compass 100 ETF
+(GLUE) Monte Rosa Therapeutics, Inc. - Common Stock
+(PCLO) Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF
+(GBLD) Invesco MSCI Green Building ETF
+(SOXL) Direxion Daily Semiconductor Bull 3x Shares
+(RENT) Rent the Runway, Inc. - Class A Common Stock
+(EVMT) Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF
+(KMB) Kimberly-Clark Corporation - Common Stock
+(BRAZ) Global X Funds Global X Brazil Active ETF
+(XBJA) Innovator ETFs Trust Innovator U.S. Equity Accelerated 9 Buffer ETF - January
+(ALGM) Allegro MicroSystems, Inc. - Common Stock
+(FRST) Primis Financial Corp. - Common Stock
+(FITBO) Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K
+(TAXM) BondBloxx ETF Trust BondBloxx IR+M Tax-Aware ETF for Massachusetts Residents
+(CLRB) Cellectar Biosciences, Inc. - Common Stock
+(TBH) Brag House Holdings, Inc. - Common Stock
+(SAIA) Saia, Inc. - Common Stock
+(MBSF) Valued Advisers Trust Regan Floating Rate MBS ETF
+(STZ) Constellation Brands, Inc. Common Stock
+(YJUN) FT Vest International Equity Moderate Buffer ETF - June
+(SSYS) Stratasys, Ltd. - Common Stock
+(FEDU) Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares
+(PSMO) Pacer Swan SOS Moderate (October) ETF
+(VSA) TCTM Kids IT Education Inc. - American Depositary Shares
+(GLPI) Gaming and Leisure Properties, Inc. - Common Stock
+(FOXY) Simplify Exchange Traded Funds Simplify Currency Strategy ETF
+(OCTZ) TrueShares Structured Outcome (October) ETF
+(DBB) Invesco DB Base Metals Fund
+(NTZ) Natuzzi, S.p.A.
+(LLY) Eli Lilly and Company Common Stock
+(GSM) Ferroglobe PLC - Ordinary Shares
+(NBH) Neuberger Berman Municipal Fund Inc. Common Stock
+(SNOU) ETF Opp Tr T-REX 2X Long SNOW Daily Target ETF
+(IMMR) Immersion Corporation - Common Stock
+(PRMB) Primo Brands Corporation Class A Common Stock
+(USCA) DBX ETF Trust Xtrackers MSCI USA Climate Action Equity ETF
+(ZTAX) X-Square Municipal Income ETF
+(VRA) Vera Bradley, Inc. - Common Stock
+(ENFY) Enlightify Inc. Common Stock
+(KPRO) KraneShares 100% KWEB Defined Outcome January 2027 ETF
+(BNDX) Vanguard Total International Bond ETF
+(NEOV) NeoVolta Inc. - Common Stock
+(DHR) Danaher Corporation Common Stock
+(DLTR) Dollar Tree, Inc. - Common Stock
+(VYLD) J P Morgan Chase & Co Inverse VIX  Short-Term Futures ETNs due March 22, 2045
+(KDEF) Exchange Listed Funds Trust PLUS Korea Defense Industry Index ETF
+(BSJP) Invesco BulletShares 2025 High Yield Corporate Bond ETF
+(VERX) Vertex, Inc. - Class A Common Stock
+(DYNF) iShares U.S. Equity Factor Rotation Active ETF
+(DBND) DoubleLine Opportunistic Core Bond ETF
+(FPH) Five Point Holdings, LLC Class A Common Shares
+(XRT) SPDR S&P Retail ETF
+(PHM) PulteGroup, Inc. Common Stock
+(EBC) Eastern Bankshares, Inc. - Common Stock
+(EXPE) Expedia Group, Inc. - Common Stock
+(BVFL) BV Financial, Inc. - Common Stock
+(AYI) Acuity Inc. Common Stock
+(BBBL) BondBloxx ETF Trust BondBloxx BBB Rated 10+ Year Corporate Bond ETF
+(TMDX) TransMedics Group, Inc. - Common Stock
+(MNTN) MNTN, Inc. Class A Common Stock
+(ABCL) AbCellera Biologics Inc. - Common Shares
+(BAC) Bank of America Corporation Common Stock
+(FXO) First Trust Financials AlphaDEX
+(JCI) Johnson Controls International plc Ordinary Share
+(OLN) Olin Corporation Common Stock
+(PBMR) PGIM S&P 500 Buffer 20 ETF - March
+(GFL) GFL Environmental Inc. Subordinate voting shares, no par value
+(ADSE) ADS-TEC ENERGY PLC - Ordinary Shares
+(UMBFP) UMB Financial Corporation - Depositary Shares, each representing a 1/400th of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock
+(AINP) Allspring Exchange-Traded Funds Trust Allspring Income Plus ETF
+(EHC) Encompass Health Corporation Common Stock
+(IDCC) InterDigital, Inc. - Common Stock
+(HEAL) Global X HealthTech ETF
+(DATSW) DatChat, Inc. - Series A Warrant
+(NBTB) NBT Bancorp Inc. - Common Stock
+(VONE) Vanguard Russell 1000 ETF
+(FTRB) Federated Hermes ETF Trust Federated Hermes Total Return Bond ETF
+(VSHY) Virtus Newfleet Short Duration High Yield Bond ETF
+(VLYPO) Valley National Bancorp - 5.5% Fixed to Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
+(NIOBW) NioCorp Developments Ltd. - Warrant
+(LULU) lululemon athletica inc. - Common Stock
+(QSI) Quantum-Si Incorporated - Class A Common Stock
+(SUNS) Sunrise Realty Trust, Inc. - Common Stock
+(PHD) Pioneer Floating Rate Fund, Inc.
+(TSPX) Manager Directed Portfolios Twin Oak Active Opportunities ETF
+(EAOK) iShares ESG Aware 30/70 Conservative Allocation ETF
+(MXE) Mexico Equity and Income Fund, Inc. (The) Common Stock
+(CIA) Citizens, Inc. Class A Common Stock ($1.00 Par)
+(WH) Wyndham Hotels & Resorts, Inc. Common Stock 
+(BV) BrightView Holdings, Inc. Common Stock
+(CARM) Carisma Therapeutics, Inc. - Common Stock
+(OCTP) PGIM S&P 500 Buffer 12 ETF - October
+(BANX) ArrowMark Financial Corp. - Closed End Fund
+(WCMI) First Trust Exchange-Traded Fund First Trust WCM International Equity ETF
+(CFR) Cullen/Frost Bankers, Inc. Common Stock
+(FINS) Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
+(FGMCR) FG Merger II Corp. - Rights
+(QBTS) D-Wave Quantum Inc. Common Shares
+(HLI) Houlihan Lokey, Inc. Class A Common Stock
+(GSIB) Themes Global Systemically Important Banks ETF
+(HMY) Harmony Gold Mining Company Limited
+(BBBI) BondBloxx ETF Trust BondBloxx BBB Rated 5-10 Year Corporate Bond ETF
+(PAB) PGIM Active Aggregate Bond ETF
+(CCCM) Columbus Circle Capital Corp I - Class A Ordinary Shares
+(OCFS) Professionally Managed Portfolios Otter Creek Focus Strategy ETF
+(IPA) ImmunoPrecise Antibodies Ltd. - Common Stock
+(ELWS) Earlyworks Co., Ltd. - American Depositary Shares
+(RSSE) First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Equal Weight Buffer ETF  September
+(ZGN) Ermenegildo Zegna N.V. Ordinary Shares
+(FXB) Invesco CurrencyShares British Pound Sterling Trust
+(LFAR) LifeX 2057 Longevity Income ETF
+(APD) Air Products and Chemicals, Inc. Common Stock
+(SLE) Super League Enterprise, Inc. - Common Stock
+(SNTI) Senti Biosciences, Inc.  - Common Stock
+(VRAI) Virtus Real Asset Income ETF
+(XSVM) Invesco S&P SmallCap Value with Momentum ETF
+(DECT) AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Dec ETF
+(VTIP) Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares
+(TRIN) Trinity Capital Inc. - Common Stock
+(CHRO) Channel Therapeutics Corporation Common Stock
+(TOMZ) TOMI Environmental Solutions, Inc. - Common Stock
+(WANT) Direxion Daily Consumer Discretionary Bull 3X Shares
+(QIPT) Quipt Home Medical Corp. - Common Shares
+(XYZ) Block, Inc. Class A Common Stock,
+(TMSL) T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Small-Mid Cap ETF
+(EWS) iShares Inc iShares MSCI Singapore ETF
+(MANU) Manchester United Ltd. Class A Ordinary Shares
+(VACHU) Voyager Acquisition Corp - Unit
+(CHYM) Chime Financial, Inc. - Class A Common Stock
+(ATOM) Atomera Incorporated - Common Stock
+(NWG) NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)
+(EFFE) Harbor ETF Trust Harbor Osmosis Emerging Markets Resource Efficient ETF
+(FREL) Fidelity MSCI Real Estate Index ETF
+(LIEN) Chicago Atlantic BDC, Inc. - Common Stock
+(CNRG) SPDR S&P Kensho Clean Power ETF
+(CVNY) Tidal Trust II YieldMax CVNA Option Income Strategy ETF
+(EFSC) Enterprise Financial Services Corporation - Common Stock
+(ROKU) Roku, Inc. - Class A Common Stock
+(BNY) BlackRock New York Municipal Income Trust
+(EVSM) Morgan Stanley ETF Trust Eaton Vance Short Duration Municipal Income ETF
+(NVIR) Listed Funds Trust Horizon Kinetics Energy and Remediation ETF
+(REZ) iShares Residential and Multisector Real Estate ETF
+(UNF) Unifirst Corporation Common Stock
+(ATRC) AtriCure, Inc. - Common Stock
+(VBIL) Vanguard 0-3 Month Treasury Bill ETF
+(ZWS) Zurn Elkay Water Solutions Corporation Common Stock
+(SXQG) ETC 6 Meridian Quality Growth ETF
+(SCCR) Schwab Strategic Trust Schwab Core Bond ETF
+(GBLI) Global Indemnity Group, LLC Class A Common Stock (DE)
+(BJRI) BJ's Restaurants, Inc. - Common Stock
+(NPWR) NET Power Inc. Class A Common Stock
+(DTW) DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077
+(ITUB) Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
+(EP) Empire Petroleum Corporation Common Stock
+(SCOR) comScore, Inc. - Common Stock
+(FNDA) Schwab Fundamental U.S. Small Company ETF
+(STC) Stewart Information Services Corporation Common Stock
+(SCI) Service Corporation International Common Stock
+(CPNQ) Calamos ETF Trust Calamos Nasdaq-100 Structured Alt Protection ETF  December
+(STWD) STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.
+(VEGN) US Vegan Climate Index
+(MAXN) Maxeon Solar Technologies, Ltd. - Ordinary Shares
+(ELBM) Electra Battery Materials Corporation - Common Stock
+(COHN) Cohen & Company Inc.
+(QFIN) Qifu Technology, Inc - American Depositary Shares
+(CHEK) Check-Cap Ltd. - Ordinary Share
+(GEL) Genesis Energy, L.P. Common Units
+(GLU) Gabelli Global Utility Common Shares of Beneficial Ownership
+(CMP) Compass Minerals Intl Inc Common Stock
+(FTWO) Strive Natural Resources and Security ETF
+(STHH) Precidian ETFs Trust STMicroelectronics NV ADRhedged
+(DTRE) First Trust Alerian Disruptive Technology Real Estate ETF
+(LIXT) Lixte Biotechnology Holdings, Inc. - Common Stock
+(GS) Goldman Sachs Group, Inc. (The) Common Stock
+(INM) InMed Pharmaceuticals Inc. - Common Shares
+(BAER) Bridger Aerospace Group Holdings, Inc. - Common Stock
+(XYLD) Global X Funds Global X S&P 500 Covered Call ETF
+(COR) Cencora, Inc. Common Stock
+(TNDM) Tandem Diabetes Care, Inc. - Common Stock
+(XP) XP Inc. - Class A Common Stock
+(LST) Managed Portfolio Series Leuthold Select Industries ETF
+(BNH) Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080
+(NTSE) WisdomTree Trust WisdomTree Emerging Markets Efficient Core Fund
+(MTCH) Match Group, Inc. - Common Stock
+(JMHI) J.P. Morgan Exchange-Traded Fund Trust JPMorgan High Yield Municipal ETF
+(MEG) Montrose Environmental Group, Inc. Common Stock
+(AFCG) Advanced Flower Capital Inc. - Common Stock
+(IDU) iShares U.S. Utilities ETF
+(GLDY) Defiance Gold Enhanced Options Income ETF
+(HRI) Herc Holdings Inc. Common Stock 
+(BCTXZ) BriaCell Therapeutics Corp. - Warrant
+(ACIO) Aptus Collared Investment Opportunity ETF
+(SHYG) iShares 0-5 Year High Yield Corporate Bond ETF
+(BZAI) Blaize Holdings, Inc. - Common Stock
+(EG) Everest Group, Ltd. Common Stock
+(UUP) Invesco DB USD Index Bullish Fund ETF
+(HBANP) Huntington Bancshares Incorporated - Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock
+(HTLM) HomesToLife Ltd - Ordinary Shares
+(BOWNR) Bowen Acquisition Corp - Rights
+(SMLV) SPDR SSGA US Small Cap Low Volatility Index ETF
+(AGZD) WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund
+(SMR) NuScale Power Corporation Class A Common Stock
+(DB) Deutsche Bank AG Common Stock
+(HIW) Highwoods Properties, Inc. Common Stock
+(IRVH) Global X Funds Global X Interest Rate Volatility & Inflation Hedge ETF
+(FSBC) Five Star Bancorp - Common Stock
+(WTO) UTime Limited - Ordinary Shares
+(MYCK) SPDR SSGA My2031 Corporate Bond ETF
+(BALY) Bally's Corporation Common Stock
+(CCCMU) Columbus Circle Capital Corp I - Units
+(DVA) DaVita Inc. Common Stock
+(AMIX) Autonomix Medical, Inc. - Common Stock
 (EMN) Eastman Chemical Company Common Stock
-(PETWW) Wag! Group Co. - Warrant
-(BDIV) ETF Series Solutions AAM Brentview Dividend Growth ETF
-(SOBO) South Bow Corporation Common Shares
-(TUGN) STF Tactical Growth & Income ETF
+(DWLD) Davis Fundamental ETF Trust Davis Select Worldwide ETF
+(IOVA) Iovance Biotherapeutics, Inc. - Common Stock
+(BRO) Brown & Brown, Inc. Common Stock
+(SHIP) Seanergy Maritime Holdings Corp. - Common Stock
+(CGXU) Capital Group International Focus Equity ETF
+(CTVA) Corteva, Inc. Common Stock 
+(EPSB) Harbor ETF Trust Harbor SMID Cap Core ETF
+(FXC) Invesco CurrencyShares Canadian Dollar Trust
+(MCHP) Microchip Technology Incorporated - Common Stock
+(MJ) Amplify ETF Trust Amplify Alternative Harvest ETF
+(RPHS) Two Roads Shared Trust Regents Park Hedged Market Strategy ETF
+(WOR) Worthington Enterprises, Inc. Common Shares
+(WMB) Williams Companies, Inc. (The) Common Stock
+(COO) The Cooper Companies, Inc.  - Common Stock
+(LSEQ) Harbor ETF Trust Harbor Long-Short Equity ETF
+(PAC) Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
+(PFAI) Pinnacle Food Group Limited - Class A Common Shares
+(THFF) First Financial Corporation  - Common Stock
+(TDACU) Translational Development Acquisition Corp. - Units
+(EEV) ProShares UltraShort MSCI Emerging Markets
+(SSXU) Day Hagan Smart Sector International ETF
+(GGROW) Gogoro Inc. - Warrant
+(BLDR) Builders FirstSource, Inc. Common Stock
+(BKHAU) Black Hawk Acquisition Corporation - Units
+(RBLX) Roblox Corporation Class A Common Stock
+(SPBW) AIM ETF Products Trust AllianzIM Buffer20 Allocation ETF
+(RMT) Royce Micro-Cap Trust, Inc. Common Stock
+(EEMS) iShares MSCI Emerging Markets Small Cap ETF
+(AUGM) First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - August
+(NGNE) Neurogene Inc. - Common Stock
+(QQQA) ProShares Nasdaq-100 Dorsey Wright Momentum ETF
+(QDEC) FT Vest Nasdaq-100 Buffer ETF - December
+(FMB) First Trust Managed Municipal ETF
+(PNFPP) Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B
+(EVRG) Evergy, Inc. - Common Stock
+(RIBB) Ribbon Acquisition Corp - Class A Ordinary Shares
+(PBMY) PGIM S&P 500 Buffer 20 ETF - May
+(FMHI) First Trust Municipal High Income ETF
+(COST) Costco Wholesale Corporation - Common Stock
+(ASHS) Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF
+(SKYU) ProShares Ultra Cloud Computing
+(CLSK) CleanSpark, Inc. - Common Stock
+(TACOW) Berto Acquisition Corp. - Warrant
+(CXT) Crane NXT, Co. Common Stock
+(EMCG) Embrace Change Acquisition Corp - Ordinary Shares
+(QCLN) First Trust NASDAQ Clean Edge Green Energy Index Fund
+(ABVEW) Above Food Ingredients Inc. - Warrant
+(NVDA) NVIDIA Corporation - Common Stock
+(OGI) Organigram Global Inc. - Common Shares
+(FVD) First Trust VL Dividend
+(LZB) La-Z-Boy Incorporated Common Stock
+(TBN) Tamboran Resources Corporation Common stock
+(FLEX) Flex Ltd. - Ordinary Shares
+(QQQI) NEOS Nasdaq 100 High Income ETF
+(CVEO) Civeo Corporation (Canada) Common Shares
+(PRTS) CarParts.com, Inc. - Common Stock
+(SPOK) Spok Holdings, Inc. - Common Stock
+(WKHS) Workhorse Group, Inc. - Common Stock
+(RIO) Rio Tinto Plc Common Stock
+(HSII) Heidrick & Struggles International, Inc. - Common Stock
+(VDE) Vanguard Energy ETF
+(IDAI) T Stamp Inc. - Class A Common Stock
+(XXCH) Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares
+(CANQ) Calamos Nasdaq Equity & Income ETF
+(DLTH) Duluth Holdings Inc. - Class B Common Stock
+(MMYT) MakeMyTrip Limited - Ordinary Shares
+(BAMU) Brookstone Ultra-Short Bond ETF
+(SLDP) Solid Power, Inc. - Class A Common Stock
+(MDEV) First Trust Indxx Medical Devices ETF
+(LFAF) LifeX 2049 Longevity Income ETF
+(VYM) Vanguard High Dividend Yield ETF
+(GOP) Unusual Whales Subversive Republican Trading ETF
+(OACCW) Oaktree Acquisition Corp. III Life Sciences - Warrant
+(NNDM) Nano Dimension Ltd. - American Depositary Shares
+(AMTD) AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares
+(GJH) Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1
+(MARU) AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF
+(GGLS) Direxion Daily GOOGL Bear 1X Shares
+(KZR) Kezar Life Sciences, Inc. - Common Stock
+(METU) Direxion Daily META Bull 2X Shares
+(EICB) Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028
+(BPMC) Blueprint Medicines Corporation - Common Stock
+(DYLD) LeaderShares Dynamic Yield ETF
+(TTEQ) T. Rowe Price Technology ETF
+(NXTI) Simplify Exchange Traded Funds Simplify Next Intangible Core Index ETF
+(PJT) PJT Partners Inc. Class A Common Stock
+(FEBM) First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - February
+(XELB) Xcel Brands, Inc - Common Stock
+(CCIRU) Cohen Circle Acquisition Corp. I - Unit
+(NWTG) Newton Golf Company, Inc. - Common Stock
+(FMFC) Kandal M Venture Limited - Class A ordinary Shares
+(SEB) Seaboard Corporation Common Stock
+(XYLG) Global X S&P 500 Covered Call & Growth ETF
+(RMBS) Rambus, Inc. - Common Stock
+(INSM) Insmed Incorporated - Common Stock
+(CAAP) Corporacion America Airports SA Common Shares
+(BAFE) Brown Advisory Flexible Equity ETF
+(PSCF) Invesco S&P SmallCap Financials ETF
+(GSHD) Goosehead Insurance, Inc. - Class A Common Stock
+(FCEL) FuelCell Energy, Inc. - Common Stock
+(SBET) SharpLink Gaming, Inc. - Common Stock
+(VNRX) VolitionRX Limited Common Stock
+(FDMO) Fidelity Momentum Factor ETF
+(KOID) KraneShares Global Humanoid and Embodied Intelligence Index ETF
+(STAA) STAAR Surgical Company - Common Stock
+(FLSA) Franklin FTSE Saudi Arabia ETF
+(ULE) ProShares Ultra Euro
+(AJG) Arthur J. Gallagher & Co. Common Stock
+(WPP) WPP plc American Depositary Shares
+(LH) Labcorp Holdings Inc. Common Stock
+(DWMF) WisdomTree International Multifactor Fund
+(BRX) Brixmor Property Group Inc. Common Stock
+(TMP) Tompkins Financial Corporation Common Stock
+(GDEV) GDEV Inc. - Ordinary Shares
+(TIMB) TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
+(AVLC) American Century ETF Trust Avantis U.S. Large Cap Equity ETF
+(FTLS) First Trust Long/Short Equity
+(NXTC) NextCure, Inc. - Common Stock
+(PVL) Permianville Royalty Trust Trust Units 
+(CI) The Cigna Group Common Stock
+(ZVOL) Volatility Premium Plus ETF
+(YTRA) Yatra Online, Inc. - Ordinary Shares
+(LBRT) Liberty Energy Inc. Class A common stock
+(IBII) iShares Trust iShares iBonds Oct 2032 Term TIPS ETF
+(WBA) Walgreens Boots Alliance, Inc. - Common Stock
+(PQJA) PGIM Nasdaq-100 Buffer 12 ETF - January
+(MART) AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Mar ETF
+(TGT) Target Corporation Common Stock
+(ONDS) Ondas Holdings Inc. - Common Stock
+(HP) Helmerich & Payne, Inc. Common Stock
+(CCIA) Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028
+(HY) Hyster-Yale, Inc. Class A common stock
+(NIC) Nicolet Bankshares Inc. Common Stock
+(BPYPM) Brookfield Property Partners L.P. - 6.25% Class A Cumulative Redeemable Preferred Units, Series 1
+(VAPEW) CEA Industries Inc. - Warrant
+(GFGF) Guru Favorite Stocks ETF
+(LFBD) LifeX 2064 Longevity Income ETF
+(LINK) Interlink Electronics, Inc. - Common Stock
+(RILYN) B. Riley Financial, Inc. - 6.50% Senior Notes Due 2026
+(ABLD) Abacus FCF Real Assets Leaders ETF
+(HROWL) Harrow, Inc. - 8.625% senior notes due 2026
+(KW) Kennedy-Wilson Holdings Inc. Common Stock
+(DIVS) SmartETFs Dividend Builder ETF
+(LIAX) LifeX 2063 Inflation-Protected Longevity Income ETF
+(SAUG) FT Vest U.S. Small Cap Moderate Buffer ETF - August
+(LFAK) LifeX 2052 Longevity Income ETF
+(AMPL) Amplitude, Inc. - Class A Common Stock
+(EXEEZ) Expand Energy Corporation - Class B Warrants
+(NBCC) Neuberger Berman ETF Trust Neuberger Berman Next Generation Connected Consumer ETF
+(LDRX) SGI Enhanced Market Leaders ETF
+(AIFE) Aifeex Nexus Acquisition Corporation - Class A Ordinary Shares
+(BGFV) Big 5 Sporting Goods Corporation - Common Stock
+(VVPR) VivoPower International PLC - Ordinary Shares
+(LEMB) iShares J.P. Morgan EM Local Currency Bond
+(WTMY) WisdomTree High Income Laddered Municipal Fund
+(QPX) AdvisorShares Q Dynamic Growth ETF
+(IDA) IDACORP, Inc. Common Stock
+(XDEC) FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December
+(DEFT) Defi Technologies, Inc. - Common Stock
+(ENLV) Enlivex Therapeutics Ltd. - Ordinary Shares
+(SEIS) SEI Select Small Cap ETF
+(KTTA) Pasithea Therapeutics Corp. - Common Stock
+(NKTX) Nkarta, Inc. - Common Stock
+(NSPR) InspireMD Inc. - Common Stock
+(RAINW) Rain Enhancement Technologies Holdco, Inc. - Warrants
+(DIEM) Franklin Emerging Market Core Dividend Tilt Index ETF
+(RAYE) Rayliant Quantamental Emerging Market ex-China Equity ETF
+(PHDG) Invesco S&P 500 Downside Hedged ETF
+(TFIN) Triumph Financial, Inc. - Common Stock
+(HEPS) D-Market Electronic Services & Trading - American Depositary Shares
+(RCKT) Rocket Pharmaceuticals, Inc. - Common Stock
+(PBJN) PGIM S&P 500 Buffer 20 ETF - June
+(CNEQ) The Alger ETF Trust Alger Concentrated Equity ETF
+(FTAI) FTAI Aviation Ltd. - Common Stock
+(EVNT) AltShares Event-Driven ETF
+(ICF) iShares Select U.S. REIT ETF
+(ATAI) ATAI Life Sciences N.V. - Common Shares
+(MDLV) EA Series Trust Morgan Dempsey Large Cap Value ETF
+(FLYW) Flywire Corporation - Voting Common Stock
+(TCBIO) Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B
+(DUBS) ETF Series Solutions Aptus Large Cap Enhanced Yield ETF
+(PMNT) Perfect Moment Ltd. Common Stock
+(SYBT) Stock Yards Bancorp, Inc. - Common Stock
+(RWO) SPDR DJ Wilshire Global Real Estate ETF
+(BGRO) iShares Large Cap Growth Active ETF
+(IYH) iShares U.S. Healthcare ETF
+(KJAN) Innovator U.S. Small Cap Power Buffer ETF - January
+(TOON) Kartoon Studios, Inc. Common Stock
+(SPLV) Invesco S&P 500 Low Volatility ETF
+(EIIA) Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029
+(FDRV) Fidelity Electric Vehicles and Future Transportation ETF
+(DOLE) Dole plc Ordinary Shares
+(RRGB) Red Robin Gourmet Burgers, Inc. - Common Stock
+(GDO) Western Asset Global Corporate Opportunity Fund Inc. Common Stock
+(WTAI) WisdomTree Trust WisdomTree Artificial Intelligence and Innovation Fund
+(STR) Sitio Royalties Corp. Class A Common Stock
+(OSK) Oshkosh Corporation (Holding Company)Common Stock
+(QS) QuantumScape Corporation Class A Common Stock
+(PSIL) AdvisorShares Psychedelics ETF
+(ESML) iShares ESG Aware MSCI USA Small-Cap ETF
+(SIO) Touchstone Strategic Income ETF
+(MOOD) Relative Sentiment Tactical Allocation ETF
+(KNSL) Kinsale Capital Group, Inc. Common Stock
+(IESC) IES Holdings, Inc. - Common Stock
+(BSX) Boston Scientific Corporation Common Stock
+(WSML) iShares MSCI World Small-Cap ETF
+(SCHO) Schwab Short-Term U.S. Treasury ETF
+(ETHE) Grayscale Ethereum Trust (ETH) Common units of fractional undivided beneficial interest
+(DRD) DRDGOLD Limited American Depositary Shares
+(TWST) Twist Bioscience Corporation - Common Stock
+(DBX) Dropbox, Inc. - Class A Common Stock
+(SLV) iShares Silver Trust
+(ZVIA) Zevia PBC Class A Common Stock
+(EBMT) Eagle Bancorp Montana, Inc. - Common Stock
+(YETI) YETI Holdings, Inc. Common Stock
+(COHR) Coherent Corp. Common Stock
+(PBF) PBF Energy Inc. Class A Common Stock
+(SMCF) Themes US Small Cap Cash Flow Champions ETF
+(PRS) Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058
+(JOYY) JOYY Inc. - American Depositary Shares
+(THD) iShares Inc iShares MSCI Thailand ETF
+(ESLAW) Estrella Immunopharma, Inc. - Warrant
+(RZLV) Rezolve AI PLC - Ordinary Shares
+(SRPT) Sarepta Therapeutics, Inc. - Common Stock
+(SHW) Sherwin-Williams Company (The) Common Stock
+(FUMB) First Trust Ultra Short Duration Municipal ETF
+(TMF) Direxion Daily 20-Yr Treasury Bull 3x Shrs
+(TME) Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares
+(MBIO) Mustang Bio, Inc. - Common Stock
+(CYBN) Cybin Inc. Common Shares
+(RW) EA Series Trust Rainwater Equity ETF
+(QPFF) American Century ETF Trust American Century Quality Preferred ETF
+(IBOC) International Bancshares Corporation - Common Stock
+(FDBC) Fidelity D & D Bancorp, Inc. - Common Stock
+(RPTX) Repare Therapeutics Inc. - Common Shares
+(CBZ) CBIZ, Inc. Common Stock
+(GHY) PGIM Global High Yield Fund, Inc.
+(VSDM) Vanguard Tax-Managed Funds Vanguard Short Duration Tax-Exempt Bond ETF
+(ASR) Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock
+(SIXS) ETC 6 Meridian Small Cap Equity ETF
+(MARO) Tidal Trust II YieldMax MARA Option Income Strategy ETF
+(ILAG) Intelligent Living Application Group Inc. - Ordinary Shares
+(UAPR) Innovator U.S. Equity Ultra Buffer ETF - April
+(GRDN) Guardian Pharmacy Services, Inc. Class A Common Stock
+(FLDB) Fidelity Low Duration Bond ETF
+(FDLO) Fidelity Low Volatility Factor ETF
+(VCLN) Virtus Duff & Phelps Clean Energy ETF
+(DEMZ) Democratic Large Cap Core ETF
+(SPCY) STKd 100% SMCI & 100% NVDA ETF
+(ACRV) Acrivon Therapeutics, Inc. - Common Stock
+(FCT) First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest
+(AUSF) Global X Funds Global X Adaptive U.S. Factor ETF
+(JHCR) John Hancock Exchange-Traded Fund Trust John Hancock Core Bond ETF
+(FC) Franklin Covey Company Common Stock
+(SYNB) Putnam ETF Trust Putnam BioRevolution ETF
+(VCICW) Vine Hill Capital Investment Corp. - Warrant
+(MTRN) Materion Corporation
+(FAS) Direxion Financial Bull 3X Shares
+(VFQY) Vanguard U.S. Quality Factor ETF
+(RTX) RTX Corporation Common Stock
+(GBDC) Golub Capital BDC, Inc. - Closed End Fund
+(BFH) Bread Financial Holdings, Inc. Common Stock
+(SRI) Stoneridge, Inc. Common Stock
+(PSTL) Postal Realty Trust, Inc. Class A Common Stock
+(ADAG) Adagene Inc. - ADS, each representing 1.25 ordinary shares
+(MBINL) Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value
+(BBCP) Concrete Pumping Holdings, Inc.  - Common Stock
+(AWK) American Water Works Company, Inc. Common Stock
+(VSMV) VictoryShares US Multi-Factor Minimum Volatility ETF
+(HYGI) iShares U.S. ETF Trust iShares Inflation Hedged High Yield Bond ETF
+(PTIXW) Protagenic Therapeutics, Inc. - Warrant
+(NRP) Natural Resource Partners LP Limited Partnership
+(JPIE) JPMorgan Income ETF
+(CNF) CNFinance Holdings Limited American Depositary Shares, each representing  twenty (20) Ordinary Shares
+(ESTA) Establishment Labs Holdings Inc. - Common Shares
+(NHI) National Health Investors, Inc. Common Stock
+(SPNS) Sapiens International Corporation N.V. - Common Shares
+(PAUG) Innovator U.S. Equity Power Buffer ETF - August
+(DAPP) VanEck Digital Transformation ETF
+(DYNXU) Dynamix Corporation - Unit
+(TOPT) iShares Trust iShares Top 20 U.S. Stocks ETF
+(UPRO) ProShares UltraPro S&P 500
+(THNQ) ROBO Global Artificial Intelligence ETF
+(DGRE) WisdomTree Emerging Markets Quality Dividend Growth Fund
+(LANDP) Gladstone Land Corporation - 6.00% Series C Cumulative Redeemable Preferred Stock
+(SRM) SRM Entertainment, Inc. - Common Stock
+(WSFS) WSFS Financial Corporation - Common Stock
+(RUSHB) Rush Enterprises, Inc. - Class B Common Stock
+(GNPX) Genprex, Inc. - Common Stock
+(SKRE) Tuttle Capital Daily 2X Inverse Regional Banks ETF
+(MYRG) MYR Group, Inc. - Common Stock
+(SZNE) Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF
+(PSET) Principal Quality ETF
+(TAVIR) Tavia Acquisition Corp. - Right
+(TJUL) Innovator ETFs Trust Innovator Equity Defined Protection ETF - 2 Yr to July 2025
+(NPAC) New Providence Acquisition Corp. III - Ordinary Shares
+(PDYNW) Palladyne AI Corp. - Warrant
+(KOKU) Xtrackers MSCI Kokusai Equity ETF
+(FXY) Invesco CurrencyShares Japanese Yen Trust
+(TRP) TC Energy Corporation Common Stock
+(EIPX) First Trust Exchange-Traded Fund IV FT Energy Income Partners Strategy ETF
+(EUSM) Strategy Shares Eventide US Market ETF
+(CTNT) Cheetah Net Supply Chain Service Inc. - Class A Common Stock
+(BIDU) Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share
+(JPC) Nuveen Preferred & Income Opportunities Fund
+(FFND) One Global ETF
+(HYZD) WisdomTree Interest Rate Hedged High Yield Bond Fund
+(GNR) SPDR S&P Global Natural Resources ETF
+(IDLV) Invesco S&P International Developed Low Volatility ETF
+(USPX) Franklin U.S. Equity Index ETF
+(LGCF) Themes US Cash Flow Champions ETF
+(CEPO) Cantor Equity Partners I, Inc. - Class A Ordinary Shares
+(RSVRW) Reservoir Media, Inc.. - Warrant
+(PPTY) U.S. Diversified Real Estate ETF
+(RLJ) RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value
+(JHX) James Hardie Industries plc American Depositary Shares (Ireland)
+(TDY) Teledyne Technologies Incorporated Common Stock
+(CIEN) Ciena Corporation Common Stock
+(IYZ) iShares U.S. Telecommunications ETF
+(UUUU) Energy Fuels Inc Ordinary Shares (Canada)
+(SCSC) ScanSource, Inc. - Common Stock
+(CNVS) Cineverse Corp. - Class A Common Stock
+(DQ) DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares
+(MULL) GraniteShares 2x Long MU Daily ETF
+(ZEUS) Olympic Steel, Inc. - Common Stock
+(LIAU) LifeX 2060 Inflation-Protected Longevity Income ETF
+(SATL) Satellogic Inc. - Class A Common Stock
+(NODK) NI Holdings, Inc. - Common Stock
+(PSMR) Pacer Swan SOS Moderate (April) ETF
+(HTZ) Hertz Global Holdings, Inc - Common Stock
+(TNONW) Tenon Medical, Inc. - Warrant
+(NUDV) Nuveen ESG Dividend ETF
+(FCTR) First Trust Lunt U.S. Factor Rotation ETF
+(BKNG) Booking Holdings Inc. - Common Stock
+(NBET) Neuberger Berman Energy Transition & Infrastructure ETF
+(FFEB) FT Vest U.S. Equity Buffer ETF - February
+(EFV) iShares MSCI EAFE Value ETF
+(DIVO) Amplify CWP Enhanced Dividend Income ETF
+(OCTW) AllianzIM U.S. Large Cap Buffer20 Oct ETF
+(SOAR) Volato Group, Inc. Class A Common Stock
+(INDF) Range India Financials ETF
+(RHP) Ryman Hospitality Properties, Inc. (REIT)
+(DFEV) Dimensional ETF Trust Dimensional Emerging Markets Value ETF
+(NAUT) Nautilus Biotechnology, Inc. - Common Stock
+(BSTZ) BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest
+(CHPS) Xtrackers Semiconductor Select Equity ETF
+(WF) Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock)
+(TWOX) iShares Large Cap Accelerated Outcome ETF
+(BH) Biglari Holdings Inc. Class B Common Stock
+(TRC) Tejon Ranch Co Common Stock
+(GEOS) Geospace Technologies Corporation - Common Stock
+(INTW) GraniteShares 2x Long INTC Daily ETF
+(NCIQ) Hashdex Nasdaq Crypto Index US ETF - Hashdex Nasdaq Crypto Index US ETF
+(SSFI) Day Hagan Smart Sector Fixed Income ETF
+(EXC) Exelon Corporation - Common Stock
+(PSHG) Performance Shipping Inc. - Common Shares
+(COLM) Columbia Sportswear Company - Common Stock
+(FSS) Federal Signal Corporation Common Stock
+(QYLG) Global X Nasdaq 100 Covered Call & Growth ETF
+(FOXO) FOXO Technologies Inc. Class A Common Stock
+(GHYG) iShares US & Intl High Yield Corp Bond ETF
+(JPUS) JPMorgan Diversified Return U.S. Equity ETF
+(LCFY) Locafy Limited - Ordinary Share
+(TSME) Thrivent Small-Mid Cap Equity ETF
+(JAJL) SHL Telemedicine Ltd Innovator Equity Defined Protection ETF - 6mo Jan/Jul
+(IJJ) iShares S&P Mid-Cap 400 Value ETF
+(ISTB) iShares Core 1-5 Year USD Bond ETF
+(EPEM) Harbor ETF Trust Harbor Emerging Markets Equity ETF
+(CLBR) Colombier Acquisition Corp. II Class A Ordinary Shares
+(CTEV) Claritev Corporation Class A Common Stock
+(OZ) Belpointe PREP, LLC Class A Units
+(QCMU) Direxion Daily QCOM Bull 2X ETF
+(REI) Ring Energy, Inc. Common Stock
+(FDT) First Trust Developed Markets Ex-US AlphaDEX Fund
+(TVRD) Tvardi Therapeutics, Inc. - Common Stock
+(IBCP) Independent Bank Corporation - Common Stock
+(ZSPC) zSpace, Inc. - Common stock
+(PAA) Plains All American Pipeline, L.P. - Common Units representing Limited Partner Interests
+(GTO) Invesco Total Return Bond ETF
+(OZEM) Roundhill GLP-1 & Weight Loss ETF
+(FWONK) Liberty Media Corporation - Series C Liberty Formula One Common Stock
+(HSPOU) Horizon Space Acquisition I Corp. - Unit
+(UJUL) Innovator U.S. Equity Ultra Buffer ETF - July
+(KREF) KKR Real Estate Finance Trust Inc. Common Stock
+(GK) AdvisorShares Gerber Kawasaki ETF
+(GIBOW) GIBO Holdings Limited - Warrants
+(SSTK) Shutterstock, Inc. Common Stock
+(FCOR) Fidelity Corporate Bond ETF
+(LMUB) iShares Trust iShares Long-Term National Muni Bond ETF
+(PNR) Pentair plc. Ordinary Share
+(GIG) GigCapital7 Corp. - Class A Ordinary Share
+(SIGIP) Selective Insurance Group, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 4.60% Non-Cumulative Preferred Stock, Series B
+(LVTX) LAVA Therapeutics N.V. - Ordinary Shares
+(XME) SPDR S&P Metals & Mining ETF
+(CELC) Celcuity Inc. - Common Stock
+(CDLR) Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)
+(INDH) WisdomTree India Hedged Equity Fund
+(RFG) Invesco S&P Midcap 400 Pure Growth ETF
+(BXSL) Blackstone Secured Lending Fund Common Shares of Beneficial Interest
+(HYAC) Haymaker Acquisition Corp. 4 Class A Ordinary Shares
+(STHO) Star Holdings - Shares of Beneficial Interest
+(SFLO) VictoryShares Small Cap Free Cash Flow ETF
+(NRG) NRG Energy, Inc. Common Stock
+(TSLY) Tidal ETF Trust II YieldMax TSLA Option Income Strategy ETF
+(FMBH) First Mid Bancshares, Inc. - Common Stock
+(ATLCL) Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026
+(JRSH) Jerash Holdings (US), Inc. - Common Stock
+(RSEE) Collaborative Investment Series Trust Rareview Systematic Equity ETF
+(CHRW) C.H. Robinson Worldwide, Inc. - Common Stock
+(MAGX) Roundhill Daily 2X Long Magnificent Seven ETF
+(BWFG) Bankwell Financial Group, Inc. - Common Stock
+(LPAAW) Launch One Acquisition Corp. - Warrant
+(DIVP) The Advisors Inner Circle Fund II Cullen Enhanced Equity Income ETF
+(LHX) L3Harris Technologies, Inc. Common Stock
+(DWUS) AdvisorShares Dorsey Wright FSM US Core ETF
+(BILI) Bilibili Inc. - American Depositary Shares
+(GLBL) Pacer Funds Trust Pacer MSCI World Industry Advantage ETF
+(OPOF) Old Point Financial Corporation - Common Stock
+(PZZA) Papa John's International, Inc. - Common Stock
+(KNOP) KNOT Offshore Partners LP Common Units representing Limited Partner Interests
+(OAKUR) Oak Woods Acquisition Corporation - Right
+(CEPT) Cantor Equity Partners II, Inc. - Class A ordinary share
+(DNL) WisdomTree Global ex-US Quality Dividend Growth Fund
+(IQM) Franklin Intelligent Machines ETF
+(MUA) Blackrock MuniAssets Fund, Inc Common Stock
+(SMMD) iShares Trust iShares Russell 2500 ETF
+(HOV) Hovnanian Enterprises, Inc. Class A Common Stock
+(FBIOP) Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock
+(SPY) SPDR S&P 500
+(KLIP) KraneShares KWEB Covered Call Strategy ETF
+(ARDT) Ardent Health, Inc. Common Stock
+(JPAN) Matthews International Funds Matthews Japan Active ETF
+(CULP) Culp, Inc. Common Stock
+(WBIL) WBI BullBear Quality 3000 ETF
+(ETON) Eton Pharmaceuticals, Inc. - Common Stock
+(EDC) Direxion Emerging Markets Bull 3X Shares
+(HAL) Halliburton Company Common Stock
+(DCOR) Dimensional ETF Trust Dimensional US Core Equity 1 ETF
+(TDG) Transdigm Group Incorporated Common Stock
+(FLHK) Franklin FTSE Hong Kong ETF
+(GHRS) GH Research PLC - Ordinary Shares
+(DVAL) BrandywineGLOBAL-Dynamic US Large Cap Value ETF
+(ACGL) Arch Capital Group Ltd. - Common Stock
+(MGOV) First Trust Exchange-Traded Fund IV First Trust Intermediate Government Opportunities ETF
+(FIGB) Fidelity Investment Grade Bond ETF
+(HURA) TuHURA Biosciences, Inc. - Common Stock
+(RFAI) RF Acquisition Corp II - Ordinary Shares
+(FCPT) Four Corners Property Trust, Inc. Common Stock
+(SSPY) Exchange Listed Funds Trust Stratified LargeCap Index ETF
+(LYRA) Lyra Therapeutics, Inc. - Common Stock
+(LFSC) F/m Emerald Life Sciences Innovation ETF
+(NDVG) Nuveen Dividend Growth ETF
+(XPEL) XPEL, Inc. - Common Stock
+(EMEQ) Macquarie Focused Emerging Markets Equity ETF
+(KGC) Kinross Gold Corporation Common Stock
+(HCKT) The Hackett Group, Inc. - Common Stock
+(OCGN) Ocugen, Inc. - Common Stock
+(JTEK) JPMorgan U.S. Tech Leaders ETF
+(VRNT) Verint Systems Inc. - Common Stock
+(NUSC) Nuveen ESG Small-Cap ETF
+(RIG) Transocean Ltd (Switzerland) Common Stock
+(CION) CION Investment Corporation Common Stock
+(SABS) SAB Biotherapeutics, Inc. - Common Stock
+(NZAC) SPDR MSCI ACWI Climate Paris Aligned ETF
+(KBDC) Kayne Anderson BDC, Inc. Common Stock
+(SKLZ) Skillz Inc. Class A Common Stock
+(USL) United States 12 Month Oil
+(ORCX) Defiance Daily Target 2X Long ORCL ETF
+(MEI) Methode Electronics, Inc. Common Stock
+(TMCI) Treace Medical Concepts, Inc. - Common Stock
+(PNBK) Patriot National Bancorp Inc. - Common Stock
+(CBLL) CeriBell, Inc. - Common Stock
+(RORO) ATAC US Rotation ETF
+(NTRBW) Nutriband Inc. - Warrant
+(FARX) The Advisors' Inner Circle Fund II Frontier Asset Absolute Return ETF
+(DAY) Dayforce, Inc. Common Stock
+(GVH) Globavend Holdings Limited - Ord Shares
+(KBSX) FST Corp. - Ordinary Shares
+(NRSH) Aztlan North America Nearshoring Stock Selection ETF
+(CALX) Calix, Inc Common Stock
+(AEVA) Aeva Technologies, Inc. - Common Stock
+(WGO) Winnebago Industries, Inc. Common Stock
+(IWMW) iShares Trust iShares Russell 2000 BuyWrite ETF
+(OYSEU) Oyster Enterprises II Acquisition Corp - Units
+(TILE) Interface, Inc. - Common Stock
+(LAZ) Lazard, Inc. Common Stock
+(SIXH) ETC 6 Meridian Hedged Equity Index Option ETF
+(FLYY) Spirit Aviation Holdings, Inc. Common Stock
+(FTAG) First Trust Indxx Global Agriculture ETF
+(IONZ) Defiance Daily Target 2x Short IONQ ETF
+(NIXT) Research Affiliates Deletions ETF
+(SCDS) JPMorgan Fundamental Data Science Small Core ETF
+(LBO) EA Series Trust WHITEWOLF Publicly Listed Private Equity ETF
+(ACVA) ACV Auctions Inc. Class A Common Stock
+(DEXC) Dimensional ETF Trust Dimensional Emerging Markets ex China Core Equity ETF
+(STX) Seagate Technology Holdings PLC - Ordinary Shares (Ireland)
+(BSMQ) Invesco BulletShares 2026 Municipal Bond ETF
+(TBLD) Thornburg Income Builder Opportunities Trust - Closed End Fund
+(AIRJ) AirJoule Technologies Corporation - Class A Common Stock
+(EDV) Vanguard Extended Duration Treasury ETF
+(ETN) Eaton Corporation, PLC Ordinary Shares
+(MSTY) Tidal Trust II YieldMax MSTR Option Income Strategy ETF
+(MYY) ProShares Short MidCap400
+(CFLT) Confluent, Inc. - Class A Common Stock
+(VPLS) Vanguard Core Plus Bond ETF
+(TBUX) T. Rowe Price Ultra Short-Term Bond ETF
+(IGLD) FT Vest Gold Strategy Target Income ETF
+(RPAY) Repay Holdings Corporation - Class A Common Stock
+(FACTU) FACT II Acquisition Corp. - Unit
+(SACH) Sachem Capital Corp. Common Shares
+(JAPN) Horizon Kinetics Japan Owner Operator ETF
+(OOSB) One One S&P 500 and Bitcoin ETF
+(UPGR) Xtrackers US Green Infrastructure Select Equity ETF
+(IOCT) Innovator International Developed Power Buffer ETF - October
+(BLFY) Blue Foundry Bancorp - Common Stock
+(QLTI) The 2023 ETF Series Trust II GMO International Quality ETF
+(VHI) Valhi, Inc. Common Stock
+(DXLG) Destination XL Group, Inc. - Common Stock
+(FID) First Trust S&P International Dividend Aristocrats ETF
+(FLEE) Franklin FTSE Europe ETF
+(MORN) Morningstar, Inc. - Common Stock
+(SBH) Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
+(CLSM) Cabana Target Leading Sector Moderate ETF
+(AES) The AES Corporation Common Stock
+(NXG) NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
+(SKIN) The Beauty Health Company - Class A Common Stock
+(FORM) FormFactor, Inc. - Common Stock
+(SN) SharkNinja, Inc. Ordinary Shares
+(DAPR) FT Vest U.S. Equity Deep Buffer ETF - April
+(LMAT) LeMaitre Vascular, Inc. - Common Stock
+(CSGS) CSG Systems International, Inc. - Common Stock
+(COGT) Cogent Biosciences, Inc. - Common Stock
+(MCDS) JPMorgan Fundamental Data Science Mid Core ETF
+(ALT) Altimmune, Inc. - Common Stock
+(RGP) Resources Connection, Inc. - Common Stock
+(SHRY) First Trust Bloomberg Shareholder Yield ETF
+(GSRTU) GSR III Acquisition Corp. - Unit
+(EAOM) iShares ESG Aware 40/60 Moderate Allocation ETF
+(OPTXW) Syntec Optics Holdings, Inc. - Warrant
+(QQQJ) Invesco NASDAQ Next Gen 100 ETF
+(RCEL) Avita Medical, Inc. - Common Stock
+(VIGI) Vanguard International Dividend Appreciation ETF
+(EVI) EVI Industries, Inc.  Common Stock
+(CDIO) Cardio Diagnostics Holdings Inc. - Common stock
+(OUNZ) VanEck Merk Gold ETF
+(BMO) Bank Of Montreal Common Stock
+(FYBR) Frontier Communications Parent, Inc. - Common Stock
+(IBP) Installed Building Products, Inc. Common Stock
+(TIME) Tidal Trust II Clockwise Core Equity & Innovation ETF
+(UHAL) U-Haul Holding Company Common Stock
+(ATER) Aterian, Inc. - Common Stock
+(RVPH) Reviva Pharmaceuticals Holdings, Inc. - Common Stock
+(NBFC) Neuberger Berman ETF Trust Neuberger Berman Flexible Credit Income ETF
+(PJUL) Innovator U.S. Equity Power Buffer ETF - July
+(FRTY) Alger Mid Cap 40 ETF
+(SLSN) Solesence, Inc. - Common stock
+(TSLQ) Tradr 2X Short TSLA Daily ETF
+(FNDF) Schwab Fundamental International Equity ETF
+(ARCM) Arrow Reserve Capital Management ETF
+(FDTX) Fidelity Disruptive Technology ETF
+(TOV) EA Series Trust JLens 500 Jewish Advocacy U.S. ETF
+(RBKB) Rhinebeck Bancorp, Inc. - Common Stock
+(AMKR) Amkor Technology, Inc. - Common Stock
+(OPI) Office Properties Income Trust - Common Shares of Beneficial Interest
+(SLDE) Slide Insurance Holdings, Inc. - Common Stock
+(GCAL) Goldman Sachs ETF Trust Goldman Sachs Dynamic California Municipal Income ETF
+(HUSA) Houston American Energy Corporation Common Stock
+(IKNA) Ikena Oncology, Inc. - Common Stock
+(IVOL) Quadratic Interest Rate Volatility and Inflation Hedge ETF
+(AMBP) Ardagh Metal Packaging S.A. Ordinary Shares
+(QD) Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share
+(PKST) Peakstone Realty Trust Common Shares
+(APO) Apollo Global Management, Inc. (New) Common Stock
+(VUSE) Vident U.S. Equity Strategy ETF
+(SDHIU) Siddhi Acquisition Corp - Unit
+(CVAR) ETF Opportunities Trust Cultivar ETF
+(VSME) VS Media Holdings Limited - Class A Ordinary Shares
+(IVRS) iShares Trust iShares Future Metaverse Tech and Communications ETF
+(EUO) ProShares UltraShort Euro
+(UTL) UNITIL Corporation Common Stock
+(ANNA) AleAnna, Inc. - Class A Common Stock
+(LFDR) LifeX Durable Income ETF
+(UYSCU) UY Scuti Acquisition Corp. - Units
+(USGO) U.S. GoldMining Inc. - Common stock
+(ACP) abrdn Income Credit Strategies Fund Common Shares
+(TLH) iShares 10-20 Year Treasury Bond ETF
+(TYL) Tyler Technologies, Inc. Common Stock
+(LOT) Lotus Technology Inc. - American Depositary Shares
+(SRCE) 1st Source Corporation - Common Stock
+(HYDB) iShares High Yield Systematic Bond ETF
+(LTRX) Lantronix, Inc. - Common Stock
+(MZZ) ProShares UltraShort MidCap400
+(BCBP) BCB Bancorp, Inc. (NJ) - Common Stock
+(NVOX) Tidal Trust II Defiance Daily Target 2X Long NVO ETF
+(AGIO) Agios Pharmaceuticals, Inc. - Common Stock
+(EWCZ) European Wax Center, Inc. - Class A Common Stock
+(PULT) Putnam ETF Trust Putnam ESG Ultra Short ETF
+(FBY) Tidal ETF Trust II YieldMax META Option Income Strategy ETF
+(VYX) NCR Voyix Corporation Common Stock
+(MFAO) MFA Financial, Inc. 9.000% Senior Notes due 2029
+(MTD) Mettler-Toledo International, Inc. Common Stock
+(YORW) The York Water Company - Common Stock
+(SLS) SELLAS Life Sciences Group, Inc.  - Common Stock
+(NWSA) News Corporation - Class A Common Stock
+(BNTX) BioNTech SE - American Depositary Shares
+(OGN) Organon & Co. Common Stock 
+(ISHG) iShares 1-3 Year International Treasury Bond ETF
+(AGAE) Allied Gaming & Entertainment Inc. - Common Stock
+(YQQQ) YieldMax Short N100 Option Income Strategy ETF
+(GCLWW) GCL Global Holdings Ltd - Warrants
+(SNPV) Xtrackers S&P 500 Value Scored & Screened ETF
+(MDV) Modiv Industrial, Inc. Class C Common Stock
+(NETD) Nabors Energy Transition Corp. II - Class A Ordinary Shares
+(COCH) Envoy Medical, Inc. - Class A Common Stock
+(UNL) United States 12 Month Natural Gas Fund
+(OCCIM) OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock
+(EWV) ProShares UltraShort MSCI Japan
+(STXV) EA Series Trust Strive 1000 Value ETF
+(SKK) SKK Holdings Limited - Ordinary Shares
+(AVMA) American Century ETF Trust Avantis Moderate Allocation ETF
+(NAK) Northern Dynasty Minerals, Ltd. Common Stock
+(HALO) Halozyme Therapeutics, Inc. - Common Stock
+(SWKH) SWK Holdings Corporation - Common Stock
