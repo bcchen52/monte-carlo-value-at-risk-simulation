@@ -30,8 +30,14 @@ jobs:
       - name: Run ticker update file
         run: python update_tickers.py
 
+      - name: Get date
+        env:
+          TZ: America/New_York
+        run: echo "DATE=$(date +"%Y-%m-%d %H:%M:%S %Z")" >> $GITHUB_ENV #sets variable DATE in $GITHUB_ENV, accessible with prefix env. %Z is the timezone shortcut
+
       - name: Commit and push updated file
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+          message: "Ticker list updated on ${{ env.DATE }}"
