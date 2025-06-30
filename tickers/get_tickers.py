@@ -57,7 +57,7 @@ def fetch_nasdaq_tickers():
         yf_data = yf.download(all_tickers, period="5d", group_by="ticker", auto_adjust=True, threads=False)
         #takes a few minutes, therea are over 10,000 tickers
 
-        unique_tickers = [ticker for ticker in yf_data.columns.get_level_values(0).unique() if yf_data[ticker].notna().any().any()]
+        unique_tickers = sorted([ticker for ticker in yf_data.columns.get_level_values(0).unique() if yf_data[ticker].notna().any().any()])
         #print(unique_tickers)
         
         #yf_data is a MultiIndex with columns in the format of [(SYMBOL, VAR1), (SYMBOL, VAR2) ...]
