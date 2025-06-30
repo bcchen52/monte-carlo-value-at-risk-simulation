@@ -4,6 +4,7 @@ import datetime as dt
 import yfinance as yf
 import requests
 from io import StringIO
+from curl_cffi import crequests
 from utils.shared_lock import FILE_LOCK
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -52,9 +53,12 @@ def fetch_nasdaq_tickers():
         all_tickers = df1["Symbol"].tolist() + df2["ACT Symbol"].tolist()
         #print(all_tickers)
         
+        session = crequests.Session(impersonate="chrome")
+        #getting rate limited, so using curl_cffi and crequests to impersonate browser
+
         #Test yf.download function 
         #yf_data = yf.download(['SRTY', 'SRV', 'SRVR', 'SRXH', 'SSB', 'SSD', 'SSFI', 'SSG', 'SSL', 'SSO', 'SSPX', 'SSPY', 'SST', 'SSTK', 'SSUS', 'SSXU', 'SSY', 'ST', 'STAG', 'STAX', 'STBF', 'STC', 'STCE', 'STE', 'STEL', 'STEM', 'STEW', 'STG', 'STHH', 'STIP', 'STK', 'STLA', 'STM', 'STN', 'STNG', 'STOT', 'STOX', 'STPZ', 'STR', 'STRV', 'STRW', 'STT', 'STT$G', 'STVN', 'STWD', 'STXD', 'STXE', 'STXG', 'STXI', 'STXK', 'STXM', 'STXS', 'STXT', 'STXV', 'STZ', 'SU', 'SUB', 'SUI', 'SUN', 'SUPL', 'SUPV', 'SURE', 'SURI', 'SUSA', 'SUZ', 'SVAL', 'SVIX', 'SVM', 'SVOL', 'SVT', 'SVV', 'SVXY', 'SW', 'SWAN', 'SWK', 'SWX', 'SWZ', 'SXC', 'SXI', 'SXQG', 'SXT', 'SYF', 'SYF$A', 'SYF$B', 'SYFI', 'SYK', 'SYLD', 'SYNB', 'SYNX', 'SYY', 'SZK', 'SZNE', 'T', 'T$A', 'T$C', 'TAC', 'TACK', 'TAFI', 'TAFL', 'TAFM', 'TAGG', 'TAGS', 'TAIL', 'TAK', 'TAL', 'TALO', 'TAN', 'TAP', 'TAP.A', 'TAPR', 'TAXF', 'TAXM', 'TAXX', 'TBB', 'TBBB', 'TBF', 'TBFC', 'TBFG', 'TBG', 'TBI', 'TBJL', 'TBLL', 'TBLU', 'TBN', 'TBT', 'TBUX', 'TBX', 'TCAF', 'TCAL', 'TCHP', 'TCI', 'TCPB', 'TD', 'TDC', 'TDEC', 'TDF', 'TDG', 'TDOC', 'TDS', 'TDS$U', 'TDS$V', 'TDTF', 'TDTT', 'TDV', 'TDVG', 'TDVI', 'TDW', 'TDY', 'TE', 'TE.W', 'TEAF', 'TEC', 'TECB', 'TECK', 'TECL'], period="5d", group_by="ticker", auto_adjust=True, threads=False)
-        yf_data = yf.download(all_tickers, period="5d", group_by="ticker", auto_adjust=True, threads=False)
+        yf_data = yf.download(all_tickers, period="5d", group_by="ticker", auto_adjust=True, threads=False, session=session)
         #takes a few minutes, therea are over 10,000 tickers
 
         unique_tickers = sorted([ticker for ticker in yf_data.columns.get_level_values(0).unique() if yf_data[ticker].notna().any().any()])
