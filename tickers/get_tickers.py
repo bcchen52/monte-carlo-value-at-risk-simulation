@@ -69,7 +69,7 @@ def fetch_nasdaq_tickers():
         with FILE_LOCK:
             with open(output_file_path, "w") as f:
                 for ticker in unique_tickers:
-                    f.write(f"({ticker}) {ticker_to_name_dict[ticker]}\n")
+                    f.write(f"{ticker} - {ticker_to_name_dict[ticker]}\n")
 
         with open(time_path, "w") as f:
             f.write(str(date2) if date2 > date1 else str(date1))
