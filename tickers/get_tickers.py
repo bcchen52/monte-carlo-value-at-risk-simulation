@@ -2,9 +2,9 @@ import pandas as pd
 import os
 import datetime as dt 
 import yfinance as yf
-import requests
+import requests as req
 from io import StringIO
-from curl_cffi import crequests
+from curl_cffi import requests
 from utils.shared_lock import FILE_LOCK
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -15,8 +15,8 @@ def fetch_nasdaq_tickers():
     url_nasdaq = "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt"
     url_others = "https://www.nasdaqtrader.com/dynamic/symdir/otherlisted.txt"
     try:
-        response1 = requests.get(url_nasdaq, timeout=10)
-        response2 = requests.get(url_others, timeout=10)
+        response1 = req.get(url_nasdaq, timeout=10)
+        response2 = req.get(url_others, timeout=10)
 
         response1.raise_for_status() 
         response2.raise_for_status() 
@@ -53,7 +53,7 @@ def fetch_nasdaq_tickers():
         all_tickers = df1["Symbol"].tolist() + df2["ACT Symbol"].tolist()
         #print(all_tickers)
         
-        session = crequests.Session(impersonate="chrome")
+        session = requests.Session(impersonate="chrome")
         #getting rate limited, so using curl_cffi and crequests to impersonate browser
 
         #Test yf.download function 
