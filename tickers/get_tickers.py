@@ -10,6 +10,7 @@ from utils.shared_lock import FILE_LOCK
 base_dir = os.path.dirname(os.path.abspath(__file__))
 output_file_path = os.path.join(base_dir, "ticker_list.txt")
 time_path = os.path.join(base_dir, "timestamp.txt")
+batch_sizew = 200
 
 def fetch_nasdaq_tickers():
     url_nasdaq = "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt"
@@ -55,13 +56,18 @@ def fetch_nasdaq_tickers():
         
         session = requests.Session(impersonate="chrome")
         #getting rate limited, so using curl_cffi and crequests to impersonate browser
+        #this solution works when running locally, but still causes rate limit errors when run from Github Actions, instead, implemented batch sizes
+
+        unique_tickers = []
 
         #Test yf.download function 
         #yf_data = yf.download(['SRTY', 'SRV', 'SRVR', 'SRXH', 'SSB', 'SSD', 'SSFI', 'SSG', 'SSL', 'SSO', 'SSPX', 'SSPY', 'SST', 'SSTK', 'SSUS', 'SSXU', 'SSY', 'ST', 'STAG', 'STAX', 'STBF', 'STC', 'STCE', 'STE', 'STEL', 'STEM', 'STEW', 'STG', 'STHH', 'STIP', 'STK', 'STLA', 'STM', 'STN', 'STNG', 'STOT', 'STOX', 'STPZ', 'STR', 'STRV', 'STRW', 'STT', 'STT$G', 'STVN', 'STWD', 'STXD', 'STXE', 'STXG', 'STXI', 'STXK', 'STXM', 'STXS', 'STXT', 'STXV', 'STZ', 'SU', 'SUB', 'SUI', 'SUN', 'SUPL', 'SUPV', 'SURE', 'SURI', 'SUSA', 'SUZ', 'SVAL', 'SVIX', 'SVM', 'SVOL', 'SVT', 'SVV', 'SVXY', 'SW', 'SWAN', 'SWK', 'SWX', 'SWZ', 'SXC', 'SXI', 'SXQG', 'SXT', 'SYF', 'SYF$A', 'SYF$B', 'SYFI', 'SYK', 'SYLD', 'SYNB', 'SYNX', 'SYY', 'SZK', 'SZNE', 'T', 'T$A', 'T$C', 'TAC', 'TACK', 'TAFI', 'TAFL', 'TAFM', 'TAGG', 'TAGS', 'TAIL', 'TAK', 'TAL', 'TALO', 'TAN', 'TAP', 'TAP.A', 'TAPR', 'TAXF', 'TAXM', 'TAXX', 'TBB', 'TBBB', 'TBF', 'TBFC', 'TBFG', 'TBG', 'TBI', 'TBJL', 'TBLL', 'TBLU', 'TBN', 'TBT', 'TBUX', 'TBX', 'TCAF', 'TCAL', 'TCHP', 'TCI', 'TCPB', 'TD', 'TDC', 'TDEC', 'TDF', 'TDG', 'TDOC', 'TDS', 'TDS$U', 'TDS$V', 'TDTF', 'TDTT', 'TDV', 'TDVG', 'TDVI', 'TDW', 'TDY', 'TE', 'TE.W', 'TEAF', 'TEC', 'TECB', 'TECK', 'TECL'], period="5d", group_by="ticker", auto_adjust=True, threads=False)
-        yf_data = yf.download(all_tickers, period="5d", group_by="ticker", auto_adjust=True, threads=False, session=session)
-        #takes a few minutes, therea are over 10,000 tickers
+        for i in range(0, len(all_tickers), batch_size):
+            #splicing is safe for out of bounds, so don't need to worry about specifics of the last splice when not perfectly divisble by batch_size
+            yf_data = yf.download(all_tickers[i:i+batch_size], period="5d", group_by="ticker", auto_adjust=True, threads=False, session=session)
+            unique_tickers.extend(ticker for ticker in yf_data.columns.get_level_values(0).unique() if yf_data[ticker].notna().any().any())
 
-        unique_tickers = sorted([ticker for ticker in yf_data.columns.get_level_values(0).unique() if yf_data[ticker].notna().any().any()])
+        unique_tickers = sorted(unique_tickers)
         
         #print(unique_tickers)
         
