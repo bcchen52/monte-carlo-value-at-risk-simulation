@@ -1593,112 +1593,37 @@ FFAI - Faraday Future Intelligent Electric Inc. - Class A Common Stock
 FFAIW - Faraday Future Intelligent Electric Inc. - Warrant
 FFBC - First Financial Bancorp. - Common Stock
 FFIC - Flushing Financial Corporation - Common Stock
-FFIN - First Financial Bankshares, Inc. - Common Stock
-FFIV - F5, Inc. - Common Stock
-FFUT - Fidelity Managed Futures ETF
 FGBI - First Guaranty Bancshares, Inc. - Common Stock
-FGBIP - First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock
-FGEN - FibroGen, Inc - Common Stock
 FGF - Fundamental Global Inc. - Common Stock
 FGFPP - Fundamental Global Inc. - 8.00% Cumulative Series A Preferred Stock
-FGI - FGI Industries Ltd. - Ordinary Shares
 FGIWW - FGI Industries Ltd. - warrant
-FGL - Founder Group Limited - Ordinary Shares
-FGM - First Trust Germany AlphaDEX Fund
-FGMC - FG Merger II Corp. - Common stock
-FGMCR - FG Merger II Corp. - Rights
 FGMCU - FG Merger II Corp. - Unit
 FGSI - FT Vest Growth Strength & Target Income ETF
-FHB - First Hawaiian, Inc. - Common Stock
-FHTX - Foghorn Therapeutics Inc. - Common Stock
-FIBK - First Interstate BancSystem, Inc. - Common Stock
-FICS - First Trust International Developed Capital Strength ETF
-FID - First Trust S&P International Dividend Aristocrats ETF
-FIGXU - FIGX Capital Acquisition Corp. - Units
 FINE - Themes European Luxury ETF
-FINW - FinWise Bancorp - Common Stock
-FINX - Global X FinTech ETF
-FIP - FTAI Infrastructure Inc. - Common Stock
-FISI - Financial Institutions, Inc. - Common Stock
-FITB - Fifth Third Bancorp - Common Stock
-FITBI - Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I
-FITBO - Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K
-FITBP - Fifth Third Bancorp - Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A
-FIVE - Five Below, Inc. - Common Stock
-FIVN - Five9, Inc. - Common Stock
 FIVY - YieldMax Dorsey Wright Hybrid 5 Income ETF
 FIXD - First Trust Smith Opportunistic Fixed Income ETF
 FIZZ - National Beverage Corp. - Common Stock
-FJP - First Trust Japan AlphaDEX Fund
 FKU - First Trust United Kingdom AlphaDEX Fund
-FKWL - Franklin Wireless Corp. - common stock
 FLD - Fold Holdings, Inc. - Class A Common Stock
-FLDB - Fidelity Low Duration Bond ETF
-FLDDW - Fold Holdings, Inc. - Warrant
-FLEX - Flex Ltd. - Ordinary Shares
-FLGC - Flora Growth Corp. - Common Stock
-FLGT - Fulgent Genetics, Inc. - Common Stock
 FLL - Full House Resorts, Inc. - Common Stock
-FLN - First Trust Latin America AlphaDEX Fund
-FLNC - Fluence Energy, Inc. - Class A Common Stock
 FLNT - Fluent, Inc. - Common Stock
-FLUX - Flux Power Holdings, Inc. - Common Stock
-FLWS - 1-800-FLOWERS.COM, Inc. - Class A Common Stock
 FLX - BingEx Limited - American Depositary Shares
-FLXS - Flexsteel Industries, Inc. - Common Stock
-FLYE - Fly-E Group, Inc. - Common Stock
-FLYW - Flywire Corporation - Voting Common Stock
-FMAO - Farmers & Merchants Bancorp, Inc. - Common Stock
-FMB - First Trust Managed Municipal ETF
-FMBH - First Mid Bancshares, Inc. - Common Stock
-FMED - Fidelity Disruptive Medicine ETF
-FMET - Fidelity Metaverse ETF
 FMFC - Kandal M Venture Limited - Class A ordinary Shares
 FMHI - First Trust Municipal High Income ETF
 FMNB - Farmers National Banc Corp. - Common Stock
 FMST - Foremost Clean Energy Ltd. - Common Shares
-FMSTW - Foremost Clean Energy Ltd. - Warrant
-FMTM - MarketDesk Focused U.S. Momentum ETF
-FMUB - Fidelity Municipal Bond Opportunities ETF
-FMUN - Fidelity Systematic Municipal Bond Index ETF
-FNGR - FingerMotion, Inc. - common stock
-FNK - First Trust Mid Cap Value AlphaDEX Fund
-FNKO - Funko, Inc. - Class A Common Stock
 FNLC - First Bancorp, Inc (ME) - Common Stock
 FNWB - First Northwest Bancorp - Common Stock
 FNWD - Finward Bancorp - common stock
-FNX - First Trust Mid Cap Core AlphaDEX Fund
-FNY - First Trust Mid Cap Growth AlphaDEX Fund
 FOLD - Amicus Therapeutics, Inc. - Common Stock
 FONR - Fonar Corporation - Common Stock
-FORA - Forian Inc. - Common Stock
 FORD - Forward Industries, Inc. - Common Stock
-FORL - Four Leaf Acquisition Corporation - Class A Common Stock
-FORLU - Four Leaf Acquisition Corporation - Unit
-FORLW - Four Leaf Acquisition Corporation - Warrants
-FORM - FormFactor, Inc. - Common Stock
-FORR - Forrester Research, Inc. - Common Stock
-FORTY - Formula Systems (1985) Ltd. - American Depositary Shares
-FOSL - Fossil Group, Inc. - Common Stock
-FOSLL - Fossil Group, Inc. - 7% Senior Notes due 2026
-FOX - Fox Corporation - Class B Common Stock
-FOXA - Fox Corporation - Class A Common Stock
-FOXF - Fox Factory Holding Corp. - Common Stock
 FOXX - Foxx Development Holdings Inc. - Common Stock
 FOXXW - Foxx Development Holdings Inc. - Warrant
-FPA - First Trust Asia Pacific Ex-Japan AlphaDEX Fund
-FPAY - FlexShopper, Inc. - Common Stock
 FPXE - First Trust IPOX Europe Equity Opportunities ETF
-FPXI - First Trust International Equity Opportunities ETF
-FRAF - Franklin Financial Services Corporation - Common Stock
 FRBA - First Bank  - Common Stock
-FRD - Friedman Industries Inc. - Common Stock
 FRGT - Freight Technologies, Inc. - Ordinary Shares
-FRHC - Freedom Holding Corp. - Common Stock
-FRME - First Merchants Corporation - Common Stock
 FRMEP - First Merchants Corporation - Depository Shares, each representing a 1/100th interest in a share of 7.50% Non-Cumulative Perpetual Preferred Stock, A
-FROG - JFrog Ltd. - Ordinary shares
-FRPH - FRP Holdings, Inc. - Common Stock
 FRPT - Freshpet, Inc. - Common Stock
 FRSH - Freshworks Inc. - Class A Common Stock
 FRST - Primis Financial Corp. - Common Stock
@@ -1706,369 +1631,26 @@ FRSX - Foresight Autonomous Holdings Ltd. - American Depositary Shares
 FSBC - Five Star Bancorp - Common Stock
 FSBW - FS Bancorp, Inc. - Common Stock
 FSCS - First Trust SMID Capital Strength ETF
-FSEA - First Seacoast Bancorp, Inc. - Common Stock
-FSFG - First Savings Financial Group, Inc. - Common Stock
 FSGS - First Trust SMID Growth Strength ETF
-FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
-FSHPR - Flag Ship Acquisition Corp. - Right
-FSHPU - Flag Ship Acquisition Corp. - Unit
-FSLR - First Solar, Inc. - Common Stock
 FSTR - L.B. Foster Company - Common Stock
-FSUN - FirstSun Capital Bancorp - Common Stock
-FSV - FirstService Corporation - Common Shares
-FSZ - First Trust Switzerland AlphaDEX Fund
 FTA - First Trust Large Cap Value AlphaDEX Fund
-FTAG - First Trust Indxx Global Agriculture ETF
-FTAI - FTAI Aviation Ltd. - Common Stock
-FTAIM - FTAI Aviation Ltd. - 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares
-FTAIN - FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares
 FTC - First Trust Large Cap Growth AlphaDEX Fund
 FTCI - FTC Solar, Inc. - Common Stock
-FTCS - First Trust Capital Strength ETF
-FTDR - Frontdoor, Inc. - Common Stock
 FTDS - First Trust Dividend Strength ETF
 FTEK - Fuel Tech, Inc. - Common Stock
 FTEL - Fitell Corporation - Ordinary Shares
-FTFT - Future FinTech Group Inc. - Common Stock
-FTGC - First Trust Global Tactical Commodity Strategy Fund
-FTGS - First Trust Growth Strength ETF
-FTHI - First Trust BuyWrite Income ETF
-FTHM - Fathom Holdings Inc. - Common Stock
-FTLF - FitLife Brands, Inc. - Common Stock
-FTNT - Fortinet, Inc. - Common Stock
 FTQI - First Trust Nasdaq BuyWrite Income ETF
-FTRE - Fortrea Holdings Inc. - Common Stock
-FTRI - First Trust Indxx Global Natural Resources Income ETF
 FTRK - FAST TRACK GROUP - Ordinary shares
 FTSL - First Trust Senior Loan Fund
 FTSM - First Trust Enhanced Short Maturity ETF
-FTXG - First Trust Nasdaq Food & Beverage ETF
-FTXH - First Trust Nasdaq Pharmaceuticals ETF
-FTXL - First Trust Nasdaq Semiconductor ETF
-FTXN - First Trust Nasdaq Oil & Gas ETF
-FTXO - First Trust Nasdaq Bank ETF
-FTXR - First Trust Nasdaq Transportation ETF
-FUFU - BitFuFu Inc. - Class A Ordinary Shares
-FUFUW - BitFuFu Inc. - Warrant
-FULC - Fulcrum Therapeutics, Inc. - Common Stock
 FULT - Fulton Financial Corporation - Common Stock
-FULTP - Fulton Financial Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
-FUNC - First United Corporation - Common Stock
-FUND - Sprott Focus Trust, Inc. - Closed End Fund
-FUSB - First US Bancshares, Inc. - Common Stock
-FUTU - Futu Holdings Limited - American Depositary Shares
-FV - First Trust Dorsey Wright Focus 5 ETF
-FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
-FVCB - FVCBankcorp, Inc. - Common Stock
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
-FWONA - Liberty Media Corporation - Series A Liberty Formula One Common Stock
-FWONK - Liberty Media Corporation - Series C Liberty Formula One Common Stock
-FWRD - Forward Air Corporation - Common Stock
-FWRG - First Watch Restaurant Group, Inc. - Common Stock
-FXNC - First National Corporation - Common Stock
-FYBR - Frontier Communications Parent, Inc. - Common Stock
 FYC - First Trust Small Cap Growth AlphaDEX Fund
-FYT - First Trust Small Cap Value AlphaDEX Fund
-FYX - First Trust Small Cap Core AlphaDEX Fund
 GABC - German American Bancorp, Inc. - Common Stock
 GAIA - Gaia, Inc. - Class A Common Stock
-GAIN - Gladstone Investment Corporation - Business Development Company
 GAINI - Gladstone Investment Corporation - 7.875% Notes due 2030
-GAINL - Gladstone Investment Corporation - 8.00% Notes due 2028
-GAINN - Gladstone Investment Corporation - 5.00% Notes Due 2026
 GAINZ - Gladstone Investment Corporation - 4.875% Notes due 2028
-GALT - Galectin Therapeutics Inc. - Common Stock
-GAMB - Gambling.com Group Limited - Ordinary Shares
-GAME - GameSquare Holdings, Inc. - Common stock
 GANX - Gain Therapeutics, Inc. - Common Stock
-GASS - StealthGas, Inc. - common stock
-GAUZ - Gauzy Ltd. - Ordinary Shares
-GBDC - Golub Capital BDC, Inc. - Closed End Fund
 GBFH - GBank Financial Holdings Inc. - Common Stock
-GBIO - Generation Bio Co. - Common stock
-GBUG - Sprott Active Gold & Silver Miners ETF
 GCBC - Greene County Bancorp, Inc. - Common Stock
-GCL - GCL Global Holdings Ltd - Ordinary Shares
-GCLWW - GCL Global Holdings Ltd - Warrants
-GCMG - GCM Grosvenor Inc. - Class A Common Stock
-GCMGW - GCM Grosvenor Inc. - Warrant
-GCT - GigaCloud Technology Inc - Class A Ordinary Shares
-GCTK - GlucoTrack, Inc. - Common Stock
-GDC - GD Culture Group Limited - Common Stock
-GDEN - Golden Entertainment, Inc. - Common Stock
-GDEV - GDEV Inc. - Ordinary Shares
-GDEVW - GDEV Inc. - Warrant
-GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
-GDRX - GoodRx Holdings, Inc. - Class A Common Stock
-GDS - GDS Holdings Limited - American Depositary Shares
-GDTC - CytoMed Therapeutics Limited - Ordinary Shares
-GDYN - Grid Dynamics Holdings, Inc. - Class A Common Stock
-GECC - Great Elm Capital Corp. - Closed End Fund
-GECCH - Great Elm Capital Corp. - 8.125% Notes Due 2029
-GECCI - Great Elm Capital Corp. - 8.50% NOTES DUE 2029
-GECCO - Great Elm Capital Corp. - 5.875% Notes due 2026
-GECCZ - Great Elm Capital Corp. - 8.75% Notes due 2028
-GEG - Great Elm Group, Inc.  - Common Stock
-GEGGL - Great Elm Group, Inc.  - 7.25% Notes due 2027
-GEHC - GE HealthCare Technologies Inc. - Common Stock
-GELS - Gelteq Limited - Ordinary Shares
-GEME - Pacific North of South EM Equity Active ETF
-GEN - Gen Digital Inc. - Common Stock
-GENK - GEN Restaurant Group, Inc. - Class A Common Stock
-GENVR - Gen Digital Inc. - Contingent Value Rights
-GEOS - Geospace Technologies Corporation - Common Stock
-GERN - Geron Corporation - Common Stock
-GEVO - Gevo, Inc. - Common Stock
-GFAI - Guardforce AI Co., Limited - Ordinary Shares
-GFAIW - Guardforce AI Co., Limited - Warrant
-GFGF - Guru Favorite Stocks ETF
-GFLW - VictoryShares Free Cash Flow Growth ETF
-GFS - GlobalFoundries Inc. - Ordinary Share
-GGAL - Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying
-GGLL - Direxion Daily GOOGL Bull 2X Shares
-GGLS - Direxion Daily GOOGL Bear 1X Shares
-GGR - Gogoro Inc. - Ordinary Shares
-GGROW - Gogoro Inc. - Warrant
-GH - Guardant Health, Inc. - Common Stock
-GHRS - GH Research PLC - Ordinary Shares
-GIBO - GIBO Holdings Limited - Class A Ordinary Shares
-GIBOW - GIBO Holdings Limited - Warrants
-GIFI - Gulf Island Fabrication, Inc. - Common Stock
-GIFT - Giftify, Inc. - Common Stock
-GIG - GigCapital7 Corp. - Class A Ordinary Share
-GIGGU - GigCapital7 Corp. - Unit
-GIGGW - GigCapital7 Corp. - Warrant
-GIGM - GigaMedia Limited - Ordinary Shares
-GIII - G-III Apparel Group, LTD. - Common Stock
-GILD - Gilead Sciences, Inc. - Common Stock
-GILT - Gilat Satellite Networks Ltd. - Ordinary Shares
-GIND - Goldman Sachs India Equity ETF
-GINX - SGI Enhanced Global Income ETF
-GIPR - Generation Income Properties Inc. - Common stock
-GIPRW - Generation Income Properties Inc. - Warrant
-GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
-GLAD - Gladstone Capital Corporation - Closed End Fund
-GLADZ - Gladstone Capital Corporation - 7.75% Notes due 2028
-GLBE - Global-E Online Ltd. - ordinary shares
-GLBS - Globus Maritime Limited - Common Stock
-GLBZ - Glen Burnie Bancorp - Common Stock
-GLCR - GlacierShares Nasdaq Iceland ETF
-GLDD - Great Lakes Dredge & Dock Corporation - Common Stock
-GLDI - ETRACS Gold Shares Covered Call ETNs due February 2, 2033
-GLDY - Defiance Gold Enhanced Options Income ETF
-GLE - Global Engine Group Holding Limited - Class A Ordinary Shares
-GLMD - Galmed Pharmaceuticals Ltd. - Ordinary Shares
-GLNG - Golar LNG Limited - Common Shares
-GLOW - VictoryShares WestEnd Global Equity ETF
-GLPG - Galapagos NV - American Depositary Shares
-GLPI - Gaming and Leisure Properties, Inc. - Common Stock
-GLRE - Greenlight Reinsurance, Ltd. - Class A Ordinary Shares
-GLSI - Greenwich LifeSciences, Inc. - Common stock
-GLTO - Galecto, Inc. - Common Stock
-GLUE - Monte Rosa Therapeutics, Inc. - Common Stock
-GLXG - Galaxy Payroll Group Limited - Class A Ordinary Shares
-GLXY - Galaxy Digital Inc. - Class A common stock
-GMAB - Genmab A/S - American Depositary Shares
-GMGI - Golden Matrix Group, Inc. - Common Stock
-GMHS - Gamehaus Holdings Inc. - Class A Ordinary Shares
-GMM - Global Mofy AI Limited  - Class A Ordinary Shares
-GNFT - GENFIT S.A. - American Depositary Shares
-GNLN - Greenlane Holdings, Inc. - Class A Common Stock
-GNLX - Genelux Corporation - Common Stock
-GNMA - iShares GNMA Bond ETF
-GNOM - Global X Genomics & Biotechnology ETF
-GNPX - Genprex, Inc. - Common Stock
-GNSS - Genasys Inc. - Common Stock
-GNTA - Genenta Science S.p.A. - American Depositary Shares
-GNTX - Gentex Corporation - Common Stock
-GO - Grocery Outlet Holding Corp. - Common Stock
-GOCO - GoHealth, Inc. - Class A Common Stock
-GOGL - Golden Ocean Group Limited - Common Stock
-GOGO - Gogo Inc. - Common Stock
-GOOD - Gladstone Commercial Corporation - Real Estate Investment Trust
-GOODN - Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeemable Preferred Stock
-GOODO - Gladstone Commercial Corporation - 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share
-GOOG - Alphabet Inc. - Class C Capital Stock
-GOOGL - Alphabet Inc. - Class A Common Stock
-GORV - Lazydays Holdings, Inc. - Common Stock
-GOSS - Gossamer Bio, Inc. - Common Stock
-GOVI - Invesco Equal Weight 0-30 Year Treasury ETF
-GOVX - GeoVax Labs, Inc. - Common Stock
-GOVXW - GeoVax Labs, Inc. - Warrants
-GP - GreenPower Motor Company Inc. - Common Shares
-GPAT - GP-Act III Acquisition Corp. - Class A Ordinary Share
-GPATU - GP-Act III Acquisition Corp. - Units
-GPATW - GP-Act III Acquisition Corp. - Warrants
-GPCR - Structure Therapeutics Inc. - American Depositary Shares
-GPIQ - Goldman Sachs Nasdaq-100 Premium Income ETF
-GPIX - Goldman Sachs S&P 500 Premium Income ETF
-GPRE - Green Plains, Inc. - Common Stock
-GPRF - Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF
-GPRO - GoPro, Inc. - Class A Common Stock
-GQQQ - Astoria US Quality Growth Kings ETF
-GRAB - Grab Holdings Limited - Class A Ordinary Shares
-GRABW - Grab Holdings Limited - Warrant
-GRAL - GRAIL, Inc. - Common Stock
-GRAN - Grande Group Limited - Class A Ordinary Shares
-GRCE - Grace Therapeutics, Inc. - Common Stock
-GREE - Greenidge Generation Holdings Inc. - Class A Common Stock
-GREEL - Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026
-GRFS - Grifols, S.A. - American Depositary Shares
-GRI - GRI Bio, Inc. - Common Stock
-GRID - First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund
-GRIN - VictoryShares International Free Cash Flow Growth ETF
-GRNQ - Greenpro Capital Corp. - Common Stock
-GROW - U.S. Global Investors, Inc. - Class A Common Stock
-GRPN - Groupon, Inc. - Common Stock
-GRRR - Gorilla Technology Group Inc. - Ordinary shares
-GRRRW - Gorilla Technology Group Inc. - Warrant
-GRVY - GRAVITY Co., Ltd. - American depositary shares, each representing one common share.
-GRW - TCW Compounders ETF
-GRWG - GrowGeneration Corp. - Common Stock
-GRYP - Gryphon Digital Mining, Inc - Common Stock
-GSAT - Globalstar, Inc. - Common Stock
-GSBC - Great Southern Bancorp, Inc. - Common Stock
-GSHD - Goosehead Insurance, Inc. - Class A Common Stock
-GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
-GSHRU - Gesher Acquisition Corp. II - Units
-GSHRW - Gesher Acquisition Corp. II - Warrants
-GSIB - Themes Global Systemically Important Banks ETF
-GSIT - GSI Technology, Inc. - Common Stock
-GSIW - Garden Stage Limited - Ordinary Shares
-GSM - Ferroglobe PLC - Ordinary Shares
-GSRT - GSR III Acquisition Corp. - Ordinary Shares
-GSRTR - GSR III Acquisition Corp. - Right
-GSRTU - GSR III Acquisition Corp. - Unit
-GSUN - Golden Sun Health Technology Group Limited - Class A Ordinary Shares
-GT - The Goodyear Tire & Rubber Company - Common Stock
-GTBP - GT Biopharma, Inc. - Common Stock
-GTEC - Greenland Technologies Holding Corporation - Ordinary Shares
-GTEN - Gores Holdings X, Inc. - Class A ordinary shares
-GTENU - Gores Holdings X, Inc. - Units
-GTENW - Gores Holdings X, Inc. - Warrants
-GTI - Graphjet Technology - Class A Ordinary Shares
-GTIM - Good Times Restaurants Inc. - Common Stock
-GTLB - GitLab Inc. - Class A Common Stock
-GTM - ZoomInfo Technologies Inc. - Common Stock
-GTR - WisdomTree Target Range Fund
-GTX - Garrett Motion Inc. - Common Stock
-GURE - Gulf Resources, Inc. - Common Stock
-GUTS - Fractyl Health, Inc. - Common Stock
-GV - Visionary Holdings Inc. - Common Shares
-GVH - Globavend Holdings Limited - Ord Shares
-GWAV - Greenwave Technology Solutions, Inc. - Common Stock
-GWRS - Global Water Resources, Inc. - common stock
-GXAI - Gaxos.ai Inc. - Common Stock
-GXDW - Global X Dorsey Wright Thematic ETF
-GYRE - Gyre Therapeutics, Inc. - Common Stock
-GYRO - Gyrodyne , LLC - Common Stock
-HAFC - Hanmi Financial Corporation - Common Stock
-HAIN - The Hain Celestial Group, Inc. - Common Stock
-HALO - Halozyme Therapeutics, Inc. - Common Stock
-HAO - Haoxi Health Technology Limited - Class A Ord Share
-HAS - Hasbro, Inc. - Common Stock
-HBAN - Huntington Bancshares Incorporated - Common Stock
-HBANL - Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock
-HBANM - Huntington Bancshares Incorporated - Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock
-HBANP - Huntington Bancshares Incorporated - Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock
-HBCP - Home Bancorp, Inc. - Common Stock
-HBDC - Hilton BDC Corporate Bond ETF
-HBIO - Harvard Bioscience, Inc. - Common Stock
-HBNB - Hotel101 Global Holdings Corp. - Class A Ordinary Shares
-HBNC - Horizon Bancorp, Inc. - Common Stock
-HBT - HBT Financial, Inc. - Common Stock
-HCAI - Huachen AI Parking Management Technology Holding Co., Ltd. - Ordinary Shares
-HCAT - Health Catalyst, Inc - Common stock
-HCHL - Happy City Holdings Limited - Class A Ordinary shares
-HCKT - The Hackett Group, Inc. - Common Stock
-HCM - HUTCHMED (China) Limited - American Depositary Shares
-HCOW - Amplify COWS Covered Call ETF
-HCSG - Healthcare Services Group, Inc. - Common Stock
-HCTI - Healthcare Triangle, Inc. - Common Stock
-HCWB - HCW Biologics Inc. - Common Stock
-HDL - SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares
-HDSN - Hudson Technologies, Inc. - Common Stock
-HEAL - Global X HealthTech ETF
-HECO - SPDR Galaxy Hedged Digital Asset Ecosystem ETF
-HEJD - VictoryShares Hedged Equity Income ETF
-HEPS - D-Market Electronic Services & Trading - American Depositary Shares
-HEQQ - JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF
-HERO - Global X Video Games & Esports ETF
-HFSP - TradersAI Large Cap Equity & Cash ETF
-HGBL - Heritage Global Inc. - Common Stock
-HHS - Harte Hanks, Inc. - Common Stock
-HIFS - Hingham Institution for Savings - Common Stock
-HIHO - Highway Holdings Limited - Common Stock
-HIMX - Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.
-HIT - Health In Tech, Inc. - Class A Common Stock
-HITI - High Tide Inc. - Common Shares
-HIVE - HIVE Digital Technologies Ltd - Common Shares
-HLP - Hongli Group Inc. - Ordinary Shares
-HLXB - Helix Acquisition Corp. II - Class A Ordinary Shares
-HOFT - Hooker Furnishings Corporation - Common Stock
-HOLOW - MicroCloud Hologram Inc. - Warrant
-HON - Honeywell International Inc. - Common Stock
-HONDU - HCM II Acquisition Corp. - Unit
-HONDW - HCM II Acquisition Corp. - Warrant
-HONE - HarborOne Bancorp, Inc. - Common Stock
-HOOG - Leverage Shares 2X Long HOOD Daily ETF
-HOOK - HOOKIPA Pharma Inc. - Common Stock
-HOVR - New Horizon Aircraft Ltd. - Class A Ordinary Shares
-HPK - HighPeak Energy, Inc. - Common Stock
-HPKEW - HighPeak Energy, Inc. - Warrant
-HQGO - Hartford US Quality Growth ETF
-HQI - HireQuest, Inc. - Common Stock
-HQY - HealthEquity, Inc. - Common Stock
-HRTS - Tema Heart & Health ETF
-HRTX - Heron Therapeutics, Inc.   - Common Stock
-HSII - Heidrick & Struggles International, Inc. - Common Stock
-HSPO - Horizon Space Acquisition I Corp. - Ordinary Shares
-HSPOR - Horizon Space Acquisition I Corp. - Right
-HSPOW - Horizon Space Acquisition I Corp. - Warrant
-HSPT - Horizon Space Acquisition II Corp. - Ordinary share
-HSPTR - Horizon Space Acquisition II Corp. - Right
-HST - Host Hotels & Resorts, Inc. - Common Stock
-HTBK - Heritage Commerce Corp - Common Stock
-HTCO - High-Trend International Group - Class A Ordinary Shares
-HTCR - Heartcore Enterprises, Inc. - Common Stock
-HTHT - H World Group Limited - American Depositary Shares
-HTLM - HomesToLife Ltd - Ordinary Shares
-HTO - H2O America  - Common Stock
-HTOO - Fusion Fuel Green PLC - Ordinary Shares
-HTZ - Hertz Global Holdings, Inc - Common Stock
-HUBCW - Hub Cyber Security Ltd. - Warrant expiring 2/27/28
-HUMA - Humacyte, Inc. - Common Stock
-HUT - Hut 8 Corp. - Common Stock
-HVIIU - Hennessy Capital Investment Corp. VII - Unit
-HWBK - Hawthorn Bancshares, Inc. - Common Stock
-HWC - Hancock Whitney Corporation - Common Stock
-HYDR - Global X Hydrogen ETF
-HYLS - First Trust Tactical High Yield ETF
-HYMCL - Hycroft Mining Holding Corporation - Warrants
-HYXF - iShares ESG Advanced High Yield Corporate Bond ETF
-HYZD - WisdomTree Interest Rate Hedged High Yield Bond Fund
-IAC - IAC Inc. - Common Stock
-IAS - Integral Ad Science Holding Corp. - Common Stock
-IBCP - Independent Bank Corporation - Common Stock
-IBG - Innovation Beverage Group Limited - Ordinary Shares
-IBGA - iShares iBonds Dec 2044 Term Treasury ETF
-IBGL - iShares iBonds Dec 2055 Term Treasury ETF
-IBOT - VanEck Robotics ETF
-IBTF - iShares iBonds Dec 2025 Term Treasury ETF
-IBTJ - iShares iBonds Dec 2029 Term Treasury ETF
-IBTO - iShares iBonds Dec 2033 Term Treasury ETF
-IBTQ - iShares iBonds Dec 2035 Term Treasury ETF
-ICAD - icad inc. - Common Stock
-ICHR - Ichor Holdings - Ordinary Shares
-ICLR - ICON plc - Ordinary Shares
-ICMB - Investcorp Credit Management BDC, Inc. - Common Stock
-IDN - Intellicheck, Inc. - Common Stock
-IEUS - iShares MSCI Europe Small-Cap ETF
-IFGL - iShares International Developed Real Estate ETF
-IFRX - InflaRx N.V. - Common Stock
-IFV - First Trust Dorsey Wright International Focus 5 ETF
-IGF - iShares Global Infrastructure ETF
-IGMS - IGM Biosciences, Inc. - Common Stock
-IGOV - iShares International Treasury Bond ETF
