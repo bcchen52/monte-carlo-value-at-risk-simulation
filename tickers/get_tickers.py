@@ -3,16 +3,14 @@ import os
 import datetime as dt 
 import yfinance as yf
 import requests as req
-import time
 from io import StringIO
 from curl_cffi import requests
-from requests_ratelimiter import LimiterSession, RequestRate, Duration, Limiter
 from utils.shared_lock import FILE_LOCK
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 output_file_path = os.path.join(base_dir, "ticker_list.txt")
 time_path = os.path.join(base_dir, "timestamp.txt")
-batch_size = 10
+batch_size = 10 
 
 def fetch_nasdaq_tickers():
     url_nasdaq = "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt"
@@ -57,8 +55,7 @@ def fetch_nasdaq_tickers():
         #print(all_tickers)
         
         session = requests.Session(impersonate="chrome")
-        #getting rate limited, so using curl_cffi and crequests to impersonate browser
-        #this solution works when running locally, but still causes rate limit errors when run from Github Actions, instead, implemented batch sizes
+        #impersonate browswer incase we come into any issues regarding this
 
         unique_tickers = []
 
@@ -67,18 +64,18 @@ def fetch_nasdaq_tickers():
         for i in range(0, len(all_tickers), batch_size):
             #splicing is safe for out of bounds, so don't need to worry about specifics of the last splice when not perfectly divisble by batch_size
             yf_data = yf.download(all_tickers[i:i+batch_size], period="5d", group_by="ticker", auto_adjust=True, threads=False, session=session)
+            #yf_data is a MultiIndex with columns in the format of [(SYMBOL, VAR1), (SYMBOL, VAR2) ...]
+            #the symbol name itself is the level at index 0, which we get with get_level_values(0), and we use.unique since each symbol has multiple columns for each corresponding VAR
+            #if we fail to find a symbol, then we still have the columns, but the columns value will be NaN
+            #...notna() turns all NaN to false, first .any() = True if any are true, first call is for all rows in each col, and second call is for all cols
+            #all() would be a better metric, but issues arise with period=1d, when two dates might be available, but one is empty due to time constraint
             unique_tickers.extend(ticker for ticker in yf_data.columns.get_level_values(0).unique() if yf_data[ticker].notna().any().any())
             time.sleep(1)
+            #10 tickers every 1-2 seconds prevents us from hitting rate limit
 
         unique_tickers = sorted(unique_tickers)
 
         #print(unique_tickers)
-        
-        #yf_data is a MultiIndex with columns in the format of [(SYMBOL, VAR1), (SYMBOL, VAR2) ...]
-        #the symbol name itself is the level at index 0, which we get with get_level_values(0), and we use.unique since each symbol has multiple columns for each corresponding VAR
-        #if we fail to find a symbol, then we still have the columns, but the columns value will be NaN
-        #...notna() turns all NaN to false, first .any() = True if any are true, first call is for all rows in each col, and second call is for all cols
-        #all() would be a better metric, but issues arise with period=1d, when two dates might be available, but one is empty due to time constraint
 
         with FILE_LOCK:
             with open(output_file_path, "w") as f:

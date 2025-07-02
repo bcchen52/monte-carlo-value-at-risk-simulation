@@ -35,12 +35,10 @@ pyarrow==20.0.0
 pycparser==2.22
 pydeck==0.9.1
 pyparsing==3.2.3
-pyrate-limiter==2.10.0
 python-dateutil==2.9.0.post0
 pytz==2025.2
 referencing==0.36.2
 requests==2.32.4
-requests-ratelimiter==0.7.0
 rpds-py==0.25.1
 six==1.17.0
 smmap==5.0.2
