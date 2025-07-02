@@ -5,6 +5,7 @@ import yfinance as yf
 import requests as req
 from io import StringIO
 from curl_cffi import requests
+from requests_ratelimiter import LimiterSession, RequestRate, Duration, Limiter
 from utils.shared_lock import FILE_LOCK
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -54,9 +55,17 @@ def fetch_nasdaq_tickers():
         all_tickers = df1["Symbol"].tolist() + df2["ACT Symbol"].tolist()
         #print(all_tickers)
         
-        session = requests.Session(impersonate="chrome")
+        #session = requests.Session(impersonate="chrome")
         #getting rate limited, so using curl_cffi and crequests to impersonate browser
         #this solution works when running locally, but still causes rate limit errors when run from Github Actions, instead, implemented batch sizes
+
+        rate = RequestRate(8, Duration.SECOND)
+        limiter = Limiter(rate)
+        session = LimiterSession(limiter=limiter)
+
+        session.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+        })
 
         unique_tickers = []
 
@@ -68,7 +77,7 @@ def fetch_nasdaq_tickers():
             unique_tickers.extend(ticker for ticker in yf_data.columns.get_level_values(0).unique() if yf_data[ticker].notna().any().any())
 
         unique_tickers = sorted(unique_tickers)
-        
+
         #print(unique_tickers)
         
         #yf_data is a MultiIndex with columns in the format of [(SYMBOL, VAR1), (SYMBOL, VAR2) ...]
@@ -84,7 +93,7 @@ def fetch_nasdaq_tickers():
 
         with open(time_path, "w") as f:
             f.write(str(date2) if date2 > date1 else str(date1))
-        
+
         return True
 
     except Exception as e:
