@@ -11,7 +11,7 @@ from utils.shared_lock import FILE_LOCK
 base_dir = os.path.dirname(os.path.abspath(__file__))
 output_file_path = os.path.join(base_dir, "ticker_list.txt")
 time_path = os.path.join(base_dir, "timestamp.txt")
-batch_size = 200
+batch_size = 10
 
 def fetch_nasdaq_tickers():
     url_nasdaq = "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt"
@@ -55,18 +55,10 @@ def fetch_nasdaq_tickers():
         all_tickers = df1["Symbol"].tolist() + df2["ACT Symbol"].tolist()
         #print(all_tickers)
         
-        #session = requests.Session(impersonate="chrome")
+        session = requests.Session(impersonate="chrome")
         #getting rate limited, so using curl_cffi and crequests to impersonate browser
         #this solution works when running locally, but still causes rate limit errors when run from Github Actions, instead, implemented batch sizes
-
-        rate = RequestRate(8, Duration.SECOND)
-        limiter = Limiter(rate)
-        session = LimiterSession(limiter=limiter)
-
-        session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
-        })
-
+        
         unique_tickers = []
 
         #Test yf.download function 
@@ -75,6 +67,7 @@ def fetch_nasdaq_tickers():
             #splicing is safe for out of bounds, so don't need to worry about specifics of the last splice when not perfectly divisble by batch_size
             yf_data = yf.download(all_tickers[i:i+batch_size], period="5d", group_by="ticker", auto_adjust=True, threads=False, session=session)
             unique_tickers.extend(ticker for ticker in yf_data.columns.get_level_values(0).unique() if yf_data[ticker].notna().any().any())
+            time.sleep(1)
 
         unique_tickers = sorted(unique_tickers)
 
