@@ -10,7 +10,7 @@ from utils.shared_lock import FILE_LOCK
 base_dir = os.path.dirname(os.path.abspath(__file__))
 output_file_path = os.path.join(base_dir, "ticker_list.txt")
 time_path = os.path.join(base_dir, "timestamp.txt")
-batch_sizew = 200
+batch_size = 200
 
 def fetch_nasdaq_tickers():
     url_nasdaq = "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt"
