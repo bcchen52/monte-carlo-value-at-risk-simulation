@@ -3,6 +3,7 @@ import os
 import datetime as dt 
 import yfinance as yf
 import requests as req
+import time
 from io import StringIO
 from curl_cffi import requests
 from requests_ratelimiter import LimiterSession, RequestRate, Duration, Limiter
@@ -58,7 +59,7 @@ def fetch_nasdaq_tickers():
         session = requests.Session(impersonate="chrome")
         #getting rate limited, so using curl_cffi and crequests to impersonate browser
         #this solution works when running locally, but still causes rate limit errors when run from Github Actions, instead, implemented batch sizes
-        
+
         unique_tickers = []
 
         #Test yf.download function 
