@@ -3,6 +3,7 @@ import os
 import datetime as dt 
 import yfinance as yf
 import requests as req
+import time
 from io import StringIO
 from curl_cffi import requests
 from utils.shared_lock import FILE_LOCK
