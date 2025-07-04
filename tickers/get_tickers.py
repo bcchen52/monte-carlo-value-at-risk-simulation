@@ -71,7 +71,7 @@ def fetch_nasdaq_tickers():
             #...notna() turns all NaN to false, first .any() = True if any are true, first call is for all rows in each col, and second call is for all cols
             #all() would be a better metric, but issues arise with period=1d, when two dates might be available, but one is empty due to time constraint
             unique_tickers.extend(ticker for ticker in yf_data.columns.get_level_values(0).unique() if yf_data[ticker].notna().any().any())
-            time.sleep(1)
+            time.sleep(2)
             #10 tickers every 1-2 seconds prevents us from hitting rate limit
 
         unique_tickers = sorted(unique_tickers)
