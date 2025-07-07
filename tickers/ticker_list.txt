@@ -676,7 +676,6 @@ ASYS - Amtech Systems, Inc. - Common Stock
 ATAI - ATAI Life Sciences N.V. - Common Shares
 ATAT - Atour Lifestyle Holdings Limited - American Depositary Shares
 ATCH - AtlasClear Holdings, Inc. Common Stock
-ATCOL - Atlas Corp. - 7.125% Notes due 2027
 ATEC - Alphatec Holdings, Inc. - Common Stock
 ATEN - A10 Networks, Inc. Common Stock
 ATER - Aterian, Inc. - Common Stock
@@ -2251,7 +2250,6 @@ CTVA - Corteva, Inc. Common Stock
 CTWO - COtwo Advisors Physical European Carbon Allowance Trust Common units
 CTXR - Citius Pharmaceuticals, Inc. - Common Stock
 CUB - Lionheart Holdings - Class A Ordinary Shares
-CUBA - The Herzfeld Caribbean Basin Fund, Inc. - Closed End Fund
 CUBB - Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034
 CUBE - CubeSmart Common Shares
 CUBI - Customers Bancorp, Inc Common Stock
@@ -4458,6 +4456,7 @@ HEQQ - JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF
 HEQT - Simplify Hedged Equity ETF
 HERD - Pacer Cash Cows Fund of Funds ETF
 HERO - Global X Video Games & Esports ETF
+HERZ - Herzfeld Credit Income Fund, Inc.  - Closed End Fund
 HES - Hess Corporation Common Stock
 HESM - Hess Midstream LP Class A Representing Limited Partner Interests
 HEWJ - iShares Currency Hedged MSCI Japan ETF
@@ -5033,7 +5032,7 @@ INGR - Ingredion Incorporated Common Stock
 INHD - Inno Holdings Inc. - Common Stock
 INKM - SPDR SSgA Income Allocation ETF
 INKT - MiNK Therapeutics, Inc. - Common Stock
-INLF - INLIF LIMITED - ordinary shares
+INLF - INLIF LIMITED - Class A Ordinary shares
 INLX - Intellinetics, Inc. Common Stock
 INM - InMed Pharmaceuticals Inc. - Common Shares
 INMB - INmune Bio Inc. - Common stock
@@ -6142,7 +6141,6 @@ MBLY - Mobileye Global Inc. - Class A Common Stock
 MBND - SPDR Nuveen Municipal Bond ETF
 MBNE - SPDR Series Trust SPDR Nuveen Municipal Bond ESG ETF
 MBNKO - Medallion Bank - Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series G, par value $1.00 per share
-MBNKP - Medallion Bank - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F
 MBOT - Microbot Medical Inc.  - Common Stock
 MBOX - Freedom Day Dividend ETF
 MBRX - Moleculin Biotech, Inc. - Common Stock
@@ -6575,7 +6573,7 @@ MUSI - American Century Multisector Income ETF
 MUSQ - MUSQ Global Music Industry Index ETF
 MUST - Columbia Multi-Sector Municipal Income ETF
 MUU - Direxion Daily MU Bull 2X Shares
-MUX - McEwen Mining Inc. Common Stock
+MUX - McEwen Inc. Common Stock
 MVAL - VanEck ETF Trust VanEck Morningstar Wide Moat Value ETF
 MVBF - MVB Financial Corp. - Common Stock
 MVF - Blackrock MuniVest Fund, Inc. Common Stock
@@ -9026,7 +9024,7 @@ SNN - Smith & Nephew SNATS, Inc. Common Stock
 SNOA - Sonoma Pharmaceuticals, Inc. - Common Stock
 SNOU - ETF Opp Tr T-REX 2X Long SNOW Daily Target ETF
 SNOV - FT Vest U.S. Small Cap Moderate Buffer ETF - November
-SNOW - Snowflake Inc. Class A Common Stock
+SNOW - Snowflake Inc. Common Stock
 SNOY - Tidal Trust II YieldMax SNOW Option Income Strategy ETF
 SNPD - Xtrackers S&P Dividend Aristocrats Screened ETF
 SNPE - Xtrackers S&P 500 Scored & Screened ETF
@@ -9373,7 +9371,6 @@ SVOL - Simplify Volatility Premium ETF
 SVRA - Savara, Inc. - Common Stock
 SVRE - SaverOne 2014 Ltd. - American Depositary Shares
 SVREW - SaverOne 2014 Ltd. - Warrant
-SVT - Servotronics, Inc. Common Stock
 SVV - Savers Value Village, Inc. Common Stock
 SVXY - ProShares Short VIX Short Term Futures ETF
 SW - Smurfit WestRock plc Ordinary Shares
