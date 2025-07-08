@@ -52,7 +52,6 @@ ABLLL - Abacus Global Management, Inc. - 9.875% Fixed Rate Senior Notes due 2028
 ABLLW - Abacus Global Management, Inc. - Warrant
 ABLS - Abacus FCF ETF Trust Abacus FCF Small Cap Leaders ETF
 ABLV - Able View Global Inc. - Class B Ordinary Shares
-ABLVW - Able View Global Inc. - Warrant
 ABM - ABM Industries Incorporated Common Stock
 ABNB - Airbnb, Inc. - Class A Common Stock
 ABNY - Tidal Trust II YieldMax ABNB Option Income Strategy ETF
@@ -363,6 +362,7 @@ ALMU - Aeluma, Inc. - Common Stock
 ALNT - Allient Inc. - Common Stock
 ALNY - Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOT - AstroNova, Inc. - Common Stock
+ALRG - Allspring Exchange-Traded Funds Trust Allspring LT Large Core ETF
 ALRM - Alarm.com Holdings, Inc. - Common Stock
 ALRS - Alerus Financial Corporation - Common Stock
 ALSN - Allison Transmission Holdings, Inc. Common Stock
@@ -629,6 +629,7 @@ ASBA - Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033
 ASBP - Aspire Biopharma Holdings, Inc.  - Common Stock
 ASBPW - Aspire Biopharma Holdings, Inc.  - Warrant
 ASC - Ardmore Shipping Corporation Common Stock
+ASCE - Allspring Exchange-Traded Funds Trust Allspring SMID Core ETF
 ASEA - Global X FTSE Southeast Asia ETF
 ASET - FlexShares Real Assets Allocation Index Fund
 ASG - Liberty All-Star Growth Fund, Inc.
@@ -743,6 +744,7 @@ AUR - Aurora Innovation, Inc.  - Class A Common Stock
 AURA - Aura Biosciences, Inc. - Common Stock
 AUROW - Aurora Innovation, Inc.  - Warrant
 AUSF - Global X Funds Global X Adaptive U.S. Factor ETF
+AUSM - Allspring Exchange-Traded Funds Trust Allspring Ultra Short Municipal ETF
 AUST - Austin Gold Corp. Common Shares
 AUTL - Autolus Therapeutics plc - American Depositary Shares
 AUUD - Auddia Inc. - Common Stock
@@ -950,7 +952,6 @@ BCDA - BioCardia, Inc. - Common Stock
 BCDF - Listed Funds Trust Horizon Kinetics Blockchain Development ETF
 BCE - BCE, Inc. Common Stock
 BCG - Binah Capital Group, Inc. - Common Stock
-BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHI - The 2023 ETF Series Trust II GMO Beyond China ETF
 BCHP - Principal Exchange-Traded Funds Principal Focused Blue Chip ETF
@@ -1638,7 +1639,9 @@ CCCM - Columbus Circle Capital Corp I - Class A Ordinary Shares
 CCCMU - Columbus Circle Capital Corp I - Units
 CCCMW - Columbus Circle Capital Corp I - Warrant.
 CCCS - CCC Intelligent Solutions Holdings Inc. - Common Stock
+CCCX - Churchill Capital Corp X - Class A Ordinary Shares
 CCCXU - Churchill Capital Corp X - Unit
+CCCXW - Churchill Capital Corp X - Warrants
 CCD - Calamos Dynamic Convertible & Income Fund - Closed End Fund
 CCEC - Capital Clean Energy Carriers Corp. - Common Share
 CCEF - Calamos ETF Trust Calamos CEF Income & Arbitrage ETF
@@ -2049,6 +2052,7 @@ COO - The Cooper Companies, Inc.  - Common Stock
 COOK - Traeger, Inc. Common Stock
 COOP - Mr. Cooper Group Inc. - Common Stock
 COOT - Australian Oilseeds Holdings Limited - Ordinary Shares
+COOTW - Australian Oilseeds Holdings Limited - Warrant
 COP - ConocoPhillips Common Stock
 COPA - Themes ETF Trust Themes Copper Miners ETF
 COPJ - Sprott Junior Copper Miners ETF
@@ -2702,6 +2706,7 @@ DTIL - Precision BioSciences, Inc. - Common Stock
 DTM - DT Midstream, Inc. Common Stock 
 DTRE - First Trust Alerian Disruptive Technology Real Estate ETF
 DTSQ - DT Cloud Star Acquisition Corporation - Ordinary Shares
+DTSQR - DT Cloud Star Acquisition Corporation - Right
 DTSQU - DT Cloud Star Acquisition Corporation - Units
 DTSS - Datasea Inc. - Common Stock
 DTST - Data Storage Corporation - Common Stock
@@ -3143,7 +3148,6 @@ ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIX - SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
-ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESML - iShares ESG Aware MSCI USA Small-Cap ETF
 ESMV - iShares ESG Optimized MSCI USA Min Vol Factor ETF
@@ -3648,6 +3652,7 @@ FLUX - Flux Power Holdings, Inc. - Common Stock
 FLV - American Century Focused Large Cap Value ETF
 FLWS - 1-800-FLOWERS.COM, Inc. - Class A Common Stock
 FLX - BingEx Limited - American Depositary Shares
+FLXN - Horizon Funds Horizon Flexible Income ETF
 FLXR - TCW Flexible Income ETF
 FLXS - Flexsteel Industries, Inc. - Common Stock
 FLYD - Bank of Montreal MicroSectors Travel -3x Inverse Leveraged ETN
@@ -4031,6 +4036,7 @@ GENT - Spinnaker ETF Series Genter Capital Taxable Quality Intermediate ETF
 GENVR - Gen Digital Inc. - Contingent Value Rights
 GENW - Spinnaker ETF Series Genter Capital International Dividend ETF
 GEO - Geo Group Inc (The) REIT
+GEOA - WisdomTree Trust WisdomTree GeoAlpha Opportunities Fund
 GEOS - Geospace Technologies Corporation - Common Stock
 GERN - Geron Corporation - Common Stock
 GES - Guess?, Inc. Common Stock
@@ -6009,7 +6015,6 @@ LTM - LATAM Airlines Group S.A. American Depositary Shares (each representing tw
 LTPZ - Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund
 LTRN - Lantern Pharma Inc. - Common Stock
 LTRX - Lantronix, Inc. - Common Stock
-LTRY - Lottery.com, Inc. - Common Stock
 LTRYW - Lottery.com, Inc. - Warrant
 LTTI - First Trust Exchange-Traded Fund IV FT Vest 20+ Year Treasury & Target Income ETF
 LU - Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares
@@ -6078,6 +6083,7 @@ MAIN - Main Street Capital Corporation Common Stock
 MAKX - ProShares S&P Kensho Smart Factories ETF
 MAMA - Mama's Creations, Inc. - Common Stock
 MAMB - Monarch Ambassador Income Index ETF
+MAMK - MaxsMaking Inc. - Class A Ordinary Shares
 MAMO - Massimo Group - Common Stock
 MAN - ManpowerGroup Common Stock
 MANH - Manhattan Associates, Inc. - Common Stock
@@ -6336,7 +6342,6 @@ MKTX - MarketAxess Holdings, Inc. - Common Stock
 MKZR - MacKenzie Realty Capital, Inc. - Common Stock
 MLAB - Mesa Laboratories, Inc. - Common Stock
 MLAC - Mountain Lake Acquisition Corp. - Class A Ordinary Shares
-MLACR - Mountain Lake Acquisition Corp. - Right
 MLACU - Mountain Lake Acquisition Corp. - Units
 MLCO - Melco Resorts & Entertainment Limited - American Depositary Shares 
 MLDR - Global X Funds Global X Intermediate-Term Treasury Ladder ETF
@@ -6725,7 +6730,6 @@ NECB - NorthEast Community Bancorp, Inc. - Common Stock
 NEE - NextEra Energy, Inc. Common Stock
 NEGG - Newegg Commerce, Inc. - Common Shares
 NEHC - New Era Helium Inc - Common Stock
-NEHCW - New Era Helium Inc - Warrants
 NEM - Newmont Corporation
 NEN - New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership
 NEO - NeoGenomics, Inc. - Common Stock
@@ -7095,7 +7099,6 @@ OAKM - Harris Oakmark ETF Trust Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
-OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - Unified Series Trust OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - Unified Series Trust OneAscent Small Cap Core ETF
@@ -8716,6 +8719,7 @@ SEEM - SEI Select Emerging Markets Equity ETF
 SEER - Seer, Inc. - Class A Common Stock
 SEF - ProShares Short Financials
 SEG - Seaport Entertainment Group Inc. Common Stock
+SEGG - Lottery.com, Inc. - Common Stock
 SEI - Solaris Energy Infrastructure, Inc. Class A Common Stock
 SEIC - SEI Investments Company - Common Stock
 SEIE - SEI Select International Equity ETF
@@ -9395,7 +9399,6 @@ SXQG - ETC 6 Meridian Quality Growth ETF
 SXT - Sensient Technologies Corporation Common Stock
 SXTC - China SXT Pharmaceuticals, Inc. - Common Stock
 SXTP - 60 Degrees Pharmaceuticals, Inc. - Common Stock
-SXTPW - 60 Degrees Pharmaceuticals, Inc. - Warrant
 SY - So-Young International Inc. - American Depository Shares
 SYBT - Stock Yards Bancorp, Inc. - Common Stock
 SYBX - Synlogic, Inc. - Common Stock
@@ -9505,7 +9508,6 @@ TCX - Tucows Inc. - Common Stock
 TD - Toronto Dominion Bank (The) Common Stock
 TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
-TDACW - Translational Development Acquisition Corp. - Warrants
 TDC - Teradata Corporation Common Stock
 TDEC - First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - December
 TDF - Templeton Dragon Fund, Inc. Common Stock
@@ -10275,7 +10277,7 @@ VIG - Vanguard Div Appreciation ETF
 VIGI - Vanguard International Dividend Appreciation ETF
 VIGL - Vigil Neuroscience, Inc. - Common Stock
 VIK - Viking Holdings Ltd Ordinary Shares
-VINP - Vinci Partners Investments Ltd. - Class A Common Shares
+VINP - Vinci Compass Investments Ltd. - Class A Common Shares
 VIOG - Vanguard S&P Small-Cap 600 Growth ETF
 VIOO - Vanguard S&P Small-Cap 600 ETF
 VIOT - Viomi Technology Co., Ltd - American Depositary Shares
@@ -10442,7 +10444,6 @@ VWID - Virtus WMC International Dividend ETF
 VWO - Vanguard FTSE Emerging Markets ETF
 VWOB - Vanguard Emerging Markets Government Bond ETF
 VXF - Vanguard Extended Market ETF
-VXRT - Vaxart, Inc. - Common Stock
 VXUS - Vanguard Total International Stock ETF
 VXX - iPath Series B S&P 500 VIX Short-Term Futures ETN
 VXZ - iPath Series B S&P 500 VIX Mid-Term Futures ETN
@@ -10514,7 +10515,9 @@ WEEK - Roundhill ETF Trust Roundhill Weekly T-Bill ETF
 WEEL - Tidal Trust II Peerless Option Income Wheel ETF
 WELL - Welltower Inc. Common Stock
 WEN - Wendy's Company (The) - Common Stock
+WENN - Wen Acquisition Corp - Class A Ordinary Shares
 WENNU - Wen Acquisition Corp - Unit
+WENNW - Wen Acquisition Corp - Warrant
 WERN - Werner Enterprises, Inc. - Common Stock
 WES - Western Midstream Partners, LP Common Units Representing Limited Partner Interests
 WEST - Westrock Coffee Company - Common Stock
@@ -10653,6 +10656,7 @@ WULF - TeraWulf Inc. - Common Stock
 WVE - Wave Life Sciences Ltd. - Ordinary Shares
 WVVI - Willamette Valley Vineyards, Inc. - Common Stock
 WVVIP - Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock
+WW - WW International, Inc.  - Common Stock
 WWD - Woodward, Inc. - Common Stock
 WWJD - Inspire International ETF
 WWR - Westwater Resources, Inc. Common Stock
