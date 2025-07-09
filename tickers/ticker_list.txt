@@ -265,6 +265,7 @@ AIBU - Direxion Shares ETF Trust Direxion Daily AI and Big Data Bull 2X Shares
 AIEQ - Amplify ETF Trust Amplify AI Powered Equity ETF
 AIFD - TCW Artificial Intelligence ETF
 AIFE - Aifeex Nexus Acquisition Corporation - Class A Ordinary Shares
+AIFER - Aifeex Nexus Acquisition Corporation - Right
 AIFEU - Aifeex Nexus Acquisition Corporation - Unit
 AIFF - Firefly Neuroscience, Inc.  - Common Stock
 AIFU - AIFU Inc. - Class A Ordinary Share
@@ -317,7 +318,6 @@ AKBA - Akebia Therapeutics, Inc. - Common Stock
 AKR - Acadia Realty Trust Common Stock
 AKRO - Akero Therapeutics, Inc. - Common Stock
 AKTX - Akari Therapeutics Plc - American Depositary Shares
-AKYA - Akoya BioSciences, Inc. - Common Stock
 AL - Air Lease Corporation Class A Common Stock
 ALAB - Astera Labs, Inc. - Common Stock
 ALAI - The Alger ETF Trust Alger AI Enablers & Adopters ETF
@@ -468,6 +468,7 @@ ANL - Adlai Nortye Ltd. - American Depositary Shares
 ANNA - AleAnna, Inc. - Class A Common Stock
 ANNAW - AleAnna, Inc. - Warrant
 ANNX - Annexon, Inc. - common stock
+ANPA - Rich Sparkle Holdings Limited - Ordinary Shares
 ANRO - Alto Neuroscience, Inc. Common Stock
 ANSC - Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares
 ANSCU - Agriculture & Natural Solutions Acquisition Corporation - Unit
@@ -1618,6 +1619,7 @@ CBOA - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - April
 CBOE - Cboe Global Markets, Inc. Common Stock
 CBOJ - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - January
 CBON - VanEck China Bond ETF
+CBOY - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - July
 CBRE - CBRE Group Inc Common Stock Class A
 CBRL - Cracker Barrel Old Country Store, Inc. - Common Stock
 CBSE - Elevation Series Trust Clough Select Equity ETF
@@ -1625,10 +1627,12 @@ CBSH - Commerce Bancshares, Inc. - Common Stock
 CBT - Cabot Corporation Common Stock
 CBTA - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - April
 CBTJ - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - January
+CBTY - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - July
 CBU - Community Financial System, Inc. Common Stock
 CBUS - Cibus, Inc. - Class A Common Stock
 CBXA - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - April
 CBXJ - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - January
+CBXY - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - July
 CBZ - CBIZ, Inc. Common Stock
 CC - Chemours Company (The) Common Stock
 CCAP - Crescent Capital BDC, Inc. - Common Stock
@@ -3148,6 +3152,7 @@ ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIX - SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
+ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESML - iShares ESG Aware MSCI USA Small-Cap ETF
 ESMV - iShares ESG Optimized MSCI USA Min Vol Factor ETF
@@ -6342,6 +6347,7 @@ MKTX - MarketAxess Holdings, Inc. - Common Stock
 MKZR - MacKenzie Realty Capital, Inc. - Common Stock
 MLAB - Mesa Laboratories, Inc. - Common Stock
 MLAC - Mountain Lake Acquisition Corp. - Class A Ordinary Shares
+MLACR - Mountain Lake Acquisition Corp. - Right
 MLACU - Mountain Lake Acquisition Corp. - Units
 MLCO - Melco Resorts & Entertainment Limited - American Depositary Shares 
 MLDR - Global X Funds Global X Intermediate-Term Treasury Ladder ETF
@@ -6500,6 +6506,7 @@ MSFY - Kurv Yield Premium Strategy Microsoft (MSFT) ETF
 MSGE - Madison Square Garden Entertainment Corp. Class A Common Stock
 MSGM - Motorsport Games Inc. - Class A Common Stock
 MSGS - Madison Square Garden Sports Corp. Class A Common Stock (New)
+MSGY - Masonglory Limited - Ordinary Shares
 MSI - Motorola Solutions, Inc. Common Stock
 MSIF - MSC Income Fund, Inc. Common Stock
 MSII - REX MSTR Growth & Income ETF
@@ -8116,6 +8123,7 @@ QYLG - Global X Nasdaq 100 Covered Call & Growth ETF
 R - Ryder System, Inc. Common Stock
 RA - Brookfield Real Assets Income Fund Inc. Common Stock
 RAA - SMI 3Fourteen REAL Asset Allocation ETF
+RAAA - Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF
 RAAQ - Real Asset Acquisition Corp. - Class A Ordinary Share
 RAAQU - Real Asset Acquisition Corp. - Unit
 RAAQW - Real Asset Acquisition Corp. - Warrants
@@ -9188,6 +9196,7 @@ SPWRW - Complete Solaria, Inc. - Warrant
 SPXC - SPX Technologies, Inc. Common Stock
 SPXE - ProShares S&P 500 Ex-Energy ETF
 SPXL - Direxion Daily S&P 500 Bull 3X Shares
+SPXM - Tidal Trust III Azoria 500 Meritocracy ETF
 SPXN - ProShares S&P 500 Ex-Financials ETF
 SPXS - Direxion Daily S&P 500 Bear 3X
 SPXT - ProShares S&P 500 Ex-Technology ETF
@@ -9399,6 +9408,7 @@ SXQG - ETC 6 Meridian Quality Growth ETF
 SXT - Sensient Technologies Corporation Common Stock
 SXTC - China SXT Pharmaceuticals, Inc. - Common Stock
 SXTP - 60 Degrees Pharmaceuticals, Inc. - Common Stock
+SXTPW - 60 Degrees Pharmaceuticals, Inc. - Warrant
 SY - So-Young International Inc. - American Depository Shares
 SYBT - Stock Yards Bancorp, Inc. - Common Stock
 SYBX - Synlogic, Inc. - Common Stock
@@ -9652,6 +9662,7 @@ TKR - Timken Company (The) Common Stock
 TLCI - Touchstone ETF Trust Touchstone International Equity ETF
 TLF - Tandy Leather Factory, Inc. - common stock
 TLH - iShares 10-20 Year Treasury Bond ETF
+TLIH - Ten-League International Holdings Limited - Ordinary Shares
 TLK - PT Telekomunikasi Indonesia, Tbk
 TLN - Talen Energy Corporation - Common Stock
 TLPH - Talphera, Inc. - Common Stock
@@ -9950,7 +9961,6 @@ UBRL - GraniteShares 2x Long UBER Daily ETF
 UBS - UBS Group AG Registered Ordinary Shares
 UBSI - United Bankshares, Inc. - Common Stock
 UBT - ProShares Ultra 20+ Year Treasury
-UBX - Unity Biotechnology, Inc. - Common Stock
 UBXG - U-BX Technology Ltd. - Ordinary Shares
 UCAR - U Power Limited - Class A Ordinary Shares
 UCB - United Community Banks, Inc. Common Stock
@@ -10263,6 +10273,7 @@ VGSH - Vanguard Short-Term Treasury ETF
 VGSR - Vert Global Sustainable Real Estate ETF
 VGT - Vanguard Information Tech ETF
 VGUS - Vanguard Ultra-Short Treasury ETF
+VGVT - Vanguard Malvern Funds Vanguard Government Securities Active ETF
 VGZ - Vista Gold Corp Common Stock
 VHC - VirnetX Holding Corp Common Stock
 VHI - Valhi, Inc. Common Stock
@@ -10412,6 +10423,7 @@ VTEI - Vanguard Tax-Managed Funds Vanguard Intermediate-Term Tax-Exempt Bond ETF
 VTEL - Vanguard Tax-Managed Funds Vanguard Long-Term Tax-Exempt Bond ETF
 VTES - Vanguard Wellington Fund Vanguard Short-Term Tax Exempt Bond ETF
 VTEX - VTEX Class A Common Shares
+VTG - Vanguard Malvern Funds Vanguard Total Treasury ETF
 VTGN - Vistagen Therapeutics, Inc. - Common Stock
 VTHR - Vanguard Russell 3000 ETF
 VTI - Vanguard Total Stock Market ETF
@@ -10420,6 +10432,7 @@ VTLE - Vital Energy, Inc. Common Stock, par value $0.01 per share
 VTMX - Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares
 VTN - Invesco Trust for Investment Grade New York Municipals Common Stock
 VTOL - Bristow Group, Inc. Common Stock
+VTP - Vanguard Malvern Funds Vanguard Total Inflation-Protected Securities ETF
 VTR - Ventas, Inc. Common Stock
 VTRS - Viatris Inc. - Common Stock
 VTS - Vitesse Energy, Inc. Common Stock
@@ -10544,6 +10557,7 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
+WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHTX - Volatility Shares Trust 2x Wheat ETF
@@ -10772,6 +10786,7 @@ XNET - Xunlei Limited - American Depositary Shares
 XNOV - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - November
 XNTK - SPDR NYSE Technology ETF
 XOCT - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - October
+XOEF - iShares Trust iShares S&P 500 ex S&P 100 ETF
 XOM - Exxon Mobil Corporation Common Stock
 XOMA - XOMA Royalty Corporation - Common Stock
 XOMAO - XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock
