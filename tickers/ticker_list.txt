@@ -705,6 +705,7 @@ ATLX - Atlas Lithium Corporation - Common Stock
 ATMC - AlphaTime Acquisition Corp - Ordinary Shares
 ATMCR - AlphaTime Acquisition Corp - Right
 ATMCU - AlphaTime Acquisition Corp - Unit
+ATMCW - AlphaTime Acquisition Corp - Warrant
 ATMP - iPath Select MLP ETN
 ATMU - Atmus Filtration Technologies Inc. Common Stock
 ATMV - AlphaVest Acquisition Corp - Ordinary Shares
@@ -953,6 +954,7 @@ BCDA - BioCardia, Inc. - Common Stock
 BCDF - Listed Funds Trust Horizon Kinetics Blockchain Development ETF
 BCE - BCE, Inc. Common Stock
 BCG - Binah Capital Group, Inc. - Common Stock
+BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHI - The 2023 ETF Series Trust II GMO Beyond China ETF
 BCHP - Principal Exchange-Traded Funds Principal Focused Blue Chip ETF
@@ -1313,7 +1315,7 @@ BPYPM - Brookfield Property Partners L.P. - 6.25% Class A Cumulative Redeemable 
 BPYPN - Brookfield Property Partners L.P. - 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3
 BPYPO - Brookfield Property Partners L.P. - 6.375% Class A Cumulative Redeemable Perpetual Preferred Units, Series 2
 BPYPP - Brookfield Property Partners L.P. - 6.50% Class A Cumulative Redeemable Perpetual Preferred Units
-BQ - Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares)
+BQ - Boqii Holding Limited Class A Ordinary Shares
 BR - Broadridge Financial Solutions, Inc. Common Stock
 BRAG - Bragg Gaming Group Inc. - Common Shares
 BRAZ - Global X Funds Global X Brazil Active ETF
@@ -2555,7 +2557,6 @@ DIOD - Diodes Incorporated - Common Stock
 DIPS - Tidal Trust II YieldMax Short NVDA Option Income Strategy ETF
 DIS - Walt Disney Company (The) Common Stock
 DISO - Tidal ETF Trust II YieldMax DIS Option Income Strategy ETF
-DIST - Distoken Acquisition Corporation - Ordinary Shares
 DISV - Dimensional ETF Trust Dimensional International Small Cap Value ETF
 DIT - AMCON Distributing Company Common Stock
 DIV - Global X Super Dividend ETF
@@ -2596,6 +2597,7 @@ DLS - WisdomTree International SmallCap Fund
 DLTH - Duluth Holdings Inc. - Class B Common Stock
 DLTR - Dollar Tree, Inc. - Common Stock
 DLX - Deluxe Corporation Common Stock
+DLXY - Delixy Holdings Limited - Ordinary Shares
 DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
@@ -3370,7 +3372,6 @@ FBTC - Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest
 FBUF - Fidelity Dynamic Buffered Equity ETF
 FBY - Tidal ETF Trust II YieldMax META Option Income Strategy ETF
 FBYD - Falcon's Beyond Global, Inc. - Class A Common Stock
-FBYDW - Falcon's Beyond Global, Inc. - Warrants
 FBZ - First Trust Brazil AlphaDEX Fund
 FC - Franklin Covey Company Common Stock
 FCA - First Trust China AlphaDEX Fund
@@ -3547,6 +3548,7 @@ FICS - First Trust International Developed Capital Strength ETF
 FID - First Trust S&P International Dividend Aristocrats ETF
 FIDI - Fidelity International High Dividend ETF
 FIDU - Fidelity MSCI Industrials Index ETF
+FIEE - FiEE, Inc - Common Stock
 FIGB - Fidelity Investment Grade Bond ETF
 FIGS - FIGS, Inc. Class A Common Stock
 FIGXU - FIGX Capital Acquisition Corp. - Units
@@ -4338,6 +4340,7 @@ GTEK - Goldman Sachs Future Tech Leaders Equity ETF
 GTEN - Gores Holdings X, Inc. - Class A ordinary shares
 GTENU - Gores Holdings X, Inc. - Units
 GTENW - Gores Holdings X, Inc. - Warrants
+GTERU - Globa Terra Acquisition Corporation - Units
 GTES - Gates Industrial Corporation plc Ordinary Shares
 GTI - Graphjet Technology - Class A Ordinary Shares
 GTIM - Good Times Restaurants Inc. - Common Stock
@@ -5554,6 +5557,7 @@ KFY - Korn Ferry Common Stock
 KG - Kestrel Group, Ltd. - Common Stock
 KGC - Kinross Gold Corporation Common Stock
 KGEI - Kolibri Global Energy Inc. - Common stock
+KGLD - Kurv ETF Trust Kurv Gold Enhanced Income ETF
 KGRN - KraneShares MSCI China Clean Technology Index ETF
 KGS - Kodiak Gas Services, Inc. Common Stock
 KHC - The Kraft Heinz Company - Common Stock
@@ -6317,7 +6321,6 @@ MILN - Global X Millennial Consumer ETF
 MIMI - Mint Incorporation Limited - Class A Ordinary Shares
 MIN - MFS Intermediate Income Trust Common Stock
 MIND - MIND Technology, Inc. - Common Stock
-MINM - Minim, Inc. - Common Stock
 MINN - Trust for Professional Managers Mairs & Power Minnesota Municipal Bond ETF
 MINO - PIMCO Municipal Income Opportunities Active Exchange-Traded Fund
 MINT - PIMCO Enhanced Short Maturity Active Exchange-Traded Fund
@@ -6737,6 +6740,7 @@ NECB - NorthEast Community Bancorp, Inc. - Common Stock
 NEE - NextEra Energy, Inc. Common Stock
 NEGG - Newegg Commerce, Inc. - Common Shares
 NEHC - New Era Helium Inc - Common Stock
+NEHCW - New Era Helium Inc - Warrants
 NEM - Newmont Corporation
 NEN - New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership
 NEO - NeoGenomics, Inc. - Common Stock
@@ -7083,6 +7087,7 @@ NYC - American Strategic Investment Co. Class A Common Stock
 NYF - iShares New York Muni Bond ETF
 NYMT - New York Mortgage Trust, Inc. - Common Stock
 NYMTG - New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2030
+NYMTH - New York Mortgage Trust, Inc. - 9.875% Senior Notes Due 2030
 NYMTI - New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2029
 NYMTL - New York Mortgage Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share
 NYMTM - New York Mortgage Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
@@ -8003,6 +8008,7 @@ QETH - Invesco Galaxy Ethereum ETF
 QFIN - Qifu Technology, Inc - American Depositary Shares
 QFLR - Innovator ETFs Trust Innovator Nasdaq-100 Managed Floor ETF
 QGEN - Qiagen N.V. Common Shares
+QGRD - Horizon Nasdaq-100 Defined Risk ETF
 QGRO - American Century U.S. Quality Growth ETF
 QGRW - WisdomTree Trust WisdomTree U.S. Quality Growth Fund
 QH - Quhuo Limited - American Depository Shares
@@ -8074,6 +8080,7 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation Class A Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
+QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSG - QuantaSing Group Limited - American Depositary Shares
 QSI - Quantum-Si Incorporated - Class A Common Stock
@@ -8207,7 +8214,6 @@ RDOG - ALPS ETF Trust ALPS REIT Dividend Dogs ETF
 RDTE - Roundhill Russell 2000 0DTE Covered Call Strategy ETF
 RDTL - GraniteShares 2x Long RDDT Daily ETF
 RDTY - YieldMax R2000 0DTE Covered Strategy ETF
-RDUS - Radius Recycling, Inc. - Class A Common Stock
 RDVI - FT Vest Rising Dividend Achievers Target Income ETF
 RDVT - Red Violet, Inc. - Common Stock 
 RDVY - First Trust Rising Dividend Achievers ETF
@@ -9434,7 +9440,6 @@ T - AT&T Inc.
 TAC - TransAlta Corporation Ordinary Shares
 TACH - Titan Acquisition Corp. - Class A Ordinary Shares
 TACHU - Titan Acquisition Corp. - Units
-TACHW - Titan Acquisition Corp. - Warrants
 TACK - Capitol Series Trust Fairlead Tactical Sector ETF
 TACO - Berto Acquisition Corp. - Ordinary Shares
 TACOU - Berto Acquisition Corp. - unit
@@ -10184,7 +10189,6 @@ VABS - Virtus Newfleet ABS/MBS ETF
 VAC - Marriott Vacations Worldwide Corporation Common Stock
 VACH - Voyager Acquisition Corp - Class A Ordinary Shares
 VACHU - Voyager Acquisition Corp - Unit
-VACHW - Voyager Acquisition Corp - Warrants
 VAL - Valaris Limited Common Shares
 VALE - VALE S.A.  American Depositary Shares Each Representing one common share
 VALN - Valneva SE - American Depositary Shares
@@ -10702,7 +10706,7 @@ XBOC - Innovator U.S. Equity Accelerated 9 Buffer ETF - October
 XBP - XBP Europe Holdings, Inc. - Common Stock
 XBPEW - XBP Europe Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
-XC - WisdomTree Trust WisdomTree Emerging Markets Ex-China Fund
+XC - WisdomTree True Emerging Markets Fund
 XCCC - BondBloxx ETF Trust BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
 XCEM - Columbia EM Core ex-China ETF
 XCH - XCHG Limited - ADS
@@ -10712,6 +10716,7 @@ XCOR - FundX Investment Trust FundX ETF
 XCUR - Exicure, Inc. - Common Stock
 XDAT - Franklin Exponential Data ETF
 XDEC - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December
+XDIV - Roundhill ETF Trust Roundhill S&P 500 No Dividend Target ETF
 XDOC - Innovator U.S. Equity Accelerated ETF - October
 XDQQ - Innovator Growth Accelerated ETF - Quarterly
 XDSQ - Innovator ETFs Trust Innovator U.S. Equity Accelerated ETF - Quarterly
@@ -10901,12 +10906,14 @@ YMAG - Tidal Trust II YieldMax Magnificent 7 Fund of Option Income ETFs
 YMAR - FT Vest International Equity Moderate Buffer ETF - March
 YMAX - Tidal Trust II YieldMax Universe Fund of Option Income ETFs
 YMM - Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares)
+YNOT - Horizon Digital Frontier ETF
 YOKE - YOKE Core ETF
 YOLO - AdvisorShares Pure Cannabis ETF
 YORKU - Yorkville Acquisition Corp. - Unit
 YORW - The York Water Company - Common Stock
 YOSH - Yoshiharu Global Co. - Class A Common Stock
 YOU - Clear Secure, Inc. Class A Common Stock
+YOUL - Youlife Group Inc. - American Depositary Shares
 YPF - YPF Sociedad Anonima Common Stock
 YQ - 17 Education & Technology Group Inc. - American Depositary Shares
 YQQQ - YieldMax Short N100 Option Income Strategy ETF
