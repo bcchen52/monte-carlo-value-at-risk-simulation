@@ -476,7 +476,6 @@ ANRO - Alto Neuroscience, Inc. Common Stock
 ANSC - Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares
 ANSCU - Agriculture & Natural Solutions Acquisition Corporation - Unit
 ANSCW - Agriculture & Natural Solutions Acquisition Corporation - Warrant
-ANSS - ANSYS, Inc. - Common Stock
 ANTA - Antalpha Platform Holding Company - Ordinary Shares
 ANTE - AirNet Technology Inc. - Ordinary Share
 ANTX - AN2 Therapeutics, Inc. - Common Stock
@@ -966,7 +965,6 @@ BCHP - Principal Exchange-Traded Funds Principal Focused Blue Chip ETF
 BCI - abrdn Bloomberg All Commodity Strategy K-1 Free ETF
 BCIL - Exchange Listed Funds Trust Bancreek International Large Cap ETF
 BCIM - abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF
-BCLI - Brainstorm Cell Therapeutics Inc. - Common Stock
 BCLO - iShares BBB-B CLO Active ETF
 BCML - BayCom Corp - Common Stock
 BCO - Brinks Company (The) Common Stock
@@ -4720,7 +4718,7 @@ HYGV - FlexShares High Yield Value-Scored Bond Index Fund
 HYGW - iShares Trust iShares High Yield Corporate Bond BuyWrite Strategy ETF
 HYHG - ProShares High Yield Interest Rate Hedged
 HYI - Western Asset High Yield Defined Opportunity Fund Inc. Common Stock
-HYIN - WisdomTree Alternative Income Fund
+HYIN - WisdomTree Private Credit and Alternative Income Fund
 HYKE - ETF Series Solutions Vest 2 Year Interest Rate Hedge ETF
 HYLB - Xtrackers USD High Yield Corporate Bond ETF
 HYLN - Hyliion Holdings Corp. Class A Common Stock
@@ -4835,7 +4833,6 @@ IBTP - iShares iBonds Dec 2034 Term Treasury ETF
 IBTQ - iShares iBonds Dec 2035 Term Treasury ETF
 IBUF - SHL Telemedicine Ltd Innovator International Developed 10 Buffer ETF - Quarterly
 IBUY - Amplify ETF Trust Amplify Online Retail ETF
-ICAD - icad inc. - Common Stock
 ICAP - Infrastructure Capital Equity Income ETF
 ICCC - ImmuCell Corporation - Common Stock
 ICCM - IceCure Medical Ltd. - Ordinary Shares
@@ -5744,6 +5741,7 @@ LASE - Laser Photonics Corporation - Common Stock
 LASR - nLIGHT, Inc. - Common Stock
 LAUR - Laureate Education, Inc. - Common Stock
 LAW - CS Disco, Inc. Common Stock
+LAWR - Robot Consulting Co., Ltd. - ADS
 LAYS - STKd 100% NVDA & 100% AMD ETF
 LAZ - Lazard, Inc. Common Stock
 LAZR - Luminar Technologies, Inc.  - Class A Common Stock
@@ -6765,7 +6763,6 @@ NEPH - Nephros, Inc. - Common Stock
 NERD - Roundhill Video Games ETF
 NERV - Minerva Neurosciences, Inc - Common Stock
 NESR - National Energy Services Reunited Corp - Ordinary Shares
-NESRW - National Energy Services Reunited Corp - Warrants
 NET - Cloudflare, Inc. Class A Common Stock
 NETD - Nabors Energy Transition Corp. II - Class A Ordinary Shares
 NETDU - Nabors Energy Transition Corp. II - Unit
@@ -7077,6 +7074,7 @@ NXC - Nuveen California Select Tax-Free Income Portfolio Common Stock
 NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
 NXG - NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
+NXG.V - NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued
 NXGL - NexGel, Inc - Common Stock
 NXGLW - NexGel, Inc - Warrant
 NXJ - Nuveen New Jersey Qualified Municipal Fund 
@@ -10210,7 +10208,6 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
-UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - United States Cellular Corporation 6.250% Senior Notes due 2069
 UZE - United States Cellular Corporation 5.500% Senior Notes due 2070
