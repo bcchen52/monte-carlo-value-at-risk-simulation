@@ -2139,7 +2139,6 @@ CR - Crane Company Common Stock
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
-CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -2703,6 +2702,7 @@ DSYWW - Big Tree Cloud Holdings Limited - Warrants
 DT - Dynatrace, Inc. Common Stock
 DTAN - EA Series Trust Sparkline International Intangible Value ETF
 DTB - DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080
+DTC - Solo Brands, Inc. Class A Common Stock
 DTCK - Davis Commodities Limited - Ordinary Shares
 DTCR - Global X Data Center & Digital Infrastructure ETF
 DTD - WisdomTree U.S. Total Dividend Fund
@@ -3003,7 +3003,6 @@ EMBD - Global X Emerging Markets Bond ETF
 EMC - Global X Funds Global X Emerging Markets Great Consumer ETF
 EMCB - WisdomTree Emerging Markets Corporate Bond Fund
 EMCG - Embrace Change Acquisition Corp - Ordinary Shares
-EMCGR - Embrace Change Acquisition Corp - Rights
 EMCGU - Embrace Change Acquisition Corp - Units
 EMCGW - Embrace Change Acquisition Corp - Warrants
 EMCR - Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF
@@ -6349,6 +6348,7 @@ MITQ - Moving iMage Technologies, Inc. Common Stock
 MITT - AG Mortgage Investment Trust, Inc. Common Stock
 MIY - Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock
 MJ - Amplify ETF Trust Amplify Alternative Harvest ETF
+MJID - Majestic Ideal Holdings Ltd - Ordinary Shares
 MKAM - MKAM ETF
 MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
@@ -6981,6 +6981,7 @@ NTSX - WisdomTree U.S. Efficient Core Fund
 NTWK - NETSOL Technologies Inc. - Common Stock
 NTWO - Newbury Street II Acquisition Corp - Class A Ordinary Shares
 NTWOU - Newbury Street II Acquisition Corp - Unit
+NTWOW - Newbury Street II Acquisition Corp - Warrant
 NTZ - Natuzzi, S.p.A.
 NU - Nu Holdings Ltd. Class A Ordinary Shares
 NUAG - Nuveen Enhanced Yield U.S. Aggregate Bond ETF
@@ -7112,7 +7113,6 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
-OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -7968,6 +7968,7 @@ PXI - Invesco Dorsey Wright Energy Momentum ETF
 PXJ - Invesco Oil & Gas Services ETF
 PXLW - Pixelworks, Inc. - Common Stock
 PXS - Pyxis Tankers Inc. - Common Stock
+PXSAW - Pyxis Tankers Inc. - Warrant
 PY - Principal Value ETF
 PYLD - PIMCO U.S. Treasury Index Fund PIMCO Multisector Bond Active Exchange-Traded Fund
 PYN - PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest
@@ -9188,6 +9189,7 @@ SPMA - Sound Point Meridian Capital, Inc. 8.00% Series A Preferred Shares Due 20
 SPMB - SPDR Portfolio Mortgage Backed Bond ETF
 SPMC - Sound Point Meridian Capital, Inc. Common Stock
 SPMD - SPDR Portfolio S&P 400 Mid Cap ETF  
+SPME - Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 2030
 SPMO - Invesco S&P 500 Momentum ETF
 SPMV - Invesco S&P 500 Minimum Variance ETF
 SPNS - Sapiens International Corporation N.V. - Common Shares
@@ -9495,7 +9497,6 @@ TARS - Tarsus Pharmaceuticals, Inc. - Common Stock
 TASK - TaskUs, Inc. - Class A Common Stock
 TATT - TAT Technologies Ltd. - Ordinary Shares
 TAVI - Tavia Acquisition Corp. - Ordinary Shares
-TAVIR - Tavia Acquisition Corp. - Right
 TAVIU - Tavia Acquisition Corp. - Unit
 TAX - Cambria Tax Aware ETF
 TAXE - Intermediate Municipal Income ETF
@@ -9550,7 +9551,6 @@ TCX - Tucows Inc. - Common Stock
 TD - Toronto Dominion Bank (The) Common Stock
 TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
-TDACW - Translational Development Acquisition Corp. - Warrants
 TDC - Teradata Corporation Common Stock
 TDEC - First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - December
 TDF - Templeton Dragon Fund, Inc. Common Stock
@@ -10567,7 +10567,6 @@ WELL - Welltower Inc. Common Stock
 WEN - Wendy's Company (The) - Common Stock
 WENN - Wen Acquisition Corp - Class A Ordinary Shares
 WENNU - Wen Acquisition Corp - Unit
-WENNW - Wen Acquisition Corp - Warrant
 WERN - Werner Enterprises, Inc. - Common Stock
 WES - Western Midstream Partners, LP Common Units Representing Limited Partner Interests
 WEST - Westrock Coffee Company - Common Stock
