@@ -1221,7 +1221,7 @@ BLUX - Exchange Traded Concepts Trust Bluemonte Dynamic Total Market ETF
 BLV - Vanguard Long-Term Bond ETF
 BLW - Blackrock Limited Duration Income Trust
 BLX - Banco Latinoamericano de Comercio Exterior, S.A.
-BLZE - Backblaze, Inc. - Class A Common Stock
+BLZE - Backblaze, Inc. - Common Stock
 BMA - Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
 BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAX - REX Bitcoin Corporate Treasury Convertible Bond ETF
@@ -1311,7 +1311,6 @@ BP - BP p.l.c. Common Stock
 BPAY - iShares FinTech Active ETF
 BPH - Precidian ETFs Trust BP plc ADRhedged
 BPI - Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF
-BPMC - Blueprint Medicines Corporation - Common Stock
 BPOP - Popular, Inc. - Common Stock
 BPOPM - Popular, Inc. - Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities
 BPRN - Princeton Bancorp, Inc. - Common Stock
@@ -1352,7 +1351,7 @@ BRNY - Burney U.S. Factor Rotation ETF
 BRO - Brown & Brown, Inc. Common Stock
 BROS - Dutch Bros Inc. Class A Common Stock
 BRRR - Coinshares Bitcoin ETF
-BRSL - Brightstar Lottery Ordinary Shares
+BRSL - Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares
 BRSP - BrightSpire Capital, Inc. Class A Common Stock
 BRT - BRT Apartments Corp. (MD) Common Stock
 BRTR - iShares Total Return Active ETF
@@ -3972,7 +3971,6 @@ GBR - New Concept Energy, Inc Common Stock
 GBTC - Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest
 GBTG - Global Business Travel Group, Inc. Class A Common Stock
 GBUG - Sprott Active Gold & Silver Miners ETF
-GBUY - Goldman Sachs Future Consumer Equity ETF
 GBX - Greenbrier Companies, Inc. (The) Common Stock
 GBXA - Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 1 ETF
 GBXB - Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 2 ETF
@@ -4310,7 +4308,6 @@ GSEE - Goldman Sachs MarketBeta Emerging Markets Equity ETF
 GSEP - FT Vest U.S. Equity Moderate Buffer ETF - September
 GSEU - Goldman Sachs ActiveBeta Europe Equity ETF
 GSEW - Goldman Sachs Equal Weight U.S. Large Cap Equity ETF
-GSFP - Goldman Sachs Future Planet Equity ETF
 GSG - iShares GSCI Commodity-Indexed Trust Fund
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
@@ -4476,7 +4473,6 @@ HEQT - Simplify Hedged Equity ETF
 HERD - Pacer Cash Cows Fund of Funds ETF
 HERO - Global X Video Games & Esports ETF
 HERZ - Herzfeld Credit Income Fund, Inc.  - Closed End Fund
-HES - Hess Corporation Common Stock
 HESM - Hess Midstream LP Class A Representing Limited Partner Interests
 HEWJ - iShares Currency Hedged MSCI Japan ETF
 HEZU - iShares Currency Hedged MSCI Eurozone ETF
@@ -5575,7 +5571,6 @@ KIDZ - Classover Holdings, Inc. - Class B Common Stock
 KIDZW - Classover Holdings, Inc. - Warrants
 KIE - SPDR S&P Insurance ETF
 KIM - Kimco Realty Corporation (HC) Common Stock
-KIND - Nextdoor Holdings, Inc. Class A Common Stock
 KINS - Kingstone Companies, Inc - Common Stock
 KIO - KKR Income Opportunities Fund Common Shares
 KIRK - Kirkland's, Inc. - Common Stock
@@ -5631,7 +5626,6 @@ KNTK - Kinetik Holdings Inc. Class A Common Stock
 KNW - Know Labs, Inc. Common Stock
 KNX - Knight-Swift Transportation Holdings Inc.
 KO - Coca-Cola Company (The) Common Stock
-KOCG - NEOS ETF Trust FIS Knights of Columbus Global Belief ETF
 KOCT - Innovator U.S. Small Cap Power Buffer ETF - October
 KOD - Kodiak Sciences Inc - Common Stock
 KODK - Eastman Kodak Company Common New
@@ -10567,6 +10561,7 @@ WELL - Welltower Inc. Common Stock
 WEN - Wendy's Company (The) - Common Stock
 WENN - Wen Acquisition Corp - Class A Ordinary Shares
 WENNU - Wen Acquisition Corp - Unit
+WENNW - Wen Acquisition Corp - Warrant
 WERN - Werner Enterprises, Inc. - Common Stock
 WES - Western Midstream Partners, LP Common Units Representing Limited Partner Interests
 WEST - Westrock Coffee Company - Common Stock
