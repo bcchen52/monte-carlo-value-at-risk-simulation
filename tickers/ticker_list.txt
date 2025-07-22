@@ -268,6 +268,7 @@ AIBU - Direxion Shares ETF Trust Direxion Daily AI and Big Data Bull 2X Shares
 AIEQ - Amplify ETF Trust Amplify AI Powered Equity ETF
 AIFD - TCW Artificial Intelligence ETF
 AIFE - Aifeex Nexus Acquisition Corporation - Class A Ordinary Shares
+AIFER - Aifeex Nexus Acquisition Corporation - Right
 AIFEU - Aifeex Nexus Acquisition Corporation - Unit
 AIFF - Firefly Neuroscience, Inc.  - Common Stock
 AIFU - AIFU Inc. - Class A Ordinary Share
@@ -3336,7 +3337,6 @@ FAN - First Trust Global Wind Energy ETF
 FANG - Diamondback Energy, Inc. - Common Stock
 FAPR - FT Vest U.S. Equity Buffer ETF - April
 FARM - Farmer Brothers Company - Common Stock
-FARO - FARO Technologies, Inc. - Common Stock
 FARX - The Advisors' Inner Circle Fund II Frontier Asset Absolute Return ETF
 FAS - Direxion Financial Bull 3X Shares
 FAST - Fastenal Company - Common Stock
@@ -4426,7 +4426,7 @@ HBT - HBT Financial, Inc. - Common Stock
 HBTA - Horizon Funds Horizon Expedition Plus ETF
 HBTC - Listed Funds Trust Fortuna Hedged Bitcoin Fund
 HCA - HCA Healthcare, Inc. Common Stock
-HCAI - Huachen AI Parking Management Technology Holding Co., Ltd. - Ordinary Shares
+HCAI - Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares
 HCAT - Health Catalyst, Inc - Common stock
 HCC - Warrior Met Coal, Inc. Common Stock
 HCHL - Happy City Holdings Limited - Class A Ordinary shares
@@ -4631,6 +4631,7 @@ HSPOR - Horizon Space Acquisition I Corp. - Right
 HSPOU - Horizon Space Acquisition I Corp. - Unit
 HSPOW - Horizon Space Acquisition I Corp. - Warrant
 HSPT - Horizon Space Acquisition II Corp. - Ordinary share
+HSPTR - Horizon Space Acquisition II Corp. - Right
 HSPTU - Horizon Space Acquisition II Corp. - Units
 HST - Host Hotels & Resorts, Inc. - Common Stock
 HSTM - HealthStream, Inc. - Common Stock
@@ -5358,6 +5359,7 @@ JELD - JELD-WEN Holding, Inc. Common Stock
 JEM - 707 Cayman Holdings Limited - Ordinary Shares
 JEMA - JPMorgan ActiveBuilders Emerging Markets Equity ETF
 JEMB - Janus Detroit Street Trust Janus Henderson Emerging Markets Debt Hard Currency ETF
+JENA - Jena Acquisition Corporation II Class A Ordinary Shares
 JEPI - JPMorgan Equity Premium Income ETF
 JEPQ - JPMorgan Nasdaq Equity Premium Income ETF
 JEQ - abrdn Japan Equity Fund, Inc. Common Stock
@@ -5528,6 +5530,8 @@ KC - Kingsoft Cloud Holdings Limited - American Depositary Shares
 KCAI - KraneShares Trust KraneShares China Alpha Index ETF
 KCCA - KraneShares California Carbon Allowance Strategy ETF
 KCE - SPDR S&P Capital Markets ETF
+KCHV - Kochav Defense Acquisition Corp. - Class A Ordinary Shares
+KCHVR - Kochav Defense Acquisition Corp. - Right
 KCHVU - Kochav Defense Acquisition Corp. - Units
 KCSH - KraneShares Trust KraneShares Sustainable Ultra Short Duration Index ETF
 KD - Kyndryl Holdings, Inc. Common Stock
@@ -7066,10 +7070,10 @@ NWTN - NWTN Inc. - Class B Ordinary Shares
 NWTNW - NWTN Inc. - Warrant
 NX - Quanex Building Products Corporation Common Stock
 NXC - Nuveen California Select Tax-Free Income Portfolio Common Stock
+NXDR - Nextdoor Holdings, Inc. Class A Common Stock
 NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
 NXG - NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
-NXG.V - NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued
 NXGL - NexGel, Inc - Common Stock
 NXGLW - NexGel, Inc - Warrant
 NXJ - Nuveen New Jersey Qualified Municipal Fund 
@@ -7399,6 +7403,7 @@ PANG - Leverage Shares 2X Long PANW Daily ETF
 PANL - Pangaea Logistics Solutions Ltd. - Common Stock
 PANW - Palo Alto Networks, Inc. - Common Stock
 PAPI - Morgan Stanley ETF Trust Parametric Equity Premium Income ETF
+PAPL - Pineapple Financial Inc. Common Stock
 PAPR - Innovator U.S. Equity Power Buffer ETF - April
 PAR - PAR Technology Corporation Common Stock
 PARA - Paramount Global - Class B Common Stock
@@ -8719,6 +8724,7 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
+SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -9491,6 +9497,7 @@ TARS - Tarsus Pharmaceuticals, Inc. - Common Stock
 TASK - TaskUs, Inc. - Class A Common Stock
 TATT - TAT Technologies Ltd. - Ordinary Shares
 TAVI - Tavia Acquisition Corp. - Ordinary Shares
+TAVIR - Tavia Acquisition Corp. - Right
 TAVIU - Tavia Acquisition Corp. - Unit
 TAX - Cambria Tax Aware ETF
 TAXE - Intermediate Municipal Income ETF
@@ -10196,6 +10203,7 @@ UXAP - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accele
 UXI - ProShares Ultra Industrials
 UXIN - Uxin Limited - American Depositary Shares
 UXJA - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - January
+UXJL - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - July
 UXOC - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - October
 UXRP - ProShares Trust ProShares Ultra XRP ETF
 UYG - ProShares Ultra Financials
@@ -10675,6 +10683,8 @@ WTBN - WisdomTree Bianco Total Return Fund
 WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
+WTG - Wintergreen Acquisition Corp. - Ordinary Shares
+WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTID - Bank Of Montreal MicroSectors Energy 3X Inverse Leveraged ETNs
