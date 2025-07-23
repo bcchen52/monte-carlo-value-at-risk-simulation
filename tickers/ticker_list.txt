@@ -331,7 +331,6 @@ ALC - Alcon Inc. Ordinary Shares
 ALCO - Alico, Inc. - Common Stock
 ALCY - Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares
 ALCYU - Alchemy Investments Acquisition Corp 1 - Units
-ALCYW - Alchemy Investments Acquisition Corp 1 - Warrants
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
 ALDFW - Aldel Financial II Inc. - Warrants
@@ -1896,7 +1895,9 @@ CLAR - Clarus Corporation - Common Stock
 CLB - Core Laboratories Inc. Common Stock
 CLBK - Columbia Financial, Inc. - Common Stock
 CLBT - Cellebrite DI Ltd. - Ordinary Shares
+CLCG - Crossmark ETF Trust Crossmark Large Cap Growth ETF
 CLCO - Cool Company Ltd. Common Shares
+CLCV - Crossmark ETF Trust Crossmark Large Cap Value ETF
 CLDI - Calidi Biotherapeutics, Inc. Common Stock
 CLDL - Direxion Daily Cloud Computing Bull 2X Shares
 CLDT - Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
@@ -2139,6 +2140,7 @@ CR - Crane Company Common Stock
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
+CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -3065,6 +3067,7 @@ ENTX - Entera Bio Ltd. - Ordinary Shares
 ENVA - Enova International, Inc. Common Stock
 ENVB - Enveric Biosciences, Inc.  - Common Stock
 ENVX - Enovix Corporation - Common Stock
+ENVXW - Enovix Corporation - Warrant
 ENX - Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value
 ENZL - iShares MSCI New Zealand ETF
 EOCT - Innovator Emerging Markets Power Buffer ETF - October
@@ -3210,7 +3213,6 @@ EUFN - iShares MSCI Europe Financials ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3x Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -4384,6 +4386,11 @@ GXC - SPDR S&P China ETF
 GXDW - Global X Dorsey Wright Thematic ETF
 GXIG - Global X Funds Global X Investment Grade Corporate Bond ETF
 GXO - GXO Logistics, Inc. Common Stock 
+GXPC - Global X Funds Global X PureCap MSCI Communication Services ETF
+GXPD - Global X Funds Global X PureCap MSCI Consumer Discretionary ETF
+GXPE - Global X Funds Global X PureCap MSCI Energy ETF
+GXPS - Global X Funds Global X PureCap MSCI Consumer Staples ETF
+GXPT - Global X Funds Global X PureCap MSCI Information Technology ETF
 GXUS - Goldman Sachs ETF Trust II Goldman Sachs MarketBeta Total International Equity ETF
 GYLD - Arrow Dow Jones Global Yield ETF ETF
 GYRE - Gyre Therapeutics, Inc. - Common Stock
@@ -4627,7 +4634,6 @@ HSII - Heidrick & Struggles International, Inc. - Common Stock
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
 HSON - Hudson Global, Inc. - Common Stock
 HSPO - Horizon Space Acquisition I Corp. - Ordinary Shares
-HSPOR - Horizon Space Acquisition I Corp. - Right
 HSPOU - Horizon Space Acquisition I Corp. - Unit
 HSPOW - Horizon Space Acquisition I Corp. - Warrant
 HSPT - Horizon Space Acquisition II Corp. - Ordinary share
@@ -5307,6 +5313,7 @@ IZM - ICZOOM Group Inc. - Class A Ordinary Shares
 IZRL - ARK Israel Innovative Technology ETF
 J - Jacobs Solutions Inc. Common Stock
 JAAA - Janus Henderson AAA CLO ETF
+JABS - Janus Detroit Street Trust Janus Henderson Asset-Backed Securities ETF
 JACK - Jack In The Box Inc. - Common Stock
 JACS - Jackson Acquisition Company II Class A Ordinary Shares
 JADE - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Developing Markets Equity ETF
@@ -5468,7 +5475,6 @@ JSM - Navient Corporation - 6% Senior Notes due December 15, 2043
 JSMD - Janus Henderson Small/Mid Cap Growth Alpha ETF
 JSML - Janus Henderson Small Cap Growth Alpha ETF
 JSPR - Jasper Therapeutics, Inc. - Class A Common Stock
-JSPRW - Jasper Therapeutics, Inc. - Warrant
 JSTC - Adasina Social Justice All Cap Global ETF
 JTAI - Jet.AI Inc. - Common Stock
 JTEK - JPMorgan U.S. Tech Leaders ETF
@@ -8023,7 +8029,6 @@ QDWN - Strategic Trust DailyDelta  Q100 Downside Option Strategy ETF
 QEFA - SPDR MSCI EAFE StrategicFactors ETF
 QEMM - SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
-QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF 
 QFIN - Qifu Technology, Inc - American Depositary Shares
@@ -8292,7 +8297,6 @@ REZ - iShares Residential and Multisector Real Estate ETF
 REZI - Resideo Technologies, Inc. Common Stock 
 RF - Regions Financial Corporation Common Stock
 RFAI - RF Acquisition Corp II - Ordinary Shares
-RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
 RFCI - RiverFront Dynamic Core Income ETF
 RFDA - RiverFront Dynamic US Dividend Advantage ETF
@@ -8878,7 +8882,7 @@ SIDU - Sidus Space, Inc. - Class A Common Stock
 SIEB - Siebert Financial Corp. - Common Stock
 SIF - SIFCO Industries, Inc. Common Stock
 SIFI - Harbor Scientific Alpha Income ETF
-SIFY - Sify Technologies Limited - American Depository Shares, each represented by one Equity Share
+SIFY - Sify Technologies Limited - American Depository Shares
 SIG - Signet Jewelers Limited Common Shares
 SIGA - SIGA Technologies Inc. - Common Stock
 SIGI - Selective Insurance Group, Inc. - Common Stock
@@ -9552,6 +9556,7 @@ TCX - Tucows Inc. - Common Stock
 TD - Toronto Dominion Bank (The) Common Stock
 TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
+TDACW - Translational Development Acquisition Corp. - Warrants
 TDC - Teradata Corporation Common Stock
 TDEC - First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - December
 TDF - Templeton Dragon Fund, Inc. Common Stock
@@ -9797,7 +9802,6 @@ TPL - Texas Pacific Land Corporation Common Stock
 TPLC - Timothy Plan US Large/Mid Cap Core ETF
 TPLE - Timothy Plan US Large/Mid Cap Core Enhanced ETF
 TPLS - Thornburg Core Plus Bond ETF
-TPMN - The Timothy Plan Timothy Plan Market Neutral ETF
 TPOR - Direxion Daily Transportation Bull 3X Shares
 TPR - Tapestry, Inc. Common Stock
 TPSC - Timothy Plan US Small Cap Core ETF
@@ -10076,6 +10080,7 @@ UNF - Unifirst Corporation Common Stock
 UNFI - United Natural Foods, Inc. Common Stock
 UNG - United States Natural Gas Fund LP
 UNH - UnitedHealth Group Incorporated Common Stock (DE)
+UNHG - Leverage Shares 2X Long UNH Daily ETF
 UNIT - Uniti Group Inc. - Common Stock
 UNIY - WisdomTree Voya Yield Enhanced USD Universal Bond Fund
 UNL - United States 12 Month Natural Gas Fund
@@ -10210,6 +10215,7 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
+UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - United States Cellular Corporation 6.250% Senior Notes due 2069
 UZE - United States Cellular Corporation 5.500% Senior Notes due 2070
@@ -10448,6 +10454,7 @@ VSS - Vanguard FTSE All-Wld ex-US SmCp Idx ETF
 VSSYW - Versus Systems Inc. - Class A Warrants
 VST - Vistra Corp. Common Stock
 VSTA - Vasta Platform Limited - Class A Ordinary Shares
+VSTL - Defiance Daily Target 2X Long VST ETF
 VSTM - Verastem, Inc. - Common Stock
 VSTS - Vestis Corporation Common Stock
 VT - Vanguard Total World Stock Index ETF
