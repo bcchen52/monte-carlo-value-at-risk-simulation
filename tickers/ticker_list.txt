@@ -32,6 +32,7 @@ AAPY - Kurv Yield Premium Strategy Apple (AAPL) ETF
 AARD - Aardvark Therapeutics, Inc. - Common Stock
 AAT - American Assets Trust, Inc. Common Stock
 AAUC - Allied Gold Corporation Common Shares
+AAUS - Alpha Architect US Equity ETF
 AAVM - Alpha Architect Global Factor Equity ETF
 AAXJ - iShares MSCI All Country Asia ex Japan ETF
 AB - AllianceBernstein Holding L.P.  Units
@@ -624,6 +625,7 @@ ARVN - Arvinas, Inc. - Common Stock
 ARVR - First Trust Indxx Metaverse ETF
 ARW - Arrow Electronics, Inc. Common Stock
 ARWR - Arrowhead Pharmaceuticals, Inc. - Common Stock
+ARX - Accelerant Holdings Class A Common Shares
 AS - Amer Sports, Inc. Ordinary Shares
 ASA - ASA  Gold and Precious Metals Limited
 ASAN - Asana, Inc. Class A Common Stock
@@ -1301,7 +1303,6 @@ BOTZ - Global X Robotics & Artificial Intelligence ETF
 BOUT - Innovator IBD Breakout Opportunities ETF
 BOW - Bowhead Specialty Holdings Inc. Common Stock
 BOWN - Bowen Acquisition Corp - Ordinary Shares
-BOWNR - Bowen Acquisition Corp - Rights
 BOWNU - Bowen Acquisition Corp - Unit
 BOX - Box, Inc. Class A Common Stock
 BOXA - EA Series Trust Alpha Architect Aggregate Bond ETF
@@ -1589,6 +1590,7 @@ CARD - Bank Of Montreal MAX Auto Industry -3x Inverse Leveraged ETN
 CARE - Carter Bankshares, Inc. - Common Stock
 CARG - CarGurus, Inc. - Class A Common Stock
 CARK - The Advisors Inner Circle Fund II CastleArk Large Growth ETF
+CARL - Carlsmed, Inc. - Common Stock
 CARM - Carisma Therapeutics, Inc. - Common Stock
 CARR - Carrier Global Corporation Common Stock 
 CARS - Cars.com Inc. Common Stock 
@@ -2154,6 +2156,7 @@ CRDF - Cardiff Oncology, Inc. - Common Stock
 CRDL - Cardiol Therapeutics Inc. - Class A Common Shares
 CRDO - Credo Technology Group Holding Ltd - Ordinary Shares
 CRDT - Simplify Exchange Traded Funds Simplify Opportunistic Income ETF
+CRE - Cre8 Enterprise Limited - Class A Ordinary Shares
 CRED - Columbia ETF Trust I Columbia Research Enhanced Real Estate ETF
 CREG - Smart Powerr Corp. - Common Stock
 CRESW - Cresud S.A.C.I.F. y A. - Warrant
@@ -2704,7 +2707,6 @@ DSYWW - Big Tree Cloud Holdings Limited - Warrants
 DT - Dynatrace, Inc. Common Stock
 DTAN - EA Series Trust Sparkline International Intangible Value ETF
 DTB - DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080
-DTC - Solo Brands, Inc. Class A Common Stock
 DTCK - Davis Commodities Limited - Ordinary Shares
 DTCR - Global X Data Center & Digital Infrastructure ETF
 DTD - WisdomTree U.S. Total Dividend Fund
@@ -2747,14 +2749,25 @@ DVA - DaVita Inc. Common Stock
 DVAL - BrandywineGLOBAL-Dynamic US Large Cap Value ETF
 DVAX - Dynavax Technologies Corporation - Common Stock
 DVDN - ETF Opportunities Trust Kingsbarn Dividend Opportunity ETF
+DVIN - WEBs Defined Volatility XLI ETF
 DVLT - Datavault AI Inc. - Common Stock
 DVLU - First Trust Dorsey Wright Momentum & Value ETF
 DVN - Devon Energy Corporation Common Stock
 DVND - Touchstone ETF Trust Touchstone Dividend Select ETF
 DVOL - First Trust Dorsey Wright Momentum & Low Volatility ETF
 DVQQ - WEBs Defined Volatility QQQ ETF
+DVRE - WEBs Defined Volatility XLRE ETF
 DVS - Dolly Varden Silver Corporation Common Shares
 DVSP - WEBs Defined Volatility SPY ETF
+DVUT - WEBS Defined Volatility XLU ETF
+DVXB - WEBs Defined Volatility XLB ETF
+DVXC - WEBs Defined Volatility XLC ETF
+DVXE - WEBs Defined Volatility XLE ETF
+DVXF - WEBs Defined Volatility XLF ETF
+DVXK - WEBs Defined Volatility XLK ETF
+DVXP - WEBs Defined Volatility XLP ETF
+DVXV - WEBs Defined Volatility XLV ETF
+DVXY - WEBs Defined Volatility XLY ETF
 DVY - iShares Select Dividend ETF
 DVYA - iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund
 DVYE - iShares Emerging Markets Dividend Index Fund Exchange Traded Fund
@@ -2974,7 +2987,6 @@ ELC - Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series du
 ELCV - Strategy Shares Eventide High Dividend ETF
 ELD - WisdomTree Emerging Markets Local Debt Fund
 ELDN - Eledon Pharmaceuticals, Inc. - Common Stock
-ELEV - Elevation Oncology, Inc. - Common stock
 ELF - e.l.f. Beauty, Inc. Common Stock
 ELFY - ALPS Electrification Infrastructure ETF
 ELIL - Direxion Daily LLY Bull 2X Shares
@@ -3773,7 +3785,9 @@ FRA - Blackrock Floating Rate Income Strategies Fund Inc  Common Stock
 FRAF - Franklin Financial Services Corporation - Common Stock
 FRBA - First Bank  - Common Stock
 FRD - Friedman Industries Inc. - Common Stock
+FRDD - Direxion Daily F Bear 1X ETF
 FRDM - Freedom 100 Emerging Markets ETF
+FRDU - Direxion Daily F Bull 2X ETF
 FREL - Fidelity MSCI Real Estate Index ETF
 FRGE - Forge Global Holdings, Inc. Common Stock
 FRGT - Freight Technologies, Inc. - Ordinary Shares
@@ -4634,6 +4648,7 @@ HSII - Heidrick & Struggles International, Inc. - Common Stock
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
 HSON - Hudson Global, Inc. - Common Stock
 HSPO - Horizon Space Acquisition I Corp. - Ordinary Shares
+HSPOR - Horizon Space Acquisition I Corp. - Right
 HSPOU - Horizon Space Acquisition I Corp. - Unit
 HSPOW - Horizon Space Acquisition I Corp. - Warrant
 HSPT - Horizon Space Acquisition II Corp. - Ordinary share
@@ -4687,7 +4702,6 @@ HUT - Hut 8 Corp. - Common Stock
 HUYA - HUYA Inc. American depositary shares, each  representing one Class A ordinary share
 HVAC - AdvisorShares Trust AdvisorShares HVAC and Industrials ETF
 HVII - Hennessy Capital Investment Corp. VII - Ordinary Shares
-HVIIR - Hennessy Capital Investment Corp. VII - Rights
 HVIIU - Hennessy Capital Investment Corp. VII - Unit
 HVT - Haverty Furniture Companies, Inc. Common Stock
 HWAY - Themes US Infrastructure ETF
@@ -6313,6 +6327,7 @@ MGV - Vanguard Mega Cap Value ETF
 MGX - Metagenomi, Inc. - Common Stock
 MGY - Magnolia Oil & Gas Corporation Class A Common Stock
 MGYR - Magyar Bancorp, Inc. - Common Stock
+MH - McGraw Hill, Inc. Common Stock
 MHD - Blackrock MuniHoldings Fund, Inc. Common Stock
 MHF - Western Asset Municipal High Income Fund, Inc. Common Stock
 MHH - Mastech Digital, Inc Common Stock
@@ -6830,6 +6845,7 @@ NINE - Nine Energy Service, Inc. Common Stock
 NIO - NIO Inc. American depositary shares, each  representing one Class A ordinary share
 NIOBW - NioCorp Developments Ltd. - Warrant
 NIPG - NIP Group Inc. - American Depositary Shares
+NIQ - NIQ Global Intelligence plc Ordinary Shares
 NISN - NiSun Intl Enterprise Development Group Co, Ltd - Class A Common Shares
 NITE - Capitol Series Trust The Nightview Fund NITE
 NITO - N2OFF, Inc. - Common Stock
@@ -7117,6 +7133,7 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -9425,7 +9442,6 @@ SVV - Savers Value Village, Inc. Common Stock
 SVXY - ProShares Short VIX Short Term Futures ETF
 SW - Smurfit WestRock plc Ordinary Shares
 SWAG - Stran & Company, Inc. - Common Stock
-SWAGW - Stran & Company, Inc. - Warrant
 SWAN - Amplify ETF Trust Amplify BlackSwan Growth & Treasury Core ETF
 SWBI - Smith & Wesson Brands, Inc. - Common Stock
 SWIM - Latham Group, Inc. - Common Stock
@@ -9562,6 +9578,7 @@ TDEC - First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF
 TDF - Templeton Dragon Fund, Inc. Common Stock
 TDG - Transdigm Group Incorporated Common Stock
 TDI - Touchstone Dynamic International ETF
+TDIC - Dreamland Limited - Class A Ordinary Shares
 TDIV - First Trust NASDAQ Technology Dividend Index Fund
 TDOC - Teladoc Health, Inc. Common Stock
 TDS - Telephone and Data Systems, Inc. Common Shares
