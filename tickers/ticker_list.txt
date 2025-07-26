@@ -287,6 +287,7 @@ AIOO - AIM ETF Products Trust AllianzIM U.S. Equity Buffer100 Protection ETF
 AIOT - PowerFleet, Inc. - Common Stock
 AIP - Arteris, Inc.  - Common Stock
 AIPI - REX AI Equity Premium Income ETF
+AIPO - Defiance AI & Power Infrastructure ETF
 AIQ - Global X Artificial Intelligence & Technology ETF
 AIR - AAR Corp. Common Stock
 AIRE - reAlpha Tech Corp. - Common Stock
@@ -660,7 +661,6 @@ ASND - Ascendis Pharma A/S - American Depositary Shares
 ASNS - Actelis Networks, Inc. - Common Stock
 ASO - Academy Sports and Outdoors, Inc. - Common Stock
 ASPC - A SPAC III Acquisition Corp. - Class A Ordinary Shares
-ASPCR - A SPAC III Acquisition Corp. - Right
 ASPCU - A SPAC III Acquisition Corp. - Unit
 ASPI - ASP Isotopes Inc. - Common Stock
 ASPN - Aspen Aerogels, Inc. Common Stock
@@ -2202,6 +2202,7 @@ CRVS - Corvus Pharmaceuticals, Inc. - Common Stock
 CRWD - CrowdStrike Holdings, Inc. - Class A Common Stock
 CRWL - GraniteShares 2x Long CRWD Daily ETF
 CRWS - Crown Crafts, Inc. - Common Stock
+CRWU - ETF Opportunities Trust T-REX 2X Long CRWV Daily Target ETF
 CRWV - CoreWeave, Inc. - Class A Common Stock
 CSAI - Cloudastructure, Inc. - Class A Common Stock
 CSAN - Cosan S.A. ADS
@@ -2945,7 +2946,6 @@ EGGQ - NestYield Visionary ETF
 EGGS - Tidal Trust III NestYield Total Return Guard ETF
 EGGY - NestYield Dynamic Income ETF
 EGHA - EGH Acquisition Corp. - Class A ordinary shares
-EGHAR - EGH Acquisition Corp. - rights
 EGHAU - EGH Acquisition Corp. - Unit
 EGHT - 8x8 Inc - Common stock
 EGLE - Global X Funds Global X S&P 500 U.S. Revenue Leaders ETF
@@ -4015,7 +4015,6 @@ GDE - WisdomTree Trust WisdomTree Efficient Gold Plus Equity Strategy Fund
 GDEC - FT Vest U.S. Equity Moderate Buffer ETF - December
 GDEN - Golden Entertainment, Inc. - Common Stock
 GDEV - GDEV Inc. - Ordinary Shares
-GDEVW - GDEV Inc. - Warrant
 GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
 GDIV - Harbor ETF Trust Harbor Dividend Growth Leaders ETF
 GDL - GDL Fund, The Common Shares of Beneficial Interest
@@ -4360,7 +4359,10 @@ GTEK - Goldman Sachs Future Tech Leaders Equity ETF
 GTEN - Gores Holdings X, Inc. - Class A ordinary shares
 GTENU - Gores Holdings X, Inc. - Units
 GTENW - Gores Holdings X, Inc. - Warrants
+GTERA - Globa Terra Acquisition Corporation - Class A Ordinary Shares
+GTERR - Globa Terra Acquisition Corporation - Rights
 GTERU - Globa Terra Acquisition Corporation - Units
+GTERW - Globa Terra Acquisition Corporation - Warrants
 GTES - Gates Industrial Corporation plc Ordinary Shares
 GTI - Graphjet Technology - Class A Ordinary Shares
 GTIM - Good Times Restaurants Inc. - Common Stock
@@ -8323,6 +8325,7 @@ REZ - iShares Residential and Multisector Real Estate ETF
 REZI - Resideo Technologies, Inc. Common Stock 
 RF - Regions Financial Corporation Common Stock
 RFAI - RF Acquisition Corp II - Ordinary Shares
+RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
 RFCI - RiverFront Dynamic Core Income ETF
 RFDA - RiverFront Dynamic US Dividend Advantage ETF
@@ -9072,6 +9075,7 @@ SMTH - ALPS ETF Trust ALPS
 SMTI - Sanara MedTech Inc. - Common Stock
 SMTK - SmartKem, Inc. - Common Stock
 SMU - Tradr 2X Long ASTS Daily ETF Tradr 2X Long SMR Daily ETF
+SMUP - ETF Opportunities Trust T-REX 2X Long SMR Daily Target ETF
 SMWB - Similarweb Ltd. Ordinary Shares
 SMX - SMX (Security Matters) Public Limited Company - Class A Ordinary Shares
 SMXT - Solarmax Technology Inc. - Common Stock
@@ -10604,7 +10608,6 @@ WELL - Welltower Inc. Common Stock
 WEN - Wendy's Company (The) - Common Stock
 WENN - Wen Acquisition Corp - Class A Ordinary Shares
 WENNU - Wen Acquisition Corp - Unit
-WENNW - Wen Acquisition Corp - Warrant
 WERN - Werner Enterprises, Inc. - Common Stock
 WES - Western Midstream Partners, LP Common Units Representing Limited Partner Interests
 WEST - Westrock Coffee Company - Common Stock
@@ -10631,6 +10634,7 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
+WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHTX - Volatility Shares Trust 2x Wheat ETF
@@ -10978,7 +10982,9 @@ YMM - Full Truck Alliance Co. Ltd. American Depositary Shares (each representing
 YNOT - Horizon Digital Frontier ETF
 YOKE - YOKE Core ETF
 YOLO - AdvisorShares Pure Cannabis ETF
+YORK - Yorkville Acquisition Corp. - Class A Ordinary Share
 YORKU - Yorkville Acquisition Corp. - Unit
+YORKW - Yorkville Acquisition Corp. - Warrant
 YORW - The York Water Company - Common Stock
 YOSH - Yoshiharu Global Co. - Class A Common Stock
 YOU - Clear Secure, Inc. Class A Common Stock
