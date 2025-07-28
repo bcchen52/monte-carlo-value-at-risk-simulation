@@ -1116,6 +1116,7 @@ BILL - BILL Holdings, Inc. Common Stock
 BILS - SPDR Bloomberg 3-12 Month T-Bill ETF
 BILZ - PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange-Traded Fund
 BINC - iShares Flexible Income Active ETF
+BINI - Bollinger Innovations, Inc. - Common Stock
 BINT - Exchange Traded Concepts Trust Bluemonte Global Equity ETF
 BINV - Brandes International ETF
 BIO - Bio-Rad Laboratories, Inc. Class A Common Stock
@@ -4986,7 +4987,6 @@ IJS - iShares S&P SmallCap 600 Value ETF
 IJT - iShares S&P SmallCap 600 Growth ETF
 IJUL - Innovator International Developed Power Buffer ETF  July
 IJUN - SHL Telemedicine Ltd Innovator International Developed Power Buffer ETF  June
-IKNA - Ikena Oncology, Inc. - Common Stock
 IKT - Inhibikase Therapeutics, Inc. - Common Stock
 ILAG - Intelligent Living Application Group Inc. - Ordinary Shares
 ILCB - iShares Morningstar Large-Cap ETF
@@ -5002,6 +5002,7 @@ ILOW - AB Active ETFs, Inc. AB International Low Volatility Equity ETF
 ILPT - Industrial Logistics Properties Trust - Common Shares of Beneficial Interest
 ILS - ETF Opportunities Trust Brookmont Catastrophic Bond ETF
 ILTB - iShares Core 10  Year USD Bond ETF
+IMA - ImageneBio, Inc. - Common Stock
 IMAB - I-MAB - American Depositary Shares
 IMAR - Innovator ETFs Trust Innovator International Developed Power Buffer ETF  March
 IMAX - Imax Corporation Common Stock
@@ -6619,7 +6620,6 @@ MUE - Blackrock MuniHoldings Quality Fund II, Inc. Common Stock
 MUFG - Mitsubishi UFJ Financial Group, Inc. Common Stock
 MUJ - Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock
 MULL - GraniteShares 2x Long MU Daily ETF
-MULN - Mullen Automotive, Inc. - Common Stock
 MUNI - PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund
 MUNY - Vanguard New York Tax-Exempt Bond ETF Vanguard New York Tax-Exempt Bond ETF
 MUR - Murphy Oil Corporation Common Stock
@@ -7261,7 +7261,7 @@ OMEX - Odyssey Marine Exploration, Inc. - Common Stock
 OMF - OneMain Holdings, Inc. Common Stock
 OMFL - Invesco Exchange-Traded Self-Indexed Fund Trust Invesco Russell 1000 Dynamic Multifactor ETF
 OMFS - Invesco Exchange-Traded Self-Indexed Fund Trust Invesco Russell 2000 Dynamic Multifactor ETF
-OMH - Ohmyhome Limited - Ordinary Shares
+OMH - Ohmyhome Limited - Class A Ordinary Shares
 OMI - Owens & Minor, Inc. Common Stock
 OMSE - OMS Energy Technologies Inc. - Ordinary Shares
 ON - ON Semiconductor Corporation - Common Stock
@@ -8617,7 +8617,7 @@ SABR - Sabre Corporation - Common Stock
 SABS - SAB Biotherapeutics, Inc. - Common Stock
 SABSW - SAB Biotherapeutics, Inc. - Warrant
 SACH - Sachem Capital Corp. Common Shares
-SAEF - Schwab Strategic Trust Schwab Ariel ESG ETF
+SAEF - Schwab Ariel Opportunities ETF
 SAFE - Safehold Inc. New Common Stock 
 SAFT - Safety Insurance Group, Inc. - Common Stock
 SAFX - XCF Global, Inc. - Class A Common Stock
@@ -9434,7 +9434,7 @@ SUSA - iShares ESG Optimized MSCI USA ETF
 SUSB - iShares ESG Aware 1-5 Year USD Corporate Bond ETF
 SUSC - iShares ESG Aware USD Corporate Bond ETF
 SUSL - iShares ESG MSCI USA Leaders ETF
-SUUN - SolarBank Corporation - Common Stock
+SUUN - PowerBank Corporation - Common Stock
 SUZ - Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
 SVA - Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
 SVAL - iShares US Small Cap Value Factor ETF
@@ -10317,7 +10317,6 @@ VERI - Veritone, Inc. - Common Stock
 VERO - Venus Concept Inc.  - Common Stock
 VERS - ProShares Trust ProShares Metaverse ETF
 VERU - Veru Inc. - Common Stock
-VERV - Verve Therapeutics, Inc. - Common Stock
 VERX - Vertex, Inc. - Class A Common Stock
 VET - Vermilion Energy Inc. Common (Canada)
 VETZ - Academy Veteran Impact ETF
@@ -10608,6 +10607,7 @@ WELL - Welltower Inc. Common Stock
 WEN - Wendy's Company (The) - Common Stock
 WENN - Wen Acquisition Corp - Class A Ordinary Shares
 WENNU - Wen Acquisition Corp - Unit
+WENNW - Wen Acquisition Corp - Warrant
 WERN - Werner Enterprises, Inc. - Common Stock
 WES - Western Midstream Partners, LP Common Units Representing Limited Partner Interests
 WEST - Westrock Coffee Company - Common Stock
