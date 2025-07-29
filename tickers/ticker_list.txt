@@ -661,6 +661,7 @@ ASND - Ascendis Pharma A/S - American Depositary Shares
 ASNS - Actelis Networks, Inc. - Common Stock
 ASO - Academy Sports and Outdoors, Inc. - Common Stock
 ASPC - A SPAC III Acquisition Corp. - Class A Ordinary Shares
+ASPCR - A SPAC III Acquisition Corp. - Right
 ASPCU - A SPAC III Acquisition Corp. - Unit
 ASPI - ASP Isotopes Inc. - Common Stock
 ASPN - Aspen Aerogels, Inc. Common Stock
@@ -2777,7 +2778,6 @@ DVYA - iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund
 DVYE - iShares Emerging Markets Dividend Index Fund Exchange Traded Fund
 DWAS - Invesco Dorsey Wright SmallCap Momentum ETF
 DWAW - AdvisorShares Dorsey Wright FSM All Cap World ETF
-DWCR - Arrow Investments Trust Arrow DWA Country Rotation ETF
 DWLD - Davis Fundamental ETF Trust Davis Select Worldwide ETF
 DWM - WisdomTree International Equity Fund
 DWMF - WisdomTree International Multifactor Fund
@@ -2947,6 +2947,7 @@ EGGQ - NestYield Visionary ETF
 EGGS - Tidal Trust III NestYield Total Return Guard ETF
 EGGY - NestYield Dynamic Income ETF
 EGHA - EGH Acquisition Corp. - Class A ordinary shares
+EGHAR - EGH Acquisition Corp. - rights
 EGHAU - EGH Acquisition Corp. - Unit
 EGHT - 8x8 Inc - Common stock
 EGLE - Global X Funds Global X S&P 500 U.S. Revenue Leaders ETF
@@ -3537,7 +3538,7 @@ FGF - Fundamental Global Inc. - Common Stock
 FGFPP - Fundamental Global Inc. - 8.00% Cumulative Series A Preferred Stock
 FGI - FGI Industries Ltd. - Ordinary Shares
 FGIWW - FGI Industries Ltd. - warrant
-FGL - Founder Group Limited - Ordinary Shares
+FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
 FGMC - FG Merger II Corp. - Common stock
 FGMCR - FG Merger II Corp. - Rights
@@ -4016,6 +4017,7 @@ GDE - WisdomTree Trust WisdomTree Efficient Gold Plus Equity Strategy Fund
 GDEC - FT Vest U.S. Equity Moderate Buffer ETF - December
 GDEN - Golden Entertainment, Inc. - Common Stock
 GDEV - GDEV Inc. - Ordinary Shares
+GDEVW - GDEV Inc. - Warrant
 GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
 GDIV - Harbor ETF Trust Harbor Dividend Growth Leaders ETF
 GDL - GDL Fund, The Common Shares of Beneficial Interest
@@ -5607,7 +5609,6 @@ KIE - SPDR S&P Insurance ETF
 KIM - Kimco Realty Corporation (HC) Common Stock
 KINS - Kingstone Companies, Inc - Common Stock
 KIO - KKR Income Opportunities Fund Common Shares
-KIRK - Kirkland's, Inc. - Common Stock
 KITT - Nauticus Robotics, Inc. - Common stock
 KITTW - Nauticus Robotics, Inc. - Warrant
 KJAN - Innovator U.S. Small Cap Power Buffer ETF - January
@@ -7987,7 +7988,6 @@ PW - Power REIT (MD) Common Stock
 PWB - Invesco Large Cap Growth ETF
 PWER - Macquarie ETF Trust Macquarie Energy Transition ETF
 PWM - Prestige Wealth Inc. - Class A Ordinary Shares
-PWOD - Penns Woods Bancorp, Inc. - Common Stock
 PWP - Perella Weinberg Partners - Class A Common Stock
 PWR - Quanta Services, Inc. Common Stock
 PWRD - TCW Transform Systems ETF
@@ -8228,6 +8228,7 @@ RBKB - Rhinebeck Bancorp, Inc. - Common Stock
 RBLD - First Trust Alerian US NextGen Infrastructure ETF
 RBLU - ETF Opportunities Trust T-REX 2X Long RBLX Daily Target ETF
 RBLX - Roblox Corporation Class A Common Stock
+RBLY - Tidal Trust II YieldMax RBLX Option Income Strategy ETF
 RBNE - Robin Energy Ltd. - Common Stock
 RBOT - Vicarious Surgical Inc. Class A Common Stock
 RBRK - Rubrik, Inc. Class A Common Stock
@@ -8251,6 +8252,7 @@ RCS - PIMCO Strategic Income Fund, Inc.
 RCT - RedCloud Holdings plc - Ordinary Shares
 RCUS - Arcus Biosciences, Inc. Common Stock
 RDAC - Rising Dragon Acquisition Corp. - Ordinary Shares
+RDACR - Rising Dragon Acquisition Corp. - Rights
 RDACU - Rising Dragon Acquisition Corp. - Unit
 RDAG - Republic Digital Acquisition Company - Class A Ordinary Shares
 RDAGU - Republic Digital Acquisition Company - Unit
@@ -8855,7 +8857,6 @@ SGHT - Sight Sciences, Inc. - Common Stock
 SGI - Somnigroup International Inc. Common Stock
 SGLC - The RBB Fund, Inc. SGI U.S. Large Cap Core ETF
 SGLY - Singularity Future Technology Ltd. - Common Stock
-SGMA - SigmaTron International, Inc. - Common Stock
 SGML - Sigma Lithium Corporation - common shares
 SGMO - Sangamo Therapeutics, Inc. - Common Stock
 SGMT - Sagimet Biosciences Inc. - Series A Common Stock
@@ -9457,6 +9458,7 @@ SVV - Savers Value Village, Inc. Common Stock
 SVXY - ProShares Short VIX Short Term Futures ETF
 SW - Smurfit WestRock plc Ordinary Shares
 SWAG - Stran & Company, Inc. - Common Stock
+SWAGW - Stran & Company, Inc. - Warrant
 SWAN - Amplify ETF Trust Amplify BlackSwan Growth & Treasury Core ETF
 SWBI - Smith & Wesson Brands, Inc. - Common Stock
 SWIM - Latham Group, Inc. - Common Stock
@@ -9549,6 +9551,7 @@ TBFC - ETF Series Solutions The Brinsmere Fund  Conservative ETF
 TBFG - ETF Series Solutions The Brinsmere Fund Growth ETF
 TBG - EA Series Trust TBG Dividend Focus ETF
 TBH - Brag House Holdings, Inc. - Common Stock
+TBHC - The Brand House Collective, Inc - Common Stock
 TBI - TrueBlue, Inc. Common Stock
 TBIL - US Treasury 3 Month Bill ETF
 TBJL - Innovator 20  Year Treasury Bond 9 Buffer ETF - July
