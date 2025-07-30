@@ -395,6 +395,7 @@ AMBC - Ambac Financial Group, Inc. Common Stock
 AMBI - Ambipar Emergency Response Class A Ordinary Shares
 AMBO - Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares)
 AMBP - Ardagh Metal Packaging S.A. Ordinary Shares
+AMBQ - Ambiq Micro, Inc. Common Stock
 AMBR - Amber International Holding Limited - American Depositary Shares
 AMC - AMC Entertainment Holdings, Inc. Class A Common Stock
 AMCR - Amcor plc Ordinary Shares
@@ -1102,7 +1103,6 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - DBX ETF Trust Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
-BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
@@ -2092,6 +2092,7 @@ COWG - Pacer US Large Cap Cash Cows Growth Leaders ETF
 COWS - Amplify Cash Flow Dividend Leaders ETF
 COWZ - Pacer US Cash Cows 100 ETF
 COYA - Coya Therapeutics, Inc. - Common Stock
+COYY - GraniteShares YieldBOOST COIN ETF
 CP - Canadian Pacific Kansas City Limited Common Shares
 CPA - Copa Holdings, S.A. Class A Common Stock
 CPAC - Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five Common Shares)
@@ -3425,7 +3426,7 @@ FCX - Freeport-McMoRan, Inc. Common Stock
 FDAT - Tactical Advantage ETF
 FDBC - Fidelity D & D Bancorp, Inc. - Common Stock
 FDCF - Fidelity Disruptive Communications ETF
-FDD - First Trust Dow Jones STOXX Select Dividend 30 Index Fund
+FDD - First Trust STOXX European Select Dividend Index Fund
 FDEC - FT Vest U.S. Equity Buffer ETF - December
 FDEM - Fidelity Emerging Markets Multifactor ETF
 FDEV - Fidelity Emerging Markets Multifactor ETF
@@ -7577,9 +7578,7 @@ PEPS - Parametric Equity Plus ETF
 PERF - Perfect Corp. Class A Ordinary Share
 PERI - Perion Network Ltd - Ordinary Shares
 PESI - Perma-Fix Environmental Services, Inc. - Common Stock
-PET - Wag! Group Co. - Common Stock
 PETS - PetMed Express, Inc. - Common Stock
-PETWW - Wag! Group Co. - Warrant
 PETZ - TDH Holdings, Inc. - Common Shares
 PEVC - Pacer Funds Trust Pacer PE/VC ETF
 PEW - GrabAGun Digital Holdings Inc. Common Stock
@@ -8135,7 +8134,6 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation Class A Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
-QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSG - QuantaSing Group Limited - American Depositary Shares
 QSI - Quantum-Si Incorporated - Class A Common Stock
@@ -9966,7 +9964,6 @@ TUYA - Tuya Inc. American Depositary Shares, each representing one Class A Ordin
 TV - Grupo Televisa S.A.B. Common Stock
 TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
-TVACW - Texas Ventures Acquisition III Corp - Warrants
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
 TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
@@ -10287,7 +10284,6 @@ VCEB - Vanguard World Funds ETF
 VCEL - Vericel Corporation - Common Stock
 VCIC - Vine Hill Capital Investment Corp. - Class A Ordinary Shares
 VCICU - Vine Hill Capital Investment Corp. - Unit
-VCICW - Vine Hill Capital Investment Corp. - Warrant
 VCIG - VCI Global Limited - Ordinary Share
 VCIT - Vanguard Intermediate-Term Corporate Bond ETF
 VCLN - Virtus Duff & Phelps Clean Energy ETF
@@ -10838,19 +10834,30 @@ XJR - iShares ESG Select Screened S&P Small-Cap ETF
 XJUL - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - July
 XJUN - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - June
 XLB - Materials Select Sector SPDR
+XLBI - Select Sector SPDR Trust (The) The Materials Select Sector SPDR Premium Income Fund
 XLC - The Communication Services Select Sector SPDR Fund
+XLCI - Select Sector SPDR Trust (The) The Communication Services Select Sector SPDR Premium Income Fund
 XLE - SPDR Select Sector Fund - Energy Select Sector
+XLEI - Select Sector SPDR Trust (The) The Energy Select Sector SPDR Premium Income Fund
 XLF - SPDR Select Sector Fund - Financial
+XLFI - Select Sector SPDR Trust (The) The Financial Select Sector SPDR Premium Income Fund
 XLG - Invesco S&P 500 Top 50 ETF
 XLI - SPDR Select Sector Fund - Industrial
+XLII - Select Sector SPDR Trust (The) The Industrial Select Sector SPDR Premium Income Fund
 XLK - SPDR Select Sector Fund - Technology
+XLKI - Select Sector SPDR Trust (The) The Technology Select Sector SPDR Premium Income Fund
 XLO - Xilio Therapeutics, Inc. - Common Stock
 XLP - SPDR Select Sector Fund - Consumer Staples
 XLRE - Real Estate Select Sector SPDR Fund (The)
+XLRI - Select Sector SPDR Trust (The) The Real Estate Select Sector SPDR Premium Income Fund
+XLSI - Select Sector SPDR Trust (The) The Consumer Staples Select Sector SPDR Premium Income Fund
 XLSR - SPDR SSGA U.S. Sector Rotation ETF
 XLU - SPDR Select Sector Fund - Utilities
+XLUI - Select Sector SPDR Trust (The) The Utilities Select Sector SPDR Premium Income Fund
 XLV - SPDR Select Sector Fund - Health Care
+XLVI - Select Sector SPDR Trust (The) The Health Care Select Sector SPDR Premium Income Fund
 XLY - SPDR Select Sector Fund - Consumer Discretionary
+XLYI - Select Sector SPDR Trust (The) The Consumer Discretionary Select Sector SPDR Premium Income Fund
 XMAG - Defiance Large Cap ex-Mag 7 ETF
 XMAR - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - March
 XMAY - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Enhance & Moderate Buffer ETF - May
