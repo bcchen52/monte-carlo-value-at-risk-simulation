@@ -55,7 +55,6 @@ ABLLL - Abacus Global Management, Inc. - 9.875% Fixed Rate Senior Notes due 2028
 ABLLW - Abacus Global Management, Inc. - Warrant
 ABLS - Abacus FCF ETF Trust Abacus FCF Small Cap Leaders ETF
 ABLV - Able View Global Inc. - Class B Ordinary Shares
-ABLVW - Able View Global Inc. - Warrant
 ABM - ABM Industries Incorporated Common Stock
 ABNB - Airbnb, Inc. - Class A Common Stock
 ABNY - Tidal Trust II YieldMax ABNB Option Income Strategy ETF
@@ -270,7 +269,6 @@ AIBU - Direxion Shares ETF Trust Direxion Daily AI and Big Data Bull 2X Shares
 AIEQ - Amplify ETF Trust Amplify AI Powered Equity ETF
 AIFD - TCW Artificial Intelligence ETF
 AIFE - Aifeex Nexus Acquisition Corporation - Class A Ordinary Shares
-AIFER - Aifeex Nexus Acquisition Corporation - Right
 AIFEU - Aifeex Nexus Acquisition Corporation - Unit
 AIFF - Firefly Neuroscience, Inc.  - Common Stock
 AIFU - AIFU Inc. - Class A Ordinary Share
@@ -504,6 +502,7 @@ AOTG - AOT Growth and Innovation ETF
 AOUT - American Outdoor Brands, Inc. - Common Stock
 AP - Ampco-Pittsburgh Corporation Common Stock
 APA - APA Corporation - Common Stock
+APADU - A Paradise Acquisition Corp. - Unit
 APAM - Artisan Partners Asset Management Inc. Class A Common Stock
 APCB - Trust for Professional Managers ActivePassive Core Bond ETF
 APD - Air Products and Chemicals, Inc. Common Stock
@@ -1356,7 +1355,10 @@ BRNS - Barinthus Biotherapeutics plc - American Depositary Shares
 BRNY - Burney U.S. Factor Rotation ETF
 BRO - Brown & Brown, Inc. Common Stock
 BROS - Dutch Bros Inc. Class A Common Stock
+BRR - Columbus Circle Capital Corp I - Class A Ordinary Shares
 BRRR - Coinshares Bitcoin ETF
+BRRWU - Columbus Circle Capital Corp I - Units
+BRRWW - Columbus Circle Capital Corp I - Warrant.
 BRSL - Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares
 BRSP - BrightSpire Capital, Inc. Class A Common Stock
 BRT - BRT Apartments Corp. (MD) Common Stock
@@ -1651,9 +1653,6 @@ CCAP - Crescent Capital BDC, Inc. - Common Stock
 CCB - Coastal Financial Corporation - Common Stock
 CCBG - Capital City Bank Group - Common Stock
 CCCC - C4 Therapeutics, Inc. - Common Stock
-CCCM - Columbus Circle Capital Corp I - Class A Ordinary Shares
-CCCMU - Columbus Circle Capital Corp I - Units
-CCCMW - Columbus Circle Capital Corp I - Warrant.
 CCCS - CCC Intelligent Solutions Holdings Inc. - Common Stock
 CCCX - Churchill Capital Corp X - Class A Ordinary Shares
 CCCXU - Churchill Capital Corp X - Unit
@@ -2372,6 +2371,7 @@ DAC - Danaos Corporation Common Stock
 DAIC - CID HoldCo, Inc. - Common Stock
 DAICW - CID HoldCo, Inc. - Warrants
 DAIO - Data I/O Corporation - Common Stock
+DAK - Dakota Active Equity ETF
 DAKT - Daktronics, Inc. - Common Stock
 DAL - Delta Air Lines, Inc. Common Stock
 DALI - First Trust Dorsey Wright DALI Equity ETF
@@ -3049,6 +3049,7 @@ EMOP - AB Active ETFs, Inc. AB Emerging Markets Opportunities ETF
 EMOT - First Trust Exchange-Traded Fund VI First Trust S&P 500 Economic Moat ETF
 EMP - Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066
 EMPB - EA Series Trust Efficient Market Portfolio Plus ETF
+EMPD - Empery Digital Inc. - Common stock
 EMPG - Empro Group Inc. - Ordinary shares
 EMQQ - EMQQ The Emerging Markets Internet ETF
 EMR - Emerson Electric Company Common Stock
@@ -3390,7 +3391,6 @@ FBTC - Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest
 FBUF - Fidelity Dynamic Buffered Equity ETF
 FBY - Tidal ETF Trust II YieldMax META Option Income Strategy ETF
 FBYD - Falcon's Beyond Global, Inc. - Class A Common Stock
-FBYDW - Falcon's Beyond Global, Inc. - Warrants
 FC - Franklin Covey Company Common Stock
 FCA - First Trust China AlphaDEX Fund
 FCAL - First Trust California Municipal High income ETF
@@ -3567,6 +3567,7 @@ FID - First Trust S&P International Dividend Aristocrats ETF
 FIDI - Fidelity International High Dividend ETF
 FIDU - Fidelity MSCI Industrials Index ETF
 FIEE - FiEE, Inc - Common Stock
+FIG - Figma, Inc. Class A Common Stock
 FIGB - Fidelity Investment Grade Bond ETF
 FIGS - FIGS, Inc. Class A Common Stock
 FIGXU - FIGX Capital Acquisition Corp. - Units
@@ -5042,6 +5043,8 @@ IMUX - Immunic, Inc.  - Common Stock
 IMVT - Immunovant, Inc.  - Common Stock
 IMXI - International Money Express, Inc. - Common Stock
 INAB - IN8bio, Inc. - Common Stock
+INAC - Indigo Acquisition Corp. - Ordinary Shares
+INACR - Indigo Acquisition Corp. - Right
 INACU - Indigo Acquisition Corp. - Unit
 INBK - First Internet Bancorp - Common Stock
 INBKZ - First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029
@@ -8057,6 +8060,7 @@ QDWN - Strategic Trust DailyDelta  Q100 Downside Option Strategy ETF
 QEFA - SPDR MSCI EAFE StrategicFactors ETF
 QEMM - SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
+QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF 
 QFIN - Qifu Technology, Inc - American Depositary Shares
@@ -8134,6 +8138,7 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation Class A Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
+QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSG - QuantaSing Group Limited - American Depositary Shares
 QSI - Quantum-Si Incorporated - Class A Common Stock
@@ -8248,6 +8253,7 @@ RCMT - RCM Technologies, Inc. - Common Stock
 RCON - Recon Technology, Ltd. - Class A Ordinary Shares
 RCS - PIMCO Strategic Income Fund, Inc.
 RCT - RedCloud Holdings plc - Ordinary Shares
+RCTR - First Trust Exchange-Traded Fund II First Trust Bloomberg Nuclear Power ETF
 RCUS - Arcus Biosciences, Inc. Common Stock
 RDAC - Rising Dragon Acquisition Corp. - Ordinary Shares
 RDACR - Rising Dragon Acquisition Corp. - Rights
@@ -9384,6 +9390,7 @@ STOX - Horizon Funds Horizon Core Equity ETF
 STPZ - PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund
 STR - Sitio Royalties Corp. Class A Common Stock
 STRA - Strategic Education, Inc. - Common Stock
+STRC - MicroStrategy Incorporated - Variable Rate Series A Perpetual Stretch Preferred Stock
 STRD - MicroStrategy Incorporated - 10.00% Series A Perpetual Stride Preferred Stock
 STRF - MicroStrategy Incorporated - 10.00% Series A Perpetual Strife Preferred Stock
 STRK - MicroStrategy Incorporated - 8.00% Series A Perpetual Strike Preferred Stock
@@ -9689,7 +9696,6 @@ THNR - Amplify ETF Trust Amplify Weight Loss Drug & Treatment ETF
 THO - Thor Industries, Inc. Common Stock
 THQ - abrdn Healthcare Opportunities Fund Shares of Beneficial Interest
 THR - Thermon Group Holdings, Inc. Common Stock
-THRD - Third Harmonic Bio, Inc. - Common Stock
 THRM - Gentherm Inc - Common Stock
 THRO - iShares U.S. Thematic Rotation Active ETF
 THRY - Thryv Holdings, Inc. - Common Stock
@@ -10226,7 +10232,7 @@ UTWO - US Treasury 2 Year Note ETF
 UTWY - US Treasury 20 Year Bond ETF
 UTZ - Utz Brands Inc Class A Common Stock 
 UUP - Invesco DB USD Index Bullish Fund ETF
-UUU - Universal Security Instruments, Inc. Common Stock
+UUU - Universal Safety Products, Inc. Common Stock
 UUUU - Energy Fuels Inc Ordinary Shares (Canada)
 UVE - UNIVERSAL INSURANCE HOLDINGS INC Common Stock
 UVIX - VS TR 2x Long VIX Futures ETF
@@ -10284,6 +10290,7 @@ VCEB - Vanguard World Funds ETF
 VCEL - Vericel Corporation - Common Stock
 VCIC - Vine Hill Capital Investment Corp. - Class A Ordinary Shares
 VCICU - Vine Hill Capital Investment Corp. - Unit
+VCICW - Vine Hill Capital Investment Corp. - Warrant
 VCIG - VCI Global Limited - Ordinary Share
 VCIT - Vanguard Intermediate-Term Corporate Bond ETF
 VCLN - Virtus Duff & Phelps Clean Energy ETF
@@ -10380,7 +10387,6 @@ VIXY - ProShares Trust VIX Short-Term Futures ETF
 VKI - Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)
 VKQ - Invesco Municipal Trust Common Stock
 VKTX - Viking Therapeutics, Inc. - Common Stock
-VLCN - Volcon, Inc. - Common stock
 VLGEA - Village Super Market, Inc. - Class A Common Stock
 VLLU - Harbor ETF Trust Harbor AlphaEdge Large Cap Value ETF
 VLN - Valens Semiconductor Ltd. Ordinary Shares
@@ -10775,8 +10781,8 @@ XBIT - XBiotech Inc. - Common Stock
 XBJA - Innovator ETFs Trust Innovator U.S. Equity Accelerated 9 Buffer ETF - January
 XBJL - Innovator U.S. Equity Accelerated 9 Buffer ETF - July
 XBOC - Innovator U.S. Equity Accelerated 9 Buffer ETF - October
-XBP - XBP Europe Holdings, Inc. - Common Stock
-XBPEW - XBP Europe Holdings, Inc. - Warrant
+XBP - XBP Global Holdings, Inc. - Common Stock
+XBPEW - XBP Global Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
 XC - WisdomTree True Emerging Markets Fund
 XCCC - BondBloxx ETF Trust BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
@@ -10987,6 +10993,7 @@ YLDE - Franklin ClearBridge Enhanced Income ETF
 YMAB - Y-mAbs Therapeutics, Inc. - Common Stock
 YMAG - Tidal Trust II YieldMax Magnificent 7 Fund of Option Income ETFs
 YMAR - FT Vest International Equity Moderate Buffer ETF - March
+YMAT - J-Star Holding Co., Ltd. - Ordinary Shares
 YMAX - Tidal Trust II YieldMax Universe Fund of Option Income ETFs
 YMM - Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares)
 YNOT - Horizon Digital Frontier ETF
