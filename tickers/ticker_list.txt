@@ -765,6 +765,7 @@ AVAH - Aveanna Healthcare Holdings Inc. - Common Stock
 AVAL - Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)
 AVAV - AeroVironment, Inc. - Common Stock
 AVB - AvalonBay Communities, Inc. Common Stock
+AVBC - Avidia Bancorp, Inc. Common Stock
 AVBP - ArriVent BioPharma, Inc. - Common Stock
 AVD - American Vanguard Corporation Common Stock ($0.10 Par Value)
 AVDE - Avantis International Equity ETF
@@ -954,6 +955,7 @@ BBY - Best Buy Co., Inc. Common Stock
 BC - Brunswick Corporation Common Stock
 BCAB - BioAtla, Inc. - Common Stock
 BCAL - California BanCorp - Common Stock
+BCARU - D. Boral ARC Acquisition I Corp. - Units
 BCAT - BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest
 BCAX - Bicara Therapeutics Inc. - Common Stock
 BCBP - BCB Bancorp, Inc. (NJ) - Common Stock
@@ -1102,11 +1104,11 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - DBX ETF Trust Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
+BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
 BIDU - Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share
-BIGC - BigCommerce Holdings, Inc. - Series 1 Common Stock
 BIGY - Tidal Trust II YieldMax Target 12 Big 50 Option Income ETF
 BIIB - Biogen Inc. - Common Stock
 BIL - SPDR Bloomberg 1-3 Month T-Bill ETF
@@ -1114,6 +1116,7 @@ BILD - Macquarie ETF Trust Macquarie Global Listed Infrastructure ETF
 BILI - Bilibili Inc. - American Depositary Shares
 BILL - BILL Holdings, Inc. Common Stock
 BILS - SPDR Bloomberg 3-12 Month T-Bill ETF
+BILT - BlackRock ETF Trust iShares Infrastructure Active ETF
 BILZ - PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange-Traded Fund
 BINC - iShares Flexible Income Active ETF
 BINI - Bollinger Innovations, Inc. - Common Stock
@@ -1222,7 +1225,9 @@ BLTD - Exchange Traded Concepts Trust Bluemonte Long Term Bond ETF
 BLTE - Belite Bio, Inc - American Depositary Shares
 BLUC - Exchange Traded Concepts Trust Bluemonte Large Cap Core ETF
 BLUI - Exchange Traded Concepts Trust Bluemonte Diversified Income ETF
+BLUW - Blue Water Acquisition Corp. III - Class A Ordinary Shares
 BLUWU - Blue Water Acquisition Corp. III - Unit.
+BLUWW - Blue Water Acquisition Corp. III - Warrant.
 BLUX - Exchange Traded Concepts Trust Bluemonte Dynamic Total Market ETF
 BLV - Vanguard Long-Term Bond ETF
 BLW - Blackrock Limited Duration Income Trust
@@ -1483,6 +1488,7 @@ BUL - Pacer US Cash Cows Growth ETF
 BULD - Pacer BlueStar Engineering the Future ETF
 BULL - Webull Corporation - Class A Ordinary Shares
 BULLW - Webull Corporation - Warrants
+BULU - ETF Opportunities Trust T-REX 2X Long BULL Daily Target ETF
 BULZ - MicroSectors FANG & Innovation 3x Leveraged ETN
 BUR - Burford Capital Limited Ordinary Shares
 BURL - Burlington Stores, Inc. Common Stock
@@ -1974,6 +1980,7 @@ CMPOW - CompoSecure, Inc.  - Warrant
 CMPR - Cimpress plc - Ordinary Shares
 CMPS - COMPASS Pathways Plc - American Depository Shares
 CMPX - Compass Therapeutics, Inc. - Common Stock
+CMRC - Commerce.com, Inc. - Series 1 Common Stock
 CMRE - Costamare Inc. Common Stock $0.0001 par value
 CMS - CMS Energy Corporation Common Stock
 CMSA - CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078
@@ -2596,7 +2603,9 @@ DJUN - FT Vest U.S. Equity Deep Buffer ETF - June
 DK - Delek US Holdings, Inc. Common Stock
 DKL - Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests
 DKNG - DraftKings Inc. - Class A Common Stock
+DKNX - Defiance Daily Target 2X Long DKNG ETF
 DKS - Dick's Sporting Goods Inc Common Stock
+DKUP - ETF Opportunities Trust T-REX 2X Long DKNG Daily Target ETF
 DLB - Dolby Laboratories Common Stock
 DLHC - DLH Holdings Corp. - Common Stock
 DLLL - GraniteShares 2x Long DELL Daily ETF
@@ -4744,7 +4753,7 @@ HYGI - iShares U.S. ETF Trust iShares Inflation Hedged High Yield Bond ETF
 HYGV - FlexShares High Yield Value-Scored Bond Index Fund
 HYGW - iShares Trust iShares High Yield Corporate Bond BuyWrite Strategy ETF
 HYHG - ProShares High Yield Interest Rate Hedged
-HYI - Western Asset High Yield Defined Opportunity Fund Inc. Common Stock
+HYI - Western Asset High Yield Opportunity Fund Inc. Common Stock
 HYIN - WisdomTree Private Credit and Alternative Income Fund
 HYKE - ETF Series Solutions Vest 2 Year Interest Rate Hedge ETF
 HYLB - Xtrackers USD High Yield Corporate Bond ETF
@@ -6033,7 +6042,7 @@ LQTI - First Trust Exchange-Traded Fund IV FT Vest Investment Grade & Target Inc
 LRCX - Lam Research Corporation - Common Stock
 LRE - Lead Real Estate Co., Ltd - American Depositary Shares
 LRGC - AB Active ETFs, Inc. AB US Large Cap Strategic Equities ETF
-LRGE - ClearBridge Large Cap Growth ESG ETF
+LRGE - ClearBridge Large Cap Growth Select ETF
 LRGF - iShares U.S. Equity Factor ETF
 LRGG - Macquarie ETF Trust Macquarie Focused Large Growth ETF
 LRHC - La Rosa Holdings Corp. - Common Stock
@@ -7519,6 +7528,7 @@ PCH - PotlatchDeltic Corporation - Common Stock
 PCHI - FundVantage Trust Polen High Income ETF
 PCIG - Litman Gregory Funds Trust Polen Capital International Growth ETF
 PCK - Pimco California Municipal Income Fund II Common Shares of Beneficial Interest
+PCL - PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF
 PCLA - PicoCELA Inc. - American Depositary Shares
 PCLO - Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF
 PCM - PCM Fund, Inc. Common Stock
@@ -7528,6 +7538,7 @@ PCOR - Procore Technologies, Inc. Common Stock
 PCQ - PIMCO California Municipal Income Fund Common Stock
 PCRB - Putnam ETF Trust Putnam ESG Core Bond ETF
 PCRX - Pacira BioSciences, Inc. - Common Stock
+PCS - PGIM ETF Trust PGIM Corporate Bond 0-5 Year ETF
 PCSA - Processa Pharmaceuticals, Inc. - Common Stock
 PCSC - Perceptive Capital Solutions Corp - Class A Ordinary Shares
 PCT - PureCycle Technologies, Inc. - Common stock
@@ -8627,7 +8638,6 @@ SAEF - Schwab Ariel Opportunities ETF
 SAFE - Safehold Inc. New Common Stock 
 SAFT - Safety Insurance Group, Inc. - Common Stock
 SAFX - XCF Global, Inc. - Class A Common Stock
-SAGE - Sage Therapeutics, Inc. - Common Stock
 SAGP - The Advisors' Inner Circle Fund III Strategas Global Policy Opportunities ETF
 SAGT - SAGTEC GLOBAL LIMITED - Ordinary shares
 SAH - Sonic Automotive, Inc. Common Stock
@@ -8911,6 +8921,7 @@ SHYD - VanEck ETF Trust VanEck Short High Yield Muni ETF
 SHYG - iShares 0-5 Year High Yield Corporate Bond ETF
 SHYL - Xtrackers Short Duration High Yield Bond ETF
 SHYM - iShares Short Duration High Yield Muni Active ETF
+SI - Shoulder Innovations, Inc. Common Stock
 SIBN - SI-BONE, Inc. - Common Stock
 SID - Companhia Siderurgica Nacional S.A. Common Stock
 SIDU - Sidus Space, Inc. - Class A Common Stock
@@ -9970,6 +9981,7 @@ TUYA - Tuya Inc. American Depositary Shares, each representing one Class A Ordin
 TV - Grupo Televisa S.A.B. Common Stock
 TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
+TVACW - Texas Ventures Acquisition III Corp - Warrants
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
 TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
@@ -10827,7 +10839,7 @@ XHYH - BondBloxx ETF Trust BondBloxx USD High Yield Bond Healthcare Sector ETF
 XHYI - BondBloxx ETF Trust BondBloxx USD High Yield Bond Industrial Sector ETF
 XHYT - BondBloxx ETF Trust BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF
 XIDE - FT Vest U.S. Equity Buffer & Premium Income  ETF - December
-XIDV - Franklin Templeton ETF Trust Franklin International Dividend Multiplier Index ETF
+XIDV - Franklin International Dividend Booster Index ETF
 XIFR - XPLR Infrastructure, LP Common Units representing limited partner interests
 XIJN - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Premium Income ETF - June
 XIMR - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Premium Income ETF - March
@@ -10941,7 +10953,7 @@ XTR - Global X Funds Global X S&P 500 Tail Risk ETF
 XTRE - BondBloxx ETF Trust BondBloxx Bloomberg Three Year Target Duration US Treasury ETF
 XTWO - BondBloxx ETF Trust BondBloxx Bloomberg Two Year Target Duration US Treasury ETF
 XTWY - BondBloxx ETF Trust BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF
-XUDV - Franklin Templeton ETF Trust Franklin U.S. Dividend Multiplier Index ETF
+XUDV - Franklin U.S. Dividend Booster Index ETF
 XUSP - Innovator ETFs Trust Innovator Uncapped Accelerated U.S. Equity ETF
 XV - Simplify Exchange Traded Funds Simplify Target 15 Distribution ETF
 XVOL - Acruence Active Hedge U.S. Equity ETF
