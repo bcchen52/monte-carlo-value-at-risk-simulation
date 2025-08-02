@@ -832,6 +832,8 @@ AWX - Avalon Holdings Corporation Common Stock
 AX - Axos Financial, Inc. Common Stock
 AXGN - Axogen, Inc. - Common Stock
 AXIL - AXIL Brands, Inc. Common Stock
+AXIN - Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares
+AXINR - Axiom Intelligence Acquisition Corp 1 - Right
 AXINU - Axiom Intelligence Acquisition Corp 1 - Units
 AXL - American Axle & Manufacturing Holdings, Inc. Common Stock
 AXON - Axon Enterprise, Inc. - Common Stock
@@ -2281,7 +2283,6 @@ CUBB - Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034
 CUBE - CubeSmart Common Shares
 CUBI - Customers Bancorp, Inc Common Stock
 CUBWU - Lionheart Holdings - Unit
-CUBWW - Lionheart Holdings - Warrant
 CUE - Cue Biopharma, Inc. - Common Stock
 CUK - Carnival Plc ADS ADS
 CULP - Culp, Inc. Common Stock
@@ -4343,7 +4344,6 @@ GSG - iShares GSCI Commodity-Indexed Trust Fund
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
-GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -4473,6 +4473,7 @@ HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
+HCMAU - HCM III Acquisition Corp. - Units
 HCMT - Direxion Shares ETF Trust Direxion HCM Tactical Enhanced US ETF
 HCOW - Amplify COWS Covered Call ETF
 HCRB - Hartford Core Bond ETF
@@ -6293,6 +6294,7 @@ MET - MetLife, Inc. Common Stock
 META - Meta Platforms, Inc. - Class A Common Stock
 METC - Ramaco Resources, Inc. - Class A Common Stock
 METCB - Ramaco Resources, Inc. - Class B Common Stock
+METCI - Ramaco Resources, Inc. - 8.250% Senior Notes due 2030
 METCL - Ramaco Resources, Inc. - 9.00% Senior Notes due 2026
 METCZ - Ramaco Resources, Inc. - 8.375% Senior Notes due 2029
 METD - Direxion Daily META Bear 1X Shares
@@ -6855,7 +6857,6 @@ NHC - National HealthCare Corporation Common Stock
 NHI - National Health Investors, Inc. Common Stock
 NHIC - NewHold Investment Corp III - Class A Ordinary shares
 NHICU - NewHold Investment Corp III - Units
-NHICW - NewHold Investment Corp III - Warrants
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger Berman High Yield Strategies Fund
@@ -7162,7 +7163,6 @@ OABI - OmniAb, Inc. - Common Stock
 OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
-OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - Unified Series Trust OneAscent Core Plus Bond ETF
 OAEM - Unified Series Trust OneAscent Emerging Markets ETF
 OAIM - Unified Series Trust OneAscent International Equity ETF
@@ -7753,6 +7753,7 @@ PLYM - Plymouth Industrial REIT, Inc. Common Stock
 PM - Philip Morris International Inc Common Stock
 PMAP - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - April
 PMAR - Innovator U.S. Equity Power Buffer ETF - March
+PMAU - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - August
 PMAX - Powell Max Limited - Class A Ordinary Shares
 PMAY - Innovator U.S. Equity Power Buffer ETF - May
 PMBS - PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund
@@ -8438,7 +8439,6 @@ RMBS - Rambus, Inc. - Common Stock
 RMCA - Tidal Trust III Rockefeller California Municipal Bond ETF
 RMCF - Rocky Mountain Chocolate Factory, Inc. - Common Stock
 RMCO - Royalty Management Holding Corporation - Class A Common Stock
-RMCOW - Royalty Management Holding Corporation - Warrant
 RMD - ResMed Inc. Common Stock
 RMI - RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock
 RMIF - ETF Series Solutions LHA Risk-Managed Income ETF
