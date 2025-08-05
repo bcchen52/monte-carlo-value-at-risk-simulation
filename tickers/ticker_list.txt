@@ -642,6 +642,7 @@ ASEA - Global X FTSE Southeast Asia ETF
 ASET - FlexShares Real Assets Allocation Index Fund
 ASG - Liberty All-Star Growth Fund, Inc.
 ASGI - abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest
+ASGM - Virtus ETF Trust II Virtus AlphaSimplex Global Macro ETF
 ASGN - ASGN Incorporated Common Stock
 ASH - Ashland Inc. Common Stock
 ASHR - Xtrackers Harvest CSI 300 China A-Shares ETF
@@ -862,6 +863,8 @@ BABA - Alibaba Group Holding Limited American Depositary Shares each representin
 BABO - Tidal Trust II YieldMax BABA Option Income Strategy ETF
 BABX - GraniteShares 2x Long BABA Daily ETF
 BAC - Bank of America Corporation Common Stock
+BACC - Blue Acquisition Corp. - Class A Ordinary Shares
+BACCR - Blue Acquisition Corp. - Right
 BACCU - Blue Acquisition Corp. - Unit
 BACQ - Bleichroeder Acquisition Corp. I - Class A Ordinary Shares
 BACQR - Bleichroeder Acquisition Corp. I - Right
@@ -1736,6 +1739,7 @@ CEF - Sprott Physical Gold and Silver Trust Units
 CEFA - Global X S&P Catholic Values Developed ex-U.S. ETF
 CEFD - ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN
 CEFS - Saba Closed-End Funds ETF
+CEFZ - Elevation Series Trust RiverNorth Active Income ETF
 CEG - Constellation Energy Corporation - Common Stock
 CEGX - Tradr 2X Long CEG Daily ETF
 CELC - Celcuity Inc. - Common Stock
@@ -2723,7 +2727,7 @@ DSYWW - Big Tree Cloud Holdings Limited - Warrants
 DT - Dynatrace, Inc. Common Stock
 DTAN - EA Series Trust Sparkline International Intangible Value ETF
 DTB - DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080
-DTCK - Davis Commodities Limited - Ordinary Shares
+DTCK - Davis Commodities Limited - Class A Ordinary Shares
 DTCR - Global X Data Center & Digital Infrastructure ETF
 DTD - WisdomTree U.S. Total Dividend Fund
 DTE - DTE Energy Company Common Stock
@@ -7079,7 +7083,6 @@ NVDW - Roundhill ETF Trust Roundhill NVDA WeeklyPay ETF
 NVDX - ETF Opportunities Trust T-Rex 2X Long NVIDIA Daily Target ETF
 NVDY - Tidal ETF Trust II YieldMax NVDA Option Income Strategy ETF
 NVEC - NVE Corporation - Common Stock
-NVEE - NV5 Global, Inc. - Common Stock
 NVFY - Nova Lifestyle, Inc - Common Stock
 NVG - Nuveen AMT-Free Municipal Credit Income Fund 
 NVGS - Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)
@@ -7525,6 +7528,7 @@ PCG - Pacific Gas & Electric Co. Common Stock
 PCGG - Litman Gregory Funds Trust Polen Capital Global Growth ETF
 PCH - PotlatchDeltic Corporation - Common Stock
 PCHI - FundVantage Trust Polen High Income ETF
+PCI - PGIM ETF Trust PGIM Corporate Bond 5-10 Year ETF
 PCIG - Litman Gregory Funds Trust Polen Capital International Growth ETF
 PCL - PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF
 PCLA - PicoCELA Inc. - American Depositary Shares
@@ -8432,6 +8436,7 @@ RMBS - Rambus, Inc. - Common Stock
 RMCA - Tidal Trust III Rockefeller California Municipal Bond ETF
 RMCF - Rocky Mountain Chocolate Factory, Inc. - Common Stock
 RMCO - Royalty Management Holding Corporation - Class A Common Stock
+RMCOW - Royalty Management Holding Corporation - Warrant
 RMD - ResMed Inc. Common Stock
 RMI - RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock
 RMIF - ETF Series Solutions LHA Risk-Managed Income ETF
@@ -8554,6 +8559,7 @@ RTO - Rentokil Initial plc American Depositary Shares (each representing five (5
 RTRE - Collaborative Investment Series Trust Rareview Total Return Bond ETF
 RTX - RTX Corporation Common Stock
 RTXG - Leverage Shares 2X Long RTX Daily ETF
+RUBI - Rubico Inc. - Common Stock
 RULE - Adaptive Core ETF
 RUM - Rumble Inc. - Class A Common Stock
 RUMBW - Rumble Inc. - Warrant
@@ -9578,6 +9584,7 @@ TBUX - T. Rowe Price Ultra Short-Term Bond ETF
 TBX - ProShares Short 7 10 Year Treasury
 TC - Token Cat Limited - American Depositary Shares
 TCAF - T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Capital Appreciation Equity ETF
+TCAI - Tortoise Capital Series Trust Tortoise AI Infrastructure ETF
 TCAL - T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Capital Appreciation Premium Income ETF
 TCBI - Texas Capital Bancshares, Inc. - Common Stock
 TCBIO - Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B
