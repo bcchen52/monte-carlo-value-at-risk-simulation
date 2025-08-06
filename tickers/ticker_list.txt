@@ -1263,6 +1263,8 @@ BMY - Bristol-Myers Squibb Company Common Stock
 BN - Brookfield Corporation Class A Limited Voting Shares
 BNAI - Brand Engagement Network Inc. - Common Stock
 BNAIW - Brand Engagement Network Inc. - Warrant
+BNC - CEA Industries Inc. - Common Stock
+BNCWW - CEA Industries Inc. - Warrant
 BND - Vanguard Total Bond Market ETF
 BNDC - FlexShares Core Select Bond Fund
 BNDD - Quadratic Deflation ETF
@@ -2380,6 +2382,7 @@ DAAQU - Digital Asset Acquisition Corp. - Units
 DAAQW - Digital Asset Acquisition Corp. - Warrant
 DABS - DoubleLine ETF Trust DoubleLine Asset-Backed Securities ETF
 DAC - Danaos Corporation Common Stock
+DADS - Digital Asset Debt Strategy ETF
 DAIC - CID HoldCo, Inc. - Common Stock
 DAICW - CID HoldCo, Inc. - Warrants
 DAIO - Data I/O Corporation - Common Stock
@@ -3405,6 +3408,7 @@ FBTC - Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest
 FBUF - Fidelity Dynamic Buffered Equity ETF
 FBY - Tidal ETF Trust II YieldMax META Option Income Strategy ETF
 FBYD - Falcon's Beyond Global, Inc. - Class A Common Stock
+FBYDW - Falcon's Beyond Global, Inc. - Warrants
 FC - Franklin Covey Company Common Stock
 FCA - First Trust China AlphaDEX Fund
 FCAL - First Trust California Municipal High income ETF
@@ -5402,6 +5406,7 @@ JDIV - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Dividend Leaders ETF
 JDOC - JPMorgan Healthcare Leaders ETF
 JDST - Direxion Daily Junior Gold Miners Index Bear 2X Shares
 JDVI - John Hancock Exchange-Traded Fund Trust John Hancock Disciplined Value International Select ETF
+JDVL - John Hancock Exchange-Traded Fund Trust John Hancock Disciplined Value Select ETF
 JDZG - JIADE LIMITED - Class A Ordinary Shares
 JEF - Jefferies Financial Group Inc. Common Stock
 JELD - JELD-WEN Holding, Inc. Common Stock
@@ -6860,6 +6865,7 @@ NHC - National HealthCare Corporation Common Stock
 NHI - National Health Investors, Inc. Common Stock
 NHIC - NewHold Investment Corp III - Class A Ordinary shares
 NHICU - NewHold Investment Corp III - Units
+NHICW - NewHold Investment Corp III - Warrants
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger Berman High Yield Strategies Fund
@@ -7134,7 +7140,6 @@ NXN - Nuveen New York Select Tax-Free Income Portfolio Common Stock
 NXP - Nuveen Select Tax Free Income Portfolio Common Stock
 NXPI - NXP Semiconductors N.V. - Common Stock
 NXPL - NextPlat Corp - Common Stock
-NXPLW - NextPlat Corp - Warrants
 NXRT - NexPoint Residential Trust, Inc. Common Stock
 NXST - Nexstar Media Group, Inc. - Common Stock
 NXT - Nextracker Inc. - Class A Common Stock
@@ -7165,6 +7170,7 @@ OABI - OmniAb, Inc. - Common Stock
 OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
+OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - Unified Series Trust OneAscent Core Plus Bond ETF
 OAEM - Unified Series Trust OneAscent Emerging Markets ETF
 OAIM - Unified Series Trust OneAscent International Equity ETF
@@ -10283,8 +10289,6 @@ VALQ - American Century U.S. Quality Value ETF
 VALU - Value Line, Inc. - Common Stock
 VAMO - Cambria ETF Trust Cambria Value and Momentum ETF
 VANI - Vivani Medical, Inc.  - Common Stock
-VAPE - CEA Industries Inc. - Common Stock
-VAPEW - CEA Industries Inc. - Warrant
 VATE - INNOVATE Corp. Common Stock
 VAW - Vanguard Materials ETF
 VB - Vanguard Small-Cap ETF
@@ -10376,7 +10380,6 @@ VICR - Vicor Corporation - Common Stock
 VIDI - Vident International Equity Strategy ETF
 VIG - Vanguard Div Appreciation ETF
 VIGI - Vanguard International Dividend Appreciation ETF
-VIGL - Vigil Neuroscience, Inc. - Common Stock
 VIK - Viking Holdings Ltd Ordinary Shares
 VINP - Vinci Compass Investments Ltd. - Class A Common Shares
 VIOG - Vanguard S&P Small-Cap 600 Growth ETF
