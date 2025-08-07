@@ -332,6 +332,7 @@ ALC - Alcon Inc. Ordinary Shares
 ALCO - Alico, Inc. - Common Stock
 ALCY - Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares
 ALCYU - Alchemy Investments Acquisition Corp 1 - Units
+ALCYW - Alchemy Investments Acquisition Corp 1 - Warrants
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
 ALDFW - Aldel Financial II Inc. - Warrants
@@ -633,7 +634,6 @@ AS - Amer Sports, Inc. Ordinary Shares
 ASA - ASA  Gold and Precious Metals Limited
 ASAN - Asana, Inc. Class A Common Stock
 ASB - Associated Banc-Corp Common Stock
-ASBA - Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033
 ASBP - Aspire Biopharma Holdings, Inc.  - Common Stock
 ASBPW - Aspire Biopharma Holdings, Inc.  - Warrant
 ASC - Ardmore Shipping Corporation Common Stock
@@ -1779,6 +1779,7 @@ CFFN - Capitol Federal Financial, Inc. - Common Stock
 CFG - Citizens Financial Group, Inc. Common Stock
 CFIT - Cambria ETF Trust Cambria Fixed Income Trend ETF
 CFLT - Confluent, Inc. - Class A Common Stock
+CFND - C1 Fund Inc. Common Stock
 CFO - VictoryShares US 500 Enhanced Volatility Wtd ETF
 CFR - Cullen/Frost Bankers, Inc. Common Stock
 CFSB - CFSB Bancorp, Inc. - Common Stock
@@ -2169,6 +2170,7 @@ CRBN - iShares MSCI ACWI Low Carbon Target ETF
 CRBP - Corbus Pharmaceuticals Holdings, Inc. - Common Stock
 CRBU - Caribou Biosciences, Inc. - Common Stock
 CRC - California Resources Corporation Common Stock
+CRCA - ProShares Trust ProShares Ultra CRCL
 CRCL - Circle Internet Group, Inc. Class A Common Stock
 CRCT - Cricut, Inc. - Class A common stock
 CRDF - Cardiff Oncology, Inc. - Common Stock
@@ -2282,6 +2284,7 @@ CTS - CTS Corporation Common Stock
 CTSH - Cognizant Technology Solutions Corporation - Class A Common Stock
 CTSO - Cytosorbents Corporation - Common Stock
 CTVA - Corteva, Inc. Common Stock 
+CTW - CTW Cayman - Class A Ordinary Shares
 CTWO - COtwo Advisors Physical European Carbon Allowance Trust Common units
 CTXR - Citius Pharmaceuticals, Inc. - Common Stock
 CUB - Lionheart Holdings - Class A Ordinary Shares
@@ -2289,6 +2292,7 @@ CUBB - Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034
 CUBE - CubeSmart Common Shares
 CUBI - Customers Bancorp, Inc Common Stock
 CUBWU - Lionheart Holdings - Unit
+CUBWW - Lionheart Holdings - Warrant
 CUE - Cue Biopharma, Inc. - Common Stock
 CUK - Carnival Plc ADS ADS
 CULP - Culp, Inc. Common Stock
@@ -4926,6 +4930,7 @@ IDVZ - Elevation Series Trust The Opal International Dividend Income ETF
 IDX - VanEck Indonesia Index ETF
 IDXX - IDEXX Laboratories, Inc. - Common Stock
 IDYA - IDEAYA Biosciences, Inc. - Common Stock
+IDYN - BlackRock ETF Trust iShares International Equity Factor Rotation Active ETF
 IE - Ivanhoe Electric Inc. Common Stock
 IEDI - iShares U.S. Consumer Focused ETF
 IEF - iShares 7-10 Year Treasury Bond ETF
@@ -5983,6 +5988,8 @@ LMFA - LM Funding America, Inc. - Common Stock
 LMND - Lemonade, Inc. Common Stock
 LMNR - Limoneira Co - Common Stock
 LMT - Lockheed Martin Corporation Common Stock
+LMTL - Direxion Daily LMT Bull 2X ETF
+LMTS - Direxion Daily LMT Bear 1X ETF
 LMUB - iShares Trust iShares Long-Term National Muni Bond ETF
 LNC - Lincoln National Corporation Common Stock
 LND - Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
@@ -6098,7 +6105,6 @@ LUMN - Lumen Technologies, Inc. Common Stock
 LUNG - Pulmonx Corporation - Common Stock
 LUNR - Intuitive Machines, Inc. - Class A Common Stock
 LUV - Southwest Airlines Company Common Stock
-LUX - Tema ETF Trust Tema Luxury ETF
 LUXE - LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share
 LVDS - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Fundamental Data Science Large Value ETF
 LVHD - Franklin U.S. Low Volatility High Dividend Index ETF
@@ -6474,7 +6480,6 @@ MNSBP - MainStreet Bancshares, Inc. - Depositary Shares
 MNSO - MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares
 MNST - Monster Beverage Corporation - Common Stock
 MNTK - Montauk Renewables, Inc. - Common Stock
-MNTL - Tema Neuroscience and Mental Health ETF
 MNTN - MNTN, Inc. Class A Common Stock
 MNTS - Momentus Inc. - Class A Common Stock
 MNTSW - Momentus Inc. - Warrant
@@ -6587,7 +6592,6 @@ MSOS - AdvisorShares Trust AdvisorShares Pure US Cannabis ETF
 MSOX - AdvisorShares MSOS Daily Leveraged ETF
 MSPR - MSP Recovery, Inc. - Class A Common Stock
 MSPRW - MSP Recovery, Inc. - Warrant
-MSPRZ - MSP Recovery, Inc. - Warrant
 MSS - Maison Solutions Inc. - Class A Common Stock
 MSSM - Morgan Stanley Pathway Funds Morgan Stanley Pathway Small-Mid Cap Equity ETF
 MSSS - Northern Lights Fund Trust IV Monarch Select Subsector Index ETF
@@ -7140,6 +7144,7 @@ NXN - Nuveen New York Select Tax-Free Income Portfolio Common Stock
 NXP - Nuveen Select Tax Free Income Portfolio Common Stock
 NXPI - NXP Semiconductors N.V. - Common Stock
 NXPL - NextPlat Corp - Common Stock
+NXPLW - NextPlat Corp - Warrants
 NXRT - NexPoint Residential Trust, Inc. Common Stock
 NXST - Nexstar Media Group, Inc. - Common Stock
 NXT - Nextracker Inc. - Class A Common Stock
@@ -8181,6 +8186,7 @@ QUBT - Quantum Computing Inc. - Common Stock
 QUBX - Tradr 2X Long QBTS Daily ETF Tradr 2X Long QUBT Daily ETF
 QUIK - QuickLogic Corporation - Common Stock
 QULL - ETRACS 2x Leveraged MSCI US Quality Factor TR ETN
+QUMSU - Quantumsphere Acquisition Corp. - Units
 QUP - Strategic Trust DailyDelta  Q100 Upside Option Strategy ETF
 QURE - uniQure N.V. - Ordinary Shares
 QUS - SPDR MSCI USA StrategicFactors ETF
@@ -8913,8 +8919,10 @@ SHOO - Steven Madden, Ltd. - Common Stock
 SHOP - Shopify Inc. - Class A Subordinate Voting Shares
 SHOT - Safety Shot, Inc. - Common Stock
 SHOTW - Safety Shot, Inc. - Warrant
+SHPD - Direxion Daily SHOP Bear 1X ETF
 SHPH - Shuttle Pharmaceuticals Holdings, Inc. - common stock
 SHPP - Pacer Funds Pacer Industrials and Logistics ETF
+SHPU - Direxion Daily SHOP Bull 2X ETF
 SHRT - Gotham Short Strategies ETF
 SHRY - First Trust Bloomberg Shareholder Yield ETF
 SHUS - Exchange Listed Funds Trust Stratified LargeCap Hedged ETF
@@ -9462,7 +9470,6 @@ SVAL - iShares US Small Cap Value Factor ETF
 SVC - Service Properties Trust - Shares of Beneficial Interest
 SVCC - Stellar V Capital Corp. - Class A Ordinary Shares
 SVCCU - Stellar V Capital Corp. - Unit
-SVCCW - Stellar V Capital Corp. - Warrant
 SVCO - Silvaco Group, Inc. - Common Stock
 SVII - Spring Valley Acquisition Corp. II - Class A Ordinary Shares
 SVIIR - Spring Valley Acquisition Corp. II - Rights
@@ -9801,6 +9808,9 @@ TMP - Tompkins Financial Corporation Common Stock
 TMQ - Trilogy Metals Inc. Common Stock
 TMSL - T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Small-Mid Cap ETF
 TMUS - T-Mobile US, Inc. - Common Stock
+TMUSI - T-Mobile US, Inc. - 5.500% Senior Notes due June 2070
+TMUSL - T-Mobile US, Inc. - 6.250% Senior Notes due 2069
+TMUSZ - T-Mobile US, Inc. - 5.500% Senior Notes due March 2070
 TMV - Direxion Daily 20-Year Treasury Bear 3X
 TNA - Direxion Small Cap Bull 3X Shares
 TNC - Tennant Company Common Stock
@@ -10281,7 +10291,6 @@ VABS - Virtus Newfleet ABS/MBS ETF
 VAC - Marriott Vacations Worldwide Corporation Common Stock
 VACH - Voyager Acquisition Corp - Class A Ordinary Shares
 VACHU - Voyager Acquisition Corp - Unit
-VACHW - Voyager Acquisition Corp - Warrants
 VAL - Valaris Limited Common Shares
 VALE - VALE S.A.  American Depositary Shares Each Representing one common share
 VALN - Valneva SE - American Depositary Shares
