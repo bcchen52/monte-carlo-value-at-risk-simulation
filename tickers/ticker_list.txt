@@ -55,6 +55,7 @@ ABLLL - Abacus Global Management, Inc. - 9.875% Fixed Rate Senior Notes due 2028
 ABLLW - Abacus Global Management, Inc. - Warrant
 ABLS - Abacus FCF ETF Trust Abacus FCF Small Cap Leaders ETF
 ABLV - Able View Global Inc. - Class B Ordinary Shares
+ABLVW - Able View Global Inc. - Warrant
 ABM - ABM Industries Incorporated Common Stock
 ABNB - Airbnb, Inc. - Class A Common Stock
 ABNY - Tidal Trust II YieldMax ABNB Option Income Strategy ETF
@@ -766,6 +767,7 @@ AVAL - Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred sh
 AVAV - AeroVironment, Inc. - Common Stock
 AVB - AvalonBay Communities, Inc. Common Stock
 AVBC - Avidia Bancorp, Inc. Common Stock
+AVBH - Avidbank Holdings, Inc. - Common Stock
 AVBP - ArriVent BioPharma, Inc. - Common Stock
 AVD - American Vanguard Corporation Common Stock ($0.10 Par Value)
 AVDE - Avantis International Equity ETF
@@ -1150,6 +1152,7 @@ BITX - Volatility Shares Trust 2x Bitcoin Strategy ETF
 BITY - Amplify Bitcoin 2% Monthly Option Income ETF
 BIV - Vanguard Intermediate-Term Bond ETF
 BIVI - BioVie Inc. - Common stock
+BIVIW - BioVie Inc. - Warrant
 BIYA - Baiya International Group Inc.  - Ordinary Shares
 BIZD - VanEck BDC Income ETF 
 BJ - BJ's Wholesale Club Holdings, Inc. Common Stock
@@ -2162,7 +2165,6 @@ CR - Crane Company Common Stock
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
-CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -2531,13 +2533,9 @@ DFSB - Dimensional ETF Trust Dimensional Global Sustainability Fixed Income ETF
 DFSC - DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering
 DFSCW - DEFSEC Technologies Inc. - warrant
 DFSD - Dimensional ETF Trust Dimensional Short-Duration Fixed Income ETF
-DFSE - Dimensional ETF Trust Dimensional Emerging Markets Sustainability Core 1 ETF
 DFSI - Dimensional ETF Trust Dimensional International Sustainability Core 1 ETF
 DFSU - Dimensional ETF Trust Dimensional US Sustainability Core 1 ETF
 DFSV - Dimensional ETF Trust Dimensional US Small Cap Value ETF
-DFUS - Dimensional U.S. Equity Market ETF
-DFUV - Dimensional ETF Trust Dimensional US Marketwide Value ETF
-DFVE - DoubleLine ETF Trust DoubleLine Fortune 500 Equal Weight ETF
 DFVX - Dimensional ETF Trust Dimensional US Large Cap Vector ETF
 DG - Dollar General Corporation Common Stock
 DGCB - Dimensional Global Credit ETF
@@ -2614,6 +2612,7 @@ DJTWW - Trump Media & Technology Group Corp. - Warrants
 DJUL - FT Vest U.S. Equity Deep Buffer ETF - July
 DJUN - FT Vest U.S. Equity Deep Buffer ETF - June
 DK - Delek US Holdings, Inc. Common Stock
+DKI - DarkIris Inc. - Class A Ordinary Shares
 DKL - Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests
 DKNG - DraftKings Inc. - Class A Common Stock
 DKNX - Defiance Daily Target 2X Long DKNG ETF
@@ -2825,7 +2824,6 @@ DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
 DYCQ - DT Cloud Acquisition Corporation - Ordinary shares
-DYCQR - DT Cloud Acquisition Corporation - Right
 DYCQU - DT Cloud Acquisition Corporation - Unit
 DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
@@ -2957,6 +2955,7 @@ EFSC - Enterprise Financial Services Corporation - Common Stock
 EFSCP - Enterprise Financial Services Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of 5% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
 EFSI - Eagle Financial Services Inc - Common Stock
 EFT - Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest
+EFTY - Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares
 EFU - ProShares UltraShort MSCI EAFE
 EFV - iShares MSCI EAFE Value ETF
 EFX - Equifax, Inc. Common Stock
@@ -4209,6 +4208,7 @@ GLUE - Monte Rosa Therapeutics, Inc. - Common Stock
 GLV - Clough Global Dividend and Income Fund Common Shares of beneficial interest
 GLW - Corning Incorporated Common Stock
 GLXG - Galaxy Payroll Group Limited - Class A Ordinary Shares
+GLXU - ETF Opportunities Trust T-REX 2X Long GLXY Daily Target ETF
 GLXY - Galaxy Digital Inc. - Class A common stock
 GM - General Motors Company Common Stock
 GMAB - Genmab A/S - American Depositary Shares
@@ -4700,6 +4700,7 @@ HTD - John Hancock Tax Advantaged Dividend Income Fund Common Shares of Benefici
 HTEC - Robo Global Healthcare Technology and Innovation ETF
 HTFB - Horizon Technology Finance Corporation 4.875% Notes due 2026
 HTFC - Horizon Technology Finance Corporation 6.25% Notes due 2027
+HTFL - Heartflow, Inc. - Common Stock
 HTGC - Hercules Capital, Inc. Common Stock
 HTH - Hilltop Holdings Inc.
 HTHT - H World Group Limited - American Depositary Shares
@@ -7729,6 +7730,7 @@ PLAB - Photronics, Inc. - Common Stock
 PLAG - Planet Green Holdings Corp. Common Stock
 PLAY - Dave & Buster's Entertainment, Inc. - Common Stock
 PLBC - Plumas Bancorp - Common Stock
+PLBL - Polibeli Group Ltd - Class A Ordinary Shares
 PLBY - Playboy, Inc. - Common Stock
 PLCE - Children's Place, Inc. (The) - Common Stock
 PLD - Prologis, Inc. Common Stock
@@ -8695,6 +8697,7 @@ SBET - SharpLink Gaming, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
+SBFMW - Sunshine Biopharma Inc. - Warrant
 SBGI - Sinclair, Inc. - Class A Common Stock
 SBH - Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI - Western Asset Intermediate Muni Fund Inc Common Stock
@@ -9350,6 +9353,7 @@ SRZNW - Surrozen, Inc. - Warrant
 SSB - SouthState Corporation Common Stock
 SSBI - Summit State Bank - Common Stock
 SSD - Simpson Manufacturing Company, Inc. Common Stock
+SSEAU - Starry Sea Acquisition Corp - Unit
 SSFI - Day Hagan Smart Sector Fixed Income ETF
 SSG - ProShares UltraShort Semiconductors
 SSII - SS Innovations International Inc. - Common Stock
@@ -9469,6 +9473,7 @@ SVAL - iShares US Small Cap Value Factor ETF
 SVC - Service Properties Trust - Shares of Beneficial Interest
 SVCC - Stellar V Capital Corp. - Class A Ordinary Shares
 SVCCU - Stellar V Capital Corp. - Unit
+SVCCW - Stellar V Capital Corp. - Warrant
 SVCO - Silvaco Group, Inc. - Common Stock
 SVII - Spring Valley Acquisition Corp. II - Class A Ordinary Shares
 SVIIR - Spring Valley Acquisition Corp. II - Rights
@@ -10290,6 +10295,7 @@ VABS - Virtus Newfleet ABS/MBS ETF
 VAC - Marriott Vacations Worldwide Corporation Common Stock
 VACH - Voyager Acquisition Corp - Class A Ordinary Shares
 VACHU - Voyager Acquisition Corp - Unit
+VACHW - Voyager Acquisition Corp - Warrants
 VAL - Valaris Limited Common Shares
 VALE - VALE S.A.  American Depositary Shares Each Representing one common share
 VALN - Valneva SE - American Depositary Shares
@@ -10403,6 +10409,7 @@ VITL - Vital Farms, Inc. - Common Stock
 VIV - Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)
 VIVK - Vivakor, Inc. - Common Stock
 VIVS - VivoSim Labs, Inc. - Common Stock
+VIXI - Defiance Enhanced Long Vol ETF 
 VIXM - ProShares Trust VIX Mid-Term Futures ETF
 VIXY - ProShares Trust VIX Short-Term Futures ETF
 VKI - Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)
