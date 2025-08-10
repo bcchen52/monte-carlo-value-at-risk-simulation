@@ -2533,9 +2533,13 @@ DFSB - Dimensional ETF Trust Dimensional Global Sustainability Fixed Income ETF
 DFSC - DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering
 DFSCW - DEFSEC Technologies Inc. - warrant
 DFSD - Dimensional ETF Trust Dimensional Short-Duration Fixed Income ETF
+DFSE - Dimensional ETF Trust Dimensional Emerging Markets Sustainability Core 1 ETF
 DFSI - Dimensional ETF Trust Dimensional International Sustainability Core 1 ETF
 DFSU - Dimensional ETF Trust Dimensional US Sustainability Core 1 ETF
 DFSV - Dimensional ETF Trust Dimensional US Small Cap Value ETF
+DFUS - Dimensional U.S. Equity Market ETF
+DFUV - Dimensional ETF Trust Dimensional US Marketwide Value ETF
+DFVE - DoubleLine ETF Trust DoubleLine Fortune 500 Equal Weight ETF
 DFVX - Dimensional ETF Trust Dimensional US Large Cap Vector ETF
 DG - Dollar General Corporation Common Stock
 DGCB - Dimensional Global Credit ETF
@@ -7645,6 +7649,7 @@ PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
 PGACR - Pantages Capital Acquisition Corporation - Right
+PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
 PGF - Invesco Financial Preferred ETF
