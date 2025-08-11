@@ -539,7 +539,7 @@ APRJ - Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - April
 APRP - PGIM S&P 500 Buffer 12 ETF - April
 APRT - AllianzIM U.S. Large Cap Buffer10 Apr ETF
 APRW - AllianzIM U.S. Large Cap Buffer20 Apr ETF
-APRZ - Trust TrueShares Structured Outcome (April) ETF
+APRZ - TrueShares Structured Outcome (April) ETF
 APT - Alpha Pro Tech, Ltd. Common Stock
 APTV - Aptiv PLC Ordinary Shares
 APUE - Trust for Professional Managers ActivePassive U.S. Equity ETF
@@ -2406,8 +2406,6 @@ DARE - Dare Bioscience, Inc. - Common Stock
 DARP - Grizzle Growth ETF
 DASH - DoorDash, Inc. - Common Stock
 DAT - ProShares Big Data Refiners ETF
-DATS - DatChat, Inc. - Common Stock
-DATSW - DatChat, Inc. - Series A Warrant
 DAUG - FT Vest U.S. Equity Deep Buffer ETF - August
 DAVA - Endava plc American Depositary Shares (each representing one Class A Ordinary Share)
 DAVE - Dave Inc.  - Class A Common Stock
@@ -3561,8 +3559,6 @@ FGBIP - First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulati
 FGD - First Trust DJ Global Select Dividend
 FGDL - Franklin Templeton Holdings Trust Franklin Responsibly Sourced Gold ETF
 FGEN - FibroGen, Inc - Common Stock
-FGF - Fundamental Global Inc. - Common Stock
-FGFPP - Fundamental Global Inc. - 8.00% Cumulative Series A Preferred Stock
 FGI - FGI Industries Ltd. - Ordinary Shares
 FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
@@ -3571,6 +3567,8 @@ FGMC - FG Merger II Corp. - Common stock
 FGMCR - FG Merger II Corp. - Rights
 FGMCU - FG Merger II Corp. - Unit
 FGN - F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053
+FGNX - Fundamental Global Inc. - Common Stock
+FGNXP - Fundamental Global Inc. - 8.00% Cumulative Series A Preferred Stock
 FGSI - FT Vest Growth Strength & Target Income ETF
 FGSM - The Advisors' Inner Circle Fund II Frontier Asset Global Small Cap Equity ETF
 FGSN - F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065
@@ -6206,7 +6204,7 @@ MAYS - J. W. Mays, Inc. - Common Stock
 MAYT - AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 May ETF
 MAYU - SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped May ETF
 MAYW - AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 May ETF
-MAYZ - Listed Funds Trust TrueShares Structured Outcome (May) ETF
+MAYZ - TrueShares Structured Outcome (May) ETF
 MAZE - Maze Therapeutics, Inc. - Common Stock
 MB - MasterBeef Group - Ordinary Shares
 MBAV - M3-Brigade Acquisition V Corp. - Class A Ordinary shares
@@ -6715,6 +6713,8 @@ MYO - Myomo Inc. Common Stock
 MYPS - PLAYSTUDIOS, Inc.  - Class A Common Stock
 MYPSW - PLAYSTUDIOS, Inc.  - Warrant
 MYRG - MYR Group, Inc. - Common Stock
+MYSE - Myseum, Inc. - Common Stock
+MYSEW - Myseum, Inc. - Series A Warrant
 MYSZ - My Size, Inc. - Common Stock
 MYY - ProShares Short MidCap400
 MZTI - The Marzetti Company - Common Stock
@@ -6816,6 +6816,7 @@ NEGG - Newegg Commerce, Inc. - Common Shares
 NEHC - New Era Helium Inc - Common Stock
 NEHCW - New Era Helium Inc - Warrants
 NEM - Newmont Corporation
+NEMD - Neuberger Berman ETF Trust Neuberger Berman Emerging Markets Debt Hard Currency ETF
 NEN - New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership
 NEO - NeoGenomics, Inc. - Common Stock
 NEOG - Neogen Corporation - Common Stock
@@ -8848,7 +8849,7 @@ SEPP - PGIM S&P 500 Buffer 12 ETF - September
 SEPT - AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Sep ETF
 SEPU - AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Sep ETF
 SEPW - AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Sep ETF
-SEPZ - Listed Funds Trust TrueShares Structured Outcome (September) ETF
+SEPZ - TrueShares Structured Outcome (September) ETF
 SER - Serina Therapeutics, Inc. Common Stock
 SERA - Sera Prognostics, Inc. - Class A Common Stock
 SERV - Serve Robotics Inc. - Common Stock
@@ -9378,7 +9379,6 @@ SSTI - SoundThinking, Inc. - Common Stock
 SSTK - Shutterstock, Inc. Common Stock
 SSUS - Day Hagan Smart Sector ETF
 SSXU - Day Hagan Smart Sector International ETF
-SSY - SunLink Health Systems, Inc. Common Stock
 SSYS - Stratasys, Ltd. - Common Stock
 ST - Sensata Technologies Holding plc Ordinary Shares
 STAA - STAAR Surgical Company - Common Stock
@@ -10414,7 +10414,7 @@ VITL - Vital Farms, Inc. - Common Stock
 VIV - Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)
 VIVK - Vivakor, Inc. - Common Stock
 VIVS - VivoSim Labs, Inc. - Common Stock
-VIXI - Defiance Enhanced Long Vol ETF 
+VIXI - Defiance Enhanced Long Vol ETF
 VIXM - ProShares Trust VIX Mid-Term Futures ETF
 VIXY - ProShares Trust VIX Short-Term Futures ETF
 VKI - Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)
