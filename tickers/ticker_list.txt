@@ -946,6 +946,7 @@ BBLU - EA Series Trust EA Bridgeway Blue Chip ETF
 BBMC - JPMorgan BetaBuilders U.S. Mid Cap Equity ETF
 BBN - BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest
 BBNX - Beta Bionics, Inc. - Common Stock
+BBOT - BridgeBio Oncology Therapeutics, Inc. - Common Stock
 BBP - Virtus LifeSci Biotech Products ETF
 BBRE - JPMorgan BetaBuilders MSCI U.S. REIT ETF 
 BBSB - J.P. Morgan Exchange-Traded Fund Trust JPMorgan BetaBuilders U.S. Treasury Bond 1-3 Year ETF
@@ -1497,6 +1498,7 @@ BUG - Global X Cybersecurity ETF
 BUI - BlackRock Utility, Infrastructure & Power Opportunities Trust
 BUL - Pacer US Cash Cows Growth ETF
 BULD - Pacer BlueStar Engineering the Future ETF
+BULG - Leverage Shares 2X Long BULL Daily ETF
 BULL - Webull Corporation - Class A Ordinary Shares
 BULLW - Webull Corporation - Warrants
 BULU - ETF Opportunities Trust T-REX 2X Long BULL Daily Target ETF
@@ -1714,6 +1716,7 @@ CCSI - Consensus Cloud Solutions, Inc. - Common Stock
 CCSO - Carbon Collective Climate Solutions U.S. Equity ETF
 CCTG - CCSC Technology International Holdings Limited - Class A Ordinary Shares
 CCU - Compania Cervecerias Unidas, S.A. Common Stock
+CCUP - ETF Opportunities Trust T-REX 2X Long CRCL Daily Target ETF
 CCZ - Comcast Holdings ZONES
 CDC - VictoryShares US EQ Income Enhanced Volatility Wtd ETF
 CDE - Coeur Mining, Inc. Common Stock
@@ -1729,9 +1732,9 @@ CDP - COPT Defense Properties Common Shares of Beneficial Interest
 CDRE - Cadre Holdings, Inc. Common Stock
 CDRO - Codere Online Luxembourg, S.A. - Ordinary Shares
 CDROW - Codere Online Luxembourg, S.A. - Warrants
-CDT - Conduit Pharmaceuticals Inc.  - Common Stock
+CDT - CDT Equity Inc. - Common Stock
 CDTG - CDT Environmental Technology Investment Holdings Limited - ordinary shares
-CDTTW - Conduit Pharmaceuticals Inc.  - Warrant
+CDTTW - CDT Equity Inc. - Warrant
 CDTX - Cidara Therapeutics, Inc. - Common Stock
 CDW - CDW Corporation - Common Stock
 CDX - Simplify High Yield ETF
@@ -2165,6 +2168,7 @@ CR - Crane Company Common Stock
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
+CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -2173,6 +2177,7 @@ CRBP - Corbus Pharmaceuticals Holdings, Inc. - Common Stock
 CRBU - Caribou Biosciences, Inc. - Common Stock
 CRC - California Resources Corporation Common Stock
 CRCA - ProShares Trust ProShares Ultra CRCL
+CRCG - Leverage Shares 2X Long CRCL Daily ETF
 CRCL - Circle Internet Group, Inc. Class A Common Stock
 CRCT - Cricut, Inc. - Class A common stock
 CRDF - Cardiff Oncology, Inc. - Common Stock
@@ -2221,6 +2226,7 @@ CRVL - CorVel Corp. - Common Stock
 CRVO - CervoMed Inc. - Common Stock
 CRVS - Corvus Pharmaceuticals, Inc. - Common Stock
 CRWD - CrowdStrike Holdings, Inc. - Class A Common Stock
+CRWG - Leverage Shares 2X Long CRWV Daily ETF
 CRWL - GraniteShares 2x Long CRWD Daily ETF
 CRWS - Crown Crafts, Inc. - Common Stock
 CRWU - ETF Opportunities Trust T-REX 2X Long CRWV Daily Target ETF
@@ -4360,6 +4366,7 @@ GSG - iShares GSCI Commodity-Indexed Trust Fund
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
+GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -4597,7 +4604,6 @@ HLP - Hongli Group Inc. - Ordinary Shares
 HLT - Hilton Worldwide Holdings Inc. Common Stock 
 HLVX - HilleVax, Inc. - Common Stock
 HLX - Helix Energy Solutions Group, Inc. Common Stock
-HLXB - Helix Acquisition Corp. II - Class A Ordinary Shares
 HMC - Honda Motor Company, Ltd. Common Stock
 HMN - Horace Mann Educators Corporation Common Stock
 HMOP - Hartford Municipal Opportunities ETF
@@ -5752,6 +5758,7 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
+KTTAW - Pasithea Therapeutics Corp. - Warrant
 KUKE - Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares)
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -6602,7 +6609,7 @@ MSTB - LHA Market State Tactical Beta ETF
 MSTI - Madison ETFs Trust Madison Short Term Strategic Income ETF
 MSTP - GraniteShares 2x Long MSTR Daily ETF
 MSTQ - ETF Series Solutions LHA Market State Tactical Q ETF
-MSTR - MicroStrategy Incorporated - Class A Common Stock
+MSTR - Strategy Inc - Class A Common Stock
 MSTU - ETF Opportunities Trust T-Rex 2X Long MSTR Daily Target ETF
 MSTW - Roundhill ETF Trust Roundhill MSTR WeeklyPay ETF
 MSTX - Defiance Daily Target 2x Long MSTR ETF
@@ -9379,6 +9386,7 @@ SSTI - SoundThinking, Inc. - Common Stock
 SSTK - Shutterstock, Inc. Common Stock
 SSUS - Day Hagan Smart Sector ETF
 SSXU - Day Hagan Smart Sector International ETF
+SSY - SunLink Health Systems, Inc. Common Stock
 SSYS - Stratasys, Ltd. - Common Stock
 ST - Sensata Technologies Holding plc Ordinary Shares
 STAA - STAAR Surgical Company - Common Stock
@@ -9421,10 +9429,10 @@ STOX - Horizon Funds Horizon Core Equity ETF
 STPZ - PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund
 STR - Sitio Royalties Corp. Class A Common Stock
 STRA - Strategic Education, Inc. - Common Stock
-STRC - MicroStrategy Incorporated - Variable Rate Series A Perpetual Stretch Preferred Stock
-STRD - MicroStrategy Incorporated - 10.00% Series A Perpetual Stride Preferred Stock
-STRF - MicroStrategy Incorporated - 10.00% Series A Perpetual Strife Preferred Stock
-STRK - MicroStrategy Incorporated - 8.00% Series A Perpetual Strike Preferred Stock
+STRC - Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock
+STRD - Strategy Inc - 10.00% Series A Perpetual Stride Preferred Stock
+STRF - Strategy Inc - 10.00% Series A Perpetual Strife Preferred Stock
+STRK - Strategy Inc - 8.00% Series A Perpetual Strike Preferred Stock
 STRL - Sterling Infrastructure, Inc. - Common Stock
 STRM - Streamline Health Solutions, Inc. - Common Stock
 STRO - Sutro Biopharma, Inc. - Common Stock
@@ -9936,7 +9944,6 @@ TRX - TRX Gold Corporation Common Stock
 TS - Tenaris S.A. American Depositary Shares
 TSAT - Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares
 TSBK - Timberland Bancorp, Inc. - Common Stock
-TSBX - Turnstone Biologics Corp. - Common Stock
 TSCO - Tractor Supply Company - Common Stock
 TSDD - GraniteShares 2x Short TSLA Daily ETF
 TSE - Trinseo PLC Ordinary Shares 
@@ -10229,7 +10236,6 @@ USIN - WisdomTree 7-10 Year Laddered Treasury Fund
 USIO - Usio, Inc. - Common Stock
 USL - United States 12 Month Oil
 USLM - United States Lime & Minerals, Inc. - Common Stock
-USM - United States Cellular Corporation Common Stock
 USMC - Principal U.S. Mega-Cap ETF
 USMF - WisdomTree U.S. Multifactor Fund
 USML - ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN
@@ -10291,9 +10297,9 @@ UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
 UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
-UZD - United States Cellular Corporation 6.250% Senior Notes due 2069
-UZE - United States Cellular Corporation 5.500% Senior Notes due 2070
-UZF - United States Cellular Corporation 5.500% Senior Notes due 2070
+UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
+UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
+UZF - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
 V - Visa Inc.
 VABK - Virginia National Bankshares Corporation - Common Stock
 VABS - Virtus Newfleet ABS/MBS ETF
