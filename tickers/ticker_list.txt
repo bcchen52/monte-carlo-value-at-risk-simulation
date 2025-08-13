@@ -127,6 +127,7 @@ ACWI - iShares MSCI ACWI ETF
 ACWV - iShares MSCI Global Min Vol Factor ETF
 ACWX - iShares MSCI ACWI ex U.S. ETF
 ACXP - Acurx Pharmaceuticals, Inc. - Common Stock
+AD - Array Digital Infrastructure, Inc. Common Shares
 ADAG - Adagene Inc. - ADS, each representing 1.25 ordinary shares
 ADAP - Adaptimmune Therapeutics plc - American Depositary Shares
 ADBE - Adobe Inc. - Common Stock
@@ -1228,6 +1229,7 @@ BLNK - Blink Charging Co. - Common Stock
 BLOK - Amplify Transformational Data Sharing ETF
 BLOX - Tidal Trust II Nicholas Crypto Income ETF
 BLRX - BioLineRx Ltd. - American Depositary Shares
+BLSH - Bullish Ordinary Shares
 BLST - Exchange Traded Concepts Trust Bluemonte Short Term Bond ETF
 BLTD - Exchange Traded Concepts Trust Bluemonte Long Term Bond ETF
 BLTE - Belite Bio, Inc - American Depositary Shares
@@ -1453,7 +1455,7 @@ BTCO - Invesco Galaxy Bitcoin ETF Common Shares of Beneficial Interest
 BTCS - BTCS Inc. - Common Stock
 BTCT - BTC Digital Ltd. - Ordinary Shares
 BTCW - WisdomTree Bitcoin Fund Common Shares of Beneficial Interest
-BTCZ - T-Rex 2X Long Bitcoin Daily Target ETF
+BTCZ - T-Rex 2X Inverse Bitcoin Daily Target ETF
 BTDR - Bitdeer Technologies Group - Ordinary Shares
 BTE - Baytex Energy Corp Common Shares
 BTF - CoinShares Bitcoin and Ether ETF
@@ -2117,6 +2119,7 @@ COYY - GraniteShares YieldBOOST COIN ETF
 CP - Canadian Pacific Kansas City Limited Common Shares
 CPA - Copa Holdings, S.A. Class A Common Stock
 CPAC - Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five Common Shares)
+CPAG - F/m Compoundr U.S. Aggregate Bond ETF
 CPAI - Northern Lights Fund Trust III Counterpoint Quantitative Equity ETF
 CPAY - Corpay, Inc. Common Stock
 CPB - The Campbell's Company - Common Stock
@@ -2125,6 +2128,7 @@ CPER - United States Copper Index Fund ETV
 CPF - Central Pacific Financial Corp New
 CPHC - Canterbury Park Holding Corporation - Common Stock
 CPHI - China Pharma Holdings, Inc. Common Stock
+CPHY - F/m Compoundr High Yield Bond ETF
 CPII - American Beacon Select Funds American Beacon Ionic Inflation Protection ETF
 CPIX - Cumberland Pharmaceuticals Inc. - Common Stock
 CPK - Chesapeake Utilities Corporation Common Stock
@@ -2674,6 +2678,7 @@ DOCS - Doximity, Inc. Class A Common Stock
 DOCT - FT Vest U.S. Equity Deep Buffer ETF - October
 DOCU - DocuSign, Inc. - Common Stock
 DOG - ProShares Short Dow30
+DOGD - Tradr 2X Long QBTS Daily ETF Tradr 2X Long DDOG Daily ETF
 DOGG - FT Vest DJIA Dogs 10 Target Income ETF
 DOGZ - Dogness (International) Corporation - Class A Common Stock
 DOL - WisdomTree International LargeCap Dividend Fund
@@ -2977,7 +2982,6 @@ EGGQ - NestYield Visionary ETF
 EGGS - Tidal Trust III NestYield Total Return Guard ETF
 EGGY - NestYield Dynamic Income ETF
 EGHA - EGH Acquisition Corp. - Class A ordinary shares
-EGHAR - EGH Acquisition Corp. - rights
 EGHAU - EGH Acquisition Corp. - Unit
 EGHT - 8x8 Inc - Common stock
 EGLE - Global X Funds Global X S&P 500 U.S. Revenue Leaders ETF
@@ -3797,7 +3801,6 @@ FOWF - Pacer Funds Trust Pacer Solactive Whitney Future of Warfare ETF
 FOX - Fox Corporation - Class B Common Stock
 FOXA - Fox Corporation - Class A Common Stock
 FOXF - Fox Factory Holding Corp. - Common Stock
-FOXO - FOXO Technologies Inc. Class A Common Stock
 FOXX - Foxx Development Holdings Inc. - Common Stock
 FOXXW - Foxx Development Holdings Inc. - Warrant
 FOXY - Simplify Exchange Traded Funds Simplify Currency Strategy ETF
@@ -4746,6 +4749,7 @@ HVAC - AdvisorShares Trust AdvisorShares HVAC and Industrials ETF
 HVII - Hennessy Capital Investment Corp. VII - Ordinary Shares
 HVIIR - Hennessy Capital Investment Corp. VII - Rights
 HVIIU - Hennessy Capital Investment Corp. VII - Unit
+HVMCU - Highview Merger Corp. - Units
 HVT - Haverty Furniture Companies, Inc. Common Stock
 HWAY - Themes US Infrastructure ETF
 HWBK - Hawthorn Bancshares, Inc. - Common Stock
@@ -5301,7 +5305,6 @@ IUSV - iShares Core S&P U.S. Value ETF
 IVA - Inventiva S.A. - American Depository Shares
 IVAL - Alpha Architect International Quantitative Value ETF
 IVDA - Iveda Solutions, Inc. - Common Stock
-IVDAW - Iveda Solutions, Inc. - Warrant
 IVE - iShares S&P 500 Value ETF
 IVEG - iShares Emergent Food and AgTech Multisector ETF
 IVES - Wedbush Series Trust Dan IVES Wedbush AI Revolution ETF
@@ -5474,7 +5477,7 @@ JIVE - JPMorgan International Value ETF
 JJSF - J & J Snack Foods Corp. - Common Stock
 JKHY - Jack Henry & Associates, Inc. - Common Stock
 JKS - JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares)
-JL - J-Long Group Limited - Ordinary Shares
+JL - J-Long Group Limited - Class A Ordinary Shares
 JLHL - Julong Holding Limited - Class A Ordinary Shares
 JLL - Jones Lang LaSalle Incorporated Common Stock
 JLQD - Janus Henderson Corporate Bond ETF
@@ -5787,6 +5790,7 @@ L - Loews Corporation Common Stock
 LAB - Standard BioTools Inc. - Common Stock
 LABD - Direxion Daily S&P Biotech Bear 3X Shares
 LABU - Direxion Daily S&P Biotech Bull 3X Shares
+LABX - Tradr 2X Long QBTS Daily ETF Tradr 2X Long ALAB Daily ETF
 LAC - Lithium Americas Corp. Common Shares
 LAD - Lithia Motors, Inc. Common Stock
 LADR - Ladder Capital Corp Class A Common Stock
@@ -5830,7 +5834,6 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone ETF Trust Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
-LCFYW - Locafy Limited - Warrant
 LCG - Sterling Capital Focus Equity ETF
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
@@ -6160,6 +6163,7 @@ MADE - iShares Trust iShares U.S. Manufacturing ETF
 MAG - MAG Silver Corporation Ordinary Shares
 MAGA - Point Bridge America First ETF
 MAGG - Madison ETFs Trust Madison Aggregate Bond ETF
+MAGH - Magnitude International Ltd - Ordinary Shares
 MAGN - Magnera Corporation Common Stock
 MAGS - Roundhill Magnificent Seven ETF
 MAGX - Roundhill Daily 2X Long Magnificent Seven ETF
@@ -6423,6 +6427,7 @@ MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
 MKDWW - MKDWELL Tech Inc. - Warrants
 MKL - Markel Group Inc. Common Stock
+MKLYU - McKinley Acquisition Corporation - Units
 MKOR - Matthews International Funds Matthews Korea Active ETF
 MKSI - MKS Inc. - Common Stock
 MKTW - MarketWise, Inc. - Class A Common Stock
@@ -6601,6 +6606,7 @@ MSOS - AdvisorShares Trust AdvisorShares Pure US Cannabis ETF
 MSOX - AdvisorShares MSOS Daily Leveraged ETF
 MSPR - MSP Recovery, Inc. - Class A Common Stock
 MSPRW - MSP Recovery, Inc. - Warrant
+MSPRZ - MSP Recovery, Inc. - Warrant
 MSS - Maison Solutions Inc. - Class A Common Stock
 MSSM - Morgan Stanley Pathway Funds Morgan Stanley Pathway Small-Mid Cap Equity ETF
 MSSS - Northern Lights Fund Trust IV Monarch Select Subsector Index ETF
@@ -6820,8 +6826,6 @@ NEAR - iShares Short Duration Bond Active ETF
 NECB - NorthEast Community Bancorp, Inc. - Common Stock
 NEE - NextEra Energy, Inc. Common Stock
 NEGG - Newegg Commerce, Inc. - Common Shares
-NEHC - New Era Helium Inc - Common Stock
-NEHCW - New Era Helium Inc - Warrants
 NEM - Newmont Corporation
 NEMD - Neuberger Berman ETF Trust Neuberger Berman Emerging Markets Debt Hard Currency ETF
 NEN - New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership
@@ -6966,7 +6970,6 @@ NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
 NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
-NOEMW - CO2 Energy Transition Corp. - Warrant
 NOG - Northern Oil and Gas, Inc. Common Stock
 NOK - Nokia Corporation Sponsored American Depositary Shares
 NOM - Nuveen Missouri Quality Municipal Income Fund 
@@ -7025,6 +7028,7 @@ NSI - National Security Emerging Markets Index ETF
 NSIT - Insight Enterprises, Inc. - Common Stock
 NSP - Insperity, Inc. Common Stock
 NSPR - InspireMD Inc. - Common Stock
+NSRX - Nasus Pharma Ltd. Ordinary Shares
 NSSC - NAPCO Security Technologies, Inc. - Common Stock
 NSTS - NSTS Bancorp, Inc. - Common Stock
 NSYS - Nortech Systems Incorporated - Common Stock
@@ -7057,6 +7061,8 @@ NTWOW - Newbury Street II Acquisition Corp - Warrant
 NTZ - Natuzzi, S.p.A.
 NU - Nu Holdings Ltd. Class A Ordinary Shares
 NUAG - Nuveen Enhanced Yield U.S. Aggregate Bond ETF
+NUAI - New Era Energy & Digital, Inc. - Common Stock
+NUAIW - New Era Energy & Digital, Inc. - Warrants
 NUBD - Nuveen ESG U.S. Aggregate Bond ETF
 NUDM - Nuveen ESG International Developed Markets Equity ETF
 NUDV - Nuveen ESG Dividend ETF
@@ -7438,6 +7444,7 @@ OXLCZ - Oxford Lane Capital Corp. - 5.00% Notes due 2027
 OXM - Oxford Industries, Inc. Common Stock
 OXSQ - Oxford Square Capital Corp. - Closed End Fund
 OXSQG - Oxford Square Capital Corp. - 5.50% Notes due 2028
+OXSQH - Oxford Square Capital Corp. - 7.75% Notes due 2030
 OXSQZ - Oxford Square Capital Corp. - 6.25% Notes due 2026
 OXY - Occidental Petroleum Corporation Common Stock
 OYSE - Oyster Enterprises II Acquisition Corp - Class A Ordinary Shares
@@ -8307,6 +8314,7 @@ RDIB - Reading International Inc - Class B Voting Common Stock
 RDIV - Invesco Exchange-Traded Fund Trust II Invesco S&P Ultra Dividend Revenue ETF
 RDN - Radian Group Inc. Common Stock
 RDNT - RadNet, Inc. - Common Stock
+RDNW - RideNow Group, Inc. - Class B Common Stock
 RDOG - ALPS ETF Trust ALPS REIT Dividend Dogs ETF
 RDTE - Roundhill Russell 2000 0DTE Covered Call Strategy ETF
 RDTL - GraniteShares 2x Long RDDT Daily ETF
@@ -8458,7 +8466,6 @@ RLYB - Rallybio Corporation - Common Stock
 RM - Regional Management Corp. Common Stock
 RMAX - RE/MAX Holdings, Inc. Class A Common Stock
 RMBI - Richmond Mutual Bancorporation, Inc. - Common Stock
-RMBL - RumbleOn, Inc. - Class B Common Stock
 RMBS - Rambus, Inc. - Common Stock
 RMCA - Tidal Trust III Rockefeller California Municipal Bond ETF
 RMCF - Rocky Mountain Chocolate Factory, Inc. - Common Stock
@@ -9434,7 +9441,6 @@ STRD - Strategy Inc - 10.00% Series A Perpetual Stride Preferred Stock
 STRF - Strategy Inc - 10.00% Series A Perpetual Strife Preferred Stock
 STRK - Strategy Inc - 8.00% Series A Perpetual Strike Preferred Stock
 STRL - Sterling Infrastructure, Inc. - Common Stock
-STRM - Streamline Health Solutions, Inc. - Common Stock
 STRO - Sutro Biopharma, Inc. - Common Stock
 STRR - Star Equity Holdings, Inc. - Common Stock
 STRRP - Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock
@@ -10625,6 +10631,7 @@ WCLD - WisdomTree Cloud Computing Fund
 WCME - First Trust Exchange-Traded Fund First Trust WCM Developing World Equity ETF
 WCMI - First Trust Exchange-Traded Fund First Trust WCM International Equity ETF
 WCN - Waste Connections, Inc. Common Shares
+WCPB - Northern Lights Fund Trust II Weitz Core Plus Bond ETF
 WCT - Wellchange Holdings Company Limited - Ordinary shares
 WD - Walker & Dunlop, Inc Common Stock
 WDAY - Workday, Inc. - Class A Common Stock
