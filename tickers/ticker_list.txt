@@ -2066,6 +2066,7 @@ COHU - Cohu, Inc. - Common Stock
 COIG - Leverage Shares 2X Long COIN Daily ETF
 COII - REX COIN Growth & Income ETF
 COIN - Coinbase Global, Inc. - Class A Common Stock
+COIO - Themes ETF Trust Leverage Shares 2x Capped Accelerated COIN Monthly ETF
 COIW - Roundhill ETF Trust Roundhill COIN WeeklyPay ETF
 COKE - Coca-Cola Consolidated, Inc. - Common Stock
 COLA - Columbus Acquisition Corp - Ordinary Shares
@@ -2982,6 +2983,7 @@ EGGQ - NestYield Visionary ETF
 EGGS - Tidal Trust III NestYield Total Return Guard ETF
 EGGY - NestYield Dynamic Income ETF
 EGHA - EGH Acquisition Corp. - Class A ordinary shares
+EGHAR - EGH Acquisition Corp. - rights
 EGHAU - EGH Acquisition Corp. - Unit
 EGHT - 8x8 Inc - Common stock
 EGLE - Global X Funds Global X S&P 500 U.S. Revenue Leaders ETF
@@ -4627,6 +4629,7 @@ HODL - VanEck Bitcoin Trust Common Shares of Beneficial Interest
 HOFT - Hooker Furnishings Corporation - Common Stock
 HOG - Harley-Davidson, Inc. Common Stock
 HOLA - J.P. Morgan Exchange-Traded Fund Trust JPMorgan International Hedged Equity Laddered Overlay ETF
+HOLD - Harbor ETF Trust Harbor Alpha Layering ETF
 HOLO - MicroCloud Hologram Inc. - Ordinary Shares
 HOLOW - MicroCloud Hologram Inc. - Warrant
 HOLX - Hologic, Inc. - Common Stock
@@ -6393,6 +6396,7 @@ MHNC - Maiden Holdings North America, Ltd. 7.75% Notes due 2043
 MHO - M/I Homes, Inc. Common Stock
 MHUA - Meihua International Medical Technologies Co., Ltd. - Ordinary Shares
 MI - NFT Limited Class A Ordinary Share
+MIAX - Miami International Holdings, Inc. Common Stock
 MID - American Century Mid Cap Growth Impact ETF
 MIDD - The Middleby Corporation - Common Stock
 MIDE - Xtrackers S&P MidCap 400 Scored & Screened ETF
@@ -6602,6 +6606,7 @@ MSLC - Morgan Stanley Pathway Funds Morgan Stanley Pathway Large Cap Equity ETF
 MSM - MSC Industrial Direct Company, Inc. Common Stock
 MSMR - ETF Series Solutions McElhenny Sheffield Managed Risk ETF
 MSN - Emerson Radio Corporation Common Stock
+MSOO - Themes ETF Trust Leverage Shares 2x Capped Accelerated MSTR Monthly ETF
 MSOS - AdvisorShares Trust AdvisorShares Pure US Cannabis ETF
 MSOX - AdvisorShares MSOS Daily Leveraged ETF
 MSPR - MSP Recovery, Inc. - Class A Common Stock
@@ -7104,6 +7109,7 @@ NVDA - NVIDIA Corporation - Common Stock
 NVDD - Direxion Daily NVDA Bear 1X Shares
 NVDG - Leverage Shares 2X Long NVDA Daily ETF
 NVDL - GraniteShares 2x Long NVDA Daily ETF
+NVDO - Themes ETF Trust Leverage Shares 2x Capped Accelerated NVDA Monthly ETF
 NVDQ - ETF Opportunities Trust T-Rex 2X Inverse NVIDIA Daily Target ETF
 NVDS - Tradr 1.5X Short NVDA Daily ETF
 NVDU - Direxion Daily NVDA Bull 2X Shares
@@ -7762,6 +7768,7 @@ PLMKU - Plum Acquisition Corp. IV - Unit
 PLMKW - Plum Acquisition Corp. IV - Warrants
 PLMR - Palomar Holdings, Inc. - Common stock
 PLNT - Planet Fitness, Inc. Common Stock
+PLOO - Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF
 PLOW - Douglas Dynamics, Inc. Common Stock
 PLPC - Preformed Line Products Company - Common Stock
 PLRX - Pliant Therapeutics, Inc. - Common Stock
@@ -8299,7 +8306,6 @@ RCT - RedCloud Holdings plc - Ordinary Shares
 RCTR - First Trust Exchange-Traded Fund II First Trust Bloomberg Nuclear Power ETF
 RCUS - Arcus Biosciences, Inc. Common Stock
 RDAC - Rising Dragon Acquisition Corp. - Ordinary Shares
-RDACR - Rising Dragon Acquisition Corp. - Rights
 RDACU - Rising Dragon Acquisition Corp. - Unit
 RDAG - Republic Digital Acquisition Company - Class A Ordinary Shares
 RDAGU - Republic Digital Acquisition Company - Unit
@@ -9964,6 +9970,7 @@ TSL - GraniteShares 1.25x Long TSLA Daily ETF
 TSLA - Tesla, Inc.  - Common Stock
 TSLG - Leverage Shares 2X Long TSLA Daily ETF
 TSLL - Direxion Daily TSLA Bull 2X Shares
+TSLO - Themes ETF Trust Leverage Shares 2x Capped Accelerated TSLA Monthly ETF
 TSLP - Kurv Yield Premium Strategy Tesla (TSLA) ETF
 TSLQ - Tradr 2X Short TSLA Daily ETF
 TSLR - GraniteShares 2x Long TSLA Daily ETF
@@ -10685,7 +10692,6 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
-WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHTX - Volatility Shares Trust 2x Wheat ETF
