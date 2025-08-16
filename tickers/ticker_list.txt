@@ -2391,6 +2391,7 @@ CZWI - Citizens Community Bancorp, Inc. - Common Stock
 D - Dominion Energy, Inc. Common Stock
 DAAQ - Digital Asset Acquisition Corp. - Class A Ordinary shares
 DAAQU - Digital Asset Acquisition Corp. - Units
+DAAQW - Digital Asset Acquisition Corp. - Warrant
 DABS - DoubleLine ETF Trust DoubleLine Asset-Backed Securities ETF
 DAC - Danaos Corporation Common Stock
 DADS - Digital Asset Debt Strategy ETF
@@ -2885,6 +2886,7 @@ ECCV - Eagle Point Credit Company Inc. 5.375% Notes due 2029
 ECCW - Eagle Point Credit Company Inc. 6.75% Notes due 2031
 ECCX - Eagle Point Credit Company Inc. 6.6875% Notes due 2028
 ECDA - ECD Automotive Design, Inc. - Common Stock
+ECDAW - ECD Automotive Design, Inc. - Warrant
 ECF - Ellsworth Growth and Income Fund Ltd.
 ECG - Everus Construction Group, Inc. Common Stock
 ECH - iShares Inc. iShares MSCI Chile ETF
@@ -3050,6 +3052,7 @@ EMBD - Global X Emerging Markets Bond ETF
 EMC - Global X Funds Global X Emerging Markets Great Consumer ETF
 EMCB - WisdomTree Emerging Markets Corporate Bond Fund
 EMCG - Embrace Change Acquisition Corp - Ordinary Shares
+EMCGR - Embrace Change Acquisition Corp - Rights
 EMCGU - Embrace Change Acquisition Corp - Units
 EMCGW - Embrace Change Acquisition Corp - Warrants
 EMCR - Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF
@@ -3419,7 +3422,6 @@ FBTC - Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest
 FBUF - Fidelity Dynamic Buffered Equity ETF
 FBY - Tidal ETF Trust II YieldMax META Option Income Strategy ETF
 FBYD - Falcon's Beyond Global, Inc. - Class A Common Stock
-FBYDW - Falcon's Beyond Global, Inc. - Warrants
 FC - Franklin Covey Company Common Stock
 FCA - First Trust China AlphaDEX Fund
 FCAL - First Trust California Municipal High income ETF
@@ -5764,7 +5766,6 @@ KURA - Kura Oncology, Inc. - Common Stock
 KURE - KraneShares MSCI All China Health Care Index ETF
 KVAC - Keen Vision Acquisition Corporation - Ordinary Shares
 KVACU - Keen Vision Acquisition Corporation - Units
-KVACW - Keen Vision Acquisition Corporation - Warrant
 KVHI - KVH Industries, Inc. - Common Stock
 KVLE - KraneShares Value Line Dynamic Dividend Equity Index ETF
 KVUE - Kenvue Inc. Common Stock
@@ -5777,6 +5778,8 @@ KWR - Quaker Houghton Common Stock
 KWT - iShares Trust iShares MSCI Kuwait ETF
 KXI - iShares Global Consumer Staples ETF
 KXIN - Kaixin Holdings - Ordinary Shares
+KYIV - Kyivstar Group Ltd. - Common Shares
+KYIVW - Kyivstar Group Ltd. - Warrant
 KYMR - Kymera Therapeutics, Inc. - Common Stock
 KYN - Kayne Anderson Energy Infrastructure Fund, Inc.
 KYTX - Kyverna Therapeutics, Inc. - Common Stock
@@ -6039,6 +6042,7 @@ LOWV - AB Active ETFs, Inc. AB US Low Volatility Equity ETF
 LPA - Logistic Properties of the Americas Ordinary Shares
 LPAA - Launch One Acquisition Corp. - Class A Ordinary Shares
 LPAAU - Launch One Acquisition Corp. - Unit
+LPAAW - Launch One Acquisition Corp. - Warrant
 LPBB - Launch Two Acquisition Corp. - Class A Ordinary Shares
 LPBBU - Launch Two Acquisition Corp. - Unit
 LPBBW - Launch Two Acquisition Corp. - Warrant
@@ -6124,7 +6128,9 @@ LVS - Las Vegas Sands Corp. Common Stock
 LVTX - LAVA Therapeutics N.V. - Ordinary Shares
 LVWR - LiveWire Group, Inc. Common Stock
 LW - Lamb Weston Holdings, Inc. Common Stock 
+LWAC - LightWave Acquisition Corp. - Class A Ordinary Shares
 LWACU - LightWave Acquisition Corp. - Units
+LWACW - LightWave Acquisition Corp. - Warrants
 LWAY - Lifeway Foods, Inc. - Common Stock
 LWLG - Lightwave Logic, Inc. - Common Stock
 LX - LexinFintech Holdings Ltd. - American Depositary Shares
@@ -7081,6 +7087,7 @@ NUS - Nu Skin Enterprises, Inc. Common Stock
 NUSA - Nuveen ESG 1-5 Year U.S. Aggregate Bond ETF
 NUSB - Nuveen Ultra Short Income ETF
 NUSC - Nuveen ESG Small-Cap ETF
+NUTR - Nusatrip Incorporated - Common Stock
 NUTX - Nutex Health Inc. - Common Stock
 NUV - Nuveen Municipal Value Fund, Inc. Common Stock
 NUVB - Nuvation Bio Inc. Class A Common Stock
@@ -7202,7 +7209,9 @@ OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - Unified Series Trust OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - Unified Series Trust OneAscent Small Cap Core ETF
+OBA - Oxley Bridge Acquisition Limited - Class A Ordinary Shares
 OBAWU - Oxley Bridge Acquisition Limited - Unit
+OBAWW - Oxley Bridge Acquisition Limited - Warrants
 OBDC - Blue Owl Capital Corporation Common Stock
 OBE - Obsidian Energy Ltd. Common Shares
 OBIL - US Treasury 12 Month Bill ETF
@@ -7460,7 +7469,9 @@ PABD - iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF
 PABU - iShares Paris-Aligned Climate Optimized MSCI USA ETF
 PAC - Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
 PACB - Pacific Biosciences of California, Inc. - Common Stock
+PACH - Pioneer Acquisition I Corp - Class A Ordinary Shares
 PACHU - Pioneer Acquisition I Corp - Units
+PACHW - Pioneer Acquisition I Corp - Warrants
 PACK - Ranpak Holdings Corp Class A Common Stock
 PACS - PACS Group, Inc. Common Stock
 PAG - Penske Automotive Group, Inc. Common Stock
@@ -7849,6 +7860,7 @@ PPA - Invesco Aerospace & Defense ETF
 PPBI - Pacific Premier Bancorp Inc - Common Stock
 PPBT - Purple Biotech Ltd. - American Depositary Shares
 PPC - Pilgrim's Pride Corporation - Common Stock
+PPCB - Propanc Biopharma, Inc. - Common Stock
 PPEM - Putnam ETF Trust Putnam PanAgora ESG Emerging Markets Equity ETF
 PPG - PPG Industries, Inc. Common Stock
 PPH - VanEck Pharmaceutical ETF
@@ -8172,6 +8184,7 @@ QQQX - Nuveen NASDAQ 100 Dynamic Overwrite Fund - Closed End Fund
 QQQY - Defiance Nasdaq 100 Target 30 Income ETF
 QQUP - ProShares Ultra Top QQQ
 QQWZ - Pacer Cash COWZ 100-Nasdaq 100 Rotator ETF
+QQXL - ProShares Ultra QQQ Top 30
 QQXT - First Trust NASDAQ-100 Ex-Technology Sector Index Fund
 QRFT - QRAFT AI-Enhanced U.S. Large Cap ETF
 QRHC - Quest Resource Holding Corporation - Common Stock
@@ -8233,7 +8246,6 @@ RAA - SMI 3Fourteen REAL Asset Allocation ETF
 RAAA - Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF
 RAAQ - Real Asset Acquisition Corp. - Class A Ordinary Share
 RAAQU - Real Asset Acquisition Corp. - Unit
-RAAQW - Real Asset Acquisition Corp. - Warrants
 RAAX - VanEck Real Assets ETF
 RAC - Rithm Acquisition Corp. Class A Ordinary Shares
 RACE - Ferrari N.V. Common Shares
@@ -10017,7 +10029,6 @@ TUYA - Tuya Inc. American Depositary Shares, each representing one Class A Ordin
 TV - Grupo Televisa S.A.B. Common Stock
 TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
-TVACW - Texas Ventures Acquisition III Corp - Warrants
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
 TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
@@ -10336,6 +10347,7 @@ VCEB - Vanguard World Funds ETF
 VCEL - Vericel Corporation - Common Stock
 VCIC - Vine Hill Capital Investment Corp. - Class A Ordinary Shares
 VCICU - Vine Hill Capital Investment Corp. - Unit
+VCICW - Vine Hill Capital Investment Corp. - Warrant
 VCIG - VCI Global Limited - Ordinary Share
 VCIT - Vanguard Intermediate-Term Corporate Bond ETF
 VCLN - Virtus Duff & Phelps Clean Energy ETF
@@ -10346,6 +10358,7 @@ VCRM - Vanguard Tax-Managed Funds Vanguard Core Tax-Exempt Bond ETF
 VCSH - Vanguard Short-Term Corporate Bond ETF
 VCTR - Victory Capital Holdings, Inc. - Common Stock
 VCV - Invesco California Value Municipal Income Trust Common Stock
+VCYT - Veracyte, Inc. - Common Stock
 VDC - Vanguard Consumer Staples ETF
 VDE - Vanguard Energy ETF
 VEA - Vanguard FTSE Developed Markets ETF
