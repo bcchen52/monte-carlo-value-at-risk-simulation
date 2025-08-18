@@ -223,7 +223,7 @@ AGEM - abrdn Emerging Markets Dividend Active ETF
 AGEN - Agenus Inc. - Common Stock
 AGFY - Agrify Corporation - Common Stock
 AGG - iShares Core U.S. Aggregate Bond ETF
-AGGA - Astoria Dynamic Core US Fixed Income ETF
+AGGA - EA Astoria Dynamic Core US Fixed Income ETF
 AGGH - Simplify Aggregate Bond ETF
 AGGS - Harbor ETF Trust Harbor Disciplined Bond ETF
 AGGY - WisdomTree Yield Enhanced U.S. Aggregate Bond Fund
@@ -719,8 +719,6 @@ ATMU - Atmus Filtration Technologies Inc. Common Stock
 ATMV - AlphaVest Acquisition Corp - Ordinary Shares
 ATMVR - AlphaVest Acquisition Corp - Right
 ATMVU - AlphaVest Acquisition Corp - Unit
-ATNF - 180 Life Sciences Corp. - Common Stock
-ATNFW - 180 Life Sciences Corp. - Warrant
 ATNI - ATN International, Inc. - Common Stock
 ATNM - Actinium Pharmaceuticals, Inc. (Delaware) Common Stock
 ATO - Atmos Energy Corporation Common Stock
@@ -3236,6 +3234,8 @@ ETHT - ProShares Trust ProShares Ultra Ether ETF
 ETHU - Volatility Shares Trust 2x Ether ETF
 ETHV - VanEck Ethereum ETF VanEck Ethereum ETF
 ETHW - Bitwise Ethereum ETF Common shares of beneficial interest
+ETHZ - ETHZilla Corporation - Common Stock
+ETHZW - ETHZilla Corporation - Warrant
 ETJ - Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest
 ETN - Eaton Corporation, PLC Ordinary Shares
 ETNB - 89bio, Inc. - Common Stock
@@ -4008,7 +4008,6 @@ GATX - GATX Corporation Common Stock
 GAU - Galiano Gold Inc.
 GAUG - FT Vest U.S. Equity Moderate Buffer ETF - August
 GAUZ - Gauzy Ltd. - Ordinary Shares
-GB - Global Blue Group Holding AG Ordinary Shares
 GBAB - Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest
 GBCI - Glacier Bancorp, Inc. Common Stock
 GBDC - Golub Capital BDC, Inc. - Closed End Fund
@@ -7414,7 +7413,6 @@ OTGL - OTG Latin America ETF
 OTIS - Otis Worldwide Corporation Common Stock 
 OTLK - Outlook Therapeutics, Inc. - Common Stock
 OTLY - Oatly Group AB - American Depositary Shares
-OTRK - Ontrak, Inc. - Common Stock
 OTTR - Otter Tail Corporation - Common Stock
 OUNZ - VanEck Merk Gold ETF
 OUSA - ALPS O'Shares U.S. Quality Dividend ETF
@@ -9170,7 +9168,6 @@ SNPE - Xtrackers S&P 500 Scored & Screened ETF
 SNPG - Xtrackers S&P 500 Growth Scored & Screened ETF
 SNPS - Synopsys, Inc. - Common Stock
 SNPV - Xtrackers S&P 500 Value Scored & Screened ETF
-SNRE - Sunrise Communications AG - American Depositary Shares representing Class A shares
 SNSE - Sensei Biotherapeutics, Inc. - Common Stock
 SNSR - Global X Internet of Things ETF
 SNT - Senstar Technologies Corporation - Common Shares
