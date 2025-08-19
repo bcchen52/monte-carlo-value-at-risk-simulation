@@ -229,7 +229,6 @@ AGGS - Harbor ETF Trust Harbor Disciplined Bond ETF
 AGGY - WisdomTree Yield Enhanced U.S. Aggregate Bond Fund
 AGH - Aureus Greenway Holdings Inc. - Common Stock
 AGI - Alamos Gold Inc. Class A Common Shares
-AGIH - iShares U.S. ETF Trust iShares Inflation Hedged U.S. Aggregate Bond ETF
 AGIO - Agios Pharmaceuticals, Inc. - Common Stock
 AGIX - KraneShares Artificial Intelligence & Technology ETF
 AGL - agilon health, inc. Common Stock
@@ -478,7 +477,7 @@ ANRO - Alto Neuroscience, Inc. Common Stock
 ANSC - Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares
 ANSCU - Agriculture & Natural Solutions Acquisition Corporation - Unit
 ANSCW - Agriculture & Natural Solutions Acquisition Corporation - Warrant
-ANTA - Antalpha Platform Holding Company - Ordinary Shares
+ANTA - Antalpha Platform Holding Company - Class A Ordinary Shares
 ANTE - AirNet Technology Inc. - Ordinary Share
 ANTX - AN2 Therapeutics, Inc. - Common Stock
 ANVS - Annovis Bio, Inc. Common Stock
@@ -1705,7 +1704,6 @@ CCOI - Cogent Communications Holdings, Inc. - Common Stock
 CCOR - Core Alternative ETF
 CCRD - CoreCard Corporation Common Stock
 CCRN - Cross Country Healthcare, Inc. - Common Stock
-CCRV - iShares U.S. ETF Trust iShares Commodity Curve Carry Strategy ETF
 CCS - Century Communities, Inc. Common Stock
 CCSB - Carbon Collective Short Duration Green Bond ETF
 CCSI - Consensus Cloud Solutions, Inc. - Common Stock
@@ -2064,6 +2062,7 @@ COIO - Themes ETF Trust Leverage Shares 2x Capped Accelerated COIN Monthly ETF
 COIW - Roundhill ETF Trust Roundhill COIN WeeklyPay ETF
 COKE - Coca-Cola Consolidated, Inc. - Common Stock
 COLA - Columbus Acquisition Corp - Ordinary Shares
+COLAR - Columbus Acquisition Corp - Rights
 COLAU - Columbus Acquisition Corp - Unit
 COLB - Columbia Banking System, Inc. - Common Stock
 COLD - Americold Realty Trust, Inc. Common Stock
@@ -3032,7 +3031,6 @@ ELON - Tidal Trust III Battleshares TSLA vs F ETF
 ELP - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non-voting Class B Preferred Shares)
 ELPC - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
 ELPW - Elong Power Holding Limited - Class A Ordinary Shares
-ELQD - iShares ESG Advanced Investment Grade Corporate Bond ETF
 ELS - Equity Lifestyle Properties, Inc. Common Stock
 ELSE - Electro-Sensors, Inc. - Common Stock
 ELTK - Eltek Ltd. - Ordinary Shares
@@ -3422,6 +3420,7 @@ FBTC - Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest
 FBUF - Fidelity Dynamic Buffered Equity ETF
 FBY - Tidal ETF Trust II YieldMax META Option Income Strategy ETF
 FBYD - Falcon's Beyond Global, Inc. - Class A Common Stock
+FBYDW - Falcon's Beyond Global, Inc. - Warrants
 FC - Franklin Covey Company Common Stock
 FCA - First Trust China AlphaDEX Fund
 FCAL - First Trust California Municipal High income ETF
@@ -3601,7 +3600,9 @@ FIEE - FiEE, Inc - Common Stock
 FIG - Figma, Inc. Class A Common Stock
 FIGB - Fidelity Investment Grade Bond ETF
 FIGS - FIGS, Inc. Class A Common Stock
+FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
+FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIHL - Fidelis Insurance Holdings Limited Common Shares
 FIIG - First Trust Exchange-Traded Fund IV First Trust Intermediate Duration Investment Grade Corporate ETF
 FILL - iShares MSCI Global Energy Producers Fund
@@ -3793,7 +3794,6 @@ FORTY - Formula Systems (1985) Ltd. - American Depositary Shares
 FOSL - Fossil Group, Inc. - Common Stock
 FOSLL - Fossil Group, Inc. - 7% Senior Notes due 2026
 FOUR - Shift4 Payments, Inc. Class A Common Stock
-FOVL - iShares Focused Value Factor ETF
 FOWF - Pacer Funds Trust Pacer Solactive Whitney Future of Warfare ETF
 FOX - Fox Corporation - Class B Common Stock
 FOXA - Fox Corporation - Class A Common Stock
@@ -4774,7 +4774,6 @@ HYFI - AB Active ETFs, Inc. AB High Yield ETF
 HYFM - Hydrofarm Holdings Group, Inc. - Common Stock
 HYG - iShares iBoxx $ High Yield Corporate Bond ETF
 HYGH - iShares Interest Rate Hedged High Yield Bond ETF
-HYGI - iShares U.S. ETF Trust iShares Inflation Hedged High Yield Bond ETF
 HYGV - FlexShares High Yield Value-Scored Bond Index Fund
 HYGW - iShares Trust iShares High Yield Corporate Bond BuyWrite Strategy ETF
 HYHG - ProShares High Yield Interest Rate Hedged
@@ -4918,7 +4917,6 @@ ICUI - ICU Medical, Inc. - Common Stock
 ICVT - iShares Convertible Bond ETF
 IDA - IDACORP, Inc. Common Stock
 IDAI - T Stamp Inc. - Class A Common Stock
-IDAT - iShares Future Cloud 5G and Tech ETF
 IDCC - InterDigital, Inc. - Common Stock
 IDE - Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest
 IDEC - Innovator ETFs Trust Innovator International Developed Power Buffer ETF  December
@@ -5304,7 +5302,6 @@ IVAL - Alpha Architect International Quantitative Value ETF
 IVDA - Iveda Solutions, Inc. - Common Stock
 IVDAW - Iveda Solutions, Inc. - Warrant
 IVE - iShares S&P 500 Value ETF
-IVEG - iShares Emergent Food and AgTech Multisector ETF
 IVES - Wedbush Series Trust Dan IVES Wedbush AI Revolution ETF
 IVF - INVO Fertility, Inc. - Common Stock
 IVLU - iShares MSCI Intl Value Factor ETF
@@ -5343,7 +5340,6 @@ IWO - iShares Russell 2000 Growth ETF
 IWP - iShares Russell Midcap Growth ETF
 IWR - iShares Russell Mid-Cap ETF
 IWS - iShares Russell Mid-cap Value ETF
-IWTR - iShares MSCI Water Management Multisector ETF
 IWV - iShares Russell 3000 ETF
 IWX - iShares Russell Top 200 Value ETF
 IWY - iShares Russell Top 200 Growth ETF
@@ -5627,6 +5623,7 @@ KF - Korea Fund, Inc. (The) New Common Stock
 KFEB - Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - February
 KFFB - Kentucky First Federal Bancorp - Common Stock
 KFII - K&F Growth Acquisition Corp. II - Class A Ordinary shares
+KFIIR - K&F Growth Acquisition Corp. II - Rights
 KFIIU - K&F Growth Acquisition Corp. II - Unit
 KFRC - Kforce, Inc. Common Stock
 KFS - Kingsway Financial Services, Inc. Common Stock (DE)
@@ -6665,6 +6662,10 @@ MUE - Blackrock MuniHoldings Quality Fund II, Inc. Common Stock
 MUFG - Mitsubishi UFJ Financial Group, Inc. Common Stock
 MUJ - Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock
 MULL - GraniteShares 2x Long MU Daily ETF
+MUNA - Northern Funds Northern Trust 2030 Tax-Exempt Distributing Ladder ETF
+MUNB - Northern Funds Northern Trust 2035 Tax-Exempt Distributing Ladder ETF
+MUNC - Northern Funds Northern Trust 2045 Tax-Exempt Distributing Ladder ETF
+MUND - Northern Funds Northern Trust 2055 Tax-Exempt Distributing Ladder ETF
 MUNI - PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund
 MUNY - Vanguard New York Tax-Exempt Bond ETF Vanguard New York Tax-Exempt Bond ETF
 MUR - Murphy Oil Corporation Common Stock
@@ -8217,6 +8218,7 @@ QUAL - iShares MSCI USA Quality Factor ETF
 QUBT - Quantum Computing Inc. - Common Stock
 QUBX - Tradr 2X Long QBTS Daily ETF Tradr 2X Long QUBT Daily ETF
 QUIK - QuickLogic Corporation - Common Stock
+QUIZ - Zacks Trust Zacks Quality International ETF
 QULL - ETRACS 2x Leveraged MSCI US Quality Factor TR ETN
 QUMSU - Quantumsphere Acquisition Corp. - Units
 QUP - Strategic Trust DailyDelta  Q100 Upside Option Strategy ETF
@@ -8244,6 +8246,7 @@ RAA - SMI 3Fourteen REAL Asset Allocation ETF
 RAAA - Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF
 RAAQ - Real Asset Acquisition Corp. - Class A Ordinary Share
 RAAQU - Real Asset Acquisition Corp. - Unit
+RAAQW - Real Asset Acquisition Corp. - Warrants
 RAAX - VanEck Real Assets ETF
 RAC - Rithm Acquisition Corp. Class A Ordinary Shares
 RACE - Ferrari N.V. Common Shares
@@ -9053,6 +9056,7 @@ SLG - SL Green Realty Corp Common Stock
 SLGL - Sol-Gel Technologies Ltd. - Ordinary Shares
 SLGN - Silgan Holdings Inc. Common Stock
 SLI - Standard Lithium Ltd. Common Shares
+SLJY - Amplify ETF Trust Amplify SILJ Covered Call ETF
 SLM - SLM Corporation - Common Stock
 SLMBP - SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B
 SLN - Silence Therapeutics Plc - American Depository Share
@@ -9441,7 +9445,6 @@ STOK - Stoke Therapeutics, Inc. - Common Stock
 STOT - SPDR DoubleLine Short Duration Total Return Tactical ETF
 STOX - Horizon Funds Horizon Core Equity ETF
 STPZ - PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund
-STR - Sitio Royalties Corp. Class A Common Stock
 STRA - Strategic Education, Inc. - Common Stock
 STRC - Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock
 STRD - Strategy Inc - 10.00% Series A Perpetual Stride Preferred Stock
@@ -9707,8 +9710,7 @@ TEXN - iShares Texas Equity ETF
 TFC - Truist Financial Corporation Common Stock
 TFI - SPDR Nuveen ICE Municipal Bond ETF
 TFII - TFI International Inc. Common Shares
-TFIN - Triumph Financial, Inc. - Common Stock
-TFINP - Triumph Financial, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock
+TFIN - Triumph Financial, Inc. Common Stock
 TFJL - Innovator 20  Year Treasury Bond 5 Floor ETF - July
 TFLO - iShares Treasury Floating Rate Bond ETF
 TFLR - T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Floating Rate ETF
@@ -9772,6 +9774,9 @@ TIME - Tidal Trust II Clockwise Core Equity & Innovation ETF
 TINT - ProShares Smart Materials ETF
 TINY - ProShares Nanotechnology ETF
 TIP - iShares TIPS Bond ETF
+TIPA - Northern Funds Northern Trust 2030 Inflation-Linked Distributing Ladder ETF
+TIPB - Northern Funds Northern Trust 2035 Inflation-Linked Distributing Ladder ETF
+TIPC - Northern Funds Northern Trust 2045 Inflation-Linked Distributing Ladder ETF
 TIPT - Tiptree Inc. - Common Stock
 TIPX - SPDR Bloomberg 1-10 Year TIPS ETF
 TIPZ - PIMCO Broad U.S. TIPS Index Exchange-Traded Fund
@@ -9891,7 +9896,6 @@ TPGXL - TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064
 TPH - Tri Pointe Homes, Inc. Common Stock
 TPHD - Timothy Plan High Dividend Stock ETF
 TPHE - Timothy Plan High Dividend Stock Enhanced ETF
-TPIC - TPI Composites, Inc. - Common Stock
 TPIF - Timothy Plan International ETF
 TPL - Texas Pacific Land Corporation Common Stock
 TPLC - Timothy Plan US Large/Mid Cap Core ETF
