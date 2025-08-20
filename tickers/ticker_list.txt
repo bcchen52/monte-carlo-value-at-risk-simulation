@@ -969,7 +969,6 @@ BCDA - BioCardia, Inc. - Common Stock
 BCDF - Listed Funds Trust Horizon Kinetics Blockchain Development ETF
 BCE - BCE, Inc. Common Stock
 BCG - Binah Capital Group, Inc. - Common Stock
-BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHI - The 2023 ETF Series Trust II GMO Beyond China ETF
 BCHP - Principal Exchange-Traded Funds Principal Focused Blue Chip ETF
@@ -1622,7 +1621,7 @@ CART - Maplebear Inc. - Common Stock
 CARU - Bank Of Montreal MAX Auto Industry 3x Leveraged ETN
 CARV - Carver Bancorp, Inc. - Common Stock
 CARY - Angel Oak Income ETF
-CARZ - First Trust S-Network Electric & Future Vehicle Ecosystem ETF
+CARZ - First Trust S-Network Future Vehicles & Technology ETF
 CAS - Simplify Exchange Traded Funds Simplify China A Shares PLUS Income ETF
 CASH - Pathward Financial, Inc. - Common Stock
 CASI - CASI Pharmaceuticals, Inc. - Ordinary Shares
@@ -2192,7 +2191,6 @@ CREX - Creative Realities, Inc. - Common Stock
 CRF - Cornerstone Total Return Fund, Inc. (The) Common Stock
 CRGO - Freightos Limited - Ordinary shares
 CRGOW - Freightos Limited - Warrants
-CRGX - CARGO Therapeutics, Inc. - Common Stock
 CRGY - Crescent Energy Company Class A Common Stock
 CRH - CRH PLC Ordinary Shares
 CRI - Carter's, Inc. Common Stock
@@ -2640,7 +2638,6 @@ DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR - Drugs Made In America Acquisition Corp. - Rights
-DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
 DMAT - Global X Disruptive Materials ETF
@@ -3799,7 +3796,6 @@ FOX - Fox Corporation - Class B Common Stock
 FOXA - Fox Corporation - Class A Common Stock
 FOXF - Fox Factory Holding Corp. - Common Stock
 FOXX - Foxx Development Holdings Inc. - Common Stock
-FOXXW - Foxx Development Holdings Inc. - Warrant
 FOXY - Simplify Exchange Traded Funds Simplify Currency Strategy ETF
 FPA - First Trust Asia Pacific Ex-Japan AlphaDEX Fund
 FPAG - Investment Managers Series Trust III FPA Global Equity ETF
@@ -4465,7 +4461,6 @@ HAPI - Harbor Human Capital Factor US Large Cap ETF
 HAPS - Harbor Human Capital Factor US Small Cap ETF
 HAPY - Harbor Human Capital Factor Unconstrained ETF
 HARD - Simplify Exchange Traded Funds Simplify Commodities Strategy No K-1 ETF
-HART - NYLI Healthy Hearts ETF
 HAS - Hasbro, Inc. - Common Stock
 HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
@@ -4574,6 +4569,7 @@ HII - Huntington Ingalls Industries, Inc. Common Stock
 HIMS - Hims & Hers Health, Inc. Class A Common Stock
 HIMU - BlackRock ETF Trust II iShares High Yield Muni Active ETF
 HIMX - Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.
+HIMY - Defiance Leveraged Long Income HIMS ETF
 HIMZ - Defiance Daily Target 2X Long HIMS ETF
 HIND - Vyome Holdings, Inc. - Common Stock
 HIO - Western Asset High Income Opportunity Fund, Inc. Common Stock
@@ -4637,6 +4633,7 @@ HONDW - HCM II Acquisition Corp. - Warrant
 HONE - HarborOne Bancorp, Inc. - Common Stock
 HOOD - Robinhood Markets, Inc. - Class A Common Stock
 HOOG - Leverage Shares 2X Long HOOD Daily ETF
+HOOI - Defiance Leveraged Long Income HOOD ETF
 HOOW - Roundhill ETF Trust Roundhill HOOD WeeklyPay ETF
 HOOX - Defiance Daily Target 2X Long HOOD ETF
 HOOY - Tidal Trust II YieldMax HOOD Option Income Strategy ETF
@@ -5454,6 +5451,7 @@ JHG - Janus Henderson Group plc Ordinary Shares
 JHHY - John Hancock Exchange-Traded Fund Trust John Hancock High Yield ETF
 JHI - John Hancock Investors Trust Common Stock
 JHID - John Hancock Exchange-Traded Fund Trust John Hancock International High Dividend ETF
+JHLN - John Hancock Exchange-Traded Fund Trust John Hancock Global Senior Loan ETF
 JHMB - John Hancock Mortgage-Backed Securities ETF
 JHMD - John Hancock Exchange-Traded Fund Trust John Hancock Multifactor Developed International ETF
 JHML - John Hancock Multifactor Large Cap ETF
@@ -5499,6 +5497,7 @@ JOET - Virtus ETF Trust II Virtus Terranova U.S. Quality Momentum ETF
 JOF - Japan Smaller Capitalization Fund Inc Common Stock
 JOJO - ATAC Credit Rotation ETF
 JOUT - Johnson Outdoors Inc. - Class A Common Stock
+JOYT - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Equity and Options Total Return ETF
 JOYY - JOYY Inc. - American Depositary Shares
 JPAN - Matthews International Funds Matthews Japan Active ETF
 JPC - Nuveen Preferred & Income Opportunities Fund
@@ -6063,6 +6062,7 @@ LQDW - iShares Trust iShares Investment Grade Corporate Bond BuyWrite Strategy E
 LQIG - SPDR Series Trust SPDR MarketAxess Investment Grade 400 Corporate Bond ETF
 LQPE - Tidal Trust III PEO AlphaQuest Thematic PE ETF
 LQTI - First Trust Exchange-Traded Fund IV FT Vest Investment Grade & Target Income ETF
+LRCU - Tradr 2X Long LRCX Daily ETF
 LRCX - Lam Research Corporation - Common Stock
 LRE - Lead Real Estate Co., Ltd - American Depositary Shares
 LRGC - AB Active ETFs, Inc. AB US Large Cap Strategic Equities ETF
@@ -6275,6 +6275,7 @@ MDAI - Spectral AI, Inc. - Class A Common Stock
 MDAIW - Spectral AI, Inc. - Warrants
 MDB - MongoDB, Inc. - Class A Common Stock
 MDBH - MDB Capital Holdings, LLC - Class A common 
+MDBX - Tradr 2X Long MDB Daily ETF
 MDCX - Medicus Pharma Ltd. - Common Stock
 MDCXW - Medicus Pharma Ltd. - Warrant
 MDEV - First Trust Indxx Medical Devices ETF
@@ -7776,6 +7777,7 @@ PLPC - Preformed Line Products Company - Common Stock
 PLRX - Pliant Therapeutics, Inc. - Common Stock
 PLRZ - Polyrizon Ltd. - Ordinary Shares
 PLSE - Pulse Biosciences, Inc - Common Stock
+PLT - Defiance Leveraged Long Income PLTR ETF
 PLTD - Direxion Daily PLTR Bear 1X Shares
 PLTG - Leverage Shares 2X Long PLTR Daily ETF
 PLTK - Playtika Holding Corp. - Common Stock
@@ -7817,7 +7819,6 @@ PMO - Putnam Municipal Opportunities Trust Common Stock
 PMT - PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest
 PMTR - Perimeter Acquisition Corp. I - Class A Ordinary Shares
 PMTRU - Perimeter Acquisition Corp. I - Unit
-PMTRW - Perimeter Acquisition Corp. I - Warrant
 PMTS - CPI Card Group Inc. - Common Stock
 PMTU - PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028
 PMTV - PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030
@@ -7837,6 +7838,7 @@ PNRG - PrimeEnergy Resources Corporation - Common Stock
 PNTG - The Pennant Group, Inc. - Common Stock
 PNW - Pinnacle West Capital Corporation Common Stock
 POAI - Predictive Oncology Inc. - Common Stock
+POAS - Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares
 POCI - Precision Optics Corporation, Inc. - Common stock
 POCT - Innovator U.S. Equity Power Buffer ETF - October
 PODC - PodcastOne, Inc. - Common Stock
@@ -8922,6 +8924,7 @@ SGN - Signing Day Sports, Inc. Common Stock
 SGOL - abrdn Physical Gold Shares ETF
 SGOV - iShares 0-3 Month Treasury Bond ETF
 SGRP - SPAR Group, Inc. - Common Stock
+SGRT - Tidal Trust I SMART Earnings Growth 30 ETF
 SGRY - Surgery Partners, Inc. - Common Stock
 SGU - Star Group L.P. Common Stock
 SGVT - Schwab Strategic Trust Schwab Government Money Market ETF
@@ -9599,7 +9602,10 @@ TAVIU - Tavia Acquisition Corp. - Unit
 TAX - Cambria Tax Aware ETF
 TAXE - Intermediate Municipal Income ETF
 TAXF - American Century Diversified Municipal Bond ETF
+TAXI - Northern Trust Intermediate Tax-Exempt Bond ETF
 TAXM - BondBloxx ETF Trust BondBloxx IR+M Tax-Aware ETF for Massachusetts Residents
+TAXS - Northern Trust Short-Term Tax-Exempt Bond ETF
+TAXT - Northern Trust Tax-Exempt Bond ETF
 TAXX - BondBloxx ETF Trust BondBloxx IR+M Tax-Aware Short Duration ETF
 TAYD - Taylor Devices, Inc. - Common Stock
 TBB - AT&T Inc. 5.350% Global Notes due 2066
@@ -10372,6 +10378,7 @@ VEGA - AdvisorShares STAR Global Buy-Write ETF
 VEGI - iShares MSCI Agriculture Producers ETF
 VEGN - US Vegan Climate Index
 VEL - Velocity Financial, Inc. Common Stock
+VELO - Velo3D, Inc. - Common stock
 VEMY - Virtus ETF Trust II Virtus Stone Harbor Emerging Markets High Yield Bond ETF
 VENU - Venu Holding Corporation Common Stock
 VEON - VEON Ltd. - American Depositary Shares
@@ -11055,6 +11062,7 @@ YMAR - FT Vest International Equity Moderate Buffer ETF - March
 YMAT - J-Star Holding Co., Ltd. - Ordinary Shares
 YMAX - Tidal Trust II YieldMax Universe Fund of Option Income ETFs
 YMM - Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares)
+YMT - Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares
 YNOT - Horizon Digital Frontier ETF
 YOKE - YOKE Core ETF
 YOLO - AdvisorShares Pure Cannabis ETF
