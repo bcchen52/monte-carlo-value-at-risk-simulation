@@ -401,6 +401,7 @@ AMD - Advanced Micro Devices, Inc. - Common Stock
 AMDD - Direxion Daily AMD Bear 1X Shares
 AMDG - Leverage Shares 2X Long AMD Daily ETF
 AMDL - GraniteShares 2x Long AMD Daily ETF
+AMDU - Defiance Leveraged Long + Income AMD ETF
 AMDW - Roundhill ETF Trust Roundhill AMD WeeklyPay ETF
 AMDY - Tidal Trust II Yieldmax AMD Option Income Strategy ETF
 AME - AMETEK, Inc.
@@ -958,7 +959,9 @@ BBY - Best Buy Co., Inc. Common Stock
 BC - Brunswick Corporation Common Stock
 BCAB - BioAtla, Inc. - Common Stock
 BCAL - California BanCorp - Common Stock
+BCAR - D. Boral ARC Acquisition I Corp. - Class A Ordinary Shares
 BCARU - D. Boral ARC Acquisition I Corp. - Units
+BCARW - D. Boral ARC Acquisition I Corp. - Warrant
 BCAT - BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest
 BCAX - Bicara Therapeutics Inc. - Common Stock
 BCBP - BCB Bancorp, Inc. (NJ) - Common Stock
@@ -969,6 +972,7 @@ BCDA - BioCardia, Inc. - Common Stock
 BCDF - Listed Funds Trust Horizon Kinetics Blockchain Development ETF
 BCE - BCE, Inc. Common Stock
 BCG - Binah Capital Group, Inc. - Common Stock
+BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHI - The 2023 ETF Series Trust II GMO Beyond China ETF
 BCHP - Principal Exchange-Traded Funds Principal Focused Blue Chip ETF
@@ -2425,6 +2429,7 @@ DBEF - Xtrackers MSCI EAFE Hedged Equity ETF
 DBEM - Xtrackers MSCI Emerging Markets Hedged Equity ETF
 DBEU - Xtrackers MSCI Europe Hedged Equity ETF
 DBEZ - Xtrackers MSCI Eurozone Hedged Equity ETF
+DBGI - Digital Brands Group, Inc. - Common Stock
 DBI - Designer Brands Inc. Class A Common Stock
 DBJP - Xtrackers MSCI Japan Hedged Equity ETF
 DBL - DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest
@@ -3044,10 +3049,6 @@ EMBC - Embecta Corp. - Common Stock
 EMBD - Global X Emerging Markets Bond ETF
 EMC - Global X Funds Global X Emerging Markets Great Consumer ETF
 EMCB - WisdomTree Emerging Markets Corporate Bond Fund
-EMCG - Embrace Change Acquisition Corp - Ordinary Shares
-EMCGR - Embrace Change Acquisition Corp - Rights
-EMCGU - Embrace Change Acquisition Corp - Units
-EMCGW - Embrace Change Acquisition Corp - Warrants
 EMCR - Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF
 EMCS - Xtrackers MSCI Emerging Markets Climate Selection ETF
 EMD - Western Asset Emerging Markets Debt Fund Inc Common Stock
@@ -4260,7 +4261,6 @@ GOCO - GoHealth, Inc. - Class A Common Stock
 GOCT - FT Vest U.S. Equity Moderate Buffer ETF - October
 GOEX - Global X Gold Explorers ETF
 GOF - Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest
-GOGL - Golden Ocean Group Limited - Common Stock
 GOGO - Gogo Inc. - Common Stock
 GOLF - Acushnet Holdings Corp. Common Stock
 GOLY - Strategy Shares Gold Enhanced Yield ETF
@@ -5442,6 +5442,7 @@ JGLO - JPMorgan Global Select Equity ETF
 JGRO - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Growth ETF
 JGRW - Trust for Professional Managers Jensen Quality Growth ETF
 JHAC - John Hancock Exchange-Traded Fund Trust John Hancock Fundamental All Cap Core ETF
+JHAI - Janus Henderson Global Artificial Intelligence ETF
 JHCB - John Hancock Corporate Bond ETF
 JHCP - John Hancock Exchange-Traded Fund Trust John Hancock Core Plus Bond ETF
 JHCR - John Hancock Exchange-Traded Fund Trust John Hancock Core Bond ETF
@@ -5841,14 +5842,12 @@ LCTX - Lineage Cell Therapeutics, Inc. Common Stock
 LCUT - Lifetime Brands, Inc. - Common Stock
 LDDR - LifeX 2035 Term Income ETF
 LDEM - iShares ESG MSCI EM Leaders ETF
-LDER - LifeX 2040 Term Income ETF
 LDI - loanDepot, Inc. Class A Common Stock
 LDOS - Leidos Holdings, Inc. Common Stock
 LDP - Cohen & Steers Limited Duration Preferred and Income Fund, Inc.
 LDRC - iShares Trust iShares iBonds 1-5 Year Corporate Ladder ETF
 LDRH - iShares Trust iShares iBonds 1-5 Year High Yield  and Income Ladder ETF
 LDRI - iShares Trust iShares iBonds 1-5 Year TIPS Ladder ETF
-LDRR - LifeX 2045 Term Income ETF
 LDRT - iShares Trust iShares iBonds 1-5 Year Treasury Ladder ETF
 LDRX - SGI Enhanced Market Leaders ETF
 LDSF - First Trust Low Duration Strategic Focus ETF
@@ -7819,6 +7818,7 @@ PMO - Putnam Municipal Opportunities Trust Common Stock
 PMT - PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest
 PMTR - Perimeter Acquisition Corp. I - Class A Ordinary Shares
 PMTRU - Perimeter Acquisition Corp. I - Unit
+PMTRW - Perimeter Acquisition Corp. I - Warrant
 PMTS - CPI Card Group Inc. - Common Stock
 PMTU - PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028
 PMTV - PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030
@@ -9078,6 +9078,7 @@ SLRX - Salarius Pharmaceuticals, Inc. - Common Stock
 SLS - SELLAS Life Sciences Group, Inc.  - Common Stock
 SLSN - Solesence, Inc. - Common stock
 SLSR - Solaris Resources Inc. Common Shares
+SLTY - Tidal Trust II YieldMax Ultra Short Option Income Strategy ETF
 SLV - iShares Silver Trust
 SLVM - Sylvamo Corporation Common Stock
 SLVO - ETRACS Silver Shares Covered Call ETNs due April 21, 2033
@@ -9098,6 +9099,7 @@ SMBC - Southern Missouri Bancorp, Inc. - Common Stock
 SMBK - SmartFinancial, Inc. Common Stock
 SMBS - Schwab Strategic Trust Schwab Mortgage-Backed Securities ETF
 SMC - Summit Midstream Corporation Common Stock
+SMCC - Defiance Leveraged Long + Income SMCI ETF
 SMCF - Themes US Small Cap Cash Flow Champions ETF
 SMCI - Super Micro Computer, Inc. - Common Stock
 SMCL - GraniteShares 2x Long SMCI Daily ETF
@@ -9454,6 +9456,7 @@ STRD - Strategy Inc - 10.00% Series A Perpetual Stride Preferred Stock
 STRF - Strategy Inc - 10.00% Series A Perpetual Strife Preferred Stock
 STRK - Strategy Inc - 8.00% Series A Perpetual Strike Preferred Stock
 STRL - Sterling Infrastructure, Inc. - Common Stock
+STRN - Tidal Trust I SMART Trend 25 ETF
 STRO - Sutro Biopharma, Inc. - Common Stock
 STRR - Star Equity Holdings, Inc. - Common Stock
 STRRP - Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock
@@ -9783,6 +9786,7 @@ TIP - iShares TIPS Bond ETF
 TIPA - Northern Funds Northern Trust 2030 Inflation-Linked Distributing Ladder ETF
 TIPB - Northern Funds Northern Trust 2035 Inflation-Linked Distributing Ladder ETF
 TIPC - Northern Funds Northern Trust 2045 Inflation-Linked Distributing Ladder ETF
+TIPD - Northern Funds Northern Trust 2055 Inflation-Linked Distributing Ladder ETF
 TIPT - Tiptree Inc. - Common Stock
 TIPX - SPDR Bloomberg 1-10 Year TIPS ETF
 TIPZ - PIMCO Broad U.S. TIPS Index Exchange-Traded Fund
@@ -10717,7 +10721,6 @@ WINA - Winmark Corporation - Common Stock
 WINC - Western Asset Short Duration Income ETF
 WING - Wingstop Inc. - Common Stock
 WINN - Harbor ETF Trust Harbor Long-Term Growers ETF
-WINT - Windtree Therapeutics, Inc. - Common Stock
 WIP - SPDR FTSE International Government Inflation-Protected Bond ETF
 WISE - Themes Generative Artificial Intelligence ETF
 WIT - Wipro Limited Common Stock
