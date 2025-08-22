@@ -133,7 +133,6 @@ ADBE - Adobe Inc. - Common Stock
 ADBG - Leverage Shares 2X Long ADBE Daily ETF
 ADC - Agree Realty Corporation Common Stock
 ADCT - ADC Therapeutics SA Common Shares
-ADD - Color Star Technology Co., Ltd. - Class A Ordinary Shares
 ADEA - Adeia Inc.  - Common Stock
 ADFI - Anfield Dynamic Fixed Income ETF
 ADGM - Adagio Medical Holdings, Inc - Common Stock
@@ -874,6 +873,7 @@ BAFN - BayFirst Financial Corp. - Common Stock
 BAGY - Amplify ETF Trust Amplify Bitcoin Max Income Covered Call ETF
 BAH - Booz Allen Hamilton Holding Corporation Common Stock
 BAI - BlackRock ETF Trust iShares A.I. Innovation and Tech Active ETF
+BAIG - Leverage Shares 2X Long BBAI Daily ETF
 BAK - Braskem SA ADR
 BALI - iShares Advantage Large Cap Income ETF
 BALL - Ball Corporation Common Stock
@@ -1363,7 +1363,6 @@ BRKU - Direxion Daily BRKB Bull 2X Shares
 BRKW - Roundhill ETF Trust Roundhill BRKB WeeklyPay ETF
 BRLN - iShares Floating Rate Loan Active ETF
 BRLS - Borealis Foods Inc. - Class A Common Shares
-BRLSW - Borealis Foods Inc. - Warrant
 BRLT - Brilliant Earth Group, Inc. - Class A Common Stock
 BRN - Barnwell Industries, Inc. Common Stock
 BRNS - Barinthus Biotherapeutics plc - American Depositary Shares
@@ -1759,6 +1758,7 @@ CENT - Central Garden & Pet Company - Common Stock
 CENTA - Central Garden & Pet Company - Class A Common Stock Nonvoting
 CENX - Century Aluminum Company - Common Stock
 CEP - Cantor Equity Partners, Inc. - Class A ordinary shares
+CEPF - Cantor Equity Partners IV, Inc. - Class A Ordinary Shares
 CEPI - REX Crypto Equity Premium Income ETF
 CEPO - Cantor Equity Partners I, Inc. - Class A Ordinary Shares
 CEPT - Cantor Equity Partners II, Inc. - Class A ordinary share
@@ -2643,6 +2643,7 @@ DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR - Drugs Made In America Acquisition Corp. - Rights
+DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
 DMAT - Global X Disruptive Materials ETF
@@ -3240,6 +3241,7 @@ ETON - Eton Pharmaceuticals, Inc. - Common Stock
 ETOR - eToro Group Ltd. - Class A Common Shares
 ETQ - T-Rex 2X Inverse Ether Daily Target ETF
 ETR - Entergy Corporation Common Stock
+ETS - Elite Express Holding Inc. - Class A Common Stock
 ETSY - Etsy, Inc. - Common Stock
 ETU - T-Rex 2X Long Ether Daily Target ETF
 ETV - Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest
@@ -4187,6 +4189,7 @@ GLDI - ETRACS Gold Shares Covered Call ETNs due February 2, 2033
 GLDM - SPDR Gold MiniShares Trust
 GLDY - Defiance Gold Enhanced Options Income ETF
 GLE - Global Engine Group Holding Limited - Class A Ordinary Shares
+GLGG - Leverage Shares 2X Long GLXY Daily ETF
 GLIBA - GCI Liberty, Inc. - Series A GCI Group Common Stock
 GLIBK - GCI Liberty, Inc. - Series C GCI Group Common Stock
 GLIN - VanEck India Growth Leaders ETF
@@ -4653,7 +4656,6 @@ HPE - Hewlett Packard Enterprise Company Common Stock
 HPF - John Hancock Pfd Income Fund II Pfd Income Fund II
 HPI - John Hancock Preferred Income Fund Common Shares of Beneficial Interest
 HPK - HighPeak Energy, Inc. - Common Stock
-HPKEW - HighPeak Energy, Inc. - Warrant
 HPP - Hudson Pacific Properties, Inc. Common Stock
 HPQ - HP Inc. Common Stock
 HPS - John Hancock Preferred Income Fund III Preferred Income Fund III
@@ -5755,7 +5757,6 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
-KTTAW - Pasithea Therapeutics Corp. - Warrant
 KUKE - Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares)
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -9224,7 +9225,7 @@ SONY - Sony Group Corporation American Depositary Shares
 SOPA - Society Pass Incorporated - Common Stock
 SOPH - SOPHiA GENETICS SA - Ordinary Shares
 SOR - Source Capital, Inc. Cmn Shs of BI
-SORA - Top Win International Limited - Ordinary Shares
+SORA - AsiaStrategy - Ordinary Shares
 SOS - SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares
 SOTK - Sono-Tek Corporation - Common Stock
 SOUL - Soulpower Acquisition Corporation Class A Ordinary Shares
@@ -9458,8 +9459,6 @@ STRK - Strategy Inc - 8.00% Series A Perpetual Strike Preferred Stock
 STRL - Sterling Infrastructure, Inc. - Common Stock
 STRN - Tidal Trust I SMART Trend 25 ETF
 STRO - Sutro Biopharma, Inc. - Common Stock
-STRR - Star Equity Holdings, Inc. - Common Stock
-STRRP - Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock
 STRS - Stratus Properties Inc. - Common Stock
 STRT - STRATTEC SECURITY CORPORATION - Common Stock
 STRV - EA Series Trust Strive 500 ETF
@@ -9961,9 +9960,11 @@ TRT - Trio-Tech International Common Stock
 TRTX - TPG RE Finance Trust, Inc. Common Stock
 TRTY - Cambria Trinity ETF
 TRU - TransUnion Common Stock
+TRUD - VanEck Consumer Discretionary TruSector ETF
 TRUE - TrueCar, Inc. - Common Stock
 TRUG - TruGolf Holdings, Inc. - Class A Common Stock
 TRUP - Trupanion, Inc. - Common Stock
+TRUT - VanEck Technology TruSector ETF
 TRV - The Travelers Companies, Inc. Common Stock
 TRVG - trivago N.V. - American Depositary Shares
 TRVI - Trevi Therapeutics, Inc. - Common Stock
@@ -10323,7 +10324,6 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
-UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -11139,6 +11139,7 @@ ZLAB - Zai Lab Limited - American Depositary Shares
 ZM - Zoom Communications, Inc. - Class A Common Stock
 ZMAR - Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr March
 ZMAY - Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr May
+ZNB - Zeta Network Group - Class A Ordinary Shares
 ZNOV - Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr November
 ZNTL - Zentalis Pharmaceuticals, Inc. - common stock
 ZOCT - Innovator Equity Defined Protection ETF - 1 Yr October
