@@ -1687,7 +1687,9 @@ CCGWW - Cheche Group Inc. - Warrant
 CCI - Crown Castle Inc. Common Stock
 CCIA - Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028
 CCIF - Carlyle Credit Income Fund Shares of Beneficial Interest
+CCII - Cohen Circle Acquisition Corp. II - Class A Ordinary Shares
 CCIIU - Cohen Circle Acquisition Corp. II - Unit
+CCIIW - Cohen Circle Acquisition Corp. II - Warrant
 CCIX - Churchill Capital Corp IX - Ordinary Shares
 CCIXU - Churchill Capital Corp IX - Unit
 CCIXW - Churchill Capital Corp IX - Warrant
@@ -3263,6 +3265,7 @@ EURL - Direxion Daily FTSE Europe Bull 3x Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
 EUSB - iShares ESG Advanced Total USD Bond Market ETF
 EUSM - Strategy Shares Eventide US Market ETF
+EVAC - EQV Ventures Acquisition Corp. II Class A Ordinary Shares
 EVAV - Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares
 EVAX - Evaxion A/S - American Depositary Share
 EVC - Entravision Communications Corporation Common Stock
@@ -3799,6 +3802,7 @@ FOX - Fox Corporation - Class B Common Stock
 FOXA - Fox Corporation - Class A Common Stock
 FOXF - Fox Factory Holding Corp. - Common Stock
 FOXX - Foxx Development Holdings Inc. - Common Stock
+FOXXW - Foxx Development Holdings Inc. - Warrant
 FOXY - Simplify Exchange Traded Funds Simplify Currency Strategy ETF
 FPA - First Trust Asia Pacific Ex-Japan AlphaDEX Fund
 FPAG - Investment Managers Series Trust III FPA Global Equity ETF
@@ -3945,7 +3949,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4688,6 +4691,7 @@ HSIC - Henry Schein, Inc. - Common Stock
 HSII - Heidrick & Struggles International, Inc. - Common Stock
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
 HSON - Hudson Global, Inc. - Common Stock
+HSONP - Hudson Global, Inc. - 10% Series A Cumulative Perpetual Preferred Stock
 HSPO - Horizon Space Acquisition I Corp. - Ordinary Shares
 HSPOR - Horizon Space Acquisition I Corp. - Right
 HSPOU - Horizon Space Acquisition I Corp. - Unit
@@ -5830,6 +5834,7 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone ETF Trust Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
+LCFYW - Locafy Limited - Warrant
 LCG - Sterling Capital Focus Equity ETF
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
@@ -6079,7 +6084,6 @@ LSAK - Lesaka Technologies, Inc. - Common Stock
 LSAT - LeaderShares AlphaFactor Tactical Focused ETF
 LSB - LakeShore Biopharma Co., Ltd - Ordinary Shares
 LSBK - Lake Shore Bancorp, Inc. - Common Stock
-LSBPW - LakeShore Biopharma Co., Ltd - Warrants
 LSCC - Lattice Semiconductor Corporation - Common Stock
 LSE - Leishen Energy Holding Co., Ltd. - Ordinary Shares
 LSEQ - Harbor ETF Trust Harbor Long-Short Equity ETF
@@ -7206,7 +7210,6 @@ OAKM - Harris Oakmark ETF Trust Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
-OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - Unified Series Trust OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - Unified Series Trust OneAscent Small Cap Core ETF
@@ -7672,7 +7675,6 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
-PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -8257,7 +8259,6 @@ RADX - Radiopharm Theranostics Limited - American Depositary Shares
 RAFE - PIMCO RAFI ESG U.S. ETF
 RAIL - Freightcar America, Inc. - Common Stock
 RAIN - Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock
-RAINW - Rain Enhancement Technologies Holdco, Inc. - Warrants
 RAL - Ralliant Corporation Common Stock
 RAMP - LiveRamp Holdings, Inc. Common Stock
 RAND - Rand Capital Corporation - Closed End Fund
@@ -10042,7 +10043,6 @@ TV - Grupo Televisa S.A.B. Common Stock
 TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
-TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
 TVAL - T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Value ETF
 TVC - Tennessee Valley Authority Common Stock
@@ -10484,7 +10484,9 @@ VNET - VNET Group, Inc. - American Depositary Shares
 VNIE - The Advisors Inner Circle Fund II Vontobel International Equity Active ETF
 VNLA - Janus Henderson Short Duration Income ETF
 VNM - VanEck Vietnam ETF
+VNME - Vendome Acquisition Corporation I - Class A Ordinary Shares
 VNMEU - Vendome Acquisition Corporation I - Unit
+VNMEW - Vendome Acquisition Corporation I - Warrant
 VNO - Vornado Realty Trust Common Stock
 VNOM - Viper Energy, Inc.  - Class A Common Stock
 VNQ - Vanguard Real Estate ETF
