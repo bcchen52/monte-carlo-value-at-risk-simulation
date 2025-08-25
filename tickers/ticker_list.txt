@@ -842,7 +842,6 @@ AXSM - Axsome Therapeutics, Inc. - Common Stock
 AXTA - Axalta Coating Systems Ltd. Common Shares
 AXTI - AXT Inc - Common Stock
 AYI - Acuity Inc. Common Stock
-AYRO - AYRO, Inc. - Common Stock
 AYTU - Aytu BioPharma, Inc.  - Common Stock
 AZ - A2Z Cust2Mate Solutions Corp. - Common Shares
 AZI - Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares
@@ -977,6 +976,7 @@ BCH - Banco De Chile ADS
 BCHI - The 2023 ETF Series Trust II GMO Beyond China ETF
 BCHP - Principal Exchange-Traded Funds Principal Focused Blue Chip ETF
 BCI - abrdn Bloomberg All Commodity Strategy K-1 Free ETF
+BCIC - BCP Investment Corporation - Closed End Fund
 BCIL - Exchange Listed Funds Trust Bancreek International Large Cap ETF
 BCIM - abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF
 BCLO - iShares BBB-B CLO Active ETF
@@ -6201,7 +6201,6 @@ MATH - Metalpha Technology Holding Limited - Ordinary Shares
 MATV - Mativ Holdings, Inc. Common Stock
 MATW - Matthews International Corporation - Class A Common Stock
 MATX - Matson, Inc. Common Stock
-MAV - Pioneer Municipal High Income Advantage Fund, Inc.
 MAVF - EA Series Trust Matrix Advisors Value ETF
 MAX - MediaAlpha, Inc. Class A Common Stock
 MAXI - Simplify Bitcoin Strategy PLUS Income ETF
@@ -6387,7 +6386,6 @@ MH - McGraw Hill, Inc. Common Stock
 MHD - Blackrock MuniHoldings Fund, Inc. Common Stock
 MHF - Western Asset Municipal High Income Fund, Inc. Common Stock
 MHH - Mastech Digital, Inc Common Stock
-MHI - Pioneer Municipal High Income Fund, Inc.
 MHK - Mohawk Industries, Inc. Common Stock
 MHLA - Maiden Holdings, Ltd. 6.625% Notes due 2046
 MHN - Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock
@@ -6411,7 +6409,6 @@ MINN - Trust for Professional Managers Mairs & Power Minnesota Municipal Bond ET
 MINO - PIMCO Municipal Income Opportunities Active Exchange-Traded Fund
 MINT - PIMCO Enhanced Short Maturity Active Exchange-Traded Fund
 MINV - Matthews International Funds Matthews Asia Innovators Active ETF
-MIO - Pioneer Municipal High Income Opportunities Fund, Inc. Common Stock
 MIR - Mirion Technologies, Inc. Class A Common Stock
 MIRA - MIRA Pharmaceuticals, Inc. - Common Stock
 MIRM - Mirum Pharmaceuticals, Inc. - common stock
@@ -7841,7 +7838,6 @@ PNRG - PrimeEnergy Resources Corporation - Common Stock
 PNTG - The Pennant Group, Inc. - Common Stock
 PNW - Pinnacle West Capital Corporation Common Stock
 POAI - Predictive Oncology Inc. - Common Stock
-POAS - Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares
 POCI - Precision Optics Corporation, Inc. - Common stock
 POCT - Innovator U.S. Equity Power Buffer ETF - October
 PODC - PodcastOne, Inc. - Common Stock
@@ -8005,7 +8001,6 @@ PTA - Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common 
 PTBD - Pacer Trendpilot US Bond ETF
 PTC - PTC Inc. - Common Stock
 PTCT - PTC Therapeutics, Inc. - Common Stock
-PTEC - Global X PropTech ETF
 PTEN - Patterson-UTI Energy, Inc. - Common Stock
 PTEU - Pacer TrendpilotTM European Index ETF
 PTF - Invesco Dorsey Wright Technology Momentum ETF
@@ -8022,7 +8017,6 @@ PTLC - Pacer Fund Trust Pacer Trendpilot US Large Cap ETF
 PTLE - PTL LTD - Class A Ordinary Shares
 PTLO - Portillo's Inc. - Class A Common Stock
 PTMC - Pacer Trendpilot US Mid Cap ETF
-PTMN - Portman Ridge Finance Corporation - Closed End Fund
 PTNM - Pitanium Limited - Class A Ordinary Shares
 PTNQ - Pacer Trendpilot 100 ETF
 PTON - Peloton Interactive, Inc. - Common Stock
@@ -8102,7 +8096,6 @@ QCOM - QUALCOMM Incorporated - Common Stock
 QCON - American Century ETF Trust American Century Quality Convertible Securities ETF
 QCRH - QCR Holdings, Inc. - Common Stock
 QD - Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share
-QDCC - Global X Funds Global X S&P 500 Quality Dividend Covered Call ETF
 QDEC - FT Vest Nasdaq-100 Buffer ETF - December
 QDEF - FlexShares Quality Dividend Defensive Index Fund
 QDEL - QuidelOrtho Corporation - Common Stock
@@ -8269,7 +8262,6 @@ RANI - Rani Therapeutics Holdings, Inc. - Class A Common Stock
 RAPP - Rapport Therapeutics, Inc. - Common Stock
 RAPT - RAPT Therapeutics, Inc. - Common Stock
 RARE - Ultragenyx Pharmaceutical Inc. - Common Stock
-RATE - Global X Funds Global X Interest Rate Hedge ETF
 RAVE - Rave Restaurant Group, Inc. - Common Stock
 RAVI - FlexShares Ultra-Short Income Fund
 RAY - Raytech Holding Limited - ordinary shares
@@ -8278,7 +8270,6 @@ RAYC - Rayliant Quantamental China Equity ETF
 RAYD - The Advisors' Inner Circle Fund III Rayliant Quantitative Developed Market Equity ETF
 RAYE - Rayliant Quantamental Emerging Market ex-China Equity ETF
 RAYJ - The Advisors' Inner Circle Fund III Rayliant SMDAM Japan Equity ETF
-RAYS - Global X Solar ETF
 RB - ProShares Trust ProShares Russell 2000 Dynamic Buffer ETF
 RBA - RB Global, Inc. Common Stock
 RBB - RBB Bancorp - Common Stock
@@ -8741,6 +8732,7 @@ SBIL - Simplify Exchange Traded Funds Simplify Government Money Market ETF
 SBIO - ALPS Medical Breakthroughs ETF
 SBIT - ProShares Trust ProShares UltraShort Bitcoin ETF
 SBLK - Star Bulk Carriers Corp. - Common Shares
+SBLX - StableX Technologies, Inc. - Common Stock
 SBND - Columbia Short Duration Bond ETF
 SBR - Sabine Royalty Trust Common Stock
 SBRA - Sabra Health Care REIT, Inc. - Common Stock
@@ -10645,7 +10637,6 @@ WBIF - WBI BullBear Value 3000 ETF
 WBIG - WBI BullBear Yield 3000 ETF
 WBIL - WBI BullBear Quality 3000 ETF
 WBIY - WBI Power Factor High Dividend ETF
-WBND - Western Asset Total Return ETF
 WBS - Webster Financial Corporation Common Stock
 WBTN - WEBTOON Entertainment Inc. - Common stock
 WBUY - WEBUY GLOBAL LTD. - Class A Ordinary Shares
@@ -10658,7 +10649,7 @@ WCME - First Trust Exchange-Traded Fund First Trust WCM Developing World Equity 
 WCMI - First Trust Exchange-Traded Fund First Trust WCM International Equity ETF
 WCN - Waste Connections, Inc. Common Shares
 WCPB - Northern Lights Fund Trust II Weitz Core Plus Bond ETF
-WCT - Wellchange Holdings Company Limited - Ordinary shares
+WCT - Wellchange Holdings Company Limited - Class A Ordinary shares
 WD - Walker & Dunlop, Inc Common Stock
 WDAY - Workday, Inc. - Class A Common Stock
 WDC - Western Digital Corporation - Common Stock
@@ -10720,7 +10711,6 @@ WILC - G. Willi-Food International,  Ltd. - Ordinary Shares
 WILD - Tidal Trust III VistaShares Animal Spirits Daily 2X Strategy ETF
 WIMI - WiMi Hologram Cloud Inc. - Class B Ordinary Shares
 WINA - Winmark Corporation - Common Stock
-WINC - Western Asset Short Duration Income ETF
 WING - Wingstop Inc. - Common Stock
 WINN - Harbor ETF Trust Harbor Long-Term Growers ETF
 WIP - SPDR FTSE International Government Inflation-Protected Bond ETF
@@ -10754,7 +10744,6 @@ WMK - Weis Markets, Inc. Common Stock
 WMS - Advanced Drainage Systems, Inc. Common Stock
 WMT - Walmart Inc. Common Stock
 WNC - Wabash National Corporation Common Stock
-WNDY - Global X Wind Energy ETF
 WNEB - Western New England Bancorp, Inc. - Common Stock
 WNS - WNS (Holdings) Limited Ordinary Shares
 WNTR - Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF
@@ -11025,7 +11014,6 @@ XYF - X Financial American Depositary Shares, each representing six Class A Ordi
 XYL - Xylem Inc. Common Stock New
 XYLD - Global X Funds Global X S&P 500 Covered Call ETF
 XYLG - Global X S&P 500 Covered Call & Growth ETF
-XYLO - Xylo Technologies Ltd. - American Depositary Shares
 XYZ - Block, Inc. Class A Common Stock,
 XYZG - Leverage Shares 2X Long XYZ Daily ETF
 XYZY - Tidal Trust II YieldMax XYZ Option Income Strategy ETF
