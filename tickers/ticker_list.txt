@@ -272,6 +272,8 @@ AIFU - AIFU Inc. - Class A Ordinary Share
 AIG - American International Group, Inc. New Common Stock
 AIHS - Senmiao Technology Limited - Common Stock
 AII - American Integrity Insurance Group, Inc. Common Stock
+AIIO - Robo.ai Inc. - Class B Ordinary Shares
+AIIOW - Robo.ai Inc. - Warrant
 AIM - AIM ImmunoTech Inc. Common Stock
 AIMD - Ainos, Inc. - Common Stock
 AIMDW - Ainos, Inc. - warrants
@@ -2661,7 +2663,6 @@ DMX - DoubleLine ETF Trust DoubleLine Multi-Sector Income ETF
 DMXF - iShares ESG Advanced MSCI EAFE ETF
 DMYY - dMY Squared Technology Group, Inc. Class A Common Stock
 DNA - Ginkgo Bioworks Holdings, Inc. Class A Common Stock
-DNB - Dun & Bradstreet Holdings, Inc. Common Stock
 DNL - WisdomTree Global ex-US Quality Dividend Growth Fund
 DNLI - Denali Therapeutics Inc. - Common Stock
 DNN - Denison Mines Corp Ordinary Shares (Canada)
@@ -3949,6 +3950,7 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
+FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4176,6 +4178,7 @@ GJT - Synthetic Fixed-Income Securities, Inc. Floating Rate Structured Repackage
 GJUL - FT Vest U.S. Equity Moderate Buffer ETF - July
 GJUN - FT Vest U.S. Equity Moderate Buffer ETF - June
 GK - AdvisorShares Gerber Kawasaki ETF
+GKAT - Scharf Global Opportunity ETF
 GKOS - Glaukos Corporation Common Stock
 GL - Globe Life Inc. Common Stock
 GLAD - Gladstone Capital Corporation - Closed End Fund
@@ -5186,7 +5189,6 @@ IPCX - Inflection Point Acquisition Corp. III - Class A ordinary shares
 IPCXR - Inflection Point Acquisition Corp. III - Rights
 IPCXU - Inflection Point Acquisition Corp. III - Units
 IPDN - Professional Diversity Network, Inc. - Common Stock
-IPDP - Listed Funds Trust Dividend Performers ETF
 IPG - Interpublic Group of Companies, Inc. (The) Common Stock
 IPGP - IPG Photonics Corporation - Common Stock
 IPHA - Innate Pharma S.A. - American Depositary Shares
@@ -5198,7 +5200,6 @@ IPOD - Dune Acquisition Corporation II - Class A ordinary shares
 IPODU - Dune Acquisition Corporation II - Units
 IPODW - Dune Acquisition Corporation II - Warrants
 IPOS - Renaissance Capital Greenwich Fund
-IPPP - Listed Funds Trust Preferred-Plus ETF
 IPSC - Century Therapeutics, Inc. - Common Stock
 IPW - iPower Inc. - Common Stock
 IPWR - Ideal Power Inc. - Common Stock
@@ -5583,6 +5584,7 @@ KAPR - Innovator U.S. Small Cap Power Buffer ETF - April
 KAR - OPENLANE, Inc. Common Stock
 KARO - Karooooo Ltd. - Ordinary shares
 KARS - KraneShares Electric Vehicles and Future Mobility Index ETF
+KAT - Scharf ETF
 KAUG - Innovator ETFs Trust Innovator US Small Cap Power Buffer ETF - August
 KAVL - Kaival Brands Innovations Group, Inc. - Common Stock
 KB - KB Financial Group Inc
@@ -6084,6 +6086,7 @@ LSAK - Lesaka Technologies, Inc. - Common Stock
 LSAT - LeaderShares AlphaFactor Tactical Focused ETF
 LSB - LakeShore Biopharma Co., Ltd - Ordinary Shares
 LSBK - Lake Shore Bancorp, Inc. - Common Stock
+LSBPW - LakeShore Biopharma Co., Ltd - Warrants
 LSCC - Lattice Semiconductor Corporation - Common Stock
 LSE - Leishen Energy Holding Co., Ltd. - Ordinary Shares
 LSEQ - Harbor ETF Trust Harbor Long-Short Equity ETF
@@ -6270,7 +6273,6 @@ MCRP - Micropolis Holding Company Ordinary Shares
 MCS - Marcus Corporation (The) Common Stock
 MCSE - Franklin Sustainable International Equity ETF
 MCTR - CTRL Group Limited - ordinary shares
-MCVT - Mill City Ventures III, Ltd. - Common Stock
 MCW - Mister Car Wash, Inc. - Common Stock
 MCY - Mercury General Corporation Common Stock
 MD - Pediatrix Medical Group, Inc. Common Stock
@@ -7151,8 +7153,6 @@ NWPX - NWPX Infrastructure, Inc. - Common Stock
 NWS - News Corporation - Class B Common Stock
 NWSA - News Corporation - Class A Common Stock
 NWTG - Newton Golf Company, Inc. - Common Stock
-NWTN - NWTN Inc. - Class B Ordinary Shares
-NWTNW - NWTN Inc. - Warrant
 NX - Quanex Building Products Corporation Common Stock
 NXC - Nuveen California Select Tax-Free Income Portfolio Common Stock
 NXDR - Nextdoor Holdings, Inc. Class A Common Stock
@@ -8072,6 +8072,7 @@ PZT - Invesco New York AMT-Free Municipal Bond ETF
 PZZA - Papa John's International, Inc. - Common Stock
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
 QAI - NYLI Hedge Multi-Strategy Tracker ETF
+QALT - SEI DBi Multi-Strategy Alternative ETF
 QARP - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF
 QAT - iShares MSCI Qatar ETF
 QB - ProShares Nasdaq-100 Dynamic Buffer ETF
@@ -8252,6 +8253,7 @@ RADX - Radiopharm Theranostics Limited - American Depositary Shares
 RAFE - PIMCO RAFI ESG U.S. ETF
 RAIL - Freightcar America, Inc. - Common Stock
 RAIN - Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock
+RAINW - Rain Enhancement Technologies Holdco, Inc. - Warrants
 RAL - Ralliant Corporation Common Stock
 RAMP - LiveRamp Holdings, Inc. Common Stock
 RAND - Rand Capital Corporation - Closed End Fund
@@ -9478,6 +9480,7 @@ SU - Suncor Energy  Inc. Common Stock
 SUB - iShares Short-Term National Muni Bond ETF
 SUGP - SU Group Holdings Limited - Ordinary Shares
 SUI - Sun Communities, Inc. Common Stock
+SUIG - Sui Group Holdings Limited - Common Stock
 SUN - Sunoco LP Common Units representing limited partner interests
 SUNE - SUNation Energy, Inc. - Common Stock
 SUNS - Sunrise Realty Trust, Inc. - Common Stock
@@ -10035,6 +10038,7 @@ TV - Grupo Televisa S.A.B. Common Stock
 TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
+TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
 TVAL - T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Value ETF
 TVC - Tennessee Valley Authority Common Stock
@@ -10316,6 +10320,7 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
+UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -10731,7 +10736,6 @@ WLDR - Affinity World Leaders Equity ETF
 WLDS - Wearable Devices Ltd. - Ordinary Share
 WLDSW - Wearable Devices Ltd. - Warrant
 WLFC - Willis Lease Finance Corporation - Common Stock
-WLGS - Wang & Lee Group, Inc. - Ordinary Shares
 WLK - Westlake Corporation Common Stock
 WLKP - Westlake Chemical Partners LP Common Units representing limited partner interests
 WLTG - ETF Opportunities Trust WealthTrust DBS Long Term Growth ETF
