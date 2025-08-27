@@ -1365,6 +1365,7 @@ BRKU - Direxion Daily BRKB Bull 2X Shares
 BRKW - Roundhill ETF Trust Roundhill BRKB WeeklyPay ETF
 BRLN - iShares Floating Rate Loan Active ETF
 BRLS - Borealis Foods Inc. - Class A Common Shares
+BRLSW - Borealis Foods Inc. - Warrant
 BRLT - Brilliant Earth Group, Inc. - Class A Common Stock
 BRN - Barnwell Industries, Inc. Common Stock
 BRNS - Barinthus Biotherapeutics plc - American Depositary Shares
@@ -2314,6 +2315,7 @@ CURI - CuriosityStream Inc.  - Class A Common Stock
 CURIW - CuriosityStream Inc.  - Warrant
 CURR - Currenc Group Inc. - Ordinary Shares
 CURV - Torrid Holdings Inc. Common Stock
+CURX - Curanex Pharmaceuticals Inc - Common Stock
 CUT - Invesco MSCI Global Timber ETF
 CUZ - Cousins Properties Incorporated Common Stock
 CV - CapsoVision, Inc. - Common Stock
@@ -2499,7 +2501,6 @@ DERM - Journey Medical Corporation - Common Stock
 DES - WisdomTree U.S. SmallCap Dividend Fund
 DESK - VanEck ETF Trust VanEck Office and Commercial REIT ETF
 DEUS - Xtrackers Russell US Multifactor ETF
-DEVS - DevvStream Corp. - Common Stock
 DEW - WisdomTree Global High Dividend Fund
 DEXC - Dimensional ETF Trust Dimensional Emerging Markets ex China Core Equity ETF
 DFAC - Dimensional ETF Trust Dimensional U.S. Core Equity 2 ETF
@@ -2842,9 +2843,6 @@ DYLD - LeaderShares Dynamic Yield ETF
 DYLG - Global X Funds Global X Dow 30 Covered Call & Growth ETF
 DYN - Dyne Therapeutics, Inc. - Common Stock
 DYNF - iShares U.S. Equity Factor Rotation Active ETF
-DYNX - Dynamix Corporation - Class A Ordinary Share
-DYNXU - Dynamix Corporation - Unit
-DYNXW - Dynamix Corporation - Warrant
 DYTA - SGI Dynamic Tactical ETF
 DZZ - DB Gold Double Short ETN due February 15, 2038
 E - ENI S.p.A. Common Stock
@@ -3229,6 +3227,8 @@ ETH - Grayscale Ethereum Mini Trust (ETH) Common units of fractional undivided b
 ETHA - iShares Ethereum Trust - iShares Ethereum Trust ETF
 ETHD - ProShares Trust ProShares UltraShort Ether ETF
 ETHE - Grayscale Ethereum Trust (ETH) Common units of fractional undivided beneficial interest
+ETHM - Dynamix Corporation - Class A Ordinary Share
+ETHMU - Dynamix Corporation - Unit
 ETHO - Amplify ETF Trust Amplify Etho Climate Leadership U.S. ETF
 ETHT - ProShares Trust ProShares Ultra Ether ETF
 ETHU - Volatility Shares Trust 2x Ether ETF
@@ -3424,7 +3424,6 @@ FBTC - Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest
 FBUF - Fidelity Dynamic Buffered Equity ETF
 FBY - Tidal ETF Trust II YieldMax META Option Income Strategy ETF
 FBYD - Falcon's Beyond Global, Inc. - Class A Common Stock
-FBYDW - Falcon's Beyond Global, Inc. - Warrants
 FC - Franklin Covey Company Common Stock
 FCA - First Trust China AlphaDEX Fund
 FCAL - First Trust California Municipal High income ETF
@@ -5096,7 +5095,6 @@ INCY - Incyte Corporation - Common Stock
 INDA - Ishares MSCI India ETF
 INDB - Independent Bank Corp. - Common Stock
 INDE - Matthews International Funds Matthews India Active ETF
-INDF - Range India Financials ETF
 INDH - WisdomTree India Hedged Equity Fund
 INDI - indie Semiconductor, Inc. - Class A Common Stock
 INDL - Direxion Daily MSCI India Bull 2X Shares
@@ -5631,7 +5629,6 @@ KF - Korea Fund, Inc. (The) New Common Stock
 KFEB - Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - February
 KFFB - Kentucky First Federal Bancorp - Common Stock
 KFII - K&F Growth Acquisition Corp. II - Class A Ordinary shares
-KFIIR - K&F Growth Acquisition Corp. II - Rights
 KFIIU - K&F Growth Acquisition Corp. II - Unit
 KFRC - Kforce, Inc. Common Stock
 KFS - Kingsway Financial Services, Inc. Common Stock (DE)
@@ -5769,6 +5766,7 @@ KURA - Kura Oncology, Inc. - Common Stock
 KURE - KraneShares MSCI All China Health Care Index ETF
 KVAC - Keen Vision Acquisition Corporation - Ordinary Shares
 KVACU - Keen Vision Acquisition Corporation - Units
+KVACW - Keen Vision Acquisition Corporation - Warrant
 KVHI - KVH Industries, Inc. - Common Stock
 KVLE - KraneShares Value Line Dynamic Dividend Equity Index ETF
 KVUE - Kenvue Inc. Common Stock
@@ -7020,7 +7018,6 @@ NRO - Neuberger Berman Real Estate Securities Income Fund, Inc.
 NRP - Natural Resource Partners LP Limited Partnership
 NRSH - Aztlan North America Nearshoring Stock Selection ETF
 NRSN - NeuroSense Therapeutics Ltd. - Ordinary Shares
-NRSNW - NeuroSense Therapeutics Ltd. - Warrant
 NRT - North European Oil Royality Trust Common Stock
 NRUC - National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)
 NRXP - NRX Pharmaceuticals, Inc. - Common Stock
@@ -7767,7 +7764,6 @@ PLG - Platinum Group Metals Ltd. Ordinary Shares (Canada)
 PLL - Piedmont Lithium Inc.   - Common Stock
 PLMK - Plum Acquisition Corp. IV - Class A Ordinary Shares
 PLMKU - Plum Acquisition Corp. IV - Unit
-PLMKW - Plum Acquisition Corp. IV - Warrants
 PLMR - Palomar Holdings, Inc. - Common stock
 PLNT - Planet Fitness, Inc. Common Stock
 PLOO - Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF
@@ -8726,7 +8722,6 @@ SBET - SharpLink Gaming, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
-SBFMW - Sunshine Biopharma Inc. - Warrant
 SBGI - Sinclair, Inc. - Class A Common Stock
 SBH - Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI - Western Asset Intermediate Muni Fund Inc Common Stock
@@ -10226,6 +10221,7 @@ URI - United Rentals, Inc. Common Stock
 URNJ - Sprott Junior Uranium Miners ETF
 URNM - Sprott Uranium Miners ETF
 UROY - Uranium Royalty Corp. - Common Stock
+URSP - ProShares Trust ProShares Ultra S&P 500 Equal Weight
 URTH - iShares, Inc. iShares MSCI World ETF
 URTY - ProShares UltraPro Russell2000
 USA - Liberty All-Star Equity Fund Common Stock
