@@ -502,6 +502,8 @@ AOTG - AOT Growth and Innovation ETF
 AOUT - American Outdoor Brands, Inc. - Common Stock
 AP - Ampco-Pittsburgh Corporation Common Stock
 APA - APA Corporation - Common Stock
+APAD - A Paradise Acquisition Corp. - Class A Ordinary Shares
+APADR - A Paradise Acquisition Corp. - Rights
 APADU - A Paradise Acquisition Corp. - Unit
 APAM - Artisan Partners Asset Management Inc. Class A Common Stock
 APCB - Trust for Professional Managers ActivePassive Core Bond ETF
@@ -1222,7 +1224,7 @@ BLK - BlackRock, Inc. Common Stock
 BLKB - Blackbaud, Inc. - Common Stock
 BLKC - Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF
 BLMN - Bloomin' Brands, Inc. - Common Stock
-BLMZ - BloomZ Inc. - Ordinary Shares
+BLMZ - Harrison Global Holdings Inc. - Ordinary Shares
 BLND - Blend Labs, Inc. Class A Common Stock
 BLNE - Beeline Holdings, Inc. - Common Stock
 BLNK - Blink Charging Co. - Common Stock
@@ -1774,7 +1776,6 @@ CERS - Cerus Corporation - Common Stock
 CERT - Certara, Inc. - Common Stock
 CERY - SPDR Series Trust SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF
 CET - Central Securities Corporation Common Stock
-CETH - 21Shares Core Ethereum ETF
 CETX - Cemtrex Inc. - Common Stock
 CETY - Clean Energy Technologies, Inc. - Common Stock
 CEV - Eaton Vance California Municipal Income Trust Shares of Beneficial Interest
@@ -2501,6 +2502,7 @@ DERM - Journey Medical Corporation - Common Stock
 DES - WisdomTree U.S. SmallCap Dividend Fund
 DESK - VanEck ETF Trust VanEck Office and Commercial REIT ETF
 DEUS - Xtrackers Russell US Multifactor ETF
+DEVS - DevvStream Corp. - Common Stock
 DEW - WisdomTree Global High Dividend Fund
 DEXC - Dimensional ETF Trust Dimensional Emerging Markets ex China Core Equity ETF
 DFAC - Dimensional ETF Trust Dimensional U.S. Core Equity 2 ETF
@@ -2705,7 +2707,6 @@ DRCT - Direct Digital Holdings, Inc. - Class A Common Stock
 DRD - DRDGOLD Limited American Depositary Shares
 DRDB - Roman DBDR Acquisition Corp. II - Ordinary shares
 DRDBU - Roman DBDR Acquisition Corp. II - Unit
-DRDBW - Roman DBDR Acquisition Corp. II - Warrants
 DRGN - Themes ETF Trust Themes China Generative Artificial Intelligence ETF
 DRH - Diamondrock Hospitality Company Common Stock
 DRI - Darden Restaurants, Inc. Common Stock
@@ -2837,6 +2838,7 @@ DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
 DYCQ - DT Cloud Acquisition Corporation - Ordinary shares
+DYCQR - DT Cloud Acquisition Corporation - Right
 DYCQU - DT Cloud Acquisition Corporation - Unit
 DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
@@ -3229,6 +3231,7 @@ ETHD - ProShares Trust ProShares UltraShort Ether ETF
 ETHE - Grayscale Ethereum Trust (ETH) Common units of fractional undivided beneficial interest
 ETHM - Dynamix Corporation - Class A Ordinary Share
 ETHMU - Dynamix Corporation - Unit
+ETHMW - Dynamix Corporation - Warrant
 ETHO - Amplify ETF Trust Amplify Etho Climate Leadership U.S. ETF
 ETHT - ProShares Trust ProShares Ultra Ether ETF
 ETHU - Volatility Shares Trust 2x Ether ETF
@@ -3261,6 +3264,7 @@ EUFN - iShares MSCI Europe Financials ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
+EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3x Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -5629,6 +5633,7 @@ KF - Korea Fund, Inc. (The) New Common Stock
 KFEB - Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - February
 KFFB - Kentucky First Federal Bancorp - Common Stock
 KFII - K&F Growth Acquisition Corp. II - Class A Ordinary shares
+KFIIR - K&F Growth Acquisition Corp. II - Rights
 KFIIU - K&F Growth Acquisition Corp. II - Unit
 KFRC - Kforce, Inc. Common Stock
 KFS - Kingsway Financial Services, Inc. Common Stock (DE)
@@ -5717,6 +5722,7 @@ KORP - American Century Diversified Corporate Bond ETF
 KORU - Direxion Daily South Korea Bull 3X Shares
 KOS - Kosmos Energy Ltd. Common Shares (DE)
 KOSS - Koss Corporation - Common Stock
+KOYNU - CSLM Digital Asset Acquisition Corp III - Units
 KPDD - KraneShares 2x Long PDD Daily ETF
 KPLT - Katapult Holdings, Inc. - Common Stock
 KPLTW - Katapult Holdings, Inc. - Warrant
@@ -6042,7 +6048,6 @@ LOWV - AB Active ETFs, Inc. AB US Low Volatility Equity ETF
 LPA - Logistic Properties of the Americas Ordinary Shares
 LPAA - Launch One Acquisition Corp. - Class A Ordinary Shares
 LPAAU - Launch One Acquisition Corp. - Unit
-LPAAW - Launch One Acquisition Corp. - Warrant
 LPBB - Launch Two Acquisition Corp. - Class A Ordinary Shares
 LPBBU - Launch Two Acquisition Corp. - Unit
 LPBBW - Launch Two Acquisition Corp. - Warrant
@@ -6246,6 +6251,7 @@ MBSD - FlexShares Trust FlexShares Disciplined Duration MBS Index Fund
 MBSF - Valued Advisers Trust Regan Floating Rate MBS ETF
 MBSX - Advisor Managed Portfolios Regan Fixed Rate MBS ETF
 MBUU - Malibu Boats, Inc. - Common Stock
+MBVIU - M3-Brigade Acquisition VI Corp. - Units
 MBWM - Mercantile Bank Corporation - Common Stock
 MBX - MBX Biosciences, Inc. - Common Stock
 MC - Moelis & Company Class A Common Stock
@@ -6509,7 +6515,6 @@ MOD - Modine Manufacturing Company Common Stock
 MODD - Modular Medical, Inc. - common stock
 MODG - Topgolf Callaway Brands Corp. Common Stock
 MODL - VictoryShares WestEnd U.S. Sector ETF
-MODV - ModivCare Inc. - Common Stock
 MOFG - MidWestOne Financial Group, Inc. - Common Stock
 MOGO - Mogo Inc. - Common Shares
 MOGU - MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares)
@@ -6854,6 +6859,7 @@ NEWT - NewtekOne, Inc. - Common Stock
 NEWTG - NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2029
 NEWTH - NewtekOne, Inc. - 8.625% Fixed Rate Senior Notes due 2029
 NEWTI - NewtekOne, Inc. - 8.00% Fixed Rate Senior Notes due 2028
+NEWTP - NewtekOne, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.500% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B
 NEWTZ - NewtekOne, Inc. - 5.50% Notes Due 2026
 NEWZ - StockSnips AI-Powered Sentiment US All Cap ETF
 NEXA - Nexa Resources S.A. Common Shares
@@ -7018,6 +7024,7 @@ NRO - Neuberger Berman Real Estate Securities Income Fund, Inc.
 NRP - Natural Resource Partners LP Limited Partnership
 NRSH - Aztlan North America Nearshoring Stock Selection ETF
 NRSN - NeuroSense Therapeutics Ltd. - Ordinary Shares
+NRSNW - NeuroSense Therapeutics Ltd. - Warrant
 NRT - North European Oil Royality Trust Common Stock
 NRUC - National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)
 NRXP - NRX Pharmaceuticals, Inc. - Common Stock
@@ -7204,6 +7211,7 @@ OAKM - Harris Oakmark ETF Trust Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
+OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - Unified Series Trust OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - Unified Series Trust OneAscent Small Cap Core ETF
@@ -8722,6 +8730,7 @@ SBET - SharpLink Gaming, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
+SBFMW - Sunshine Biopharma Inc. - Warrant
 SBGI - Sinclair, Inc. - Class A Common Stock
 SBH - Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI - Western Asset Intermediate Muni Fund Inc Common Stock
@@ -8811,7 +8820,6 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
-SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -8984,7 +8992,6 @@ SILO - Silo Pharma, Inc. - Common Stock
 SIM - Grupo Simec, S.A.B. de C.V. American Depositary Shares
 SIMA - SIM Acquisition Corp. I - Class A Ordinary Shares
 SIMAU - SIM Acquisition Corp. I - Unit
-SIMAW - SIM Acquisition Corp. I - Warrant
 SIMO - Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares
 SIMS - SPDR S&P Kensho Intelligent Structures ETF 
 SINT - SiNtx Technologies, Inc. - Common Stock
