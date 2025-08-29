@@ -1208,8 +1208,6 @@ BLCO - Bausch + Lomb Corporation Common Shares
 BLCR - iShares Large Cap Core Active ETF
 BLCV - iShares Large Cap Value Active ETF
 BLD - TopBuild Corp. Common Stock
-BLDE - Blade Air Mobility, Inc. - Class A Common Stock
-BLDEW - Blade Air Mobility, Inc. - Warrants
 BLDG - Cambria Global Real Estate ETF
 BLDP - Ballard Power Systems, Inc. - Common Shares
 BLDR - Builders FirstSource, Inc. Common Stock
@@ -1556,7 +1554,6 @@ BYFC - Broadway Financial Corporation - Class A Common Stock
 BYLD - iShares Yield Optimized Bond ETF
 BYM - Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest
 BYND - Beyond Meat, Inc. - Common stock
-BYON - Beyond, Inc. Common Stock
 BYRE - Principal Exchange-Traded Funds Principal Real Estate Active Opportunities ETF
 BYRN - Byrna Technologies, Inc. - Common Stock
 BYSI - BeyondSpring, Inc. - Ordinary Shares
@@ -3033,6 +3030,7 @@ ELLO - Ellomay Capital Ltd Ordinary Shares (Israel)
 ELM - Series Portfolios Trust Elm Market Navigator ETF
 ELMD - Electromed, Inc. Common Stock
 ELME - Elme Communities Common Stock
+ELOG - Eastern International Ltd. - Ordinary Shares
 ELON - Tidal Trust III Battleshares TSLA vs F ETF
 ELP - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non-voting Class B Preferred Shares)
 ELPC - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
@@ -3703,7 +3701,7 @@ FLQS - Franklin U.S. Small Cap Multifactor Index ETF
 FLR - Fluor Corporation Common Stock
 FLRG - Fidelity U.S. Multifactor ETF
 FLRN - SPDR Bloomberg Investment Grade Floating Rate ETF
-FLRT - Pacer Funds Pacer Pacific Asset Floating Rate High Income ETF
+FLRT - Pacer Aristotle Pacific Floating Rate High Income ETF
 FLS - Flowserve Corporation Common Stock
 FLSA - Franklin FTSE Saudi Arabia ETF
 FLSP - Franklin Systematic Style Premia ETF
@@ -3836,6 +3834,7 @@ FRGE - Forge Global Holdings, Inc. Common Stock
 FRGT - Freight Technologies, Inc. - Ordinary Shares
 FRHC - Freedom Holding Corp. - Common Stock
 FRI - First Trust S&P REIT Index Fund
+FRIZ - Franklin Templeton ETF Trust Franklin Dividend Growth ETF
 FRME - First Merchants Corporation - Common Stock
 FRMEP - First Merchants Corporation - Depository Shares, each representing a 1/100th interest in a share of 7.50% Non-Cumulative Perpetual Preferred Stock, A
 FRNW - Fidelity Clean Energy ETF
@@ -5834,7 +5833,6 @@ LBTYK - Liberty Global Ltd. - Class C Common Shares
 LC - LendingClub Corporation Common Stock
 LCAP - Principal Exchange-Traded Funds Principal Capital Appreciation Select ETF
 LCCC - Lakeshore Acquisition III Corp. - Ordinary Shares
-LCCCR - Lakeshore Acquisition III Corp. - Rights
 LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
@@ -6048,6 +6046,7 @@ LOWV - AB Active ETFs, Inc. AB US Low Volatility Equity ETF
 LPA - Logistic Properties of the Americas Ordinary Shares
 LPAA - Launch One Acquisition Corp. - Class A Ordinary Shares
 LPAAU - Launch One Acquisition Corp. - Unit
+LPAAW - Launch One Acquisition Corp. - Warrant
 LPBB - Launch Two Acquisition Corp. - Class A Ordinary Shares
 LPBBU - Launch Two Acquisition Corp. - Unit
 LPBBW - Launch Two Acquisition Corp. - Warrant
@@ -6669,6 +6668,7 @@ MUE - Blackrock MuniHoldings Quality Fund II, Inc. Common Stock
 MUFG - Mitsubishi UFJ Financial Group, Inc. Common Stock
 MUJ - Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock
 MULL - GraniteShares 2x Long MU Daily ETF
+MULT - Franklin Multisector Income ETF
 MUNA - Northern Funds Northern Trust 2030 Tax-Exempt Distributing Ladder ETF
 MUNB - Northern Funds Northern Trust 2035 Tax-Exempt Distributing Ladder ETF
 MUNC - Northern Funds Northern Trust 2045 Tax-Exempt Distributing Ladder ETF
@@ -7772,6 +7772,7 @@ PLG - Platinum Group Metals Ltd. Ordinary Shares (Canada)
 PLL - Piedmont Lithium Inc.   - Common Stock
 PLMK - Plum Acquisition Corp. IV - Class A Ordinary Shares
 PLMKU - Plum Acquisition Corp. IV - Unit
+PLMKW - Plum Acquisition Corp. IV - Warrants
 PLMR - Palomar Holdings, Inc. - Common stock
 PLNT - Planet Fitness, Inc. Common Stock
 PLOO - Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF
@@ -7807,6 +7808,7 @@ PMBS - PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund
 PMCB - PharmaCyte  Biotech, Inc. - Common Stock
 PMEC - Primech Holdings Ltd. - Ordinary Shares
 PMFB - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - February
+PMI - Picard Medical, Inc. Common Stock
 PMIO - PGIM ETF Trust PGIM Municipal Income Opportunities ETF
 PMJA - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - January
 PMJL - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - July
@@ -8992,6 +8994,7 @@ SILO - Silo Pharma, Inc. - Common Stock
 SIM - Grupo Simec, S.A.B. de C.V. American Depositary Shares
 SIMA - SIM Acquisition Corp. I - Class A Ordinary Shares
 SIMAU - SIM Acquisition Corp. I - Unit
+SIMAW - SIM Acquisition Corp. I - Warrant
 SIMO - Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares
 SIMS - SPDR S&P Kensho Intelligent Structures ETF 
 SINT - SiNtx Technologies, Inc. - Common Stock
@@ -9378,6 +9381,8 @@ SROI - Calamos ETF Trust Calamos Antetokounmpo Global Sustainable Equities ETF
 SRPT - Sarepta Therapeutics, Inc. - Common Stock
 SRRK - Scholar Rock Holding Corporation - Common Stock
 SRS - ProShares UltraShort Real Estate
+SRTA - Strata Critical Medical, Inc. - Class A Common Stock
+SRTAW - Strata Critical Medical, Inc. - Warrants
 SRTS - Sensus Healthcare, Inc. - Common Stock
 SRTY - ProShares UltraPro Short Russell2000
 SRV - NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest
@@ -9710,6 +9715,7 @@ TEQI - T. Rowe Price Equity Income ETF
 TER - Teradyne, Inc. - Common Stock
 TERN - Terns Pharmaceuticals, Inc. - Common Stock
 TESL - Simplify Volt TSLA Revolution ETF
+TETH - 21Shares Ethereum ETF
 TEVA - Teva Pharmaceutical Industries Limited American Depositary Shares
 TEX - Terex Corporation Common Stock
 TEXN - iShares Texas Equity ETF
@@ -9730,6 +9736,7 @@ TG - Tredegar Corporation Common Stock
 TGB - Taseko Mines, Ltd. Common Stock
 TGE - The Generation Essentials Group Class A Ordinary Shares
 TGEN - Tecogen Inc. Common Stock
+TGHL - The GrowHub Limited - Class A Ordinary Shares
 TGL - Treasure Global Inc. - Common Stock
 TGLB - T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Global Equity ETF
 TGLR - ETF Opportunities Trust LAFFER TENGLER Equity Income ETF
@@ -9748,6 +9755,7 @@ THD - iShares Inc iShares MSCI Thailand ETF
 THEQ - T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Hedged Equity ETF
 THFF - First Financial Corporation  - Common Stock
 THG - Hanover Insurance Group Inc
+THH - TryHard Holdings Limited - Ordinary Shares
 THIR - THOR Financial Technologies Trust THOR Index Rotation ETF
 THLV - THOR Equal Weight Low Volatility ETF
 THM - International Tower Hill Mines, Ltd. Ordinary Shares (Canada)
@@ -10039,6 +10047,7 @@ TUYA - Tuya Inc. American Depositary Shares, each representing one Class A Ordin
 TV - Grupo Televisa S.A.B. Common Stock
 TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
+TVACW - Texas Ventures Acquisition III Corp - Warrants
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
 TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
@@ -10639,7 +10648,6 @@ WATT - Energous Corporation - Common Stock
 WAVE - Eco Wave Power Global AB (publ) - American Depositary Shares
 WAY - Waystar Holding Corp. - Common Stock
 WB - Weibo Corporation - American Depositary Shares
-WBA - Walgreens Boots Alliance, Inc. - Common Stock
 WBD - Warner Bros. Discovery, Inc. - Series A Common Stock
 WBIF - WBI BullBear Value 3000 ETF
 WBIG - WBI BullBear Yield 3000 ETF
