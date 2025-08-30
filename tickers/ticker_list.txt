@@ -223,7 +223,6 @@ AGEN - Agenus Inc. - Common Stock
 AGFY - Agrify Corporation - Common Stock
 AGG - iShares Core U.S. Aggregate Bond ETF
 AGGA - EA Astoria Dynamic Core US Fixed Income ETF
-AGGH - Simplify Aggregate Bond ETF
 AGGS - Harbor ETF Trust Harbor Disciplined Bond ETF
 AGGY - WisdomTree Yield Enhanced U.S. Aggregate Bond Fund
 AGH - Aureus Greenway Holdings Inc. - Common Stock
@@ -923,6 +922,7 @@ BBAX - JPMorgan BetaBuilders Developed Asia Pacific-ex Japan ETF
 BBBI - BondBloxx ETF Trust BondBloxx BBB Rated 5-10 Year Corporate Bond ETF
 BBBL - BondBloxx ETF Trust BondBloxx BBB Rated 10+ Year Corporate Bond ETF
 BBBS - BondBloxx ETF Trust BondBloxx BBB Rated 1-5 Year Corporate Bond ETF
+BBBY - Bed Bath & Beyond, Inc. Common Stock
 BBC - Virtus LifeSci Biotech Clinical Trials ETF
 BBCA - JPMorgan BetaBuilders Canada ETF 
 BBCB - JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF
@@ -1114,7 +1114,6 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - DBX ETF Trust Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
-BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
@@ -1179,7 +1178,6 @@ BKF - iShares MSCI BIC ETF
 BKGI - BNY Mellon ETF Trust BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
-BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -1677,7 +1675,6 @@ CCCC - C4 Therapeutics, Inc. - Common Stock
 CCCS - CCC Intelligent Solutions Holdings Inc. - Common Stock
 CCCX - Churchill Capital Corp X - Class A Ordinary Shares
 CCCXU - Churchill Capital Corp X - Unit
-CCCXW - Churchill Capital Corp X - Warrants
 CCD - Calamos Dynamic Convertible & Income Fund - Closed End Fund
 CCEC - Capital Clean Energy Carriers Corp. - Common Share
 CCEF - Calamos ETF Trust Calamos CEF Income & Arbitrage ETF
@@ -2647,7 +2644,6 @@ DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR - Drugs Made In America Acquisition Corp. - Rights
-DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
 DMAT - Global X Disruptive Materials ETF
@@ -3199,7 +3195,6 @@ ESGLW - ESGL Holdings Limited - Warrants
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESHA - ESH Acquisition Corp. - Class A Common Stock
-ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIX - SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
@@ -5765,6 +5760,7 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
+KTTAW - Pasithea Therapeutics Corp. - Warrant
 KUKE - Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares)
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -6269,6 +6265,7 @@ MCI - Barings Corporate Investors Common Stock
 MCK - McKesson Corporation Common Stock
 MCN - XAI Madison Equity Premium Income Fund Common Shares
 MCO - Moody's Corporation Common Stock
+MCOW - Pacer Funds Trust Pacer S&P MidCap 400 Quality FCF Aristocrats ETF
 MCR - MFS Charter Income Trust Common Stock
 MCRB - Seres Therapeutics, Inc. - Common Stock
 MCRI - Monarch Casino & Resort, Inc. - Common Stock
@@ -6916,7 +6913,6 @@ NITE - Capitol Series Trust The Nightview Fund NITE
 NITO - N2OFF, Inc. - Common Stock
 NIU - Niu Technologies - American Depositary Shares
 NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
-NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
 NIXXW - Nixxy, Inc. - Warrant
@@ -7896,7 +7892,6 @@ PRCT - PROCEPT BioRobotics Corporation - Common Stock
 PRDO - Perdoceo Education Corporation - Common Stock
 PRE - Prenetics Global Limited - Class A Ordinary Share
 PREF - Principal Spectrum Preferred Securities Active ETF
-PRENW - Prenetics Global Limited - Warrant
 PRF - Invesco RAFI US 1000 ETF
 PRFD - PIMCO U.S. Treasury Index Fund PIMCO Preferred and Capital Securities Active Exchange-Traded Fund
 PRFX - PainReform Ltd. - Ordinary Shares
@@ -8264,7 +8259,6 @@ RAL - Ralliant Corporation Common Stock
 RAMP - LiveRamp Holdings, Inc. Common Stock
 RAND - Rand Capital Corporation - Closed End Fund
 RANG - Range Capital Acquisition Corp. - Ordinary Shares
-RANGR - Range Capital Acquisition Corp. - Rights
 RANGU - Range Capital Acquisition Corp. - Units
 RANI - Rani Therapeutics Holdings, Inc. - Class A Common Stock
 RAPP - Rapport Therapeutics, Inc. - Common Stock
@@ -8801,6 +8795,7 @@ SCNI - Scinai Immunotherapeutics Ltd. - American Depositary Shares
 SCNX - Scienture Holdings, Inc. - Common Stock
 SCO - ProShares UltraShort Bloomberg Crude Oil
 SCOR - comScore, Inc. - Common Stock
+SCOW - Pacer Funds Trust Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
 SCPH - scPharmaceuticals Inc. - Common Stock
 SCS - Steelcase Inc. Common Stock
 SCSC - ScanSource, Inc. - Common Stock
@@ -10343,7 +10338,6 @@ VABS - Virtus Newfleet ABS/MBS ETF
 VAC - Marriott Vacations Worldwide Corporation Common Stock
 VACH - Voyager Acquisition Corp - Class A Ordinary Shares
 VACHU - Voyager Acquisition Corp - Unit
-VACHW - Voyager Acquisition Corp - Warrants
 VAL - Valaris Limited Common Shares
 VALE - VALE S.A.  American Depositary Shares Each Representing one common share
 VALN - Valneva SE - American Depositary Shares
@@ -11043,6 +11037,8 @@ YCBD - cbdMD, Inc. Common Stock
 YCL - ProShares Ultra Yen
 YCS - ProShares UltraShort Yen New
 YDEC - FT Vest International Equity Moderate Buffer ETF - December
+YDES - YD Bio Limited - Ordinary Shares
+YDESW - YD Bio Limited - Warrants
 YEAR - AB Active ETFs, Inc. AB Ultra Short Income ETF
 YELP - Yelp Inc. Common Stock
 YETH - Roundhill ETF Trust Roundhill Ether Covered Call Strategy ETF
