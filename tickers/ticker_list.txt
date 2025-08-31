@@ -223,6 +223,7 @@ AGEN - Agenus Inc. - Common Stock
 AGFY - Agrify Corporation - Common Stock
 AGG - iShares Core U.S. Aggregate Bond ETF
 AGGA - EA Astoria Dynamic Core US Fixed Income ETF
+AGGH - Simplify Aggregate Bond ETF
 AGGS - Harbor ETF Trust Harbor Disciplined Bond ETF
 AGGY - WisdomTree Yield Enhanced U.S. Aggregate Bond Fund
 AGH - Aureus Greenway Holdings Inc. - Common Stock
