@@ -136,6 +136,7 @@ ADAMI - Adamas Trust, Inc. - 9.125% Senior Notes Due 2029
 ADAML - Adamas Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share
 ADAMM - Adamas Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
 ADAMN - Adamas Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
+ADAMZ - Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share
 ADAP - Adaptimmune Therapeutics plc - American Depositary Shares
 ADBE - Adobe Inc. - Common Stock
 ADBG - Leverage Shares 2X Long ADBE Daily ETF
@@ -734,6 +735,7 @@ ATNI - ATN International, Inc. - Common Stock
 ATNM - Actinium Pharmaceuticals, Inc. (Delaware) Common Stock
 ATO - Atmos Energy Corporation Common Stock
 ATOM - Atomera Incorporated - Common Stock
+ATON - AlphaTON Capital Corp. - Common Stock
 ATOS - Atossa Therapeutics, Inc. - Common Stock
 ATPC - Agape ATP Corporation - Common Stock
 ATR - AptarGroup, Inc. Common Stock
@@ -1309,6 +1311,7 @@ BOAT - SonicShares Global Shipping ETF
 BOBP - Exchange Traded Concepts Trust CORE16 Best of Breed Premier Index ETF
 BOC - Boston Omaha Corporation Class A Common Stock
 BOCT - Innovator U.S. Equity Buffer ETF - October
+BODI - The Beachbody Company, Inc. - Class A Common Stock
 BOE - Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest
 BOED - Direxion Daily BA Bear 1X Shares
 BOEG - Leverage Shares 2X Long BA Daily ETF
@@ -1509,6 +1512,7 @@ BULG - Leverage Shares 2X Long BULL Daily ETF
 BULL - Webull Corporation - Class A Ordinary Shares
 BULLW - Webull Corporation - Warrants
 BULU - ETF Opportunities Trust T-REX 2X Long BULL Daily Target ETF
+BULX - GraniteShares 2x Long BULL Daily ETF
 BULZ - MicroSectors FANG & Innovation 3x Leveraged ETN
 BUR - Burford Capital Limited Ordinary Shares
 BURL - Burlington Stores, Inc. Common Stock
@@ -2242,7 +2246,6 @@ CSAI - Cloudastructure, Inc. - Class A Common Stock
 CSAN - Cosan S.A. ADS
 CSB - VictoryShares US Small Cap High Div Volatility Wtd ETF
 CSBR - Champions Oncology, Inc. - Common Stock
-CSCI - COSCIENS Biopharma Inc.  - Common Stock
 CSCL - Direxion Daily CSCO Bull 2X ETF
 CSCO - Cisco Systems, Inc. - Common Stock
 CSCS - Direxion Daily CSCO Bear 1X ETF
@@ -2710,6 +2713,7 @@ DRCT - Direct Digital Holdings, Inc. - Class A Common Stock
 DRD - DRDGOLD Limited American Depositary Shares
 DRDB - Roman DBDR Acquisition Corp. II - Ordinary shares
 DRDBU - Roman DBDR Acquisition Corp. II - Unit
+DRDBW - Roman DBDR Acquisition Corp. II - Warrants
 DRGN - Themes ETF Trust Themes China Generative Artificial Intelligence ETF
 DRH - Diamondrock Hospitality Company Common Stock
 DRI - Darden Restaurants, Inc. Common Stock
@@ -3226,6 +3230,7 @@ ESTC - Elastic N.V. Ordinary Shares
 ESUM - Strategy Shares Eventide US Market ETF
 ET - Energy Transfer LP Common Units 
 ETB - Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest
+ETCO - Grayscale Funds Trust Grayscale Ethereum Covered Call ETF
 ETD - Ethan Allen Interiors Inc. Common Stock
 ETEC - iShares Breakthrough Environmental Solutions ETF
 ETG - Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest
@@ -3251,6 +3256,7 @@ ETON - Eton Pharmaceuticals, Inc. - Common Stock
 ETOR - eToro Group Ltd. - Class A Common Shares
 ETQ - T-Rex 2X Inverse Ether Daily Target ETF
 ETR - Entergy Corporation Common Stock
+ETRL - GraniteShares 2x Long ETOR Daily ETF
 ETS - Elite Express Holding Inc. - Class A Common Stock
 ETSY - Etsy, Inc. - Common Stock
 ETU - T-Rex 2X Long Ether Daily Target ETF
@@ -3808,7 +3814,6 @@ FOX - Fox Corporation - Class B Common Stock
 FOXA - Fox Corporation - Class A Common Stock
 FOXF - Fox Factory Holding Corp. - Common Stock
 FOXX - Foxx Development Holdings Inc. - Common Stock
-FOXXW - Foxx Development Holdings Inc. - Warrant
 FOXY - Simplify Exchange Traded Funds Simplify Currency Strategy ETF
 FPA - First Trust Asia Pacific Ex-Japan AlphaDEX Fund
 FPAG - Investment Managers Series Trust III FPA Global Equity ETF
@@ -3821,6 +3826,7 @@ FPFD - Fidelity Preferred Securities & Income ETF
 FPH - Five Point Holdings, LLC Class A Common Shares
 FPI - Farmland Partners Inc. Common Stock
 FPRO - Fidelity Real Estate Investment ETF
+FPWR - First Trust EIP Power Solutions ETF
 FPX - First Trust US Equity Opportunities ETF
 FPXE - First Trust IPOX Europe Equity Opportunities ETF
 FPXI - First Trust International Equity Opportunities ETF
@@ -4782,6 +4788,7 @@ HYDW - Xtrackers Low Beta High Yield Bond ETF
 HYEM - VanEck Emerging Markets High Yield Bond ETF
 HYFI - AB Active ETFs, Inc. AB High Yield ETF
 HYFM - Hydrofarm Holdings Group, Inc. - Common Stock
+HYFT - MindWalk Holdings Corp. - Common Stock
 HYG - iShares iBoxx $ High Yield Corporate Bond ETF
 HYGH - iShares Interest Rate Hedged High Yield Bond ETF
 HYGV - FlexShares High Yield Value-Scored Bond Index Fund
@@ -5182,7 +5189,6 @@ IOT - Samsara Inc. Class A Common Stock
 IOTR - iOThree Limited - Ordinary Shares
 IOVA - Iovance Biotherapeutics, Inc. - Common Stock
 IP - International Paper Company Common Stock
-IPA - ImmunoPrecise Antibodies Ltd. - Common Stock
 IPAC - iShares Core MSCI Pacific ETF
 IPAR - Interparfums, Inc. - Common Stock
 IPAV - Global X Funds Global X Infrastructure Development ex-U.S. ETF
@@ -5835,6 +5841,7 @@ LBTYK - Liberty Global Ltd. - Class C Common Shares
 LC - LendingClub Corporation Common Stock
 LCAP - Principal Exchange-Traded Funds Principal Capital Appreciation Select ETF
 LCCC - Lakeshore Acquisition III Corp. - Ordinary Shares
+LCCCR - Lakeshore Acquisition III Corp. - Rights
 LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
@@ -5997,6 +6004,7 @@ LLY - Eli Lilly and Company Common Stock
 LLYVA - Liberty Media Corporation - Series A Liberty Live Common Stock
 LLYVK - Liberty Media Corporation - Series C Liberty Live Common Stock
 LLYX - Tidal Trust II Defiance Daily Target 2X Long LLY ETF
+LLYZ - Defiance Daily Target 2X Short LLY ETF
 LMAT - LeMaitre Vascular, Inc. - Common Stock
 LMB - Limbach Holdings, Inc. - Common Stock
 LMBO - Direxion Shares ETF Trust Direxion Daily Crypto Industry Bull 2X Shares
@@ -6168,7 +6176,6 @@ MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
 MACIW - Melar Acquisition Corp. I - Warrant
 MADE - iShares Trust iShares U.S. Manufacturing ETF
-MAG - MAG Silver Corporation Ordinary Shares
 MAGA - Point Bridge America First ETF
 MAGG - Madison ETFs Trust Madison Aggregate Bond ETF
 MAGH - Magnitude International Ltd - Ordinary Shares
@@ -6952,6 +6959,8 @@ NMI - Nuveen Municipal Income Fund, Inc. Common Stock
 NMIH - NMI Holdings Inc - Common Stock
 NML - Neuberger Berman Energy Infrastructure and Income Fund Inc. Common Stock
 NMM - Navios Maritime Partners LP Common Units Representing Limited Partner Interests
+NMP - NMP Acquisition Corp. - Class A Ordinary Shares
+NMPAR - NMP Acquisition Corp. - Right
 NMPAU - NMP Acquisition Corp. - Units
 NMR - Nomura Holdings Inc ADR American Depositary Shares
 NMRA - Neumora Therapeutics, Inc. - Common Stock
@@ -7671,6 +7680,7 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
+PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -7925,7 +7935,6 @@ PRSU - Pursuit Attractions and Hospitality, Inc. Common Stock
 PRT - PermRock Royalty Trust Trust Units
 PRTA - Prothena Corporation plc - Ordinary Shares
 PRTC - PureTech Health plc - American Depositary Shares
-PRTG - Portage Biotech Inc. - Common Stock
 PRTH - Priority Technology Holdings, Inc. - Common Stock
 PRTS - CarParts.com, Inc. - Common Stock
 PRU - Prudential Financial, Inc. Common Stock
@@ -10166,7 +10175,6 @@ UJB - ProShares Ultra High Yield ETF
 UJUL - Innovator U.S. Equity Ultra Buffer ETF - July
 UJUN - Innovator U.S. Equity Ultra Buffer ETF - June
 UK - Ucommune International Ltd  - Ordinary Shares
-UKOMW - Ucommune International Ltd  - Warrant expiring 11/17/2025
 UL - Unilever PLC Common Stock
 ULBI - Ultralife Corporation - Common Stock
 ULCC - Frontier Group Holdings, Inc. - Common Stock
@@ -10400,7 +10408,7 @@ VERS - ProShares Trust ProShares Metaverse ETF
 VERU - Veru Inc. - Common Stock
 VERX - Vertex, Inc. - Class A Common Stock
 VET - Vermilion Energy Inc. Common (Canada)
-VETZ - Academy Veteran Impact ETF
+VETZ - Academy Veteran Bond ETF
 VEU - Vanguard FTSE All World Ex US ETF
 VFC - V.F. Corporation Common Stock
 VFF - Village Farms International, Inc. - Common Shares
@@ -10904,7 +10912,6 @@ XIDV - Franklin International Dividend Booster Index ETF
 XIFR - XPLR Infrastructure, LP Common Units representing limited partner interests
 XIJN - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Premium Income ETF - June
 XIMR - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Premium Income ETF - March
-XIN - Xinyuan Real Estate Co Ltd American Depositary Shares
 XISE - FT Vest U.S. Equity Buffer & Premium Income ETF - September
 XITK - SPDR FactSet Innovative Technology ETF
 XJAN - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Enhance & Moderate Buffer ETF - January
