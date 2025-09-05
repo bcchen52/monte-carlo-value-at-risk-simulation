@@ -73,7 +73,6 @@ ABVE - Above Food Ingredients Inc. - Common Stock
 ABVEW - Above Food Ingredients Inc. - Warrant
 ABVX - Abivax SA - American Depositary Shares
 ABXB - Abacus Flexible Bond Leaders ETF
-AC - Associated Capital Group, Inc. Common Stock
 ACA - Arcosa, Inc. Common Stock 
 ACAD - ACADIA Pharmaceuticals Inc. - Common Stock
 ACB - Aurora Cannabis Inc. - Common Shares
@@ -468,6 +467,7 @@ AN - AutoNation, Inc. Common Stock
 ANAB - AnaptysBio, Inc. - Common Stock
 ANDE - The Andersons, Inc. - Common Stock
 ANEB - Anebulo Pharmaceuticals, Inc. - Common Stock
+ANEL - Defiance Daily Target 2x Long ANET ETF
 ANET - Arista Networks, Inc. Common Stock
 ANEW - ProShares MSCI Transformational Changes ETF
 ANF - Abercrombie & Fitch Company Common Stock
@@ -1190,6 +1190,7 @@ BKF - iShares MSCI BIC ETF
 BKGI - BNY Mellon ETF Trust BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
+BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -2024,7 +2025,7 @@ CNDT - Conduent Incorporated - Common Stock
 CNEQ - The Alger ETF Trust Alger Concentrated Equity ETF
 CNET - ZW Data Action Technologies Inc. - Common Stock
 CNEY - CN Energy Group Inc. - Class A Ordinary Shares
-CNF - CNFinance Holdings Limited American Depositary Shares, each representing  twenty (20) Ordinary Shares
+CNF - CNFinance Holdings Limited American Depositary Shares, each representing two hundred (200) Ordinary Shares
 CNFR - Conifer Holdings, Inc. - Common Stock
 CNFRZ - Conifer Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 CNH - CNH Industrial N.V. Common Shares
@@ -4254,7 +4255,6 @@ GMOI - The 2023 ETF Series Trust II GMO International Value ETF
 GMOM - Cambria Global Momentum ETF
 GMOV - The 2023 ETF Series Trust II GMO US Value ETF
 GMRE - Global Medical REIT Inc. Common Stock
-GMS - GMS Inc. Common Stock
 GMUB - Goldman Sachs ETF Trust Goldman Sachs Municipal Income ETF
 GMUN - Goldman Sachs Access Municipal Bond ETF
 GNE - Genie Energy Ltd. Class B Common Stock Stock
@@ -4395,6 +4395,7 @@ GSL - Global Ship Lease Inc New Class A Common Shares
 GSLC - Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF
 GSM - Ferroglobe PLC - Ordinary Shares
 GSPY - Gotham Enhanced 500 ETF
+GSRFU - GSR IV Acquisition Corp. - Units
 GSRT - GSR III Acquisition Corp. - Ordinary Shares
 GSRTR - GSR III Acquisition Corp. - Right
 GSRTU - GSR III Acquisition Corp. - Unit
@@ -4703,8 +4704,6 @@ HSHP - Himalaya Shipping Ltd. Common Shares
 HSIC - Henry Schein, Inc. - Common Stock
 HSII - Heidrick & Struggles International, Inc. - Common Stock
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
-HSON - Hudson Global, Inc. - Common Stock
-HSONP - Hudson Global, Inc. - 10% Series A Cumulative Perpetual Preferred Stock
 HSPO - Horizon Space Acquisition I Corp. - Ordinary Shares
 HSPOR - Horizon Space Acquisition I Corp. - Right
 HSPOU - Horizon Space Acquisition I Corp. - Unit
@@ -9288,7 +9287,6 @@ SPIP - SPDR Portfolio TIPS ETF
 SPIR - Spire Global, Inc. Class A Common Stock
 SPKL - Spark I Acquisition Corp. - Class A Ordinary Share
 SPKLU - Spark I Acquisition Corp. - Unit
-SPKLW - Spark I Acquisition Corp. - Warrant
 SPLB - SPDR Portfolio Long Term Corporate Bond ETF
 SPLG - SPDR Portfolio S&P 500 ETF
 SPLV - Invesco S&P 500 Low Volatility ETF
@@ -9510,6 +9508,7 @@ SUSL - iShares ESG MSCI USA Leaders ETF
 SUUN - PowerBank Corporation - Common Stock
 SUZ - Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
 SVA - Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
+SVACU - Spring Valley Acquisition Corp. III - Unit
 SVAL - iShares US Small Cap Value Factor ETF
 SVC - Service Properties Trust - Shares of Beneficial Interest
 SVCC - Stellar V Capital Corp. - Class A Ordinary Shares
@@ -9668,6 +9667,7 @@ TD - Toronto Dominion Bank (The) Common Stock
 TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
 TDACW - Translational Development Acquisition Corp. - Warrants
+TDAQ - ETF Opportunities Trust TappAlpha Innovation 100 Growth & Daily Income ETF
 TDC - Teradata Corporation Common Stock
 TDEC - First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - December
 TDF - Templeton Dragon Fund, Inc. Common Stock
@@ -10175,6 +10175,7 @@ UJB - ProShares Ultra High Yield ETF
 UJUL - Innovator U.S. Equity Ultra Buffer ETF - July
 UJUN - Innovator U.S. Equity Ultra Buffer ETF - June
 UK - Ucommune International Ltd  - Ordinary Shares
+UKOMW - Ucommune International Ltd  - Warrant expiring 11/17/2025
 UL - Unilever PLC Common Stock
 ULBI - Ultralife Corporation - Common Stock
 ULCC - Frontier Group Holdings, Inc. - Common Stock
@@ -10777,6 +10778,7 @@ WOOF - Petco Health and Wellness Company, Inc. - Class A Common Stock
 WOR - Worthington Enterprises, Inc. Common Shares
 WORX - SCWorx Corp. - Common Stock
 WOW - WideOpenWest, Inc. Common Stock
+WPAY - Roundhill ETF Trust Roundhill WeeklyPay Universe ETF
 WPC - W. P. Carey Inc. REIT
 WPM - Wheaton Precious Metals Corp Common Shares (Canada)
 WPP - WPP plc American Depositary Shares
@@ -11181,4 +11183,5 @@ ZVRA - Zevra Therapeutics, Inc.  - Common Stock
 ZWS - Zurn Elkay Water Solutions Corporation Common Stock
 ZYBT - Zhengye Biotechnology Holding Limited - Ordinary Shares
 ZYME - Zymeworks Inc. - Common Stock
+ZYN - Defiance Daily Target 2x Long PM ETF
 ZYXI - Zynex, Inc. - Common Stock
