@@ -3452,6 +3452,7 @@ FCF - First Commonwealth Financial Corporation Common Stock
 FCFS - FirstCash Holdings, Inc. - Common Stock
 FCFY - First Trust Exchange-Traded Fund First Trust S&P 500 Diversified Free Cash Flow ETF
 FCG - First Trust Natural Gas ETF
+FCHL - Fitness Champs Holdings Limited - Common Stock
 FCLD - Fidelity Cloud Computing ETF
 FCN - FTI Consulting, Inc. Common Stock
 FCNCA - First Citizens BancShares, Inc. - Class A Common Stock
@@ -3584,7 +3585,6 @@ FGD - First Trust DJ Global Select Dividend
 FGDL - Franklin Templeton Holdings Trust Franklin Responsibly Sourced Gold ETF
 FGEN - FibroGen, Inc - Common Stock
 FGI - FGI Industries Ltd. - Ordinary Shares
-FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
 FGMC - FG Merger II Corp. - Common stock
@@ -7203,7 +7203,6 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
-OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -9197,7 +9196,9 @@ SOAR - Volato Group, Inc. Class A Common Stock
 SOBO - South Bow Corporation Common Shares
 SOBR - SOBR Safe, Inc. - Common Stock
 SOC - Sable Offshore Corp. Common Stock
+SOCA - Solarius Capital Acquisition Corp. - Class A Ordinary Share
 SOCAU - Solarius Capital Acquisition Corp. - Units
+SOCAW - Solarius Capital Acquisition Corp. - Warrant
 SOCL - Global X Social Media ETF
 SOFI - SoFi Technologies, Inc.  - Common Stock
 SOFL - Tidal Trust III 2x Daily Software Platform ETF
@@ -9402,6 +9403,7 @@ SSII - SS Innovations International Inc. - Common Stock
 SSK - ETF Opportunities Trust REX-Osprey SOL + Staking ETF
 SSKN - Strata Skin Sciences, Inc. - Common Stock
 SSL - Sasol Ltd. American Depositary Shares
+SSM - Sono Group N.V. - Ordinary Shares
 SSNC - SS&C Technologies Holdings, Inc. - Common Stock
 SSO - ProShares Ultra S&P500
 SSP - E.W. Scripps Company (The) - Class A Common Stock
@@ -9463,6 +9465,8 @@ STRK - Strategy Inc - 8.00% Series A Perpetual Strike Preferred Stock
 STRL - Sterling Infrastructure, Inc. - Common Stock
 STRN - Tidal Trust I SMART Trend 25 ETF
 STRO - Sutro Biopharma, Inc. - Common Stock
+STRR - Star Equity Holdings, Inc. - Common Stock
+STRRP - Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock
 STRS - Stratus Properties Inc. - Common Stock
 STRT - STRATTEC SECURITY CORPORATION - Common Stock
 STRV - EA Series Trust Strive 500 ETF
