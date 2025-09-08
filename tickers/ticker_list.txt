@@ -3657,7 +3657,6 @@ FJUL - FT Vest U.S. Equity Buffer ETF - July
 FJUN - FT Vest U.S. Equity Buffer ETF - June
 FKU - First Trust United Kingdom AlphaDEX Fund
 FKWL - Franklin Wireless Corp. - common stock
-FL - Foot Locker, Inc.
 FLAG - Global X Funds Global X S&P 500 U.S. Market Leaders Top 50 ETF
 FLAO - AIM ETF Products Trust AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF
 FLAU - Franklin FTSE Australia ETF
@@ -6267,6 +6266,9 @@ MCBS - MetroCity Bankshares, Inc. - Common Stock
 MCD - McDonald's Corporation Common Stock
 MCDS - JPMorgan Fundamental Data Science Mid Core ETF
 MCFT - MasterCraft Boat Holdings, Inc. - Common Stock
+MCGA - Yorkville Acquisition Corp. - Class A Ordinary Share
+MCGAU - Yorkville Acquisition Corp. - Unit
+MCGAW - Yorkville Acquisition Corp. - Warrant
 MCH - Matthews International Funds Matthews China Active ETF
 MCHB - Mechanics Bancorp - Class A Common Stock
 MCHI - iShares MSCI China ETF
@@ -8874,6 +8876,7 @@ SEMR - SEMrush Holdings, Inc. Class A Common Stock
 SENEA - Seneca Foods Corp. - Class A Common Stock
 SENEB - Seneca Foods Corp. - Class B Common Stock
 SENS - Senseonics Holdings, Inc. Common Stock
+SEPI - SCM Trust Shelton Equity Premium Income ETF
 SEPM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - September
 SEPN - Septerna, Inc. - Common Stock
 SEPP - PGIM S&P 500 Buffer 12 ETF - September
@@ -9230,7 +9233,7 @@ SOPA - Society Pass Incorporated - Common Stock
 SOPH - SOPHiA GENETICS SA - Ordinary Shares
 SOR - Source Capital, Inc. Cmn Shs of BI
 SORA - AsiaStrategy - Ordinary Shares
-SOS - SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares
+SOS - SOS Limited Class A Ordinary Shares
 SOTK - Sono-Tek Corporation - Common Stock
 SOUL - Soulpower Acquisition Corporation Class A Ordinary Shares
 SOUN - SoundHound AI, Inc. - Class A Common Stock
@@ -11087,9 +11090,6 @@ YMT - Yimutian Inc. - American Depositary Shares; each representing 25 Class A o
 YNOT - Horizon Digital Frontier ETF
 YOKE - YOKE Core ETF
 YOLO - AdvisorShares Pure Cannabis ETF
-YORK - Yorkville Acquisition Corp. - Class A Ordinary Share
-YORKU - Yorkville Acquisition Corp. - Unit
-YORKW - Yorkville Acquisition Corp. - Warrant
 YORW - The York Water Company - Common Stock
 YOU - Clear Secure, Inc. Class A Common Stock
 YOUL - Youlife Group Inc. - American Depositary Shares
