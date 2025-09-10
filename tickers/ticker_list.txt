@@ -533,6 +533,7 @@ APLMW - Apollomics Inc. - Warrant
 APLS - Apellis Pharmaceuticals, Inc. - Common Stock
 APLT - Applied Therapeutics, Inc. - Common Stock
 APLU - Allspring Exchange-Traded Funds Trust Allspring Core Plus ETF
+APLX - Tradr 2X Long APLD Daily ETF
 APLY - Tidal ETF Trust II YieldMax AAPL Option Income Strategy ETF
 APM - Aptorum Group Limited - Class A Ordinary Shares
 APMU - Trust for Professional Managers ActivePassive Intermediate Municipal Bond ETF
@@ -1371,6 +1372,7 @@ BRIF - NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF
 BRKC - Tidal Trust II YieldMax BRK.B Option Income Strategy ETF
 BRKD - Direxion Daily BRKB Bear 1X Shares
 BRKR - Bruker Corporation - Common Stock
+BRKRP - Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A
 BRKU - Direxion Daily BRKB Bull 2X Shares
 BRKW - Roundhill ETF Trust Roundhill BRKB WeeklyPay ETF
 BRLN - iShares Floating Rate Loan Active ETF
@@ -2070,6 +2072,7 @@ COGT - Cogent Biosciences, Inc. - Common Stock
 COHN - Cohen & Company Inc.
 COHR - Coherent Corp. Common Stock
 COHU - Cohu, Inc. - Common Stock
+COIA - ProShares Trust ProShares Ultra COIN
 COIG - Leverage Shares 2X Long COIN Daily ETF
 COII - REX COIN Growth & Income ETF
 COIN - Coinbase Global, Inc. - Class A Common Stock
@@ -3156,7 +3159,7 @@ EPRT - Essential Properties Realty Trust, Inc. Common Stock
 EPRX - Eupraxia Pharmaceuticals Inc. - Common Stock
 EPS - WisdomTree U.S. LargeCap Fund
 EPSB - Harbor ETF Trust Harbor SMID Cap Core ETF
-EPSM - Epsium Enterprise Limited - Ordinary Shares
+EPSM - Epsium Enterprise Limited - Class A Ordinary Shares
 EPSN - Epsilon Energy Ltd. - Common Shares
 EPSV - Harbor ETF Trust Harbor SMID Cap Value ETF
 EPU - iShares MSCI Peru and Global Exposure ETF
@@ -4759,6 +4762,7 @@ HUT - Hut 8 Corp. - Common Stock
 HUYA - HUYA Inc. American depositary shares, each  representing one Class A ordinary share
 HVAC - AdvisorShares Trust AdvisorShares HVAC and Industrials ETF
 HVII - Hennessy Capital Investment Corp. VII - Ordinary Shares
+HVIIR - Hennessy Capital Investment Corp. VII - Rights
 HVIIU - Hennessy Capital Investment Corp. VII - Unit
 HVMCU - Highview Merger Corp. - Units
 HVT - Haverty Furniture Companies, Inc. Common Stock
@@ -4924,6 +4928,7 @@ ICOI - Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF
 ICON - Icon Energy Corp. - Common stock
 ICOP - iShares Copper and Metals Mining ETF
 ICOW - Pacer Developed Markets International Cash Cows 100 ETF
+ICPY - The RBB Fund Trust Tweedy, Browne International Insider + Value ETF
 ICSH - iShares Ultra Short Duration Bond Active ETF
 ICU - SeaStar Medical Holding Corporation - Common Stock
 ICUCW - SeaStar Medical Holding Corporation - Warrant
@@ -5504,6 +5509,7 @@ JNJ - Johnson & Johnson Common Stock
 JNK - SPDR Bloomberg High Yield Bond ETF
 JNUG - Direxion Daily Junior Gold Miners Index Bull 2X Shares
 JOB - GEE Group Inc. Common Stock
+JOBX - Tradr 2X Long JOBY Daily ETF
 JOBY - Joby Aviation, Inc. Common Stock
 JOE - St. Joe Company (The) Common Stock
 JOET - Virtus ETF Trust II Virtus Terranova U.S. Quality Momentum ETF
@@ -5666,6 +5672,7 @@ KKR - KKR & Co. Inc. Common Stock
 KKRS - KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061
 KKRT - KKR & Co. Inc. 6.875% Subordinated Notes due 2065
 KLAC - KLA Corporation  - Common Stock
+KLAR - Klarna Group plc Ordinary Shares
 KLC - KinderCare Learning Companies, Inc. Common Stock
 KLG - WK Kellogg Co Common Stock
 KLIC - Kulicke and Soffa Industries, Inc. - Common Stock
@@ -6839,6 +6846,7 @@ NDVG - Nuveen Dividend Growth ETF
 NE - Noble Corporation plc A Ordinary Shares
 NEA - Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01
 NEAR - iShares Short Duration Bond Active ETF
+NEBX - Tradr 2X Long NBIS Daily ETF
 NECB - NorthEast Community Bancorp, Inc. - Common Stock
 NEE - NextEra Energy, Inc. Common Stock
 NEGG - Newegg Commerce, Inc. - Common Shares
@@ -6902,6 +6910,7 @@ NHC - National HealthCare Corporation Common Stock
 NHI - National Health Investors, Inc. Common Stock
 NHIC - NewHold Investment Corp III - Class A Ordinary shares
 NHICU - NewHold Investment Corp III - Units
+NHICW - NewHold Investment Corp III - Warrants
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger Berman High Yield Strategies Fund
@@ -6923,6 +6932,7 @@ NITE - Capitol Series Trust The Nightview Fund NITE
 NITO - N2OFF, Inc. - Common Stock
 NIU - Niu Technologies - American Depositary Shares
 NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
+NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
 NIXXW - Nixxy, Inc. - Warrant
@@ -7120,6 +7130,7 @@ NVCR - NovoCure Limited - Ordinary Shares
 NVCT - Nuvectis Pharma, Inc. - Common Stock
 NVD - GraniteShares 2x Short NVDA Daily ETF
 NVDA - NVIDIA Corporation - Common Stock
+NVDB - ProShares Trust ProShares Ultra NVDA
 NVDD - Direxion Daily NVDA Bear 1X Shares
 NVDG - Leverage Shares 2X Long NVDA Daily ETF
 NVDL - GraniteShares 2x Long NVDA Daily ETF
@@ -7149,6 +7160,7 @@ NVS - Novartis AG Common Stock
 NVST - Envista Holdings Corporation Common Stock
 NVT - nVent Electric plc Ordinary Shares 
 NVTS - Navitas Semiconductor Corporation - Common Stock
+NVTX - Tradr 2X Long NVTS Daily ETF
 NVVE - Nuvve Holding Corp. - Common Stock
 NVVEW - Nuvve Holding Corp. - Warrant
 NVX - NOVONIX Limited - American Depository Shares
@@ -7388,7 +7400,9 @@ ORGNW - Origin Materials, Inc. - Warrant
 ORGO - Organogenesis Holdings Inc.  - Class A 
 ORI - Old Republic International Corporation Common Stock
 ORIC - Oric Pharmaceuticals, Inc. - Common Stock
+ORIQ - Origin Investment Corp I - Ordinary Shares
 ORIQU - Origin Investment Corp I - Units
+ORIQW - Origin Investment Corp I - one-half of one redeemable warrant.
 ORIS - Oriental Rise Holdings Limited - Ordinary Shares
 ORKA - Oruka Therapeutics, Inc. - Common Stock
 ORKT - Orangekloud Technology Inc. - Class A Ordinary Shares
@@ -7781,6 +7795,7 @@ PLRX - Pliant Therapeutics, Inc. - Common Stock
 PLRZ - Polyrizon Ltd. - Ordinary Shares
 PLSE - Pulse Biosciences, Inc - Common Stock
 PLT - Defiance Leveraged Long Income PLTR ETF
+PLTA - ProShares Trust ProShares Ultra PLTR
 PLTD - Direxion Daily PLTR Bear 1X Shares
 PLTG - Leverage Shares 2X Long PLTR Daily ETF
 PLTK - Playtika Holding Corp. - Common Stock
@@ -7853,6 +7868,7 @@ POLA - Polar Power, Inc. - Common Stock
 POLE - Andretti Acquisition Corp. II - Class A Ordinary Shares
 POLEU - Andretti Acquisition Corp. II - Unit
 POLEW - Andretti Acquisition Corp. II - Warrant
+PONX - Investment Managers Series Trust II Tradr 2X Long PONY Daily ETF
 PONY - Pony AI Inc. - American Depositary Shares
 POOL - Pool Corporation - Common Stock
 POR - Portland General Electric Co Common Stock
@@ -7926,6 +7942,7 @@ PRPL - Purple Innovation, Inc. - Common Stock
 PRPO - Precipio, Inc. - Common Stock
 PRQR - ProQR Therapeutics N.V. - Ordinary Shares
 PRS - Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058
+PRSD - SSGA Active Trust State Street Short Duration IG Public & Private Credit ETF
 PRSO - Peraso Inc. - Common Stock
 PRSU - Pursuit Attractions and Hospitality, Inc. Common Stock
 PRT - PermRock Royalty Trust Trust Units
@@ -8821,6 +8838,7 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
+SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -9288,6 +9306,7 @@ SPIP - SPDR Portfolio TIPS ETF
 SPIR - Spire Global, Inc. Class A Common Stock
 SPKL - Spark I Acquisition Corp. - Class A Ordinary Share
 SPKLU - Spark I Acquisition Corp. - Unit
+SPKLW - Spark I Acquisition Corp. - Warrant
 SPLB - SPDR Portfolio Long Term Corporate Bond ETF
 SPLG - SPDR Portfolio S&P 500 ETF
 SPLV - Invesco S&P 500 Low Volatility ETF
@@ -9443,6 +9462,7 @@ STI - Solidion Technology, Inc. - Common Stock
 STIM - Neuronetics, Inc. - Common Stock
 STIP - iShares 0-5 Year TIPS Bond ETF
 STK - Columbia Seligman Premium Technology Growth Fund Inc
+STKE - Sol Strategies Inc. - Common Shares
 STKH - Steakholder Foods Ltd. - American Depositary Shares
 STKL - SunOpta, Inc. - Common Stock
 STKS - The ONE Group Hospitality, Inc. - Common Stock
@@ -9825,6 +9845,7 @@ TLH - iShares 10-20 Year Treasury Bond ETF
 TLIH - Ten-League International Holdings Limited - Ordinary Shares
 TLK - PT Telekomunikasi Indonesia, Tbk
 TLN - Talen Energy Corporation - Common Stock
+TLNCU - Talon Capital Corp. - Units
 TLPH - Talphera, Inc. - Common Stock
 TLRY - Tilray Brands, Inc. - Common Stock
 TLS - Telos Corporation - Common Stock
@@ -10532,6 +10553,7 @@ VOX - Vanguard Communication Services  ETF
 VOXR - Vox Royalty Corp. - common stock
 VOYA - Voya Financial, Inc. Common Stock
 VOYG - Voyager Technologies, Inc. Class A Common Stock
+VOYX - Tradr 2X Long VOYG Daily ETF
 VPC - Virtus Private Credit Strategy ETF
 VPG - Vishay Precision Group, Inc. Common Stock
 VPL - Vanguard FTSE Pacific ETF
@@ -11132,6 +11154,7 @@ ZETA - Zeta Global Holdings Corp. Class A Common Stock
 ZEUS - Olympic Steel, Inc. - Common Stock
 ZFEB - Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr February
 ZG - Zillow Group, Inc. - Class A Common Stock
+ZGM - Zenta Group Company Limited - Ordinary Shares
 ZGN - Ermenegildo Zegna N.V. Ordinary Shares
 ZH - Zhihu Inc. American Depositary Shares, each representing three (3) Class A Ordinary Shares
 ZHDG - ZEGA Buy and Hedge ETF
