@@ -249,6 +249,7 @@ AGNCM - AGNC Investment Corp. - Depositary Shares rep 6.875% Series D Fixed-to-F
 AGNCN - AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock
 AGNCO - AGNC Investment Corp. - Depositary Shares, each representing a 1/1,000th interest in a share of Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock
 AGNCP - AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
+AGNCZ - AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock
 AGNG - Global X Aging Population ETF
 AGO - Assured Guaranty Ltd. Common Stock
 AGOX - Adaptive Alpha Opportunities ETF
@@ -477,6 +478,7 @@ ANGHW - Anghami Inc. - Warrants
 ANGI - Angi Inc. - Class A Common Stock
 ANGL - VanEck Fallen Angel High Yield Bond ETF
 ANGO - AngioDynamics, Inc. - Common Stock
+ANGX - Angel Studios, Inc. Class A Common Stock
 ANIK - Anika Therapeutics Inc. - Common Stock
 ANIP - ANI Pharmaceuticals, Inc. - Common Stock
 ANIX - Anixa Biosciences, Inc. - Common Stock
@@ -1256,6 +1258,7 @@ BLV - Vanguard Long-Term Bond ETF
 BLW - Blackrock Limited Duration Income Trust
 BLX - Banco Latinoamericano de Comercio Exterior, S.A.
 BLZE - Backblaze, Inc. - Common Stock
+BLZRU - Trailblazer Acquisition Corp. - Unit
 BMA - Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
 BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAX - REX Bitcoin Corporate Treasury Convertible Bond ETF
@@ -3085,6 +3088,7 @@ EMMF - WisdomTree Emerging Markets Multifactor Fund
 EMN - Eastman Chemical Company Common Stock
 EMNT - PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund
 EMO - ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock
+EMO.V - ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights when issued
 EMOP - AB Active ETFs, Inc. AB Emerging Markets Opportunities ETF
 EMOT - First Trust Exchange-Traded Fund VI First Trust S&P 500 Economic Moat ETF
 EMP - Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066
@@ -5850,7 +5854,6 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone ETF Trust Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
-LCFYW - Locafy Limited - Warrant
 LCG - Sterling Capital Focus Equity ETF
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
@@ -5992,6 +5995,7 @@ LITE - Lumentum Holdings Inc. - Common Stock
 LITL - Simplify Exchange Traded Funds Simplify Piper Sandler US Small-Cap PLUS Income ETF
 LITM - Snow Lake Resources Ltd. - Common Shares
 LITP - Sprott Lithium Miners ETF
+LITS - Lite Strategy, Inc. - Common Stock
 LIVE - Live Ventures Incorporated - Common Stock
 LIVN - LivaNova PLC - Ordinary Shares
 LIVR - Intelligent Livermore ETF
@@ -6044,6 +6048,7 @@ LOGI - Logitech International S.A. - Registered Shares
 LOGO - Alpha Brands Consumption Leaders ETF
 LOKV - Live Oak Acquisition Corp. V - Class A Ordinary Shares
 LOKVU - Live Oak Acquisition Corp. V - Units
+LOKVW - Live Oak Acquisition Corp. V - Warrants
 LOMA - Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
 LONZ - PIMCO U.S. Treasury Index Fund PIMCO Senior Loan Active Exchange-Traded Fund
 LOOP - Loop Industries, Inc. - Common Stock
@@ -6329,7 +6334,6 @@ MEG - Montrose Environmental Group, Inc. Common Stock
 MEGI - NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares
 MEGL - Magic Empire Global Limited - Class A Ordinary Shares
 MEI - Methode Electronics, Inc. Common Stock
-MEIP - MEI Pharma, Inc. - Common Stock
 MELI - MercadoLibre, Inc. - Common Stock
 MEM - Matthews International Funds Matthews Emerging Markets Equity Active ETF
 MEMS - Matthews Emerging Markets Discovery Active ETF
@@ -6346,6 +6350,7 @@ METCB - Ramaco Resources, Inc. - Class B Common Stock
 METCI - Ramaco Resources, Inc. - 8.250% Senior Notes due 2030
 METCZ - Ramaco Resources, Inc. - 8.375% Senior Notes due 2029
 METD - Direxion Daily META Bear 1X Shares
+METL - Sprott Active Metals & Miners ETF
 METU - Direxion Daily META Bull 2X Shares
 METV - Roundhill Ball Metaverse ETF
 METW - Roundhill ETF Trust Roundhill META WeeklyPay ETF
@@ -7258,7 +7263,6 @@ OCTD - Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF - October
 OCTH - Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - October
 OCTJ - Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - October
 OCTM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - October
-OCTO - Eightco Holdings Inc. - Common Stock
 OCTP - PGIM S&P 500 Buffer 12 ETF - October
 OCTQ - Innovator ETFs Trust Innovator Premium Income 40 Barrier ETF - October
 OCTT - AllianzIM U.S. Large Cap Buffer10 Oct ETF
@@ -7497,6 +7501,7 @@ PAGP - Plains GP Holdings, L.P. - Class A Shares representing limited partner in
 PAGS - PagSeguro Digital Ltd. Class A Common Shares
 PAHC - Phibro Animal Health Corporation - Class A Common Stock
 PAI - Western Asset Investment Grade Income Fund Inc.
+PAII - Pyrophyte Acquisition Corp. II Class A Ordinary Shares
 PAL - Proficient Auto Logistics, Inc. - Common Stock
 PALC - Pacer Lunt Large Cap Multi-Factor Alternator ETF
 PALD - Direxion Daily PANW Bear 1X Shares
@@ -9149,6 +9154,7 @@ SMMU - Short Term Municipal Bond Active Exchange-Traded Fund
 SMMV - iShares MSCI USA Small-Cap Min Vol Factor ETF
 SMN - ProShares UltraShort Materials
 SMOG - VanEck Low Carbon Energy ETF
+SMOM - Symmetry Panoramic Sector Momentum ETF
 SMOT - VanEck ETF Trust VanEck Morningstar SMID Moat ETF
 SMP - Standard Motor Products, Inc. Common Stock
 SMPL - The Simply Good Foods Company - Common Stock
@@ -10023,6 +10029,7 @@ TSII - REX TSLA Growth & Income ETF
 TSL - GraniteShares 1.25x Long TSLA Daily ETF
 TSLA - Tesla, Inc.  - Common Stock
 TSLG - Leverage Shares 2X Long TSLA Daily ETF
+TSLI - ProShares Trust ProShares Ultra TSLA
 TSLL - Direxion Daily TSLA Bull 2X Shares
 TSLO - Themes ETF Trust Leverage Shares 2x Capped Accelerated TSLA Monthly ETF
 TSLP - Kurv Yield Premium Strategy Tesla (TSLA) ETF
@@ -10690,6 +10697,7 @@ WBS - Webster Financial Corporation Common Stock
 WBTN - WEBTOON Entertainment Inc. - Common stock
 WBUY - WEBUY GLOBAL LTD. - Class A Ordinary Shares
 WBX - Wallbox N.V. Class A Ordinary Shares
+WCAP - Spinnaker ETF Series WarCap Unconstrained Equity ETF
 WCBR - WisdomTree Cybersecurity Fund
 WCC - WESCO International, Inc. Common Stock
 WCEO - Hypatia Women CEO ETF
