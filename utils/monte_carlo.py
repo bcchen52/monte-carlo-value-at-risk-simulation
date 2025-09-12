@@ -380,6 +380,7 @@ def plot_visualization_2(initial_prices, weighted_prices, final_portfolio_values
         legend=dict(
             yanchor="bottom",
             orientation="h",
+            y=1.02,
         ),
         title=f"Mean Contribution to Conditional {int(ci*100)}% VaR (CVaR) vs Initial Portfolio Weight",
         template="plotly_dark"
@@ -584,6 +585,7 @@ def plot_visualization_4(initial_prices, weighted_prices, ci):
         legend=dict(
             yanchor="bottom",
             orientation="h",
+            y=1.02,
         ),
         template="plotly_dark"
     )
@@ -621,6 +623,7 @@ def plot_visualization_5(simulated_prices, num_days, num_simulations, tickers):
         legend=dict(
             yanchor="bottom",
             orientation="h",
+            y=1.02,
             itemclick="toggle",
             itemdoubleclick="toggleothers",
         ),
