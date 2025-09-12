@@ -1101,6 +1101,8 @@ BGLC - BioNexus Gene Lab Corp - Common stock
 BGLD - FT Vest Gold Strategy Quarterly Buffer ETF
 BGLWW - Blue Gold Limited - Warrant
 BGM - BGM Group Ltd. - Class A Ordinary Shares
+BGMS - Bio Green Med Solution, Inc. - Common Stock
+BGMSP - Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock
 BGR - BlackRock Energy and Resources Trust
 BGRN - iShares USD Green Bond ETF
 BGRO - iShares Large Cap Growth Active ETF
@@ -1420,7 +1422,6 @@ BSCY - Invesco BulletShares 2034 Corporate Bond ETF
 BSCZ - Invesco BulletShares 2035 Corporate Bond ETF
 BSEP - Innovator U.S. Equity Buffer ETF - September
 BSET - Bassett Furniture Industries, Incorporated - Common Stock
-BSGM - BioSig Technologies, Inc. - Common Stock
 BSJP - Invesco BulletShares 2025 High Yield Corporate Bond ETF
 BSJQ - Invesco BulletShares 2026 High Yield Corporate Bond ETF
 BSJR - Invesco BulletShares 2027 High Yield Corporate Bond ETF
@@ -1585,7 +1586,7 @@ C - Citigroup, Inc. Common Stock
 CA - Xtrackers California Municipal Bonds ETF
 CAAA - First Trust AAA CMBS ETF
 CAAP - Corporacion America Airports SA Common Shares
-CAAS - China Automotive Systems, Inc. - Common Stock
+CAAS - China Automotive Systems, Inc. - Ordinary Share
 CABA - Cabaletta Bio, Inc. - Common Stock
 CABO - Cable One, Inc. Common Stock
 CAC - Camden National Corporation - Common Stock
@@ -1623,6 +1624,7 @@ CAOS - EA Series Trust Alpha Architect Tail Risk ETF
 CAPE - DoubleLine ETF Trust DoubleLine Shiller CAPE U.S. Equities ETF
 CAPL - CrossAmerica Partners LP Common Units representing limited partner interests
 CAPN - Cayson Acquisition Corp - Ordinary Shares
+CAPNR - Cayson Acquisition Corp - Right
 CAPNU - Cayson Acquisition Corp - Units
 CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
@@ -2389,8 +2391,6 @@ CXT - Crane NXT, Co. Common Stock
 CXW - CoreCivic, Inc. Common Stock
 CYBN - Cybin Inc. Common Shares
 CYBR - CyberArk Software Ltd. - Ordinary Shares
-CYCC - Cyclacel Pharmaceuticals, Inc. - Common Stock
-CYCCP - Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock
 CYCN - Cyclerion Therapeutics, Inc. - Common Stock
 CYCU - Cycurion, Inc. - Common Stock
 CYCUW - Cycurion, Inc. - Warrants
@@ -2730,7 +2730,6 @@ DRLL - EA Series Trust Strive U.S. Energy ETF
 DRMA - Dermata Therapeutics, Inc. - Common Stock
 DRMAW - Dermata Therapeutics, Inc. - Warrant
 DRN - Direxion Daily Real Estate Bull 3X Shares
-DRRX - DURECT Corporation - Common Stock
 DRS - Leonardo DRS, Inc. - Common Stock
 DRSK - Aptus Defined Risk ETF 
 DRTS - Alpha Tau Medical Ltd. - Ordinary Shares
@@ -2851,7 +2850,6 @@ DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
 DYCQ - DT Cloud Acquisition Corporation - Ordinary shares
-DYCQR - DT Cloud Acquisition Corporation - Right
 DYCQU - DT Cloud Acquisition Corporation - Unit
 DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
@@ -3281,7 +3279,6 @@ EUFN - iShares MSCI Europe Financials ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3x Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -3622,6 +3619,7 @@ FIDU - Fidelity MSCI Industrials Index ETF
 FIEE - FiEE, Inc - Common Stock
 FIG - Figma, Inc. Class A Common Stock
 FIGB - Fidelity Investment Grade Bond ETF
+FIGR - Figure Technology Solutions, Inc. - Class A Common Stock
 FIGS - FIGS, Inc. Class A Common Stock
 FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
@@ -3808,6 +3806,7 @@ FORD - Forward Industries, Inc. - Common Stock
 FORH - Formidable ETF
 FORL - Four Leaf Acquisition Corporation - Class A Common Stock
 FORLU - Four Leaf Acquisition Corporation - Unit
+FORLW - Four Leaf Acquisition Corporation - Warrants
 FORM - FormFactor, Inc. - Common Stock
 FORR - Forrester Research, Inc. - Common Stock
 FORTY - Formula Systems (1985) Ltd. - American Depositary Shares
@@ -4486,7 +4485,6 @@ HAO - Haoxi Health Technology Limited - Class A Ord Share
 HAP - VanEck Natural Resources ETF
 HAPI - Harbor Human Capital Factor US Large Cap ETF
 HAPS - Harbor Human Capital Factor US Small Cap ETF
-HAPY - Harbor Human Capital Factor Unconstrained ETF
 HARD - Simplify Exchange Traded Funds Simplify Commodities Strategy No K-1 ETF
 HAS - Hasbro, Inc. - Common Stock
 HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
@@ -5787,6 +5785,7 @@ KURA - Kura Oncology, Inc. - Common Stock
 KURE - KraneShares MSCI All China Health Care Index ETF
 KVAC - Keen Vision Acquisition Corporation - Ordinary Shares
 KVACU - Keen Vision Acquisition Corporation - Units
+KVACW - Keen Vision Acquisition Corporation - Warrant
 KVHI - KVH Industries, Inc. - Common Stock
 KVLE - KraneShares Value Line Dynamic Dividend Equity Index ETF
 KVUE - Kenvue Inc. Common Stock
@@ -5842,13 +5841,13 @@ LBRDA - Liberty Broadband Corporation - Class A Common Stock
 LBRDK - Liberty Broadband Corporation - Class C Common Stock
 LBRDP - Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock
 LBRT - Liberty Energy Inc. Class A common stock
+LBRX - LB Pharmaceuticals Inc - Common Stock
 LBTYA - Liberty Global Ltd. - Class A Common Shares
 LBTYB - Liberty Global Ltd. - Class B Common Shares
 LBTYK - Liberty Global Ltd. - Class C Common Shares
 LC - LendingClub Corporation Common Stock
 LCAP - Principal Exchange-Traded Funds Principal Capital Appreciation Select ETF
 LCCC - Lakeshore Acquisition III Corp. - Ordinary Shares
-LCCCR - Lakeshore Acquisition III Corp. - Rights
 LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
@@ -7319,7 +7318,6 @@ OLED - Universal Display Corporation - Common Stock
 OLLI - Ollie's Bargain Outlet Holdings, Inc. - Common Stock
 OLMA - Olema Pharmaceuticals, Inc. - Common Stock
 OLN - Olin Corporation Common Stock
-OLO - Olo Inc. Class A Common Stock
 OLP - One Liberty Properties, Inc. Common Stock
 OLPX - Olaplex Holdings, Inc. - Common Stock
 OM - Outset Medical, Inc. - Common Stock
@@ -7396,6 +7394,7 @@ OPXS - Optex Systems Holdings, Inc. - Common Stock
 OPY - Oppenheimer Holdings, Inc. Class A Common Stock (DE)
 OR - OR Royalties Inc. Common Shares
 ORA - Ormat Technologies, Inc. Common Stock
+ORBS - Eightco Holdings Inc. - Common Stock
 ORC - Orchid Island Capital, Inc. Common Stock
 ORCL - Oracle Corporation Common Stock
 ORCX - Defiance Daily Target 2X Long ORCL ETF
@@ -9060,7 +9059,6 @@ SKOR - FlexShares Credit-Scored US Corporate Bond Index Fund
 SKRE - Tuttle Capital Daily 2X Inverse Regional Banks ETF
 SKT - Tanger Inc. Common Stock
 SKWD - Skyward Specialty Insurance Group, Inc. - Common Stock
-SKX - Skechers U.S.A., Inc. Common Stock
 SKY - Champion Homes, Inc. Common Stock
 SKYE - Skye Bioscience, Inc. - Common Stock
 SKYH - Sky Harbour Group Corporation Class A Common Stock
@@ -9459,6 +9457,7 @@ STEL - Stellar Bancorp, Inc. Common Stock
 STEM - Stem, Inc. Class A Common Stock
 STEP - StepStone Group Inc. - Class A Common Stock
 STEW - SRH Total Return Fund, Inc. Common Stock
+STEX - Streamex Corp. - Common Stock
 STFS - Star Fashion Culture Holdings Limited - Class A Ordinary Shares
 STG - Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares
 STGW - Stagwell Inc. - Class A Common Stock
@@ -10473,6 +10472,7 @@ VGZ - Vista Gold Corp Common Stock
 VHC - VirnetX Holding Corp Common Stock
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
+VIA - Via Transportation, Inc. Class A Common Stock
 VIASP - Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock
 VIAV - Viavi Solutions Inc. - Common Stock
 VICE - AdvisorShares Trust AdvisorShares Vice ETF
@@ -10882,8 +10882,6 @@ WYHG - Wing Yip Food Holdings Group Limited - American Depositary Shares
 WYNN - Wynn Resorts, Limited - Common Stock
 WYY - WidePoint Corporation Common Stock
 WZRD - ETF Opportunities Trust Opportunistic Trader ETF
-XAGE - Longevity Health Holdings, Inc. - Common Stock
-XAGEW - Longevity Health Holdings, Inc. - Warrant
 XAIR - Beyond Air, Inc. - Common Stock
 XAIX - Xtrackers Artificial Intelligence and Big Data ETF
 XAPR - SHL Telemedicine Ltd FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April
