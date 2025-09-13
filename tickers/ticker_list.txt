@@ -1196,7 +1196,6 @@ BKF - iShares MSCI BIC ETF
 BKGI - BNY Mellon ETF Trust BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
-BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -1365,6 +1364,7 @@ BRAZ - Global X Funds Global X Brazil Active ETF
 BRBR - BellRing Brands, Inc. Common Stock 
 BRBS - Blue Ridge Bankshares, Inc. Common Stock
 BRC - Brady Corporation Common Stock
+BRCB - Black Rock Coffee Bar, Inc. - Class A Common Stock
 BRCC - BRC Inc. Class A Common Stock
 BREA - Brera Holdings PLC - Class B Ordinary Shares
 BRF - VanEck Brazil Small-Cap ETF
@@ -1856,7 +1856,6 @@ CHAC - Crane Harbor Acquisition Corp. - Class A Ordinary Shares
 CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
-CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -2188,7 +2187,6 @@ CR - Crane Company Common Stock
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
-CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -2850,6 +2848,7 @@ DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
 DYCQ - DT Cloud Acquisition Corporation - Ordinary shares
+DYCQR - DT Cloud Acquisition Corporation - Right
 DYCQU - DT Cloud Acquisition Corporation - Unit
 DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
@@ -3217,7 +3216,6 @@ ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIX - SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
-ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESML - iShares ESG Aware MSCI USA Small-Cap ETF
 ESMV - iShares ESG Optimized MSCI USA Min Vol Factor ETF
@@ -3279,6 +3277,7 @@ EUFN - iShares MSCI Europe Financials ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
+EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3x Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -3797,6 +3796,7 @@ FNY - First Trust Mid Cap Growth AlphaDEX Fund
 FOA - Finance of America Companies Inc. Class A Common Stock
 FOCT - FT Vest U.S. Equity Buffer ETF - October
 FOF - Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock
+FOFO - Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares
 FOLD - Amicus Therapeutics, Inc. - Common Stock
 FONR - Fonar Corporation - Common Stock
 FOPC - The Advisors' Inner Circle Fund II Frontier Asset Opportunistic Credit ETF
@@ -4091,6 +4091,7 @@ GDXY - Tidal Trust II YieldMax Gold Miners Option Income Strategy ETF
 GDYN - Grid Dynamics Holdings, Inc. - Class A Common Stock
 GE - GE Aerospace Common Stock
 GECC - Great Elm Capital Corp. - Closed End Fund
+GECCG - Great Elm Capital Corp. - 7.75% Notes Due 2030
 GECCH - Great Elm Capital Corp. - 8.125% Notes Due 2029
 GECCI - Great Elm Capital Corp. - 8.50% NOTES DUE 2029
 GECCO - Great Elm Capital Corp. - 5.875% Notes due 2026
@@ -4104,6 +4105,7 @@ GELS - Gelteq Limited - Ordinary Shares
 GEM - Goldman Sachs ActiveBeta Emerging Markets Equity ETF
 GEMD - Goldman Sachs ETF Trust Goldman Sachs Access Emerging Markets USD Bond ETF
 GEME - Pacific North of South EM Equity Active ETF
+GEMI - Gemini Space Station, Inc. - Class A Common Stock
 GEN - Gen Digital Inc. - Common Stock
 GENC - Gencor Industries, Inc. Common Stock
 GEND - Spinnaker ETF Series Genter Capital Dividend Income ETF
@@ -4386,7 +4388,6 @@ GSG - iShares GSCI Commodity-Indexed Trust Fund
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
-GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -5299,6 +5300,7 @@ ITEQ - Amplify ETF Trust Amplify BlueStar Israel Technology ETF
 ITGR - Integer Holdings Corporation Common Stock
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck ETF Trust VanEck Intermediate Muni ETF
+ITOL - Tema ETF Trust Tema International Durable Quality ETF
 ITOT - iShares Core S&P Total U.S. Stock Market ETF
 ITP - IT Tech Packaging, Inc. Common Stock
 ITRG - Integra Resources Corp. Common Shares
@@ -5941,6 +5943,7 @@ LGI - Lazard Global Total Return and Income Fund Common Stock
 LGIH - LGI Homes, Inc. - Common Stock
 LGL - LGL Group, Inc. (The) Common Stock
 LGLV - SPDR SSGA US Large Cap Low Volatility Index ETF
+LGN - Legence Corp. - Class A Common stock
 LGND - Ligand Pharmaceuticals Incorporated - Common Stock
 LGO - Largo Inc. - Common Shares
 LGOV - First Trust Long Duration Opportunities ETF
@@ -6227,6 +6230,7 @@ MAXI - Simplify Bitcoin Strategy PLUS Income ETF
 MAXJ - iShares Trust iShares Large Cap Max Buffer Jun ETF
 MAXN - Maxeon Solar Technologies, Ltd. - Ordinary Shares
 MAYA - Maywood Acquisition Corp. - Class A Ordinary Shares
+MAYAR - Maywood Acquisition Corp. - Right
 MAYAU - Maywood Acquisition Corp. - Unit
 MAYM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - May
 MAYP - PGIM S&P 500 Buffer 12 ETF - May
@@ -7219,7 +7223,6 @@ OABI - OmniAb, Inc. - Common Stock
 OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
-OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - Unified Series Trust OneAscent Core Plus Bond ETF
 OAEM - Unified Series Trust OneAscent Emerging Markets ETF
 OAIM - Unified Series Trust OneAscent International Equity ETF
@@ -7340,7 +7343,9 @@ ONB - Old National Bancorp - Common Stock
 ONBPO - Old National Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series C Preferred Stock
 ONBPP - Old National Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series A Preferred Stock
 ONC - BeOne Medicines Ltd. - American Depositary Shares
+ONCH - 1RT Acquisition Corp. - Class A Ordinary Share
 ONCHU - 1RT Acquisition Corp. - Units
+ONCHW - 1RT Acquisition Corp. - Warrant
 ONCO - Onconetix, Inc.  - Common Stock
 ONCY - Oncolytics Biotech Inc. - Common Shares
 OND - ProShares On-Demand ETF
@@ -7353,7 +7358,6 @@ ONEW - OneWater Marine Inc. - Class A Common Stock
 ONEY - SPDR Russell 1000 Yield Focus ETF
 ONEZ - Elevation Series Trust TrueShares Seasonality Laddered Buffered ETF
 ONFO - Onfolio Holdings Inc. - Common Stock
-ONFOW - Onfolio Holdings Inc. - Warrant
 ONIT - Onity Group Inc. Common Stock
 ONL - Orion Properties Inc. Common Stock
 ONLN - ProShares Online Retail ETF
@@ -7432,6 +7436,7 @@ OSUR - OraSure Technologies, Inc. - Common Stock
 OSW - OneSpaWorld Holdings Limited - Common Shares
 OTEX - Open Text Corporation - Common Shares
 OTF - Blue Owl Technology Finance Corp. Common Stock
+OTGAU - OTG Acquisition Corp. I - Unit
 OTGL - OTG Latin America ETF
 OTIS - Otis Worldwide Corporation Common Stock 
 OTLK - Outlook Therapeutics, Inc. - Common Stock
@@ -7694,7 +7699,6 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
-PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -8268,7 +8272,6 @@ RAA - SMI 3Fourteen REAL Asset Allocation ETF
 RAAA - Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF
 RAAQ - Real Asset Acquisition Corp. - Class A Ordinary Share
 RAAQU - Real Asset Acquisition Corp. - Unit
-RAAQW - Real Asset Acquisition Corp. - Warrants
 RAAX - VanEck Real Assets ETF
 RAC - Rithm Acquisition Corp. Class A Ordinary Shares
 RACE - Ferrari N.V. Common Shares
@@ -8287,6 +8290,7 @@ RANI - Rani Therapeutics Holdings, Inc. - Class A Common Stock
 RAPP - Rapport Therapeutics, Inc. - Common Stock
 RAPT - RAPT Therapeutics, Inc. - Common Stock
 RARE - Ultragenyx Pharmaceutical Inc. - Common Stock
+RAUS - RACWI US ETF
 RAVE - Rave Restaurant Group, Inc. - Common Stock
 RAVI - FlexShares Ultra-Short Income Fund
 RAY - Raytech Holding Limited - ordinary shares
@@ -9016,7 +9020,6 @@ SILO - Silo Pharma, Inc. - Common Stock
 SIM - Grupo Simec, S.A.B. de C.V. American Depositary Shares
 SIMA - SIM Acquisition Corp. I - Class A Ordinary Shares
 SIMAU - SIM Acquisition Corp. I - Unit
-SIMAW - SIM Acquisition Corp. I - Warrant
 SIMO - Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares
 SIMS - SPDR S&P Kensho Intelligent Structures ETF 
 SINT - SiNtx Technologies, Inc. - Common Stock
@@ -10708,10 +10711,12 @@ WCN - Waste Connections, Inc. Common Shares
 WCPB - Northern Lights Fund Trust II Weitz Core Plus Bond ETF
 WCT - Wellchange Holdings Company Limited - Class A Ordinary shares
 WD - Walker & Dunlop, Inc Common Stock
+WDAF - WisdomTree Asia Defense Fund
 WDAY - Workday, Inc. - Class A Common Stock
 WDC - Western Digital Corporation - Common Stock
 WDEF - WisdomTree Trust WisdomTree Europe Defense Fund
 WDFC - WD-40 Company - Common Stock
+WDGF - WisdomTree Global Defense Fund
 WDH - Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares)
 WDI - Western Asset Diversified Income Fund Common Shares of Beneficial Interest
 WDIV - SPDR S&P Global Dividend
