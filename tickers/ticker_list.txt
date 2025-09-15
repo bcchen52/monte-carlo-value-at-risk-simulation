@@ -302,7 +302,6 @@ AIRG - Airgain, Inc. - Common Stock
 AIRI - Air Industries Group Common Stock
 AIRJ - AirJoule Technologies Corporation - Class A Common Stock
 AIRJW - AirJoule Technologies Corporation - Warrant
-AIRL - Themes Airlines ETF
 AIRO - AIRO Group Holdings, Inc. - Common Stock
 AIRR - First Trust RBA American Industrial Renaissance ETF
 AIRS - AirSculpt Technologies, Inc. - Common Stock
@@ -595,7 +594,6 @@ AREBW - American Rebel Holdings, Inc. - warrants
 AREC - American Resources Corporation - Class A Common Stock
 AREN - The Arena Group Holdings, Inc. Common Stock
 ARES - Ares Management Corporation Class A Common Stock
-ARGD - Argo Group International Holdings, Ltd. 6.5% Senior Notes Due 2042
 ARGT - Global X MSCI Argentina ETF
 ARGX - argenx SE - American Depositary Shares
 ARHS - Arhaus, Inc. - Class A Common Stock
@@ -687,7 +685,7 @@ ASPSZ - Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants
 ASR - Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock
 ASRT - Assertio Holdings, Inc. - Common Stock
 ASRV - AmeriServ Financial Inc. - Common Stock
-ASST - Asset Entities Inc. - Class B Common Stock
+ASST - Strive, Inc. - Class A Common Stock
 ASTC - Astrotech Corporation - Common Stock
 ASTE - Astec Industries, Inc. - Common Stock
 ASTH - Astrana Health Inc. - Common Stock
@@ -1199,7 +1197,6 @@ BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
-BKIV - BNY Mellon Innovators ETF
 BKKT - Bakkt Holdings, Inc. Class A Common Stock
 BKLC - BNY Mellon US Large Cap Core Equity ETF
 BKLN - Invesco Senior Loan ETF
@@ -1214,7 +1211,6 @@ BKTI - BK Technologies Corporation Common Stock
 BKU - BankUnited, Inc. Common Stock
 BKUI - BNY Mellon Ultra Short Income ETF
 BKV - BKV Corporation Common Stock
-BKWO - BNY Mellon Women's Opportunities ETF
 BKYI - BIO-key International, Inc. - Common Stock
 BL - BlackLine, Inc. - Common Stock
 BLBD - Blue Bird Corporation - Common Stock
@@ -2597,7 +2593,7 @@ DHS - WisdomTree U.S. High Dividend Fund
 DHSB - Strategy Shares Day Hagan Smart Buffer ETF
 DHT - DHT Holdings, Inc.
 DHX - DHI Group, Inc. Common Stock
-DHY - Credit Suisse High Yield Bond Fund Common Stock
+DHY - Credit Suisse High Yield Credit Fund Common Stock
 DIA - SPDR Dow Jones Industrial Average ETF
 DIAL - Columbia Diversified Fixed Income Allocation ETF
 DIAX - Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest
@@ -3626,7 +3622,6 @@ FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIHL - Fidelis Insurance Holdings Limited Common Shares
 FIIG - First Trust Exchange-Traded Fund IV First Trust Intermediate Duration Investment Grade Corporate ETF
 FILL - iShares MSCI Global Energy Producers Fund
-FINE - Themes European Luxury ETF
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
 FINT - The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF
 FINV - FinVolution Group American Depositary Shares
@@ -5901,8 +5896,6 @@ LEVI - Levi Strauss & Co Class A Common Stock
 LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LEXXW - Lexaria Bioscience Corp. - Warrant
-LFAE - LifeX 2048 Longevity Income ETF
-LFAF - LifeX 2049 Longevity Income ETF
 LFAI - LifeX 2050 Longevity Income ETF
 LFAJ - LifeX 2051 Longevity Income ETF
 LFAK - LifeX 2052 Longevity Income ETF
@@ -5955,8 +5948,6 @@ LHAI - Linkhome Holdings Inc. - Common stock
 LHSW - Lianhe Sowell International Group Ltd - Ordinary Shares
 LHX - L3Harris Technologies, Inc. Common Stock
 LI - Li Auto Inc. - American Depositary Shares
-LIAB - LifeX 2048 Inflation-Protected Longevity Income ETF
-LIAC - LifeX 2049 Inflation-Protected Longevity Income ETF
 LIAE - LifeX 2050 Inflation-Protected Longevity Income ETF
 LIAF - LifeX 2051 Inflation-Protected Longevity Income ETF
 LIAG - LifeX 2052 Inflation-Protected Longevity Income ETF
@@ -10080,7 +10071,6 @@ TUGN - STF Tactical Growth & Income ETF
 TUR - iShares MSCI Turkey ETF
 TURB - Turbo Energy, S.A. - American Depositary Shares
 TURF - T. Rowe Price Natural Resources ETF
-TURN - 180 Degree Capital Corp. - Closed End Fund
 TUSB - Thrivent ETF Trust Thrivent Ultra Short Bond ETF
 TUSI - Touchstone ETF Trust Touchstone Ultra Short Income ETF
 TUSK - Mammoth Energy Services, Inc. - Common Stock
