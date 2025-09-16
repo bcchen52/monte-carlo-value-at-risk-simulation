@@ -1030,7 +1030,9 @@ BDRY - Amplify Commodity Trust Breakwave Dry Bulk Shipping ETF
 BDSX - Biodesix, Inc. - Common Stock
 BDTX - Black Diamond Therapeutics, Inc. - Common Stock
 BDVG - Litman Gregory Funds Trust IMGP Berkshire Dividend Growth ETF
+BDVL - iShares Disciplined Volatility Equity Active ETF
 BDX - Becton, Dickinson and Company Common Stock
+BDYN - iShares Dynamic Equity Active ETF
 BE - Bloom Energy Corporation Class A Common Stock
 BEAG - Bold Eagle Acquisition Corp. - Class A Ordinary Shares
 BEAGR - Bold Eagle Acquisition Corp. - Right
@@ -1130,6 +1132,7 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - DBX ETF Trust Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
+BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
@@ -1625,6 +1628,7 @@ CAPNU - Cayson Acquisition Corp - Units
 CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
 CAPT - Captivision Inc. - Ordinary Shares
+CAPTW - Captivision Inc. - Warrant
 CAR - Avis Budget Group, Inc. - Common Stock
 CARD - Bank Of Montreal MAX Auto Industry -3x Inverse Leveraged ETN
 CARE - Carter Bankshares, Inc. - Common Stock
@@ -1852,6 +1856,7 @@ CHAC - Crane Harbor Acquisition Corp. - Class A Ordinary Shares
 CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
+CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -1873,6 +1878,7 @@ CHMG - Chemung Financial Corp  - Common Stock
 CHMI - Cherry Hill Mortgage Investment Corporation Common Stock
 CHN - China Fund, Inc. (The) Common Stock
 CHNR - China Natural Resources, Inc. - Common Shares
+CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
 CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
@@ -2183,6 +2189,7 @@ CR - Crane Company Common Stock
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
+CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -2614,6 +2621,7 @@ DIT - AMCON Distributing Company Common Stock
 DIV - Global X Super Dividend ETF
 DIVB - iShares Core Dividend ETF
 DIVD - Altrius Global Dividend ETF
+DIVE - Tidal Trust I Dana Concentrated Dividend ETF
 DIVG - Invesco Exchange-Traded Fund Trust II Invesco S&P 500 High Dividend Growers ETF
 DIVI - Franklin International Core Dividend Tilt Index ETF
 DIVL - Madison ETFs Trust Madison Dividend Value ETF
@@ -2783,6 +2791,7 @@ DUKQ - Northern Lights Fund Trust Ocean Park Domestic ETF
 DUKX - Ocean Park International ETF
 DUKZ - Northern Lights Fund Trust Ocean Park Diversified Income ETF
 DULL - Bank Of Montreal MicroSectors Gold -3X Inverse Leveraged ETNs due January 29, 2043
+DUNK - Tidal Trust I Dana Unconstrained Equity ETF
 DUO - Fangdd Network Group Ltd. - Class A Ordinary Shares
 DUOL - Duolingo, Inc. - Class A Common Stock
 DUOT - Duos Technologies Group, Inc. - Common Stock
@@ -4367,7 +4376,7 @@ GRPZ - Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap 600 GARP ETF
 GRRR - Gorilla Technology Group Inc. - Ordinary shares
 GRRRW - Gorilla Technology Group Inc. - Warrant
 GRVY - GRAVITY Co., Ltd. - American depositary shares, each representing one common share.
-GRW - TCW Compounders ETF
+GRW - TCW Durable Growth ETF
 GRWG - GrowGeneration Corp. - Common Stock
 GRX - The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest
 GS - Goldman Sachs Group, Inc. (The) Common Stock
@@ -4383,6 +4392,7 @@ GSG - iShares GSCI Commodity-Indexed Trust Fund
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
+GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -5897,10 +5907,6 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LEXXW - Lexaria Bioscience Corp. - Warrant
 LFAI - LifeX 2050 Longevity Income ETF
-LFAJ - LifeX 2051 Longevity Income ETF
-LFAK - LifeX 2052 Longevity Income ETF
-LFAL - LifeX 2053 Longevity Income ETF
-LFAN - LifeX 2054 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAQ - LifeX 2056 Longevity Income ETF
 LFAR - LifeX 2057 Longevity Income ETF
@@ -5949,10 +5955,6 @@ LHSW - Lianhe Sowell International Group Ltd - Ordinary Shares
 LHX - L3Harris Technologies, Inc. Common Stock
 LI - Li Auto Inc. - American Depositary Shares
 LIAE - LifeX 2050 Inflation-Protected Longevity Income ETF
-LIAF - LifeX 2051 Inflation-Protected Longevity Income ETF
-LIAG - LifeX 2052 Inflation-Protected Longevity Income ETF
-LIAJ - LifeX 2053 Inflation-Protected Longevity Income ETF
-LIAK - LifeX 2054 Inflation-Protected Longevity Income ETF
 LIAM - LifeX 2055 Inflation-Protected Longevity Income ETF
 LIAO - LifeX 2056 Inflation-Protected Longevity Income ETF
 LIAP - LifeX 2057 Inflation-Protected Longevity Income ETF
@@ -6456,6 +6458,7 @@ MLAB - Mesa Laboratories, Inc. - Common Stock
 MLAC - Mountain Lake Acquisition Corp. - Class A Ordinary Shares
 MLACR - Mountain Lake Acquisition Corp. - Right
 MLACU - Mountain Lake Acquisition Corp. - Units
+MLCI - Mount Logan Capital Inc. - Common Stock
 MLCO - Melco Resorts & Entertainment Limited - American Depositary Shares 
 MLDR - Global X Funds Global X Intermediate-Term Treasury Ladder ETF
 MLEC - Moolec Science SA - Ordinary shares
@@ -7214,6 +7217,7 @@ OABI - OmniAb, Inc. - Common Stock
 OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
+OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - Unified Series Trust OneAscent Core Plus Bond ETF
 OAEM - Unified Series Trust OneAscent Emerging Markets ETF
 OAIM - Unified Series Trust OneAscent International Equity ETF
@@ -7349,6 +7353,7 @@ ONEW - OneWater Marine Inc. - Class A Common Stock
 ONEY - SPDR Russell 1000 Yield Focus ETF
 ONEZ - Elevation Series Trust TrueShares Seasonality Laddered Buffered ETF
 ONFO - Onfolio Holdings Inc. - Common Stock
+ONFOW - Onfolio Holdings Inc. - Warrant
 ONIT - Onity Group Inc. Common Stock
 ONL - Orion Properties Inc. Common Stock
 ONLN - ProShares Online Retail ETF
@@ -7400,7 +7405,7 @@ ORI - Old Republic International Corporation Common Stock
 ORIC - Oric Pharmaceuticals, Inc. - Common Stock
 ORIQ - Origin Investment Corp I - Ordinary Shares
 ORIQU - Origin Investment Corp I - Units
-ORIQW - Origin Investment Corp I - one-half of one redeemable warrant.
+ORIQW - Origin Investment Corp I - Redeemable Warrant
 ORIS - Oriental Rise Holdings Limited - Ordinary Shares
 ORKA - Oruka Therapeutics, Inc. - Common Stock
 ORKT - Orangekloud Technology Inc. - Class A Ordinary Shares
@@ -7690,6 +7695,7 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
+PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -9322,6 +9328,7 @@ SPOT - Spotify Technology S.A. Ordinary Shares
 SPPL - SIMPPLE LTD. - Ordinary Shares
 SPPP - Sprott Physical Platinum and Palladium Trust
 SPR - Spirit Aerosystems Holdings, Inc. Common Stock
+SPRB - Spruce Biosciences, Inc. - Common Stock
 SPRC - SciSparc Ltd. - Ordinary Shares
 SPRE - SP Funds S&P Global REIT Sharia ETF
 SPRO - Spero Therapeutics, Inc. - Common Stock
@@ -9590,6 +9597,7 @@ SYSB - iShares Systematic Bond ETF
 SYTA - Siyata Mobile, Inc. - Common Shares
 SYTAW - Siyata Mobile, Inc. - Warrant
 SYY - Sysco Corporation Common Stock
+SYZ - Lazard US Systematic Small Cap Equity ETF
 SZK - ProShares UltraShort Consumer Staples
 SZNE - Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF
 SZZL - Sizzle Acquisition Corp. II - Class A ordinary shares
