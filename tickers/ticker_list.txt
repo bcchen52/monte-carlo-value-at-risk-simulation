@@ -1211,6 +1211,7 @@ BKLN - Invesco Senior Loan ETF
 BKMC - BNY Mellon US Mid Cap Core Equity ETF
 BKN - BlackRock Investment Quality Municipal Trust Inc. (The)
 BKNG - Booking Holdings Inc. - Common Stock
+BKNU - ETF Opportunities Trust T-REX 2X Long BKNG Daily Target ETF
 BKR - Baker Hughes Company - Common Stock
 BKSE - BNY Mellon US Small Cap Core Equity ETF
 BKSY - BlackSky Technology Inc. Class A Common Stock
@@ -1365,6 +1366,7 @@ BQ - Boqii Holding Limited Class A Ordinary Shares
 BR - Broadridge Financial Solutions, Inc. Common Stock
 BRAG - Bragg Gaming Group Inc. - Common Shares
 BRAZ - Global X Funds Global X Brazil Active ETF
+BRBI - BRBI BR Partners S.A. - ADSs
 BRBR - BellRing Brands, Inc. Common Stock 
 BRBS - Blue Ridge Bankshares, Inc. Common Stock
 BRC - Brady Corporation Common Stock
@@ -1449,6 +1451,7 @@ BSMU - Invesco BulletShares 2030 Municipal Bond ETF
 BSMV - Invesco BulletShares 2031 Municipal Bond ETF
 BSMW - Invesco BulletShares 2032 Municipal Bond ETF
 BSMY - Invesco BulletShares 2034 Municipal Bond ETF
+BSMZ - Invesco BulletShares 2035 Municipal Bond ETF
 BSR - Northern Lights Fund Trust II Beacon Selective Risk ETF
 BSRR - Sierra Bancorp - Common Stock
 BSSX - Invesco BulletShares 2033 Municipal Bond ETF
@@ -1742,6 +1745,7 @@ CCZ - Comcast Holdings ZONES
 CDC - VictoryShares US EQ Income Enhanced Volatility Wtd ETF
 CDE - Coeur Mining, Inc. Common Stock
 CDEI - Morgan Stanley ETF Trust Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF
+CDIG - City Different Investments Global Equity ETF
 CDIO - Cardio Diagnostics Holdings Inc. - Common stock
 CDIOW - Cardio Diagnostics Holdings Inc. - Warrant
 CDL - VictoryShares US Large Cap High Div Volatility Wtd ETF
@@ -4641,7 +4645,6 @@ HLN - Haleon plc American Depositary Shares (Each representing two Ordinary Shar
 HLNE - Hamilton Lane Incorporated - Class A Common Stock
 HLP - Hongli Group Inc. - Ordinary Shares
 HLT - Hilton Worldwide Holdings Inc. Common Stock 
-HLVX - HilleVax, Inc. - Common Stock
 HLX - Helix Energy Solutions Group, Inc. Common Stock
 HMC - Honda Motor Company, Ltd. Common Stock
 HMN - Horace Mann Educators Corporation Common Stock
@@ -5923,10 +5926,6 @@ LEXXW - Lexaria Bioscience Corp. - Warrant
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
-LFAX - LifeX 2061 Longevity Income ETF
-LFAZ - LifeX 2062 Longevity Income ETF
-LFBB - LifeX 2063 Longevity Income ETF
-LFBD - LifeX 2064 Longevity Income ETF
 LFBE - LifeX 2065 Longevity Income ETF
 LFCR - Lifecore Biomedical, Inc. - Common Stock
 LFDR - LifeX Durable Income ETF
@@ -5967,10 +5966,6 @@ LI - Li Auto Inc. - American Depositary Shares
 LIAE - LifeX 2050 Inflation-Protected Longevity Income ETF
 LIAM - LifeX 2055 Inflation-Protected Longevity Income ETF
 LIAU - LifeX 2060 Inflation-Protected Longevity Income ETF
-LIAV - LifeX 2061 Inflation-Protected Longevity Income ETF
-LIAW - LifeX 2062 Inflation-Protected Longevity Income ETF
-LIAX - LifeX 2063 Inflation-Protected Longevity Income ETF
-LIAY - LifeX 2064 Inflation-Protected Longevity Income ETF
 LIBD - LifeX 2065 Inflation-Protected Longevity Income ETF
 LICN - Lichen International Limited - Class A Ordinary Shares
 LIDR - AEye, Inc. - Class A Common Stock
@@ -6200,6 +6195,7 @@ MAMK - MaxsMaking Inc. - Class A Ordinary Shares
 MAMO - Massimo Group - Common Stock
 MAN - ManpowerGroup Common Stock
 MANH - Manhattan Associates, Inc. - Common Stock
+MANI - Man ETF Series Trust Man Active Income ETF
 MANU - Manchester United Ltd. Class A Ordinary Shares
 MAPP - Harbor ETF Trust Harbor Multi-Asset Explorer ETF
 MAPS - WM Technology, Inc. - Class A Common Stock
@@ -6419,6 +6415,7 @@ MHN - Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock
 MHNC - Maiden Holdings North America, Ltd. 7.75% Notes due 2043
 MHO - M/I Homes, Inc. Common Stock
 MHUA - Meihua International Medical Technologies Co., Ltd. - Ordinary Shares
+MHY - Man ETF Series Trust Man Active High Yield ETF
 MI - NFT Limited Class A Ordinary Share
 MIAX - Miami International Holdings, Inc. Common Stock
 MID - American Century Mid Cap Growth Impact ETF
@@ -6742,6 +6739,7 @@ MYCK - SPDR SSGA My2031 Corporate Bond ETF
 MYCL - SPDR SSGA My2032 Corporate Bond ETF
 MYCM - SPDR SSGA My2033 Corporate Bond ETF
 MYCN - SPDR SSGA My2034 Corporate Bond ETF
+MYCO - SPDR SSGA My2035 Corporate Bond ETF
 MYD - Blackrock MuniYield Fund, Inc.  Common Stock
 MYE - Myers Industries, Inc. Common Stock
 MYFW - First Western Financial, Inc. - Common Stock
@@ -6753,6 +6751,7 @@ MYMG - SPDR SSGA My2027 Municipal Bond ETF
 MYMH - SPDR SSGA My2028 Municipal Bond ETF
 MYMI - SPDR SSGA My2029 Municipal Bond ETF
 MYMJ - SPDR SSGA My2030 Municipal Bond ETF
+MYMK - SPDR SSGA My2031 Municipal Bond ETF
 MYN - Blackrock MuniYield New York Quality Fund, Inc.Common Stock
 MYND - Mynd.ai, Inc. American Depositary Shares
 MYNZ - Mainz Biomed N.V. - Ordinary Shares
@@ -6929,6 +6928,7 @@ NI - NiSource Inc Common Stock
 NIC - Nicolet Bankshares Inc. Common Stock
 NICE - NICE Ltd - American Depositary Shares each representing one Ordinary Share
 NIE - Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest
+NIHI - NEOS ETF Trust NEOS MSCI EAFE High Income ETF
 NIKL - Sprott Nickel Miners ETF
 NIM - Nuveen Select Maturities Municipal Fund Common Stock
 NINE - Nine Energy Service, Inc. Common Stock
@@ -8086,6 +8086,7 @@ PXE - Invesco Energy Exploration & Production ETF
 PXF - Invesco RAFI Developed Markets ex-U.S. ETF
 PXH - Invesco RAFI Emerging Markets ETF
 PXI - Invesco Dorsey Wright Energy Momentum ETF
+PXIU - ETF Opportunities Trust T-REX 2X Long UPXI Daily Target ETF
 PXJ - Invesco Oil & Gas Services ETF
 PXLW - Pixelworks, Inc. - Common Stock
 PXS - Pyxis Tankers Inc. - Common Stock
@@ -9551,7 +9552,6 @@ SVAL - iShares US Small Cap Value Factor ETF
 SVC - Service Properties Trust - Shares of Beneficial Interest
 SVCC - Stellar V Capital Corp. - Class A Ordinary Shares
 SVCCU - Stellar V Capital Corp. - Unit
-SVCCW - Stellar V Capital Corp. - Warrant
 SVCO - Silvaco Group, Inc. - Common Stock
 SVII - Spring Valley Acquisition Corp. II - Class A Ordinary Shares
 SVIIR - Spring Valley Acquisition Corp. II - Rights
@@ -10069,6 +10069,7 @@ TTAM - Titan America SA Common Shares
 TTAN - ServiceTitan, Inc. - Class A Common Stock
 TTC - Toro Company (The) Common Stock
 TTD - The Trade Desk, Inc. - Class A Common Stock
+TTDU - ETF Opportunities Trust T-REX 2X Long TTD Daily Target ETF
 TTE - TotalEnergies SE
 TTEC - TTEC Holdings, Inc. - Common Stock
 TTEK - Tetra Tech, Inc. - Common Stock
@@ -10467,6 +10468,7 @@ VFVA - Vanguard U.S. Value Factor ETF
 VG - Venture Global, Inc. Class A common stock
 VGAS - Verde Clean Fuels, Inc. - Class A Common Stock
 VGASW - Verde Clean Fuels, Inc. - Warrant
+VGHY - Vanguard High-Yield Active ETF Vanguard High-Yield Active ETF
 VGI - Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest
 VGIT - Vanguard Intermediate-Term Treasury ETF
 VGK - Vanguard FTSEEuropean ETF
