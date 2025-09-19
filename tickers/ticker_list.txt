@@ -173,6 +173,7 @@ ADVWW - Advantage Solutions Inc.  - Warrant
 ADX - Adams Diversified Equity Fund Inc.
 ADXN - Addex Therapeutics Ltd - American Depositary Shares
 AEBI - Aebi Schmidt Holding AG - Common Stock
+AEC - Anfield Energy Inc. - Common Shares
 AEE - Ameren Corporation Common Stock
 AEF - abrdn Emerging Markets ex-China Fund, Inc. Common Stock
 AEFC - Aegon Funding Company LLC 5.10% Subordinated Notes due 2049
@@ -493,7 +494,6 @@ ANSC - Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinar
 ANSCU - Agriculture & Natural Solutions Acquisition Corporation - Unit
 ANSCW - Agriculture & Natural Solutions Acquisition Corporation - Warrant
 ANTA - Antalpha Platform Holding Company - Class A Ordinary Shares
-ANTE - AirNet Technology Inc. - Ordinary Share
 ANTX - AN2 Therapeutics, Inc. - Common Stock
 ANVS - Annovis Bio, Inc. Common Stock
 ANY - Sphere 3D Corp. - Common Shares
@@ -1930,6 +1930,7 @@ CIL - VictoryShares International Volatility Wtd ETF
 CIM - Chimera Investment Corporation Common Stock
 CIMN - Chimera Investment Corporation 9.000% Senior Notes due 2029
 CIMO - Chimera Investment Corporation 9.250% Senior Notes due 2029
+CIMP - Chimera Investment Corporation 8.875% Senior Notes due 2030
 CINF - Cincinnati Financial Corporation - Common Stock
 CING - Cingulate Inc. - Common Stock
 CINGW - Cingulate Inc. - Warrants
@@ -2137,6 +2138,7 @@ CORZZ - Core Scientific, Inc. - Tranche 2 Warrants
 COSM - Cosmos Health Inc. - Common Stock
 COSO - CoastalSouth Bancshares, Inc. Common Stock
 COST - Costco Wholesale Corporation - Common Stock
+COTG - Leverage Shares 2X Long COST Daily ETF
 COTY - Coty Inc. Class A Common Stock
 COUR - Coursera, Inc. Common Stock
 COWG - Pacer US Large Cap Cash Cows Growth Leaders ETF
@@ -2710,6 +2712,7 @@ DOG - ProShares Short Dow30
 DOGD - Tradr 2X Long DDOG Daily ETF
 DOGG - FT Vest DJIA Dogs 10 Target Income ETF
 DOGZ - Dogness (International) Corporation - Class A Common Stock
+DOJE - ETF Opportunities Trust REX-Osprey DOGE ETF
 DOL - WisdomTree International LargeCap Dividend Fund
 DOLE - Dole plc Ordinary Shares
 DOMH - Dominari Holdings Inc. - Common Stock
@@ -3260,6 +3263,7 @@ ETH - Grayscale Ethereum Mini Trust (ETH) Common units of fractional undivided b
 ETHA - iShares Ethereum Trust - iShares Ethereum Trust ETF
 ETHD - ProShares Trust ProShares UltraShort Ether ETF
 ETHE - Grayscale Ethereum Trust (ETH) Common units of fractional undivided beneficial interest
+ETHI - Defiance Leveraged Long Income Ethereum ETF
 ETHM - Dynamix Corporation - Class A Ordinary Share
 ETHMU - Dynamix Corporation - Unit
 ETHMW - Dynamix Corporation - Warrant
@@ -3409,8 +3413,6 @@ EZU - iShares MSCI Eurozone ETF
 F - Ford Motor Company Common Stock
 FA - First Advantage Corporation - Common Stock
 FAAR - First Trust Alternative Absolute Return Strategy ETF
-FAAS - DigiAsia Corp. - Ordinary Shares
-FAASW - DigiAsia Corp. - Warrant
 FAB - First Trust Multi Cap Value AlphaDEX Fund
 FACT - FACT II Acquisition Corp. - Class A Ordinary Shares
 FACTU - FACT II Acquisition Corp. - Unit
@@ -4093,6 +4095,7 @@ GDEVW - GDEV Inc. - Warrant
 GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
 GDIV - Harbor ETF Trust Harbor Dividend Growth Leaders ETF
 GDL - GDL Fund, The Common Shares of Beneficial Interest
+GDLC - Grayscale CoinDesk Crypto 5 ETF Grayscale CoinDesk Crypto 5 ETF
 GDMA - GadsdenA DynamicA Multi-AssetA ETF
 GDMN - WisdomTree Trust WisdomTree Efficient Gold Plus Gold Miners Strategy Fund
 GDO - Western Asset Global Corporate Opportunity Fund Inc. Common Stock
@@ -5877,6 +5880,7 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone ETF Trust Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
+LCFYW - Locafy Limited - Warrant
 LCG - Sterling Capital Focus Equity ETF
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
@@ -5888,7 +5892,7 @@ LCTD - BlackRock World ex U.S. Carbon Transition Readiness ETF
 LCTU - BlackRock U.S. Carbon Transition Readiness ETF
 LCTX - Lineage Cell Therapeutics, Inc. Common Stock
 LCUT - Lifetime Brands, Inc. - Common Stock
-LDDR - LifeX 2035 Term Income ETF
+LDDR - LifeX 2035 Income Bucket ETF
 LDEM - iShares ESG MSCI EM Leaders ETF
 LDI - loanDepot, Inc. Class A Common Stock
 LDOS - Leidos Holdings, Inc. Common Stock
@@ -7089,6 +7093,7 @@ NTRS - Northern Trust Corporation - Common Stock
 NTRSO - Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock
 NTSE - WisdomTree Trust WisdomTree Emerging Markets Efficient Core Fund
 NTSI - WisdomTree Trust WisdomTree International Efficient Core Fund
+NTSK - Netskope, Inc. - Class A Common Stock
 NTST - NetSTREIT Corp. Common Stock
 NTSX - WisdomTree U.S. Efficient Core Fund
 NTWK - NETSOL Technologies Inc. - Common Stock
@@ -7481,7 +7486,6 @@ OXM - Oxford Industries, Inc. Common Stock
 OXSQ - Oxford Square Capital Corp. - Closed End Fund
 OXSQG - Oxford Square Capital Corp. - 5.50% Notes due 2028
 OXSQH - Oxford Square Capital Corp. - 7.75% Notes due 2030
-OXSQZ - Oxford Square Capital Corp. - 6.25% Notes due 2026
 OXY - Occidental Petroleum Corporation Common Stock
 OYSE - Oyster Enterprises II Acquisition Corp - Class A Ordinary Shares
 OYSER - Oyster Enterprises II Acquisition Corp - Rights
@@ -8143,7 +8147,6 @@ QDWN - Strategic Trust DailyDelta  Q100 Downside Option Strategy ETF
 QEFA - SPDR MSCI EAFE StrategicFactors ETF
 QEMM - SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
-QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF 
 QFIN - Qfin Holdings, Inc.  - American Depositary Shares
@@ -8164,6 +8167,7 @@ QIS - Simplify Exchange Traded Funds Simplify Multi-QIS Alternative ETF
 QJUN - FT Vest Nasdaq-100 Buffer ETF - June
 QLC - FlexShares Trust FlexShares US Quality Large Cap Index Fund
 QLD - ProShares Ultra QQQ
+QLDY - Defiance Nasdaq 100 LightningSpread Income ETF
 QLGN - Qualigen Therapeutics, Inc. - Common Stock
 QLTA - iShares Aaa A Rated Corporate Bond ETF
 QLTI - The 2023 ETF Series Trust II GMO International Quality ETF
@@ -8277,6 +8281,7 @@ RAA - SMI 3Fourteen REAL Asset Allocation ETF
 RAAA - Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF
 RAAQ - Real Asset Acquisition Corp. - Class A Ordinary Share
 RAAQU - Real Asset Acquisition Corp. - Unit
+RAAQW - Real Asset Acquisition Corp. - Warrants
 RAAX - VanEck Real Assets ETF
 RAC - Rithm Acquisition Corp. Class A Ordinary Shares
 RACE - Ferrari N.V. Common Shares
@@ -8475,7 +8480,6 @@ RILYP - B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000
 RILYT - B. Riley Financial, Inc. - 6.00% Senior Notes Due 2028
 RILYZ - B. Riley Financial, Inc. - 5.25% Senior Notes due 2028
 RIME - Algorhythm Holdings, Inc. - Common Stock
-RINC - Investment Managers Series Trust II AXS Real Estate Income ETF
 RINF - ProShares Inflation Expectations ETF
 RING - iShares MSCI Global Gold Miners ETF
 RINT - International Developed Equity Active ETF
@@ -10602,7 +10606,7 @@ VRTL - GraniteShares 2x Long VRT Daily ETF
 VRTS - Virtus Investment Partners, Inc. Common Stock
 VRTX - Vertex Pharmaceuticals Incorporated - Common Stock
 VS - Versus Systems Inc. - Common Stock
-VSA - TCTM Kids IT Education Inc. - American Depositary Shares
+VSA - VisionSys AI Inc - American Depositary Shares
 VSAT - ViaSat, Inc. - Common Stock
 VSCO - Victorias Secret & Co. Common Stock 
 VSDA - VictoryShares Dividend Accelerator ETF
@@ -11041,6 +11045,7 @@ XRLV - Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF
 XRLX - FundX Investment Trust FundX Conservative ETF
 XRMI - Global X Funds Global X S&P 500 Risk Managed Income ETF
 XRPI - Volatility Shares Trust XRP ETF
+XRPR - ETF Opportunities Trust REX-Osprey XRP ETF
 XRPT - Volatility Shares Trust XRP 2X ETF
 XRT - SPDR S&P Retail ETF
 XRTX - XORTX Therapeutics Inc. - Common Stock
@@ -11100,6 +11105,7 @@ YCS - ProShares UltraShort Yen New
 YDEC - FT Vest International Equity Moderate Buffer ETF - December
 YDES - YD Bio Limited - Ordinary Shares
 YDESW - YD Bio Limited - Warrants
+YDKG - Yueda Digital Holding - Class A Ordinary Share
 YEAR - AB Active ETFs, Inc. AB Ultra Short Income ETF
 YELP - Yelp Inc. Common Stock
 YETH - Roundhill ETF Trust Roundhill Ether Covered Call Strategy ETF
