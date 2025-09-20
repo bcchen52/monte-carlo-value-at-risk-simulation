@@ -61,7 +61,6 @@ ABNY - Tidal Trust II YieldMax ABNB Option Income Strategy ETF
 ABOS - Acumen Pharmaceuticals, Inc. - Common Stock
 ABOT - Abacus FCF Innovation Leaders ETF
 ABP - Abpro Holdings, Inc - Common Stock
-ABPWW - Abpro Holdings, Inc - Warrant
 ABR - Arbor Realty Trust Common Stock
 ABSI - Absci Corporation - Common Stock
 ABT - Abbott Laboratories Common Stock
@@ -5760,7 +5759,9 @@ KORP - American Century Diversified Corporate Bond ETF
 KORU - Direxion Daily South Korea Bull 3X Shares
 KOS - Kosmos Energy Ltd. Common Shares (DE)
 KOSS - Koss Corporation - Common Stock
+KOYN - CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares
 KOYNU - CSLM Digital Asset Acquisition Corp III - Units
+KOYNW - CSLM Digital Asset Acquisition Corp III - Warrants
 KPDD - KraneShares 2x Long PDD Daily ETF
 KPLT - Katapult Holdings, Inc. - Common Stock
 KPLTW - Katapult Holdings, Inc. - Warrant
@@ -5854,6 +5855,7 @@ LAR - Lithium Argentina AG Common Shares
 LARK - Landmark Bancorp Inc. - Common Stock
 LASE - Laser Photonics Corporation - Common Stock
 LASR - nLIGHT, Inc. - Common Stock
+LATAU - Galata Acquisition Corp. II - Units
 LAUR - Laureate Education, Inc. - Common Stock
 LAW - CS Disco, Inc. Common Stock
 LAWR - Robot Consulting Co., Ltd. - ADS
@@ -7817,6 +7819,7 @@ PLTG - Leverage Shares 2X Long PLTR Daily ETF
 PLTK - Playtika Holding Corp. - Common Stock
 PLTM - GraniteShares Platinum Shares ETF
 PLTR - Palantir Technologies Inc. - Class A Common Stock
+PLTS - Platinum Analytics Cayman Limited - Class A Ordinary Shares
 PLTU - Direxion Daily PLTR Bull 2X Shares
 PLTW - Roundhill ETF Trust Roundhill PLTR WeeklyPay ETF
 PLTY - Tidal Trust II YieldMax PLTR Option Income Strategy ETF
@@ -8058,6 +8061,7 @@ PTNM - Pitanium Limited - Class A Ordinary Shares
 PTNQ - Pacer Trendpilot 100 ETF
 PTON - Peloton Interactive, Inc. - Common Stock
 PTRB - PGIM ETF Trust PGIM Total Return Bond ETF
+PTRN - Pattern Group Inc. - Series A Common Stock
 PTY - Pimco Corporate & Income Opportunity Fund
 PUBM - PubMatic, Inc. - Class A Common Stock
 PUI - Invesco Dorsey Wright Utilities Momentum ETF
@@ -8147,6 +8151,7 @@ QDWN - Strategic Trust DailyDelta  Q100 Downside Option Strategy ETF
 QEFA - SPDR MSCI EAFE StrategicFactors ETF
 QEMM - SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
+QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF 
 QFIN - Qfin Holdings, Inc.  - American Depositary Shares
@@ -9029,6 +9034,7 @@ SILO - Silo Pharma, Inc. - Common Stock
 SIM - Grupo Simec, S.A.B. de C.V. American Depositary Shares
 SIMA - SIM Acquisition Corp. I - Class A Ordinary Shares
 SIMAU - SIM Acquisition Corp. I - Unit
+SIMAW - SIM Acquisition Corp. I - Warrant
 SIMO - Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares
 SIMS - SPDR S&P Kensho Intelligent Structures ETF 
 SINT - SiNtx Technologies, Inc. - Common Stock
