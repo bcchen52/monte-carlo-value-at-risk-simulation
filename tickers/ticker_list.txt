@@ -1653,7 +1653,6 @@ CARZ - First Trust S-Network Future Vehicles & Technology ETF
 CAS - Simplify Exchange Traded Funds Simplify China A Shares PLUS Income ETF
 CASH - Pathward Financial, Inc. - Common Stock
 CASI - CASI Pharmaceuticals, Inc. - Ordinary Shares
-CASK - Heritage Distilling Holding Company, Inc. - Common Stock
 CASS - Cass Information Systems, Inc - Common Stock
 CASY - Caseys General Stores, Inc. - Common Stock
 CAT - Caterpillar, Inc. Common Stock
@@ -5238,6 +5237,7 @@ IPODU - Dune Acquisition Corporation II - Units
 IPODW - Dune Acquisition Corporation II - Warrants
 IPOS - Renaissance Capital Greenwich Fund
 IPSC - Century Therapeutics, Inc. - Common Stock
+IPST - Heritage Distilling Holding Company, Inc. - Common Stock
 IPW - iPower Inc. - Common Stock
 IPWR - Ideal Power Inc. - Common Stock
 IPX - IperionX Limited - American Depositary Share
@@ -5550,7 +5550,6 @@ JPC - Nuveen Preferred & Income Opportunities Fund
 JPEF - JPMorgan Equity Focus ETF
 JPEM - JPMorgan Diversified Return Emerging Markets Equity ETF
 JPHY - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active High Yield ETF
-JPI - Nuveen Preferred Securities & Income Opportunities Fund Common Shares
 JPIB - J.P. Morgan Exchange-Traded Fund Trust JPMorgan International Bond Opportunities ETF
 JPIE - JPMorgan Income ETF
 JPIN - JPMorgan Diversified Return International Equity ETF
@@ -6105,9 +6104,7 @@ LRNZ - Listed Funds Trust TrueShares Technology, AI & Deep Learning ETF
 LSAF - LeaderShares AlphaFactor US Core Equity ETF
 LSAK - Lesaka Technologies, Inc. - Common Stock
 LSAT - LeaderShares AlphaFactor Tactical Focused ETF
-LSB - LakeShore Biopharma Co., Ltd - Ordinary Shares
 LSBK - Lake Shore Bancorp, Inc. - Common Stock
-LSBPW - LakeShore Biopharma Co., Ltd - Warrants
 LSCC - Lattice Semiconductor Corporation - Common Stock
 LSE - Leishen Energy Holding Co., Ltd. - Ordinary Shares
 LSEQ - Harbor ETF Trust Harbor Long-Short Equity ETF
@@ -6403,7 +6400,6 @@ MGRC - McGrath RentCorp - Common Stock
 MGRD - Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061
 MGRE - Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064
 MGRM - Monogram Technologies Inc. - Common Stock
-MGRO - VanEck ETF Trust VanEck Morningstar Wide Moat Growth ETF
 MGRT - Mega Fortune Company Limited - Ordinary Shares
 MGRX - Mangoceuticals, Inc. - Common Stock
 MGTX - MeiraGTx Holdings plc - Ordinary Shares
@@ -6552,7 +6548,6 @@ MOOD - Relative Sentiment Tactical Allocation ETF
 MORN - Morningstar, Inc. - Common Stock
 MORT - VanEck Mortgage REIT Income ETF
 MOS - Mosaic Company (The) Common Stock
-MOTE - VanEck Morningstar ESG Moat ETF
 MOTG - VanEck Morningstar Global Wide Moat ETF
 MOTI - VanEck Morningstar International Moat ETF
 MOTO - SmartETFs Smart Transportation & Technology ETF
@@ -6665,7 +6660,7 @@ MTD - Mettler-Toledo International, Inc. Common Stock
 MTDR - Matador Resources Company Common Stock
 MTEK - Maris-Tech Ltd. - ordinary shares
 MTEKW - Maris-Tech Ltd. - Warrants
-MTEN - Mingteng International Corporation Inc. - Ordinary Shares
+MTEN - Mingteng International Corporation Inc. - Class A Ordinary Shares
 MTEX - Mannatech, Incorporated - Common Stock
 MTG - MGIC Investment Corporation Common Stock
 MTGP - WisdomTree Mortgage Plus Bond Fund
@@ -7203,7 +7198,6 @@ NXGL - NexGel, Inc - Common Stock
 NXGLW - NexGel, Inc - Warrant
 NXJ - Nuveen New Jersey Qualified Municipal Fund 
 NXL - Nexalin Technology, Inc. - Common Stock
-NXLIW - Nexalin Technology, Inc. - Warrant
 NXN - Nuveen New York Select Tax-Free Income Portfolio Common Stock
 NXP - Nuveen Select Tax Free Income Portfolio Common Stock
 NXPI - NXP Semiconductors N.V. - Common Stock
@@ -11066,7 +11060,7 @@ XSOE - WisdomTree Emerging Markets Ex-State Owned Enterprises Fund
 XSVM - Invesco S&P SmallCap Value with Momentum ETF
 XSVN - BondBloxx ETF Trust BondBloxx Bloomberg Seven Year Target Duration US Treasury ETF
 XSW - SPDR S&P Software & Services ETF
-XT - iShares Exponential Technologies ETF
+XT - iShares Future Exponential Technologies ETF
 XTAP - Innovator U.S. Equity Accelerated Plus ETF - April
 XTEN - BondBloxx ETF Trust BondBloxx Bloomberg Ten Year Target Duration US Treasury ETF
 XTIA - XTI Aerospace, Inc. Common Stock  - Common Stock
