@@ -1374,7 +1374,6 @@ BRCC - BRC Inc. Class A Common Stock
 BREA - Brera Holdings PLC - Class B Ordinary Shares
 BRF - VanEck Brazil Small-Cap ETF
 BRFH - Barfresh Food Group Inc. - Common Stock
-BRFS - BRF S.A.
 BRHY - iShares High Yield Active ETF
 BRIA - BrilliA Inc Class A Ordinary Shares
 BRID - Bridgford Foods Corporation - Common Stock
@@ -2017,7 +2016,7 @@ CMI - Cummins Inc. Common Stock
 CMMB - Chemomab Therapeutics Ltd.  - American Depositary Shares
 CMND - Clearmind Medicine Inc. - Common Shares
 CMP - Compass Minerals Intl Inc Common Stock
-CMPO - CompoSecure, Inc.  - Class A Common Stock
+CMPO - CompoSecure, Inc. Class A Common Stock
 CMPOW - CompoSecure, Inc.  - Warrant
 CMPR - Cimpress plc - Ordinary Shares
 CMPS - COMPASS Pathways Plc - American Depository Shares
@@ -2660,6 +2659,7 @@ DKNG - DraftKings Inc. - Class A Common Stock
 DKNX - Defiance Daily Target 2X Long DKNG ETF
 DKS - Dick's Sporting Goods Inc Common Stock
 DKUP - ETF Opportunities Trust T-REX 2X Long DKNG Daily Target ETF
+DLAG - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Dual Directional Buffer ETF - August
 DLB - Dolby Laboratories Common Stock
 DLHC - DLH Holdings Corp. - Common Stock
 DLLL - GraniteShares 2x Long DELL Daily ETF
@@ -2786,6 +2786,7 @@ DTG - DTE Energy Company 2021 Series E 4.375% Junior Subordinated Debentures
 DTH - WisdomTree International High Dividend Fund
 DTI - Drilling Tools International Corporation  - Common Stock
 DTIL - Precision BioSciences, Inc. - Common Stock
+DTK - DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085
 DTM - DT Midstream, Inc. Common Stock 
 DTRE - First Trust Alerian Disruptive Technology Real Estate ETF
 DTSQ - DT Cloud Star Acquisition Corporation - Ordinary Shares
@@ -4538,7 +4539,9 @@ HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
+HCMA - HCM III Acquisition Corp. - Class A Ordinary Share
 HCMAU - HCM III Acquisition Corp. - Units
+HCMAW - HCM III Acquisition Corp. - Warrants
 HCMT - Direxion Shares ETF Trust Direxion HCM Tactical Enhanced US ETF
 HCOW - Amplify COWS Covered Call ETF
 HCRB - Hartford Core Bond ETF
@@ -4630,6 +4633,7 @@ HIVE - HIVE Digital Technologies Ltd - Common Shares
 HIW - Highwoods Properties, Inc. Common Stock
 HIX - Western Asset High Income Fund II Inc. Common Stock
 HIYS - Invesco Actively Managed Exchange-Traded Fund Trus Invesco High Yield Select ETF
+HIYY - Tidal Trust II YieldMax HIMS Option Income Strategy ETF
 HKD - AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)
 HKIT - Hitek Global Inc. - Class A Ordinary Share
 HKND - Humankind US Stock ETF
@@ -7604,6 +7608,7 @@ PCMM - BondBloxx Private Credit CLO ETF
 PCN - Pimco Corporate & Income Strategy Fund Common Stock
 PCOR - Procore Technologies, Inc. Common Stock
 PCQ - PIMCO California Municipal Income Fund Common Stock
+PCR - Simplify Exchange Traded Funds Simplify VettaFi Private Credit Strategy ETF
 PCRB - Putnam ETF Trust Putnam ESG Core Bond ETF
 PCRX - Pacira BioSciences, Inc. - Common Stock
 PCS - PGIM ETF Trust PGIM Corporate Bond 0-5 Year ETF
@@ -8456,7 +8461,7 @@ RGTU - Tradr 2X Long RGTI Daily ETF
 RGTX - Defiance Daily Target 2X Long RGTI ETF
 RH - RH Common Stock
 RHI - Robert Half Inc. Common Stock
-RHLD - Resolute Holdings Management - Common Stock
+RHLD - Resolute Holdings Management Common Stock 
 RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
@@ -9357,7 +9362,6 @@ SPTE - SP Funds Trust SP Funds S&P Global Technology ETF
 SPTI - SPDR Portfolio Intermediate Term Treasury ETF
 SPTL - SPDR Portfolio Long Term Treasury ETF
 SPTM - SPDR Portfolio S&P 1500 Composite Stock Market ETF
-SPTN - SpartanNash Company - Common Stock
 SPTS - SPDR Portfolio Short Term Treasury ETF
 SPUC - Simplify Exchange Traded Funds Simplify US Equity PLUS Upside Convexity ETF
 SPUS - SP Funds S&P 500 Sharia Industry Exclusions ETF
@@ -10485,7 +10489,6 @@ VGT - Vanguard Information Tech ETF
 VGUS - Vanguard Ultra-Short Treasury ETF
 VGVT - Vanguard Malvern Funds Vanguard Government Securities Active ETF
 VGZ - Vista Gold Corp Common Stock
-VHC - VirnetX Holding Corp Common Stock
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
 VIA - Via Transportation, Inc. Class A Common Stock
