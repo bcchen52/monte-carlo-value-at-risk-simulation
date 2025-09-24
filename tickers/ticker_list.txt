@@ -61,6 +61,7 @@ ABNY - Tidal Trust II YieldMax ABNB Option Income Strategy ETF
 ABOS - Acumen Pharmaceuticals, Inc. - Common Stock
 ABOT - Abacus FCF Innovation Leaders ETF
 ABP - Abpro Holdings, Inc - Common Stock
+ABPWW - Abpro Holdings, Inc - Warrant
 ABR - Arbor Realty Trust Common Stock
 ABSI - Absci Corporation - Common Stock
 ABT - Abbott Laboratories Common Stock
@@ -1345,6 +1346,7 @@ BOTZ - Global X Robotics & Artificial Intelligence ETF
 BOUT - Innovator IBD Breakout Opportunities ETF
 BOW - Bowhead Specialty Holdings Inc. Common Stock
 BOWN - Bowen Acquisition Corp - Ordinary Shares
+BOWNR - Bowen Acquisition Corp - Rights
 BOWNU - Bowen Acquisition Corp - Unit
 BOX - Box, Inc. Class A Common Stock
 BOXA - EA Series Trust Alpha Architect Aggregate Bond ETF
@@ -4832,6 +4834,7 @@ HYLS - First Trust Tactical High Yield ETF
 HYMB - SPDR Nuveen ICE High Yield Municipal Bond ETF
 HYMC - Hycroft Mining Holding Corporation - Class A Common Stock
 HYMCL - Hycroft Mining Holding Corporation - Warrants
+HYP - Golden Eagle Dynamic Hypergrowth ETF
 HYPD - Hyperion DeFi, Inc. - Common Stock
 HYPR - Hyperfine, Inc.  - Class A Common Stock
 HYRM - DBX ETF Trust Xtrackers Risk Managed USD High Yield Strategy ETF
@@ -5880,6 +5883,7 @@ LBTYK - Liberty Global Ltd. - Class C Common Shares
 LC - LendingClub Corporation Common Stock
 LCAP - Principal Exchange-Traded Funds Principal Capital Appreciation Select ETF
 LCCC - Lakeshore Acquisition III Corp. - Ordinary Shares
+LCCCR - Lakeshore Acquisition III Corp. - Rights
 LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
@@ -6684,6 +6688,7 @@ MTUS - Metallus Inc. Common Shares
 MTVA - MetaVia Inc.  - Common Stock
 MTW - Manitowoc Company, Inc. (The) Common Stock
 MTX - Minerals Technologies Inc. Common Stock
+MTYY - GraniteShares YieldBOOST MSTR ETF
 MTZ - MasTec, Inc. Common Stock
 MU - Micron Technology, Inc. - Common Stock
 MUA - Blackrock MuniAssets Fund, Inc Common Stock
@@ -7830,6 +7835,7 @@ PLUT - Plutus Financial Group Limited - Ordinary Shares
 PLX - Protalix BioTherapeutics, Inc. (DE) Common Stock
 PLXS - Plexus Corp. - Common Stock
 PLYM - Plymouth Industrial REIT, Inc. Common Stock
+PLYY - GraniteShares YieldBOOST PLTR ETF
 PM - Philip Morris International Inc Common Stock
 PMAP - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - April
 PMAR - Innovator U.S. Equity Power Buffer ETF - March
@@ -10441,7 +10447,6 @@ VDE - Vanguard Energy ETF
 VEA - Vanguard FTSE Developed Markets ETF
 VECO - Veeco Instruments Inc. - Common Stock
 VEEA - Veea Inc. - Common Stock
-VEEAW - Veea Inc. - Warrant
 VEEE - Twin Vee PowerCats Co. - Common Stock
 VEEV - Veeva Systems Inc. Class A Common Stock
 VEGA - AdvisorShares STAR Global Buy-Write ETF
@@ -10489,6 +10494,7 @@ VGT - Vanguard Information Tech ETF
 VGUS - Vanguard Ultra-Short Treasury ETF
 VGVT - Vanguard Malvern Funds Vanguard Government Securities Active ETF
 VGZ - Vista Gold Corp Common Stock
+VHC - VirnetX Holding Corp - Common Stock
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
 VIA - Via Transportation, Inc. Class A Common Stock
