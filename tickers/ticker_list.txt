@@ -10,7 +10,6 @@ AACG - ATA Creativity Global - American Depositary Shares, each representing two
 AACI - Armada Acquisition Corp. II - Class A Ordinary Shares
 AACIU - Armada Acquisition Corp. II - Units
 AACIW - Armada Acquisition Corp. II - Warrant
-AACT - Ares Acquisition Corporation II Class A Ordinary Shares
 AADR - AdvisorShares Dorsey Wright ADR ETF
 AAL - American Airlines Group, Inc. - Common Stock
 AALG - Leverage Shares 2X Long AAL Daily ETF
@@ -919,7 +918,6 @@ BAP - Credicorp Ltd. Common Stock
 BAPR - Innovator U.S. Equity Buffer ETF - April 
 BAR - GraniteShares Gold Trust Shares of Beneficial Interest
 BARK - BARK, Inc. Class A Common Stock
-BASE - Couchbase, Inc. - Common Stock
 BASG - Brown Advisory Sustainable Growth ETF
 BASV - Brown Advisory Sustainable Value ETF
 BATL - Battalion Oil Corporation Common Stock
@@ -1170,6 +1168,7 @@ BITB - Bitwise Bitcoin ETF Common Shares of Beneficial Interest
 BITC - Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF
 BITF - Bitfarms Ltd. - Common Stock
 BITI - ProShares Short Bitcoin ETF
+BITK - ETF Opportunities Trust Tuttle Capital IBIT 0DTE Covered Call ETF
 BITO - ProShares Bitcoin ETF
 BITQ - Bitwise Crypto Industry Innovators ETF
 BITS - Global X Blockchain & Bitcoin Strategy ETF
@@ -1896,6 +1895,7 @@ CHPT - ChargePoint Holdings, Inc. Common Stock
 CHPY - Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF
 CHR - Cheer Holding, Inc.  - Class A Ordinary Share
 CHRD - Chord Energy Corporation - Common Stock
+CHRI - Global X S&P 500 Christian Values ETF
 CHRS - Coherus Oncology, Inc. - Common Stock
 CHRW - C.H. Robinson Worldwide, Inc. - Common Stock
 CHSCL - CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4
@@ -2433,7 +2433,6 @@ DAK - Dakota Active Equity ETF
 DAKT - Daktronics, Inc. - Common Stock
 DAL - Delta Air Lines, Inc. Common Stock
 DALI - First Trust Dorsey Wright DALI Equity ETF
-DALN - DallasNews Corporation - Series A Common Stock
 DAN - Dana Incorporated Common Stock 
 DAO - Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share
 DAPP - VanEck Digital Transformation ETF
@@ -2876,6 +2875,7 @@ DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
 DYLG - Global X Funds Global X Dow 30 Covered Call & Growth ETF
 DYN - Dyne Therapeutics, Inc. - Common Stock
+DYNB - Hartford Dynamic Bond ETF
 DYNF - iShares U.S. Equity Factor Rotation Active ETF
 DYTA - SGI Dynamic Tactical ETF
 DZZ - DB Gold Double Short ETN due February 15, 2038
@@ -4488,6 +4488,7 @@ GXAI - Gaxos.ai Inc. - Common Stock
 GXC - SPDR S&P China ETF
 GXDW - Global X Dorsey Wright Thematic ETF
 GXIG - Global X Funds Global X Investment Grade Corporate Bond ETF
+GXLC - Global X Funds Global X U.S. 500 ETF
 GXO - GXO Logistics, Inc. Common Stock 
 GXPC - Global X Funds Global X PureCap MSCI Communication Services ETF
 GXPD - Global X Funds Global X PureCap MSCI Consumer Discretionary ETF
@@ -6499,6 +6500,7 @@ MMC - Marsh & McLennan Companies, Inc. Common Stock
 MMCA - NYLI MacKay California Muni Intermediate ETF
 MMD - NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares
 MMI - Marcus & Millichap, Inc. Common Stock
+MMID - MFS Active Exchange Traded Funds Trust MFS Active Mid Cap ETF
 MMIN - NYLI MacKay Muni Insured ETF
 MMIT - NYLI MacKay Muni Intermediate ETF
 MMKT - Texas Capital Funds Trust Texas Capital Government Money Market ETF
@@ -6933,6 +6935,7 @@ NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeem
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger Berman High Yield Strategies Fund
 NHTC - Natural Health Trends Corp. - Commn Stock
+NHYB - NuShares ETF Trust Nuveen High Yield Corporate Bond ETF
 NHYM - NuShares ETF Trust Nuveen High Yield Municipal Income ETF
 NI - NiSource Inc Common Stock
 NIC - Nicolet Bankshares Inc. Common Stock
@@ -7069,6 +7072,7 @@ NRXPW - NRX Pharmaceuticals, Inc. - Warrant
 NRXS - Neuraxis, Inc. Common Stock
 NSA - National Storage Affiliates Trust Common Shares of Beneficial Interest
 NSC - Norfolk Southern Corporation Common Stock
+NSCI - NuShares ETF Trust Nuveen Securitized Income ETF
 NSCR - Nuveen Sustainable Core ETF
 NSEP - Innovator U.S. Small Cap Power Buffer ETF - September Innovator Growth-100 Power Buffer ETF - September
 NSI - National Security Emerging Markets Index ETF
@@ -7220,6 +7224,7 @@ NXTE - Investment Managers Series Trust II AXS Green Alpha ETF
 NXTG - First Trust Indxx NextG ETF
 NXTI - Simplify Exchange Traded Funds Simplify Next Intangible Core Index ETF
 NXTT - Next Technology Holding Inc. - Ordinary Shares
+NXUS - NuShares ETF Trust Nuveen International Aggregate Bond ETF
 NXXT - NextNRG, Inc. - Common Stock
 NYAX - Nayax Ltd. - Ordinary Shares
 NYC - American Strategic Investment Co. Class A Common Stock
@@ -8136,6 +8141,7 @@ QCJA - First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Conservative Buf
 QCJL - First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Conservative Buffer ETF - July
 QCLN - First Trust NASDAQ Clean Edge Green Energy Index Fund
 QCLR - Global X NASDAQ 100 Collar 95-110 ETF
+QCLS - Q/C Technologies, Inc. - Common Stock
 QCMD - Direxion Daily QCOM Bear 1X ETF
 QCML - GraniteShares 2x Long QCOM Daily ETF
 QCMU - Direxion Daily QCOM Bull 2X ETF
@@ -9617,7 +9623,6 @@ SYPR - Sypris Solutions, Inc. - Common Stock
 SYRE - Spyre Therapeutics, Inc. - Common Stock
 SYSB - iShares Systematic Bond ETF
 SYTA - Siyata Mobile, Inc. - Common Shares
-SYTAW - Siyata Mobile, Inc. - Warrant
 SYY - Sysco Corporation Common Stock
 SYZ - Lazard US Systematic Small Cap Equity ETF
 SZK - ProShares UltraShort Consumer Staples
@@ -9925,7 +9930,6 @@ TNA - Direxion Small Cap Bull 3X Shares
 TNC - Tennant Company Common Stock
 TNDM - Tandem Diabetes Care, Inc. - Common Stock
 TNET - TriNet Group, Inc. Common Stock
-TNFA - TNF Pharmaceuticals, Inc.  - Common Stock
 TNGX - Tango Therapeutics, Inc. - Common Stock
 TNGY - Tortoise Capital Series Trust Tortoise Energy Fund
 TNK - Teekay Tankers Ltd.
