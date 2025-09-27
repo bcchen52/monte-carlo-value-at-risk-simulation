@@ -200,6 +200,7 @@ AESR - Anfield U.S. Equity Sector Rotation ETF
 AETH - Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF
 AEVA - Aeva Technologies, Inc. - Common Stock
 AEVAW - Aeva Technologies, Inc. - Redeemable Warrants
+AEXA - American Exceptionalism Acquisition Corp. A Class A Ordinary Shares
 AEYE - AudioEye, Inc. - Common Stock
 AFB - AllianceBernstein National Municipal Income Fund Inc
 AFBI - Affinity Bancshares, Inc. - Common Stock
@@ -1279,6 +1280,7 @@ BMHL - Bluemount Holdings Limited - Class B Ordinary Shares
 BMI - Badger Meter, Inc. Common Stock
 BMN - BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest
 BMNR - BitMine Immersion Technologies, Inc. Common Stock
+BMNU - ETF Opportunities Trust T-REX 2X Long BMNR Daily Target ETF
 BMO - Bank Of Montreal Common Stock
 BMR - Beamr Imaging Ltd. - Ordinary Share
 BMRA - Biomerica, Inc. - Common Stock
@@ -1492,6 +1494,7 @@ BTO - John Hancock Financial Opportunities Fund Common Stock
 BTOC - Armlogi Holding Corp. - common stock
 BTOG - Bit Origin Limited - Class A Ordinary Shares
 BTOP - Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF
+BTQ - BTQ Technologies Corp. - Common Stock
 BTR - Northern Lights Fund Trust II Beacon Tactical Risk ETF
 BTRN - Global X Funds Global X Bitcoin Trend Strategy ETF
 BTSG - BrightSpring Health Services, Inc. - Common Stock
@@ -2038,7 +2041,6 @@ CNAV - Collaborative Investment Series Trust Mohr Company Nav ETF
 CNBS - Amplify Seymour Cannabis ETF
 CNC - Centene Corporation Common Stock
 CNCK - Coincheck Group N.V. - Ordinary Shares
-CNCKW - Coincheck Group N.V. - Warrants
 CNDT - Conduent Incorporated - Common Stock
 CNEQ - The Alger ETF Trust Alger Concentrated Equity ETF
 CNET - ZW Data Action Technologies Inc. - Common Stock
@@ -2058,6 +2060,7 @@ CNOB - ConnectOne Bancorp, Inc. - Common Stock
 CNOBP - ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)
 CNP - CenterPoint Energy, Inc (Holding Co) Common Stock
 CNQ - Canadian Natural Resources Limited Common Stock
+CNQQ - Rayliant-ChinaAMC Transformative China Tech ETF
 CNR - Core Natural Resources, Inc. Common Stock
 CNRG - SPDR S&P Kensho Clean Power ETF
 CNS - Cohen & Steers Inc Common Stock
@@ -2126,6 +2129,7 @@ COPP - Sprott Copper Miners ETF
 COPX - Global X Copper Miners ETF
 COPY - The RBB Fund Trust Tweedy, Browne Insider + Value ETF
 COR - Cencora, Inc. Common Stock
+CORD - ETF Opportunities Trust T-REX 2X Inverse CRWV Daily Target ETF
 CORN - Teucrium Corn Fund ETV
 CORO - iShares International Country Rotation Active ETF
 CORP - Pimco Investment Grade Corporate Bond Index Exchange-Traded Fund
@@ -2210,6 +2214,7 @@ CRBP - Corbus Pharmaceuticals Holdings, Inc. - Common Stock
 CRBU - Caribou Biosciences, Inc. - Common Stock
 CRC - California Resources Corporation Common Stock
 CRCA - ProShares Trust ProShares Ultra CRCL
+CRCD - ETF Opportunities Trust T-REX 2X Inverse CRCL Daily Target ETF
 CRCG - Leverage Shares 2X Long CRCL Daily ETF
 CRCL - Circle Internet Group, Inc. Class A Common Stock
 CRCT - Cricut, Inc. - Class A common stock
@@ -2746,7 +2751,6 @@ DRIP - Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares
 DRIV - Global X Autonomous & Electric Vehicles ETF
 DRLL - EA Series Trust Strive U.S. Energy ETF
 DRMA - Dermata Therapeutics, Inc. - Common Stock
-DRMAW - Dermata Therapeutics, Inc. - Warrant
 DRN - Direxion Daily Real Estate Bull 3X Shares
 DRS - Leonardo DRS, Inc. - Common Stock
 DRSK - Aptus Defined Risk ETF 
@@ -5473,6 +5477,7 @@ JDST - Direxion Daily Junior Gold Miners Index Bear 2X Shares
 JDVI - John Hancock Exchange-Traded Fund Trust John Hancock Disciplined Value International Select ETF
 JDVL - John Hancock Exchange-Traded Fund Trust John Hancock Disciplined Value Select ETF
 JDZG - JIADE LIMITED - Class A Ordinary Shares
+JEDI - ETF Series Solutions Defiance Drone and Modern Warfare ETF
 JEF - Jefferies Financial Group Inc. Common Stock
 JELD - JELD-WEN Holding, Inc. Common Stock
 JEM - 707 Cayman Holdings Limited - Ordinary Shares
@@ -5817,6 +5822,7 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
+KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - ETF Opportunities Trust T-REX 2X Long KTOS Daily Target ETF
 KUKE - Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares)
 KULR - KULR Technology Group, Inc. Common Stock
@@ -5894,7 +5900,6 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone ETF Trust Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
-LCFYW - Locafy Limited - Warrant
 LCG - Sterling Capital Focus Equity ETF
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
@@ -6403,6 +6408,7 @@ MGK - Vanguard Mega Cap Growth ETF
 MGLD - The Marygold Companies, Inc. Common Stock
 MGM - MGM Resorts International Common Stock
 MGMT - Ballast Small/Mid Cap ETF
+MGN - Megan Holdings Limited - Ordinary shares.
 MGNI - Magnite, Inc. - Common Stock
 MGNR - American Beacon Select Funds American Beacon GLG Natural Resources ETF
 MGNX - MacroGenics, Inc. - Common Stock
@@ -8746,7 +8752,6 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
-SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SAM - Boston Beer Company, Inc. (The) Common Stock
