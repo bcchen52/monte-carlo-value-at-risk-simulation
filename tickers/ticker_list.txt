@@ -2612,6 +2612,7 @@ DHDG - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Quarterly 2.5 t
 DHF - BNY Mellon High Yield Strategies Fund Common Stock
 DHI - D.R. Horton, Inc. Common Stock
 DHIL - Diamond Hill Investment Group, Inc. - Class A Common Stock
+DHLX - Diamond Hill Funds Diamond Hill Large Cap Concentrated ETF
 DHR - Danaher Corporation Common Stock
 DHS - WisdomTree U.S. High Dividend Fund
 DHSB - Strategy Shares Day Hagan Smart Buffer ETF
@@ -4342,7 +4343,6 @@ GOTU - Gaotu Techedu Inc. American Depositary Shares
 GOVI - Invesco Equal Weight 0-30 Year Treasury ETF
 GOVT - iShares U.S. Treasury Bond ETF
 GOVX - GeoVax Labs, Inc. - Common Stock
-GOVXW - GeoVax Labs, Inc. - Warrants
 GOVZ - iShares 25  Year Treasury STRIPS Bond ETF
 GP - GreenPower Motor Company Inc. - Common Shares
 GPAT - GP-Act III Acquisition Corp. - Class A Ordinary Share
@@ -4362,6 +4362,7 @@ GPRE - Green Plains, Inc. - Common Stock
 GPRF - Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF
 GPRK - Geopark Ltd Common Shares
 GPRO - GoPro, Inc. - Class A Common Stock
+GPT - Intelligent Alpha Atlas ETF
 GPTY - Tidal Trust II YieldMax AI & Tech Portfolio Option Income ETF
 GPUS - Hyperscale Data, Inc. Common Stock
 GPZ - VanEck ETF Trust VanEck Alternative Asset Manager ETF
@@ -6018,7 +6019,6 @@ LITP - Sprott Lithium Miners ETF
 LITS - Lite Strategy, Inc. - Common Stock
 LIVE - Live Ventures Incorporated - Common Stock
 LIVN - LivaNova PLC - Ordinary Shares
-LIVR - Intelligent Livermore ETF
 LIXT - Lixte Biotechnology Holdings, Inc. - Common Stock
 LIXTW - Lixte Biotechnology Holdings, Inc. - Warrants
 LJAN - Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF - January
@@ -10850,7 +10850,7 @@ WNS - WNS (Holdings) Limited Ordinary Shares
 WNTR - Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF
 WNW - Meiwu Technology Company Limited - Ordinary Shares
 WOK - WORK Medical Technology Group LTD - Class A Ordinary Shares
-WOLF - Wolfspeed, Inc. Common Stock
+WOLF - Wolfspeed, Inc. Common Stock New
 WOMN - Tidal Trust III Impact Shares Women's Empowerment ETF
 WOOD - iShares Global Timber & Forestry ETF
 WOOF - Petco Health and Wellness Company, Inc. - Class A Common Stock
