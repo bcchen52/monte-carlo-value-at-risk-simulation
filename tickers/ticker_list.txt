@@ -2041,13 +2041,12 @@ CNAV - Collaborative Investment Series Trust Mohr Company Nav ETF
 CNBS - Amplify Seymour Cannabis ETF
 CNC - Centene Corporation Common Stock
 CNCK - Coincheck Group N.V. - Ordinary Shares
+CNCKW - Coincheck Group N.V. - Warrants
 CNDT - Conduent Incorporated - Common Stock
 CNEQ - The Alger ETF Trust Alger Concentrated Equity ETF
 CNET - ZW Data Action Technologies Inc. - Common Stock
 CNEY - CN Energy Group Inc. - Class A Ordinary Shares
 CNF - CNFinance Holdings Limited American Depositary Shares, each representing two hundred (200) Ordinary Shares
-CNFR - Conifer Holdings, Inc. - Common Stock
-CNFRZ - Conifer Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 CNH - CNH Industrial N.V. Common Shares
 CNI - Canadian National Railway Company Common Stock
 CNK - Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock
@@ -2699,7 +2698,6 @@ DMO - Western Asset Mortgage Opportunity Fund Inc. Common Stock
 DMRC - Digimarc Corporation - Common Stock
 DMX - DoubleLine ETF Trust DoubleLine Multi-Sector Income ETF
 DMXF - iShares ESG Advanced MSCI EAFE ETF
-DMYY - dMY Squared Technology Group, Inc. Class A Common Stock
 DNA - Ginkgo Bioworks Holdings, Inc. Class A Common Stock
 DNL - WisdomTree Global ex-US Quality Dividend Growth Fund
 DNLI - Denali Therapeutics Inc. - Common Stock
@@ -2752,6 +2750,7 @@ DRIP - Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares
 DRIV - Global X Autonomous & Electric Vehicles ETF
 DRLL - EA Series Trust Strive U.S. Energy ETF
 DRMA - Dermata Therapeutics, Inc. - Common Stock
+DRMAW - Dermata Therapeutics, Inc. - Warrant
 DRN - Direxion Daily Real Estate Bull 3X Shares
 DRS - Leonardo DRS, Inc. - Common Stock
 DRSK - Aptus Defined Risk ETF 
@@ -4127,7 +4126,6 @@ GECCG - Great Elm Capital Corp. - 7.75% Notes Due 2030
 GECCH - Great Elm Capital Corp. - 8.125% Notes Due 2029
 GECCI - Great Elm Capital Corp. - 8.50% NOTES DUE 2029
 GECCO - Great Elm Capital Corp. - 5.875% Notes due 2026
-GECCZ - Great Elm Capital Corp. - 8.75% Notes due 2028
 GEF - Greif Inc. Class A Common Stock
 GEG - Great Elm Group, Inc.  - Common Stock
 GEGGL - Great Elm Group, Inc.  - 7.25% Notes due 2027
@@ -5496,6 +5494,7 @@ JFBR - Jeffs' Brands Ltd - Ordinary Shares
 JFBRW - Jeffs' Brands Ltd - Warrant
 JFIN - Jiayin Group Inc. - American Depositary Shares
 JFLI - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Flexible Income ETF
+JFLX - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Flexible Debt ETF
 JFR - Nuveen Floating Rate Income Fund Common Stock
 JFU - 9F Inc. - American Depositary Shares
 JG - Aurora Mobile Limited - American Depositary Shares
@@ -5755,6 +5754,7 @@ KNOP - KNOT Offshore Partners LP Common Units representing Limited Partner Inter
 KNOV - Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - November
 KNOW - Fundamentals First ETF Fundamentals First ETF
 KNRG - Simplify Exchange Traded Funds Simplify Kayne Anderson Energy and Infrastructure Credit ETF
+KNRX - KNOREX LTD. Class A Ordinary Shares
 KNSA - Kiniksa Pharmaceuticals, Ltd. - Class A Ordinary Shares
 KNSL - Kinsale Capital Group, Inc. Common Stock
 KNTK - Kinetik Holdings Inc. Class A Common Stock
@@ -7961,6 +7961,8 @@ PRG - PROG Holdings, Inc. Common Stock
 PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
+PRHI - Presurance Holdings, Inc. - Common Stock
+PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - SPDR SSGA IG Public & Private Credit ETF
@@ -8812,7 +8814,6 @@ SCAG - Scage Future - American Depositary Shares
 SCAGW - Scage Future - Warrants
 SCAP - Infrastructure Capital Small Cap Income ETF
 SCC - ProShares UltraShort Consumer Discretionary
-SCCC - Sachem Capital Corp. 7.75% Notes due 2025
 SCCD - Sachem Capital Corp. 6.00% Notes due 2026
 SCCE - Sachem Capital Corp. 6.00% Notes due 2027
 SCCF - Sachem Capital Corp. 7.125% Notes due 2027
@@ -10497,7 +10498,7 @@ VFVA - Vanguard U.S. Value Factor ETF
 VG - Venture Global, Inc. Class A common stock
 VGAS - Verde Clean Fuels, Inc. - Class A Common Stock
 VGASW - Verde Clean Fuels, Inc. - Warrant
-VGHY - Vanguard High-Yield Active ETF Vanguard High-Yield Active ETF
+VGHY - Vanguard High-Yield Active ETF
 VGI - Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest
 VGIT - Vanguard Intermediate-Term Treasury ETF
 VGK - Vanguard FTSEEuropean ETF
