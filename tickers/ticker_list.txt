@@ -1101,7 +1101,6 @@ BG - Bunge Limited Common Shares
 BGB - Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest
 BGC - BGC Group, Inc. - Class A Common Stock
 BGDV - ETF Series Solutions Bahl & Gaynor Dividend ETF
-BGFV - Big 5 Sporting Goods Corporation - Common Stock
 BGH - Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests
 BGI - Birks Group Inc. Common Stock
 BGIG - ETF Series Solutions Bahl & Gaynor Income Growth ETF
@@ -1379,7 +1378,6 @@ BRBS - Blue Ridge Bankshares, Inc. Common Stock
 BRC - Brady Corporation Common Stock
 BRCB - Black Rock Coffee Bar, Inc. - Class A Common Stock
 BRCC - BRC Inc. Class A Common Stock
-BREA - Brera Holdings PLC - Class B Ordinary Shares
 BRF - VanEck Brazil Small-Cap ETF
 BRFH - Barfresh Food Group Inc. - Common Stock
 BRHY - iShares High Yield Active ETF
@@ -1411,6 +1409,7 @@ BRT - BRT Apartments Corp. (MD) Common Stock
 BRTR - iShares Total Return Active ETF
 BRTX - BioRestorative Therapies, Inc. - Common Stock
 BRW - Saba Capital Income & Opportunities Fund SBI
+BRW.V - Saba Capital Income & Opportunities Fund Rights (expiring October 28, 2025) Rights when issued
 BRX - Brixmor Property Group Inc. Common Stock
 BRY - Berry Corporation (bry) - Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
@@ -1505,6 +1504,7 @@ BTRN - Global X Funds Global X Bitcoin Trend Strategy ETF
 BTSG - BrightSpring Health Services, Inc. - Common Stock
 BTSGU - BrightSpring Health Services, Inc. - Tangible Equity Unit
 BTT - BlackRock Municipal 2030 Target Term Trust
+BTTC - Black Titan Corp - Ordinary Shares
 BTU - Peabody Energy Corporation Common Stock 
 BTX - BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest
 BTZ - BlackRock Credit Allocation Income Trust
@@ -1675,6 +1675,7 @@ CBAN - Colony Bankcorp, Inc. Common Stock
 CBAT - CBAK Energy Technology, Inc. - Common Stock
 CBFV - CB Financial Services, Inc. - Common Stock
 CBIO - Crescent Biopharma, Inc. - Common Stock
+CBK - Commercial Bancgroup, Inc. - Common Stock
 CBL - CBL & Associates Properties, Inc. Common Stock
 CBLL - CeriBell, Inc. - Common Stock
 CBLS - Elevation Series Trust Clough Hedged Equity ETF
@@ -1762,6 +1763,7 @@ CDNS - Cadence Design Systems, Inc. - Common Stock
 CDP - COPT Defense Properties Common Shares of Beneficial Interest
 CDRE - Cadre Holdings, Inc. Common Stock
 CDRO - Codere Online Luxembourg, S.A. - Ordinary Shares
+CDROW - Codere Online Luxembourg, S.A. - Warrants
 CDT - CDT Equity Inc. - Common Stock
 CDTG - CDT Environmental Technology Investment Holdings Limited - ordinary shares
 CDTTW - CDT Equity Inc. - Warrant
@@ -2881,6 +2883,7 @@ DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
 DYCQ - DT Cloud Acquisition Corporation - Ordinary shares
+DYCQR - DT Cloud Acquisition Corporation - Right
 DYCQU - DT Cloud Acquisition Corporation - Unit
 DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
@@ -3857,6 +3860,7 @@ FOX - Fox Corporation - Class B Common Stock
 FOXA - Fox Corporation - Class A Common Stock
 FOXF - Fox Factory Holding Corp. - Common Stock
 FOXX - Foxx Development Holdings Inc. - Common Stock
+FOXXW - Foxx Development Holdings Inc. - Warrant
 FOXY - Simplify Exchange Traded Funds Simplify Currency Strategy ETF
 FPA - First Trust Asia Pacific Ex-Japan AlphaDEX Fund
 FPAG - Investment Managers Series Trust III FPA Global Equity ETF
@@ -4811,7 +4815,9 @@ HVAC - AdvisorShares Trust AdvisorShares HVAC and Industrials ETF
 HVII - Hennessy Capital Investment Corp. VII - Ordinary Shares
 HVIIR - Hennessy Capital Investment Corp. VII - Rights
 HVIIU - Hennessy Capital Investment Corp. VII - Unit
+HVMC - Highview Merger Corp. - Class A Ordinary Share
 HVMCU - Highview Merger Corp. - Units
+HVMCW - Highview Merger Corp. - Warrants
 HVT - Haverty Furniture Companies, Inc. Common Stock
 HWAY - Themes US Infrastructure ETF
 HWBK - Hawthorn Bancshares, Inc. - Common Stock
@@ -5909,6 +5915,7 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone ETF Trust Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
+LCFYW - Locafy Limited - Warrant
 LCG - Sterling Capital Focus Equity ETF
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
@@ -6330,6 +6337,7 @@ MCTR - CTRL Group Limited - ordinary shares
 MCW - Mister Car Wash, Inc. - Common Stock
 MCY - Mercury General Corporation Common Stock
 MD - Pediatrix Medical Group, Inc. Common Stock
+MDAA - Series Portfolios Trust Myriad Dynamic Asset Allocation ETF
 MDAI - Spectral AI, Inc. - Class A Common Stock
 MDAIW - Spectral AI, Inc. - Warrants
 MDB - MongoDB, Inc. - Class A Common Stock
@@ -6484,6 +6492,8 @@ MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
 MKDWW - MKDWELL Tech Inc. - Warrants
 MKL - Markel Group Inc. Common Stock
+MKLY - McKinley Acquisition Corporation - Class A Ordinary Shares
+MKLYR - McKinley Acquisition Corporation - Rights
 MKLYU - McKinley Acquisition Corporation - Units
 MKOR - Matthews International Funds Matthews Korea Active ETF
 MKSI - MKS Inc. - Common Stock
@@ -7739,6 +7749,7 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
+PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -9138,6 +9149,7 @@ SLI - Standard Lithium Ltd. Common Shares
 SLJY - Amplify ETF Trust Amplify SILJ Covered Call ETF
 SLM - SLM Corporation - Common Stock
 SLMBP - SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B
+SLMT - Brera Holdings PLC - Class B Ordinary Shares
 SLN - Silence Therapeutics Plc - American Depository Share
 SLND - Southland Holdings, Inc. Common Stock
 SLNG - Stabilis Solutions, Inc. - Common Stock
@@ -9475,6 +9487,8 @@ SRZNW - Surrozen, Inc. - Warrant
 SSB - SouthState Bank Corporation Common Stock
 SSBI - Summit State Bank - Common Stock
 SSD - Simpson Manufacturing Company, Inc. Common Stock
+SSEA - Starry Sea Acquisition Corp - Ordinary Shares
+SSEAR - Starry Sea Acquisition Corp - Rights
 SSEAU - Starry Sea Acquisition Corp - Unit
 SSFI - Day Hagan Smart Sector Fixed Income ETF
 SSG - ProShares UltraShort Semiconductors
