@@ -4,7 +4,6 @@ AAA - Alternative Access First Priority CLO Bond ETF
 AAAA - EA Series Trust Amplius Aggressive Asset Allocation ETF
 AAAU - Goldman Sachs Physical Gold ETF Shares
 AACB - Artius II Acquisition Inc. - Class A Ordinary Shares
-AACBR - Artius II Acquisition Inc. - Rights
 AACBU - Artius II Acquisition Inc. - Units
 AACG - ATA Creativity Global - American Depositary Shares, each representing two common shares
 AACI - Armada Acquisition Corp. II - Class A Ordinary Shares
@@ -1092,7 +1091,6 @@ BFRE - Ultimus Managers Trust Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
-BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator ETFs Trust Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
@@ -1717,6 +1715,7 @@ CCEP - Coca-Cola Europacific Partners plc - Ordinary Shares
 CCFE - Concourse Capital Focused Equity ETF
 CCG - Cheche Group Inc. - Class A Ordinary Shares
 CCGWW - Cheche Group Inc. - Warrant
+CCHH - CCH Holdings Ltd - Ordinary Shares
 CCI - Crown Castle Inc. Common Stock
 CCIA - Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028
 CCIF - Carlyle Credit Income Fund Shares of Beneficial Interest
@@ -2809,7 +2808,6 @@ DTSQR - DT Cloud Star Acquisition Corporation - Right
 DTSQU - DT Cloud Star Acquisition Corporation - Units
 DTSS - Datasea Inc. - Common Stock
 DTST - Data Storage Corporation - Common Stock
-DTSTW - Data Storage Corporation - Warrant
 DTW - DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077
 DUBS - ETF Series Solutions Aptus Large Cap Enhanced Yield ETF
 DUG - ProShares UltraShort Energy
@@ -4010,7 +4008,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -8591,6 +8588,7 @@ RND - First Trust Exchange-Traded Fund VI First Trust Bloomberg R&D Leaders ETF
 RNEM - Emerging Markets Equity Select ETF
 RNG - RingCentral, Inc. Class A Common Stock
 RNGR - Ranger Energy Services, Inc. Class A Common Stock
+RNGTU - Range Capital Acquisition Corp II - Units
 RNIN - Bushido Capital US SMID Cap Equity ETF
 RNP - Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares
 RNR - RenaissanceRe Holdings Ltd. Common Stock
@@ -8778,6 +8776,7 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
+SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SAM - Boston Beer Company, Inc. (The) Common Stock
@@ -8817,7 +8816,6 @@ SBET - SharpLink Gaming, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
-SBFMW - Sunshine Biopharma Inc. - Warrant
 SBGI - Sinclair, Inc. - Class A Common Stock
 SBH - Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI - Western Asset Intermediate Muni Fund Inc Common Stock
@@ -10454,6 +10452,7 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
+UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
