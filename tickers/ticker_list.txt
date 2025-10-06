@@ -1622,6 +1622,7 @@ CALF - Pacer US Small Cap Cash Cows ETF
 CALI - iShares Short-Term California Muni Active ETF
 CALM - Cal-Maine Foods, Inc. - Common Stock
 CALX - Calix, Inc Common Stock
+CAM - AB Active ETFs, Inc. AB California Intermediate Municipal ETF
 CAML - Professionally Managed Portfolios Congress Large Cap Growth ETF
 CAMP - CAMP4 Therapeutics Corporation - Common Stock
 CAMT - Camtek Ltd. - Ordinary Shares
@@ -3097,6 +3098,7 @@ EMA - Emera Incorporated Common Shares
 EMB - iShares J.P. Morgan USD Emerging Markets Bond ETF
 EMBC - Embecta Corp. - Common Stock
 EMBD - Global X Emerging Markets Bond ETF
+EMBX - VanEck Funds VanEck Emerging Markets Bond ETF
 EMC - Global X Funds Global X Emerging Markets Great Consumer ETF
 EMCB - WisdomTree Emerging Markets Corporate Bond Fund
 EMCR - Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF
@@ -4260,6 +4262,7 @@ GLGG - Leverage Shares 2X Long GLXY Daily ETF
 GLIBA - GCI Liberty, Inc. - Series A GCI Group Common Stock
 GLIBK - GCI Liberty, Inc. - Series C GCI Group Common Stock
 GLIN - VanEck India Growth Leaders ETF
+GLIX - Lazard Active ETF Trust Lazard Listed Infrastructure ETF
 GLL - ProShares UltraShort Gold
 GLMD - Galmed Pharmaceuticals Ltd. - Ordinary Shares
 GLNG - Golar LNG Limited - Common Shares
@@ -4853,7 +4856,6 @@ HYLN - Hyliion Holdings Corp. Class A Common Stock
 HYLS - First Trust Tactical High Yield ETF
 HYMB - SPDR Nuveen ICE High Yield Municipal Bond ETF
 HYMC - Hycroft Mining Holding Corporation - Class A Common Stock
-HYMCL - Hycroft Mining Holding Corporation - Warrants
 HYP - Golden Eagle Dynamic Hypergrowth ETF
 HYPD - Hyperion DeFi, Inc. - Common Stock
 HYPR - Hyperfine, Inc.  - Class A Common Stock
@@ -5478,7 +5480,6 @@ JCPB - JPMorgan Core Plus Bond ETF
 JCPI - J P MORGAN EXCHANGE-TRADED FD TR JPMorgan Inflation Managed Bond ETF
 JCSE - JE Cleantech Holdings Limited - Ordinary Shares
 JCTC - Jewett-Cameron Trading Company - Common Shares
-JCTR - JPMorgan Carbon Transition U.S. Equity ETF
 JD - JD.com, Inc. - American Depositary Shares
 JDIV - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Dividend Leaders ETF
 JDOC - JPMorgan Healthcare Leaders ETF
@@ -9753,7 +9754,7 @@ TCBI - Texas Capital Bancshares, Inc. - Common Stock
 TCBIO - Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B
 TCBK - TriCo Bancshares - Common Stock
 TCBS - Texas Community Bancshares, Inc. - Common Stock
-TCBX - Third Coast Bancshares, Inc. - Common Stock
+TCBX - Third Coast Bancshares, Inc. Common Stock
 TCHI - iShares MSCI China Multisector Tech ETF
 TCHP - T. Rowe Price Blue Chip Growth ETF
 TCI - Transcontinental Realty Investors, Inc. Common Stock
@@ -9811,7 +9812,6 @@ TEL - TE Connectivity plc Ordinary Shares
 TELA - TELA Bio, Inc. - Common stock
 TELO - Telomir Pharmaceuticals, Inc. - Common Stock
 TEM - Tempus AI, Inc. - Class A Common Stock
-TEMP - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Climate Change Solutions ETF
 TEMT - Tradr 2X Long TEM Daily ETF
 TEMX - Touchstone ETF Trust Touchstone Sands Capital Emerging Markets ex-China Growth ETF
 TEN - Tsakos Energy Navigation Ltd Common Shares
@@ -10021,11 +10021,9 @@ TPG - TPG Inc. - Class A Common Stock
 TPGXL - TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064
 TPH - Tri Pointe Homes, Inc. Common Stock
 TPHD - Timothy Plan High Dividend Stock ETF
-TPHE - Timothy Plan High Dividend Stock Enhanced ETF
 TPIF - Timothy Plan International ETF
 TPL - Texas Pacific Land Corporation Common Stock
 TPLC - Timothy Plan US Large/Mid Cap Core ETF
-TPLE - Timothy Plan US Large/Mid Cap Core Enhanced ETF
 TPLS - Thornburg Core Plus Bond ETF
 TPOR - Direxion Daily Transportation Bull 3X Shares
 TPR - Tapestry, Inc. Common Stock
