@@ -4,6 +4,7 @@ AAA - Alternative Access First Priority CLO Bond ETF
 AAAA - EA Series Trust Amplius Aggressive Asset Allocation ETF
 AAAU - Goldman Sachs Physical Gold ETF Shares
 AACB - Artius II Acquisition Inc. - Class A Ordinary Shares
+AACBR - Artius II Acquisition Inc. - Rights
 AACBU - Artius II Acquisition Inc. - Units
 AACG - ATA Creativity Global - American Depositary Shares, each representing two common shares
 AACI - Armada Acquisition Corp. II - Class A Ordinary Shares
@@ -525,7 +526,6 @@ APADU - A Paradise Acquisition Corp. - Unit
 APAM - Artisan Partners Asset Management Inc. Class A Common Stock
 APCB - Trust for Professional Managers ActivePassive Core Bond ETF
 APD - Air Products and Chemicals, Inc. Common Stock
-APDN - Applied DNA Sciences, Inc. - Common Stock
 APED - STKd 100% MSTR & 100% COIN ETF
 APEI - American Public Education, Inc. - Common Stock
 APG - APi Group Corporation Common Stock
@@ -1294,6 +1294,7 @@ BMY - Bristol-Myers Squibb Company Common Stock
 BN - Brookfield Corporation Class A Limited Voting Shares
 BNAI - Brand Engagement Network Inc. - Common Stock
 BNAIW - Brand Engagement Network Inc. - Warrant
+BNBX - Applied DNA Sciences, Inc. - Common Stock
 BNC - CEA Industries Inc. - Common Stock
 BNCWW - CEA Industries Inc. - Warrant
 BND - Vanguard Total Bond Market ETF
@@ -1871,6 +1872,7 @@ CHA - Chagee Holdings Limited - American Depositary Shares, each representing 1 
 CHAC - Crane Harbor Acquisition Corp. - Class A Ordinary Shares
 CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
+CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
 CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
@@ -3079,7 +3081,6 @@ ELM - Series Portfolios Trust Elm Market Navigator ETF
 ELMD - Electromed, Inc. Common Stock
 ELME - Elme Communities Common Stock
 ELOG - Eastern International Ltd. - Ordinary Shares
-ELON - Tidal Trust III Battleshares TSLA vs F ETF
 ELP - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non-voting Class B Preferred Shares)
 ELPC - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
 ELPW - Elong Power Holding Limited - Class A Ordinary Shares
@@ -4010,6 +4011,7 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
+FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4231,6 +4233,7 @@ GIPR - Generation Income Properties Inc. - Common stock
 GIPRW - Generation Income Properties Inc. - Warrant
 GIS - General Mills, Inc. Common Stock
 GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
+GIWWU - GigCapital8 Corp. - Units
 GJAN - FT Vest U.S. Equity Moderate Buffer ETF - January
 GJH - Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1
 GJO - Synthetic Fixed-Income Securities, Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores, Inc. Securities, Series 2004-5
@@ -7426,8 +7429,6 @@ OPEN - Opendoor Technologies Inc  - Common Stock
 OPER - ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF
 OPFI - OppFi Inc. Class A Common Stock
 OPHC - OptimumBank Holdings, Inc. Common Stock
-OPI - Office Properties Income Trust - Common Shares of Beneficial Interest
-OPINL - Office Properties Income Trust - 6.375% Senior Notes due 2050
 OPK - Opko Health, Inc. - Common Stock
 OPP - RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock
 OPPE - WisdomTree European Opportunities Fund
@@ -9087,7 +9088,6 @@ SINT - SiNtx Technologies, Inc. - Common Stock
 SIO - Touchstone Strategic Income ETF
 SION - Sionna Therapeutics, Inc. - Common Stock
 SIRI - SiriusXM Holdings Inc. - Common Stock
-SISI - Shineco, Inc. - Common Stock
 SITC - SITE Centers Corp. Common Stock
 SITE - SiteOne Landscape Supply, Inc. Common Stock
 SITM - SiTime Corporation - Common Stock
@@ -9287,7 +9287,6 @@ SOCAU - Solarius Capital Acquisition Corp. - Units
 SOCAW - Solarius Capital Acquisition Corp. - Warrant
 SOCL - Global X Social Media ETF
 SOFI - SoFi Technologies, Inc.  - Common Stock
-SOFL - Tidal Trust III 2x Daily Software Platform ETF
 SOFR - Amplify ETF Trust Amplify Samsung SOFR ETF
 SOFX - Defiance Daily Target 2X Long SOFI ETF
 SOGP - Sound Group Inc. - American Depositary Shares
@@ -9375,6 +9374,7 @@ SPIB - SPDR Portfolio Intermediate Term Corporate Bond ETF
 SPIN - SSGA Active Trust SPDR SSGA US Equity Premium Income ETF
 SPIP - SPDR Portfolio TIPS ETF
 SPIR - Spire Global, Inc. Class A Common Stock
+SPIT - F/m Emerald Special Situations ETF
 SPKL - Spark I Acquisition Corp. - Class A Ordinary Share
 SPKLU - Spark I Acquisition Corp. - Unit
 SPKLW - Spark I Acquisition Corp. - Warrant
@@ -9666,7 +9666,6 @@ SYNX - Silynxcom Ltd. Ordinary Shares
 SYPR - Sypris Solutions, Inc. - Common Stock
 SYRE - Spyre Therapeutics, Inc. - Common Stock
 SYSB - iShares Systematic Bond ETF
-SYTA - Siyata Mobile, Inc. - Common Shares
 SYY - Sysco Corporation Common Stock
 SYZ - Lazard US Systematic Small Cap Equity ETF
 SZK - ProShares UltraShort Consumer Staples
@@ -10912,6 +10911,7 @@ WRN - Western Copper and Gold Corporation Common Stock
 WRND - NYLI Global Equity R&D Leaders ETF
 WS - Worthington Steel, Inc. Common Shares
 WSBC - WesBanco, Inc. - Common Stock
+WSBCO - WesBanco, Inc. - Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B
 WSBCP - WesBanco, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A
 WSBF - Waterstone Financial, Inc. - Common Stock
 WSBK - Winchester Bancorp, Inc. - Common Stock
