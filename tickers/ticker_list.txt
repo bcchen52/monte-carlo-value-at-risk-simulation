@@ -1091,6 +1091,7 @@ BFRE - Ultimus Managers Trust Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
+BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator ETFs Trust Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
@@ -1204,7 +1205,6 @@ BKF - iShares MSCI BIC ETF
 BKGI - BNY Mellon ETF Trust BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
-BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -1408,7 +1408,6 @@ BRT - BRT Apartments Corp. (MD) Common Stock
 BRTR - iShares Total Return Active ETF
 BRTX - BioRestorative Therapies, Inc. - Common Stock
 BRW - Saba Capital Income & Opportunities Fund SBI
-BRW.V - Saba Capital Income & Opportunities Fund Rights (expiring October 28, 2025) Rights when issued
 BRX - Brixmor Property Group Inc. Common Stock
 BRY - Berry Corporation (bry) - Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
@@ -1685,6 +1684,7 @@ CBOA - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - April
 CBOE - Cboe Global Markets, Inc. Common Stock
 CBOJ - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - January
 CBON - VanEck China Bond ETF
+CBOO - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - October
 CBOY - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - July
 CBRE - CBRE Group Inc Common Stock Class A
 CBRL - Cracker Barrel Old Country Store, Inc. - Common Stock
@@ -1693,11 +1693,13 @@ CBSH - Commerce Bancshares, Inc. - Common Stock
 CBT - Cabot Corporation Common Stock
 CBTA - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - April
 CBTJ - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - January
+CBTO - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - October
 CBTY - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - July
 CBU - Community Financial System, Inc. Common Stock
 CBUS - Cibus, Inc. - Class A Common Stock
 CBXA - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - April
 CBXJ - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - January
+CBXO - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - October
 CBXY - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - July
 CBZ - CBIZ, Inc. Common Stock
 CC - Chemours Company (The) Common Stock
@@ -2637,6 +2639,7 @@ DIEM - Franklin Emerging Market Core Dividend Tilt Index ETF
 DIG - ProShares Ultra Energy
 DIHP - Dimensional ETF Trust Dimensional International High Profitability ETF
 DIM - WisdomTree International MidCap Dividend Fund
+DIME - CoinShares Altcoins ETF
 DIN - Dine Brands Global, Inc. Common Stock
 DINO - HF Sinclair Corporation Common Stock
 DINT - Davis Fundamental ETF Trust Davis Select International ETF
@@ -2759,6 +2762,7 @@ DRI - Darden Restaurants, Inc. Common Stock
 DRIO - DarioHealth Corp. - Common Stock
 DRIP - Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares
 DRIV - Global X Autonomous & Electric Vehicles ETF
+DRKY - Tidal Trust III VistaShares Target 15 DRUKMacro Distribution ETF
 DRLL - EA Series Trust Strive U.S. Energy ETF
 DRMA - Dermata Therapeutics, Inc. - Common Stock
 DRMAW - Dermata Therapeutics, Inc. - Warrant
@@ -5334,6 +5338,7 @@ ISRLW - Israel Acquisitions Corp - Warrant
 ISSC - Innovative Solutions and Support, Inc. - Common Stock
 ISTB - iShares Core 1-5 Year USD Bond ETF
 ISTR - Investar Holding Corporation - Common Stock
+ISUL - GraniteShares 2x Long ISRG Daily ETF
 ISVL - iShares Trust iShares International Developed Small Cap Value Factor ETF
 ISWN - Amplify BlackSwan ISWN ETF
 IT - Gartner, Inc. Common Stock
@@ -6042,6 +6047,7 @@ LJUL - SHL Telemedicine Ltd Innovator Premium Income 15 Buffer ETF - July
 LKFN - Lakeland Financial Corporation - Common Stock
 LKOR - FlexShares Trust FlexShares Credit-Scored US Long Corporate Bond Index Fund
 LKQ - LKQ Corporation - Common Stock
+LKSPU - Lake Superior Acquisition Corp. - Units
 LLDR - Global X Funds Global X Long-Term Treasury Ladder ETF
 LLY - Eli Lilly and Company Common Stock
 LLYVA - Liberty Media Corporation - Series A Liberty Live Common Stock
@@ -6439,7 +6445,6 @@ MGRB - Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060
 MGRC - McGrath RentCorp - Common Stock
 MGRD - Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061
 MGRE - Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064
-MGRM - Monogram Technologies Inc. - Common Stock
 MGRT - Mega Fortune Company Limited - Ordinary Shares
 MGRX - Mangoceuticals, Inc. - Common Stock
 MGTX - MeiraGTx Holdings plc - Ordinary Shares
@@ -6676,7 +6681,6 @@ MSOS - AdvisorShares Trust AdvisorShares Pure US Cannabis ETF
 MSOX - AdvisorShares MSOS Daily Leveraged ETF
 MSPR - MSP Recovery, Inc. - Class A Common Stock
 MSPRW - MSP Recovery, Inc. - Warrant
-MSPRZ - MSP Recovery, Inc. - Warrant
 MSS - Maison Solutions Inc. - Class A Common Stock
 MSSM - Morgan Stanley Pathway Funds Morgan Stanley Pathway Small-Mid Cap Equity ETF
 MSSS - Northern Lights Fund Trust IV Monarch Select Subsector Index ETF
@@ -6851,6 +6855,7 @@ NBFC - Neuberger Berman ETF Trust Neuberger Berman Flexible Credit Income ETF
 NBGX - Neuberger Berman ETF Trust Neuberger Berman Growth ETF
 NBH - Neuberger Berman Municipal Fund Inc. Common Stock
 NBHC - National Bank Holdings Corporation Common Stock
+NBIL - GraniteShares 2x Long NBIS Daily ETF
 NBIS - Nebius Group N.V. - Class A Ordinary Shares
 NBIX - Neurocrine Biosciences, Inc. - Common Stock
 NBJP - Neuberger Berman ETF Trust Neuberger Berman Japan Equity ETF
@@ -7842,7 +7847,6 @@ PLDR - Putnam Sustainable Leaders ETF
 PLG - Platinum Group Metals Ltd. Ordinary Shares (Canada)
 PLMK - Plum Acquisition Corp. IV - Class A Ordinary Shares
 PLMKU - Plum Acquisition Corp. IV - Unit
-PLMKW - Plum Acquisition Corp. IV - Warrants
 PLMR - Palomar Holdings, Inc. - Common stock
 PLNT - Planet Fitness, Inc. Common Stock
 PLOO - Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF
@@ -8167,6 +8171,7 @@ QBIG - Invesco Top QQQ ETF
 QBSF - AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 ETF
 QBTS - D-Wave Quantum Inc. Common Shares
 QBTX - Tradr 2X Long QBTS Daily ETF
+QBTZ - Defiance Daily Target 2x Short QBTS ETF
 QBUF - Innovator Nasdaq-100 10 Buffer ETF Quarterly
 QBUL - Elevation Series Trust TrueShares Quarterly Bull Hedge ETF
 QCAP - First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Conservative Buffer ETF - April
@@ -8818,6 +8823,7 @@ SBET - SharpLink Gaming, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
+SBFMW - Sunshine Biopharma Inc. - Warrant
 SBGI - Sinclair, Inc. - Class A Common Stock
 SBH - Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI - Western Asset Intermediate Muni Fund Inc Common Stock
@@ -8886,7 +8892,6 @@ SCNX - Scienture Holdings, Inc. - Common Stock
 SCO - ProShares UltraShort Bloomberg Crude Oil
 SCOR - comScore, Inc. - Common Stock
 SCOW - Pacer Funds Trust Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
-SCPH - scPharmaceuticals Inc. - Common Stock
 SCS - Steelcase Inc. Common Stock
 SCSC - ScanSource, Inc. - Common Stock
 SCUS - Schwab Strategic Trust Schwab Ultra-Short Income ETF
@@ -9133,7 +9138,7 @@ SKYW - SkyWest, Inc. - Common Stock
 SKYX - SKYX Platforms Corp. - Common Stock
 SKYY - First Trust Cloud Computing ETF
 SLAB - Silicon Laboratories, Inc. - Common Stock
-SLB - Schlumberger N.V. Common Stock
+SLB - SLB Limited Common Shares
 SLDB - Solid Biosciences Inc. - Common Stock
 SLDE - Slide Insurance Holdings, Inc. - Common Stock
 SLDP - Solid Power, Inc. - Class A Common Stock
@@ -9413,6 +9418,7 @@ SPTI - SPDR Portfolio Intermediate Term Treasury ETF
 SPTL - SPDR Portfolio Long Term Treasury ETF
 SPTM - SPDR Portfolio S&P 1500 Composite Stock Market ETF
 SPTS - SPDR Portfolio Short Term Treasury ETF
+SPTU - SPDR Series Trust State Street SPDR Portfolio Ultra Short T-Bill ETF
 SPUC - Simplify Exchange Traded Funds Simplify US Equity PLUS Upside Convexity ETF
 SPUS - SP Funds S&P 500 Sharia Industry Exclusions ETF
 SPUT - Innovator ETFs Trust Innovator Equity Premium Income - Daily PutWrite ETF
@@ -10037,6 +10043,7 @@ TQQY - GraniteShares YieldBOOST QQQ ETF
 TR - Tootsie Roll Industries, Inc. Common Stock
 TRAK - ReposiTrak, Inc. Common Stock
 TRAW - Traws Pharma, Inc. - Common Stock
+TRBF - Angel Oak Total Return ETF
 TRC - Tejon Ranch Co Common Stock
 TRDA - Entrada Therapeutics, Inc. - Common Stock
 TREE - LendingTree, Inc. - Common Stock
@@ -10659,7 +10666,6 @@ VREX - Varex Imaging Corporation - Common Stock
 VRIG - Invesco Variable Rate Investment Grade ETF
 VRM - Vroom, Inc. - Common Stock
 VRME - VerifyMe, Inc. - Common Stock
-VRNA - Verona Pharma plc - American Depositary Shares
 VRNS - Varonis Systems, Inc. - Common Stock
 VRNT - Verint Systems Inc. - Common Stock
 VRP - Invesco Variable Rate Preferred ETF
@@ -11217,7 +11223,7 @@ YUM - Yum! Brands, Inc.
 YUMC - Yum China Holdings, Inc. Common Stock
 YXI - ProShares Short FTSE China 50
 YXT - YXT.COM GROUP HOLDING LIMITED - American Depository Shares
-YYAI - Connexa Sports Technologies Inc. - Common Stock
+YYAI - AiRWA Inc. - Common Stock
 YYGH - YY Group Holding Limited - Class A Ordinary Shares
 YYY - Amplify High Income ETF
 Z - Zillow Group, Inc. - Class C Capital Stock
