@@ -486,7 +486,7 @@ def plot_visualization_4(initial_prices, weighted_prices, ci):
 
     var_lower = []
     
-    z = ndtri((1-ci)/2) # lower z score
+    z = ndtri((0.05)/2) # lower z score
 
     iterations = np.ceil(start + np.arange(1,101) * step_size).astype(int)
     

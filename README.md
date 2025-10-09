@@ -1,16 +1,33 @@
 # monte-carlo-value-at-risk-simulation
 
-Web app [here.](https://monte-carlo-value-at-risk-simulation-p69x7gln5lw4u7wocnnkgd.streamlit.app/)
+Hosted on Streamlit cloud [here.](https://monte-carlo-value-at-risk-simulation-p69x7gln5lw4u7wocnnkgd.streamlit.app/)
 
-A Monte Carlo-based simulation tool for visualizing portfolio risk, expected returns, volatility, and using that to determine value at risk.
+DISCLAIMER: Runs slow on web version and large work loads can cause the app to crash (maxing all simulations and days for 2+ securities causes a crash) until manually rebooted. If web app is currently down, or you want to play with a more responsive version, assuming your local is good enough, clone repo and run locally :).
 
-Given a portfolio (tickers and values), and some simulation parameters (time, confidence interval, number of simulations), we return the VaR with a specified confidence.
+A Monte Carlo-based simulation tool the visualizes portfolio and individual security risk by simulating stock returns with multidimensional geometric Brownian motion (GBM)
 
-Using the specific tickers' values from the last year, we find the mean and covariance matrix to estimate parameters for the geometric brownian motion equation, which is put in a monte carlo simulation for x times.
+Given a portfolio (tickers and values), the amount of past data to sample from, the number of days into the future you want to simulate, how many paths you want to simulate, and the wanted confidence interval, prices are simulated, and the following visualizations presented...
+- Vis. 1: Returns Cumulative Distribution Funtion (CDF) and Returns Probability Histogram
+- Vis. 2: Mean Contribution to Conditional CI VaR (CVaR) vs Initial Portfolio Weight
+- Vis. 3: Change in Weight of Conditional Value at Risk (CVaR) vs Initial Portfolio Value
+- Vis. 4: CI VaR vs Simulations
+- Vis. 5: Median Cumulative Return
 
-Below is the Stochastic Differential Equation (SDE) that defines Geometric Brownian Motion (GBM)...
+Specifics in [Visualizations](#visualizations) section.
 
-$$\dfrac{dS_t}{S_t} = \mu dt + \sigma dW_t$$
+To do this, we use past data from yfinance to find the mean and covariance matrix of logarithmic (ln) returns to plug into multidimensional GBM equation, which is simulated based on the number of paths the user specified.
+
+The multidimensional GBM equation used...
+
+$$S_t = S_{t-\Delta t} \cdot e^{\Delta t(\hat\mu) + \sqrt{\Delta t}\cdot AZ}$$
+
+where $S_t$, $S_{t-\Delta t}$, $Z$, and $\hat \mu$ are column vectors with a row for each security. $A$ is a factor of $\Sigma$, the covariance matrix, such that $AA^T=\Sigma.$ We find $A$ using the Cholesky decomposition. 
+
+In the one-dimensional case, GBM is defined by the stochastic differential equation (SDE)
+
+$$\dfrac{dS_t}{S_t} = \mu dt + \sigma dW_t,$$
+
+where $\mu$ is drift and $\sigma$ is volatility. I use similar notation for this and the matrices because I'm lazy, but functionality they're the same except for the covariance matrix factor.
 
 The equation used for simulation is altered and discretized...
 
@@ -20,25 +37,71 @@ Or, simply...
 
 $$S_t= S_{t-\Delta t} \cdot \exp(\Delta t(\mu - \dfrac{1}{2} \sigma^2) + \sigma \sqrt{\Delta t} \cdot Z), Z \sim \mathcal{N} (0, 1).$$
 
-This asset-price model is used in the Black-Scholes option-pricing formula
+This asset-price model is used in the Black-Scholes option-pricing formula.
 
 # Table of Contents
 - [Future Changes](#future-changes)
+- [Visualizations](#visualizations)
 - [Mathematical Explanation](#mathematical-explanation)
+    - [Solving SDE](#solving-sde)
+    - [Parameter Estimation](#parameter-estimation)
+    - [Covariance and Cholesky Decomposition](#covariance-and-correlation)
 - [Functionality](#functionality)
 
 # Future Changes
 1. Finish README and sources
 2. Change CVaR calculation to remove negative values
-3. Go beyond basic GBM, fat tails, etc...
+3. Go beyond basic GBM, variance reduction methods, implement other methods in paper.
+
+# Visualizations
+
+CI refers to the specificed CI VaR, for example, the 0.95 VaR.
+
+### Vis. 1: Returns Cumulative Distribution Funtion (CDF) and Returns Probability Histogram
+CDF of returns on the final specified day for each simulation, with 1-CI quantile and median marked, created as a scatter plot of final day returns sorted nondecreasingly with returns (%) on the x-axis and probability on the y-axis.
+
+On the same plot there is a returns probability histogram with Plotly histnorm = "probability", meaning that heights of each bar sum to 1, rather than the area summing to 1, which would be density and would be incorrect to put on the same y-axis as the CDF. There's also a kde estimate scaled by the bin width, the reasoning for this comes from the definition of probability w.r.t. a pdf...
+
+$$\mathbb{P(a\leq X \leq b)} = \int_a^b{p(x)dx}$$
+
+and the mean value theorem, which states that for some $x$ in the range of $[a,b]$...
+
+$$f'(x) = \dfrac{f(b)-f(b)}{b-a}.$$
+
+Scaling by the bin width is the $*(b-a)$ part. This is just an estimate, and since we don't know $p(x)$, we can't actually solve for probability, but, this scaling ends up making the kde fit nicely to the probability histogram. 
+
+### Vis. 2: Mean Contribution to Conditional CI VaR (CVaR) vs Initial Portfolio Weight
+Bar graph of weight of initial portfolio vs mean contribution to CVaR for each security. 
+
+The latter is calculated by looking at all the paths where returns are in the bottom 1-CI quantile and taking the average contribution to total change (which we expect to be negative). 
+
+NOTE: This is a WIP, the mean contribution to CVaR only adds up to 100% if the change of all securities in these paths are in the same direction as the otherall portfolio change, not always the case and creaties wonky numbers.
+
+### Vis. 3: Change in Weight of Conditional Value at Risk (CVaR) vs Initial Portfolio Value
+Bubble chart with size based on change in mean contribution to conditional CI VaR from initial portfolio weight with mean and std dev on the axeses.
+
+### Vis. 4: CI VaR vs Simulations
+Looks at change in VaR as simulations increase, with a two-sided 95% confidence interval using the normal distribution. I use the normal distribution because the binomial distribution approximates the binomial distribution, and we can look at VaR as a binomial distribution with p = 1-CI.
+
+The relative confidence interval half-width is also plotted, measuring what percent half the width of the confidence interval is of the VaR.
+
+This visualization is one of the more important ones, as the asymptotic behavior can indicate whether we have enough simulations.  
+
+### Vis. 5: Median Cumulative Return
+Median cumulative return per security. Conveys same information as the mean returns per security, just visualizes average performance. 
 
 # Mathematical Explanation
 
 Though GBM has been the foundation of decades-old financial models, exploring the stochastic calculus and statistics used to solve the GBM SDE was pretty interesting. 
+First, I will
+
+Note that using lateX tags doesn't display well in Github's markdown
+
+## Solving SDE
 
 The defining SDE for Geometric Brownian Motion
 
-$$\dfrac{dS_t}{S_t} = \mu dt + \sigma dW_t,\tag{1}$$
+$$\dfrac{dS_t}{S_t} = \mu dt + \sigma dW_t,$$
 
 can be solved into a form easy to model, 
 
