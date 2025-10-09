@@ -4,7 +4,7 @@ Hosted on Streamlit cloud [here.](https://monte-carlo-value-at-risk-simulation-p
 
 DISCLAIMER: Runs slow on web version and large work loads can cause the app to crash (maxing all simulations and days for 2+ securities causes a crash) until manually rebooted. If web app is currently down, or you want to play with a more responsive version, assuming your local is good enough, clone repo and run locally :).
 
-A Monte Carlo-based simulation tool the visualizes portfolio and individual security risk by simulating stock returns with multidimensional geometric Brownian motion (GBM)
+A Monte Carlo-based simulation tool the visualizes portfolio and individual security risk by simulating stock returns with multidimensional geometric Brownian motion (GBM).
 
 Given a portfolio (tickers and values), the amount of past data to sample from, the number of days into the future you want to simulate, how many paths you want to simulate, and the wanted confidence interval, prices are simulated, and the following visualizations presented...
 - Vis. 1: Returns Cumulative Distribution Funtion (CDF) and Returns Probability Histogram
