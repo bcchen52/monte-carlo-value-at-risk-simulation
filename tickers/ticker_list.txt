@@ -1314,6 +1314,8 @@ BNGO - Bionano Genomics, Inc. - Common Stock
 BNH - Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080
 BNJ - Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes
 BNKD - Bank Of Montreal MicroSectors  U.S. Big Banks -3  Inverse Leveraged ETNs due February 17, 2045
+BNKK - Bonk, Inc. - Common Stock
+BNKKW - Bonk, Inc. - Warrant
 BNKU - Bank Of Montreal MicroSectors  U.S. Big Banks 3  Leveraged ETNs due February 17, 2045
 BNL - Broadstone Net Lease, Inc. Common Stock
 BNO - United States Brent Oil Fund, LP ETV
@@ -3196,7 +3198,6 @@ EPEM - Harbor ETF Trust Harbor Emerging Markets Equity ETF
 EPHE - iShares MSCI Philippines ETF
 EPI - WisdomTree India Earnings Fund
 EPIN - Harbor ETF Trust Harbor International Equity ETF
-EPIX - ESSA Pharma Inc. - Common Stock
 EPM - Evolution Petroleum Corporation, Inc. Common Stock
 EPMB - Harbor ETF Trust Harbor Mid Cap Core ETF
 EPMV - Harbor ETF Trust Harbor Mid Cap Value ETF
@@ -3317,6 +3318,7 @@ ETR - Entergy Corporation Common Stock
 ETRL - GraniteShares 2x Long ETOR Daily ETF
 ETS - Elite Express Holding Inc. - Class A Common Stock
 ETSY - Etsy, Inc. - Common Stock
+ETTY - Amplify ETF Trust Amplify Ethereum 3% Monthly Option Income ETF
 ETU - T-Rex 2X Long Ether Daily Target ETF
 ETV - Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest
 ETW - Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest
@@ -4460,9 +4462,6 @@ GSLC - Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF
 GSM - Ferroglobe PLC - Ordinary Shares
 GSPY - Gotham Enhanced 500 ETF
 GSRFU - GSR IV Acquisition Corp. - Units
-GSRT - GSR III Acquisition Corp. - Ordinary Shares
-GSRTR - GSR III Acquisition Corp. - Right
-GSRTU - GSR III Acquisition Corp. - Unit
 GSSC - GS ActiveBeta U.S. Small Cap Equity ETF
 GSST - Goldman Sachs Ultra Short Bond ETF
 GSUN - Golden Sun Health Technology Group Limited - Class A Ordinary Shares
@@ -5983,6 +5982,7 @@ LFEQ - VanEck Long/Flat Trend ETF
 LFGY - Tidal Trust II YieldMax Crypto Industry & Tech Portfolio Option Income ETF
 LFMD - LifeMD, Inc. - Common Stock
 LFMDP - LifeMD, Inc. - 8.875% Series A Cumulative Perpetual Preferred Stock
+LFS - LEIFRAS Co., Ltd. - American Depositary Shares
 LFSC - F/m Emerald Life Sciences Innovation ETF
 LFST - LifeStance Health Group, Inc. - Common Stock
 LFT - Lument Finance Trust, Inc. Common Stock
@@ -5991,7 +5991,7 @@ LFVN - Lifevantage Corporation - Common Stock
 LFWD - Lifeward Ltd. - Ordinary Shares
 LGCB - Linkage Global Inc - Class A Ordinary Shares
 LGCF - Themes US Cash Flow Champions ETF
-LGCL - Lucas GC Limited - Ordinary Shares
+LGCL - Lucas GC Limited - Class A Ordinary Shares
 LGCY - Legacy Education Inc. Common Stock
 LGDX - Tidal Trust III Intech S&P Large Cap Diversified Alpha ETF
 LGH - HCM Defender 500 Index ETF
@@ -7525,6 +7525,7 @@ OWLT - Owlet, Inc. Class A Common Stock
 OWNB - Bitwise Funds Trust Bitwise Bitcoin Standard Corporations ETF
 OWNS - Quaker Investment Trust CCM Affordable Housing MBS ETF
 OXBR - Oxbridge Re Holdings Limited - Ordinary Shares
+OXBRW - Oxbridge Re Holdings Limited - Warrant
 OXLC - Oxford Lane Capital Corp. - Closed End Fund
 OXLCG - Oxford Lane Capital Corp. - 7.95% Notes due 2032
 OXLCI - Oxford Lane Capital Corp. - 8.75% Notes due 2030
@@ -8521,6 +8522,7 @@ RGTI - Rigetti Computing, Inc.  - Common stock
 RGTIW - Rigetti Computing, Inc.  - Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 RGTU - Tradr 2X Long RGTI Daily ETF
 RGTX - Defiance Daily Target 2X Long RGTI ETF
+RGTZ - Defiance Daily Target 2x Short RGTI ETF
 RH - RH Common Stock
 RHI - Robert Half Inc. Common Stock
 RHLD - Resolute Holdings Management Common Stock 
@@ -9058,8 +9060,6 @@ SHO - Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Share
 SHOC - EA Series Trust Strive U.S. Semiconductor ETF
 SHOO - Steven Madden, Ltd. - Common Stock
 SHOP - Shopify Inc. - Class A Subordinate Voting Shares
-SHOT - Safety Shot, Inc. - Common Stock
-SHOTW - Safety Shot, Inc. - Warrant
 SHPD - Direxion Daily SHOP Bear 1X ETF
 SHPH - Shuttle Pharmaceuticals Holdings, Inc. - common stock
 SHPP - Pacer Funds Pacer Industrials and Logistics ETF
@@ -9516,7 +9516,6 @@ SSM - Sono Group N.V. - Ordinary Shares
 SSNC - SS&C Technologies Holdings, Inc. - Common Stock
 SSO - ProShares Ultra S&P500
 SSP - E.W. Scripps Company (The) - Class A Common Stock
-SSPX - Janus Henderson U.S. Sustainable Equity ETF
 SSPY - Exchange Listed Funds Trust Stratified LargeCap Index ETF
 SSRM - SSR Mining Inc. - Common Stock
 SSSS - SuRo Capital Corp. - Closed End Fund
@@ -9614,7 +9613,7 @@ SUPL - ProShares Trust ProShares Supply Chain Logistics ETF
 SUPN - Supernus Pharmaceuticals, Inc. - Common Stock
 SUPP - TCW Transform Supply Chain ETF
 SUPV - Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares
-SUPX - Super X AI Technology Limited - Ordinary Shares
+SUPX - SuperX AI Technology Limited - Ordinary Shares
 SURE - AdvisorShares Insider Advantage ETF
 SURG - SurgePays, Inc. - Common Stock
 SURI - Simplify Exchange Traded Funds Simplify Propel Opportunities ETF
@@ -9652,7 +9651,6 @@ SWAGW - Stran & Company, Inc. - Warrant
 SWAN - Amplify ETF Trust Amplify BlackSwan Growth & Treasury Core ETF
 SWBI - Smith & Wesson Brands, Inc. - Common Stock
 SWIM - Latham Group, Inc. - Common Stock
-SWIN - Solowin Holdings - Class A Ordinary Share
 SWK - Stanley Black & Decker, Inc. Common Stock
 SWKH - SWK Holdings Corporation - Common Stock
 SWKHL - SWK Holdings Corporation - 9.00% Senior Notes due 2027
@@ -10258,7 +10256,6 @@ UCAR - U Power Limited - Class A Ordinary Shares
 UCB - United Community Banks, Inc. Common Stock
 UCC - ProShares Ultra Consumer Discretionary
 UCFI - CN Healthy Food Tech Group Corp. - Common Stock
-UCFIW - CN Healthy Food Tech Group Corp. - Warrant
 UCIB - ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038
 UCL - uCloudlink Group Inc. - American Depositary Shares
 UCO - ProShares Ultra Bloomberg Crude Oil
@@ -10692,7 +10689,7 @@ VRTL - GraniteShares 2x Long VRT Daily ETF
 VRTS - Virtus Investment Partners, Inc. Common Stock
 VRTX - Vertex Pharmaceuticals Incorporated - Common Stock
 VS - Versus Systems Inc. - Common Stock
-VSA - VisionSys AI Inc - American Depositary Shares
+VSA - VisionSys AI Inc. - American Depositary Shares
 VSAT - ViaSat, Inc. - Common Stock
 VSCO - Victorias Secret & Co. Common Stock 
 VSDA - VictoryShares Dividend Accelerator ETF
@@ -10922,6 +10919,7 @@ WPC - W. P. Carey Inc. REIT
 WPM - Wheaton Precious Metals Corp Common Shares (Canada)
 WPP - WPP plc American Depositary Shares
 WPRT - Westport Fuel Systems Inc - Common Shares
+WQTM - WisdomTree Trust WisdomTree Quantum Computing Fund
 WRAP - Wrap Technologies, Inc. - Common Stock
 WRB - W.R. Berkley Corporation Common Stock
 WRBY - Warby Parker Inc. Class A Common Stock
@@ -11188,6 +11186,7 @@ YBTC - Roundhill ETF Trust Roundhill Bitcoin Covered Call Strategy ETF
 YCBD - cbdMD, Inc. Common Stock
 YCL - ProShares Ultra Yen
 YCS - ProShares UltraShort Yen New
+YDDL - One and One Green Technologies. INC - Class A Ordinary Shares
 YDEC - FT Vest International Equity Moderate Buffer ETF - December
 YDES - YD Bio Limited - Ordinary Shares
 YDESW - YD Bio Limited - Warrants
