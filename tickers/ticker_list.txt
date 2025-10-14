@@ -1209,6 +1209,7 @@ BKF - iShares MSCI BIC ETF
 BKGI - BNY Mellon ETF Trust BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
+BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -1882,6 +1883,7 @@ CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
+CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -2893,6 +2895,7 @@ DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
 DYCQ - DT Cloud Acquisition Corporation - Ordinary shares
+DYCQR - DT Cloud Acquisition Corporation - Right
 DYCQU - DT Cloud Acquisition Corporation - Unit
 DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
@@ -3150,7 +3153,6 @@ EMXF - iShares ESG Advanced MSCI EM ETF
 ENB - Enbridge Inc Common Stock
 ENDW - Cambria Endowment Style ETF
 ENFR - Alerian Energy Infrastructure ETF
-ENFY - Enlightify Inc. Common Stock
 ENGN - enGene Holdings Inc. - Common Stock
 ENGNW - enGene Holdings Inc. - Warrants
 ENGS - Energys Group Limited - Ordinary Shares
@@ -4315,6 +4317,7 @@ GMM - Global Mofy AI Limited  - Class A Ordinary Shares
 GMMA - Tidal Trust III GammaRoad Market Navigation ETF
 GMMF - BlackRock ETF Trust iShares Government Money Market ETF
 GMNY - Goldman Sachs ETF Trust Goldman Sachs Dynamic New York Municipal Income ETF
+GMOD - The 2023 ETF Series Trust II GMO Dynamic Allocation ETF
 GMOI - The 2023 ETF Series Trust II GMO International Value ETF
 GMOM - Cambria Global Momentum ETF
 GMOV - The 2023 ETF Series Trust II GMO US Value ETF
@@ -6024,6 +6027,7 @@ LILA - Liberty Latin America Ltd. - Class A Common Stock
 LILAK - Liberty Latin America Ltd. - Class C Common Stock
 LIMI - Themes ETF Trust Themes Lithium & Battery Metal Miners ETF
 LIMN - Liminatus Pharma, Inc. - Class A Common Stock
+LIMNW - Liminatus Pharma, Inc. - Warrants
 LIN - Linde plc - Ordinary Shares
 LINC - Lincoln Educational Services Corporation - Common Stock
 LIND - Lindblad Expeditions Holdings Inc.  - Common Stock
@@ -6925,7 +6929,7 @@ NET - Cloudflare, Inc. Class A Common Stock
 NETD - Nabors Energy Transition Corp. II - Class A Ordinary Shares
 NETDU - Nabors Energy Transition Corp. II - Unit
 NETDW - Nabors Energy Transition Corp. II - Warrant
-NETL - NETLease Corporate Real Estate ETF
+NETL - Colterpoint Net Lease Real Estate ETF
 NETX - Investment Managers Series Trust II Tradr 2X Long NET Daily ETF
 NEU - NewMarket Corp Common Stock
 NEUP - Neuphoria Therapeutics Inc. - Common Stock
@@ -8124,7 +8128,6 @@ PULS - PGIM Ultra Short Bond ETF
 PULT - Putnam ETF Trust Putnam ESG Ultra Short ETF
 PUMP - ProPetro Holding Corp. Common Stock
 PUSH - PGIM ETF Trust PGIM Ultra Short Municipal Bond ETF
-PUTD - Cboe Validus S&P 500 Dynamic PutWrite Index ETF
 PVAL - Putnam Focused Large Cap Value ETF
 PVBC - Provident Bancorp, Inc. - Common Stock
 PVEX - Elevation Series Trust TrueShares ConVex Protect ETF
@@ -8789,6 +8792,7 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
+SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SAM - Boston Beer Company, Inc. (The) Common Stock
