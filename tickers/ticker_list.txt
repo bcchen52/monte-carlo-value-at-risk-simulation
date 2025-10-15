@@ -605,7 +605,6 @@ ARGT - Global X MSCI Argentina ETF
 ARGX - argenx SE - American Depositary Shares
 ARHS - Arhaus, Inc. - Class A Common Stock
 ARI - Apollo Commercial Real Estate Finance, Inc
-ARIS - Aris Water Solutions, Inc. Class A Common Stock
 ARKB - ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests
 ARKF - ARK Fintech Innovation ETF
 ARKG - ARK Genomic Revolution ETF
@@ -1689,6 +1688,7 @@ CBNK - Capital Bancorp, Inc. - Common Stock
 CBOA - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - April
 CBOE - Cboe Global Markets, Inc. Common Stock
 CBOJ - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - January
+CBOL - Calamos ETF Trust Calamos Laddered Bitcoin Structured Alt Protection ETF
 CBON - VanEck China Bond ETF
 CBOO - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - October
 CBOY - Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - July
@@ -1699,12 +1699,14 @@ CBSH - Commerce Bancshares, Inc. - Common Stock
 CBT - Cabot Corporation Common Stock
 CBTA - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - April
 CBTJ - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - January
+CBTL - Calamos ETF Trust Calamos Laddered Bitcoin 80 Series Structured Alt Protection ETF
 CBTO - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - October
 CBTY - Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - July
 CBU - Community Financial System, Inc. Common Stock
 CBUS - Cibus, Inc. - Class A Common Stock
 CBXA - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - April
 CBXJ - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - January
+CBXL - Calamos ETF Trust Calamos Laddered Bitcoin 90 Series Structured Alt Protection ETF
 CBXO - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - October
 CBXY - Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - July
 CBZ - CBIZ, Inc. Common Stock
@@ -2393,7 +2395,6 @@ CVRT - Calamos ETF Trust Calamos Convertible Equity Alternative ETF
 CVRX - CVRx, Inc. - Common Stock
 CVS - CVS Health Corporation Common Stock
 CVSB - Morgan Stanley ETF Trust Calvert Ultra-Short Investment Grade ETF
-CVSE - Morgan Stanley ETF Trust Calvert US Select Equity ETF
 CVU - CPI Aerostructures, Inc. Common Stock
 CVV - CVD Equipment Corporation - Common Stock
 CVX - Chevron Corporation Common Stock
@@ -3673,6 +3674,7 @@ FIDU - Fidelity MSCI Industrials Index ETF
 FIEE - FiEE, Inc - Common Stock
 FIG - Figma, Inc. Class A Common Stock
 FIGB - Fidelity Investment Grade Bond ETF
+FIGG - Leverage Shares 2x Long FIG Daily ETF
 FIGR - Figure Technology Solutions, Inc. - Class A Common Stock
 FIGS - FIGS, Inc. Class A Common Stock
 FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
@@ -4014,6 +4016,7 @@ FUNL - CornerCap Fundametrics Large-Cap ETF
 FURY - Fury Gold Mines Limited Common Shares
 FUSB - First US Bancshares, Inc. - Common Stock
 FUSI - American Century ETF Trust American Century Multisector Floating Income ETF
+FUTG - Leverage Shares 2x Long FUTU Daily ETF
 FUTU - Futu Holdings Limited - American Depositary Shares
 FUTY - Fidelity MSCI Utilities Index ETF
 FV - First Trust Dorsey Wright Focus 5 ETF
@@ -4259,7 +4262,6 @@ GKAT - Scharf Global Opportunity ETF
 GKOS - Glaukos Corporation Common Stock
 GL - Globe Life Inc. Common Stock
 GLAD - Gladstone Capital Corporation - Closed End Fund
-GLADZ - Gladstone Capital Corporation - 7.75% Notes due 2028
 GLBE - Global-E Online Ltd. - ordinary shares
 GLBL - Pacer Funds Trust Pacer MSCI World Industry Advantage ETF
 GLBS - Globus Maritime Limited - Common Stock
@@ -5459,6 +5461,7 @@ JAGX - Jaguar Health, Inc. - Common Stock
 JAJL - SHL Telemedicine Ltd Innovator Equity Defined Protection ETF - 6mo Jan/Jul
 JAKK - JAKKS Pacific, Inc. - Common Stock
 JAMF - Jamf Holding Corp. - Common Stock
+JANB - ETF Series Solutions Aptus January Buffer ETF
 JANH - Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - January
 JANJ - Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - January
 JANM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - January
@@ -5623,6 +5626,7 @@ JSTC - Adasina Social Justice All Cap Global ETF
 JTAI - Jet.AI Inc. - Common Stock
 JTEK - JPMorgan U.S. Tech Leaders ETF
 JUCY - ETF Series Solutions Aptus Enhanced Yield ETF
+JULB - ETF Series Solutions Aptus July Buffer ETF
 JULH - Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - July
 JULJ - Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - July
 JULM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - July
@@ -8645,6 +8649,7 @@ RPAR - RPAR Risk Parity ETF
 RPAY - Repay Holdings Corporation - Class A Common Stock
 RPD - Rapid7, Inc. - Common Stock
 RPG - Invesco S&P 500 Pure Growth ETF
+RPGL - Republic Power Group Limited - Class A Ordinary Shares
 RPHS - Two Roads Shared Trust Regents Park Hedged Market Strategy ETF
 RPID - Rapid Micro Biosystems, Inc. - Class A Common Stock
 RPM - RPM International Inc. Common Stock
@@ -9765,6 +9770,7 @@ TCBIO - Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-
 TCBK - TriCo Bancshares - Common Stock
 TCBS - Texas Community Bancshares, Inc. - Common Stock
 TCBX - Third Coast Bancshares, Inc. Common Stock
+TCGL - TechCreate Group Ltd. Class A Ordinary Shares
 TCHI - iShares MSCI China Multisector Tech ETF
 TCHP - T. Rowe Price Blue Chip Growth ETF
 TCI - Transcontinental Realty Investors, Inc. Common Stock
@@ -11284,7 +11290,7 @@ ZLAB - Zai Lab Limited - American Depositary Shares
 ZM - Zoom Communications, Inc. - Class A Common Stock
 ZMAR - Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr March
 ZMAY - Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr May
-ZMUN - F/m Callable Tax-Free Municipal ETF
+ZMUN - F/m Ultrashort Tax-Free Municipal ETF
 ZNB - Zeta Network Group - Class A Ordinary Shares
 ZNOV - Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr November
 ZNTL - Zentalis Pharmaceuticals, Inc. - common stock
