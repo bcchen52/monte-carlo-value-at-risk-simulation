@@ -115,6 +115,7 @@ ACR - ACRES Commercial Realty Corp. Common Stock
 ACRE - Ares Commercial Real Estate Corporation Common Stock
 ACRS - Aclaris Therapeutics, Inc. - Common Stock
 ACRV - Acrivon Therapeutics, Inc. - Common Stock
+ACSG - American Century ETF Trust American Century Small Cap Growth Insights ETF
 ACSI - American Customer Satisfaction ETF
 ACT - Enact Holdings, Inc. - Common Stock
 ACTG - Acacia Research Corporation - Common Stock
@@ -554,6 +555,7 @@ APPF - AppFolio, Inc. - Class A Common Stock
 APPN - Appian Corporation - Class A Common Stock
 APPS - Digital Turbine, Inc. - Common Stock
 APPX - Tradr 2X Long APP Daily ETF
+APRB - ETF Series Solutions Aptus April Buffer ETF
 APRE - Aprea Therapeutics, Inc. - Common Stock
 APRH - Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - April
 APRJ - Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - April
@@ -792,7 +794,6 @@ AVDE - Avantis International Equity ETF
 AVDL - Avadel Pharmaceuticals plc - Ordinary Share
 AVDS - American Century ETF Trust Avantis International Small Cap Equity ETF
 AVDV - Avantis International Small Cap Value ETF
-AVDX - AvidXchange Holdings, Inc. - Common Stock
 AVEE - American Century ETF Trust Avantis Emerging Markets Small Cap Equity ETF
 AVEM - Avantis Emerging Markets Equity ETF
 AVES - Avantis Emerging Markets Value ETF
@@ -899,7 +900,7 @@ BAH - Booz Allen Hamilton Holding Corporation Common Stock
 BAI - BlackRock ETF Trust iShares A.I. Innovation and Tech Active ETF
 BAIG - Leverage Shares 2X Long BBAI Daily ETF
 BAK - Braskem SA ADR
-BALI - iShares Advantage Large Cap Income ETF
+BALI - iShares U.S. Large Cap Premium Income Active ETF
 BALL - Ball Corporation Common Stock
 BALT - Innovator Defined Wealth Shield ETF
 BALY - Bally's Corporation Common Stock
@@ -2363,7 +2364,6 @@ CUPR - Cuprina Holdings (Cayman) Limited - Ordinary shares
 CURB - Curbline Properties Corp. Common Stock
 CURE - Direxion Daily Healthcare Bull 3X Shares
 CURI - CuriosityStream Inc.  - Class A Common Stock
-CURIW - CuriosityStream Inc.  - Warrant
 CURR - Currenc Group Inc. - Ordinary Shares
 CURV - Torrid Holdings Inc. Common Stock
 CURX - Curanex Pharmaceuticals Inc - Common Stock
@@ -3334,7 +3334,6 @@ EUFN - iShares MSCI Europe Financials ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3x Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -4932,7 +4931,6 @@ IBHI - iShares Trust iShares iBonds 2029 Term High Yield and Income ETF
 IBHJ - iShares Trust iShares iBonds 2030 Term High Yield and Income ETF
 IBHK - iShares Trust iShares iBonds 2031 Term High Yield and Income ETF
 IBHL - iShares Trust iShares iBonds 2032 Term High Yield and Income ETF
-IBIB - iShares Trust iShares iBonds Oct 2025 Term TIPS ETF
 IBIC - iShares Trust iShares iBonds Oct 2026 Term TIPS ETF
 IBID - iShares Trust iShares iBonds Oct 2027 Term TIPS ETF
 IBIE - iShares Trust iShares iBonds Oct 2028 Term TIPS ETF
@@ -5737,6 +5735,7 @@ KIO - KKR Income Opportunities Fund Common Shares
 KITT - Nauticus Robotics, Inc. - Common stock
 KITTW - Nauticus Robotics, Inc. - Warrant
 KJAN - Innovator U.S. Small Cap Power Buffer ETF - January
+KJD - KraneShares 2x Long JD Daily ETF
 KJUL - Innovator U.S. Small Cap Power Buffer ETF - July
 KJUN - SHL Telemedicine Ltd Innovator U.S. Small Cap Power Buffer ETF - June
 KKR - KKR & Co. Inc. Common Stock
@@ -6089,7 +6088,7 @@ LNZAW - LanzaTech Global, Inc. - Warrant
 LOAN - Manhattan Bridge Capital, Inc - Common Stock
 LOAR - Loar Holdings Inc. Common Stock
 LOB - Live Oak Bancshares, Inc. Common Stock
-LOBO - LOBO EV TECHNOLOGIES LTD. - Ordinary shares
+LOBO - LOBO TECHNOLOGIES LTD. - Class A Ordinary Shares
 LOCL - Local Bounti Corporation Common Stock
 LOCO - El Pollo Loco Holdings, Inc. - Common Stock
 LOCT - Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF - October
@@ -6917,6 +6916,7 @@ NEBX - Tradr 2X Long NBIS Daily ETF
 NECB - NorthEast Community Bancorp, Inc. - Common Stock
 NEE - NextEra Energy, Inc. Common Stock
 NEGG - Newegg Commerce, Inc. - Common Shares
+NELS - Collaborative Investment Series Trust Nelson Select ETF
 NEM - Newmont Corporation
 NEMD - Neuberger Berman ETF Trust Neuberger Berman Emerging Markets Debt Hard Currency ETF
 NEN - New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership
@@ -7327,6 +7327,7 @@ OCIO - ClearShares OCIO ETF
 OCS - Oculis Holding AG - Ordinary shares
 OCSAW - Oculis Holding AG - Warrants
 OCSL - Oaktree Specialty Lending Corporation - Closed End Fund
+OCTB - ETF Series Solutions Aptus October Buffer ETF
 OCTH - Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - October
 OCTJ - Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - October
 OCTM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - October
@@ -7631,6 +7632,7 @@ PBMWW - Psyence Biomedical Ltd. - Warrant
 PBMY - PGIM S&P 500 Buffer 20 ETF - May
 PBNV - PGIM S&P 500 Buffer 20 ETF - November
 PBOC - PGIM S&P 500 Buffer 20 ETF - October
+PBOT - The 2023 ETF Series Trust Pictet AI & Automation ETF
 PBP - Invesco S&P 500 BuyWrite ETF
 PBPB - Potbelly Corporation - Common Stock
 PBQQ - PGIM Laddered Nasdaq-100 Buffer 12 ETF
@@ -7661,6 +7663,7 @@ PCIG - Litman Gregory Funds Trust Polen Capital International Growth ETF
 PCL - PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF
 PCLA - PicoCELA Inc. - American Depositary Shares
 PCLG - FundVantage Trust Polen Focus Growth ETF
+PCLN - The 2023 ETF Series Trust Pictet Cleaner Planet ETF
 PCLO - Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF
 PCM - PCM Fund, Inc. Common Stock
 PCMM - BondBloxx Private Credit CLO ETF
@@ -7976,6 +7979,7 @@ PQAP - PGIM Nasdaq-100 Buffer 12 ETF - April
 PQDI - Principal Spectrum Tax-Advantaged Dividend Active ETF
 PQJA - PGIM Nasdaq-100 Buffer 12 ETF - January
 PQJL - PGIM Nasdaq-100 Buffer 12 ETF - July
+PQNT - The 2023 ETF Series Trust Pictet AI Enhanced International Equity ETF
 PQOC - PGIM Nasdaq-100 Buffer 12 ETF - October
 PR - Permian Resources Corporation Class A Common Stock
 PRA - ProAssurance Corporation Common Stock
@@ -8346,7 +8350,7 @@ QYLG - Global X Nasdaq 100 Covered Call & Growth ETF
 R - Ryder System, Inc. Common Stock
 RA - Brookfield Real Assets Income Fund Inc. Common Stock
 RAA - SMI 3Fourteen REAL Asset Allocation ETF
-RAAA - Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF
+RAAA - Reckoner Yield Enhanced AAA CLO ETF
 RAAQ - Real Asset Acquisition Corp. - Class A Ordinary Share
 RAAQU - Real Asset Acquisition Corp. - Unit
 RAAQW - Real Asset Acquisition Corp. - Warrants
@@ -9159,6 +9163,7 @@ SLDR - Global X Funds Global X Short-Term Treasury Ladder ETF
 SLE - Super League Enterprise, Inc. - Common Stock
 SLF - Sun Life Financial Inc. Common Stock
 SLG - SL Green Realty Corp Common Stock
+SLGB - Smart Logistics Global Limited - Ordinary Shares
 SLGL - Sol-Gel Technologies Ltd. - Ordinary Shares
 SLGN - Silgan Holdings Inc. Common Stock
 SLI - Standard Lithium Ltd. Common Shares
@@ -9776,6 +9781,7 @@ TCHP - T. Rowe Price Blue Chip Growth ETF
 TCI - Transcontinental Realty Investors, Inc. Common Stock
 TCMD - Tactile Systems Technology, Inc. - Common Stock
 TCOM - Trip.com Group Limited - American Depositary Shares
+TCPA - TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085
 TCPB - Thrivent ETF Trust Thrivent Core Plus Bond ETF
 TCPC - BlackRock TCP Capital Corp. - Closed End Fund
 TCRT - Alaunos Therapeutics, Inc. - Common Stock
@@ -10067,7 +10073,7 @@ TRFM - ETF Series Solutions AAM Transformers ETF
 TRGP - Targa Resources, Inc. Common Stock
 TRI - Thomson Reuters Corp - Common Shares
 TRIB - Trinity Biotech plc - American Depositary Shares
-TRIL - Defiance Trillion Dollar Club Index ETF  
+TRIL - Defiance Trillion Dollar Club Index ETF
 TRIN - Trinity Capital Inc. - Common Stock
 TRINI - Trinity Capital Inc. - 7.875% Notes Due 2029
 TRINZ - Trinity Capital Inc. - 7.875% Notes due 2029
