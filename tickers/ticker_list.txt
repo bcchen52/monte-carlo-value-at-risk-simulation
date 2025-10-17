@@ -117,6 +117,7 @@ ACRS - Aclaris Therapeutics, Inc. - Common Stock
 ACRV - Acrivon Therapeutics, Inc. - Common Stock
 ACSG - American Century ETF Trust American Century Small Cap Growth Insights ETF
 ACSI - American Customer Satisfaction ETF
+ACSV - American Century ETF Trust American Century Small Cap Value Insights ETF
 ACT - Enact Holdings, Inc. - Common Stock
 ACTG - Acacia Research Corporation - Common Stock
 ACTU - Actuate Therapeutics, Inc. - Common stock
@@ -1025,7 +1026,9 @@ BCX - BlackRock Resources Common Shares of Beneficial Interest
 BCYC - Bicycle Therapeutics plc - American Depositary Shares
 BDBT - Exchange Traded Concepts Trust Bluemonte Core Bond ETF
 BDC - Belden Inc Common Stock
+BDCI - BTC Development Corp. - Class A Ordinary Shares
 BDCIU - BTC Development Corp. - Unit
+BDCIW - BTC Development Corp. - Warrant
 BDCX - ETRACS Quarterly Pay 1.5x Leveraged MarketVector BDC Liquid Index ETN due June 10, 2050
 BDCZ - ETRACS MarketVector Business Development Companies Liquid Index ETN due April 26, 2041
 BDEC - Innovator U.S. Equity Buffer ETF - December
@@ -1384,6 +1387,7 @@ BRBS - Blue Ridge Bankshares, Inc. Common Stock
 BRC - Brady Corporation Common Stock
 BRCB - Black Rock Coffee Bar, Inc. - Class A Common Stock
 BRCC - BRC Inc. Class A Common Stock
+BREM - iShares Emerging Markets Bond Active ETF
 BRF - VanEck Brazil Small-Cap ETF
 BRFH - Barfresh Food Group Inc. - Common Stock
 BRHY - iShares High Yield Active ETF
@@ -3440,8 +3444,10 @@ EZET - Franklin Ethereum ETF Franklin Ethereum ETF
 EZGO - EZGO Technologies Ltd. - Ordinary Shares
 EZJ - ProShares Ultra MSCI Japan
 EZM - WisdomTree U.S. MidCap Fund
+EZMO - AlphaDroid Broad Markets Momentum ETF
 EZPW - EZCORP, Inc. - Class A Non-Voting Common Stock
 EZPZ - Franklin Crypto Index ETF Franklin Crypto Index ETF
+EZRO - AlphaDroid Defensive Sector Rotation ETF
 EZU - iShares MSCI Eurozone ETF
 F - Ford Motor Company Common Stock
 FA - First Advantage Corporation - Common Stock
@@ -3570,7 +3576,7 @@ FEAC - Fidelity Covington Trust Fidelity Enhanced U.S. All-Cap Equity ETF
 FEAM - 5E Advanced Materials, Inc. - Common Stock
 FEAT - YieldMax Dorsey Wright Featured 5 Income ETF
 FEBM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - February
-FEBO - Fenbo Holdings Limited - Ordinary Shares
+FEBO - Fenbo Holdings Limited - Class A Ordinary Shares
 FEBP - PGIM S&P 500 Buffer 12 ETF - February
 FEBT - AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Feb ETF
 FEBU - AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Feb ETF
@@ -3859,9 +3865,6 @@ FOR - Forestar Group Inc Common Stock
 FORA - Forian Inc. - Common Stock
 FORD - Forward Industries, Inc. - Common Stock
 FORH - Formidable ETF
-FORL - Four Leaf Acquisition Corporation - Class A Common Stock
-FORLU - Four Leaf Acquisition Corporation - Unit
-FORLW - Four Leaf Acquisition Corporation - Warrants
 FORM - FormFactor, Inc. - Common Stock
 FORR - Forrester Research, Inc. - Common Stock
 FORTY - Formula Systems (1985) Ltd. - American Depositary Shares
@@ -3930,7 +3933,6 @@ FSEP - FT Vest U.S. Equity Buffer ETF - September
 FSFG - First Savings Financial Group, Inc. - Common Stock
 FSGS - First Trust SMID Growth Strength ETF
 FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
-FSHPR - Flag Ship Acquisition Corp. - Right
 FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
@@ -6068,6 +6070,7 @@ LMBS - First Trust Low Duration Opportunities ETF
 LMFA - LM Funding America, Inc. - Common Stock
 LMND - Lemonade, Inc. Common Stock
 LMNR - Limoneira Co - Common Stock
+LMNX - Defiance Daily Target 2x Long LMND ETF
 LMT - Lockheed Martin Corporation Common Stock
 LMTL - Direxion Daily LMT Bull 2X ETF
 LMTS - Direxion Daily LMT Bear 1X ETF
@@ -7526,6 +7529,7 @@ OVS - Overlay Shares Small Cap Equity ETF
 OVT - Overlay Shares Short Term Bond ETF
 OVV - Ovintiv Inc. (DE)
 OWL - Blue Owl Capital Inc. Class A Common Stock
+OWLS - OBOOK Holdings Inc. - Class A Common Shares
 OWLT - Owlet, Inc. Class A Common Stock
 OWNB - Bitwise Funds Trust Bitwise Bitcoin Standard Corporations ETF
 OWNS - Quaker Investment Trust CCM Affordable Housing MBS ETF
@@ -8995,6 +8999,7 @@ SERV - Serve Robotics Inc. - Common Stock
 SES - SES AI Corporation Class A Common Stock
 SETH - ProShares Short Ether ETF
 SETM - Sprott Critical Materials ETF
+SEV - Aptera Motors Corp. - Class B Common Stock
 SEVN - Seven Hills Realty Trust  - Common Stock
 SEZL - Sezzle Inc. - Common Stock
 SF - Stifel Financial Corporation Common Stock
@@ -10911,7 +10916,6 @@ WMS - Advanced Drainage Systems, Inc. Common Stock
 WMT - Walmart Inc. Common Stock
 WNC - Wabash National Corporation Common Stock
 WNEB - Western New England Bancorp, Inc. - Common Stock
-WNS - WNS (Holdings) Limited Ordinary Shares
 WNTR - Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF
 WNW - Meiwu Technology Company Limited - Ordinary Shares
 WOK - WORK Medical Technology Group LTD - Class A Ordinary Shares
