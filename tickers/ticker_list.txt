@@ -76,7 +76,7 @@ ABXB - Abacus Flexible Bond Leaders ETF
 ACA - Arcosa, Inc. Common Stock 
 ACAD - ACADIA Pharmaceuticals Inc. - Common Stock
 ACB - Aurora Cannabis Inc. - Common Shares
-ACCL - Acco Group Holdings Limited - Ordinary Shares 
+ACCL - Acco Group Holdings Limited - Ordinary Shares
 ACCO - Acco Brands Corporation Common Stock
 ACCS - ACCESS Newswire Inc. Common Stock
 ACDC - ProFrac Holding Corp. - Class A Common Stock
@@ -1488,7 +1488,6 @@ BTC - Grayscale Bitcoin Mini Trust (BTC) Common units of fractional undivided be
 BTCC - Grayscale Funds Trust Grayscale Bitcoin Covered Call ETF
 BTCI - NEOS ETF Trust NEOS Bitcoin High Income ETF
 BTCL - T-Rex 2X Long Bitcoin Daily Target ETF
-BTCM - BIT Mining Limited ADS
 BTCO - Invesco Galaxy Bitcoin ETF Common Shares of Beneficial Interest
 BTCS - BTCS Inc. - Common Stock
 BTCT - BTC Digital Ltd. - Ordinary Shares
@@ -3745,7 +3744,7 @@ FLDZ - RiverNorth Patriot ETF
 FLEE - Franklin FTSE Europe ETF
 FLEU - Franklin FTSE Eurozone ETF
 FLEX - Flex Ltd. - Ordinary Shares
-FLG - Flagstar Financial, Inc. Common Stock
+FLG - Flagstar Bank, N.A. Common Stock
 FLGB - Franklin FTSE United Kingdom ETF
 FLGC - Flora Growth Corp. - Common Stock
 FLGR - Franklin FTSE Germany ETF
@@ -8816,7 +8815,6 @@ SAMM - The Advisors' Inner Circle Fund III Strategas Macro Momentum ETF
 SAMT - The Advisors' Inner Circle Fund III Strategas Macro Thematic Opportunities ETF
 SAN - Banco Santander, S.A. Sponsored ADR (Spain)
 SANA - Sana Biotechnology, Inc. - Common Stock
-SAND - Sandstorm Gold Ltd. Ordinary Shares (Canada)
 SANG - Sangoma Technologies Corporation - Common Shares
 SANM - Sanmina Corporation - Common Stock
 SAP - SAP  SE ADS
@@ -9451,8 +9449,8 @@ SPVM - Invesco S&P 500 Value with Momentum ETF
 SPVU - Invesco S&P 500 Enhanced Value ETF
 SPWH - Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWO - SP Funds Trust SP Funds S&P World (ex-US) ETF
-SPWR - Complete Solaria, Inc. - Common Stock
-SPWRW - Complete Solaria, Inc. - Warrant
+SPWR - SunPower Inc. - Common Stock
+SPWRW - SunPower Inc. - Warrant
 SPXC - SPX Technologies, Inc. Common Stock
 SPXD - Xtrackers S&P 500 Diversified Sector Weight ETF
 SPXE - ProShares S&P 500 Ex-Energy ETF
@@ -11307,8 +11305,8 @@ ZNOV - Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr Novem
 ZNTL - Zentalis Pharmaceuticals, Inc. - common stock
 ZOCT - Innovator Equity Defined Protection ETF - 1 Yr October
 ZONE - CleanCore Solutions Inc. Class B Common Stock
-ZOOZ - ZOOZ Power Ltd. - Ordinary Shares
-ZOOZW - ZOOZ Power Ltd. - Warrant
+ZOOZ - ZOOZ Strategy Ltd. - Ordinary Shares
+ZOOZW - ZOOZ Strategy Ltd. - Warrant
 ZROZ - PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund
 ZS - Zscaler, Inc. - Common Stock
 ZSB - USCF ETF Trust USCF Sustainable Battery Metals Strategy Fund
