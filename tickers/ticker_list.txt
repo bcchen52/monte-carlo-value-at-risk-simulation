@@ -461,6 +461,7 @@ AMTD - AMTD IDEA Group American Depositary Shares, each representing six (6) Cla
 AMTM - Amentum Holdings, Inc. Common Stock
 AMTX - Aemetis, Inc - Common Stock
 AMUB - ETRACS Alerian MLP Index ETN Series B due July 18, 2042
+AMUN - abrdn Ultra Short Municipal Income Active ETF
 AMUU - Direxion Daily AMD Bull 2X Shares
 AMWD - American Woodmark Corporation - Common Stock
 AMWL - American Well Corporation Class A Common Stock
@@ -659,8 +660,8 @@ ASBP - Aspire Biopharma Holdings, Inc.  - Common Stock
 ASBPW - Aspire Biopharma Holdings, Inc.  - Warrant
 ASC - Ardmore Shipping Corporation Common Stock
 ASCE - Allspring Exchange-Traded Funds Trust Allspring SMID Core ETF
+ASCI - abrdn International Small Cap Active ETF
 ASEA - Global X FTSE Southeast Asia ETF
-ASET - FlexShares Real Assets Allocation Index Fund
 ASG - Liberty All-Star Growth Fund, Inc.
 ASGI - abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest
 ASGM - Virtus ETF Trust II Virtus AlphaSimplex Global Macro ETF
@@ -2724,7 +2725,7 @@ DMRC - Digimarc Corporation - Common Stock
 DMX - DoubleLine ETF Trust DoubleLine Multi-Sector Income ETF
 DMXF - iShares ESG Advanced MSCI EAFE ETF
 DNA - Ginkgo Bioworks Holdings, Inc. Class A Common Stock
-DNL - WisdomTree Global ex-US Quality Dividend Growth Fund
+DNL - WisdomTree Global ex-U.S. Quality Growth Fund
 DNLI - Denali Therapeutics Inc. - Common Stock
 DNN - Denison Mines Corp Ordinary Shares (Canada)
 DNOV - FT Vest U.S. Equity Deep Buffer ETF - November
@@ -2742,7 +2743,7 @@ DOGD - Tradr 2X Long DDOG Daily ETF
 DOGG - FT Vest DJIA Dogs 10 Target Income ETF
 DOGZ - Dogness (International) Corporation - Class A Common Stock
 DOJE - ETF Opportunities Trust REX-Osprey DOGE ETF
-DOL - WisdomTree International LargeCap Dividend Fund
+DOL - WisdomTree True Developed International Fund
 DOLE - Dole plc Ordinary Shares
 DOMH - Dominari Holdings Inc. - Common Stock
 DOMO - Domo, Inc. - Class B Common Stock
@@ -4464,6 +4465,8 @@ GSL - Global Ship Lease Inc New Class A Common Shares
 GSLC - Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF
 GSM - Ferroglobe PLC - Ordinary Shares
 GSPY - Gotham Enhanced 500 ETF
+GSRF - GSR IV Acquisition Corp. - Class A ordinary share
+GSRFR - GSR IV Acquisition Corp. - Rights
 GSRFU - GSR IV Acquisition Corp. - Units
 GSSC - GS ActiveBeta U.S. Small Cap Equity ETF
 GSST - Goldman Sachs Ultra Short Bond ETF
@@ -4719,6 +4722,7 @@ HOND - HCM II Acquisition Corp. - Class A Ordinary Shares
 HONDU - HCM II Acquisition Corp. - Unit
 HONDW - HCM II Acquisition Corp. - Warrant
 HONE - HarborOne Bancorp, Inc. - Common Stock
+HONIV - Honeywell International Inc. - Common Stock Ex Distribution When Issued
 HOOD - Robinhood Markets, Inc. - Class A Common Stock
 HOOG - Leverage Shares 2X Long HOOD Daily ETF
 HOOI - Defiance Leveraged Long Income HOOD ETF
@@ -5305,6 +5309,7 @@ IR - Ingersoll Rand Inc. Common Stock
 IRBT - iRobot Corporation - Common Stock
 IRD - Opus Genetics, Inc. - Common Stock
 IRDM - Iridium Communications Inc - Common Stock
+IRE - Tidal Trust II Defiance Daily Target 2X Long IREN ETF
 IREN - IREN Limited - Ordinary Shares
 IRET - Tidal Trust II iREIT - MarketVector Quality REIT Index ETF
 IRIX - IRIDEX Corporation - Common Stock
@@ -6620,6 +6625,7 @@ MPA - Blackrock MuniYield Pennsylvania Quality Fund Common Stock
 MPAA - Motorcar Parts of America, Inc. - Common Stock
 MPB - Mid Penn Bancorp - Common Stock
 MPC - Marathon Petroleum Corporation Common Stock
+MPL - Tidal Trust II Defiance Daily Target 2X Long MP ETF
 MPLX - MPLX LP Common Units Representing Limited Partner Interests
 MPLY - Strategy Shares Monopoly ETF
 MPRO - Monarch ProCap Index ETF
@@ -7290,6 +7296,7 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -8312,6 +8319,7 @@ QSIX - Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF
 QSML - WisdomTree U.S. SmallCap Quality Growth Fund
 QSPT - FT Vest Nasdaq-100 Buffer ETF - September
 QSR - Restaurant Brands International Inc. Common Shares
+QSU - Tidal Trust II Defiance Daily Target 2X Long QS ETF
 QTAP - Innovator Growth Accelerated Plus ETF - April
 QTEC - First Trust NASDAQ-100-Technology Sector Index Fund
 QTJA - Innovator ETFs Trust Innovator Growth Accelerated Plus ETF - January
@@ -8540,6 +8548,7 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
+RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -8650,7 +8659,6 @@ ROMO - Strategy Shares Newfound/ReSolve Robust Momentum ETF
 ROOT - Root, Inc. - Common Stock
 ROP - Roper Technologies, Inc. - Common Stock
 ROPE - EA Series Trust Coastal Compass 100 ETF
-RORO - ATAC US Rotation ETF
 ROSC - Hartford Multifactor Small Cap ETF
 ROST - Ross Stores, Inc. - Common Stock
 ROUS - Hartford Multifactor U.S. Equity ETF
@@ -9159,6 +9167,7 @@ SKYW - SkyWest, Inc. - Common Stock
 SKYX - SKYX Platforms Corp. - Common Stock
 SKYY - First Trust Cloud Computing ETF
 SLAB - Silicon Laboratories, Inc. - Common Stock
+SLAI - SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)
 SLB - SLB Limited Common Shares
 SLDB - Solid Biosciences Inc. - Common Stock
 SLDE - Slide Insurance Holdings, Inc. - Common Stock
@@ -9260,7 +9269,7 @@ SMTK - SmartKem, Inc. - Common Stock
 SMU - Tradr 2X Long SMR Daily ETF
 SMUP - ETF Opportunities Trust T-REX 2X Long SMR Daily Target ETF
 SMWB - Similarweb Ltd. Ordinary Shares
-SMX - SMX (Security Matters) Public Limited Company - Class A Ordinary Shares
+SMX - SMX (Security Matters) Public Limited Company - Ordinary Shares
 SMXT - Solarmax Technology Inc. - Common Stock
 SMXWW - SMX (Security Matters) Public Limited Company - Warrant
 SMYY - GraniteShares YieldBOOST SMCI ETF
@@ -9328,6 +9337,7 @@ SOJE - Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due O
 SOJF - Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085
 SOL - Emeren Group Ltd American Depositary Shares, each representing 10 shares
 SOLR - SmartETFs Sustainable Energy II ETF
+SOLSV - Solstice Advanced Materials Inc. - Common Stock When Issued
 SOLT - 2x Solana ETF
 SOLV - Solventum Corporation Common Stock
 SOLZ - Solana ETF
@@ -9644,10 +9654,6 @@ SVCC - Stellar V Capital Corp. - Class A Ordinary Shares
 SVCCU - Stellar V Capital Corp. - Unit
 SVCCW - Stellar V Capital Corp. - Warrant
 SVCO - Silvaco Group, Inc. - Common Stock
-SVII - Spring Valley Acquisition Corp. II - Class A Ordinary Shares
-SVIIR - Spring Valley Acquisition Corp. II - Rights
-SVIIU - Spring Valley Acquisition Corp. II - Units
-SVIIW - Spring Valley Acquisition Corp. II - Warrant
 SVIX - VS TR -1x Short VIX Futures ETF
 SVM - Silvercorp Metals Inc. Common Shares
 SVOL - Simplify Volatility Premium ETF
@@ -10509,7 +10515,6 @@ VBK - Vanguard Small-Cap Growth ETF
 VBND - Vident U.S. Bond Strategy ETF
 VBNK - VersaBank - Common Shares
 VBR - Vanguard Small-Cap Value ETF
-VBTX - Veritex Holdings, Inc. - Common Stock
 VC - Visteon Corporation - Common Stock
 VCEB - Vanguard World Funds ETF
 VCEL - Vericel Corporation - Common Stock
@@ -10637,7 +10642,6 @@ VMEO - Vimeo, Inc. - Common Stock
 VMI - Valmont Industries, Inc. Common Stock
 VMO - Invesco Municipal Opportunity Trust Common Stock
 VNAM - Global X Funds Global X MSCI Vietnam ETF
-VNCE - Vince Holding Corp. Common Stock
 VNDA - Vanda Pharmaceuticals Inc. - Common Stock
 VNET - VNET Group, Inc. - American Depositary Shares
 VNIE - The Advisors Inner Circle Fund II Vontobel International Equity Active ETF
@@ -11282,7 +11286,6 @@ ZH - Zhihu Inc. American Depositary Shares, each representing three (3) Class A 
 ZHDG - ZEGA Buy and Hedge ETF
 ZIG - The Acquirers Fund
 ZIM - ZIM Integrated Shipping Services Ltd. Ordinary Shares
-ZIMV - ZimVie Inc. - Common Stock
 ZION - Zions Bancorporation N.A. - Common Stock
 ZIONP - Zions Bancorporation N.A. - Depositary Shares each representing a 1/40th ownership interest in a share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock
 ZIP - ZipRecruiter, Inc. Class A Common Stock
