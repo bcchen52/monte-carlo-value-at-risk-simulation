@@ -277,6 +277,7 @@ AHG - Akso Health Group - American Depositary Shares
 AHH - Armada Hoffler Properties, Inc. Common Stock
 AHL - Aspen Insurance Holdings Limited Class A Ordinary Shares
 AHLT - American Beacon Select Funds American Beacon AHL Trend ETF
+AHMA - Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares
 AHR - American Healthcare REIT, Inc. Common Stock
 AHT - Ashford Hospitality Trust Inc Common Stock
 AHYB - American Century Select High Yield ETF
@@ -986,6 +987,7 @@ BBVA - Banco Bilbao Vizcaya Argentaria S.A. Common Stock
 BBW - Build-A-Bear Workshop, Inc. Common Stock
 BBWI - Bath & Body Works, Inc.
 BBY - Best Buy Co., Inc. Common Stock
+BBYY - GraniteShares YieldBOOST BABA ETF
 BC - Brunswick Corporation Common Stock
 BCAB - BioAtla, Inc. - Common Stock
 BCAL - California BanCorp - Common Stock
@@ -1113,6 +1115,7 @@ BGDV - ETF Series Solutions Bahl & Gaynor Dividend ETF
 BGH - Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests
 BGI - Birks Group Inc. Common Stock
 BGIG - ETF Series Solutions Bahl & Gaynor Income Growth ETF
+BGIN - Bgin Blockchain Limited - Class A Ordinary Shares
 BGL - Blue Gold Limited - Class A ordinary shares
 BGLC - BioNexus Gene Lab Corp - Common stock
 BGLD - FT Vest Gold Strategy Quarterly Buffer ETF
@@ -1389,12 +1392,14 @@ BRBS - Blue Ridge Bankshares, Inc. Common Stock
 BRC - Brady Corporation Common Stock
 BRCB - Black Rock Coffee Bar, Inc. - Class A Common Stock
 BRCC - BRC Inc. Class A Common Stock
+BRCE - MFS Active Exchange Traded Funds Trust MFS Blended Research Core Equity ETF
 BREM - iShares Emerging Markets Bond Active ETF
 BRF - VanEck Brazil Small-Cap ETF
 BRFH - Barfresh Food Group Inc. - Common Stock
 BRHY - iShares High Yield Active ETF
 BRIA - BrilliA Inc Class A Ordinary Shares
 BRID - Bridgford Foods Corporation - Common Stock
+BRIE - MFS Active Exchange Traded Funds Trust MFS Blended Research International Equity ETF
 BRIF - NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF
 BRKC - Tidal Trust II YieldMax BRK.B Option Income Strategy ETF
 BRKD - Direxion Daily BRKB Bear 1X Shares
@@ -2616,6 +2621,7 @@ DGIN - VanEck ETF Trust VanEck Digital India ETF
 DGLO - First Trust RBA Deglobalization ETF
 DGLY - Digital Ally, Inc. - Common Stock
 DGNX - Diginex Limited - Ordinary Shares
+DGOC - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Digital Return ETF - October
 DGP - DB Gold Double Long ETN due February 15, 2038
 DGRE - WisdomTree Emerging Markets Quality Dividend Growth Fund
 DGRO - iShares Core Dividend Growth ETF
@@ -3133,7 +3139,6 @@ EMGF - iShares Emerging Markets Equity Factor ETF
 EMHC - SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
-EMISU - Emmis Acquisition Corp. - Units
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
 EMLP - First Trust North American Energy Infrastructure Fund
@@ -3339,6 +3344,7 @@ EUFN - iShares MSCI Europe Financials ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
+EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3x Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -3502,6 +3508,7 @@ FBUF - Fidelity Dynamic Buffered Equity ETF
 FBY - Tidal ETF Trust II YieldMax META Option Income Strategy ETF
 FBYD - Falcon's Beyond Global, Inc. - Class A Common Stock
 FBYDW - Falcon's Beyond Global, Inc. - Warrants
+FBYY - GraniteShares YieldBOOST META ETF
 FC - Franklin Covey Company Common Stock
 FCA - First Trust China AlphaDEX Fund
 FCAL - First Trust California Municipal High income ETF
@@ -3934,6 +3941,7 @@ FSEP - FT Vest U.S. Equity Buffer ETF - September
 FSFG - First Savings Financial Group, Inc. - Common Stock
 FSGS - First Trust SMID Growth Strength ETF
 FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
+FSHPR - Flag Ship Acquisition Corp. - Right
 FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
@@ -5858,7 +5866,6 @@ KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
 KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - ETF Opportunities Trust T-REX 2X Long KTOS Daily Target ETF
-KUKE - Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares)
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
 KURE - KraneShares MSCI All China Health Care Index ETF
@@ -6358,6 +6365,7 @@ MCRI - Monarch Casino & Resort, Inc. - Common Stock
 MCRP - Micropolis Holding Company Ordinary Shares
 MCS - Marcus Corporation (The) Common Stock
 MCSE - Franklin Sustainable International Equity ETF
+MCTA - Charming Medical Limited - Class A Ordinary Shares
 MCTR - CTRL Group Limited - ordinary shares
 MCW - Mister Car Wash, Inc. - Common Stock
 MCY - Mercury General Corporation Common Stock
@@ -7360,6 +7368,7 @@ ODYS - Odysight.ai Inc. - Common Stock
 OEC - Orion S.A. Common Shares
 OEF - iShares S&P 100 ETF
 OEFA - ALPS - O'Shares International Developed Quality Dividend ETF
+OEI - Listed Funds Trust Optimized Equity Income ETF
 OESX - Orion Energy Systems, Inc. - Common Stock
 OFAL - OFA Group - Ordinary shares
 OFG - OFG Bancorp Common Stock
@@ -7811,7 +7820,6 @@ PHI - PLDT Inc. Sponsored ADR
 PHIN - PHINIA Inc. Common Stock
 PHIO - Phio Pharmaceuticals Corp. - Common Stock
 PHK - Pimco High Income Fund
-PHLT - Performant Healthcare, Inc. - Common Stock
 PHM - PulteGroup, Inc. Common Stock
 PHO - Invesco Water Resources ETF
 PHOE - Phoenix Asia Holdings Limited - Ordinary Shares
@@ -8424,6 +8432,7 @@ RCKT - Rocket Pharmaceuticals, Inc. - Common Stock
 RCKTW - Rocket Pharmaceuticals, Inc. - Warrant
 RCKY - Rocky Brands, Inc. - Common Stock
 RCL - Royal Caribbean Cruises Ltd. Common Stock
+RCLO - Advisor Managed Portfolios Reckoner BBB-B CLO ETF
 RCMT - RCM Technologies, Inc. - Common Stock
 RCON - Recon Technology, Ltd. - Class A Ordinary Shares
 RCS - PIMCO Strategic Income Fund, Inc.
@@ -8868,6 +8877,7 @@ SBRA - Sabra Health Care REIT, Inc. - Common Stock
 SBS - Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares)
 SBSI - Southside Bancshares, Inc. Common Stock
 SBSW - D/B/A Sibanye-Stillwater Limited ADS
+SBTU - ETF Opportunities Trust T-REX 2X Long SBET Daily Target ETF
 SBUX - Starbucks Corporation - Common Stock
 SBXD - SilverBox Corp IV Class A Ordinary Shares
 SCAG - Scage Future - American Depositary Shares
@@ -10361,7 +10371,7 @@ UNP - Union Pacific Corporation Common Stock
 UNTY - Unity Bancorp, Inc. - Common Stock
 UNX - Investment Managers Series Trust II Tradr 2X Long U Daily ETF
 UOCT - Innovator U.S. Equity Ultra Buffer ETF - October
-UOKA - MDJM LTD - Ordinary Shares
+UOKA - MDJM LTD - Class A Ordinary Shares
 UONE - Urban One, Inc.  - Class A Common Stock
 UONEK - Urban One, Inc.  - Class D Common Stock
 UP - Wheels Up Experience Inc. Class A Common Stock
@@ -10642,6 +10652,7 @@ VMEO - Vimeo, Inc. - Common Stock
 VMI - Valmont Industries, Inc. Common Stock
 VMO - Invesco Municipal Opportunity Trust Common Stock
 VNAM - Global X Funds Global X MSCI Vietnam ETF
+VNCE - Vince Holding Corp. - Common Stock
 VNDA - Vanda Pharmaceuticals Inc. - Common Stock
 VNET - VNET Group, Inc. - American Depositary Shares
 VNIE - The Advisors Inner Circle Fund II Vontobel International Equity Active ETF
