@@ -233,6 +233,7 @@ AFSM - First Trust Active Factor Small Cap ETF
 AFYA - Afya Limited - Class A Common Shares
 AG - First Majestic Silver Corp. Ordinary Shares (Canada)
 AGAE - Allied Gaming & Entertainment Inc. - Common Stock
+AGCC - Agencia Comercial Spirits Ltd - Class A Ordinary Share
 AGCO - AGCO Corporation Common Stock
 AGD - abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest
 AGEM - abrdn Emerging Markets Dividend Active ETF
@@ -369,6 +370,7 @@ ALGT - Allegiant Travel Company - Common Stock
 ALH - Alliance Laundry Holdings Inc. Common Stock
 ALHC - Alignment Healthcare, Inc. - Common Stock
 ALIL - Argent Focused Small Cap ETF
+ALISU - Calisa Acquisition Corp - Units
 ALIT - Alight, Inc. Class A Common Stock
 ALK - Alaska Air Group, Inc. Common Stock
 ALKS - Alkermes plc - Ordinary Shares
@@ -2006,6 +2008,7 @@ CLNN - Clene Inc. - Common Stock
 CLNNW - Clene Inc. - Warrant
 CLOA - iShares AAA CLO Active ETF
 CLOB - VanEck ETF Trust VanEck AA-BB CLO ETF
+CLOC - ETF Series Solutions AAM Crescent CLO ETF
 CLOD - Themes Cloud Computing ETF
 CLOI - VanEck ETF Trust VanEck CLO ETF
 CLOU - Global X Cloud Computing ETF
@@ -3139,6 +3142,8 @@ EMGF - iShares Emerging Markets Equity Factor ETF
 EMHC - SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
+EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
+EMISR - Emmis Acquisition Corp. - Rights
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
 EMLP - First Trust North American Energy Infrastructure Fund
@@ -3889,7 +3894,6 @@ FOXY - Simplify Exchange Traded Funds Simplify Currency Strategy ETF
 FPA - First Trust Asia Pacific Ex-Japan AlphaDEX Fund
 FPAG - Investment Managers Series Trust III FPA Global Equity ETF
 FPAS - Investment Managers Series Trust III FPA Short Duration Government ETF
-FPAY - FlexShopper, Inc. - Common Stock
 FPE - First Trust Preferred Securities and Income ETF ETF
 FPEI - First Trust Institutional Preferred Securities and Income ETF
 FPF - First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest
@@ -6113,7 +6117,6 @@ LOGI - Logitech International S.A. - Registered Shares
 LOGO - Alpha Brands Consumption Leaders ETF
 LOKV - Live Oak Acquisition Corp. V - Class A Ordinary Shares
 LOKVU - Live Oak Acquisition Corp. V - Units
-LOKVW - Live Oak Acquisition Corp. V - Warrants
 LOMA - Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
 LONZ - PIMCO U.S. Treasury Index Fund PIMCO Senior Loan Active Exchange-Traded Fund
 LOOP - Loop Industries, Inc. - Common Stock
@@ -7113,6 +7116,7 @@ NPFI - Nuveen Preferred and Income ETF
 NPK - National Presto Industries, Inc. Common Stock
 NPKI - NPK International Inc. Common Stock
 NPO - Enpro Inc. Common Stock
+NPT - Texxon Holding Limited - Ordinary shares
 NPV - Nuveen Virginia Quality Municipal Income Fund Common Stock
 NPWR - NET Power Inc. Class A Common Stock
 NQP - Nuveen Pennsylvania Quality Municipal Income Fund Common Stock
@@ -7802,6 +7806,7 @@ PGNY - Progyny, Inc. - Common Stock
 PGP - Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest
 PGR - Progressive Corporation (The) Common Stock
 PGRE - Paramount Group, Inc. Common Stock
+PGRI - Franklin Templeton ETF Trust Putnam International Stock ETF
 PGRO - Putnam Focused Large Cap Growth ETF
 PGX - Invesco Preferred ETF
 PGY - Pagaya Technologies Ltd. - Class A Ordinary Shares
@@ -8317,7 +8322,6 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation Class A Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
-QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSG - QuantaSing Group Limited - American Depositary Shares
 QSI - Quantum-Si Incorporated - Class A Common Stock
@@ -9937,6 +9941,7 @@ TILL - Listed Funds Trust Teucrium Agricultural Strategy No K-1 ETF
 TILT - FlexShares Mornigstar US Market Factors Tilt Index Fund ETF
 TIMB - TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
 TIME - Tidal Trust II Clockwise Core Equity & Innovation ETF
+TINS - Franklin Templeton ETF Trust Templeton International Insights ETF
 TINT - ProShares Smart Materials ETF
 TINY - ProShares Nanotechnology ETF
 TIP - iShares TIPS Bond ETF
