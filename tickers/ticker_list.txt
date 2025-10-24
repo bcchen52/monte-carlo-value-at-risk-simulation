@@ -635,6 +635,7 @@ ARMK - Aramark Common Stock
 ARMN - Aris Mining Corporation Common Shares
 ARMP - Armata Pharmaceuticals, Inc. Common Stock
 ARMU - ETF Opportunities Trust T-REX 2X Long ARM Daily Target ETF
+ARMW - Roundhill ETF Trust Roundhill ARM WeeklyPay ETF
 AROC - Archrock, Inc. Common Stock
 AROW - Arrow Financial Corporation - Common Stock
 ARP - The Advisors Inner Circle Fund II PMV Adaptive Risk Parity ETF
@@ -889,6 +890,7 @@ BA - Boeing Company (The) Common Stock
 BAB - Invesco Taxable Municipal Bond ETF
 BABA - Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share
 BABO - Tidal Trust II YieldMax BABA Option Income Strategy ETF
+BABW - Roundhill ETF Trust Roundhill BABA WeeklyPay ETF
 BABX - GraniteShares 2x Long BABA Daily ETF
 BAC - Bank of America Corporation Common Stock
 BACC - Blue Acquisition Corp. - Class A Ordinary Shares
@@ -1270,6 +1272,7 @@ BLOX - Tidal Trust II Nicholas Crypto Income ETF
 BLRX - BioLineRx Ltd. - American Depositary Shares
 BLSH - Bullish Ordinary Shares
 BLST - Exchange Traded Concepts Trust Bluemonte Short Term Bond ETF
+BLSX - Investment Managers Series Trust II Tradr 2X Long BLSH Daily ETF
 BLTD - Exchange Traded Concepts Trust Bluemonte Long Term Bond ETF
 BLTE - Belite Bio, Inc - American Depositary Shares
 BLUC - Exchange Traded Concepts Trust Bluemonte Large Cap Core ETF
@@ -2173,6 +2176,7 @@ CORZZ - Core Scientific, Inc. - Tranche 2 Warrants
 COSM - Cosmos Health Inc. - Common Stock
 COSO - CoastalSouth Bancshares, Inc. Common Stock
 COST - Costco Wholesale Corporation - Common Stock
+COSW - Roundhill ETF Trust Roundhill COST WeeklyPay ETF
 COTG - Leverage Shares 2X Long COST Daily ETF
 COTY - Coty Inc. Class A Common Stock
 COUR - Coursera, Inc. Common Stock
@@ -2476,6 +2480,7 @@ DAR - Darling Ingredients Inc. Common Stock
 DARE - Dare Bioscience, Inc. - Common Stock
 DARP - Grizzle Growth ETF
 DASH - DoorDash, Inc. - Common Stock
+DASX - Investment Managers Series Trust II Tradr 2X Long DASH Daily ETF
 DAT - ProShares Big Data Refiners ETF
 DAUG - FT Vest U.S. Equity Deep Buffer ETF - August
 DAVA - Endava plc American Depositary Shares (each representing one Class A Ordinary Share)
@@ -2910,7 +2915,6 @@ DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
 DYCQ - DT Cloud Acquisition Corporation - Ordinary shares
-DYCQR - DT Cloud Acquisition Corporation - Right
 DYCQU - DT Cloud Acquisition Corporation - Unit
 DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
@@ -3355,7 +3359,6 @@ EURL - Direxion Daily FTSE Europe Bull 3x Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
 EUSB - iShares ESG Advanced Total USD Bond Market ETF
 EVAC - EQV Ventures Acquisition Corp. II Class A Ordinary Shares
-EVAV - Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares
 EVAX - Evaxion A/S - American Depositary Share
 EVC - Entravision Communications Corporation Common Stock
 EVCM - EverCommerce Inc. - Common Stock
@@ -3809,6 +3812,7 @@ FLXS - Flexsteel Industries, Inc. - Common Stock
 FLY - Firefly Aerospace Inc. - Common Stock
 FLYD - Bank of Montreal MicroSectors Travel -3x Inverse Leveraged ETN
 FLYE - Fly-E Group, Inc. - Common Stock
+FLYT - Investment Managers Series Trust II Tradr 2X Long FLY Daily ETF
 FLYU - Bank of Montreal MicroSectors Travel 3x Leveraged ETN
 FLYW - Flywire Corporation - Voting Common Stock
 FLYX - flyExclusive, Inc. Class A Common Stock
@@ -4029,6 +4033,8 @@ FUND - Sprott Focus Trust, Inc. - Closed End Fund
 FUNL - CornerCap Fundametrics Large-Cap ETF
 FURY - Fury Gold Mines Limited Common Shares
 FUSB - First US Bancshares, Inc. - Common Stock
+FUSE - Fusemachines Inc. - Common stock
+FUSEW - Fusemachines Inc. - Warrants
 FUSI - American Century ETF Trust American Century Multisector Floating Income ETF
 FUTG - Leverage Shares 2x Long FUTU Daily ETF
 FUTU - Futu Holdings Limited - American Depositary Shares
@@ -4509,6 +4515,7 @@ GTN - Gray Media, Inc. Common Stock
 GTO - Invesco Total Return Bond ETF
 GTOC - Invesco Core Fixed Income ETF
 GTOS - Invesco Short Duration Total Return Bond ETF
+GTPE - Goldman Sachs MSCI World Private Equity Return Tracker ETF
 GTR - WisdomTree Target Range Fund
 GTX - Garrett Motion Inc. - Common Stock
 GTY - Getty Realty Corporation Common Stock
@@ -4568,6 +4575,7 @@ HAS - Hasbro, Inc. - Common Stock
 HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
+HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWX - iShares Currency Hedged MSCI ACWI ex U.S. ETF
 HAYW - Hayward Holdings, Inc. Common Stock
 HBAN - Huntington Bancshares Incorporated - Common Stock
@@ -5324,6 +5332,7 @@ IRDM - Iridium Communications Inc - Common Stock
 IRE - Tidal Trust II Defiance Daily Target 2X Long IREN ETF
 IREN - IREN Limited - Ordinary Shares
 IRET - Tidal Trust II iREIT - MarketVector Quality REIT Index ETF
+IREX - Investment Managers Series Trust II Tradr 2X Long IREN Daily ETF
 IRIX - IRIDEX Corporation - Common Stock
 IRM - Iron Mountain Incorporated (Delaware)Common Stock REIT
 IRMD - iRadimed Corporation - Common Stock
@@ -6117,6 +6126,7 @@ LOGI - Logitech International S.A. - Registered Shares
 LOGO - Alpha Brands Consumption Leaders ETF
 LOKV - Live Oak Acquisition Corp. V - Class A Ordinary Shares
 LOKVU - Live Oak Acquisition Corp. V - Units
+LOKVW - Live Oak Acquisition Corp. V - Warrants
 LOMA - Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
 LONZ - PIMCO U.S. Treasury Index Fund PIMCO Senior Loan Active Exchange-Traded Fund
 LOOP - Loop Industries, Inc. - Common Stock
@@ -6551,7 +6561,6 @@ MLI - Mueller Industries, Inc. Common Stock
 MLKN - MillerKnoll, Inc. - Common Stock
 MLM - Martin Marietta Materials, Inc. Common Stock
 MLN - VanEck ETF Trust VanEck Long Muni ETF
-MLNK - MeridianLink, Inc. Common Stock
 MLP - Maui Land & Pineapple Company, Inc. Common Stock
 MLPA - Global X MLP ETF
 MLPB - ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040
@@ -6581,6 +6590,7 @@ MMSD - New York Life Investments Active ETF Trust NYLI MacKay Muni Short Duratio
 MMSI - Merit Medical Systems, Inc. - Common Stock
 MMT - MFS Multimarket Income Trust Common Stock
 MMTM - SPDR S&P 1500 Momentum Tilt ETF
+MMTXU - Miluna Acquisition Corp - Units
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MNA - NYLI Merger Arbitrage ETF
@@ -6718,6 +6728,7 @@ MSSS - Northern Lights Fund Trust IV Monarch Select Subsector Index ETF
 MST - Defiance Leveraged Long Income MSTR ETF
 MSTB - LHA Market State Tactical Beta ETF
 MSTI - Madison ETFs Trust Madison Short Term Strategic Income ETF
+MSTK - ETF Opportunities Trust Tuttle Capital MSTR 0DTE Covered Call ETF
 MSTP - GraniteShares 2x Long MSTR Daily ETF
 MSTQ - ETF Series Solutions LHA Market State Tactical Q ETF
 MSTR - Strategy Inc - Class A Common Stock
@@ -7268,6 +7279,7 @@ NWG - NatWest Group plc American Depositary Shares, (each representing two (2) O
 NWGL - Nature Wood Group Limited - American Depositary Shares
 NWL - Newell Brands Inc. - Common Stock
 NWLG - Nuveen Winslow Large-Cap Growth ESG ETF
+NWMX - Investment Managers Series Trust II Tradr 2X Long NEM Daily ETF
 NWN - Northwest Natural Holding Company Common Stock
 NWPX - NWPX Infrastructure, Inc. - Common Stock
 NWS - News Corporation - Class B Common Stock
@@ -7469,6 +7481,7 @@ OPBK - OP Bancorp - Common Stock
 OPCH - Option Care Health, Inc. - Common Stock
 OPEN - Opendoor Technologies Inc  - Common Stock
 OPER - ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF
+OPEX - Investment Managers Series Trust II Tradr 2X Long OPEN Daily ETF
 OPFI - OppFi Inc. Class A Common Stock
 OPHC - OptimumBank Holdings, Inc. Common Stock
 OPK - Opko Health, Inc. - Common Stock
@@ -7660,7 +7673,6 @@ PBNV - PGIM S&P 500 Buffer 20 ETF - November
 PBOC - PGIM S&P 500 Buffer 20 ETF - October
 PBOT - The 2023 ETF Series Trust Pictet AI & Automation ETF
 PBP - Invesco S&P 500 BuyWrite ETF
-PBPB - Potbelly Corporation - Common Stock
 PBQQ - PGIM Laddered Nasdaq-100 Buffer 12 ETF
 PBR - Petroleo Brasileiro S.A. Petrobras ADS
 PBSE - PGIM S&P 500 Buffer 20 ETF - September
@@ -8332,6 +8344,7 @@ QSML - WisdomTree U.S. SmallCap Quality Growth Fund
 QSPT - FT Vest Nasdaq-100 Buffer ETF - September
 QSR - Restaurant Brands International Inc. Common Shares
 QSU - Tidal Trust II Defiance Daily Target 2X Long QS ETF
+QSX - Investment Managers Series Trust II Tradr 2X Long QS Daily ETF
 QTAP - Innovator Growth Accelerated Plus ETF - April
 QTEC - First Trust NASDAQ-100-Technology Sector Index Fund
 QTJA - Innovator ETFs Trust Innovator Growth Accelerated Plus ETF - January
@@ -9524,6 +9537,7 @@ SRL - Scully Royalty Ltd.
 SRLN - SPDR Blackstone Senior Loan ETF
 SROI - Calamos ETF Trust Calamos Antetokounmpo Global Sustainable Equities ETF
 SRPT - Sarepta Therapeutics, Inc. - Common Stock
+SRPU - Investment Managers Series Trust II Tradr 2X Long SRPT Daily ETF
 SRRK - Scholar Rock Holding Corporation - Common Stock
 SRS - ProShares UltraShort Real Estate
 SRTA - Strata Critical Medical, Inc. - Class A Common Stock
@@ -9864,6 +9878,8 @@ TEMX - Touchstone ETF Trust Touchstone Sands Capital Emerging Markets ex-China G
 TEN - Tsakos Energy Navigation Ltd Common Shares
 TENB - Tenable Holdings, Inc. - Common Stock
 TEND - iShares Trust iShares Large Cap 10% Target Buffer Dec ETF
+TENJ - iShares Trust iShares Large Cap 10% Target Buffer Jun ETF
+TENM - iShares Trust iShares Large Cap 10% Target Buffer Mar ETF
 TENX - Tenax Therapeutics, Inc. - Common Stock
 TEO - Telecom Argentina SA
 TEQI - T. Rowe Price Equity Income ETF
@@ -10277,6 +10293,7 @@ UAUG - Innovator U.S. Equity Ultra Buffer ETF - August
 UAVS - AgEagle Aerial Systems, Inc. Common Stock
 UBCP - United Bancorp, Inc. - Common Stock
 UBER - Uber Technologies, Inc. Common Stock
+UBEW - Roundhill ETF Trust Roundhill UBER WeeklyPay ETF
 UBFO - United Security Bancshares - Common Stock
 UBND - VictoryShares Core Plus Intermediate Bond ETF
 UBOT - Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares
@@ -10879,7 +10896,6 @@ WFC - Wells Fargo & Company Common Stock
 WFCF - Where Food Comes From, Inc. - Common Stock
 WFF - WF Holding Limited - Ordinary Shares
 WFG - West Fraser Timber Co. Ltd Common stock
-WFH - Direxion Work From Home ETF
 WFRD - Weatherford International plc - Ordinary shares
 WGMI - CoinShares Bitcoin Mining ETF
 WGO - Winnebago Industries, Inc. Common Stock
@@ -11000,6 +11016,7 @@ WTW - Willis Towers Watson Public Limited Company - Ordinary Shares
 WU - Western Union Company (The) Common Stock
 WUGI - AXS Esoterica NextG Economy ETF
 WULF - TeraWulf Inc. - Common Stock
+WULX - Investment Managers Series Trust II Tradr 2X Long WULF Daily ETF
 WVE - Wave Life Sciences Ltd. - Ordinary Shares
 WVVI - Willamette Valley Vineyards, Inc. - Common Stock
 WVVIP - Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock
@@ -11197,7 +11214,6 @@ XV - Simplify Exchange Traded Funds Simplify Target 15 Distribution ETF
 XVOL - Acruence Active Hedge U.S. Equity ETF
 XVV - iShares ESG Select Screened S&P 500 ETF
 XWEL - XWELL, Inc. - Common Stock
-XXCH - Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares
 XXII - 22nd Century Group, Inc - Common Stock
 XXRP - Listed Funds Trust Teucrium 2x Long Daily XRP ETF
 XYF - X Financial American Depositary Shares, each representing six Class A Ordinary Shares
