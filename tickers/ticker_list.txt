@@ -847,6 +847,7 @@ AVUS - Avantis U.S. Equity ETF
 AVUV - Avantis U.S. Small Cap Value ETF
 AVXC - Avantis Emerging Markets ex-China Equity ETF
 AVXL - Anavex Life Sciences Corp. - Common Stock
+AVXX - Defiance Daily Target 2x Long AVAV ETF
 AVY - Avery Dennison Corporation Common Stock
 AWAY - Amplify ETF Trust Amplify Travel Tech ETF
 AWEG - The Alger ETF Trust Alger Weatherbie Enduring Growth ETF
@@ -4045,7 +4046,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4288,6 +4288,7 @@ GLBS - Globus Maritime Limited - Common Stock
 GLBZ - Glen Burnie Bancorp - Common Stock
 GLCR - GlacierShares Nasdaq Iceland ETF
 GLD - SPDR Gold Trust
+GLDB - IDX Alternative FIAT ETF
 GLDD - Great Lakes Dredge & Dock Corporation - Common Stock
 GLDG - GoldMining Inc. Common Shares
 GLDI - ETRACS Gold Shares Covered Call ETNs due February 2, 2033
@@ -4800,7 +4801,6 @@ HSPOR - Horizon Space Acquisition I Corp. - Right
 HSPOU - Horizon Space Acquisition I Corp. - Unit
 HSPOW - Horizon Space Acquisition I Corp. - Warrant
 HSPT - Horizon Space Acquisition II Corp. - Ordinary share
-HSPTR - Horizon Space Acquisition II Corp. - Right
 HSPTU - Horizon Space Acquisition II Corp. - Units
 HST - Host Hotels & Resorts, Inc. - Common Stock
 HSTM - HealthStream, Inc. - Common Stock
@@ -5877,7 +5877,6 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
-KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - ETF Opportunities Trust T-REX 2X Long KTOS Daily Target ETF
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -5913,6 +5912,7 @@ LAC - Lithium Americas Corp. Common Shares
 LAD - Lithia Motors, Inc. Common Stock
 LADR - Ladder Capital Corp Class A Common Stock
 LAES - SEALSQ Corp - Ordinary Shares
+LAFAU - LaFayette Acquisition Corp. - Unit
 LAKE - Lakeland Industries, Inc. - Common Stock
 LALT - First Trust Exchange-Traded Fund VIII First Trust Multi-Strategy Alternative ETF
 LAMR - Lamar Advertising Company - Class A Common Stock
@@ -7807,7 +7807,6 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
-PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -11049,7 +11048,6 @@ XBJA - Innovator ETFs Trust Innovator U.S. Equity Accelerated 9 Buffer ETF - Jan
 XBJL - Innovator U.S. Equity Accelerated 9 Buffer ETF - July
 XBOC - Innovator U.S. Equity Accelerated 9 Buffer ETF - October
 XBP - XBP Global Holdings, Inc. - Common Stock
-XBPEW - XBP Global Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
 XC - WisdomTree True Emerging Markets Fund
 XCCC - BondBloxx ETF Trust BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
