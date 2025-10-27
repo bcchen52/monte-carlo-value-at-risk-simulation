@@ -122,7 +122,6 @@ ACSV - American Century ETF Trust American Century Small Cap Value Insights ETF
 ACT - Enact Holdings, Inc. - Common Stock
 ACTG - Acacia Research Corporation - Common Stock
 ACTU - Actuate Therapeutics, Inc. - Common stock
-ACTV - LeaderShares Activist Leaders ETF
 ACU - Acme United Corporation. Common Stock
 ACV - Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest
 ACVA - ACV Auctions Inc. Class A Common Stock
@@ -339,6 +338,7 @@ AKAM - Akamai Technologies, Inc. - Common Stock
 AKAN - Akanda Corp. - Common Shares
 AKBA - Akebia Therapeutics, Inc. - Common Stock
 AKR - Acadia Realty Trust Common Stock
+AKRE - Professionally Managed Portfolios Akre Focus ETF
 AKRO - Akero Therapeutics, Inc. - Common Stock
 AKTX - Akari Therapeutics Plc - American Depositary Shares
 AL - Air Lease Corporation Class A Common Stock
@@ -1192,7 +1192,7 @@ BITF - Bitfarms Ltd. - Common Stock
 BITI - ProShares Short Bitcoin ETF
 BITK - ETF Opportunities Trust Tuttle Capital IBIT 0DTE Covered Call ETF
 BITO - ProShares Bitcoin ETF
-BITQ - Bitwise Crypto Industry Innovators ETF
+BITQ - Bitwise Funds Trust Bitwise Crypto Industry Innovators ETF
 BITS - Global X Blockchain & Bitcoin Strategy ETF
 BITU - ProShares Trust ProShares Ultra Bitcoin ETF
 BITX - Volatility Shares Trust 2x Bitcoin Strategy ETF
@@ -2868,25 +2868,25 @@ DVA - DaVita Inc. Common Stock
 DVAL - BrandywineGLOBAL-Dynamic US Large Cap Value ETF
 DVAX - Dynavax Technologies Corporation - Common Stock
 DVDN - ETF Opportunities Trust Kingsbarn Dividend Opportunity ETF
-DVIN - WEBs Defined Volatility XLI ETF
+DVIN - WEBs Industrials XLI Defined Volatility ETF
 DVLT - Datavault AI Inc. - Common Stock
 DVLU - First Trust Dorsey Wright Momentum & Value ETF
 DVN - Devon Energy Corporation Common Stock
 DVND - Touchstone ETF Trust Touchstone Dividend Select ETF
 DVOL - First Trust Dorsey Wright Momentum & Low Volatility ETF
-DVQQ - WEBs Defined Volatility QQQ ETF
-DVRE - WEBs Defined Volatility XLRE ETF
+DVQQ - WEBs QQQ Defined Volatility ETF
+DVRE - WEBs Real Estate XLRE Defined Volatility ETF
 DVS - Dolly Varden Silver Corporation Common Shares
-DVSP - WEBs Defined Volatility SPY ETF
-DVUT - WEBS Defined Volatility XLU ETF
-DVXB - WEBs Defined Volatility XLB ETF
-DVXC - WEBs Defined Volatility XLC ETF
-DVXE - WEBs Defined Volatility XLE ETF
-DVXF - WEBs Defined Volatility XLF ETF
-DVXK - WEBs Defined Volatility XLK ETF
-DVXP - WEBs Defined Volatility XLP ETF
-DVXV - WEBs Defined Volatility XLV ETF
-DVXY - WEBs Defined Volatility XLY ETF
+DVSP - WEBs SPY Defined Volatility ETF
+DVUT - WEBs Utilities XLU Defined Volatility ETF
+DVXB - WEBs Materials XLB Defined Volatility ETF
+DVXC - WEBs Communication Services XLC Defined Volatility ETF
+DVXE - WEBs Energy XLE Defined Volatility ETF
+DVXF - WEBs Financial XLF Defined Volatility ETF
+DVXK - WEBs Technology XLK Defined Volatility ETF
+DVXP - WEBs Consumer Staples XLP Defined Volatility ETF
+DVXV - WEBs Health Care XLV Defined Volatility ETF
+DVXY - WEBs Consumer Discretionary XLY Defined Volatility ETF
 DVY - iShares Select Dividend ETF
 DVYA - iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund
 DVYE - iShares Emerging Markets Dividend Index Fund Exchange Traded Fund
@@ -3149,6 +3149,7 @@ EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
 EMISR - Emmis Acquisition Corp. - Rights
+EMKT - Lazard Active ETF Trust Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
 EMLP - First Trust North American Energy Infrastructure Fund
@@ -3197,7 +3198,6 @@ ENTX - Entera Bio Ltd. - Ordinary Shares
 ENVA - Enova International, Inc. Common Stock
 ENVB - Enveric Biosciences, Inc.  - Common Stock
 ENVX - Enovix Corporation - Common Stock
-ENX - Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value
 ENZL - iShares MSCI New Zealand ETF
 EOCT - Innovator Emerging Markets Power Buffer ETF - October
 EOD - Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest
@@ -3378,7 +3378,6 @@ EVLN - Morgan Stanley ETF Trust Eaton Vance Floating-Rate ETF
 EVLU - iShares Trust iShares MSCI Emerging Markets Value Factor ETF
 EVLV - Evolv Technologies Holdings, Inc. - Class A Common Stock
 EVLVW - Evolv Technologies Holdings, Inc. - Warrant
-EVM - Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value
 EVMO - Morgan Stanley ETF Trust Eaton Vance Mortgage Opportunities ETF
 EVMT - Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF
 EVN - Eaton Vance Municipal Income Trust Common Stock
@@ -3711,8 +3710,6 @@ FINV - FinVolution Group American Depositary Shares
 FINW - FinWise Bancorp - Common Stock
 FINX - Global X FinTech ETF
 FIP - FTAI Infrastructure Inc. - Common Stock
-FIRI - FIRE Funds Income Target ETF
-FIRS - FIRE Funds Wealth Builder ETF
 FIS - Fidelity National Information Services, Inc. Common Stock
 FISI - Financial Institutions, Inc. - Common Stock
 FISK - Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests
@@ -3979,6 +3976,7 @@ FTAIN - FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetua
 FTBD - Fidelity Merrimack Street Trust Fidelity Tactical Bond ETF
 FTBI - First Trust Exchange-Traded Fund VI First Trust Balanced Income ETF
 FTC - First Trust Large Cap Growth AlphaDEX Fund
+FTCA - Putnam ETF Trust Franklin California Municipal Income ETF
 FTCB - First Trust Exchange-Traded Fund IV First Trust Core Investment Grade ETF
 FTCE - First Trust Exchange-Traded Fund VI First Trust New Constructs Core Earnings Leaders ETF
 FTCI - FTC Solar, Inc. - Common Stock
@@ -4002,7 +4000,11 @@ FTK - Flotek Industries, Inc. Common Stock
 FTKI - First Trust Exchange-Traded Fund VI First Trust Small Cap BuyWrite Income ETF
 FTLF - FitLife Brands, Inc. - Common Stock
 FTLS - First Trust Long/Short Equity
+FTMH - Putnam ETF Trust Franklin Municipal High Yield ETF
+FTMS - Putnam ETF Trust Franklin Short-Term Municipal Income ETF
+FTMU - Putnam ETF Trust Franklin Municipal Income ETF
 FTNT - Fortinet, Inc. - Common Stock
+FTNY - Putnam ETF Trust Franklin New York Municipal Income ETF
 FTQI - First Trust Nasdaq BuyWrite Income ETF
 FTRB - Federated Hermes ETF Trust Federated Hermes Total Return Bond ETF
 FTRE - Fortrea Holdings Inc. - Common Stock
@@ -8212,6 +8214,7 @@ PZA - Invesco National AMT-Free Municipal Bond ETFo
 PZG - Paramount Gold Nevada Corp. Common Stock
 PZT - Invesco New York AMT-Free Municipal Bond ETF
 PZZA - Papa John's International, Inc. - Common Stock
+Q.V - Qnity Electronics, Inc. Common Stock When-Issued
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
 QAI - NYLI Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
@@ -9510,7 +9513,6 @@ SPYT - Tidal Trust II Defiance S&P 500 Target Income ETF
 SPYU - Bank Of Montreal MAX S&P 500 4X Leveraged ETNs due October 30, 2043
 SPYV - SPDR Series Trust SPDR Portfolio S&P 500 Value ETF
 SPYX - SPDR S&P 500 Fossil Fuel Reserves Free ETF
-SQEW - LeaderShares Equity Skew ETF
 SQFT - Presidio Property Trust, Inc. - Class A Common Stock
 SQFTP - Presidio Property Trust, Inc. - 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share
 SQFTW - Presidio Property Trust, Inc. - Series A Common Stock Purchase Warrants
@@ -10353,7 +10355,7 @@ UJB - ProShares Ultra High Yield ETF
 UJUL - Innovator U.S. Equity Ultra Buffer ETF - July
 UJUN - Innovator U.S. Equity Ultra Buffer ETF - June
 UK - Ucommune International Ltd  - Ordinary Shares
-UKOMW - Ucommune International Ltd  - Warrant expiring 11/17/2025
+UKOMW - Ucommune International Ltd  - Warrant
 UL - Unilever PLC Common Stock
 ULBI - Ultralife Corporation - Common Stock
 ULCC - Frontier Group Holdings, Inc. - Common Stock
