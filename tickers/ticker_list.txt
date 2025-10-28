@@ -141,7 +141,6 @@ ADAML - Adamas Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative R
 ADAMM - Adamas Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
 ADAMN - Adamas Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
 ADAMZ - Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share
-ADAP - Adaptimmune Therapeutics plc - American Depositary Shares
 ADBE - Adobe Inc. - Common Stock
 ADBG - Leverage Shares 2X Long ADBE Daily ETF
 ADC - Agree Realty Corporation Common Stock
@@ -1271,6 +1270,7 @@ BLNK - Blink Charging Co. - Common Stock
 BLOK - Amplify Blockchain Technology ETF
 BLOX - Tidal Trust II Nicholas Crypto Income ETF
 BLRX - BioLineRx Ltd. - American Depositary Shares
+BLSG - Leverage Shares 2X Long BLSH Daily ETF
 BLSH - Bullish Ordinary Shares
 BLST - Exchange Traded Concepts Trust Bluemonte Short Term Bond ETF
 BLSX - Investment Managers Series Trust II Tradr 2X Long BLSH Daily ETF
@@ -1301,6 +1301,7 @@ BMGL - Basel Medical Group Ltd - ordinary shares
 BMHL - Bluemount Holdings Limited - Class B Ordinary Shares
 BMI - Badger Meter, Inc. Common Stock
 BMN - BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest
+BMNG - Leverage Shares 2X Long BMNR Daily ETF
 BMNR - BitMine Immersion Technologies, Inc. Common Stock
 BMNU - ETF Opportunities Trust T-REX 2X Long BMNR Daily Target ETF
 BMO - Bank Of Montreal Common Stock
@@ -1479,6 +1480,7 @@ BSMV - Invesco BulletShares 2031 Municipal Bond ETF
 BSMW - Invesco BulletShares 2032 Municipal Bond ETF
 BSMY - Invesco BulletShares 2034 Municipal Bond ETF
 BSMZ - Invesco BulletShares 2035 Municipal Bond ETF
+BSOL - Bitwise Solana Staking ETF Bitwise Solana Staking ETF
 BSR - Northern Lights Fund Trust II Beacon Selective Risk ETF
 BSRR - Sierra Bancorp - Common Stock
 BSSX - Invesco BulletShares 2033 Municipal Bond ETF
@@ -1601,6 +1603,7 @@ BXMX - Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest
 BXP - BXP, Inc. Common Stock
 BXSL - Blackstone Secured Lending Fund Common Shares of Beneficial Interest
 BY - Byline Bancorp, Inc. Common Stock
+BYAH - Park Ha Biological Technology Co., Ltd. - ordinary shares
 BYD - Boyd Gaming Corporation Common Stock
 BYFC - Broadway Financial Corporation - Class A Common Stock
 BYLD - iShares Yield Optimized Bond ETF
@@ -2916,6 +2919,7 @@ DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
 DYCQ - DT Cloud Acquisition Corporation - Ordinary shares
+DYCQR - DT Cloud Acquisition Corporation - Right
 DYCQU - DT Cloud Acquisition Corporation - Unit
 DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
@@ -4048,6 +4052,7 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
+FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4269,6 +4274,8 @@ GIPR - Generation Income Properties Inc. - Common stock
 GIPRW - Generation Income Properties Inc. - Warrant
 GIS - General Mills, Inc. Common Stock
 GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
+GIW - GigCapital8 Corp. - Class A Ordinary Shares
+GIWWR - GigCapital8 Corp. - Rights
 GIWWU - GigCapital8 Corp. - Units
 GJAN - FT Vest U.S. Equity Moderate Buffer ETF - January
 GJH - Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1
@@ -4342,6 +4349,7 @@ GMM - Global Mofy AI Limited  - Class A Ordinary Shares
 GMMA - Tidal Trust III GammaRoad Market Navigation ETF
 GMMF - BlackRock ETF Trust iShares Government Money Market ETF
 GMNY - Goldman Sachs ETF Trust Goldman Sachs Dynamic New York Municipal Income ETF
+GMOC - The 2023 ETF Series Trust II GMO Ultra-Short Income ETF
 GMOD - The 2023 ETF Series Trust II GMO Dynamic Allocation ETF
 GMOI - The 2023 ETF Series Trust II GMO International Value ETF
 GMOM - Cambria Global Momentum ETF
@@ -4803,6 +4811,7 @@ HSPOR - Horizon Space Acquisition I Corp. - Right
 HSPOU - Horizon Space Acquisition I Corp. - Unit
 HSPOW - Horizon Space Acquisition I Corp. - Warrant
 HSPT - Horizon Space Acquisition II Corp. - Ordinary share
+HSPTR - Horizon Space Acquisition II Corp. - Right
 HSPTU - Horizon Space Acquisition II Corp. - Units
 HST - Host Hotels & Resorts, Inc. - Common Stock
 HSTM - HealthStream, Inc. - Common Stock
@@ -5879,6 +5888,7 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
+KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - ETF Opportunities Trust T-REX 2X Long KTOS Daily Target ETF
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -6648,7 +6658,9 @@ MPA - Blackrock MuniYield Pennsylvania Quality Fund Common Stock
 MPAA - Motorcar Parts of America, Inc. - Common Stock
 MPB - Mid Penn Bancorp - Common Stock
 MPC - Marathon Petroleum Corporation Common Stock
+MPG - Leverage Shares 2X Long MP Daily ETF
 MPL - Tidal Trust II Defiance Daily Target 2X Long MP ETF
+MPLT - MapLight Therapeutics, Inc. - Common Stock
 MPLX - MPLX LP Common Units Representing Limited Partner Interests
 MPLY - Strategy Shares Monopoly ETF
 MPRO - Monarch ProCap Index ETF
@@ -6898,6 +6910,7 @@ NBFC - Neuberger Berman ETF Trust Neuberger Berman Flexible Credit Income ETF
 NBGX - Neuberger Berman ETF Trust Neuberger Berman Growth ETF
 NBH - Neuberger Berman Municipal Fund Inc. Common Stock
 NBHC - National Bank Holdings Corporation Common Stock
+NBIG - Leverage Shares 2X Long NBIS Daily ETF
 NBIL - GraniteShares 2x Long NBIS Daily ETF
 NBIS - Nebius Group N.V. - Class A Ordinary Shares
 NBIX - Neurocrine Biosciences, Inc. - Common Stock
@@ -7833,7 +7846,6 @@ PHDG - Invesco S&P 500 Downside Hedged ETF
 PHEQ - Morgan Stanley ETF Trust Parametric Hedged Equity ETF
 PHG - Koninklijke Philips N.V. NY Registry Shares
 PHGE - BiomX Inc. COmmon Stock
-PHH - Park Ha Biological Technology Co., Ltd. - ordinary shares
 PHI - PLDT Inc. Sponsored ADR
 PHIN - PHINIA Inc. Common Stock
 PHIO - Phio Pharmaceuticals Corp. - Common Stock
