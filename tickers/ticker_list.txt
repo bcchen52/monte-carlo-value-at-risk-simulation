@@ -172,7 +172,6 @@ ADV - Advantage Solutions Inc.  - Class A Common Stock
 ADVB - Advanced Biomed Inc. - Common Stock
 ADVE - Matthews International Funds Matthews Asia Dividend Active ETF
 ADVM - Adverum Biotechnologies, Inc. - Common Stock
-ADVWW - Advantage Solutions Inc.  - Warrant
 ADX - Adams Diversified Equity Fund Inc.
 ADXN - Addex Therapeutics Ltd - American Depositary Shares
 AEBI - Aebi Schmidt Holding AG - Common Stock
@@ -411,7 +410,6 @@ AMAT - Applied Materials, Inc. - Common Stock
 AMAX - Adaptive Hedged Multi-Asset Income ETF
 AMBA - Ambarella, Inc. - Ordinary Shares
 AMBC - Ambac Financial Group, Inc. Common Stock
-AMBI - Ambipar Emergency Response Class A Ordinary Shares
 AMBO - Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares)
 AMBP - Ardagh Metal Packaging S.A. Ordinary Shares
 AMBQ - Ambiq Micro, Inc. Common Stock
@@ -575,6 +573,7 @@ APUS - Apimeds Pharmaceuticals US, Inc. Common Stock
 APVO - Aptevo Therapeutics Inc. - Common Stock
 APWC - Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share
 APXM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - April
+APXTU - Apex Treasury Corporation - Units
 APYX - Apyx Medical Corporation - Common Stock
 AQB - AquaBounty Technologies, Inc. - Common Stock
 AQLT - iShares Trust iShares MSCI Global Quality Factor ETF
@@ -757,6 +756,7 @@ ATRA - Atara Biotherapeutics, Inc. - Common Stock
 ATRC - AtriCure, Inc. - Common Stock
 ATRO - Astronics Corporation - Common Stock
 ATS - ATS Corporation Common Shares
+ATTR - EA Series Trust Arin Tactical Tail Risk ETF
 ATUS - Altice USA, Inc. Class A Common Stock
 ATXG - Addentax Group Corp. - Common Stock
 ATXS - Astria Therapeutics, Inc. - Common Stock
@@ -1763,7 +1763,6 @@ CCL - Carnival Corporation Common Stock
 CCLD - CareCloud, Inc. - Common Stock
 CCLDO - CareCloud, Inc. - 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock
 CCM - Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)
-CCMG - EA Series Trust CCM Global Equity ETF
 CCNE - CNB Financial Corporation - Common Stock
 CCNEP - CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock
 CCNR - ALPS/CoreCommodity Natural Resources ETF
@@ -3317,7 +3316,7 @@ ETD - Ethan Allen Interiors Inc. Common Stock
 ETEC - iShares Breakthrough Environmental Solutions ETF
 ETG - Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest
 ETH - Grayscale Ethereum Mini Trust (ETH) Common units of fractional undivided beneficial interest
-ETHA - iShares Ethereum Trust - iShares Ethereum Trust ETF
+ETHA - iShares Ethereum Trust ETF
 ETHD - ProShares Trust ProShares UltraShort Ether ETF
 ETHE - Grayscale Ethereum Trust (ETH) Common units of fractional undivided beneficial interest
 ETHI - Defiance Leveraged Long Income Ethereum ETF
@@ -3707,7 +3706,6 @@ FIGXU - FIGX Capital Acquisition Corp. - Units
 FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIHL - Fidelis Insurance Holdings Limited Common Shares
 FIIG - First Trust Exchange-Traded Fund IV First Trust Intermediate Duration Investment Grade Corporate ETF
-FILL - iShares MSCI Global Energy Producers Fund
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
 FINT - The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF
 FINV - FinVolution Group American Depositary Shares
@@ -4493,6 +4491,7 @@ GSKH - Precidian ETFs Trust GSK plc ADRhedged
 GSL - Global Ship Lease Inc New Class A Common Shares
 GSLC - Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF
 GSM - Ferroglobe PLC - Ordinary Shares
+GSOL - Grayscale Solana Trust ETF Grayscale Solana Trust ETF Shares
 GSPY - Gotham Enhanced 500 ETF
 GSRF - GSR IV Acquisition Corp. - Class A ordinary share
 GSRFR - GSR IV Acquisition Corp. - Rights
@@ -4601,6 +4600,7 @@ HBIO - Harvard Bioscience, Inc. - Common Stock
 HBM - Hudbay Minerals Inc. Ordinary Shares (Canada)
 HBNB - Hotel101 Global Holdings Corp. - Class A Ordinary Shares
 HBNC - Horizon Bancorp, Inc. - Common Stock
+HBR - Canary HBAR ETF
 HBT - HBT Financial, Inc. - Common Stock
 HBTA - Horizon Funds Horizon Expedition Plus ETF
 HBTC - Listed Funds Trust Fortuna Hedged Bitcoin Fund
@@ -4749,9 +4749,6 @@ HOLX - Hologic, Inc. - Common Stock
 HOMB - Home BancShares, Inc. Common Stock
 HOMZ - Hoya Capital Housing ETF
 HON - Honeywell International Inc. - Common Stock
-HOND - HCM II Acquisition Corp. - Class A Ordinary Shares
-HONDU - HCM II Acquisition Corp. - Unit
-HONDW - HCM II Acquisition Corp. - Warrant
 HONE - HarborOne Bancorp, Inc. - Common Stock
 HONIV - Honeywell International Inc. - Common Stock Ex Distribution When Issued
 HOOD - Robinhood Markets, Inc. - Class A Common Stock
@@ -4979,7 +4976,7 @@ IBIJ - iShares Trust iShares iBonds Oct 2033 Term TIPS ETF
 IBIK - iShares Trust iShares iBonds Oct 2034 Term TIPS ETF
 IBIL - iShares Trust iShares iBonds Oct 2035 Term TIPS ETF
 IBIO - iBio, Inc. - Common Stock
-IBIT - iShares Bitcoin Trust ETF - iShares Bitcoin Trust ETF
+IBIT - iShares Bitcoin Trust ETF
 IBKR - Interactive Brokers Group, Inc. - Class A Common Stock
 IBLC - iShares Trust iShares Blockchain and Tech ETF
 IBM - International Business Machines Corporation Common Stock
@@ -5189,6 +5186,8 @@ IMPPP - Imperial Petroleum Inc. - 8.75% Series A Cumulative Redeemable Perpetual
 IMRA - Bitwise Funds Trust Bitwise MARA Option Income Strategy ETF
 IMRN - Immuron Limited - American Depositary Shares
 IMRX - Immuneering Corporation - Class A Common Stock
+IMSR - Terrestrial Energy Inc. - Common Stock
+IMSRW - Terrestrial Energy Inc. - Warrant
 IMST - Bitwise Funds Trust Bitwise MSTR Option Income Strategy ETF
 IMTB - iShares Core 5-10 Year USD Bond ETF
 IMTE - Integrated Media Technology Limited - Ordinary Shares
@@ -6116,6 +6115,7 @@ LNAI - Lunai Bioworks Inc. - Common Stock
 LNC - Lincoln National Corporation Common Stock
 LND - Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
 LNG - Cheniere Energy, Inc. Common Stock
+LNGX - Global X Funds Global X U.S. Natural Gas ETF
 LNKB - LINKBANCORP, Inc. - Common Stock
 LNKS - Linkers Industries Limited - Class A Ordinary Shares
 LNN - Lindsay Corporation Common Stock
@@ -6208,6 +6208,7 @@ LSTR - Landstar System, Inc. - Common Stock
 LSVD - The Advisors Inner Circle Fund LSV Disciplined Value ETF
 LTBR - Lightbridge Corporation - Common Stock
 LTC - LTC Properties, Inc. Common Stock
+LTCC - Canary Litecoin ETF
 LTH - Life Time Group Holdings, Inc. Common Stock
 LTL - ProShares Ultra Communication Services
 LTM - LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)
@@ -6930,7 +6931,7 @@ NCA - Nuveen California Municipal Value Fund
 NCDL - Nuveen Churchill Direct Lending Corp. Common Stock
 NCEW - New Century Logistics (BVI) Limited - Ordinary Shares
 NCI - Neo-Concept International Group Holdings Limited - Class A Ordinary Shares
-NCIQ - Hashdex Nasdaq Crypto Index US ETF - Hashdex Nasdaq Crypto Index US ETF
+NCIQ - Hashdex Nasdaq Crypto Index US ETF
 NCL - Northann Corp. Common Stock
 NCLH - Norwegian Cruise Line Holdings Ltd. Ordinary Shares
 NCLO - NuShares ETF Trust Nuveen AA-BBB CLO ETF
@@ -8005,6 +8006,7 @@ PONY - Pony AI Inc. - American Depositary Shares
 POOL - Pool Corporation - Common Stock
 POR - Portland General Electric Co Common Stock
 POST - Post Holdings, Inc. Common Stock
+POW - Tidal Trust III VistaShares Electrification Supercycle ETF
 POWA - Invesco Bloomberg Pricing Power ETF
 POWI - Power Integrations, Inc. - Common Stock
 POWL - Powell Industries, Inc. - Common Stock
@@ -8849,7 +8851,7 @@ SAFE - Safehold Inc. New Common Stock
 SAFT - Safety Insurance Group, Inc. - Common Stock
 SAFX - XCF Global, Inc. - Class A Common Stock
 SAGP - The Advisors' Inner Circle Fund III Strategas Global Policy Opportunities ETF
-SAGT - SAGTEC GLOBAL LIMITED - Ordinary shares
+SAGT - SAGTEC GLOBAL LIMITED - Class A Ordinary shares
 SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
@@ -10137,7 +10139,6 @@ TRIP - TripAdvisor, Inc. - Common Stock
 TRMB - Trimble Inc. - Common Stock
 TRMD - TORM plc - Class A Common Stock
 TRMK - Trustmark Corporation - Common Stock
-TRML - Tourmaline Bio, Inc.  - Common Stock
 TRN - Trinity Industries, Inc. Common Stock
 TRND - Pacer Trendpilot Fund of Funds ETF
 TRNO - Terreno Realty Corporation Common Stock
@@ -11062,6 +11063,7 @@ XBJA - Innovator ETFs Trust Innovator U.S. Equity Accelerated 9 Buffer ETF - Jan
 XBJL - Innovator U.S. Equity Accelerated 9 Buffer ETF - July
 XBOC - Innovator U.S. Equity Accelerated 9 Buffer ETF - October
 XBP - XBP Global Holdings, Inc. - Common Stock
+XBPEW - XBP Global Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
 XC - WisdomTree True Emerging Markets Fund
 XCCC - BondBloxx ETF Trust BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
@@ -11178,6 +11180,7 @@ XPER - Xperi Inc. Common Stock
 XPEV - XPeng Inc. American depositary shares, each representing two Class A ordinary shares
 XPH - SPDR S&P Pharmaceuticals ETF
 XPL - Solitario Resources Corp. Common Stock
+XPM - Defiance Daily Target 2x Long PM ETF
 XPND - First Trust Expanded Technology ETF
 XPO - XPO, Inc. Common Stock
 XPOF - Xponential Fitness, Inc. Class A Common Stock
@@ -11378,5 +11381,4 @@ ZVRA - Zevra Therapeutics, Inc.  - Common Stock
 ZWS - Zurn Elkay Water Solutions Corporation Common Stock
 ZYBT - Zhengye Biotechnology Holding Limited - Ordinary Shares
 ZYME - Zymeworks Inc. - Common Stock
-ZYN - Defiance Daily Target 2x Long PM ETF
 ZYXI - Zynex, Inc. - Common Stock
