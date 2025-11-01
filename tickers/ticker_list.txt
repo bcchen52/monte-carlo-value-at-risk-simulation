@@ -381,6 +381,7 @@ ALMU - Aeluma, Inc. - Common Stock
 ALNT - Allient Inc. - Common Stock
 ALNY - Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOT - AstroNova, Inc. - Common Stock
+ALPS - ALPS Group Inc - Ordinary Share
 ALRG - Allspring Exchange-Traded Funds Trust Allspring LT Large Core ETF
 ALRM - Alarm.com Holdings, Inc. - Common Stock
 ALRS - Alerus Financial Corporation - Common Stock
@@ -1040,7 +1041,6 @@ BDIV - ETF Series Solutions AAM Brentview Dividend Growth ETF
 BDJ - Blackrock Enhanced Equity Dividend Trust
 BDL - Flanigan's Enterprises, Inc. Common Stock
 BDMD - Baird Medical Investment Holdings Ltd - Ordinary Share
-BDMDW - Baird Medical Investment Holdings Ltd - Warrant
 BDN - Brandywine Realty Trust Common Stock
 BDRX - Biodexa Pharmaceuticals plc - American Depositary Shares
 BDRY - Amplify Commodity Trust Breakwave Dry Bulk Shipping ETF
@@ -1102,7 +1102,6 @@ BFRE - Ultimus Managers Trust Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
-BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator ETFs Trust Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
@@ -1127,6 +1126,7 @@ BGRN - iShares USD Green Bond ETF
 BGRO - iShares Large Cap Growth Active ETF
 BGS - B&G Foods, Inc. Common Stock
 BGSF - BGSF, Inc. Common Stock
+BGSI - Boyd Group Services Inc. Common Shares
 BGT - BlackRock Floating Rate Income Trust
 BGX - Blackstone Long Short Credit Income Fund Common Shares
 BGY - Blackrock Enhanced International Dividend Trust
@@ -1281,7 +1281,9 @@ BLV - Vanguard Long-Term Bond ETF
 BLW - Blackrock Limited Duration Income Trust
 BLX - Banco Latinoamericano de Comercio Exterior, S.A.
 BLZE - Backblaze, Inc. - Common Stock
+BLZR - Trailblazer Acquisition Corp. - Class A Ordinary Shares
 BLZRU - Trailblazer Acquisition Corp. - Unit
+BLZRW - Trailblazer Acquisition Corp. - Warrant
 BMA - Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
 BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAX - REX Bitcoin Corporate Treasury Convertible Bond ETF
@@ -3279,7 +3281,6 @@ ESGLW - ESGL Holdings Limited - Warrants
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESHA - ESH Acquisition Corp. - Class A Common Stock
-ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
 ESK - ETF Opportunities Trust REX-Osprey ETH + Staking ETF
@@ -5902,6 +5903,7 @@ KXI - iShares Global Consumer Staples ETF
 KXIN - Kaixin Holdings - Ordinary Shares
 KYIV - Kyivstar Group Ltd. - Common Shares
 KYIVW - Kyivstar Group Ltd. - Warrant
+KYLD - Kurv ETF Trust Kurv High Income ETF
 KYMR - Kymera Therapeutics, Inc. - Common Stock
 KYN - Kayne Anderson Energy Infrastructure Fund, Inc.
 KYTX - Kyverna Therapeutics, Inc. - Common Stock
@@ -7072,6 +7074,7 @@ NMAR - Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - March
 NMAX - Newsmax, Inc. Class B Common Stock
 NMAY - Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - May
 NMB - Simplify Exchange Traded Funds Simplify National Muni Bond ETF
+NMBL - Tidal Trust III NovaTide Flexible Allocation ETF
 NMCO - Nuveen Municipal Credit Opportunities Fund Common Shares
 NMFC - New Mountain Finance Corporation - Common Stock
 NMFCZ - New Mountain Finance Corporation - 8.250% Notes due 2028
@@ -7116,6 +7119,7 @@ NOEMW - CO2 Energy Transition Corp. - Warrant
 NOG - Northern Oil and Gas, Inc. Common Stock
 NOK - Nokia Corporation Sponsored American Depositary Shares
 NOM - Nuveen Missouri Quality Municipal Income Fund 
+NOMA - NOMADAR Corp. - Class A Common Stock
 NOMD - Nomad Foods Limited Ordinary Shares
 NORW - Global X MSCI Norway ETF
 NOTE - FiscalNote Holdings, Inc. Class A common stock
@@ -8051,7 +8055,6 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
-PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - SPDR SSGA IG Public & Private Credit ETF
@@ -8223,7 +8226,6 @@ PZA - Invesco National AMT-Free Municipal Bond ETFo
 PZG - Paramount Gold Nevada Corp. Common Stock
 PZT - Invesco New York AMT-Free Municipal Bond ETF
 PZZA - Papa John's International, Inc. - Common Stock
-Q.V - Qnity Electronics, Inc. Common Stock When-Issued
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
 QAI - NYLI Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
@@ -9516,6 +9518,7 @@ SPYD - State Street SPDR Portfolio S&P 500 High Dividend ETF
 SPYG - State Street SPDR Portfolio S&P 500 Growth ETF
 SPYH - NEOS ETF Trust NEOS S&P 500 Hedged Equity Income ETF
 SPYI - NEOS S&P 500 High Income ETF
+SPYM - State Street SPDR Portfolio S&P 500 ETF
 SPYQ - Tradr 2X Long SPY Quarterly ETF
 SPYT - Tidal Trust II Defiance S&P 500 Target Income ETF
 SPYU - Bank Of Montreal MAX S&P 500 4X Leveraged ETNs due October 30, 2043
@@ -10370,6 +10373,7 @@ ULH - Universal Logistics Holdings, Inc. - Common Stock
 ULS - UL Solutions Inc. Class A Common Stock
 ULST - State Street Ultra Short Term Bond ETF
 ULTA - Ulta Beauty, Inc. - Common Stock
+ULTI - REX IncomeMax Option Strategy ETF
 ULTY - Tidal Trust II YieldMax Ultra Option Income Strategy ETF
 ULVM - VictoryShares US Value Momentum ETF
 ULY - Urgent.ly Inc. - Common Stock
