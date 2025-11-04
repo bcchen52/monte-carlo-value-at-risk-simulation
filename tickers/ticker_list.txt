@@ -1329,7 +1329,6 @@ BNH - Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080
 BNJ - Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes
 BNKD - Bank Of Montreal MicroSectors  U.S. Big Banks -3  Inverse Leveraged ETNs due February 17, 2045
 BNKK - Bonk, Inc. - Common Stock
-BNKKW - Bonk, Inc. - Warrant
 BNKU - Bank Of Montreal MicroSectors  U.S. Big Banks 3  Leveraged ETNs due February 17, 2045
 BNL - Broadstone Net Lease, Inc. Common Stock
 BNO - United States Brent Oil Fund, LP ETV
@@ -1369,8 +1368,6 @@ BOTT - Themes Humanoid Robotics ETF
 BOTZ - Global X Robotics & Artificial Intelligence ETF
 BOUT - Innovator IBD Breakout Opportunities ETF
 BOW - Bowhead Specialty Holdings Inc. Common Stock
-BOWN - Bowen Acquisition Corp - Ordinary Shares
-BOWNU - Bowen Acquisition Corp - Unit
 BOX - Box, Inc. Class A Common Stock
 BOXA - EA Series Trust Alpha Architect Aggregate Bond ETF
 BOXL - Boxlight Corporation - Class A Common Stock
@@ -1746,7 +1743,6 @@ CCG - Cheche Group Inc. - Class A Ordinary Shares
 CCGWW - Cheche Group Inc. - Warrant
 CCHH - CCH Holdings Ltd - Ordinary Shares
 CCI - Crown Castle Inc. Common Stock
-CCIA - Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028
 CCIF - Carlyle Credit Income Fund Shares of Beneficial Interest
 CCII - Cohen Circle Acquisition Corp. II - Class A Ordinary Shares
 CCIIU - Cohen Circle Acquisition Corp. II - Unit
@@ -1807,7 +1803,7 @@ CEFA - Global X S&P Catholic Values Developed ex-U.S. ETF
 CEFD - ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN
 CEFS - Saba Closed-End Funds ETF
 CEFZ - Elevation Series Trust RiverNorth Active Income ETF
-CEG - Constellation Energy Corporation - Common Stock
+CEG - Constellation Energy Corporation - Common Stock When-Issued
 CEGX - Tradr 2X Long CEG Daily ETF
 CELC - Celcuity Inc. - Common Stock
 CELH - Celsius Holdings, Inc. - Common Stock
@@ -1846,7 +1842,6 @@ CFLT - Confluent, Inc. - Class A Common Stock
 CFND - C1 Fund Inc. Common Stock
 CFO - VictoryShares US 500 Enhanced Volatility Wtd ETF
 CFR - Cullen/Frost Bankers, Inc. Common Stock
-CFSB - CFSB Bancorp, Inc. - Common Stock
 CG - The Carlyle Group Inc. - Common Stock
 CGABL - The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061
 CGAU - Centerra Gold Inc. Common Shares
@@ -2524,6 +2519,7 @@ DDC - DDC Enterprise Limited Class A Ordinary Shares
 DDD - 3D Systems Corporation Common Stock
 DDEC - FT Vest U.S. Equity Deep Buffer ETF - December
 DDFL - Innovator ETFs Trust Innovator Equity Dual Directional 15 Buffer ETF - July
+DDFN - Innovator ETFs Trust Innovator Equity Dual Directional 15 Buffer ETF - November
 DDFO - Innovator ETFs Trust Innovator Equity Dual Directional 15 Buffer ETF - October
 DDFS - Innovator ETFs Trust Innovator Equity Dual Directional 15 Buffer ETF - September
 DDI - DoubleDown Interactive Co., Ltd. - American Depository Shares
@@ -2535,6 +2531,7 @@ DDOG - Datadog, Inc. - Class A Common Stock
 DDS - Dillard's, Inc. Common Stock
 DDT - Dillard's Capital Trust I
 DDTL - Innovator ETFs Trust Innovator Equity Dual Directional 10 Buffer ETF - July
+DDTN - Innovator ETFs Trust Innovator Equity Dual Directional 10 Buffer ETF - November
 DDTO - Innovator ETFs Trust Innovator Equity Dual Directional 10 Buffer ETF - October
 DDTS - Innovator ETFs Trust Innovator Equity Dual Directional 10 Buffer ETF - September
 DDWM - WisdomTree Dynamic International Equity Fund
@@ -3130,6 +3127,7 @@ EMA - Emera Incorporated Common Shares
 EMB - iShares J.P. Morgan USD Emerging Markets Bond ETF
 EMBC - Embecta Corp. - Common Stock
 EMBD - Global X Emerging Markets Bond ETF
+EMBJ - Embraer S.A. Common Stock
 EMBX - VanEck Funds VanEck Emerging Markets Bond ETF
 EMC - Global X Funds Global X Emerging Markets Great Consumer ETF
 EMCB - WisdomTree Emerging Markets Corporate Bond Fund
@@ -3249,7 +3247,6 @@ EQRR - ProShares Equities for Rising Rates ETF
 EQS - Equus Total Return, Inc. Common Stock
 EQT - EQT Corporation Common Stock
 EQTY - Valued Advisers Trust Kovitz Core Equity ETF
-EQV - EQV Ventures Acquisition Corp. Class A Ordinary Shares
 EQWL - Invesco S&P 100 Equal Weight ETF
 EQX - Equinox Gold Corp. Common Shares
 ERAS - Erasca, Inc. - Common Stock
@@ -3259,7 +3256,6 @@ ERH - Allspring Utilities and High Income Fund Common Shares
 ERIC - Ericsson - American Depositary Shares each representing 1 underlying Class B share
 ERIE - Erie Indemnity Company - Class A Common Stock
 ERII - Energy Recovery, Inc. - Common Stock
-ERJ - Embraer S.A. Common Stock
 ERNA - Ernexa Therapeutics Inc. - Common Stock
 ERNZ - TrueShares Active Yield ETF
 ERO - Ero Copper Corp. Common Shares
@@ -3281,6 +3277,7 @@ ESGLW - ESGL Holdings Limited - Warrants
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESHA - ESH Acquisition Corp. - Class A Common Stock
+ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
 ESK - ETF Opportunities Trust REX-Osprey ETH + Staking ETF
@@ -3348,6 +3345,7 @@ EUDAW - Euda Health Holdings Limited - Warrant
 EUDG - WisdomTree Europe Quality Dividend Growth Fund
 EUDV - ProShares MSCI Europe Dividend Growers ETF
 EUFN - iShares MSCI Europe Financials ETF
+EUHY - iShares Euro High Yield Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
@@ -4011,6 +4009,7 @@ FTSD - Franklin Short Duration U.S. Government ETF
 FTSL - First Trust Senior Loan Fund
 FTSM - First Trust Enhanced Short Maturity ETF
 FTV - Fortive Corporation Common Stock 
+FTW - EQV Ventures Acquisition Corp. Class A Ordinary Shares
 FTWO - Strive Natural Resources and Security ETF
 FTXG - First Trust Nasdaq Food & Beverage ETF
 FTXH - First Trust Nasdaq Pharmaceuticals ETF
@@ -4745,7 +4744,6 @@ HOLX - Hologic, Inc. - Common Stock
 HOMB - Home BancShares, Inc. Common Stock
 HOMZ - Hoya Capital Housing ETF
 HON - Honeywell International Inc. - Common Stock
-HONE - HarborOne Bancorp, Inc. - Common Stock
 HOOD - Robinhood Markets, Inc. - Class A Common Stock
 HOOG - Leverage Shares 2X Long HOOD Daily ETF
 HOOI - Defiance Leveraged Long Income HOOD ETF
@@ -4909,7 +4907,6 @@ HYTI - First Trust Exchange-Traded Fund IV FT Vest High Yield & Target Income ET
 HYTR - Counterpoint High Yield Trend ETF
 HYUP - Xtrackers High Beta High Yield Bond ETF
 HYXF - iShares ESG Advanced High Yield Corporate Bond ETF
-HYXU - iShares International High Yield Bond ETF
 HYZD - WisdomTree Interest Rate Hedged High Yield Bond Fund
 HZO - MarineMax, Inc.  (FL) Common Stock
 IAC - IAC Inc. - Common Stock
@@ -7554,7 +7551,9 @@ OSUR - OraSure Technologies, Inc. - Common Stock
 OSW - OneSpaWorld Holdings Limited - Common Shares
 OTEX - Open Text Corporation - Common Shares
 OTF - Blue Owl Technology Finance Corp. Common Stock
+OTGA - OTG Acquisition Corp. I - Class A Ordinary Share
 OTGAU - OTG Acquisition Corp. I - Unit
+OTGAW - OTG Acquisition Corp. I - Warrants
 OTGL - OTG Latin America ETF
 OTIS - Otis Worldwide Corporation Common Stock 
 OTLK - Outlook Therapeutics, Inc. - Common Stock
@@ -7963,6 +7962,7 @@ PMMR - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - March
 PMMY - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - May
 PMN - ProMIS Neurosciences Inc. - Common Shares
 PMNT - Perfect Moment Ltd. Common Stock
+PMNV - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - November
 PMO - Putnam Municipal Opportunities Trust Common Stock
 PMOC - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - October
 PMSE - PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - September
@@ -8028,7 +8028,7 @@ PPT - Putnam Premier Income Trust Common Stock
 PPTA - Perpetua Resources Corp. - Common Shares
 PPTY - U.S. Diversified Real Estate ETF
 PQAP - PGIM Nasdaq-100 Buffer 12 ETF - April
-PQDI - Principal Spectrum Tax-Advantaged Dividend Active ETF
+PQDI - Principal Spectrum Preferred and Income ETF
 PQJA - PGIM Nasdaq-100 Buffer 12 ETF - January
 PQJL - PGIM Nasdaq-100 Buffer 12 ETF - July
 PQNT - The 2023 ETF Series Trust Pictet AI Enhanced International Equity ETF
@@ -8226,6 +8226,7 @@ PZA - Invesco National AMT-Free Municipal Bond ETFo
 PZG - Paramount Gold Nevada Corp. Common Stock
 PZT - Invesco New York AMT-Free Municipal Bond ETF
 PZZA - Papa John's International, Inc. - Common Stock
+Q - Qnity Electronics, Inc. Common Stock
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
 QAI - NYLI Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
@@ -8336,7 +8337,7 @@ QQQS - Invesco NASDAQ Future Gen 200 ETF
 QQQT - Defiance Nasdaq 100 Income Target ETF
 QQQU - Direxion Daily Magnificent 7 Bull 2X Shares
 QQQX - Nuveen NASDAQ 100 Dynamic Overwrite Fund - Closed End Fund
-QQQY - Defiance Nasdaq 100 Target 30 Income ETF
+QQQY - Defiance Nasdaq 100 Enhanced Options & 0DTE Income ETF
 QQUP - ProShares Ultra QQQ Mega
 QQWZ - Pacer Cash COWZ 100-Nasdaq 100 Rotator ETF
 QQXL - ProShares Ultra QQQ Top 30
@@ -9403,7 +9404,7 @@ SOWG - Sow Good Inc. - Common Stock
 SOXL - Direxion Daily Semiconductor Bull 3x Shares
 SOXQ - Invesco PHLX Semiconductor ETF
 SOXS - Direxion Daily Semiconductor Bear 3x Shares
-SOXX - iShares Semiconductor ETF
+SOXX - iShares PHLX SOX Semiconductor Sector Index Fund
 SOXY - Tidal Trust II YieldMax Target 12 Semiconductor Option Income ETF
 SOYB - Teucrium Soybean Fund ETV
 SPAB - State Street SPDR Portfolio Aggregate Bond ETF
