@@ -704,7 +704,7 @@ ASTX - Tradr 2X Long ASTS Daily ETF
 ASUR - Asure Software Inc - Common Stock
 ASX - ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) 
 ASYS - Amtech Systems, Inc. - Common Stock
-ATAI - ATAI Life Sciences N.V. - Common Shares
+ATAI - Atai Beckley N.V - Common Shares
 ATAT - Atour Lifestyle Holdings Limited - American Depositary Shares
 ATCH - AtlasClear Holdings, Inc. Common Stock
 ATEC - Alphatec Holdings, Inc. - Common Stock
@@ -732,7 +732,6 @@ ATLN - Atlantic International Corp. - Common Stock
 ATLO - Ames National Corporation - Common Stock
 ATLX - Atlas Lithium Corporation - Common Stock
 ATMC - AlphaTime Acquisition Corp - Ordinary Shares
-ATMCR - AlphaTime Acquisition Corp - Right
 ATMCU - AlphaTime Acquisition Corp - Unit
 ATMCW - AlphaTime Acquisition Corp - Warrant
 ATMP - iPath Select MLP ETN
@@ -1080,6 +1079,7 @@ BEPI - Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes
 BEPJ - Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes
 BERZ - MicroSectors FANG & Innovation -3x Inverse Leveraged ETN
 BESF - EA Series Trust Bastion Energy ETF
+BETA - Beta Technologies, Inc. Class A Common Stock
 BETE - ProShares Bitcoin & Ether Equal Weight ETF
 BETH - ProShares Bitcoin & Ether Market Cap Weight ETF
 BETR - Better Home & Finance Holding Company - Class A Common Stock
@@ -1743,6 +1743,7 @@ CCG - Cheche Group Inc. - Class A Ordinary Shares
 CCGWW - Cheche Group Inc. - Warrant
 CCHH - CCH Holdings Ltd - Ordinary Shares
 CCI - Crown Castle Inc. Common Stock
+CCID - Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028
 CCIF - Carlyle Credit Income Fund Shares of Beneficial Interest
 CCII - Cohen Circle Acquisition Corp. II - Class A Ordinary Shares
 CCIIU - Cohen Circle Acquisition Corp. II - Unit
@@ -1822,6 +1823,7 @@ CEPI - REX Crypto Equity Premium Income ETF
 CEPO - Cantor Equity Partners I, Inc. - Class A Ordinary Shares
 CEPT - Cantor Equity Partners II, Inc. - Class A ordinary share
 CEPU - Central Puerto S.A. American Depositary Shares (each represents ten Common Shares)
+CEPV - Cantor Equity Partners V, Inc. - Class A Ordinary Shares
 CERS - Cerus Corporation - Common Stock
 CERT - Certara, Inc. - Common Stock
 CERY - SPDR Series Trust SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF
@@ -2030,6 +2032,7 @@ CLYM - Climb Bio, Inc. - Common Stock
 CM - Canadian Imperial Bank of Commerce Common Stock
 CMA - Comerica Incorporated Common Stock
 CMBM - Cambium Networks Corporation - Ordinary Shares
+CMBO - Wayfinder Dynamic U.S. Interest Rate ETF
 CMBS - iShares CMBS Bond ETF
 CMBT - CMB.TECH NV Ordinary Shares
 CMC - Commercial Metals Company Common Stock
@@ -2417,6 +2420,7 @@ CWEB - Direxion Daily CSI China Internet Index Bull 2X Shares
 CWEN - Clearway Energy, Inc. Class C Common Stock
 CWH - Camping World Holdings, Inc. Class A Common Stock
 CWI - SPDR MSCI ACWI ex-US ETF
+CWII - REX ETF Trust REX CRWV Growth & Income ETF
 CWK - Cushman & Wakefield plc Ordinary Shares
 CWS - AdvisorShares Focused Equity ETF
 CWST - Casella Waste Systems, Inc. - Class A Common Stock
@@ -4113,7 +4117,7 @@ GBFH - GBank Financial Holdings Inc. - Common Stock
 GBIL - Goldman Sachs Access Treasury 0-1 Year ETF
 GBIO - Generation Bio Co. - Common stock
 GBLD - Invesco MSCI Green Building ETF
-GBLI - Global Indemnity Group, LLC Class A Common Stock (DE)
+GBLI - Global Indemnity Group, LLC - Class A Common Shares
 GBND - Goldman Sachs ETF Trust Goldman Sachs Core Bond ETF
 GBR - New Concept Energy, Inc Common Stock
 GBTC - Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest
@@ -4736,6 +4740,7 @@ HNVR - Hanover Bancorp, Inc. - Common Stock
 HODL - VanEck Bitcoin Trust Common Shares of Beneficial Interest
 HOFT - Hooker Furnishings Corporation - Common Stock
 HOG - Harley-Davidson, Inc. Common Stock
+HOII - REX ETF Trust REX HOOD Growth & Income ETF
 HOLA - J.P. Morgan Exchange-Traded Fund Trust JPMorgan International Hedged Equity Laddered Overlay ETF
 HOLD - Harbor ETF Trust Harbor Alpha Layering ETF
 HOLO - MicroCloud Hologram Inc. - Ordinary Shares
@@ -5284,6 +5289,7 @@ IOSP - Innospec Inc. - Common Stock
 IOT - Samsara Inc. Class A Common Stock
 IOTR - iOThree Limited - Ordinary Shares
 IOVA - Iovance Biotherapeutics, Inc. - Common Stock
+IOYY - GraniteShares YieldBOOST IONQ ETF
 IP - International Paper Company Common Stock
 IPAC - iShares Core MSCI Pacific ETF
 IPAR - Interparfums, Inc. - Common Stock
@@ -6086,6 +6092,7 @@ LKOR - FlexShares Trust FlexShares Credit-Scored US Long Corporate Bond Index Fu
 LKQ - LKQ Corporation - Common Stock
 LKSPU - Lake Superior Acquisition Corp. - Units
 LLDR - Global X Funds Global X Long-Term Treasury Ladder ETF
+LLII - REX ETF Trust REX LLY Growth & Income ETF
 LLY - Eli Lilly and Company Common Stock
 LLYVA - Liberty Media Corporation - Series A Liberty Live Common Stock
 LLYVK - Liberty Media Corporation - Series C Liberty Live Common Stock
@@ -6261,6 +6268,7 @@ M - Macy's Inc Common Stock
 MA - Mastercard Incorporated Common Stock
 MAA - Mid-America Apartment Communities, Inc. Common Stock
 MAAS - Maase Inc. - Class A Ordinary Shares
+MAAY - GraniteShares YieldBOOST MARA ETF
 MAC - Macerich Company (The) Common Stock
 MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
@@ -7305,6 +7313,7 @@ NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
 NXG - NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
 NXGL - NexGel, Inc - Common Stock
+NXGLW - NexGel, Inc - Warrant
 NXJ - Nuveen New Jersey Qualified Municipal Fund 
 NXL - Nexalin Technology, Inc. - Common Stock
 NXN - Nuveen New York Select Tax-Free Income Portfolio Common Stock
@@ -7924,6 +7933,7 @@ PLT - Defiance Leveraged Long Income PLTR ETF
 PLTA - ProShares Trust ProShares Ultra PLTR
 PLTD - Direxion Daily PLTR Bear 1X Shares
 PLTG - Leverage Shares 2X Long PLTR Daily ETF
+PLTI - REX ETF Trust REX PLTR Growth & Income ETF
 PLTK - Playtika Holding Corp. - Common Stock
 PLTM - GraniteShares Platinum Shares ETF
 PLTR - Palantir Technologies Inc. - Class A Common Stock
@@ -8055,6 +8065,7 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
+PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - SPDR SSGA IG Public & Private Credit ETF
@@ -8348,6 +8359,7 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation Class A Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
+QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSG - QuantaSing Group Limited - American Depositary Shares
 QSI - Quantum-Si Incorporated - Class A Common Stock
@@ -8854,6 +8866,7 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
+SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SAM - Boston Beer Company, Inc. (The) Common Stock
@@ -8952,6 +8965,7 @@ SCIO - First Trust Exchange-Traded Fund IV First Trust Structured Credit Income 
 SCJ - iShares MSCI Japan Sm Cap
 SCKT - Socket Mobile, Inc. - Common Stock
 SCL - Stepan Company Common Stock
+SCLS - Stoneport Advisors Commodity Long Short ETF
 SCLX - Scilex Holding Company - Common Stock
 SCLXW - Scilex Holding Company - Warrant
 SCLZ - Northern Lights Fund Trust III Swan Enhanced Dividend Income ETF
@@ -9377,6 +9391,7 @@ SOJD - Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due J
 SOJE - Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060
 SOJF - Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085
 SOL - Emeren Group Ltd American Depositary Shares, each representing 10 shares
+SOLM - Amplify ETF Trust Amplify Solana 3% Monthly Option Income ETF
 SOLR - SmartETFs Sustainable Energy II ETF
 SOLS - Solstice Advanced Materials Inc. - Common Stock
 SOLT - 2x Solana ETF
@@ -10961,6 +10976,7 @@ WMG - Warner Music Group Corp. - Class A Common Stock
 WMK - Weis Markets, Inc. Common Stock
 WMS - Advanced Drainage Systems, Inc. Common Stock
 WMT - Walmart Inc. Common Stock
+WMTI - REX ETF Trust REX WMT Growth & Income ETF
 WNC - Wabash National Corporation Common Stock
 WNEB - Western New England Bancorp, Inc. - Common Stock
 WNTR - Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF
@@ -10999,6 +11015,7 @@ WSML - iShares MSCI World Small-Cap ETF
 WSO - Watsco, Inc. Common Stock
 WSR - Whitestone REIT Common Shares
 WST - West Pharmaceutical Services, Inc. Common Stock
+WSTNU - Westin Acquisition Corp - Units
 WT - WisdomTree, Inc. Common Stock
 WTAI - WisdomTree Trust WisdomTree Artificial Intelligence and Innovation Fund
 WTBA - West Bancorporation - Common Stock
