@@ -732,6 +732,7 @@ ATLN - Atlantic International Corp. - Common Stock
 ATLO - Ames National Corporation - Common Stock
 ATLX - Atlas Lithium Corporation - Common Stock
 ATMC - AlphaTime Acquisition Corp - Ordinary Shares
+ATMCR - AlphaTime Acquisition Corp - Right
 ATMCU - AlphaTime Acquisition Corp - Unit
 ATMCW - AlphaTime Acquisition Corp - Warrant
 ATMP - iPath Select MLP ETN
@@ -1102,6 +1103,7 @@ BFRE - Ultimus Managers Trust Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
+BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator ETFs Trust Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
@@ -2179,6 +2181,7 @@ COWS - Amplify Cash Flow Dividend Leaders ETF
 COWZ - Pacer US Cash Cows 100 ETF
 COYA - Coya Therapeutics, Inc. - Common Stock
 COYY - GraniteShares YieldBOOST COIN ETF
+COZX - Investment Managers Series Trust II Tradr 2X Long CORZ Daily ETF
 CP - Canadian Pacific Kansas City Limited Common Shares
 CPA - Copa Holdings, S.A. Class A Common Stock
 CPAC - Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five Common Shares)
@@ -2539,6 +2542,7 @@ DDTN - Innovator ETFs Trust Innovator Equity Dual Directional 10 Buffer ETF - No
 DDTO - Innovator ETFs Trust Innovator Equity Dual Directional 10 Buffer ETF - October
 DDTS - Innovator ETFs Trust Innovator Equity Dual Directional 10 Buffer ETF - September
 DDWM - WisdomTree Dynamic International Equity Fund
+DDX - Defined Duration 10 ETF
 DE - Deere & Company Common Stock
 DEA - Easterly Government Properties, Inc. Common Stock
 DEC - Diversified Energy Company plc Ordinary Shares
@@ -2800,7 +2804,6 @@ DRUG - Bright Minds Biosciences Inc. - common stock
 DRUP - GraniteShares Nasdaq Select Disruptors ETF
 DRV - Direxion Daily Real Estate Bear 3X Shares
 DRVN - Driven Brands Holdings Inc. - Common Stock
-DSCF - Discipline Fund ETF
 DSEP - FT Vest U.S. Equity Deep Buffer ETF - September
 DSGN - Design Therapeutics, Inc. - Common Stock
 DSGR - Distribution Solutions Group, Inc. - Common Stock
@@ -3126,6 +3129,7 @@ ELVA - Electrovaya Inc. - Common Shares
 ELVN - Enliven Therapeutics, Inc.  - Common Stock
 ELVR - Elevra Lithium Limited - American Depository Shares
 ELWS - Earlyworks Co., Ltd. - American Depositary Shares
+ELWT - Elauwit Connection, Inc. - Common Stock
 EM - Smart Share Global Limited - American Depositary Shares
 EMA - Emera Incorporated Common Shares
 EMB - iShares J.P. Morgan USD Emerging Markets Bond ETF
@@ -3179,6 +3183,7 @@ ENFR - Alerian Energy Infrastructure ETF
 ENGN - enGene Holdings Inc. - Common Stock
 ENGNW - enGene Holdings Inc. - Warrants
 ENGS - Energys Group Limited - Ordinary Shares
+ENHU - iShares Enhanced Large Cap Core Active ETF
 ENIC - Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock)
 ENJ - Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052
 ENLT - Enlight Renewable Energy Ltd. - Ordinary Shares
@@ -3325,7 +3330,6 @@ ETHU - Volatility Shares Trust 2x Ether ETF
 ETHV - VanEck Ethereum ETF VanEck Ethereum ETF
 ETHW - Bitwise Ethereum ETF Common shares of beneficial interest
 ETHZ - ETHZilla Corporation - Common Stock
-ETHZW - ETHZilla Corporation - Warrant
 ETJ - Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest
 ETN - Eaton Corporation, PLC Ordinary Shares
 ETO - Eaton Vance Tax-Advantage Global Dividend Opp Common Stock
@@ -3529,7 +3533,7 @@ FCF - First Commonwealth Financial Corporation Common Stock
 FCFS - FirstCash Holdings, Inc. - Common Stock
 FCFY - First Trust Exchange-Traded Fund First Trust S&P 500 Diversified Free Cash Flow ETF
 FCG - First Trust Natural Gas ETF
-FCHL - Fitness Champs Holdings Limited - Common Stock
+FCHL - Fitness Champs Holdings Limited - Ordinary Shares
 FCLD - Fidelity Cloud Computing ETF
 FCN - FTI Consulting, Inc. Common Stock
 FCNCA - First Citizens BancShares, Inc. - Class A Common Stock
@@ -3836,6 +3840,7 @@ FMQQ - FMQQ The Next Frontier Internet ETF
 FMS - Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 of an Ordinary Share)
 FMST - Foremost Clean Energy Ltd. - Common Shares
 FMSTW - Foremost Clean Energy Ltd. - Warrant
+FMTL - First Trust Exchange-Traded Fund II First Trust Indxx Critical Metals ETF
 FMTM - MarketDesk Focused U.S. Momentum ETF
 FMUB - Fidelity Municipal Bond Opportunities ETF
 FMUN - Fidelity Systematic Municipal Bond Index ETF
@@ -4187,6 +4192,7 @@ GELS - Gelteq Limited - Ordinary Shares
 GEM - Goldman Sachs ActiveBeta Emerging Markets Equity ETF
 GEMD - Goldman Sachs ETF Trust Goldman Sachs Access Emerging Markets USD Bond ETF
 GEME - Pacific North of South EM Equity Active ETF
+GEMG - Leverage Shares 2X Long GEMI Daily ETF
 GEMI - Gemini Space Station, Inc. - Class A Common Stock
 GEN - Gen Digital Inc. - Common Stock
 GENC - Gencor Industries, Inc. Common Stock
@@ -5898,6 +5904,7 @@ KVUE - Kenvue Inc. Common Stock
 KVYO - Klaviyo, Inc. Series A Common Stock
 KW - Kennedy-Wilson Holdings Inc. Common Stock
 KWEB - KraneShares Trust KraneShares CSI China Internet ETF
+KWIN - KraneShares Trust KraneShares Wahed Alternative Income Index ETF
 KWM - K Wave Media, Ltd. - Ordinary Shares
 KWMWW - K Wave Media, Ltd. - Warrant
 KWR - Quaker Houghton Common Stock
@@ -6222,6 +6229,7 @@ LUCK - Lucky Strike Entertainment Corporation Class A Common Stock
 LUCY - Innovative Eyewear, Inc. - Common Stock
 LUCYW - Innovative Eyewear, Inc. - Warrants
 LUD - Luda Technology Group Limited Ordinary Shares
+LULG - Leverage Shares 2X Long LULU Daily ETF
 LULU - lululemon athletica inc. - Common Stock
 LUMN - Lumen Technologies, Inc. Common Stock
 LUNG - Pulmonx Corporation - Common Stock
@@ -6431,6 +6439,7 @@ MEDX - Horizon Kinetics Medical ETF
 MEG - Montrose Environmental Group, Inc. Common Stock
 MEGI - NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares
 MEGL - Magic Empire Global Limited - Class A Ordinary Shares
+MEHA - Functional Brands, Inc. - Common Stock
 MEI - Methode Electronics, Inc. Common Stock
 MELI - MercadoLibre, Inc. - Common Stock
 MEM - Matthews International Funds Matthews Emerging Markets Equity Active ETF
@@ -6678,7 +6687,6 @@ MQY - Blackrock MuniYield Quality Fund, Inc. Common Stock
 MRAL - GraniteShares 2x Long MARA Daily ETF
 MRAM - Everspin Technologies, Inc. - Common Stock
 MRBK - Meridian Corporation - Common Stock
-MRC - MRC Global Inc. Common Stock
 MRCC - Monroe Capital Corporation - Closed End Fund
 MRCP - PGIM S&P 500 Buffer 12 ETF - March
 MRCY - Mercury Systems Inc - Common Stock
@@ -7341,7 +7349,6 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - State Street SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
-OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -7544,6 +7551,7 @@ ORR - Militia Long/Short Equity ETF
 ORRF - Orrstown Financial Services, Inc. - Common Stock
 OS - OneStream, Inc. - Class A Common Stock
 OSBC - Old Second Bancorp, Inc. - Common Stock
+OSCG - Leverage Shares 2X Long OSCR Daily ETF
 OSCR - Oscar Health, Inc. Class A Common Stock
 OSCV - Opus Small Cap Value ETF
 OSCX - Defiance Daily Target 2x Long OSCR ETF
@@ -8091,7 +8099,7 @@ PRS - Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058
 PRSD - SSGA Active Trust State Street Short Duration IG Public & Private Credit ETF
 PRSO - Peraso Inc. - Common Stock
 PRSU - Pursuit Attractions and Hospitality, Inc. Common Stock
-PRT - PermRock Royalty Trust Trust Units
+PRT - PermRock Royalty Trust Units of Beneficial Interest
 PRTA - Prothena Corporation plc - Ordinary Shares
 PRTC - PureTech Health plc - American Depositary Shares
 PRTH - Priority Technology Holdings, Inc. - Common Stock
@@ -8203,7 +8211,7 @@ PVBC - Provident Bancorp, Inc. - Common Stock
 PVEX - Elevation Series Trust TrueShares ConVex Protect ETF
 PVH - PVH Corp. Common Stock
 PVI - Invesco Floating Rate Municipal Income ETF
-PVL - Permianville Royalty Trust Trust Units 
+PVL - Permianville Royalty Trust Units of Beneficial Interest
 PVLA - Palvella Therapeutics, Inc. - Common Stock
 PW - Power REIT (MD) Common Stock
 PWB - Invesco Large Cap Growth ETF
@@ -8440,7 +8448,7 @@ RARE - Ultragenyx Pharmaceutical Inc. - Common Stock
 RAUS - RACWI US ETF
 RAVE - Rave Restaurant Group, Inc. - Common Stock
 RAVI - FlexShares Ultra-Short Income Fund
-RAY - Raytech Holding Limited - ordinary shares
+RAY - Raytech Holding Limited - Ordinary Shares
 RAYA - Erayak Power Solution Group Inc. - Class A Ordinary Shares
 RAYC - Rayliant Quantamental China Equity ETF
 RAYD - The Advisors' Inner Circle Fund III Rayliant Quantitative Developed Market Equity ETF
@@ -10936,6 +10944,7 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
+WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHTX - Volatility Shares Trust 2x Wheat ETF
@@ -10975,6 +10984,7 @@ WMB - Williams Companies, Inc. (The) Common Stock
 WMG - Warner Music Group Corp. - Class A Common Stock
 WMK - Weis Markets, Inc. Common Stock
 WMS - Advanced Drainage Systems, Inc. Common Stock
+WMSB - Northern Lights Fund Trust II Weitz Multisector Bond ETF
 WMT - Walmart Inc. Common Stock
 WMTI - REX ETF Trust REX WMT Growth & Income ETF
 WNC - Wabash National Corporation Common Stock
@@ -11256,6 +11266,7 @@ XYLG - Global X S&P 500 Covered Call & Growth ETF
 XYZ - Block, Inc. Class A Common Stock,
 XYZG - Leverage Shares 2X Long XYZ Daily ETF
 XYZY - Tidal Trust II YieldMax XYZ Option Income Strategy ETF
+XZO - Exzeo Group, Inc. Common Stock
 YAAS - Youxin Technology Ltd - Class A Ordinary shares
 YALA - Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share
 YALL - God Bless America ETF
