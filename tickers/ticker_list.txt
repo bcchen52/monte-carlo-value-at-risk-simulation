@@ -188,6 +188,7 @@ AEO - American Eagle Outfitters, Inc. Common Stock
 AEON - AEON Biopharma, Inc. Class A Common Stock
 AEP - American Electric Power Company, Inc. - Common Stock
 AER - AerCap Holdings N.V. Ordinary Shares
+AERO - Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)
 AERT - Aeries Technology, Inc. - Class A Ordinary Share
 AERTW - Aeries Technology, Inc. - Warrant
 AES - The AES Corporation Common Stock
@@ -1259,6 +1260,7 @@ BLIV - BeLive Holdings - ordinary shares
 BLK - BlackRock, Inc. Common Stock
 BLKB - Blackbaud, Inc. - Common Stock
 BLKC - Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF
+BLLN - BillionToOne, Inc. - Class A common stock
 BLMN - Bloomin' Brands, Inc. - Common Stock
 BLMZ - Harrison Global Holdings Inc. - Ordinary Shares
 BLND - Blend Labs, Inc. Class A Common Stock
@@ -2586,6 +2588,7 @@ DFAX - Dimensional World ex U.S. Core Equity 2 ETF
 DFCA - Dimensional ETF Trust Dimensional California Municipal Bond ETF
 DFCF - Dimensional ETF Trust Dimensional Core Fixed Income ETF
 DFDV - DeFi Development Corp. - Common Stock
+DFDVW - DeFi Development Corp. - Warrant
 DFE - WisdomTree Europe SmallCap Dividend Fund
 DFEB - FT Vest U.S. Equity Deep Buffer ETF - February
 DFEM - Dimensional ETF Trust Dimensional Emerging Markets Core Equity 2 ETF
@@ -3354,6 +3357,7 @@ EUDG - WisdomTree Europe Quality Dividend Growth Fund
 EUDV - ProShares MSCI Europe Dividend Growers ETF
 EUFN - iShares MSCI Europe Financials ETF
 EUHY - iShares Euro High Yield Corporate Bond USD Hedged ETF
+EUIG - iShares Trust iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
@@ -3381,6 +3385,7 @@ EVLN - Morgan Stanley ETF Trust Eaton Vance Floating-Rate ETF
 EVLU - iShares Trust iShares MSCI Emerging Markets Value Factor ETF
 EVLV - Evolv Technologies Holdings, Inc. - Class A Common Stock
 EVLVW - Evolv Technologies Holdings, Inc. - Warrant
+EVMN - Evommune, Inc. Common Stock
 EVMO - Morgan Stanley ETF Trust Eaton Vance Mortgage Opportunities ETF
 EVMT - Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF
 EVN - Eaton Vance Municipal Income Trust Common Stock
@@ -6097,6 +6102,8 @@ LJUL - SHL Telemedicine Ltd Innovator Premium Income 15 Buffer ETF - July
 LKFN - Lakeland Financial Corporation - Common Stock
 LKOR - FlexShares Trust FlexShares Credit-Scored US Long Corporate Bond Index Fund
 LKQ - LKQ Corporation - Common Stock
+LKSP - Lake Superior Acquisition Corp. - Class A Ordinary Shares
+LKSPR - Lake Superior Acquisition Corp. - Rights
 LKSPU - Lake Superior Acquisition Corp. - Units
 LLDR - Global X Funds Global X Long-Term Treasury Ladder ETF
 LLII - REX ETF Trust REX LLY Growth & Income ETF
@@ -9692,6 +9699,7 @@ SUGP - SU Group Holdings Limited - Ordinary Shares
 SUI - Sun Communities, Inc. Common Stock
 SUIG - Sui Group Holdings Limited - Common Stock
 SUN - Sunoco LP Common Units representing limited partner interests
+SUNC - SunocoCorp LLC Common Units, representing limited liability company interests
 SUNE - SUNation Energy, Inc. - Common Stock
 SUNS - Sunrise Realty Trust, Inc. - Common Stock
 SUPL - ProShares Trust ProShares Supply Chain Logistics ETF
@@ -10604,7 +10612,6 @@ VDE - Vanguard Energy ETF
 VEA - Vanguard FTSE Developed Markets ETF
 VECO - Veeco Instruments Inc. - Common Stock
 VEEA - Veea Inc. - Common Stock
-VEEAW - Veea Inc. - Warrant
 VEEE - Twin Vee PowerCats Co. - Common Stock
 VEEV - Veeva Systems Inc. Class A Common Stock
 VEGA - AdvisorShares STAR Global Buy-Write ETF
@@ -10957,6 +10964,7 @@ WINA - Winmark Corporation - Common Stock
 WING - Wingstop Inc. - Common Stock
 WINN - Harbor ETF Trust Harbor Long-Term Growers ETF
 WIP - SPDR FTSE International Government Inflation-Protected Bond ETF
+WISD - Spend Life Wisely Funds Investment Trust Wisdom Short Duration Income ETF
 WISE - Themes Generative Artificial Intelligence ETF
 WIT - Wipro Limited Common Stock
 WIW - Western Asset Inflation-Linked Opportunities & Income Fund
