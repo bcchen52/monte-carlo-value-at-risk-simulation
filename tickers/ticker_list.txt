@@ -1899,7 +1899,6 @@ CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
-CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -2237,6 +2236,7 @@ CPZ - Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund
 CQP - Cheniere Energy Partners, LP Common Units
 CQQQ - Invesco China Technology ETF
 CR - Crane Company Common Stock
+CRACU - Crown Reserve Acquisition Corp. I - Unit
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
@@ -2645,8 +2645,6 @@ DGX - Quest Diagnostics Incorporated Common Stock
 DGXX - Digi Power X Inc. - Common Subordinate Voting Shares
 DGZ - DB Gold Short ETN due February 15, 2038
 DH - Definitive Healthcare Corp. - Class A Common Stock
-DHAI - DIH Holding US, Inc. - Class A Common Stock
-DHAIW - DIH Holding US, Inc. - Warrant
 DHC - Diversified Healthcare Trust  - Common Shares of Beneficial Interest
 DHCNI - Diversified Healthcare Trust  - 5.625% Senior Notes due 2042
 DHCNL - Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046
@@ -4805,7 +4803,6 @@ HSAI - Hesai Group - American Depositary Share, each ADS represents one Class B 
 HSBC - HSBC Holdings, plc. Common Stock
 HSBH - Precidian ETFs Trust HSBC Holdings plc ADRhedged
 HSCS - HeartSciences Inc. - Common Stock
-HSCSW - HeartSciences Inc. - Warrant
 HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
@@ -5895,7 +5892,6 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
-KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - ETF Opportunities Trust T-REX 2X Long KTOS Daily Target ETF
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -9731,7 +9727,6 @@ SVM - Silvercorp Metals Inc. Common Shares
 SVOL - Simplify Volatility Premium ETF
 SVRA - Savara, Inc. - Common Stock
 SVRE - SaverOne 2014 Ltd. - American Depositary Shares
-SVREW - SaverOne 2014 Ltd. - Warrant
 SVV - Savers Value Village, Inc. Common Stock
 SVXY - ProShares Short VIX Short Term Futures ETF
 SW - Smurfit WestRock plc Ordinary Shares
@@ -9895,6 +9890,7 @@ TDV - ProShares S&P Technology Dividend Aristocrats ETF
 TDVG - T. Rowe Price Dividend Growth ETF
 TDVI - FT Vest Technology Dividend Target Income ETF
 TDW - Tidewater Inc. Common Stock
+TDWDU - Tailwind 2.0 Acquisition Corp. - Unit
 TDY - Teledyne Technologies Incorporated Common Stock
 TE - T1 Energy Inc. Common Stock
 TEAD - Teads Holding Co. - Common Stock
@@ -10396,7 +10392,6 @@ UJB - ProShares Ultra High Yield ETF
 UJUL - Innovator U.S. Equity Ultra Buffer ETF - July
 UJUN - Innovator U.S. Equity Ultra Buffer ETF - June
 UK - Ucommune International Ltd  - Ordinary Shares
-UKOMW - Ucommune International Ltd  - Warrant
 UL - Unilever PLC Common Stock
 ULBI - Ultralife Corporation - Common Stock
 ULCC - Frontier Group Holdings, Inc. - Common Stock
@@ -10562,6 +10557,7 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
+UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -10612,6 +10608,7 @@ VDE - Vanguard Energy ETF
 VEA - Vanguard FTSE Developed Markets ETF
 VECO - Veeco Instruments Inc. - Common Stock
 VEEA - Veea Inc. - Common Stock
+VEEAW - Veea Inc. - Warrant
 VEEE - Twin Vee PowerCats Co. - Common Stock
 VEEV - Veeva Systems Inc. Class A Common Stock
 VEGA - AdvisorShares STAR Global Buy-Write ETF
