@@ -2958,7 +2958,6 @@ EBIZ - Global X E-commerce ETF
 EBMT - Eagle Bancorp Montana, Inc. - Common Stock
 EBND - SPDR Bloomberg Emerging Markets Local Bond ETF
 EBON - Ebang International Holdings Inc. - Class A Ordinary Shares
-EBR - Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share)
 EBS - Emergent BioSolutions Inc. Common Stock
 EBUF - SHL Telemedicine Ltd Innovator Emerging Markets 10 Buffer ETF - Quarterly
 EC - Ecopetrol S.A. American Depositary Shares
@@ -3117,7 +3116,7 @@ ELM - Series Portfolios Trust Elm Market Navigator ETF
 ELMD - Electromed, Inc. Common Stock
 ELME - Elme Communities Common Stock
 ELOG - Eastern International Ltd. - Ordinary Shares
-ELP - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non-voting Class B Preferred Shares)
+ELP - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares)
 ELPC - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
 ELPW - Elong Power Holding Limited - Class A Ordinary Shares
 ELS - Equity Lifestyle Properties, Inc. Common Stock
@@ -5655,7 +5654,7 @@ JRE - Janus Henderson U.S. Real Estate ETF
 JRI - Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest
 JRS - Nuveen Real Estate Income Fund Common Shares of Beneficial Interest
 JRSH - Jerash Holdings (US), Inc. - Common Stock
-JRVR - James River Group Holdings, Ltd. - Common Shares
+JRVR - James River Group Holdings, Inc. - Common Stock
 JSCP - JPMorgan Short Duration Core Plus ETF
 JSI - Janus Detroit Street Trust Janus Henderson Securitized Income ETF
 JSM - Navient Corporation - 6% Senior Notes due December 15, 2043
@@ -6056,7 +6055,7 @@ LGRO - Level Four Large Cap Growth Active ETF
 LGVN - Longeveron Inc. - Class A Common stock
 LH - Labcorp Holdings Inc. Common Stock
 LHAI - Linkhome Holdings Inc. - Common stock
-LHSW - Lianhe Sowell International Group Ltd - Ordinary Shares
+LHSW - Lianhe Sowell International Group Ltd - Class A Ordinary Shares
 LHX - L3Harris Technologies, Inc. Common Stock
 LI - Li Auto Inc. - American Depositary Shares
 LIAE - LifeX 2050 Inflation-Protected Longevity Income ETF
@@ -7281,7 +7280,6 @@ NVDW - Roundhill ETF Trust Roundhill NVDA WeeklyPay ETF
 NVDX - ETF Opportunities Trust T-Rex 2X Long NVIDIA Daily Target ETF
 NVDY - Tidal ETF Trust II YieldMax NVDA Option Income Strategy ETF
 NVEC - NVE Corporation - Common Stock
-NVFY - Nova Lifestyle, Inc - Common Stock
 NVG - Nuveen AMT-Free Municipal Credit Income Fund 
 NVGS - Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)
 NVII - REX NVDA Growth & Income ETF
@@ -9894,7 +9892,6 @@ TDWDU - Tailwind 2.0 Acquisition Corp. - Unit
 TDY - Teledyne Technologies Incorporated Common Stock
 TE - T1 Energy Inc. Common Stock
 TEAD - Teads Holding Co. - Common Stock
-TEAF - Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest
 TEAM - Atlassian Corporation  - Class A Common Stock
 TEC - Harbor ETF Trust Harbor Transformative Technologies ETF
 TECB - iShares U.S. Tech Breakthrough Multisector ETF
@@ -10392,6 +10389,7 @@ UJB - ProShares Ultra High Yield ETF
 UJUL - Innovator U.S. Equity Ultra Buffer ETF - July
 UJUN - Innovator U.S. Equity Ultra Buffer ETF - June
 UK - Ucommune International Ltd  - Ordinary Shares
+UKOMW - Ucommune International Ltd  - Warrant
 UL - Unilever PLC Common Stock
 ULBI - Ultralife Corporation - Common Stock
 ULCC - Frontier Group Holdings, Inc. - Common Stock
@@ -11262,6 +11260,7 @@ XV - Simplify Exchange Traded Funds Simplify Target 15 Distribution ETF
 XVOL - Acruence Active Hedge U.S. Equity ETF
 XVV - iShares ESG Select Screened S&P 500 ETF
 XWEL - XWELL, Inc. - Common Stock
+XWIN - XMAX, Inc. - Common Stock
 XXII - 22nd Century Group, Inc - Common Stock
 XXRP - Listed Funds Trust Teucrium 2x Long Daily XRP ETF
 XYF - X Financial American Depositary Shares, each representing six Class A Ordinary Shares
