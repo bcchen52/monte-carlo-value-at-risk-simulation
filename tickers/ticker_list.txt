@@ -857,6 +857,7 @@ AWX - Avalon Holdings Corporation Common Stock
 AX - Axos Financial, Inc. Common Stock
 AXG - Solowin Holdings - Class A Ordinary Share
 AXGN - Axogen, Inc. - Common Stock
+AXIA - AXIA Energia American Depositary Shares (Each representing one Common Share)
 AXIL - AXIL Brands, Inc. Common Stock
 AXIN - Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares
 AXINR - Axiom Intelligence Acquisition Corp 1 - Right
@@ -1042,6 +1043,7 @@ BDIV - ETF Series Solutions AAM Brentview Dividend Growth ETF
 BDJ - Blackrock Enhanced Equity Dividend Trust
 BDL - Flanigan's Enterprises, Inc. Common Stock
 BDMD - Baird Medical Investment Holdings Ltd - Ordinary Share
+BDMDW - Baird Medical Investment Holdings Ltd - Warrant
 BDN - Brandywine Realty Trust Common Stock
 BDRX - Biodexa Pharmaceuticals plc - American Depositary Shares
 BDRY - Amplify Commodity Trust Breakwave Dry Bulk Shipping ETF
@@ -2161,6 +2163,7 @@ COPP - Sprott Copper Miners ETF
 COPX - Global X Copper Miners ETF
 COPY - The RBB Fund Trust Tweedy, Browne Insider + Value ETF
 COR - Cencora, Inc. Common Stock
+CORB - AB Active ETFs, Inc. AB Core Bond ETF
 CORD - ETF Opportunities Trust T-REX 2X Inverse CRWV Daily Target ETF
 CORN - Teucrium Corn Fund ETV
 CORO - iShares International Country Rotation Active ETF
@@ -3688,7 +3691,6 @@ FHLC - Fidelity MSCI Health Care Index ETF
 FHN - First Horizon Corporation Common Stock
 FHTX - Foghorn Therapeutics Inc. - Common Stock
 FHYS - Federated Hermes ETF Trust Federated Hermes Short Duration High Yield ETF
-FI - Fiserv, Inc. Common Stock
 FIAT - Tidal Trust II YieldMax Short COIN Option Income Strategy ETF
 FIAX - Tidal ETF Trust II Nicholas Fixed Income Alternative ETF
 FIBK - First Interstate BancSystem, Inc. - Common Stock
@@ -4005,11 +4007,15 @@ FTK - Flotek Industries, Inc. Common Stock
 FTKI - First Trust Exchange-Traded Fund VI First Trust Small Cap BuyWrite Income ETF
 FTLF - FitLife Brands, Inc. - Common Stock
 FTLS - First Trust Long/Short Equity
+FTMA - Putnam ETF Trust Franklin Massachusetts Municipal Income ETF
 FTMH - Putnam ETF Trust Franklin Municipal High Yield ETF
+FTMN - Putnam ETF Trust Franklin Minnesota Municipal Income ETF
 FTMS - Putnam ETF Trust Franklin Short-Term Municipal Income ETF
 FTMU - Putnam ETF Trust Franklin Municipal Income ETF
 FTNT - Fortinet, Inc. - Common Stock
 FTNY - Putnam ETF Trust Franklin New York Municipal Income ETF
+FTOH - Putnam ETF Trust Franklin Ohio Municipal Income ETF
+FTPA - Putnam ETF Trust Franklin Pennsylvania Municipal Income ETF
 FTQI - First Trust Nasdaq BuyWrite Income ETF
 FTRB - Federated Hermes ETF Trust Federated Hermes Total Return Bond ETF
 FTRE - Fortrea Holdings Inc. - Common Stock
@@ -4539,7 +4545,6 @@ GTY - Getty Realty Corporation Common Stock
 GUG - Guggenheim Active Allocation Fund Common Shares of Beneficial Interest
 GUMI - Goldman Sachs ETF Trust Goldman Sachs Ultra Short Municipal Income ETF
 GUNR - FlexShares Global Upstream Natural Resources Index Fund ETF
-GURE - Gulf Resources, Inc. - Common Stock
 GURU - Global X Guru Index ETF
 GUSA - Goldman Sachs ETF Trust II Goldman Sachs MarketBeta U.S. 1000 Equity ETF
 GUSH - Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares
@@ -4661,6 +4666,7 @@ HEQ - John Hancock Diversified Income Fund Common Shares of Beneficial Interest
 HEQQ - JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF
 HEQT - Simplify Hedged Equity ETF
 HERD - Pacer Cash Cows Fund of Funds ETF
+HERE - Here Group Limited - American Depositary Shares
 HERO - Global X Video Games & Esports ETF
 HERZ - Herzfeld Credit Income Fund, Inc.  - Closed End Fund
 HESM - Hess Midstream LP Class A Representing Limited Partner Interests
@@ -5942,7 +5948,9 @@ LAR - Lithium Argentina AG Common Shares
 LARK - Landmark Bancorp Inc. - Common Stock
 LASE - Laser Photonics Corporation - Common Stock
 LASR - nLIGHT, Inc. - Common Stock
+LATA - Galata Acquisition Corp. II - Class A Ordinary Shares
 LATAU - Galata Acquisition Corp. II - Units
+LATAW - Galata Acquisition Corp. II - Warrant
 LAUR - Laureate Education, Inc. - Common Stock
 LAW - CS Disco, Inc. Common Stock
 LAWR - Robot Consulting Co., Ltd. - ADS
@@ -7343,6 +7351,7 @@ NXXT - NextNRG, Inc. - Common Stock
 NYAX - Nayax Ltd. - Ordinary Shares
 NYC - American Strategic Investment Co. Class A Common Stock
 NYF - iShares New York Muni Bond ETF
+NYM - AB Active ETFs, Inc. AB New York Intermediate Municipal ETF
 NYT - New York Times Company (The) Common Stock
 NYXH - Nyxoah SA - Ordinary Shares
 NZAC - SPDR MSCI ACWI Climate Paris Aligned ETF
@@ -8370,7 +8379,6 @@ QS - QuantumScape Corporation Class A Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
 QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
-QSG - QuantaSing Group Limited - American Depositary Shares
 QSI - Quantum-Si Incorporated - Class A Common Stock
 QSIAW - Quantum-Si Incorporated - Warrant
 QSIG - WisdomTree U.S. Short Term Corporate Bond Fund
@@ -8892,6 +8900,7 @@ SAR - Saratoga Investment Corp New
 SARK - Tradr 1X Short Innovation Daily ETF
 SARO - StandardAero, Inc. Common Stock
 SAT - Saratoga Investment Corp 6.00% Notes due 2027
+SATA - Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock
 SATL - Satellogic Inc. - Class A Common Stock
 SATLW - Satellogic Inc. - Warrant
 SATO - Invesco Alerian Galaxy Crypto Economy ETF
@@ -9072,6 +9081,7 @@ SETH - ProShares Short Ether ETF
 SETM - Sprott Critical Materials ETF
 SEV - Aptera Motors Corp. - Class B Common Stock
 SEVN - Seven Hills Realty Trust  - Common Stock
+SEVNR - Seven Hills Realty Trust  - Right
 SEZL - Sezzle Inc. - Common Stock
 SF - Stifel Financial Corporation Common Stock
 SFB - Stifel Financial Corporation 5.20% Senior Notes due 2047
@@ -9725,6 +9735,7 @@ SVM - Silvercorp Metals Inc. Common Shares
 SVOL - Simplify Volatility Premium ETF
 SVRA - Savara, Inc. - Common Stock
 SVRE - SaverOne 2014 Ltd. - American Depositary Shares
+SVREW - SaverOne 2014 Ltd. - Warrant
 SVV - Savers Value Village, Inc. Common Stock
 SVXY - ProShares Short VIX Short Term Futures ETF
 SW - Smurfit WestRock plc Ordinary Shares
@@ -11075,6 +11086,7 @@ WYHG - Wing Yip Food Holdings Group Limited - American Depositary Shares
 WYNN - Wynn Resorts, Limited - Common Stock
 WYY - WidePoint Corporation Common Stock
 WZRD - ETF Opportunities Trust Opportunistic Trader ETF
+XAGG - Morgan Stanley ETF Trust Eaton Vance Income Opportunities ETF
 XAIR - Beyond Air, Inc. - Common Stock
 XAIX - Xtrackers Artificial Intelligence and Big Data ETF
 XAPR - SHL Telemedicine Ltd FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April
