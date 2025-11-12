@@ -1910,7 +1910,9 @@ CHCT - Community Healthcare Trust Incorporated Common Stock
 CHD - Church & Dwight Company, Inc. Common Stock
 CHDN - Churchill Downs, Incorporated - Common Stock
 CHE - Chemed Corp
+CHEC - Chenghe Acquisition III Co. - Class A Ordinary Shares
 CHECU - Chenghe Acquisition III Co. - Units
+CHECW - Chenghe Acquisition III Co. - Warrants
 CHEF - The Chefs' Warehouse, Inc. - Common Stock
 CHEK - Check-Cap Ltd. - Ordinary Share
 CHGG - Chegg, Inc. Common Stock
@@ -3392,6 +3394,7 @@ EVN - Eaton Vance Municipal Income Trust Common Stock
 EVNT - AltShares Event-Driven ETF
 EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
 EVOK - Evoke Pharma, Inc. - Common Stock
+EVOXU - Evolution Global Acquisition Corp - Units
 EVR - Evercore Inc. Class A Common Stock
 EVRG - Evergy, Inc. - Common Stock
 EVSB - Morgan Stanley ETF Trust Eaton Vance Ultra-Short Income ETF
@@ -3720,6 +3723,7 @@ FIS - Fidelity National Information Services, Inc. Common Stock
 FISI - Financial Institutions, Inc. - Common Stock
 FISK - Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests
 FISR - State Street Fixed Income Sector Rotation ETF
+FISV - Fiserv, Inc. - Common Stock
 FITB - Fifth Third Bancorp - Common Stock
 FITBI - Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I
 FITBO - Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K
@@ -4012,6 +4016,7 @@ FTMH - Putnam ETF Trust Franklin Municipal High Yield ETF
 FTMN - Putnam ETF Trust Franklin Minnesota Municipal Income ETF
 FTMS - Putnam ETF Trust Franklin Short-Term Municipal Income ETF
 FTMU - Putnam ETF Trust Franklin Municipal Income ETF
+FTNJ - Putnam ETF Trust Franklin New Jersey Municipal Income ETF
 FTNT - Fortinet, Inc. - Common Stock
 FTNY - Putnam ETF Trust Franklin New York Municipal Income ETF
 FTOH - Putnam ETF Trust Franklin Ohio Municipal Income ETF
@@ -5897,6 +5902,7 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
+KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - ETF Opportunities Trust T-REX 2X Long KTOS Daily Target ETF
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -7359,6 +7365,7 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - State Street SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -7372,7 +7379,7 @@ OAKUU - Oak Woods Acquisition Corporation - Unit
 OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - Unified Series Trust OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
-OASC - Unified Series Trust OneAscent Small Cap Core ETF
+OASC - OneAscent Enhanced Small and Mid Cap ETF
 OBA - Oxley Bridge Acquisition Limited - Class A Ordinary Shares
 OBAWU - Oxley Bridge Acquisition Limited - Unit
 OBAWW - Oxley Bridge Acquisition Limited - Warrants
