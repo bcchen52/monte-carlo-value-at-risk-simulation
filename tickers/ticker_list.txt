@@ -1379,6 +1379,7 @@ BOXA - EA Series Trust Alpha Architect Aggregate Bond ETF
 BOXL - Boxlight Corporation - Class A Common Stock
 BOXX - EA Series Trust Alpha Architect 1-3 Month Box ETF
 BP - BP p.l.c. Common Stock
+BPACU - Blueport Acquisition Ltd - Units
 BPAY - iShares FinTech Active ETF
 BPH - Precidian ETFs Trust BP plc ADRhedged
 BPI - Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF
@@ -2625,6 +2626,7 @@ DFSE - Dimensional ETF Trust Dimensional Emerging Markets Sustainability Core 1 
 DFSI - Dimensional ETF Trust Dimensional International Sustainability Core 1 ETF
 DFSU - Dimensional ETF Trust Dimensional US Sustainability Core 1 ETF
 DFSV - Dimensional ETF Trust Dimensional US Small Cap Value ETF
+DFTT - Northern Lights Fund Trust DF Tactical 30 ETF
 DFUS - Dimensional U.S. Equity Market ETF
 DFUV - Dimensional ETF Trust Dimensional US Marketwide Value ETF
 DFVE - DoubleLine ETF Trust DoubleLine Fortune 500 Equal Weight ETF
@@ -3958,7 +3960,6 @@ FSEP - FT Vest U.S. Equity Buffer ETF - September
 FSFG - First Savings Financial Group, Inc. - Common Stock
 FSGS - First Trust SMID Growth Strength ETF
 FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
-FSHPR - Flag Ship Acquisition Corp. - Right
 FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
@@ -6160,7 +6161,6 @@ LOGI - Logitech International S.A. - Registered Shares
 LOGO - Alpha Brands Consumption Leaders ETF
 LOKV - Live Oak Acquisition Corp. V - Class A Ordinary Shares
 LOKVU - Live Oak Acquisition Corp. V - Units
-LOKVW - Live Oak Acquisition Corp. V - Warrants
 LOMA - Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
 LONZ - PIMCO U.S. Treasury Index Fund PIMCO Senior Loan Active Exchange-Traded Fund
 LOOP - Loop Industries, Inc. - Common Stock
@@ -7157,6 +7157,7 @@ NOV - NOV Inc. Common Stock
 NOVM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - November
 NOVP - PGIM S&P 500 Buffer 12 ETF - November
 NOVT - Novanta Inc. - Common Shares
+NOVTU - Novanta Inc. - Tangible Equity Units
 NOVZ - TrueShares Structured Outcome (November) ETF
 NOW - ServiceNow, Inc. Common Stock
 NOWL - GraniteShares 2x Long NOW Daily ETF
@@ -9423,6 +9424,7 @@ SOLS - Solstice Advanced Materials Inc. - Common Stock
 SOLT - 2x Solana ETF
 SOLV - Solventum Corporation Common Stock
 SOLZ - Solana ETF
+SOMN - Southern Company (The) 2025 Series A Corporate Units
 SON - Sonoco Products Company Common Stock
 SOND - Sonder Holdings Inc. - Class A Common Stock
 SONDW - Sonder Holdings Inc. - Warrants
