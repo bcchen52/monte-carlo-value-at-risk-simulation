@@ -344,7 +344,6 @@ ALC - Alcon Inc. Ordinary Shares
 ALCO - Alico, Inc. - Common Stock
 ALCY - Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares
 ALCYU - Alchemy Investments Acquisition Corp 1 - Units
-ALCYW - Alchemy Investments Acquisition Corp 1 - Warrants
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
 ALDFW - Aldel Financial II Inc. - Warrants
@@ -1107,7 +1106,6 @@ BFRE - Ultimus Managers Trust Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
-BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator ETFs Trust Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
@@ -1441,7 +1439,6 @@ BRY - Berry Corporation (bry) - Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
 BRZU - Direxion Daily Brazil Bull 2X Shares
 BSAA - BEST SPAC I Acquisition Corp. - Class A Ordinary Shares
-BSAAR - BEST SPAC I Acquisition Corp. - Rights
 BSAAU - BEST SPAC I Acquisition Corp. - Unit
 BSAC - Banco Santander - Chile ADS
 BSBK - Bogota Financial Corp. - Common Stock
@@ -1788,7 +1785,6 @@ CDE - Coeur Mining, Inc. Common Stock
 CDEI - Morgan Stanley ETF Trust Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF
 CDIG - City Different Investments Global Equity ETF
 CDIO - Cardio Diagnostics Holdings Inc. - Common stock
-CDIOW - Cardio Diagnostics Holdings Inc. - Warrant
 CDL - VictoryShares US Large Cap High Div Volatility Wtd ETF
 CDLR - Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)
 CDLX - Cardlytics, Inc. - Common Stock
@@ -2485,6 +2481,7 @@ DAK - Dakota Active Equity ETF
 DAKT - Daktronics, Inc. - Common Stock
 DAL - Delta Air Lines, Inc. Common Stock
 DALI - First Trust Dorsey Wright DALI Equity ETF
+DAMD - Tidal Trust II Defiance Daily Target 2X Short AMD ETF
 DAN - Dana Incorporated Common Stock 
 DAO - Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share
 DAPP - VanEck Digital Transformation ETF
@@ -2816,7 +2813,6 @@ DRNZ - REX Drone ETF
 DRS - Leonardo DRS, Inc. - Common Stock
 DRSK - Aptus Defined Risk ETF 
 DRTS - Alpha Tau Medical Ltd. - Ordinary Shares
-DRTSW - Alpha Tau Medical Ltd. - Warrant
 DRUG - Bright Minds Biosciences Inc. - common stock
 DRUP - GraniteShares Nasdaq Select Disruptors ETF
 DRV - Direxion Daily Real Estate Bear 3X Shares
@@ -3579,7 +3575,6 @@ FDEM - Fidelity Emerging Markets Multifactor ETF
 FDEV - Fidelity Emerging Markets Multifactor ETF
 FDFF - Fidelity Disruptive Finance ETF
 FDG - American Century Focused Dynamic Growth ETF
-FDHT - Fidelity Digital Health ETF
 FDHY - Fidelity Enhanced High Yield ETF
 FDIF - Fidelity Disruptors ETF
 FDIG - Fidelity Crypto Industry and Digital Payments ETF
@@ -3605,7 +3600,6 @@ FDTX - Fidelity Disruptive Technology ETF
 FDUS - Fidus Investment Corporation - Closed End Fund
 FDV - Federated Hermes ETF Trust Federated Hermes U.S. Strategic Dividend ETF
 FDVV - Fidelity High Dividend ETF
-FDWM - Fidelity Women's Leadership ETF
 FDX - FedEx Corporation Common Stock
 FE - FirstEnergy Corp. Common Stock
 FEAC - Fidelity Covington Trust Fidelity Enhanced U.S. All-Cap Equity ETF
@@ -3641,7 +3635,6 @@ FEP - First Trust Europe AlphaDEX Fund
 FEPI - REX FANG & Innovation Equity Premium Income ETF
 FER - Ferrovial SE - Ordinary Shares
 FERA - Fifth Era Acquisition Corp I - Class A Ordinary Shares
-FERAR - Fifth Era Acquisition Corp I - Rights
 FERAU - Fifth Era Acquisition Corp I - Units
 FERG - Ferguson Enterprises Inc. Common Stock
 FESM - Fidelity Covington Trust Fidelity Enhanced Small Cap ETF
@@ -3904,7 +3897,6 @@ FORM - FormFactor, Inc. - Common Stock
 FORR - Forrester Research, Inc. - Common Stock
 FORTY - Formula Systems (1985) Ltd. - American Depositary Shares
 FOSL - Fossil Group, Inc. - Common Stock
-FOSLL - Fossil Group, Inc. - 7% Senior Notes due 2026
 FOUR - Shift4 Payments, Inc. Class A Common Stock
 FOWF - Pacer Funds Trust Pacer Solactive Whitney Future of Warfare ETF
 FOX - Fox Corporation - Class B Common Stock
@@ -3956,7 +3948,6 @@ FRSX - Foresight Autonomous Holdings Ltd. - American Depositary Shares
 FRT - Federal Realty Investment Trust Common Stock
 FRTY - Alger Mid Cap 40 ETF
 FSBC - Five Star Bancorp - Common Stock
-FSBD - Fidelity Merrimack Street Trust Fidelity Sustainable Core Plus Bond ETF
 FSBW - FS Bancorp, Inc. - Common Stock
 FSCC - Federated Hermes ETF Trust Federated Hermes MDT Small Cap Core ETF
 FSCO - FS Credit Opportunities Corp. Common Stock
@@ -3972,7 +3963,6 @@ FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
 FSK - FS KKR Capital Corp. Common Stock
-FSLD - Fidelity Merrimack Street Trust Fidelity Sustainable Low Duration Bond ETF
 FSLR - First Solar, Inc. - Common Stock
 FSLY - Fastly, Inc. Class A Common Stock
 FSM - Fortuna Mining Corp. Common Shares
@@ -3981,7 +3971,6 @@ FSMD - Fidelity Small-Mid Multifactor ETF
 FSP - Franklin Street Properties Corp. Common Stock
 FSS - Federal Signal Corporation Common Stock
 FSSL - FS Specialty Lending Fund Common Shares of Beneficial Interest
-FSST - Fidelity Sustainable U.S. Equity ETF
 FSTA - Fidelity MSCI COnsumer Staples Index ETF
 FSTR - L.B. Foster Company - Common Stock
 FSUN - FirstSun Capital Bancorp - Common Stock
@@ -4075,7 +4064,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4830,7 +4818,6 @@ HSIC - Henry Schein, Inc. - Common Stock
 HSII - Heidrick & Struggles International, Inc. - Common Stock
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
 HSPO - Horizon Space Acquisition I Corp. - Ordinary Shares
-HSPOR - Horizon Space Acquisition I Corp. - Right
 HSPOU - Horizon Space Acquisition I Corp. - Unit
 HSPOW - Horizon Space Acquisition I Corp. - Warrant
 HSPT - Horizon Space Acquisition II Corp. - Ordinary share
@@ -4959,7 +4946,6 @@ IAUI - NEOS ETF Trust NEOS Gold High Income ETF
 IAUM - iShares Gold Trust Micro Shares
 IAUX - i-80 Gold Corp. Common Shares
 IBAC - IB Acquisition Corp. - Common Stock
-IBACR - IB Acquisition Corp. - Right
 IBAT - iShares Energy Storage & Materials ETF
 IBB - iShares Biotechnology ETF
 IBBQ - Invesco Nasdaq Biotechnology ETF
@@ -6185,7 +6171,6 @@ LOWV - AB Active ETFs, Inc. AB US Low Volatility Equity ETF
 LPA - Logistic Properties of the Americas Ordinary Shares
 LPAA - Launch One Acquisition Corp. - Class A Ordinary Shares
 LPAAU - Launch One Acquisition Corp. - Unit
-LPAAW - Launch One Acquisition Corp. - Warrant
 LPBB - Launch Two Acquisition Corp. - Class A Ordinary Shares
 LPBBU - Launch Two Acquisition Corp. - Unit
 LPBBW - Launch Two Acquisition Corp. - Warrant
@@ -6599,7 +6584,7 @@ MLACU - Mountain Lake Acquisition Corp. - Units
 MLCI - Mount Logan Capital Inc. - Common Stock
 MLCO - Melco Resorts & Entertainment Limited - American Depositary Shares 
 MLDR - Global X Funds Global X Intermediate-Term Treasury Ladder ETF
-MLEC - Moolec Science SA - Ordinary shares
+MLEC - Moolec Science SA - Ordinary Shares
 MLECW - Moolec Science SA - Warrant
 MLGO - MicroAlgo, Inc. - Ordinary Shares
 MLI - Mueller Industries, Inc. Common Stock
@@ -6808,7 +6793,6 @@ MTRA - Invesco International Growth Focus ETF
 MTRN - Materion Corporation
 MTRX - Matrix Service Company - Common Stock
 MTSI - MACOM Technology Solutions Holdings, Inc. - Common Stock
-MTSR - Metsera, Inc. - Common Stock
 MTUL - ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN
 MTUM - iShares MSCI USA Momentum Factor ETF
 MTUS - Metallus Inc. Common Shares
@@ -7246,7 +7230,6 @@ NTSX - WisdomTree U.S. Efficient Core Fund
 NTWK - NETSOL Technologies Inc. - Common Stock
 NTWO - Newbury Street II Acquisition Corp - Class A Ordinary Shares
 NTWOU - Newbury Street II Acquisition Corp - Unit
-NTWOW - Newbury Street II Acquisition Corp - Warrant
 NTZ - Natuzzi, S.p.A.
 NU - Nu Holdings Ltd. Class A Ordinary Shares
 NUAG - Nuveen Enhanced Yield U.S. Aggregate Bond ETF
@@ -7352,6 +7335,7 @@ NXN - Nuveen New York Select Tax-Free Income Portfolio Common Stock
 NXP - Nuveen Select Tax Free Income Portfolio Common Stock
 NXPI - NXP Semiconductors N.V. - Common Stock
 NXPL - NextPlat Corp - Common Stock
+NXPLW - NextPlat Corp - Warrants
 NXRT - NexPoint Residential Trust, Inc. Common Stock
 NXST - Nexstar Media Group, Inc. - Common Stock
 NXT - Nextpower Inc. - Class A Common Stock
@@ -8315,7 +8299,6 @@ QDWN - Strategic Trust DailyDelta  Q100 Downside Option Strategy ETF
 QEFA - SPDR MSCI EAFE StrategicFactors ETF
 QEMM - SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
-QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF 
 QFIN - Qfin Holdings, Inc.  - American Depositary Shares
@@ -9789,7 +9772,6 @@ SYK - Stryker Corporation Common Stock
 SYLD - Cambria Shareholder Yield ETF
 SYM - Symbotic Inc. - Class A Common Stock
 SYNA - Synaptics Incorporated - Common Stock
-SYNB - Putnam ETF Trust Putnam BioRevolution ETF
 SYNX - Silynxcom Ltd. Ordinary Shares
 SYPR - Sypris Solutions, Inc. - Common Stock
 SYRE - Spyre Therapeutics, Inc. - Common Stock
@@ -11057,6 +11039,7 @@ WSBF - Waterstone Financial, Inc. - Common Stock
 WSBK - Winchester Bancorp, Inc. - Common Stock
 WSC - WillScot Holdings Corporation - Class A Common Stock
 WSFS - WSFS Financial Corporation - Common Stock
+WSHP - WeShop Holdings Limited - Class A Ordinary Shares
 WSM - Williams-Sonoma, Inc. Common Stock (DE)
 WSML - iShares MSCI World Small-Cap ETF
 WSO - Watsco, Inc. Common Stock
