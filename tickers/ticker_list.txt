@@ -8204,6 +8204,7 @@ PTLC - Pacer Fund Trust Pacer Trendpilot US Large Cap ETF
 PTLE - PTL LTD - Class A Ordinary Shares
 PTLO - Portillo's Inc. - Class A Common Stock
 PTMC - Pacer Trendpilot US Mid Cap ETF
+PTN - Palatin Technologies, Inc. Common Stock
 PTNM - Pitanium Limited - Class A Ordinary Shares
 PTNQ - Pacer Trendpilot 100 ETF
 PTON - Peloton Interactive, Inc. - Common Stock
