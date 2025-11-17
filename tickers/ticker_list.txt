@@ -1658,7 +1658,7 @@ CAN - Canaan Inc. - American Depositary Shares
 CANC - Tema Oncology ETF
 CANE - Teucrium Sugar Fund ETV
 CANF - Can-Fite Biopharma Ltd Sponsored ADR (Israel)
-CANG - Cango Inc. American Depositary Shares,  each representing two (2) Class A Ordinary Shares
+CANG - Cango Inc. Class A Ordinary Shares
 CANQ - Calamos Nasdaq Equity & Income ETF
 CAOS - EA Series Trust Alpha Architect Tail Risk ETF
 CAPE - DoubleLine ETF Trust DoubleLine Shiller CAPE U.S. Equities ETF
@@ -3891,7 +3891,6 @@ FONR - Fonar Corporation - Common Stock
 FOPC - The Advisors' Inner Circle Fund II Frontier Asset Opportunistic Credit ETF
 FOR - Forestar Group Inc Common Stock 
 FORA - Forian Inc. - Common Stock
-FORD - Forward Industries, Inc. - Common Stock
 FORH - Formidable ETF
 FORM - FormFactor, Inc. - Common Stock
 FORR - Forrester Research, Inc. - Common Stock
@@ -4068,6 +4067,7 @@ FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
 FWD - AB Active ETFs, Inc. AB Disruptors ETF
+FWDI - Forward Industries, Inc. - Common Stock
 FWONA - Liberty Media Corporation - Series A Liberty Formula One Common Stock
 FWONK - Liberty Media Corporation - Series C Liberty Formula One Common Stock
 FWRD - Forward Air Corporation - Common Stock
@@ -7510,7 +7510,6 @@ OOMA - Ooma, Inc. Common Stock
 OOQB - One One Nasdaq-100 and Bitcoin ETF
 OOSB - One One S&P 500 and Bitcoin ETF
 OOSP - Spinnaker ETF Series Obra Opportunistic Structured Products ETF
-OP - OceanPal Inc. - Common Stock
 OPAD - Offerpad Solutions Inc. Class A Common Stock
 OPAL - OPAL Fuels Inc. - Class A Common Stock
 OPBK - OP Bancorp - Common Stock
@@ -8220,7 +8219,6 @@ PULT - Putnam ETF Trust Putnam ESG Ultra Short ETF
 PUMP - ProPetro Holding Corp. Common Stock
 PUSH - PGIM ETF Trust PGIM Ultra Short Municipal Bond ETF
 PVAL - Putnam Focused Large Cap Value ETF
-PVBC - Provident Bancorp, Inc. - Common Stock
 PVEX - Elevation Series Trust TrueShares ConVex Protect ETF
 PVH - PVH Corp. Common Stock
 PVI - Invesco Floating Rate Municipal Income ETF
@@ -9066,7 +9064,6 @@ SEMI - Columbia Select Technology ETF
 SEMR - SEMrush Holdings, Inc. Class A Common Stock
 SENEA - Seneca Foods Corp. - Class A Common Stock
 SENEB - Seneca Foods Corp. - Class B Common Stock
-SENS - Senseonics Holdings, Inc. Common Stock
 SEPI - SCM Trust Shelton Equity Premium Income ETF
 SEPM - First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - September
 SEPN - Septerna, Inc. - Common Stock
@@ -9740,6 +9737,7 @@ SVOL - Simplify Volatility Premium ETF
 SVRA - Savara, Inc. - Common Stock
 SVRE - SaverOne 2014 Ltd. - American Depositary Shares
 SVREW - SaverOne 2014 Ltd. - Warrant
+SVRN - OceanPal Inc. - Common Stock
 SVV - Savers Value Village, Inc. Common Stock
 SVXY - ProShares Short VIX Short Term Futures ETF
 SW - Smurfit WestRock plc Ordinary Shares
@@ -11035,7 +11033,6 @@ WRND - NYLI Global Equity R&D Leaders ETF
 WS - Worthington Steel, Inc. Common Shares
 WSBC - WesBanco, Inc. - Common Stock
 WSBCO - WesBanco, Inc. - Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B
-WSBCP - WesBanco, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A
 WSBF - Waterstone Financial, Inc. - Common Stock
 WSBK - Winchester Bancorp, Inc. - Common Stock
 WSC - WillScot Holdings Corporation - Class A Common Stock
