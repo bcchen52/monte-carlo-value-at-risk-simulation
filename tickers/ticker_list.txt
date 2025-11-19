@@ -319,6 +319,7 @@ AIV - Apartment Investment and Management Company Common Stock
 AIVC - Amplify Bloomberg AI Value Chain ETF
 AIVI - WisdomTree International AI Enhanced Value Fund
 AIVL - WisdomTree U.S. AI Enhanced Value Fund
+AIXC - AIxCrypto Holdings, Inc. - Common Stock
 AIXI - XIAO-I Corporation - American Depositary Shares
 AIYY - Tidal Trust II YieldMax AI Option Income Strategy ETF
 AIZ - Assurant, Inc. Common Stock
@@ -574,6 +575,7 @@ APXTU - Apex Treasury Corporation - Units
 APXTW - Apex Treasury Corporation - Warrants
 APYX - Apyx Medical Corporation - Common Stock
 AQB - AquaBounty Technologies, Inc. - Common Stock
+AQEC - ETF Opportunities Trust AQE Core ETF
 AQLT - iShares Trust iShares MSCI Global Quality Factor ETF
 AQMS - Aqua Metals, Inc. - Common Stock
 AQN - Algonquin Power & Utilities Corp. Common Shares
@@ -1323,7 +1325,7 @@ BMY - Bristol-Myers Squibb Company Common Stock
 BN - Brookfield Corporation Class A Limited Voting Shares
 BNAI - Brand Engagement Network Inc. - Common Stock
 BNAIW - Brand Engagement Network Inc. - Warrant
-BNBX - Applied DNA Sciences, Inc. - Common Stock
+BNBX - BNB Plus Corp. - Common Stock
 BNC - CEA Industries Inc. - Common Stock
 BNCWW - CEA Industries Inc. - Warrant
 BND - Vanguard Total Bond Market ETF
@@ -1445,6 +1447,7 @@ BRY - Berry Corporation (bry) - Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
 BRZU - Direxion Daily Brazil Bull 2X Shares
 BSAA - BEST SPAC I Acquisition Corp. - Class A Ordinary Shares
+BSAAR - BEST SPAC I Acquisition Corp. - Rights
 BSAAU - BEST SPAC I Acquisition Corp. - Unit
 BSAC - Banco Santander - Chile ADS
 BSBK - Bogota Financial Corp. - Common Stock
@@ -2946,7 +2949,9 @@ DYLG - Global X Funds Global X Dow 30 Covered Call & Growth ETF
 DYN - Dyne Therapeutics, Inc. - Common Stock
 DYNB - Hartford Dynamic Bond ETF
 DYNF - iShares U.S. Equity Factor Rotation Active ETF
+DYOR - Insight Digital Partners II - Class A Ordinary Shares
 DYORU - Insight Digital Partners II - Units
+DYORW - Insight Digital Partners II - Warrants
 DYTA - SGI Dynamic Tactical ETF
 DZZ - DB Gold Double Short ETN due February 15, 2038
 E - ENI S.p.A. Common Stock
@@ -3232,7 +3237,6 @@ EOLS - Evolus, Inc. - Common Stock
 EONR - EON Resources Inc. Class A Common Stock
 EOS - Eaton Vance Enhance Equity Income Fund II Common Stock
 EOSE - Eos Energy Enterprises, Inc. - Common Stock
-EOSEW - Eos Energy Enterprises, Inc. - Warrant
 EOT - Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST
 EP - Empire Petroleum Corporation Common Stock
 EPAC - Enerpac Tool Group Corp. Common Stock
@@ -3540,6 +3544,7 @@ FBTC - Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest
 FBUF - Fidelity Dynamic Buffered Equity ETF
 FBY - Tidal ETF Trust II YieldMax META Option Income Strategy ETF
 FBYD - Falcon's Beyond Global, Inc. - Class A Common Stock
+FBYDW - Falcon's Beyond Global, Inc. - Warrants
 FBYY - GraniteShares YieldBOOST META ETF
 FC - Franklin Covey Company Common Stock
 FCA - First Trust China AlphaDEX Fund
@@ -3977,6 +3982,7 @@ FSLY - Fastly, Inc. Class A Common Stock
 FSM - Fortuna Mining Corp. Common Shares
 FSMB - First Trust Short Duration Managed Municipal ETF
 FSMD - Fidelity Small-Mid Multifactor ETF
+FSOL - Fidelity Solana Fund Fidelity Solana Fund
 FSP - Franklin Street Properties Corp. Common Stock
 FSS - Federal Signal Corporation Common Stock
 FSSL - FS Specialty Lending Fund Common Shares of Beneficial Interest
@@ -4159,11 +4165,9 @@ GCAD - Gabelli Commercial Aerospace and Defense ETF
 GCAL - Goldman Sachs ETF Trust Goldman Sachs Dynamic California Municipal Income ETF
 GCBC - Greene County Bancorp, Inc. - Common Stock
 GCC - WisdomTree EnhancedContinuous Commodity Index Fund
-GCI - Gannett Co., Inc. Common Stock
 GCL - GCL Global Holdings Ltd - Ordinary Shares
 GCLWW - GCL Global Holdings Ltd - Warrants
 GCMG - GCM Grosvenor Inc. - Class A Common Stock
-GCMGW - GCM Grosvenor Inc. - Warrant
 GCO - Genesco Inc. Common Stock
 GCOR - Goldman Sachs ETF Trust Goldman Sachs Access U.S. Aggregate Bond ETF
 GCOW - Pacer Global Cash Cows Dividend ETF
@@ -4476,6 +4480,8 @@ GRMN - Garmin Ltd. Common Stock (Switzerland)
 GRN - iPath Series B Carbon Exchange-Traded Notes
 GRNB - VanEck Green Bond ETF
 GRND - Grindr Inc. Common Stock
+GRNI - Tidal Trust III Fundstrat Granny Shots US Large Cap & Income ETF
+GRNJ - Tidal Trust III Fundstrat Granny Shots US Small- & Mid-Cap ETF
 GRNQ - Greenpro Capital Corp. - Common Stock
 GRNT - Granite Ridge Resources, Inc. Common Stock
 GRNY - Fundstrat Granny Shots US Large Cap ETF
@@ -5998,7 +6004,6 @@ LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone ETF Trust Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
 LCFYW - Locafy Limited - Warrant
-LCG - Sterling Capital Focus Equity ETF
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCLG - Advisors Series Trust Logan Capital Broad Innovative Growth ETF
@@ -6188,6 +6193,7 @@ LOWV - AB Active ETFs, Inc. AB US Low Volatility Equity ETF
 LPA - Logistic Properties of the Americas Ordinary Shares
 LPAA - Launch One Acquisition Corp. - Class A Ordinary Shares
 LPAAU - Launch One Acquisition Corp. - Unit
+LPAAW - Launch One Acquisition Corp. - Warrant
 LPBB - Launch Two Acquisition Corp. - Class A Ordinary Shares
 LPBBU - Launch Two Acquisition Corp. - Unit
 LPBBW - Launch Two Acquisition Corp. - Warrant
@@ -6265,6 +6271,7 @@ LUXE - LuxExperience B.V. American Depositary Shares, each representing one Ordi
 LVDS - J.P. Morgan Exchange-Traded Fund Trust JPMorgan Fundamental Data Science Large Value ETF
 LVHD - Franklin U.S. Low Volatility High Dividend Index ETF
 LVHI - Franklin International Low Volatility High Dividend Index ETF 
+LVLN - SPDR Series Trust State Street SPDR S&P Leveraged Loan ETF
 LVLU - Lulu's Fashion Lounge Holdings, Inc. - Common Stock
 LVO - LiveOne, Inc. - Common Stock
 LVRO - Lavoro Limited - Class A Ordinary Shares
@@ -6774,6 +6781,7 @@ MSPRZ - MSP Recovery, Inc. - Warrant
 MSS - Maison Solutions Inc. - Class A Common Stock
 MSSM - Morgan Stanley Pathway Funds Morgan Stanley Pathway Small-Mid Cap Equity ETF
 MSSS - Northern Lights Fund Trust IV Monarch Select Subsector Index ETF
+MSST - Tidal Trust II YieldMax MSTR Performance & Distribution Target 25 ETF
 MST - Defiance Leveraged Long Income MSTR ETF
 MSTB - LHA Market State Tactical Beta ETF
 MSTI - Madison ETFs Trust Madison Short Term Strategic Income ETF
@@ -7092,7 +7100,6 @@ NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
 NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
-NIXXW - Nixxy, Inc. - Warrant
 NJAN - Innovator Growth-100 Power Buffer ETF - January
 NJNK - Columbia ETF Trust I Columbia U.S. High Yield ETF
 NJR - NewJersey Resources Corporation Common Stock
@@ -7263,6 +7270,7 @@ NUEM - Nuveen ESG Emerging Markets Equity ETF
 NUG - Leverage Shares 2X Long NU Daily ETF
 NUGO - Nuveen Growth Opportunities ETF
 NUGT - Direxion Daily Gold Miners Index Bull 2XShares
+NUGY - GraniteShares YieldBOOST Gold Miners ETF
 NUHY - Nuveen ESG High Yield Corporate Bond ETF
 NUKK - Nukkleus Inc. - Ordinary Shares
 NUKKW - Nukkleus Inc. - Warrants
@@ -7311,6 +7319,7 @@ NVG - Nuveen AMT-Free Municipal Credit Income Fund
 NVGS - Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)
 NVII - REX NVDA Growth & Income ETF
 NVIR - Listed Funds Trust Horizon Kinetics Energy and Remediation ETF
+NVIT - Tidal Trust II YieldMax NVDA Performance & Distribution Target 25 ETF
 NVMI - Nova Ltd. - Ordinary Shares
 NVNI - Nvni Group Limited - Ordinary Shares
 NVNIW - Nvni Group Limited - Warrants
@@ -7381,7 +7390,6 @@ OABI - OmniAb, Inc. - Common Stock
 OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
-OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - Unified Series Trust OneAscent Core Plus Bond ETF
 OAEM - Unified Series Trust OneAscent Emerging Markets ETF
 OAIM - Unified Series Trust OneAscent International Equity ETF
@@ -8341,7 +8349,6 @@ QJUN - FT Vest Nasdaq-100 Buffer ETF - June
 QLC - FlexShares Trust FlexShares US Quality Large Cap Index Fund
 QLD - ProShares Ultra QQQ
 QLDY - Defiance Nasdaq 100 LightningSpread Income ETF
-QLGN - Qualigen Therapeutics, Inc. - Common Stock
 QLTA - iShares Aaa A Rated Corporate Bond ETF
 QLTI - The 2023 ETF Series Trust II GMO International Quality ETF
 QLTY - The 2023 ETF Series Trust II GMO U.S. Quality ETF
@@ -8399,7 +8406,6 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation Class A Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
-QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSI - Quantum-Si Incorporated - Class A Common Stock
 QSIAW - Quantum-Si Incorporated - Warrant
@@ -8678,6 +8684,7 @@ RJVI - Carillon Series Trust RJ Eagle Vertical Income ETF
 RKDA - Arcadia Biosciences, Inc. - Common Stock
 RKLB - Rocket Lab Corporation - Common Stock
 RKLX - Defiance Daily Target 2X Long RKLB ETF
+RKLZ - Defiance Daily Target 2x Short RKLB ETF
 RKT - Rocket Companies, Inc. Class A Common Stock
 RL - Ralph Lauren Corporation Common Stock
 RLAY - Relay Therapeutics, Inc. - Common Stock
@@ -9085,6 +9092,7 @@ SEM - Select Medical Holdings Corporation Common Stock
 SEMG - EA Series Trust Suncoast Select Growth ETF
 SEMI - Columbia Select Technology ETF
 SEMR - SEMrush Holdings, Inc. Class A Common Stock
+SEMY - GraniteShares YieldBOOST Semiconductor ETF
 SENEA - Seneca Foods Corp. - Class A Common Stock
 SENEB - Seneca Foods Corp. - Class B Common Stock
 SENS - Senseonics Holdings, Inc. - Common Stock
@@ -9434,6 +9442,7 @@ SOJD - Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due J
 SOJE - Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060
 SOJF - Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085
 SOL - Emeren Group Ltd American Depositary Shares, each representing 10 shares
+SOLC - Canary Marinade Solana ETF
 SOLM - Amplify ETF Trust Amplify Solana 3% Monthly Option Income ETF
 SOLR - SmartETFs Sustainable Energy II ETF
 SOLS - Solstice Advanced Materials Inc. - Common Stock
@@ -9705,6 +9714,7 @@ STRT - STRATTEC SECURITY CORPORATION - Common Stock
 STRV - EA Series Trust Strive 500 ETF
 STRW - Strawberry Fields REIT, Inc. Common Stock
 STRZ - Starz Entertainment Corp. - Common Shares
+STSM - Tidal Trust II Defiance Daily Target 2X Short TSM ETF
 STSS - Sharps Technology Inc. - Common Stock
 STSSW - Sharps Technology Inc. - Warrant
 STT - State Street Corporation Common Stock
@@ -9906,6 +9916,7 @@ TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
 TDACW - Translational Development Acquisition Corp. - Warrants
 TDAQ - ETF Opportunities Trust TappAlpha Innovation 100 Growth & Daily Income ETF
+TDAY - USA TODAY Co., Inc. Common Stock
 TDC - Teradata Corporation Common Stock
 TDEC - First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - December
 TDF - Templeton Dragon Fund, Inc. Common Stock
@@ -9961,6 +9972,7 @@ TER - Teradyne, Inc. - Common Stock
 TERG - Leverage Shares 2X Long TER Daily ETF
 TERN - Terns Pharmaceuticals, Inc. - Common Stock
 TESL - Simplify Volt TSLA Revolution ETF
+TEST - Tidal Trust II YieldMax TSLA Performance & Distribution Target 25 ETF
 TETH - 21Shares Ethereum ETF
 TEVA - Teva Pharmaceutical Industries Limited American Depositary Shares
 TEX - Terex Corporation Common Stock
@@ -10112,6 +10124,7 @@ TMUSI - T-Mobile US, Inc. - 5.500% Senior Notes due June 2070
 TMUSL - T-Mobile US, Inc. - 6.250% Senior Notes due 2069
 TMUSZ - T-Mobile US, Inc. - 5.500% Senior Notes due March 2070
 TMV - Direxion Daily 20-Year Treasury Bear 3X
+TMVE - Thrivent ETF Trust Thrivent Mid Cap Value ETF
 TNA - Direxion Small Cap Bull 3X Shares
 TNC - Tennant Company Common Stock
 TNDM - Tandem Diabetes Care, Inc. - Common Stock
@@ -10230,6 +10243,7 @@ TS - Tenaris S.A. American Depositary Shares
 TSAT - Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares
 TSBK - Timberland Bancorp, Inc. - Common Stock
 TSCO - Tractor Supply Company - Common Stock
+TSCV - Thrivent ETF Trust Thrivent Small Cap Value ETF
 TSDD - GraniteShares 2x Short TSLA Daily ETF
 TSE - Trinseo PLC Ordinary Shares 
 TSEC - Touchstone ETF Trust Touchstone Securitized Income ETF
@@ -10430,7 +10444,6 @@ UJB - ProShares Ultra High Yield ETF
 UJUL - Innovator U.S. Equity Ultra Buffer ETF - July
 UJUN - Innovator U.S. Equity Ultra Buffer ETF - June
 UK - Ucommune International Ltd  - Ordinary Shares
-UKOMW - Ucommune International Ltd  - Warrant
 UL - Unilever PLC Common Stock
 ULBI - Ultralife Corporation - Common Stock
 ULCC - Frontier Group Holdings, Inc. - Common Stock
@@ -10644,6 +10657,7 @@ VCV - Invesco California Value Municipal Income Trust Common Stock
 VCYT - Veracyte, Inc. - Common Stock
 VDC - Vanguard Consumer Staples ETF
 VDE - Vanguard Energy ETF
+VDIG - Vanguard Wellington Dividend Growth Active ETF Vanguard Wellington Dividend Growth Active ETF
 VEA - Vanguard FTSE Developed Markets ETF
 VECO - Veeco Instruments Inc. - Common Stock
 VEEA - Veea Inc. - Common Stock
@@ -10872,6 +10886,8 @@ VTYX - Ventyx Biosciences, Inc. - Common Stock
 VUG - Vanguard Growth ETF
 VUSB - Vanguard Ultra-Short Bond ETF
 VUSE - Vident U.S. Equity Strategy ETF
+VUSG - Vanguard Wellington Dividend Growth Active ETF Vanguard Wellington U.S. Growth Active ETF
+VUSV - Vanguard Wellington Dividend Growth Active ETF Vanguard Wellington U.S. Value Active ETF
 VUZI - Vuzix Corporation  - Common Stock
 VV - Vanguard Large-Cap ETF
 VVOS - Vivos Therapeutics, Inc. - Common Stock
@@ -11264,6 +11280,7 @@ XRLX - FundX Investment Trust FundX Conservative ETF
 XRMI - Global X Funds Global X S&P 500 Risk Managed Income ETF
 XRPC - Canary XRP ETF
 XRPI - Volatility Shares Trust XRP ETF
+XRPM - Amplify ETF Trust Amplify XRP 3% Monthly Premium Income ETF
 XRPN - Armada Acquisition Corp. II - Class A Ordinary Shares
 XRPNU - Armada Acquisition Corp. II - Units
 XRPNW - Armada Acquisition Corp. II - Warrant
@@ -11307,6 +11324,7 @@ XWEL - XWELL, Inc. - Common Stock
 XWIN - XMAX, Inc. - Common Stock
 XXII - 22nd Century Group, Inc - Common Stock
 XXRP - Listed Funds Trust Teucrium 2x Long Daily XRP ETF
+XXV - Simplify Exchange Traded Funds Simplify Ancorato Target 25 Distribution ETF
 XYF - X Financial American Depositary Shares, each representing six Class A Ordinary Shares
 XYL - Xylem Inc. Common Stock New
 XYLD - Global X Funds Global X S&P 500 Covered Call ETF
