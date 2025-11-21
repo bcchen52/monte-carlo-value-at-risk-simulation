@@ -1029,6 +1029,7 @@ BCPC - Balchem Corporation - Common Stock
 BCRX - BioCryst Pharmaceuticals, Inc. - Common Stock
 BCS - Barclays PLC Common Stock
 BCSF - Bain Capital Specialty Finance, Inc. Common Stock
+BCSS - Bain Capital GSS Investment Corp. Class A Ordinary Shares
 BCTX - BriaCell Therapeutics Corp. - Common Shares
 BCTXW - BriaCell Therapeutics Corp. - Warrant
 BCTXZ - BriaCell Therapeutics Corp. - Warrant
@@ -1652,6 +1653,7 @@ CAG - ConAgra Brands, Inc. Common Stock
 CAH - Cardinal Health, Inc. Common Stock
 CAI - Caris Life Sciences, Inc. - Common Stock
 CAIE - Calamos Autocallable Income ETF
+CAIQ - Calamos Nasdaq Autocallable Income ETF
 CAKE - The Cheesecake Factory Incorporated - Common Stock
 CAL - Caleres, Inc. Common Stock
 CALC - CalciMedica, Inc. - Common Stock
@@ -1708,6 +1710,7 @@ CAVA - CAVA Group, Inc. Common Stock
 CB - Chubb Limited  Common Stock
 CBAN - Colony Bankcorp, Inc. Common Stock
 CBAT - CBAK Energy Technology, Inc. - Common Stock
+CBC - Central Bancompany, Inc. - Class A common stock
 CBFV - CB Financial Services, Inc. - Common Stock
 CBIO - Crescent Biopharma, Inc. - Common Stock
 CBK - Commercial Bancgroup, Inc. - Common Stock
@@ -2751,7 +2754,6 @@ DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR - Drugs Made In America Acquisition Corp. - Rights
-DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
 DMAT - Global X Disruptive Materials ETF
@@ -4395,7 +4397,6 @@ GMRE - Global Medical REIT Inc. Common Stock
 GMUB - Goldman Sachs Municipal Income ETF
 GMUN - Goldman Sachs Access Municipal Bond ETF
 GNE - Genie Energy Ltd. Class B Common Stock Stock
-GNFT - GENFIT S.A. - American Depositary Shares
 GNK - Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)
 GNL - Global Net Lease, Inc. Common Stock
 GNLN - Greenlane Holdings, Inc. - Class A Common Stock
@@ -5125,6 +5126,7 @@ IFED - ETRACS IFED Invest with the Fed TR Index ETN
 IFF - International Flavors & Fragrances, Inc. Common Stock
 IFGL - iShares International Developed Real Estate ETF
 IFLO - VictoryShares International Free Cash Flow ETF
+IFLR - Innovator International Developed Managed Floor ETF
 IFN - India Fund, Inc. (The) Common Stock
 IFRA - iShares U.S. Infrastructure ETF
 IFRX - InflaRx N.V. - Common Stock
@@ -5749,6 +5751,7 @@ KB - KB Financial Group Inc
 KBA - KraneShares Bosera MSCI China A 50 Connect Index ETF
 KBAB - KraneShares 2x Long BABA Daily ETF
 KBDC - Kayne Anderson BDC, Inc. Common Stock
+KBDU - KraneShares 2x Long BIDU Daily ETF
 KBE - State Street SPDR S&P Bank ETF
 KBH - KB Home Common Stock
 KBR - KBR, Inc. Common Stock
@@ -7566,7 +7569,6 @@ OPPJ - WisdomTree Japan Opportunities Fund
 OPRA - Opera Limited - American Depositary Shares
 OPRT - Oportun Financial Corporation - common stock
 OPRX - OptimizeRx Corporation - Common Stock
-OPT - Opthea Limited - American Depositary Shares
 OPTT - Ocean Power Technologies, Inc. Common Stock
 OPTU - Optimum Communications, Inc. Class A common stock
 OPTX - Syntec Optics Holdings, Inc. - Class A Common Stock
@@ -7607,6 +7609,7 @@ OSCR - Oscar Health, Inc. Class A Common Stock
 OSCV - Opus Small Cap Value ETF
 OSCX - Defiance Daily Target 2x Long OSCR ETF
 OSEA - Harbor International Compounders ETF
+OSG - Octave Specialty Group, Inc. Common Stock
 OSIS - OSI Systems, Inc. - Common Stock
 OSK - Oshkosh Corporation (Holding Company)Common Stock
 OSPN - OneSpan Inc. - Common Stock
@@ -9619,7 +9622,6 @@ SR - Spire Inc. Common Stock
 SRAD - Sportradar Group AG - Class A Ordinary Shares
 SRBK - SR Bancorp, Inc. - Common stock
 SRCE - 1st Source Corporation - Common Stock
-SRDX - Surmodics, Inc. - Common Stock
 SRE - DBA Sempra Common Stock
 SREA - DBA Sempra 5.750% Junior Subordinated Notes due 2079
 SRET - Global X SuperDividend REIT ETF
@@ -10045,6 +10047,7 @@ THTA - SoFi Enhanced Yield ETF
 THW - abrdn World Healthcare Fund Shares of Beneficial Interest
 THY - Toews Agility Shares Dynamic Tactical Income ETF
 THYF - T. Rowe Price U.S. High Yield ETF
+THYM - T. Rowe Price High Income Municipal ETF
 TIC - TIC Solutions, Inc. Common Stock
 TIER - T. Rowe Price International Equity Research ETF
 TIGO - Millicom International Cellular S.A. - Common Stock
@@ -10127,9 +10130,12 @@ TMFS - Motley Fool Small-Cap Growth ETF
 TMFX - Motley Fool Next Index ETF
 TMH - Toyota Motor Corporation ADRhedged
 TMHC - Taylor Morrison Home Corporation Common Stock
+TMNL - T. Rowe Price Long Municipal Income ETF
+TMNS - T. Rowe Price Short Municipal Income ETF
 TMO - Thermo Fisher Scientific Inc Common Stock
 TMP - Tompkins Financial Corporation Common Stock
 TMQ - Trilogy Metals Inc. Common Stock
+TMSF - T. Rowe Price Multi-Sector Income ETF
 TMSL - T. Rowe Price Small-Mid Cap ETF
 TMUS - T-Mobile US, Inc. - Common Stock
 TMUSI - T-Mobile US, Inc. - 5.500% Senior Notes due June 2070
@@ -10370,6 +10376,7 @@ TXSS - Texas Capital Texas Small Cap Equity Index ETF
 TXT - Textron Inc. Common Stock
 TXUE - Thornburg International Equity ETF
 TXUG - Thornburg International Growth Fund ETF
+TXXD - 21Shares 2x Long Dogecoin ETF
 TXXI - BondBloxx IR+M Tax-Aware Intermediate Duration ETF
 TY - Tri Continental Corporation Common Stock
 TYA - Simplify Intermediate Term Treasury Futures Strategy ETF
@@ -10622,7 +10629,6 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
-UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -10634,6 +10640,7 @@ VAC - Marriott Vacations Worldwide Corporation Common Stock
 VACH - Voyager Acquisition Corp - Class A Ordinary Shares
 VACHU - Voyager Acquisition Corp - Unit
 VACHW - Voyager Acquisition Corp - Warrants
+VACI - Viking Acquisition Corp. I Class A Ordinary Shares
 VAL - Valaris Limited Common Shares
 VALE - VALE S.A.  American Depositary Shares Each Representing one common share
 VALN - Valneva SE - American Depositary Shares
@@ -11293,6 +11300,7 @@ XRAY - DENTSPLY SIRONA Inc. - Common Stock
 XRLV - Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF
 XRLX - FundX Conservative ETF
 XRMI - Global X S&P 500 Risk Managed Income ETF
+XRP - Bitwise XRP ETF
 XRPC - Canary XRP ETF
 XRPI - Volatility Shares Trust XRP ETF
 XRPM - Amplify XRP 3% Monthly Premium Income ETF
