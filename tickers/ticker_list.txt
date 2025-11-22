@@ -80,6 +80,7 @@ ACCS - ACCESS Newswire Inc. Common Stock
 ACDC - ProFrac Holding Corp. - Class A Common Stock
 ACEI - Innovator Equity Autocallable Income Strategy ETF
 ACEL - Accel Entertainment, Inc. 
+ACEP - ARS Core Equity Portfolio ETF
 ACES - ALPS Clean Energy ETF
 ACET - Adicet Bio, Inc. - Common Stock
 ACFN - Acorn Energy, Inc. - Common Stock
@@ -522,6 +523,8 @@ AOTG - AOT Growth and Innovation ETF
 AOUT - American Outdoor Brands, Inc. - Common Stock
 AP - Ampco-Pittsburgh Corporation Common Stock
 APA - APA Corporation - Common Stock
+APAC - StoneBridge Acquisition II Corporation - Class A Ordinary Shares
+APACR - StoneBridge Acquisition II Corporation - Rights
 APACU - StoneBridge Acquisition II Corporation - Units
 APAD - A Paradise Acquisition Corp. - Class A Ordinary Shares
 APADR - A Paradise Acquisition Corp. - Rights
@@ -737,7 +740,6 @@ ATLN - Atlantic International Corp. - Common Stock
 ATLO - Ames National Corporation - Common Stock
 ATLX - Atlas Lithium Corporation - Common Stock
 ATMC - AlphaTime Acquisition Corp - Ordinary Shares
-ATMCR - AlphaTime Acquisition Corp - Right
 ATMCU - AlphaTime Acquisition Corp - Unit
 ATMCW - AlphaTime Acquisition Corp - Warrant
 ATMP - iPath Select MLP ETN
@@ -1710,7 +1712,7 @@ CAVA - CAVA Group, Inc. Common Stock
 CB - Chubb Limited  Common Stock
 CBAN - Colony Bankcorp, Inc. Common Stock
 CBAT - CBAK Energy Technology, Inc. - Common Stock
-CBC - Central Bancompany, Inc. - Class A common stock
+CBC - Central Bancompany, Inc. - Class A Common Stock
 CBFV - CB Financial Services, Inc. - Common Stock
 CBIO - Crescent Biopharma, Inc. - Common Stock
 CBK - Commercial Bancgroup, Inc. - Common Stock
@@ -1974,6 +1976,7 @@ CIEN - Ciena Corporation Common Stock
 CIF - MFS Intermediate High Income Fund Common Stock
 CIFR - Cipher Mining Inc. - Common Stock
 CIFRW - Cipher Mining Inc. - Warrant
+CIFU - T-REX 2X Long CIFR Daily Target ETF
 CIG - Comp En De Mn Cemig ADS American Depositary Shares
 CIGI - Colliers International Group Inc.  - Subordinate Voting Shares
 CIGL - Concorde International Group Ltd - Class A Ordinary Shares
@@ -2642,7 +2645,6 @@ DFNM - Dimensional National Municipal Bond ETF
 DFP - Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock
 DFSB - Dimensional Global Sustainability Fixed Income ETF
 DFSC - DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering
-DFSCW - DEFSEC Technologies Inc. - warrant
 DFSD - Dimensional Short-Duration Fixed Income ETF
 DFSE - Dimensional Emerging Markets Sustainability Core 1 ETF
 DFSI - Dimensional International Sustainability Core 1 ETF
@@ -2947,9 +2949,6 @@ DXUV - Dimensional US Vector Equity ETF
 DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
-DYCQ - DT Cloud Acquisition Corporation - Ordinary shares
-DYCQR - DT Cloud Acquisition Corporation - Right
-DYCQU - DT Cloud Acquisition Corporation - Unit
 DYFI - IDX Dynamic Fixed Income ETF
 DYLD - LeaderShares Dynamic Yield ETF
 DYLG - Global X Dow 30 Covered Call & Growth ETF
@@ -3699,7 +3698,6 @@ FGD - First Trust DJ Global Select Dividend
 FGDL - Franklin Responsibly Sourced Gold ETF
 FGEN - FibroGen, Inc - Common Stock
 FGI - FGI Industries Ltd. - Ordinary Shares
-FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
 FGMC - FG Merger II Corp. - Common stock
@@ -4648,6 +4646,7 @@ HBT - HBT Financial, Inc. - Common Stock
 HBTA - Horizon Expedition Plus ETF
 HBTC - Fortuna Hedged Bitcoin Fund
 HCA - HCA Healthcare, Inc. Common Stock
+HCACU - Hall Chadwick Acquisition Corp. - Unit
 HCAI - Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares
 HCAT - Health Catalyst, Inc - Common stock
 HCC - Warrior Met Coal, Inc. Common Stock
@@ -4686,6 +4685,7 @@ HEDG - Equable Shares Hedged Equity ETF
 HEDJ - WisdomTree Europe Hedged Equity Fund
 HEEM - iShares Currency Hedged MSCI Emerging Markets ETF
 HEFA - iShares Currency Hedged MSCI EAFE ETF
+HEFT - Hedgeye Fourth Turning ETF
 HEGD - Swan Hedged Equity US Large Cap ETF
 HEI - Heico Corporation Common Stock
 HEJD - VictoryShares Hedged Equity Income ETF
@@ -4908,7 +4908,6 @@ HVIIR - Hennessy Capital Investment Corp. VII - Rights
 HVIIU - Hennessy Capital Investment Corp. VII - Unit
 HVMC - Highview Merger Corp. - Class A Ordinary Share
 HVMCU - Highview Merger Corp. - Units
-HVMCW - Highview Merger Corp. - Warrants
 HVT - Haverty Furniture Companies, Inc. Common Stock
 HWAY - Themes US Infrastructure ETF
 HWBK - Hawthorn Bancshares, Inc. - Common Stock
@@ -5070,6 +5069,7 @@ ICOI - Bitwise COIN Option Income Strategy ETF
 ICON - Icon Energy Corp. - Common stock
 ICOP - iShares Copper and Metals Mining ETF
 ICOW - Pacer Developed Markets International Cash Cows 100 ETF
+ICPI - iShares 0-1 Year TIPS Bond ETF
 ICPY - Tweedy, Browne International Insider + Value ETF
 ICRC - Bitwise CRCL Option Income Strategy ETF
 ICSH - iShares Ultra Short Duration Bond Active ETF
@@ -5912,6 +5912,7 @@ KROP - Global X AgTech & Food Innovation ETF
 KROS - Keros Therapeutics, Inc. - common stock
 KRP - Kimbell Royalty Partners Common Units Representing Limited Partner Interests
 KRRO - Korro Bio, Inc. - Common Stock
+KRSP - Rice Acquisition Corporation 3 Class A Ordinary Shares
 KRT - Karat Packaging Inc. - Common Stock
 KRUS - Kura Sushi USA, Inc. - Class A Common Stock
 KRYS - Krystal Biotech, Inc. - Common Stock
@@ -5995,7 +5996,7 @@ LAZ - Lazard, Inc. Common Stock
 LAZR - Luminar Technologies, Inc.  - Class A Common Stock
 LB - LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests
 LBAY - Leatherback Long/Short Alternative Yield ETF
-LBGJ - Li Bang International Corporation Inc. - Ordinary Shares
+LBGJ - Li Bang International Corporation Inc. - Class A Ordinary Shares
 LBO - WHITEWOLF Publicly Listed Private Equity ETF
 LBRDA - Liberty Broadband Corporation - Class A Common Stock
 LBRDK - Liberty Broadband Corporation - Class C Common Stock
@@ -6014,15 +6015,14 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
-LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCLG - Logan Capital Broad Innovative Growth ETF
 LCNB - LCNB Corporation - Common Stock
 LCOW - Pacer S&P 500 Quality FCF Aristocrats ETF
 LCR - Leuthold Core ETF
-LCTD - BlackRock World ex U.S. Carbon Transition Readiness ETF
-LCTU - BlackRock U.S. Carbon Transition Readiness ETF
+LCTD - iShares World ex U.S. Carbon Transition Readiness Aware Active ETF
+LCTU - iShares U.S. Carbon Transition Readiness Aware Active ETF
 LCTX - Lineage Cell Therapeutics, Inc. Common Stock
 LCUT - Lifetime Brands, Inc. - Common Stock
 LDDR - LifeX 2035 Income Bucket ETF
@@ -6116,6 +6116,7 @@ LILA - Liberty Latin America Ltd. - Class A Common Stock
 LILAK - Liberty Latin America Ltd. - Class C Common Stock
 LIMI - Themes Lithium & Battery Metal Miners ETF
 LIMN - Liminatus Pharma, Inc. - Class A Common Stock
+LIMNW - Liminatus Pharma, Inc. - Warrants
 LIN - Linde plc - Ordinary Shares
 LINC - Lincoln Educational Services Corporation - Common Stock
 LIND - Lindblad Expeditions Holdings Inc.  - Common Stock
@@ -6566,7 +6567,7 @@ MHLA - Maiden Holdings, Ltd. 6.625% Notes due 2046
 MHN - Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock
 MHNC - Maiden Holdings North America, Ltd. 7.75% Notes due 2043
 MHO - M/I Homes, Inc. Common Stock
-MHUA - Meihua International Medical Technologies Co., Ltd. - Ordinary Shares
+MHUA - Meihua International Medical Technologies Co., Ltd. - Class A Ordinary Shares
 MHY - Man Active High Yield ETF
 MI - NFT Limited Class A Ordinary Share
 MIAX - Miami International Holdings, Inc. Common Stock
@@ -7173,7 +7174,6 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
-NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
 NOG - Northern Oil and Gas, Inc. Common Stock
@@ -7433,7 +7433,6 @@ OCCIM - OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock
 OCCIN - OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due 2026
 OCCIO - OFS Credit Company, Inc. - 6.125% Series C Term Preferred Stock
 OCFC - OceanFirst Financial Corp. - Common Stock
-OCFT - OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares
 OCG - Oriental Culture Holding LTD - Ordinary Shares
 OCGN - Ocugen, Inc. - Common Stock
 OCIO - ClearShares OCIO ETF
@@ -7654,7 +7653,6 @@ OWLT - Owlet, Inc. Class A Common Stock
 OWNB - Bitwise Bitcoin Standard Corporations ETF
 OWNS - Quaker Investment Trust CCM Affordable Housing MBS ETF
 OXBR - Oxbridge Re Holdings Limited - Ordinary Shares
-OXBRW - Oxbridge Re Holdings Limited - Warrant
 OXLC - Oxford Lane Capital Corp. - Closed End Fund
 OXLCG - Oxford Lane Capital Corp. - 7.95% Notes due 2032
 OXLCI - Oxford Lane Capital Corp. - 8.75% Notes due 2030
@@ -7984,7 +7982,6 @@ PLDR - Putnam Sustainable Leaders ETF
 PLG - Platinum Group Metals Ltd. Ordinary Shares (Canada)
 PLMK - Plum Acquisition Corp. IV - Class A Ordinary Shares
 PLMKU - Plum Acquisition Corp. IV - Unit
-PLMKW - Plum Acquisition Corp. IV - Warrants
 PLMR - Palomar Holdings, Inc. - Common stock
 PLNT - Planet Fitness, Inc. Common Stock
 PLOO - Leverage Shares 2x Capped Accelerated PLTR Monthly ETF
@@ -8422,6 +8419,7 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation Class A Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
+QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSI - Quantum-Si Incorporated - Class A Common Stock
 QSIAW - Quantum-Si Incorporated - Warrant
@@ -9779,6 +9777,7 @@ SVAL - iShares US Small Cap Value Factor ETF
 SVC - Service Properties Trust - Shares of Beneficial Interest
 SVCC - Stellar V Capital Corp. - Class A Ordinary Shares
 SVCCU - Stellar V Capital Corp. - Unit
+SVCCW - Stellar V Capital Corp. - Warrant
 SVCO - Silvaco Group, Inc. - Common Stock
 SVIX - -1x Short VIX Futures ETF
 SVM - Silvercorp Metals Inc. Common Shares
@@ -10052,6 +10051,7 @@ TIC - TIC Solutions, Inc. Common Stock
 TIER - T. Rowe Price International Equity Research ETF
 TIGO - Millicom International Cellular S.A. - Common Stock
 TIGR - UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares
+TII - Titan Mining Corporation Common Shares
 TIIV - AAM Todd International Intrinsic Value ETF
 TIL - Instil Bio, Inc. - Common Stock
 TILE - Interface, Inc. - Common Stock
