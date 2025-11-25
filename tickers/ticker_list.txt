@@ -287,6 +287,7 @@ AIFU - AIFU Inc. - Class A Ordinary Share
 AIG - American International Group, Inc. New Common Stock
 AIHS - Senmiao Technology Limited - Common Stock
 AII - American Integrity Insurance Group, Inc. Common Stock
+AIIA - AI Infrastructure Acquisition Corp. Class A Ordinary Shares
 AIIO - Robo.ai Inc. - Class B Ordinary Shares
 AIIOW - Robo.ai Inc. - Warrant
 AIM - AIM ImmunoTech Inc. Common Stock
@@ -616,7 +617,7 @@ ARGX - argenx SE - American Depositary Shares
 ARHS - Arhaus, Inc. - Class A Common Stock
 ARI - Apollo Commercial Real Estate Finance, Inc
 ARKB - ARK 21Shares Bitcoin ETF 
-ARKF - ARK Fintech Innovation ETF
+ARKF - ARK Blockchain & Fintech Innovation ETF
 ARKG - ARK Genomic Revolution ETF
 ARKK - ARK Innovation ETF
 ARKO - ARKO Corp. - Common Stock
@@ -625,7 +626,7 @@ ARKQ - ARK Autonomous Technology & Robotics ETF
 ARKR - Ark Restaurants Corp. - Common Stock
 ARKT - ARK DIET Q4 Buffer ETF
 ARKW - ARK Next Generation Internet ETF
-ARKX - ARK Space Exploration & Innovation ETF
+ARKX - ARK Space & Defense Innovation ETF
 ARL - American Realty Investors, Inc. Common Stock
 ARLO - Arlo Technologies, Inc. Common Stock
 ARLP - Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests
@@ -2578,7 +2579,7 @@ DDX - Defined Duration 10 ETF
 DDXX - Defined Duration 20 ETF
 DE - Deere & Company Common Stock
 DEA - Easterly Government Properties, Inc. Common Stock
-DEC - Diversified Energy Company plc Ordinary Shares
+DEC - Diversified Energy Company Common Stock
 DECK - Deckers Outdoor Corporation Common Stock
 DECM - FT Vest U.S. Equity Max Buffer ETF - December
 DECO - SPDR Galaxy Digital Asset Ecosystem ETF
@@ -2744,6 +2745,7 @@ DLHC - DLH Holdings Corp. - Common Stock
 DLLL - GraniteShares 2x Long DELL Daily ETF
 DLN - WisdomTree U.S. LargeCap Dividend Fund
 DLNG - Dynagas LNG Partners LP Common Units
+DLNV - FT Vest U.S. Equity Dual Directional Buffer ETF - November
 DLO - DLocal Limited - Class A Common Shares
 DLPN - Dolphin Entertainment, Inc. - Common Stock
 DLR - Digital Realty Trust, Inc. Common Stock
@@ -4198,6 +4200,7 @@ GDMA - GadsdenA DynamicA Multi-AssetA ETF
 GDMN - WisdomTree Efficient Gold Plus Gold Miners Strategy Fund
 GDO - Western Asset Global Corporate Opportunity Fund Inc. Common Stock
 GDOC - Goldman Sachs Future Health Care Equity ETF
+GDOG - Grayscale Dogecoin Trust ETF
 GDOT - Green Dot Corporation Class A Common Stock, $0.001 par value
 GDRX - GoodRx Holdings, Inc. - Class A Common Stock
 GDS - GDS Holdings Limited - American Depositary Shares
@@ -4604,6 +4607,7 @@ GXPD - Global X PureCap MSCI Consumer Discretionary ETF
 GXPE - Global X PureCap MSCI Energy ETF
 GXPS - Global X PureCap MSCI Consumer Staples ETF
 GXPT - Global X PureCap MSCI Information Technology ETF
+GXRP - Grayscale XRP Trust ETF
 GXUS - Goldman Sachs MarketBeta Total International Equity ETF
 GYLD - Arrow Dow Jones Global Yield ETF ETF
 GYRE - Gyre Therapeutics, Inc. - Common Stock
@@ -4908,6 +4912,7 @@ HVIIR - Hennessy Capital Investment Corp. VII - Rights
 HVIIU - Hennessy Capital Investment Corp. VII - Unit
 HVMC - Highview Merger Corp. - Class A Ordinary Share
 HVMCU - Highview Merger Corp. - Units
+HVMCW - Highview Merger Corp. - Warrants
 HVT - Haverty Furniture Companies, Inc. Common Stock
 HWAY - Themes US Infrastructure ETF
 HWBK - Hawthorn Bancshares, Inc. - Common Stock
@@ -6289,7 +6294,6 @@ LVO - LiveOne, Inc. - Common Stock
 LVRO - Lavoro Limited - Class A Ordinary Shares
 LVROW - Lavoro Limited - Warrant
 LVS - Las Vegas Sands Corp. Common Stock
-LVTX - LAVA Therapeutics N.V. - Ordinary Shares
 LVWR - LiveWire Group, Inc. Common Stock
 LW - Lamb Weston Holdings, Inc. Common Stock 
 LWAC - LightWave Acquisition Corp. - Class A Ordinary Shares
@@ -7557,6 +7561,9 @@ OPAL - OPAL Fuels Inc. - Class A Common Stock
 OPBK - OP Bancorp - Common Stock
 OPCH - Option Care Health, Inc. - Common Stock
 OPEN - Opendoor Technologies Inc  - Common Stock
+OPENL - Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant
+OPENW - Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant
+OPENZ - Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant
 OPER - ETF ClearShares Ultra-Short Maturity ETF
 OPEX - Tradr 2X Long OPEN Daily ETF
 OPFI - OppFi Inc. Class A Common Stock
@@ -7653,6 +7660,7 @@ OWLT - Owlet, Inc. Class A Common Stock
 OWNB - Bitwise Bitcoin Standard Corporations ETF
 OWNS - Quaker Investment Trust CCM Affordable Housing MBS ETF
 OXBR - Oxbridge Re Holdings Limited - Ordinary Shares
+OXBRW - Oxbridge Re Holdings Limited - Warrant
 OXLC - Oxford Lane Capital Corp. - Closed End Fund
 OXLCG - Oxford Lane Capital Corp. - 7.95% Notes due 2032
 OXLCI - Oxford Lane Capital Corp. - 8.75% Notes due 2030
@@ -7982,6 +7990,7 @@ PLDR - Putnam Sustainable Leaders ETF
 PLG - Platinum Group Metals Ltd. Ordinary Shares (Canada)
 PLMK - Plum Acquisition Corp. IV - Class A Ordinary Shares
 PLMKU - Plum Acquisition Corp. IV - Unit
+PLMKW - Plum Acquisition Corp. IV - Warrants
 PLMR - Palomar Holdings, Inc. - Common stock
 PLNT - Planet Fitness, Inc. Common Stock
 PLOO - Leverage Shares 2x Capped Accelerated PLTR Monthly ETF
@@ -8738,7 +8747,9 @@ RND - First Trust Bloomberg R&D Leaders ETF
 RNEM - Emerging Markets Equity Select ETF
 RNG - RingCentral, Inc. Class A Common Stock
 RNGR - Ranger Energy Services, Inc. Class A Common Stock
+RNGT - Range Capital Acquisition Corp II - Class A Ordinary Shares
 RNGTU - Range Capital Acquisition Corp II - Units
+RNGTW - Range Capital Acquisition Corp II - Warrants
 RNIN - Bushido Capital US SMID Cap Equity ETF
 RNP - Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares
 RNR - RenaissanceRe Holdings Ltd. Common Stock
@@ -9465,8 +9476,6 @@ SOLV - Solventum Corporation Common Stock
 SOLZ - Solana ETF
 SOMN - Southern Company (The) 2025 Series A Corporate Units
 SON - Sonoco Products Company Common Stock
-SOND - Sonder Holdings Inc. - Class A Common Stock
-SONDW - Sonder Holdings Inc. - Warrants
 SONM - Sonim Technologies, Inc. - Common Stock
 SONN - Sonnet BioTherapeutics Holdings, Inc. - Common Stock
 SONO - Sonos, Inc. - Common Stock
@@ -10103,7 +10112,7 @@ TLT - iShares 20+ Year Treasury Bond ETF
 TLTD - FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund
 TLTE - FlexShares Morningstar Emerging Markets Factor Tilt Index Fund
 TLTI - NEOS Enhanced Income 20+ Year Treasury Bond ETF
-TLTP - Amplify Bloomberg U.S. Treasury 12% Premium Income ETF
+TLTP - Amplify TLT U.S. Treasury 12% Option Income ETF
 TLTW - iShares 20+ Year Treasury Bond BuyWrite Strategy ETF
 TLTX - Global X Treasury Bond Enhanced Income ETF
 TLX - Telix Pharmaceuticals Limited - American Depositary Shares
@@ -11309,6 +11318,7 @@ XRPNU - Armada Acquisition Corp. II - Units
 XRPNW - Armada Acquisition Corp. II - Warrant
 XRPR - REX-Osprey XRP ETF
 XRPT - Volatility Shares Trust XRP 2X ETF
+XRPZ - Franklin XRP ETF
 XRT - State Street SPDR S&P Retail ETF
 XRTX - XORTX Therapeutics Inc. - Common Stock
 XRX - Xerox Holdings Corporation - Common Stock
