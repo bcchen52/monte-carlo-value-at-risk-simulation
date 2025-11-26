@@ -741,6 +741,7 @@ ATLN - Atlantic International Corp. - Common Stock
 ATLO - Ames National Corporation - Common Stock
 ATLX - Atlas Lithium Corporation - Common Stock
 ATMC - AlphaTime Acquisition Corp - Ordinary Shares
+ATMCR - AlphaTime Acquisition Corp - Right
 ATMCU - AlphaTime Acquisition Corp - Unit
 ATMCW - AlphaTime Acquisition Corp - Warrant
 ATMP - iPath Select MLP ETN
@@ -2271,7 +2272,7 @@ CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
-CRBN - iShares MSCI ACWI Low Carbon Target ETF
+CRBN - iShares Low Carbon Optimized MSCI ACWI ETF
 CRBP - Corbus Pharmaceuticals Holdings, Inc. - Common Stock
 CRBU - Caribou Biosciences, Inc. - Common Stock
 CRC - California Resources Corporation Common Stock
@@ -2758,6 +2759,7 @@ DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR - Drugs Made In America Acquisition Corp. - Rights
+DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
 DMAT - Global X Disruptive Materials ETF
@@ -3140,6 +3142,7 @@ ELC - Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series du
 ELCV - Strategy Shares Eventide High Dividend ETF
 ELD - WisdomTree Emerging Markets Local Debt Fund
 ELDN - Eledon Pharmaceuticals, Inc. - Common Stock
+ELE - Elemental Royalty Corporation - Common Stock
 ELF - e.l.f. Beauty, Inc. Common Stock
 ELFY - ALPS Electrification Infrastructure ETF
 ELIL - Direxion Daily LLY Bull 2X Shares
@@ -5139,6 +5142,7 @@ IFS - Intercorp Financial Services Inc. Common Shares
 IFV - First Trust Dorsey Wright International Focus 5 ETF
 IG - Principal Investment Grade Corporate Active ETF
 IGA - Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest
+IGACU - Invest Green Acquisition Corporation - Units
 IGBH - iShares Interest Rate Hedged Long-Term Corporate Bond ETF
 IGC - IGC Pharma, Inc. Common Stock
 IGCB - TCW Corporate Bond ETF
@@ -5258,6 +5262,7 @@ INCM - Franklin Income Focus ETF
 INCO - Columbia India Consumer ETF
 INCR - Intercure Ltd. - ordinary shares
 INCY - Incyte Corporation - Common Stock
+IND - Xtrackers Nifty 500 India ETF
 INDA - iShares MSCI India ETF
 INDB - Independent Bank Corp. - Common Stock
 INDE - Matthews India Active ETF
@@ -5352,6 +5357,9 @@ IPCX - Inflection Point Acquisition Corp. III - Class A ordinary shares
 IPCXR - Inflection Point Acquisition Corp. III - Rights
 IPCXU - Inflection Point Acquisition Corp. III - Units
 IPDN - Professional Diversity Network, Inc. - Common Stock
+IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
+IPEXR - Inflection Point Acquisition Corp. - Right
+IPEXU - Inflection Point Acquisition Corp. - Unit
 IPG - Interpublic Group of Companies, Inc. (The) Common Stock
 IPGP - IPG Photonics Corporation - Common Stock
 IPHA - Innate Pharma S.A. - American Depositary Shares
@@ -6377,9 +6385,6 @@ MAX - MediaAlpha, Inc. Class A Common Stock
 MAXI - Simplify Bitcoin Strategy PLUS Income ETF
 MAXJ - iShares Large Cap Max Buffer Jun ETF
 MAXN - Maxeon Solar Technologies, Ltd. - Ordinary Shares
-MAYA - Maywood Acquisition Corp. - Class A Ordinary Shares
-MAYAR - Maywood Acquisition Corp. - Right
-MAYAU - Maywood Acquisition Corp. - Unit
 MAYM - FT Vest U.S. Equity Max Buffer ETF - May
 MAYP - PGIM S&P 500 Buffer 12 ETF - May
 MAYS - J. W. Mays, Inc. - Common Stock
@@ -6498,7 +6503,6 @@ MEMX - Matthews Emerging Markets ex China Active ETF
 MENS - Jyong Biotech Ltd. - Ordinary shares
 MEOH - Methanex Corporation - Common Stock
 MERC - Mercer International Inc. - Common Stock
-MESA - Mesa Air Group, Inc. - Common Stock
 MESO - Mesoblast Limited - American Depositary Shares
 MET - MetLife, Inc. Common Stock
 META - Meta Platforms, Inc. - Class A Common Stock
@@ -7178,6 +7182,7 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
+NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
 NOG - Northern Oil and Gas, Inc. Common Stock
@@ -7441,7 +7446,6 @@ OCG - Oriental Culture Holding LTD - Ordinary Shares
 OCGN - Ocugen, Inc. - Common Stock
 OCIO - ClearShares OCIO ETF
 OCS - Oculis Holding AG - Ordinary shares
-OCSAW - Oculis Holding AG - Warrants
 OCSL - Oaktree Specialty Lending Corporation - Closed End Fund
 OCTB - Aptus October Buffer ETF
 OCTH - Innovator Premium Income 20 Barrier ETF - October
@@ -7744,6 +7748,7 @@ PBD - Invesco Global Clean Energy ETF
 PBDC - Putnam BDC Income ETF
 PBDE - PGIM S&P 500 Buffer 20 ETF - December
 PBE - Invesco Biotechnology & Genome ETF
+PBEU - Portfolio Building Block European Banks Index ETF
 PBF - PBF Energy Inc. Class A Common Stock
 PBFB - PGIM S&P 500 Buffer 20 ETF - February
 PBFR - PGIM Laddered S&P 500 Buffer 20 ETF
@@ -7762,8 +7767,10 @@ PBMWW - Psyence Biomedical Ltd. - Warrant
 PBMY - PGIM S&P 500 Buffer 20 ETF - May
 PBNV - PGIM S&P 500 Buffer 20 ETF - November
 PBOC - PGIM S&P 500 Buffer 20 ETF - October
+PBOG - Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF
 PBOT - Pictet AI & Automation ETF
 PBP - Invesco S&P 500 BuyWrite ETF
+PBPH - Portfolio Building Block World Pharma and Biotech Index ETF
 PBQQ - PGIM Laddered Nasdaq-100 Buffer 12 ETF
 PBR - Petroleo Brasileiro S.A. Petrobras ADS
 PBSE - PGIM S&P 500 Buffer 20 ETF - September
@@ -8324,6 +8331,7 @@ QBTX - Tradr 2X Long QBTS Daily ETF
 QBTZ - Defiance Daily Target 2x Short QBTS ETF
 QBUF - Innovator Nasdaq-100 10 Buffer ETF Quarterly
 QBUL - TrueShares Quarterly Bull Hedge ETF
+QBY - GraniteShares YieldBoost QBTS ETF
 QCAP - FT Vest Nasdaq-100 Conservative Buffer ETF - April
 QCJA - FT Vest Nasdaq-100 Conservative Buffer ETF - January
 QCJL - FT Vest Nasdaq-100 Conservative Buffer ETF - July
@@ -8555,7 +8563,6 @@ RDACR - Rising Dragon Acquisition Corp. - Rights
 RDACU - Rising Dragon Acquisition Corp. - Unit
 RDAG - Republic Digital Acquisition Company - Class A Ordinary Shares
 RDAGU - Republic Digital Acquisition Company - Unit
-RDAGW - Republic Digital Acquisition Company - Warrants
 RDCM - Radcom Ltd. - Ordinary Shares
 RDDT - Reddit, Inc. Class A Common Stock
 RDFI - Rareview Dynamic Fixed Income ETF
@@ -8661,6 +8668,7 @@ RGTIW - Rigetti Computing, Inc.  - Redeemable warrants, each whole warrant exerc
 RGTU - Tradr 2X Long RGTI Daily ETF
 RGTX - Defiance Daily Target 2X Long RGTI ETF
 RGTZ - Defiance Daily Target 2x Short RGTI ETF
+RGYY - GraniteShares YieldBoost RGTI ETF
 RH - RH Common Stock
 RHI - Robert Half Inc. Common Stock
 RHLD - Resolute Holdings Management Common Stock 
@@ -8700,6 +8708,7 @@ RITR - Reitar Logtech Holdings Limited - Ordinary shares
 RIV - RiverNorth Opportunities Fund, Inc. Common Stock
 RIVN - Rivian Automotive, Inc. - Class A Common Stock
 RJDI - RJ Eagle GCM Dividend Select Income ETF
+RJET - Republic Airways Holdings Inc. - Common Stock
 RJF - Raymond James Financial, Inc. Common Stock
 RJMG - FT Raymond James Multicap Growth Equity ETF
 RJMI - RJ Eagle Municipal Income ETF
@@ -8890,6 +8899,7 @@ RWT - Redwood Trust, Inc. Common Stock
 RWTN - Redwood Trust, Inc. 9.125% Senior Notes Due 2029
 RWTO - Redwood Trust, Inc. 9.00% Senior Notes Due 2029
 RWTP - Redwood Trust, Inc. 9.125% Senior Notes Due 2030
+RWTQ - Redwood Trust, Inc. 9.500% Senior Notes Due 2030
 RWX - SPDR DJ Wilshire Intl Real Estate
 RXD - ProShares UltraShort Health Care
 RXI - iShares Global Consumer Discretionary ETF
@@ -10421,7 +10431,7 @@ UBRL - GraniteShares 2x Long UBER Daily ETF
 UBS - UBS Group AG Registered Ordinary Shares
 UBSI - United Bankshares, Inc. - Common Stock
 UBT - ProShares Ultra 20+ Year Treasury
-UBXG - U-BX Technology Ltd. - Ordinary Shares
+UBXG - U-BX Technology Ltd. - Class A Ordinary Shares
 UCAR - U Power Limited - Class A Ordinary Shares
 UCB - United Community Banks, Inc. Common Stock
 UCC - ProShares Ultra Consumer Discretionary
@@ -10638,6 +10648,7 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
+UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -10792,7 +10803,6 @@ VMAX - Hartford US Value ETF
 VMBS - Vanguard Mortgage-Backed Securities ETF
 VMC - Vulcan Materials Company (Holding Company) Common Stock
 VMD - Viemed Healthcare, Inc. - Common Shares
-VMEO - Vimeo, Inc. - Common Stock
 VMI - Valmont Industries, Inc. Common Stock
 VMO - Invesco Municipal Opportunity Trust Common Stock
 VNAM - Global X MSCI Vietnam ETF
@@ -11372,6 +11382,7 @@ YALL - God Bless America ETF
 YANG - Direxion Daily FTSE China Bear 3X Shares
 YB - Yuanbao Inc. - American Depositary Shares
 YBIT - YieldMax Bitcoin Option Income Strategy ETF
+YBMN - Defiance BMNR Option Income ETF
 YBTC - Roundhill Bitcoin Covered Call Strategy ETF
 YCBD - cbdMD, Inc. Common Stock
 YCL - ProShares Ultra Yen
