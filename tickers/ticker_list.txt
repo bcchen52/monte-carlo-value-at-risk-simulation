@@ -1054,7 +1054,6 @@ BDIV - AAM Brentview Dividend Growth ETF
 BDJ - Blackrock Enhanced Equity Dividend Trust
 BDL - Flanigan's Enterprises, Inc. Common Stock
 BDMD - Baird Medical Investment Holdings Ltd - Ordinary Share
-BDMDW - Baird Medical Investment Holdings Ltd - Warrant
 BDN - Brandywine Realty Trust Common Stock
 BDRX - Biodexa Pharmaceuticals plc - American Depositary Shares
 BDRY - Breakwave Dry Bulk Shipping ETF
@@ -1935,7 +1934,6 @@ CHEC - Chenghe Acquisition III Co. - Class A Ordinary Shares
 CHECU - Chenghe Acquisition III Co. - Units
 CHECW - Chenghe Acquisition III Co. - Warrants
 CHEF - The Chefs' Warehouse, Inc. - Common Stock
-CHEK - Check-Cap Ltd. - Ordinary Share
 CHGG - Chegg, Inc. Common Stock
 CHGX - Stance Sustainable Beta ETF
 CHH - Choice Hotels International, Inc. Common Stock
@@ -1993,6 +1991,7 @@ CIMO - Chimera Investment Corporation 9.250% Senior Notes due 2029
 CIMP - Chimera Investment Corporation 8.875% Senior Notes due 2030
 CINF - Cincinnati Financial Corporation - Common Stock
 CING - Cingulate Inc. - Common Stock
+CINGW - Cingulate Inc. - Warrants
 CINT - CI&T Inc Class A Common Shares
 CIO - City Office REIT, Inc. Common Stock
 CION - CION Investment Corporation Common Stock
@@ -2455,7 +2454,7 @@ CWEN - Clearway Energy, Inc. Class C Common Stock
 CWH - Camping World Holdings, Inc. Class A Common Stock
 CWI - SPDR MSCI ACWI ex-US ETF
 CWII - REX CRWV Growth & Income ETF
-CWK - Cushman & Wakefield plc Ordinary Shares
+CWK - Cushman & Wakefield Ltd. Common Shares
 CWS - AdvisorShares Focused Equity ETF
 CWST - Casella Waste Systems, Inc. - Class A Common Stock
 CWT - California Water Service Group Common Stock
@@ -4283,7 +4282,6 @@ GH - Guardant Health, Inc. - Common Stock
 GHC - Graham Holdings Company Common Stock
 GHG - GreenTree Hospitality Group Ltd. American depositary shares, each representing one Class A ordinary share
 GHI - Greystone Housing Impact Investors LP Beneficial Unit Certificates representing assignments of limited partnership interests
-GHLD - Guild Holdings Company Class A Common Stock
 GHM - Graham Corporation Common Stock
 GHRS - GH Research PLC - Ordinary Shares
 GHTA - Goose Hollow Tactical Allocation ETF
@@ -4439,7 +4437,6 @@ GOOX - T-Rex 2X Long Alphabet Daily Target ETF
 GOOY - YieldMax GOOGL Option Income Strategy ETF
 GOP - Unusual Whales Subversive Republican Trading ETF
 GORO - Gold Resource Corporation Common Stock
-GORV - Lazydays Holdings, Inc. - Common Stock
 GOSS - Gossamer Bio, Inc. - Common Stock
 GOTU - Gaotu Techedu Inc. American Depositary Shares
 GOVI - Invesco Equal Weight 0-30 Year Treasury ETF
@@ -4849,7 +4846,6 @@ HSAI - Hesai Group - American Depositary Share, each ADS represents one Class B 
 HSBC - HSBC Holdings, plc. Common Stock
 HSBH - HSBC Holdings plc ADRhedged
 HSCS - HeartSciences Inc. - Common Stock
-HSCSW - HeartSciences Inc. - Warrant
 HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
@@ -5361,7 +5357,6 @@ IPDN - Professional Diversity Network, Inc. - Common Stock
 IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
 IPEXR - Inflection Point Acquisition Corp. - Right
 IPEXU - Inflection Point Acquisition Corp. - Unit
-IPG - Interpublic Group of Companies, Inc. (The) Common Stock
 IPGP - IPG Photonics Corporation - Common Stock
 IPHA - Innate Pharma S.A. - American Depositary Shares
 IPI - Intrepid Potash, Inc Common Stock
@@ -6397,6 +6392,7 @@ MAYW - AllianzIM U.S. Large Cap Buffer20 May ETF
 MAYZ - TrueShares Structured Outcome (May) ETF
 MAZE - Maze Therapeutics, Inc. - Common Stock
 MB - MasterBeef Group - Ordinary Shares
+MBAI - Check-Cap Ltd. - Ordinary Share
 MBAV - M3-Brigade Acquisition V Corp. - Class A Ordinary shares
 MBAVU - M3-Brigade Acquisition V Corp. - Units
 MBAVW - M3-Brigade Acquisition V Corp. - Warrant
@@ -7315,6 +7311,7 @@ NUVL - Nuvalent, Inc. - Class A Common Stock
 NUW - Nuveen AMT-Free Municipal Value Fund
 NUWE - Nuwellis, Inc. - Common Stock
 NVA - Nova Minerals Limited - American Depositary Shares
+NVAWW - Nova Minerals Limited - Warrant
 NVAX - Novavax, Inc. - Common Stock
 NVBT - AllianzIM U.S. Large Cap Buffer10 Nov ETF
 NVBU - AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF
@@ -7410,6 +7407,7 @@ OABI - OmniAb, Inc. - Common Stock
 OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
+OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - OneAscent Core Plus Bond ETF
 OAEM - OneAscent Emerging Markets ETF
 OAIM - OneAscent International Equity ETF
@@ -8356,6 +8354,7 @@ QDWN - DailyDelta Q100 Downside Option Strategy ETF
 QEFA - SPDR MSCI EAFE StrategicFactors ETF
 QEMM - SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
+QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
 QFIN - Qfin Holdings, Inc.  - American Depositary Shares
@@ -10860,7 +10859,6 @@ VRIG - Invesco Variable Rate Investment Grade ETF
 VRM - Vroom, Inc. - Common Stock
 VRME - VerifyMe, Inc. - Common Stock
 VRNS - Varonis Systems, Inc. - Common Stock
-VRNT - Verint Systems Inc. - Common Stock
 VRP - Invesco Variable Rate Preferred ETF
 VRRM - Verra Mobility Corporation - Class A Common Stock
 VRSK - Verisk Analytics, Inc. - Common Stock
@@ -11191,7 +11189,6 @@ XBJA - Innovator U.S. Equity Accelerated 9 Buffer ETF - January
 XBJL - Innovator U.S. Equity Accelerated 9 Buffer ETF - July
 XBOC - Innovator U.S. Equity Accelerated 9 Buffer ETF - October
 XBP - XBP Global Holdings, Inc. - Common Stock
-XBPEW - XBP Global Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
 XC - WisdomTree True Emerging Markets Fund
 XCCC - BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
