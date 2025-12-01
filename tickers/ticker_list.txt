@@ -1873,7 +1873,6 @@ CG - The Carlyle Group Inc. - Common Stock
 CGABL - The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061
 CGAU - Centerra Gold Inc. Common Shares
 CGBD - Carlyle Secured Lending, Inc. - Closed End Fund
-CGBDL - Carlyle Secured Lending, Inc. - 8.20% Notes due 2028
 CGBL - Capital Group Core Balanced ETF
 CGC - Canopy Growth Corporation - Common Shares
 CGCB - Capital Group Core Bond ETF
@@ -2044,7 +2043,6 @@ CLPT - ClearPoint Neuro Inc. - Common Stock
 CLRB - Cellectar Biosciences, Inc. - Common Stock
 CLRO - ClearOne, Inc. - Common Stock
 CLS - Celestica, Inc. Common Stock
-CLSD - Clearside Biomedical, Inc. - Common Stock
 CLSE - Convergence Long/Short Equity ETF
 CLSK - CleanSpark, Inc. - Common Stock
 CLSKW - CleanSpark, Inc. - Warrant
@@ -2822,7 +2820,6 @@ DRDBU - Roman DBDR Acquisition Corp. II - Unit
 DRDBW - Roman DBDR Acquisition Corp. II - Warrants
 DRES - GMO Domestic Resilience ETF
 DRGN - Themes China Generative Artificial Intelligence ETF
-DRH - Diamondrock Hospitality Company Common Stock
 DRI - Darden Restaurants, Inc. Common Stock
 DRIO - DarioHealth Corp. - Common Stock
 DRIP - Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares
@@ -3181,7 +3178,7 @@ EMD - Western Asset Emerging Markets Debt Fund Inc Common Stock
 EMDM - First Trust Bloomberg Emerging Market Democracies ETF
 EMDV - ProShares MSCI Emerging Markets Dividend Growers ETF
 EME - EMCOR Group, Inc. Common Stock
-EMEQ - Macquarie Focused Emerging Markets Equity ETF
+EMEQ - Nomura Focused Emerging Markets Equity ETF
 EMES - Harbor Emerging Markets Select ETF
 EMF - Templeton Emerging Markets Fund Common Stock
 EMGF - iShares Emerging Markets Equity Factor ETF
@@ -3234,7 +3231,6 @@ ENSC - Ensysce Biosciences, Inc. - Common Stock
 ENSG - The Ensign Group, Inc. - Common Stock
 ENTA - Enanta Pharmaceuticals, Inc. - Common Stock
 ENTG - Entegris, Inc. - Common Stock
-ENTO - Entero Therapeutics Inc. - Common Stock
 ENTX - Entera Bio Ltd. - Ordinary Shares
 ENVA - Enova International, Inc. Common Stock
 ENVB - Enveric Biosciences, Inc.  - Common Stock
@@ -3489,7 +3485,7 @@ EXPI - eXp World Holdings, Inc. - Common Stock
 EXPO - Exponent, Inc. - Common Stock
 EXR - Extra Space Storage Inc Common Stock
 EXTR - Extreme Networks, Inc. - Common Stock
-EXUS - Macquarie Focused International Core ETF
+EXUS - Nomura Focused International Core ETF
 EYE - National Vision Holdings, Inc. - Common Stock
 EYEG - AB Corporate Bond ETF
 EYLD - Cambria Emerging Shareholder Yield ETF
@@ -4478,6 +4474,7 @@ GRBK - Green Brick Partners, Inc. Common Stock
 GRC - Gorman-Rupp Company (The) Common Stock
 GRCE - Grace Therapeutics, Inc. - Common Stock
 GRDN - Guardian Pharmacy Services, Inc. Class A Common Stock
+GRDX - GridAI Technologies Corp.  - Common Stock
 GREE - Greenidge Generation Holdings Inc. - Class A Common Stock
 GREEL - Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026
 GREK - Global X MSCI Greece ETF
@@ -4641,7 +4638,6 @@ HBANP - Huntington Bancshares Incorporated - Depositary Shares 4.500% Series H N
 HBB - Hamilton Beach Brands Holding Company Class A Common Stock 
 HBCP - Home Bancorp, Inc. - Common Stock
 HBDC - Hilton BDC Corporate Bond ETF
-HBI - Hanesbrands Inc. Common Stock
 HBIO - Harvard Bioscience, Inc. - Common Stock
 HBM - Hudbay Minerals Inc. Ordinary Shares (Canada)
 HBNB - Hotel101 Global Holdings Corp. - Class A Ordinary Shares
@@ -6146,7 +6142,6 @@ LITS - Lite Strategy, Inc. - Common Stock
 LIVE - Live Ventures Incorporated - Common Stock
 LIVN - LivaNova PLC - Ordinary Shares
 LIXT - Lixte Biotechnology Holdings, Inc. - Common Stock
-LIXTW - Lixte Biotechnology Holdings, Inc. - Warrants
 LJAN - Innovator Premium Income 15 Buffer ETF - January
 LJUL - Innovator Premium Income 15 Buffer ETF - July
 LKFN - Lakeland Financial Corporation - Common Stock
