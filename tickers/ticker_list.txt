@@ -348,6 +348,7 @@ ALC - Alcon Inc. Ordinary Shares
 ALCO - Alico, Inc. - Common Stock
 ALCY - Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares
 ALCYU - Alchemy Investments Acquisition Corp 1 - Units
+ALCYW - Alchemy Investments Acquisition Corp 1 - Warrants
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
 ALDFW - Aldel Financial II Inc. - Warrants
@@ -1209,6 +1210,7 @@ BITY - Amplify Bitcoin 2% Monthly Option Income ETF
 BIV - Vanguard Intermediate-Term Bond ETF
 BIVI - BioVie Inc. - Common stock
 BIVIW - BioVie Inc. - Warrant
+BIXIU - Bitcoin Infrastructure Acquisition Corp Ltd. - Units
 BIYA - Baiya International Group Inc.  - Ordinary Shares
 BIZD - VanEck BDC Income ETF
 BJ - BJ's Wholesale Club Holdings, Inc. Common Stock
@@ -3347,6 +3349,7 @@ ETB - Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-
 ETCO - Grayscale Ethereum Covered Call ETF
 ETD - Ethan Allen Interiors Inc. Common Stock
 ETEC - iShares Breakthrough Environmental Solutions ETF
+ETFT - Fundsmith Equity ETF
 ETG - Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest
 ETH - Grayscale Ethereum Mini Trust (ETH)
 ETHA - iShares Ethereum Trust ETF
@@ -3700,6 +3703,7 @@ FGD - First Trust DJ Global Select Dividend
 FGDL - Franklin Responsibly Sourced Gold ETF
 FGEN - FibroGen, Inc - Common Stock
 FGI - FGI Industries Ltd. - Ordinary Shares
+FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
 FGMC - FG Merger II Corp. - Common stock
@@ -4421,6 +4425,7 @@ GOCT - FT Vest U.S. Equity Moderate Buffer ETF - October
 GOEX - Global X Gold Explorers ETF
 GOF - Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest
 GOGO - Gogo Inc. - Common Stock
+GOLD - Gold.com, Inc. Common Stock
 GOLF - Acushnet Holdings Corp. Common Stock
 GOLY - Strategy Shares Gold Enhanced Yield ETF
 GOOD - Gladstone Commercial Corporation - Real Estate Investment Trust
@@ -4437,6 +4442,7 @@ GOP - Unusual Whales Subversive Republican Trading ETF
 GORO - Gold Resource Corporation Common Stock
 GOSS - Gossamer Bio, Inc. - Common Stock
 GOTU - Gaotu Techedu Inc. American Depositary Shares
+GOU - GraniteShares 2x Long GOOGL Daily ETF
 GOVI - Invesco Equal Weight 0-30 Year Treasury ETF
 GOVT - iShares U.S. Treasury Bond ETF
 GOVX - GeoVax Labs, Inc. - Common Stock
@@ -4776,6 +4782,7 @@ HMN - Horace Mann Educators Corporation Common Stock
 HMOP - Hartford Municipal Opportunities ETF
 HMR - Heidmar Maritime Holdings Corp. - Common Stock
 HMY - Harmony Gold Mining Company Limited
+HMYY - GraniteShares YieldBoost HIMS ETF
 HNDL - Strategy Shares Nasdaq 7HANDL Index ETF
 HNGE - Hinge Health, Inc. Class A Common Stock
 HNI - HNI Corporation Common Stock
@@ -4843,6 +4850,7 @@ HSAI - Hesai Group - American Depositary Share, each ADS represents one Class B 
 HSBC - HSBC Holdings, plc. Common Stock
 HSBH - HSBC Holdings plc ADRhedged
 HSCS - HeartSciences Inc. - Common Stock
+HSCSW - HeartSciences Inc. - Warrant
 HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
@@ -7410,6 +7418,7 @@ OAKM - Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
+OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
@@ -8729,6 +8738,7 @@ RMD - ResMed Inc. Common Stock
 RMI - RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock
 RMIF - LHA Risk-Managed Income ETF
 RMM - RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock
+RMME - Rareview Government Money Market ETF
 RMMZ - RiverNorth Managed Duration Municipal Income Fund II, Inc. Common Stock
 RMNI - Rimini Street, Inc. - Common Stock
 RMNY - Rockefeller New York Municipal Bond ETF
@@ -8849,6 +8859,7 @@ RTO - Rentokil Initial plc American Depositary Shares (each representing five (5
 RTRE - Rareview Total Return Bond ETF
 RTX - RTX Corporation Common Stock
 RTXG - Leverage Shares 2X Long RTX Daily ETF
+RTYY - GraniteShares YieldBoost RIOT ETF
 RUBI - Rubico Inc. - Common Stock
 RULE - Adaptive Core ETF
 RUM - Rumble Inc. - Class A Common Stock
@@ -9474,6 +9485,7 @@ SOLR - Guinness Atkinson Sustainable Energy ETF
 SOLS - Solstice Advanced Materials Inc. - Common Stock
 SOLT - 2x Solana ETF
 SOLV - Solventum Corporation Common Stock
+SOLX - T-REX 2X Long SOL Daily Target ETF
 SOLZ - Solana ETF
 SOMN - Southern Company (The) 2025 Series A Corporate Units
 SON - Sonoco Products Company Common Stock
@@ -11311,6 +11323,7 @@ XRMI - Global X S&P 500 Risk Managed Income ETF
 XRP - Bitwise XRP ETF
 XRPC - Canary XRP ETF
 XRPI - Volatility Shares Trust XRP ETF
+XRPK - T-REX 2X Long XRP Daily Target ETF
 XRPM - Amplify XRP 3% Monthly Premium Income ETF
 XRPN - Armada Acquisition Corp. II - Class A Ordinary Shares
 XRPNU - Armada Acquisition Corp. II - Units
