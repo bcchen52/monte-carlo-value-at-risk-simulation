@@ -915,6 +915,7 @@ BAIG - Leverage Shares 2X Long BBAI Daily ETF
 BAK - Braskem SA ADR
 BALI - iShares U.S. Large Cap Premium Income Active ETF
 BALL - Ball Corporation Common Stock
+BALQ - iShares Nasdaq Premium Income Active ETF
 BALT - Innovator Defined Wealth Shield ETF
 BALY - Bally's Corporation Common Stock
 BAM - Brookfield Asset Management Inc Class A Limited Voting Shares
@@ -1022,7 +1023,6 @@ BCHP - Principal Focused Blue Chip ETF
 BCI - abrdn Bloomberg All Commodity Strategy K-1 Free ETF
 BCIC - BCP Investment Corporation - Closed End Fund
 BCIL - Bancreek International Large Cap ETF
-BCIM - abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF
 BCKT - LifeX 2030 Income Bucket ETF
 BCLO - iShares BBB-B CLO Active ETF
 BCML - BayCom Corp - Common Stock
@@ -1117,7 +1117,6 @@ BFRE - Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
-BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
@@ -2079,7 +2078,6 @@ CMMB - Chemomab Therapeutics Ltd.  - American Depositary Shares
 CMND - Clearmind Medicine Inc. - Common Shares
 CMP - Compass Minerals Intl Inc Common Stock
 CMPO - CompoSecure, Inc. Class A Common Stock
-CMPOW - CompoSecure, Inc.  - Warrant
 CMPR - Cimpress plc - Ordinary Shares
 CMPS - COMPASS Pathways Plc - American Depository Shares
 CMPX - Compass Therapeutics, Inc. - Common Stock
@@ -2501,6 +2499,7 @@ DAL - Delta Air Lines, Inc. Common Stock
 DALI - First Trust Dorsey Wright DALI Equity ETF
 DAMD - Defiance Daily Target 2X Short AMD ETF
 DAN - Dana Incorporated Common Stock 
+DANA - Dana Limited Volatility ETF
 DAO - Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share
 DAPP - VanEck Digital Transformation ETF
 DAPR - FT Vest U.S. Equity Deep Buffer ETF - April
@@ -2768,6 +2767,8 @@ DMAY - FT Vest U.S. Equity Deep Buffer ETF - May
 DMB - BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock
 DMBS - DoubleLine Mortgage ETF
 DMCY - Democracy International Fund
+DMII - Drugs Made In America Acquisition II Corp. - Ordinary Shares
+DMIIR - Drugs Made In America Acquisition II Corp. - Right
 DMIIU - Drugs Made In America Acquisition II Corp. - Unit
 DMLP - Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests
 DMO - Western Asset Mortgage Opportunity Fund Inc. Common Stock
@@ -3424,7 +3425,9 @@ EVN - Eaton Vance Municipal Income Trust Common Stock
 EVNT - AltShares Event-Driven ETF
 EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
 EVOK - Evoke Pharma, Inc. - Common Stock
+EVOX - Evolution Global Acquisition Corp - Class A Ordinary Shares
 EVOXU - Evolution Global Acquisition Corp - Units
+EVOXW - Evolution Global Acquisition Corp - Warrants
 EVR - Evercore Inc. Class A Common Stock
 EVRG - Evergy, Inc. - Common Stock
 EVSB - Eaton Vance Ultra-Short Income ETF
@@ -3956,6 +3959,7 @@ FRDM - Freedom 100 Emerging Markets ETF
 FRDU - Direxion Daily F Bull 2X ETF
 FREL - Fidelity MSCI Real Estate Index ETF
 FRGE - Forge Global Holdings, Inc. Common Stock
+FRGN - Horizon International Equity ETF
 FRGT - Freight Technologies, Inc. - Ordinary Shares
 FRHC - Freedom Holding Corp. - Common Stock
 FRI - First Trust S&P REIT Index Fund
@@ -4448,6 +4452,7 @@ GOVT - iShares U.S. Treasury Bond ETF
 GOVX - GeoVax Labs, Inc. - Common Stock
 GOVZ - iShares 25  Year Treasury STRIPS Bond ETF
 GP - GreenPower Motor Company Inc. - Common Shares
+GPACU - General Purpose Acquisition Corp. - Units
 GPAT - GP-Act III Acquisition Corp. - Class A Ordinary Share
 GPATU - GP-Act III Acquisition Corp. - Units
 GPATW - GP-Act III Acquisition Corp. - Warrants
@@ -5275,7 +5280,7 @@ INDP - Indaptus Therapeutics, Inc. - Common Stock
 INDS - Pacer Industrial Real Estate ETF
 INDV - Indivior PLC - Ordinary Shares
 INDY - iShares India 50 ETF
-INEO - INNEOVA Holdings Limited - Ordinary Shares
+INEO - INNEOVA Holdings Limited - Class A Ordinary Shares
 INEQ - Columbia International Equity Income ETF
 INFL - Horizon Kinetics Inflation Beneficiaries ETF
 INFO - Harbor PanAgora Dynamic Large Cap Core ETF
@@ -5431,9 +5436,6 @@ ISPR - Ispire Technology Inc. - Common Stock
 ISPY - ProShares S&P 500 High Income ETF
 ISRA - VanEck Israel ETF
 ISRG - Intuitive Surgical, Inc. - Common Stock
-ISRL - Israel Acquisitions Corp - Class A Ordinary Shares
-ISRLU - Israel Acquisitions Corp - Unit
-ISRLW - Israel Acquisitions Corp - Warrant
 ISSC - Innovative Solutions and Support, Inc. - Common Stock
 ISTB - iShares Core 1-5 Year USD Bond ETF
 ISTR - Investar Holding Corporation - Common Stock
@@ -7032,6 +7034,7 @@ NEBX - Tradr 2X Long NBIS Daily ETF
 NECB - NorthEast Community Bancorp, Inc. - Common Stock
 NEE - NextEra Energy, Inc. Common Stock
 NEGG - Newegg Commerce, Inc. - Common Shares
+NEHI - NEOS Ethereum High Income ETF
 NELS - Nelson Select ETF
 NEM - Newmont Corporation
 NEMD - Neuberger Berman Emerging Markets Debt Hard Currency ETF
@@ -7720,6 +7723,7 @@ PAPI - Parametric Equity Premium Income ETF
 PAPL - Pineapple Financial Inc. Common Stock
 PAPR - Innovator U.S. Equity Power Buffer ETF - April
 PAR - PAR Technology Corporation Common Stock
+PARK - Park Dental Partners, Inc. - Common Stock
 PARR - Par Pacific Holdings, Inc.  Common Stock
 PASG - Passage Bio, Inc. - Common Stock
 PASW - Ping An Biomedical Co., Ltd. - Ordinary Shares
@@ -8275,6 +8279,7 @@ PULM - Pulmatrix, Inc. - Common Stock
 PULS - PGIM Ultra Short Bond ETF
 PULT - Putnam ESG Ultra Short ETF
 PUMP - ProPetro Holding Corp. Common Stock
+PURR - Hyperliquid Strategies Inc - Common Stock
 PUSH - PGIM Ultra Short Municipal Bond ETF
 PVAL - Putnam Focused Large Cap Value ETF
 PVEX - TrueShares ConVex Protect ETF
@@ -9465,6 +9470,7 @@ SOCA - Solarius Capital Acquisition Corp. - Class A Ordinary Share
 SOCAU - Solarius Capital Acquisition Corp. - Units
 SOCAW - Solarius Capital Acquisition Corp. - Warrant
 SOCL - Global X Social Media ETF
+SOEZ - Franklin Solana ETF
 SOFI - SoFi Technologies, Inc.  - Common Stock
 SOFR - Amplify Samsung SOFR ETF
 SOFX - Defiance Daily Target 2X Long SOFI ETF
@@ -9490,7 +9496,6 @@ SOLZ - Solana ETF
 SOMN - Southern Company (The) 2025 Series A Corporate Units
 SON - Sonoco Products Company Common Stock
 SONM - Sonim Technologies, Inc. - Common Stock
-SONN - Sonnet BioTherapeutics Holdings, Inc. - Common Stock
 SONO - Sonos, Inc. - Common Stock
 SONY - Sony Group Corporation American Depositary Shares 
 SOPA - Society Pass Incorporated - Common Stock
@@ -9868,7 +9873,6 @@ TAFM - AB Tax-Aware Intermediate Municipal ETF
 TAGG - T. Rowe Price QM U.S. Bond ETF
 TAGS - Teucrium Agricultural Fund ETV
 TAIL - Cambria Tail Risk ETF
-TAIT - Taitron Components Incorporated - Class A Common Stock
 TAK - Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)
 TAL - TAL Education Group American Depositary Shares
 TALK - Talkspace, Inc. - Common Stock
@@ -10515,6 +10519,7 @@ UNFI - United Natural Foods, Inc. Common Stock
 UNG - United States Natural Gas Fund LP
 UNH - UnitedHealth Group Incorporated Common Stock (DE)
 UNHG - Leverage Shares 2X Long UNH Daily ETF
+UNHW - Roundhill UNH WeeklyPay ETF
 UNIT - Uniti Group Inc. - Common Stock
 UNIY - WisdomTree Voya Yield Enhanced USD Universal Bond Fund
 UNL - United States 12 Month Natural Gas Fund
@@ -10700,6 +10705,7 @@ VCV - Invesco California Value Municipal Income Trust Common Stock
 VCYT - Veracyte, Inc. - Common Stock
 VDC - Vanguard Consumer Staples ETF
 VDE - Vanguard Energy ETF
+VDI - Virtus International Dividend ETF
 VDIG - Vanguard Wellington Dividend Growth Active ETF
 VEA - Vanguard FTSE Developed Markets ETF
 VECO - Veeco Instruments Inc. - Common Stock
@@ -10807,6 +10813,7 @@ VMC - Vulcan Materials Company (Holding Company) Common Stock
 VMD - Viemed Healthcare, Inc. - Common Shares
 VMI - Valmont Industries, Inc. Common Stock
 VMO - Invesco Municipal Opportunity Trust Common Stock
+VMSB - Voya Multi-Sector Income ETF
 VNAM - Global X MSCI Vietnam ETF
 VNCE - Vince Holding Corp. - Common Stock
 VNDA - Vanda Pharmaceuticals Inc. - Common Stock
@@ -10925,6 +10932,7 @@ VTWO - Vanguard Russell 2000 ETF
 VTWV - Vanguard Russell 2000 Value ETF
 VTYX - Ventyx Biosciences, Inc. - Common Stock
 VUG - Vanguard Growth ETF
+VUS - Virtus US Dividend ETF
 VUSB - Vanguard Ultra-Short Bond ETF
 VUSE - Vident U.S. Equity Strategy ETF
 VUSG - Vanguard Wellington U.S. Growth Active ETF
