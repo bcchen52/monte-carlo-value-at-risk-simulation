@@ -171,6 +171,7 @@ ADVE - Matthews Asia Dividend Active ETF
 ADVM - Adverum Biotechnologies, Inc. - Common Stock
 ADX - Adams Diversified Equity Fund Inc.
 ADXN - Addex Therapeutics Ltd - American Depositary Shares
+AEAQU - Activate Energy Acquisition Corp. - Unit
 AEBI - Aebi Schmidt Holding AG - Common Stock
 AEC - Anfield Energy Inc. - Common Shares
 AEE - Ameren Corporation Common Stock
@@ -437,6 +438,7 @@ AMLP - Alerian MLP ETF
 AMLX - Amylyx Pharmaceuticals, Inc. - Common Stock
 AMN - AMN Healthcare Services Inc
 AMOD - Alpha Modus Holdings, Inc. - Class A Common Stock
+AMODW - Alpha Modus Holdings, Inc. - Warrant
 AMOM - QRAFT AI-Enhanced U.S. Large Cap Momentum ETF
 AMP - Ameriprise Financial, Inc. Common Stock
 AMPG - Amplitech Group, Inc. - Common Stock
@@ -1336,6 +1338,7 @@ BND - Vanguard Total Bond Market ETF
 BNDC - FlexShares Core Select Bond Fund
 BNDD - Quadratic Deflation ETF
 BNDI - NEOS Enhanced Income Aggregate Bond ETF
+BNDP - Vanguard Core-Plus Bond Index ETF
 BNDS - Infrastructure Capital Bond Income ETF
 BNDW - Vanguard Total World Bond ETF
 BNDX - Vanguard Total International Bond ETF
@@ -1509,6 +1512,7 @@ BTA - BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial 
 BTAI - BioXcel Therapeutics, Inc. - Common Stock
 BTAL - AGF U.S. Market Neutral Anti-Beta Fund
 BTBD - BT Brands, Inc. - Common Stock
+BTBDW - BT Brands, Inc. - Warrant
 BTBT - Bit Digital, Inc. - Ordinary Share
 BTC - Grayscale Bitcoin Mini Trust (BTC)
 BTCC - Grayscale Bitcoin Covered Call ETF
@@ -1918,7 +1922,6 @@ CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
-CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -1995,6 +1998,7 @@ CIO - City Office REIT, Inc. Common Stock
 CION - CION Investment Corporation Common Stock
 CISO - CISO Global, Inc. - Common Stock
 CISS - C3is Inc. - Common Stock
+CITR - General Enterprise Ventures, Inc. Common Stock
 CIVB - Civista Bancshares, Inc.  - Common Stock
 CIVI - Civitas Resources, Inc. Common Stock
 CIX - CompX International Inc. Common Stock
@@ -4961,6 +4965,7 @@ HYLN - Hyliion Holdings Corp. Class A Common Stock
 HYLS - First Trust Tactical High Yield ETF
 HYMB - State Street SPDR Nuveen ICE High Yield Municipal Bond ETF
 HYMC - Hycroft Mining Holding Corporation - Class A Common Stock
+HYNE - Hoyne Bancorp, Inc. - Common Stock
 HYP - Golden Eagle Dynamic Hypergrowth ETF
 HYPD - Hyperion DeFi, Inc. - Common Stock
 HYPR - Hyperfine, Inc.  - Class A Common Stock
@@ -4992,7 +4997,6 @@ IAUI - NEOS Gold High Income ETF
 IAUM - iShares Gold Trust Micro Shares
 IAUX - i-80 Gold Corp. Common Shares
 IBAC - IB Acquisition Corp. - Common Stock
-IBACR - IB Acquisition Corp. - Right
 IBAT - iShares Energy Storage & Materials ETF
 IBB - iShares Biotechnology ETF
 IBBQ - Invesco Nasdaq Biotechnology ETF
@@ -5490,6 +5494,7 @@ IVP - Inspire Veterinary Partners, Inc. - Class A Common Stock
 IVR - INVESCO MORTGAGE CAPITAL INC Common Stock
 IVRA - Invesco Real Assets ESG ETF
 IVRS - iShares Future Metaverse Tech and Communications ETF
+IVSS - Applied Finance IVS US SMID ETF
 IVT - InvenTrust Properties Corp. Common Stock
 IVV - iShares Core S&P 500 ETF
 IVVB - iShares Large Cap Deep Quarterly Laddered ETF
@@ -5904,6 +5909,7 @@ KOYN - CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares
 KOYNU - CSLM Digital Asset Acquisition Corp III - Units
 KOYNW - CSLM Digital Asset Acquisition Corp III - Warrants
 KPDD - KraneShares 2x Long PDD Daily ETF
+KPHO - KraneShares Dragon Capital Vietnam Growth Index ETF
 KPLT - Katapult Holdings, Inc. - Common Stock
 KPLTW - Katapult Holdings, Inc. - Warrant
 KPRO - KraneShares 100% KWEB Defined Outcome January 2027 ETF
@@ -7153,7 +7159,6 @@ NMIH - NMI Holdings Inc - Common Stock
 NML - Neuberger Berman Energy Infrastructure and Income Fund Inc. Common Stock
 NMM - Navios Maritime Partners LP Common Units Representing Limited Partner Interests
 NMP - NMP Acquisition Corp. - Class A Ordinary Shares
-NMPAR - NMP Acquisition Corp. - Right
 NMPAU - NMP Acquisition Corp. - Units
 NMR - Nomura Holdings Inc ADR American Depositary Shares
 NMRA - Neumora Therapeutics, Inc. - Common Stock
@@ -7381,7 +7386,6 @@ NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
 NXG - NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
 NXGL - NexGel, Inc - Common Stock
-NXGLW - NexGel, Inc - Warrant
 NXJ - Nuveen New Jersey Qualified Municipal Fund 
 NXL - Nexalin Technology, Inc. - Common Stock
 NXN - Nuveen New York Select Tax-Free Income Portfolio Common Stock
@@ -7410,7 +7414,6 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - State Street SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
-OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -7604,7 +7607,6 @@ ORI - Old Republic International Corporation Common Stock
 ORIC - Oric Pharmaceuticals, Inc. - Common Stock
 ORIQ - Origin Investment Corp I - Ordinary Shares
 ORIQU - Origin Investment Corp I - Units
-ORIQW - Origin Investment Corp I - Redeemable Warrant
 ORIS - Oriental Rise Holdings Limited - Ordinary Shares
 ORKA - Oruka Therapeutics, Inc. - Common Stock
 ORKT - Orangekloud Technology Inc. - Class A Ordinary Shares
@@ -8137,6 +8139,7 @@ PRCT - PROCEPT BioRobotics Corporation - Common Stock
 PRDO - Perdoceo Education Corporation - Common Stock
 PRE - Prenetics Global Limited - Class A Ordinary Share
 PREF - Principal Spectrum Preferred Securities Active ETF
+PRENW - Prenetics Global Limited - Warrant
 PRF - Invesco RAFI US 1000 ETF
 PRFD - PIMCO Preferred and Capital Securities Active Exchange-Traded Fund
 PRFX - PainReform Ltd. - Ordinary Shares
@@ -8597,6 +8600,7 @@ REBN - Reborn Coffee, Inc. - Common Stock
 RECS - Columbia Research Enhanced Core ETF
 RECT - Rectitude Holdings Ltd - Ordinary Shares
 REE - REE Automotive Ltd. - Class A Ordinary Shares
+REED - Reed's, Inc. Common Stock
 REET - iShares Global REIT ETF
 REFI - Chicago Atlantic Real Estate Finance, Inc. - Common Stock
 REFR - Research Frontiers Incorporated - Common Stock
@@ -8661,6 +8665,7 @@ RGEF - Rockefeller Global Equity ETF
 RGEN - Repligen Corporation - Common Stock
 RGLD - Royal Gold, Inc. - Common Stock
 RGLO - Russell Investments Global Equity ETF
+RGNT - Regentis Biomaterials Ltd. Ordinary Shares
 RGNX - REGENXBIO Inc. - Common Stock
 RGP - Resources Connection, Inc. - Common Stock
 RGR - Sturm, Ruger & Company, Inc. Common Stock
@@ -8679,7 +8684,6 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
-RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -9085,7 +9089,6 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
-SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -9170,6 +9173,7 @@ SFLR - Innovator Equity Managed Floor ETF
 SFM - Sprouts Farmers Market, Inc. - Common Stock
 SFNC - Simmons First National Corporation - Common Stock
 SFST - Southern First Bancshares, Inc. - Common Stock
+SFTX - Horizon International Managed Risk ETF
 SFTY - Horizon Managed Risk ETF
 SFWL - Shengfeng Development Limited - Class A Ordinary Shares
 SFY - SoFi Select 500 ETF
@@ -9389,6 +9393,7 @@ SMID - Smith-Midland Corporation - Common Stock
 SMIG - Bahl & Gaynor Small/Mid Cap Income Growth ETF
 SMIN - Ishares MSCI India Small Cap ETF
 SMIZ - Zacks Small/Mid Cap ETF
+SMJF - SMJ International Holdings Inc. Class A Ordinary Shares
 SMLF - iShares U.S. Small-Cap Equity Factor ETF
 SMLL - Harbor Active Small Cap ETF
 SMLR - Semler Scientific, Inc. - Common Stock
@@ -9401,6 +9406,7 @@ SMN - ProShares UltraShort Materials
 SMOG - VanEck Low Carbon Energy ETF
 SMOM - Symmetry Panoramic Sector Momentum ETF
 SMOT - VanEck Morningstar SMID Moat ETF
+SMOX - Horizon Small/Mid Cap Core Equity ETF
 SMP - Standard Motor Products, Inc. Common Stock
 SMPL - The Simply Good Foods Company - Common Stock
 SMQ - Tradr 1X Short Innovation 100 Monthly ETF
@@ -10404,6 +10410,7 @@ TXUE - Thornburg International Equity ETF
 TXUG - Thornburg International Growth Fund ETF
 TXXD - 21Shares 2x Long Dogecoin ETF
 TXXI - BondBloxx IR+M Tax-Aware Intermediate Duration ETF
+TXXS - 21Shares 2x Long Sui ETF
 TY - Tri Continental Corporation Common Stock
 TYA - Simplify Intermediate Term Treasury Futures Strategy ETF
 TYD - Direxion Daily 10-Yr Treasury Bull 3x Shrs
