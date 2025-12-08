@@ -1439,10 +1439,9 @@ BRNS - Barinthus Biotherapeutics plc - American Depositary Shares
 BRNY - Burney U.S. Factor Rotation ETF
 BRO - Brown & Brown, Inc. Common Stock
 BROS - Dutch Bros Inc. Class A Common Stock
-BRR - Columbus Circle Capital Corp I - Class A Ordinary Shares
+BRR - ProCap Financial, Inc. - Common Stock
 BRRR - Coinshares Bitcoin ETF
-BRRWU - Columbus Circle Capital Corp I - Units
-BRRWW - Columbus Circle Capital Corp I - Warrant.
+BRRWW - ProCap Financial, Inc. - Warrant.
 BRSL - Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares
 BRSP - BrightSpire Capital, Inc. Class A Common Stock
 BRT - BRT Apartments Corp. (MD) Common Stock
@@ -1609,7 +1608,6 @@ BWMN - Bowman Consulting Group Ltd. - Common Stock
 BWMX - Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares
 BWNB - Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026
 BWOW - Bitwise Dogecoin ETF
-BWSN - Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026
 BWTG - Brendan Wood TopGun Index ETF
 BWX - SPDR Bloomberg International Treasury Bond ETF
 BWXT - BWX Technologies, Inc. Common Stock
@@ -1699,7 +1697,6 @@ CARR - Carrier Global Corporation Common Stock
 CARS - Cars.com Inc. Common Stock 
 CART - Maplebear Inc. - Common Stock
 CARU - MAX Auto Industry 3x Leveraged ETN
-CARV - Carver Bancorp, Inc. - Common Stock
 CARY - Angel Oak Income ETF
 CARZ - First Trust S-Network Future Vehicles & Technology ETF
 CAS - Simplify China A Shares PLUS Income ETF
@@ -2806,7 +2803,7 @@ DOLE - Dole plc Ordinary Shares
 DOMH - Dominari Holdings Inc. - Common Stock
 DOMO - Domo, Inc. - Class B Common Stock
 DON - WisdomTree U.S. MidCap Dividend Fund
-DOOO - BRP Inc. - Common Subordinate Voting Shares
+DOO - BRP Inc. - Common Subordinate Voting Shares
 DORM - Dorman Products, Inc. - Common Stock
 DOUG - Douglas Elliman Inc. Common Stock
 DOV - Dover Corporation Common Stock
@@ -4917,7 +4914,6 @@ HUN - Huntsman Corporation Common Stock
 HURA - TuHURA Biosciences, Inc. - Common Stock
 HURC - Hurco Companies, Inc. - Common Stock
 HURN - Huron Consulting Group Inc. - Common Stock
-HUSA - Houston American Energy Corporation Common Stock
 HUSV - First Trust Horizon Managed Volatility Domestic ETF
 HUT - Hut 8 Corp. - Common Stock
 HUYA - HUYA Inc. American depositary shares, each  representing one Class A ordinary share
@@ -6705,7 +6701,7 @@ MNYWW - MoneyHero Limited - Warrants
 MNZL - Manzil Russell Halal USA Broad Market ETF
 MO - Altria Group, Inc.
 MOAT - VanEck Morningstar Wide Moat ETF
-MOB - Mobilicom Limited - American Depositary Shares
+MOB - Mobilicom Limited - Ordinary Shares
 MOBBW - Mobilicom Limited - Warrants
 MOBX - Mobix Labs, Inc. - Class A Common Stock
 MOBXW - Mobix Labs, Inc. - Warrants
@@ -6816,7 +6812,7 @@ MSS - Maison Solutions Inc. - Class A Common Stock
 MSSM - Morgan Stanley Pathway Small-Mid Cap Equity ETF
 MSSS - Monarch Select Subsector Index ETF
 MSST - YieldMax MSTR Performance & Distribution Target 25 ETF
-MST - Defiance Leveraged Long Income MSTR ETF
+MST - Defiance Leveraged Long + Income MSTR ETF
 MSTB - LHA Market State Tactical Beta ETF
 MSTI - Madison Short Term Strategic Income ETF
 MSTK - Tuttle Capital MSTR 0DTE Covered Call ETF
@@ -6878,7 +6874,6 @@ MUNI - PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund
 MUNX - AMG GW&K Muni Income ETF
 MUNY - Vanguard New York Tax-Exempt Bond ETF
 MUR - Murphy Oil Corporation Common Stock
-MURA - Mural Oncology plc - Ordinary Shares
 MUSA - Murphy USA Inc. Common Stock
 MUSE - TCW Multisector Credit Income ETF
 MUSI - American Century Multisector Income ETF
@@ -9596,7 +9591,6 @@ SPOK - Spok Holdings, Inc. - Common Stock
 SPOT - Spotify Technology S.A. Ordinary Shares
 SPPL - SIMPPLE LTD. - Ordinary Shares
 SPPP - Sprott Physical Platinum and Palladium Trust
-SPR - Spirit Aerosystems Holdings, Inc. Common Stock
 SPRB - Spruce Biosciences, Inc. - Common Stock
 SPRC - SciSparc Ltd. - Ordinary Shares
 SPRE - SP Funds S&P Global REIT Sharia ETF
@@ -10352,7 +10346,7 @@ TTAN - ServiceTitan, Inc. - Class A Common Stock
 TTC - Toro Company (The) Common Stock
 TTD - The Trade Desk, Inc. - Class A Common Stock
 TTDU - T-REX 2X Long TTD Daily Target ETF
-TTE - TotalEnergies SE
+TTE - TotalEnergies SE Ordinary Shares
 TTEC - TTEC Holdings, Inc. - Common Stock
 TTEK - Tetra Tech, Inc. - Common Stock
 TTEQ - T. Rowe Price Technology ETF
