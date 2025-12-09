@@ -241,6 +241,7 @@ AGGS - Harbor Disciplined Bond ETF
 AGGY - WisdomTree Yield Enhanced U.S. Aggregate Bond Fund
 AGH - Aureus Greenway Holdings Inc. - Common Stock
 AGI - Alamos Gold Inc. Class A Common Shares
+AGIG - Abundia Global Impact Group Inc. Common stock
 AGIO - Agios Pharmaceuticals, Inc. - Common Stock
 AGIQ - SoFi Agentic AI ETF
 AGIX - KraneShares Artificial Intelligence & Technology ETF
@@ -1073,6 +1074,7 @@ BEAM - Beam Therapeutics Inc. - Common Stock
 BEAT - Heartbeam, Inc. - Common Stock
 BEATW - Heartbeam, Inc. - Warrant
 BEDU - Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share
+BEDY - BNY Mellon Enhanced Dividend and Income ETF
 BEDZ - AdvisorShares Hotel ETF
 BEEM - Beam Global - Common Stock
 BEEP - Mobile Infrastructure Corporation - Common Stock
@@ -1206,6 +1208,7 @@ BITO - ProShares Bitcoin ETF
 BITQ - Bitwise Crypto Industry Innovators ETF
 BITS - Global X Blockchain & Bitcoin Strategy ETF
 BITU - ProShares Ultra Bitcoin ETF
+BITW - Common Shares of Beneficial Interest
 BITX - 2x Bitcoin Strategy ETF
 BITY - Amplify Bitcoin 2% Monthly Option Income ETF
 BIV - Vanguard Intermediate-Term Bond ETF
@@ -1842,7 +1845,6 @@ CENN - Cenntro Inc. - Common Stock
 CENT - Central Garden & Pet Company - Common Stock
 CENTA - Central Garden & Pet Company - Class A Common Stock Nonvoting
 CENX - Century Aluminum Company - Common Stock
-CEP - Cantor Equity Partners, Inc. - Class A ordinary shares
 CEPF - Cantor Equity Partners IV, Inc. - Class A Ordinary Shares
 CEPI - REX Crypto Equity Premium Income ETF
 CEPO - Cantor Equity Partners I, Inc. - Class A Ordinary Shares
@@ -3498,7 +3500,7 @@ EXUS - Nomura Focused International Core ETF
 EYE - National Vision Holdings, Inc. - Common Stock
 EYEG - AB Corporate Bond ETF
 EYLD - Cambria Emerging Shareholder Yield ETF
-EYPT - EyePoint Pharmaceuticals, Inc. - Common Stock
+EYPT - EyePoint, Inc. - Common Stock
 EZA - iShares MSCI South Africa Index Fund
 EZBC - Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF
 EZET - Franklin Ethereum ETF Franklin Ethereum ETF
@@ -3996,7 +3998,7 @@ FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
 FSK - FS KKR Capital Corp. Common Stock
 FSLR - First Solar, Inc. - Common Stock
-FSLY - Fastly, Inc. Class A Common Stock
+FSLY - Fastly, Inc. - Class A Common Stock
 FSM - Fortuna Mining Corp. Common Shares
 FSMB - First Trust Short Duration Managed Municipal ETF
 FSMD - Fidelity Small-Mid Multifactor ETF
@@ -4580,6 +4582,7 @@ GTM - ZoomInfo Technologies Inc. - Common Stock
 GTN - Gray Media, Inc. Common Stock
 GTO - Invesco Total Return Bond ETF
 GTOC - Invesco Core Fixed Income ETF
+GTOP - Goldman Sachs Technology Opportunities ETF
 GTOS - Invesco Short Duration Total Return Bond ETF
 GTPE - Goldman Sachs MSCI World Private Equity Return Tracker ETF
 GTR - WisdomTree Target Range Fund
@@ -4831,6 +4834,7 @@ HOWL - Werewolf Therapeutics, Inc. - Common Stock
 HOYY - GraniteShares YieldBOOST HOOD ETF
 HP - Helmerich & Payne, Inc. Common Stock
 HPAI - Helport AI Limited - Ordinary Shares
+HPAIW - Helport AI Limited - Warrants
 HPE - Hewlett Packard Enterprise Company Common Stock
 HPF - John Hancock Pfd Income Fund II Pfd Income Fund II
 HPI - John Hancock Preferred Income Fund Common Shares of Beneficial Interest
@@ -5795,6 +5799,7 @@ KDK - Kodiak AI, Inc. - Common Stock
 KDKRW - Kodiak AI, Inc. - Warrant
 KDP - Keurig Dr Pepper Inc. - Common Stock
 KDRN - Kingsbarn Tactical Bond ETF
+KDVD - Keeley Dividend ETF
 KE - Kimball Electronics, Inc. - Common Stock
 KEAT - Keating Active ETF
 KELYA - Kelly Services, Inc. - Class A Common Stock
@@ -6584,10 +6589,10 @@ MHLA - Maiden Holdings, Ltd. 6.625% Notes due 2046
 MHN - Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock
 MHNC - Maiden Holdings North America, Ltd. 7.75% Notes due 2043
 MHO - M/I Homes, Inc. Common Stock
-MHUA - Meihua International Medical Technologies Co., Ltd. - Class A Ordinary Shares
 MHY - Man Active High Yield ETF
 MI - NFT Limited Class A Ordinary Share
 MIAX - Miami International Holdings, Inc. Common Stock
+MICC - The Magnum Ice Cream Company N.V. Ordinary Shares
 MID - American Century Mid Cap Growth Impact ETF
 MIDD - The Middleby Corporation - Common Stock
 MIDE - Xtrackers S&P MidCap 400 Scored & Screened ETF
@@ -8165,7 +8170,6 @@ PRMB - Primo Brands Corporation Class A Common Stock
 PRME - Prime Medicine, Inc. - Common Stock
 PRN - Invesco Dorsey Wright Industrials Momentum ETF
 PRNT - 3D Printing (The) ETF
-PRO - PROS Holdings, Inc. Common Stock
 PROF - Profound Medical Corp. - common stock
 PROK - ProKidney Corp. - Class A Ordinary Shares
 PROP - Prairie Operating Co. - Common Stock
@@ -9624,7 +9628,6 @@ SPXC - SPX Technologies, Inc. Common Stock
 SPXD - Xtrackers S&P 500 Diversified Sector Weight ETF
 SPXE - ProShares S&P 500 Ex-Energy ETF
 SPXL - Direxion Daily S&P 500 Bull 3X Shares
-SPXM - Azoria 500 Meritocracy ETF
 SPXN - ProShares S&P 500 Ex-Financials ETF
 SPXS - Direxion Daily S&P 500 Bear 3X
 SPXT - ProShares S&P 500 Ex-Technology ETF
@@ -9984,6 +9987,8 @@ TDV - ProShares S&P Technology Dividend Aristocrats ETF
 TDVG - T. Rowe Price Dividend Growth ETF
 TDVI - FT Vest Technology Dividend Target Income ETF
 TDW - Tidewater Inc. Common Stock
+TDWD - Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares
+TDWDR - Tailwind 2.0 Acquisition Corp. - Rights
 TDWDU - Tailwind 2.0 Acquisition Corp. - Unit
 TDY - Teledyne Technologies Incorporated Common Stock
 TE - T1 Energy Inc. Common Stock
@@ -10317,7 +10322,6 @@ TSLQ - Tradr 2X Short TSLA Daily ETF
 TSLR - GraniteShares 2x Long TSLA Daily ETF
 TSLS - Direxion Daily TSLA Bear 1X Shares
 TSLT - T-REX 2X Long Tesla Daily Target ETF
-TSLV - Azoria TSLA Convexity ETF
 TSLW - Roundhill TSLA WeeklyPay ETF
 TSLX - Sixth Street Specialty Lending, Inc. Common Stock
 TSLY - YieldMax TSLA Option Income Strategy ETF
@@ -10407,7 +10411,6 @@ TXNM - TXNM Energy, Inc. Common Stock
 TXO - TXO Partners, L.P. Common Units Representing Limited Partner Interests
 TXRH - Texas Roadhouse, Inc. - Common Stock
 TXS - Texas Capital Texas Equity Index ETF
-TXSS - Texas Capital Texas Small Cap Equity Index ETF
 TXT - Textron Inc. Common Stock
 TXUE - Thornburg International Equity ETF
 TXUG - Thornburg International Growth Fund ETF
@@ -10500,7 +10503,7 @@ UJB - ProShares Ultra High Yield ETF
 UJUL - Innovator U.S. Equity Ultra Buffer ETF - July
 UJUN - Innovator U.S. Equity Ultra Buffer ETF - June
 UK - Ucommune International Ltd  - Ordinary Shares
-UL - Unilever PLC Common Stock
+UL - Unilever PLC American Depositary Shares (each representing One Ordinary Share)
 ULBI - Ultralife Corporation - Common Stock
 ULCC - Frontier Group Holdings, Inc. - Common Stock
 ULE - ProShares Ultra Euro
@@ -11106,7 +11109,7 @@ WMG - Warner Music Group Corp. - Class A Common Stock
 WMK - Weis Markets, Inc. Common Stock
 WMS - Advanced Drainage Systems, Inc. Common Stock
 WMSB - Weitz Multisector Bond ETF
-WMT - Walmart Inc. Common Stock
+WMT - Walmart Inc. - Common Stock
 WMTI - REX WMT Growth & Income ETF
 WNC - Wabash National Corporation Common Stock
 WNEB - Western New England Bancorp, Inc. - Common Stock
@@ -11385,6 +11388,7 @@ XVOL - Acruence Active Hedge U.S. Equity ETF
 XVV - iShares ESG Select Screened S&P 500 ETF
 XWEL - XWELL, Inc. - Common Stock
 XWIN - XMAX, Inc. - Common Stock
+XXI - Twenty One Capital, Inc. Class A Common Stock
 XXII - 22nd Century Group, Inc - Common Stock
 XXRP - Teucrium 2x Long Daily XRP ETF
 XXV - Simplify Ancorato Target 25 Distribution ETF
