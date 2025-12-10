@@ -168,7 +168,6 @@ ADUS - Addus HomeCare Corporation - Common Stock
 ADV - Advantage Solutions Inc.  - Class A Common Stock
 ADVB - Advanced Biomed Inc. - Common Stock
 ADVE - Matthews Asia Dividend Active ETF
-ADVM - Adverum Biotechnologies, Inc. - Common Stock
 ADX - Adams Diversified Equity Fund Inc.
 ADXN - Addex Therapeutics Ltd - American Depositary Shares
 AEAQU - Activate Energy Acquisition Corp. - Unit
@@ -338,7 +337,6 @@ AKAN - Akanda Corp. - Common Shares
 AKBA - Akebia Therapeutics, Inc. - Common Stock
 AKR - Acadia Realty Trust Common Stock
 AKRE - Akre Focus ETF
-AKRO - Akero Therapeutics, Inc. - Common Stock
 AKTX - Akari Therapeutics Plc - American Depositary Shares
 AL - Air Lease Corporation Class A Common Stock
 ALAB - Astera Labs, Inc. - Common Stock
@@ -418,6 +416,7 @@ AMBP - Ardagh Metal Packaging S.A. Ordinary Shares
 AMBQ - Ambiq Micro, Inc. Common Stock
 AMBR - Amber International Holding Limited - American Depositary Shares
 AMC - AMC Entertainment Holdings, Inc. Class A Common Stock
+AMCI - AMC Robotics Corporation - Common Stock
 AMCR - Amcor plc Ordinary Shares
 AMCX - AMC Networks Inc. - Class A Common Stock
 AMD - Advanced Micro Devices, Inc. - Common Stock
@@ -748,9 +747,6 @@ ATMCU - AlphaTime Acquisition Corp - Unit
 ATMCW - AlphaTime Acquisition Corp - Warrant
 ATMP - iPath Select MLP ETN
 ATMU - Atmus Filtration Technologies Inc. Common Stock
-ATMV - AlphaVest Acquisition Corp - Ordinary Shares
-ATMVR - AlphaVest Acquisition Corp - Right
-ATMVU - AlphaVest Acquisition Corp - Unit
 ATNI - ATN International, Inc. - Common Stock
 ATNM - Actinium Pharmaceuticals, Inc. (Delaware) Common Stock
 ATO - Atmos Energy Corporation Common Stock
@@ -1121,6 +1117,7 @@ BFRE - Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
+BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
@@ -1921,6 +1918,7 @@ CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
+CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -2001,7 +1999,6 @@ CITR - General Enterprise Ventures, Inc. Common Stock
 CIVB - Civista Bancshares, Inc.  - Common Stock
 CIVI - Civitas Resources, Inc. Common Stock
 CIX - CompX International Inc. Common Stock
-CJET - Chijet Motor Company, Inc. - Class A Ordinary Shares
 CJMB - Callan JMB Inc. - Common Stock
 CKX - CKX Lands, Inc. Common Stock
 CL - Colgate-Palmolive Company Common Stock
@@ -2262,7 +2259,10 @@ CPZ - Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund
 CQP - Cheniere Energy Partners, LP Common Units
 CQQQ - Invesco China Technology ETF
 CR - Crane Company Common Stock
+CRAC - Crown Reserve Acquisition Corp. I - Class A Ordinary Shares
+CRACR - Crown Reserve Acquisition Corp. I - Rights
 CRACU - Crown Reserve Acquisition Corp. I - Unit
+CRACW - Crown Reserve Acquisition Corp. I - Warrant
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
@@ -2363,6 +2363,7 @@ CSW - CSW Industrials, Inc. Common Stock
 CSWC - Capital Southwest Corporation - Common Stock
 CSX - CSX Corporation - Common Stock
 CTA - Simplify Managed Futures Strategy ETF
+CTAP - Simplify US Equity PLUS Managed Futures Strategy ETF
 CTAS - Cintas Corporation - Common Stock
 CTBB - Qwest Corporation 6.5% Notes due 2056
 CTBI - Community Trust Bancorp, Inc. - Common Stock
@@ -2553,6 +2554,7 @@ DCOMP - Dime Community Bancshares, Inc. - Fixed-Rate Non-Cumulative Perpetual Pr
 DCOR - Dimensional US Core Equity 1 ETF
 DCRE - DoubleLine Commercial Real Estate ETF
 DCTH - Delcath Systems, Inc. - Common Stock
+DCX - Digital Currency X Technology Inc. - Class A Ordinary Shares
 DD - DuPont de Nemours, Inc. Common Stock
 DDC - DDC Enterprise Limited Class A Ordinary Shares
 DDD - 3D Systems Corporation Common Stock
@@ -2845,6 +2847,7 @@ DRUG - Bright Minds Biosciences Inc. - common stock
 DRUP - GraniteShares Nasdaq Select Disruptors ETF
 DRV - Direxion Daily Real Estate Bear 3X Shares
 DRVN - Driven Brands Holdings Inc. - Common Stock
+DSACU - Daedalus Special Acquisition Corp. - Unit
 DSEP - FT Vest U.S. Equity Deep Buffer ETF - September
 DSGN - Design Therapeutics, Inc. - Common Stock
 DSGR - Distribution Solutions Group, Inc. - Common Stock
@@ -6468,7 +6471,6 @@ MCRP - Micropolis Holding Company Ordinary Shares
 MCS - Marcus Corporation (The) Common Stock
 MCSE - Franklin Sustainable International Equity ETF
 MCTA - Charming Medical Limited - Class A Ordinary Shares
-MCTR - CTRL Group Limited - ordinary shares
 MCW - Mister Car Wash, Inc. - Common Stock
 MCY - Mercury General Corporation Common Stock
 MD - Pediatrix Medical Group, Inc. Common Stock
@@ -6540,9 +6542,11 @@ MFG - Mizuho Financial Group, Inc. Sponosred ADR (Japan)
 MFI - mF International Limited - Class A Ordinary Shares
 MFIC - MidCap Financial Investment Corporation - Closed End Fund
 MFICL - MidCap Financial Investment Corporation - 8.00% Notes due 2028
+MFIG - Motley Fool Innovative Growth ETF
 MFIN - Medallion Financial Corp. - Common Stock
 MFLX - First Trust Flexible Municipal High Income ETF
 MFM - MFS Municipal Income Trust Common Stock
+MFMO - Motley Fool Momentum Factor ETF
 MFSB - MFS Active Core Plus Bond ETF
 MFSG - MFS Active Growth ETF
 MFSI - MFS Active International ETF
@@ -6551,6 +6555,7 @@ MFSV - MFS Active Value ETF
 MFUL - Mindful Conservative ETF
 MFUS - PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF
 MFUT - Cambria Chesapeake Pure Trend ETF
+MFVL - Motley Fool Value Factor ETF
 MG - Mistras Group Inc Common Stock
 MGA - Magna International, Inc. Common Stock
 MGC - Vanguard Mega Cap ETF
@@ -7422,7 +7427,6 @@ OABI - OmniAb, Inc. - Common Stock
 OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
-OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - OneAscent Core Plus Bond ETF
 OAEM - OneAscent Emerging Markets ETF
 OAIM - OneAscent International Equity ETF
@@ -7442,7 +7446,6 @@ OBE - Obsidian Energy Ltd. Common Shares
 OBIL - US Treasury 12 Month Bill ETF
 OBIO - Orchestra BioMed Holdings, Inc. - Ordinary Shares
 OBK - Origin Bancorp, Inc. Common Stock
-OBLG - Oblong Inc. - Common Stock
 OBND - State Street Loomis Sayles Opportunistic Bond ETF
 OBOR - KraneShares MSCI One Belt One Road Index ETF
 OBT - Orange County Bancorp, Inc. - Common Stock
@@ -8168,6 +8171,7 @@ PRLD - Prelude Therapeutics Incorporated - Common Stock
 PRM - Perimeter Solutions, SA Common Stock
 PRMB - Primo Brands Corporation Class A Common Stock
 PRME - Prime Medicine, Inc. - Common Stock
+PRMR - PeakShares RMR Prime Equity ETF
 PRN - Invesco Dorsey Wright Industrials Momentum ETF
 PRNT - 3D Printing (The) ETF
 PROF - Profound Medical Corp. - common stock
@@ -9077,7 +9081,6 @@ SCNX - Scienture Holdings, Inc. - Common Stock
 SCO - ProShares UltraShort Bloomberg Crude Oil
 SCOR - comScore, Inc. - Common Stock
 SCOW - Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
-SCS - Steelcase Inc. Common Stock
 SCSC - ScanSource, Inc. - Common Stock
 SCUS - Schwab Ultra-Short Income ETF
 SCVL - Shoe Carnival, Inc. - Common Stock
@@ -9243,7 +9246,7 @@ SHPU - Direxion Daily SHOP Bull 2X ETF
 SHRT - Gotham Short Strategies ETF
 SHRY - First Trust Bloomberg Shareholder Yield ETF
 SHUS - Stratified LargeCap Hedged ETF
-SHV - iShares Short Treasury Bond ETF
+SHV - iShares 0-1 Year Treasury Bond ETF
 SHW - Sherwin-Williams Company (The) Common Stock
 SHY - iShares 1-3 Year Treasury Bond ETF
 SHYD - VanEck Short High Yield Muni ETF
@@ -10115,6 +10118,7 @@ TISI - Team, Inc. Common Stock
 TITN - Titan Machinery Inc. - Common Stock
 TIVC - Tivic Health Systems, Inc. - Common stock
 TJAN - Innovator Equity Defined Protection ETF - 2 Yr to January 2027
+TJGC - TJGC Group Limited - ordinary shares
 TJUL - Innovator Equity Defined Protection ETF - 2 Yr to July 2027
 TJUN - FT Vest Emerging Markets Buffer ETF - June
 TJX - TJX Companies, Inc. (The) Common Stock
@@ -10390,6 +10394,7 @@ TVGNW - Tevogen Bio Holdings Inc. - Warrant
 TVRD - Tvardi Therapeutics, Inc. - Common Stock
 TVTX - Travere Therapeutics, Inc. - Common Stock
 TW - Tradeweb Markets Inc. - Class A Common Stock
+TWAV - TaoWeave, Inc. - Common Stock
 TWFG - TWFG, Inc. - Common Stock
 TWG - Top Wealth Group Holding Limited - Class A Ordinary Shares
 TWI - Titan International, Inc. (DE) Common Stock
@@ -10456,6 +10461,7 @@ UCAR - U Power Limited - Class A Ordinary Shares
 UCB - United Community Banks, Inc. Common Stock
 UCC - ProShares Ultra Consumer Discretionary
 UCFI - CN Healthy Food Tech Group Corp. - Common Stock
+UCFIW - CN Healthy Food Tech Group Corp. - Warrant
 UCIB - ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038
 UCL - uCloudlink Group Inc. - American Depositary Shares
 UCO - ProShares Ultra Bloomberg Crude Oil
@@ -11143,6 +11149,7 @@ WSBF - Waterstone Financial, Inc. - Common Stock
 WSBK - Winchester Bancorp, Inc. - Common Stock
 WSC - WillScot Holdings Corporation - Class A Common Stock
 WSFS - WSFS Financial Corporation - Common Stock
+WSGE - Warren Street Global Equity ETF
 WSHP - WeShop Holdings Limited - Class A Ordinary Shares
 WSM - Williams-Sonoma, Inc. Common Stock (DE)
 WSML - iShares MSCI World Small-Cap ETF
