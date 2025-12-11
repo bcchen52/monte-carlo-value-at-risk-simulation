@@ -8,6 +8,7 @@ AACBR - Artius II Acquisition Inc. - Rights
 AACBU - Artius II Acquisition Inc. - Units
 AACG - ATA Creativity Global - American Depositary Shares, each representing two common shares
 AADR - AdvisorShares Dorsey Wright ADR ETF
+AAEQ - Alpha Architect US Equity 2 ETF
 AAL - American Airlines Group, Inc. - Common Stock
 AALG - Leverage Shares 2X Long AAL Daily ETF
 AAM - AA Mission Acquisition Corp. Class A Ordinary Shares
@@ -764,6 +765,7 @@ ATXG - Addentax Group Corp. - Common Stock
 ATXS - Astria Therapeutics, Inc. - Common Stock
 ATYR - aTyr Pharma, Inc. - Common Stock
 AU - AngloGold Ashanti PLC Ordinary Shares
+AUAU - Global X Gold Miners ETF
 AUB - Atlantic Union Bankshares Corporation Common Stock
 AUBN - Auburn National Bancorporation, Inc. - Common Stock
 AUDC - AudioCodes Ltd. - Ordinary Shares
@@ -1807,6 +1809,7 @@ CDL - VictoryShares US Large Cap High Div Volatility Wtd ETF
 CDLR - Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)
 CDLX - Cardlytics, Inc. - Common Stock
 CDNA - CareDx, Inc. - Common Stock
+CDNL - Cardinal Infrastructure Group Inc. - Class A Common Stock
 CDNS - Cadence Design Systems, Inc. - Common Stock
 CDP - COPT Defense Properties Common Shares of Beneficial Interest
 CDRE - Cadre Holdings, Inc. Common Stock
@@ -2344,6 +2347,7 @@ CSGP - CoStar Group, Inc. - Common Stock
 CSGS - CSG Systems International, Inc. - Common Stock
 CSHI - NEOS Enhanced Income 1-3 Month T-Bill ETF
 CSHP - iShares Enhanced Short-Term Bond Active ETF
+CSIO - Cohen & Steers Infrastructure Opportunities Active ETF
 CSIQ - Canadian Solar Inc. - Common Shares
 CSL - Carlisle Companies Incorporated Common Stock
 CSM - ProShares Large Cap Core Plus
@@ -2354,6 +2358,7 @@ CSPI - CSP Inc. - Common Stock
 CSQ - Calamos Strategic Total Return Fund - Closed End Fund
 CSR - D/B/A Centerspace Common Stock
 CSRE - Cohen & Steers Real Estate Active ETF
+CSSD - Cohen & Steers Short Duration Preferred and Income Active ETF
 CSTE - Caesarstone Ltd. - Ordinary Shares
 CSTK - Invesco Comstock Contrarian Equity ETF
 CSTL - Castle Biosciences, Inc. - Common stock
@@ -4869,7 +4874,6 @@ HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
 HSIC - Henry Schein, Inc. - Common Stock
-HSII - Heidrick & Struggles International, Inc. - Common Stock
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
 HSPO - Horizon Space Acquisition I Corp. - Ordinary Shares
 HSPOR - Horizon Space Acquisition I Corp. - Right
@@ -4899,7 +4903,6 @@ HTLD - Heartland Express, Inc. - Common Stock
 HTLM - HomesToLife Ltd - Ordinary Shares
 HTO - H2O America  - Common Stock
 HTOO - Fusion Fuel Green PLC - Ordinary Shares
-HTOOW - Fusion Fuel Green PLC - Warrant
 HTRB - Hartford Total Return Bond ETF
 HTUS - Hull Tactical US ETF
 HTZ - Hertz Global Holdings, Inc - Common Stock
@@ -4991,6 +4994,7 @@ IAG - Iamgold Corporation Ordinary Shares
 IAGG - iShares International Aggregate Bond Fund
 IAI - iShares U.S. Broker-Dealers & Securities Exchanges ETF
 IAK - iShares U.S. Insurance ETF
+IALT - iShares Systematic Alternatives Active ETF
 IAPR - Innovator International Developed Power Buffer ETF  April
 IART - Integra LifeSciences Holdings Corporation - Common Stock
 IAS - Integral Ad Science Holding Corp. - Common Stock
@@ -5668,6 +5672,7 @@ JLQD - Janus Henderson Corporate Bond ETF
 JLS - Nuveen Mortgage and Income Fund
 JMBS - Janus Henderson Mortgage-Backed Securities ETF
 JMEE - JPMorgan Small & Mid Cap Enhanced Equity ETF
+JMG - JM Group Limited Ordinary Shares
 JMHI - JPMorgan High Yield Municipal ETF
 JMIA - Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares
 JMID - Janus Henderson Mid Cap Growth Alpha ETF
@@ -5967,7 +5972,6 @@ KURA - Kura Oncology, Inc. - Common Stock
 KURE - KraneShares MSCI All China Health Care Index ETF
 KVAC - Keen Vision Acquisition Corporation - Ordinary Shares
 KVACU - Keen Vision Acquisition Corporation - Units
-KVACW - Keen Vision Acquisition Corporation - Warrant
 KVHI - KVH Industries, Inc. - Common Stock
 KVLE - KraneShares Value Line Dynamic Dividend Equity Index ETF
 KVUE - Kenvue Inc. Common Stock
@@ -6519,6 +6523,7 @@ MEMX - Matthews Emerging Markets ex China Active ETF
 MENS - Jyong Biotech Ltd. - Ordinary shares
 MEOH - Methanex Corporation - Common Stock
 MERC - Mercer International Inc. - Common Stock
+MESHU - Meshflow Acquisition Corp. - Units
 MESO - Mesoblast Limited - American Depositary Shares
 MET - MetLife, Inc. Common Stock
 META - Meta Platforms, Inc. - Class A Common Stock
@@ -6969,7 +6974,7 @@ NAMSW - NewAmsterdam Pharma Company N.V. - Warrant
 NAN - Nuveen New York Quality Municipal Income Fund Common Stock
 NANC - Unusual Whales Subversive Democratic Trading ETF
 NANR - SPDR S&P North American Natural Resources ETF
-NAOV - NanoVibronix, Inc. - Common Stock
+NAOV - ENvue Medical, Inc. - Common Stock
 NAPR - Innovator Growth-100 Power Buffer ETF - April
 NAT - Nordic American Tankers Limited Common Stock
 NATH - Nathan's Famous, Inc. - Common Stock
@@ -7110,7 +7115,6 @@ NHC - National HealthCare Corporation Common Stock
 NHI - National Health Investors, Inc. Common Stock
 NHIC - NewHold Investment Corp III - Class A Ordinary shares
 NHICU - NewHold Investment Corp III - Units
-NHICW - NewHold Investment Corp III - Warrants
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger Berman High Yield Strategies Fund
@@ -7152,6 +7156,7 @@ NKX - Nuveen California AMT-Free Quality Municipal Income Fund
 NL - NL Industries, Inc. Common Stock
 NLOP - Net Lease Office Properties Common Shares of Beneficial Interest
 NLR - VanEck Uranium and Nuclear ETF
+NLSI - NEOS Long/Short Equity Income ETF
 NLY - Annaly Capital Management Inc. Common Stock
 NMAI - Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest
 NMAR - Innovator Growth-100 Power Buffer ETF - March
@@ -7477,7 +7482,6 @@ ODD - ODDITY Tech Ltd. - Class A Ordinary Shares
 ODDS - Pacer BlueStar Digital Entertainment ETF
 ODFL - Old Dominion Freight Line, Inc. - Common Stock
 ODHY - Obra Defensive High Yield ETF
-ODP - The ODP Corporation - Common Stock
 ODV - Osisko Development Corp. Common Shares
 ODVWZ - Osisko Development Corp. - Warrant
 ODYS - Odysight.ai Inc. - Common Stock
@@ -8011,6 +8015,7 @@ PLCE - Children's Place, Inc. (The) - Common Stock
 PLD - Prologis, Inc. Common Stock
 PLDR - Putnam Sustainable Leaders ETF
 PLG - Platinum Group Metals Ltd. Ordinary Shares (Canada)
+PLGI - PL Growth and Income ETF
 PLMK - Plum Acquisition Corp. IV - Class A Ordinary Shares
 PLMKU - Plum Acquisition Corp. IV - Unit
 PLMKW - Plum Acquisition Corp. IV - Warrants
@@ -9968,7 +9973,6 @@ TCX - Tucows Inc. - Common Stock
 TD - Toronto Dominion Bank (The) Common Stock
 TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
-TDACW - Translational Development Acquisition Corp. - Warrants
 TDAQ - TappAlpha Innovation 100 Growth & Daily Income ETF
 TDAY - USA TODAY Co., Inc. Common Stock
 TDC - Teradata Corporation Common Stock
@@ -11447,7 +11451,7 @@ YLD - Principal Active High Yield ETF
 YLDE - Franklin ClearBridge Enhanced Income ETF
 YMAG - YieldMax Magnificent 7 Fund of Option Income ETFs
 YMAR - FT Vest International Equity Moderate Buffer ETF - March
-YMAT - J-Star Holding Co., Ltd. - Ordinary Shares
+YMAT - J-Star Holding Co., Ltd. - Class A Ordinary Shares
 YMAX - YieldMax Universe Fund of Option Income ETFs
 YMM - Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares)
 YMT - Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares
