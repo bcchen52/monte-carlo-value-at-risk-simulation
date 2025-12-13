@@ -260,6 +260,7 @@ AGNCZ - AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th 
 AGNG - Global X Aging Population ETF
 AGO - Assured Guaranty Ltd. Common Stock
 AGOX - Adaptive Alpha Opportunities ETF
+AGPU - Axe Compute Inc. - Common Stock
 AGQ - ProShares Ultra Silver
 AGQI - First Trust Active Global Quality Income ETF
 AGRH - iShares Interest Rate Hedged U.S. Aggregate Bond ETF
@@ -3662,6 +3663,7 @@ FEBW - AllianzIM U.S. Large Cap Buffer20 Feb ETF
 FEBZ - TrueShares Structured Outcome (February) ETF
 FEDM - FlexShares ESG & Climate Developed Markets ex-US Core Index Fund
 FEDU - Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares
+FEED - ENvue Medical, Inc. - Common Stock
 FEGE - First Eagle Global Equity ETF
 FEIG - FlexShares ESG & Climate Investment Grade Corporate Core Index Fund
 FEIM - Frequency Electronics, Inc. - Common Stock
@@ -3725,7 +3727,6 @@ FGD - First Trust DJ Global Select Dividend
 FGDL - Franklin Responsibly Sourced Gold ETF
 FGEN - FibroGen, Inc - Common Stock
 FGI - FGI Industries Ltd. - Ordinary Shares
-FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
 FGMC - FG Merger II Corp. - Common stock
@@ -4017,6 +4018,7 @@ FSLY - Fastly, Inc. - Class A Common Stock
 FSM - Fortuna Mining Corp. Common Shares
 FSMB - First Trust Short Duration Managed Municipal ETF
 FSMD - Fidelity Small-Mid Multifactor ETF
+FSML - Franklin Small Cap Enhanced ETF
 FSOL - Fidelity Solana Fund
 FSP - Franklin Street Properties Corp. Common Stock
 FSS - Federal Signal Corporation Common Stock
@@ -4884,10 +4886,6 @@ HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
 HSIC - Henry Schein, Inc. - Common Stock
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
-HSPO - Horizon Space Acquisition I Corp. - Ordinary Shares
-HSPOR - Horizon Space Acquisition I Corp. - Right
-HSPOU - Horizon Space Acquisition I Corp. - Unit
-HSPOW - Horizon Space Acquisition I Corp. - Warrant
 HSPT - Horizon Space Acquisition II Corp. - Ordinary share
 HSPTR - Horizon Space Acquisition II Corp. - Right
 HSPTU - Horizon Space Acquisition II Corp. - Units
@@ -5479,6 +5477,7 @@ ITDI - iShares LifePath Target Date 2065 ETF
 ITDJ - iShares LifePath Target Date 2070 ETF
 ITEQ - Amplify BlueStar Israel Technology ETF
 ITGR - Integer Holdings Corporation Common Stock
+ITHAU - ITHAX Acquisition Corp III - Units
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
 ITOL - Tema International Durable Quality ETF
@@ -5983,6 +5982,7 @@ KURA - Kura Oncology, Inc. - Common Stock
 KURE - KraneShares MSCI All China Health Care Index ETF
 KVAC - Keen Vision Acquisition Corporation - Ordinary Shares
 KVACU - Keen Vision Acquisition Corporation - Units
+KVACW - Keen Vision Acquisition Corporation - Warrant
 KVHI - KVH Industries, Inc. - Common Stock
 KVLE - KraneShares Value Line Dynamic Dividend Equity Index ETF
 KVUE - Kenvue Inc. Common Stock
@@ -6060,6 +6060,7 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
+LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCLG - Logan Capital Broad Innovative Growth ETF
@@ -6987,7 +6988,6 @@ NAMSW - NewAmsterdam Pharma Company N.V. - Warrant
 NAN - Nuveen New York Quality Municipal Income Fund Common Stock
 NANC - Unusual Whales Subversive Democratic Trading ETF
 NANR - SPDR S&P North American Natural Resources ETF
-NAOV - ENvue Medical, Inc. - Common Stock
 NAPR - Innovator Growth-100 Power Buffer ETF - April
 NAT - Nordic American Tankers Limited Common Stock
 NATH - Nathan's Famous, Inc. - Common Stock
@@ -8114,7 +8114,6 @@ PNR - Pentair plc. Ordinary Share
 PNRG - PrimeEnergy Resources Corporation - Common Stock
 PNTG - The Pennant Group, Inc. - Common Stock
 PNW - Pinnacle West Capital Corporation Common Stock
-POAI - Predictive Oncology Inc. - Common Stock
 POAS - Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares
 POCI - Precision Optics Corporation, Inc. - Common stock
 POCT - Innovator U.S. Equity Power Buffer ETF - October
@@ -9027,7 +9026,6 @@ SBAR - Simplify Barrier Income ETF
 SBB - ProShares Short SmallCap600
 SBC - SBC Medical Group Holdings Incorporated - Common Stock
 SBCF - Seacoast Banking Corporation of Florida - Common Stock
-SBCWW - SBC Medical Group Holdings Incorporated - Warrants
 SBDS - Solo Brands, Inc. Class A Common Stock
 SBET - SharpLink Gaming, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
@@ -11139,6 +11137,7 @@ WLFC - Willis Lease Finance Corporation - Common Stock
 WLK - Westlake Corporation Common Stock
 WLKP - Westlake Chemical Partners LP Common Units representing limited partner interests
 WLTG - WealthTrust DBS Long Term Growth ETF
+WLTH - Wealthfront Corporation - Common Stock
 WLY - John Wiley & Sons, Inc. Common Stock
 WLYB - John Wiley & Sons, Inc. Common Stock
 WM - Waste Management, Inc. Common Stock
@@ -11465,7 +11464,6 @@ YEXT - Yext, Inc. Common Stock
 YFFI - Indexperts Yield Focused Fixed Income ETF
 YFYA - Yields for You Income Strategy A ETF
 YGLD - Simplify Gold Strategy PLUS Income ETF
-YGMZ - MingZhu Logistics Holdings Limited - Ordinary Shares
 YHC - LQR House Inc. - Common Stock
 YHGJ - Yunhong Green CTI Ltd. - Common Stock
 YHNA - YHN Acquisition I Limited - Ordinary Shares
@@ -11478,6 +11476,7 @@ YJ - Yunji Inc. - American Depository Shares
 YJUN - FT Vest International Equity Moderate Buffer ETF - June
 YLD - Principal Active High Yield ETF
 YLDE - Franklin ClearBridge Enhanced Income ETF
+YLDW - Westwood Enhanced Income Opportunity ETF
 YMAG - YieldMax Magnificent 7 Fund of Option Income ETFs
 YMAR - FT Vest International Equity Moderate Buffer ETF - March
 YMAT - J-Star Holding Co., Ltd. - Class A Ordinary Shares
