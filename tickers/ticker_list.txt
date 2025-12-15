@@ -10429,6 +10429,7 @@ TWG - Top Wealth Group Holding Limited - Class A Ordinary Shares
 TWI - Titan International, Inc. (DE) Common Stock
 TWIN - Twin Disc, Incorporated - Common Stock
 TWLO - Twilio Inc. Class A Common Stock
+TWLVU - Twelve Seas Investment Company III - Units
 TWM - ProShares UltraShort Russell2000
 TWN - Taiwan Fund, Inc. (The) Common Stock
 TWNP - Twin Hospitality Group Inc. - Class A Common Stock
