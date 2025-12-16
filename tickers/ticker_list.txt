@@ -356,7 +356,6 @@ ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
 ALDFW - Aldel Financial II Inc. - Warrants
 ALDX - Aldeyra Therapeutics, Inc. - Common Stock
-ALE - Allete, Inc.
 ALEC - Alector, Inc. - Common Stock
 ALEX - Alexander & Baldwin, Inc. Common Stock REIT Holding Company
 ALF - Centurion Acquisition Corp. - Class A Ordinary Shares
@@ -599,7 +598,6 @@ ARBB - ARB IOT Group Limited - Ordinary Shares
 ARBE - Arbe Robotics Ltd. - Ordinary Shares
 ARBEW - Arbe Robotics Ltd. - Warrant
 ARBK - Argo Blockchain plc - American Depositary Shares
-ARBKL - Argo Blockchain plc - 8.75% Senior Notes due 2026
 ARCB - ArcBest Corporation - Common Stock
 ARCC - Ares Capital Corporation - Closed End Fund
 ARCM - Arrow Reserve Capital Management ETF
@@ -1018,7 +1016,9 @@ BCD - abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF
 BCDA - BioCardia, Inc. - Common Stock
 BCDF - Horizon Kinetics Blockchain Development ETF
 BCE - BCE, Inc. Common Stock
+BCFN - Baron Financials ETF
 BCG - Binah Capital Group, Inc. - Common Stock
+BCGD - Baron Global Durable Advantage ETF
 BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHI - GMO Beyond China ETF
@@ -1035,7 +1035,9 @@ BCPC - Balchem Corporation - Common Stock
 BCRX - BioCryst Pharmaceuticals, Inc. - Common Stock
 BCS - Barclays PLC Common Stock
 BCSF - Bain Capital Specialty Finance, Inc. Common Stock
+BCSM - Baron SMID Cap ETF
 BCSS - Bain Capital GSS Investment Corp. Class A Ordinary Shares
+BCTK - Baron Technology ETF
 BCTX - BriaCell Therapeutics Corp. - Common Shares
 BCTXW - BriaCell Therapeutics Corp. - Warrant
 BCTXZ - BriaCell Therapeutics Corp. - Warrant
@@ -1073,7 +1075,6 @@ BEAGU - Bold Eagle Acquisition Corp. - Units
 BEAM - Beam Therapeutics Inc. - Common Stock
 BEAT - Heartbeam, Inc. - Common Stock
 BEATW - Heartbeam, Inc. - Warrant
-BEDU - Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share
 BEDY - BNY Mellon Enhanced Dividend and Income ETF
 BEDZ - AdvisorShares Hotel ETF
 BEEM - Beam Global - Common Stock
@@ -1281,7 +1282,6 @@ BLKB - Blackbaud, Inc. - Common Stock
 BLKC - Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF
 BLLN - BillionToOne, Inc. - Class A common stock
 BLMN - Bloomin' Brands, Inc. - Common Stock
-BLMZ - Harrison Global Holdings Inc. - Ordinary Shares
 BLND - Blend Labs, Inc. Class A Common Stock
 BLNE - Beeline Holdings, Inc. - Common Stock
 BLNK - Blink Charging Co. - Common Stock
@@ -2074,6 +2074,7 @@ CMCL - Caledonia Mining Corporation Plc Common Shares
 CMCM - Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares
 CMCO - Columbus McKinnon Corporation - Common Stock
 CMCSA - Comcast Corporation - Class A Common Stock
+CMCSV - Comcast Corporation - Class A Common Stock Ex-Distribution When Issued
 CMCT - Creative Media  - Common Stock
 CMDB - Costamare Bulkers Holdings Limited Common Stock
 CMDT - PIMCO Commodity Strategy Active Exchange-Traded Fund
@@ -2656,7 +2657,6 @@ DFJ - WisdomTree Japan SmallCap Fund
 DFLI - Dragonfly Energy Holdings Corp - Common Stock
 DFLIW - Dragonfly Energy Holdings Corp - Warrant
 DFLV - Dimensional US Large Cap Value ETF
-DFND - Siren DIVCON Dividend Defender ETF
 DFNL - Davis Select Financial ETF
 DFNM - Dimensional National Municipal Bond ETF
 DFP - Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock
@@ -4174,7 +4174,6 @@ GAP - Gap, Inc. (The) Common Stock
 GAPR - FT Vest U.S. Equity Moderate Buffer ETF - April
 GARP - iShares MSCI USA Quality GARP ETF
 GASS - StealthGas, Inc. - common stock
-GAST - Gabelli Automation ETF
 GATX - GATX Corporation Common Stock
 GAU - Galiano Gold Inc.
 GAUG - FT Vest U.S. Equity Moderate Buffer ETF - August
@@ -4302,6 +4301,7 @@ GGR - Gogoro Inc. - Ordinary Shares
 GGROW - Gogoro Inc. - Warrant
 GGRW - Gabelli Growth Innovators ETF
 GGT - Gabelli Multi-Media Trust, Inc. (The) Common Stock
+GGTL - Gabelli Global Technology Leaders ETF
 GGUS - Goldman Sachs MarketBeta Russell 1000 Growth Equity ETF
 GGZ - Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest
 GH - Guardant Health, Inc. - Common Stock
@@ -4665,6 +4665,8 @@ HAS - Hasbro, Inc. - Common Stock
 HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
+HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
+HAVAR - Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares
 HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWX - iShares Currency Hedged MSCI ACWI ex U.S. ETF
 HAYW - Hayward Holdings, Inc. Common Stock
@@ -5019,7 +5021,6 @@ IBBQ - Invesco Nasdaq Biotechnology ETF
 IBCA - iShares iBonds Dec 2035 Term Corporate ETF
 IBCP - Independent Bank Corporation - Common Stock
 IBD - Inspire Corporate Bond ETF
-IBDQ - iShares iBonds Dec 2025 Term Corporate ETF
 IBDR - iShares iBonds Dec 2026 Term Corporate ETF
 IBDS - iShares iBonds Dec 2027 Term Corporate ETF
 IBDT - iShares iBonds Dec 2028 Term Corporate ETF
@@ -5035,7 +5036,6 @@ IBGA - iShares iBonds Dec 2044 Term Treasury ETF
 IBGB - iShares iBonds Dec 2045 Term Treasury ETF
 IBGK - iShares iBonds Dec 2054 Term Treasury ETF
 IBGL - iShares iBonds Dec 2055 Term Treasury ETF
-IBHE - iShares iBonds 2025 Term High Yield and Income ETF
 IBHF - iShares iBonds 2026 Term High Yield and Income ETF
 IBHG - iShares iBonds 2027 Term High Yield and Income ETF
 IBHH - iShares iBonds 2028 Term High Yield and Income ETF
@@ -6702,7 +6702,9 @@ MMSD - NYLI MacKay Muni Short Duration ETF
 MMSI - Merit Medical Systems, Inc. - Common Stock
 MMT - MFS Multimarket Income Trust Common Stock
 MMTM - State Street SPDR S&P 1500 Momentum Tilt ETF
+MMTX - Miluna Acquisition Corp - Class A Ordinary Shares
 MMTXU - Miluna Acquisition Corp - Units
+MMTXW - Miluna Acquisition Corp - Warrant
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MNA - NYLI Merger Arbitrage ETF
@@ -6926,7 +6928,7 @@ MVSTW - Microvast Holdings, Inc. - Warrant
 MVT - Blackrock MuniVest Fund II, Inc.  Common Stock
 MVV - ProShares Ultra MidCap400
 MWA - MUELLER WATER PRODUCTS Common Stock
-MWG - Multi Ways Holdings Limited Ordinary Shares
+MWG - Multi Ways Holdings Limited Class A Ordinary Shares
 MWYN - Marwynn Holdings, Inc. - Common stock
 MX - Magnachip Semiconductor Corporation Common Stock
 MXC - Mexco Energy Corporation Common Stock
@@ -8482,6 +8484,7 @@ QSIAW - Quantum-Si Incorporated - Warrant
 QSIG - WisdomTree U.S. Short Term Corporate Bond Fund
 QSIX - Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF
 QSML - WisdomTree U.S. SmallCap Quality Growth Fund
+QSOL - Invesco Galaxy Solana ETF
 QSPT - FT Vest Nasdaq-100 Buffer ETF - September
 QSR - Restaurant Brands International Inc. Common Shares
 QSU - Defiance Daily Target 2X Long QS ETF
@@ -8832,6 +8835,7 @@ ROLR - High Roller Technologies, Inc. Common Stock
 ROM - ProShares Ultra Technology
 ROMA - Roma Green Finance Limited - Ordinary Shares
 ROMO - Strategy Shares Newfound/ReSolve Robust Momentum ETF
+RONB - Baron First Principles ETF
 ROOT - Root, Inc. - Common Stock
 ROP - Roper Technologies, Inc. - Common Stock
 ROPE - Coastal Compass 100 ETF
@@ -8922,7 +8926,6 @@ RVNL - GraniteShares 2x Long RIVN Daily ETF
 RVNU - Xtrackers Municipal Infrastructure Revenue Bond ETF
 RVP - Retractable Technologies, Inc. Common Stock
 RVPH - Reviva Pharmaceuticals Holdings, Inc. - Common Stock
-RVPHW - Reviva Pharmaceuticals Holdings, Inc. - Warrants
 RVRB - Reverb ETF
 RVSB - Riverview Bancorp Inc - Common Stock
 RVSN - Rail Vision Ltd. - Ordinary Shares
@@ -9528,7 +9531,6 @@ SOJC - Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due D
 SOJD - Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080
 SOJE - Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060
 SOJF - Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085
-SOL - Emeren Group Ltd American Depositary Shares, each representing 10 shares
 SOLC - Canary Marinade Solana ETF
 SOLM - Amplify Solana 3% Monthly Option Income ETF
 SOLR - Guinness Atkinson Sustainable Energy ETF
@@ -10943,6 +10945,7 @@ VSHY - Virtus Newfleet Short Duration High Yield Bond ETF
 VSLU - Applied Finance Valuation Large Cap ETF
 VSME - VS Media Holdings Limited - Class A Ordinary Shares
 VSMV - VictoryShares US Multi-Factor Minimum Volatility ETF
+VSNTV - Versant Media Group, Inc. - Class A Common Stock When-Issued
 VSOL - VanEck Solana ETF
 VSS - Vanguard FTSE All-Wld ex-US SmCp Idx ETF
 VSSYW - Versus Systems Inc. - Class A Warrants
@@ -10966,7 +10969,6 @@ VTGN - Vistagen Therapeutics, Inc. - Common Stock
 VTHR - Vanguard Russell 3000 ETF
 VTI - Vanguard Total Stock Market ETF
 VTIP - Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares
-VTLE - Vital Energy, Inc. Common Stock, par value $0.01 per share
 VTMX - Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares
 VTN - Invesco Trust for Investment Grade New York Municipals Common Stock
 VTOL - Bristow Group, Inc. Common Stock
@@ -11259,6 +11261,7 @@ XC - WisdomTree True Emerging Markets Fund
 XCCC - BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
 XCEM - Columbia EM Core ex-China ETF
 XCH - XCHG Limited - ADS
+XCHG - AB US Equity ETF
 XCLR - Global X S&P 500 Collar 95-110 ETF
 XCNY - SPDR S&P Emerging Markets ex-China ETF
 XCOR - FundX ETF
