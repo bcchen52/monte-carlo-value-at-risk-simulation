@@ -745,7 +745,6 @@ ATLX - Atlas Lithium Corporation - Common Stock
 ATMC - AlphaTime Acquisition Corp - Ordinary Shares
 ATMCR - AlphaTime Acquisition Corp - Right
 ATMCU - AlphaTime Acquisition Corp - Unit
-ATMCW - AlphaTime Acquisition Corp - Warrant
 ATMP - iPath Select MLP ETN
 ATMU - Atmus Filtration Technologies Inc. Common Stock
 ATNI - ATN International, Inc. - Common Stock
@@ -1081,6 +1080,7 @@ BEEM - Beam Global - Common Stock
 BEEP - Mobile Infrastructure Corporation - Common Stock
 BEEX - The Beehive ETF
 BEEZ - Honeytree U.S. Equity ETF
+BEG - Leverage Shares 2x Long BE Daily ETF
 BEGS - Rareview 2x Bull Cryptocurrency & Precious Metals ETF
 BEKE - KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)
 BELFA - Bel Fuse Inc. - Class A Common Stock
@@ -1405,6 +1405,7 @@ BPH - BP plc ADRhedged
 BPI - Grayscale Bitcoin Premium Income ETF
 BPOP - Popular, Inc. - Common Stock
 BPOPM - Popular, Inc. - Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities
+BPRE - Bluerock Private Real Estate Fund Common Shares of Beneficial Interest
 BPRN - Princeton Bancorp, Inc. - Common Stock
 BPYPM - Brookfield Property Partners L.P. - 6.25% Class A Cumulative Redeemable Preferred Units, Series 1
 BPYPN - Brookfield Property Partners L.P. - 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3
@@ -1463,7 +1464,6 @@ BSAAU - BEST SPAC I Acquisition Corp. - Unit
 BSAC - Banco Santander - Chile ADS
 BSBK - Bogota Financial Corp. - Common Stock
 BSBR - Banco Santander Brasil SA American Depositary Shares, each representing one unit
-BSCP - Invesco BulletShares 2025 Corporate Bond ETF
 BSCQ - Invesco BulletShares 2026 Corporate Bond ETF
 BSCR - Invesco BulletShares 2027 Corporate Bond ETF
 BSCS - Invesco BulletShares 2028 Corporate Bond ETF
@@ -1476,7 +1476,6 @@ BSCY - Invesco BulletShares 2034 Corporate Bond ETF
 BSCZ - Invesco BulletShares 2035 Corporate Bond ETF
 BSEP - Innovator U.S. Equity Buffer ETF - September
 BSET - Bassett Furniture Industries, Incorporated - Common Stock
-BSJP - Invesco BulletShares 2025 High Yield Corporate Bond ETF
 BSJQ - Invesco BulletShares 2026 High Yield Corporate Bond ETF
 BSJR - Invesco BulletShares 2027 High Yield Corporate Bond ETF
 BSJS - Invesco BulletShares 2028 High Yield Corporate Bond ETF
@@ -1490,7 +1489,6 @@ BSLK - Bolt Projects Holdings, Inc. - Common Stock
 BSLKW - Bolt Projects Holdings, Inc. - Warrant
 BSM - Black Stone Minerals, L.P. Common units representing limited partner interests
 BSMC - Brandes U.S. Small-Mid Cap Value ETF
-BSMP - Invesco BulletShares 2025 Municipal Bond ETF
 BSMQ - Invesco BulletShares 2026 Municipal Bond ETF
 BSMR - Invesco BulletShares 2027 Municipal Bond ETF
 BSMS - Invesco BulletShares 2028 Municipal Bond ETF
@@ -1530,7 +1528,6 @@ BTCZ - T-Rex 2X Inverse Bitcoin Daily Target ETF
 BTDR - Bitdeer Technologies Group - Ordinary Shares
 BTE - Baytex Energy Corp Common Shares
 BTF - CoinShares Bitcoin and Ether ETF
-BTFX - CoinShares Bitcoin Leverage ETF
 BTG - B2Gold Corp Common shares (Canada)
 BTGD - STKd 100% Bitcoin & 100% Gold ETF
 BTI - British American Tobacco  Industries, p.l.c. Common Stock ADR
@@ -2275,6 +2272,7 @@ CRACU - Crown Reserve Acquisition Corp. I - Unit
 CRACW - Crown Reserve Acquisition Corp. I - Warrant
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
+CRANU - Crane Harbor Acquisition Corp. II - Units
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
 CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
@@ -2553,6 +2551,7 @@ DBND - DoubleLine Opportunistic Core Bond ETF
 DBO - Invesco DB Oil Fund
 DBP - Invesco DB Precious Metals Fund
 DBRG - DigitalBridge Group, Inc.
+DBSC - Deepwater Beachfront Small Cap ETF
 DBVT - DBV Technologies S.A. - American Depositary Shares
 DBX - Dropbox, Inc. - Class A Common Stock
 DC - Dakota Gold Corp. Common Stock
@@ -2883,6 +2882,7 @@ DTAN - Sparkline International Intangible Value ETF
 DTB - DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080
 DTCK - Davis Commodities Limited - Class A Ordinary Shares
 DTCR - Global X Data Center & Digital Infrastructure ETF
+DTCX - Datacentrex, Inc. - Common Stock
 DTD - WisdomTree U.S. Total Dividend Fund
 DTE - DTE Energy Company Common Stock
 DTEC - ALPS Disruptive Technologies ETF
@@ -4160,7 +4160,6 @@ GAEM - Simplify Gamma Emerging Market Bond ETF
 GAIA - Gaia, Inc. - Class A Common Stock
 GAIN - Gladstone Investment Corporation - Business Development Company
 GAINI - Gladstone Investment Corporation - 7.875% Notes due 2030
-GAINL - Gladstone Investment Corporation - 8.00% Notes due 2028
 GAINN - Gladstone Investment Corporation - 5.00% Notes Due 2026
 GAINZ - Gladstone Investment Corporation - 4.875% Notes due 2028
 GAL - State Street Global Allocation ETF
@@ -4274,6 +4273,7 @@ GERN - Geron Corporation - Common Stock
 GES - Guess?, Inc. Common Stock
 GETY - Getty Images Holdings, Inc. Class A Common Stock
 GEV - GE Vernova Inc. Common Stock
+GEVG - Leverage Shares 2X Long GEV Daily ETF
 GEVO - Gevo, Inc. - Common Stock
 GEVX - Tradr 2X Long GEV Daily ETF
 GEW - Cambria Global EW ETF
@@ -5073,7 +5073,6 @@ IBP - Installed Building Products, Inc. Common Stock
 IBRN - iShares Neuroscience and Healthcare ETF
 IBRX - ImmunityBio, Inc. - Common Stock
 IBTA - Ibotta, Inc. Class A Common Stock
-IBTF - iShares iBonds Dec 2025 Term Treasury ETF
 IBTG - iShares iBonds Dec 2026 Term Treasury ETF
 IBTH - iShares iBonds Dec 2027 Term Treasury ETF
 IBTI - iShares iBonds Dec 2028 Term Treasury ETF
@@ -5422,6 +5421,7 @@ IRBT - iRobot Corporation - Common Stock
 IRD - Opus Genetics, Inc. - Common Stock
 IRDM - Iridium Communications Inc - Common Stock
 IRE - Defiance Daily Target 2X Long IREN ETF
+IREG - Leverage Shares 2X Long IREN Daily ETF
 IREN - IREN Limited - Ordinary Shares
 IRET - iREIT - MarketVector Quality REIT Index ETF
 IREX - Tradr 2X Long IREN Daily ETF
@@ -6193,8 +6193,8 @@ LKSPU - Lake Superior Acquisition Corp. - Units
 LLDR - Global X Long-Term Treasury Ladder ETF
 LLII - REX LLY Growth & Income ETF
 LLY - Eli Lilly and Company Common Stock
-LLYVA - Liberty Media Corporation - Series A Liberty Live Common Stock
-LLYVK - Liberty Media Corporation - Series C Liberty Live Common Stock
+LLYVA - Liberty Live Holdings, Inc. - Series A Liberty Live Group Common Stock
+LLYVK - Liberty Live Holdings, Inc. - Series C Liberty Live Group Common Stock
 LLYX - Defiance Daily Target 2X Long LLY ETF
 LLYZ - Defiance Daily Target 2X Short LLY ETF
 LMAT - LeMaitre Vascular, Inc. - Common Stock
@@ -6696,6 +6696,7 @@ MMKT - Texas Capital Government Money Market ETF
 MMLG - First Trust Multi-Manager Large Growth ETF
 MMLP - Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests
 MMM - 3M Company Common Stock
+MMMA - NYLI MacKay Muni Allocation ETF
 MMS - Maximus, Inc. Common Stock
 MMSC - First Trust Multi-Manager Small Cap Opportunities ETF
 MMSD - NYLI MacKay Muni Short Duration ETF
@@ -7457,7 +7458,6 @@ OAKM - Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
-OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
@@ -8489,6 +8489,7 @@ QSPT - FT Vest Nasdaq-100 Buffer ETF - September
 QSR - Restaurant Brands International Inc. Common Shares
 QSU - Defiance Daily Target 2X Long QS ETF
 QSX - Tradr 2X Long QS Daily ETF
+QTAC - Q3 All-Season Tactical Advantage ETF
 QTAP - Innovator Growth Accelerated Plus ETF - April
 QTEC - First Trust NASDAQ-100-Technology Sector Index Fund
 QTJA - Innovator Growth Accelerated Plus ETF - January
@@ -9029,6 +9030,7 @@ SBAR - Simplify Barrier Income ETF
 SBB - ProShares Short SmallCap600
 SBC - SBC Medical Group Holdings Incorporated - Common Stock
 SBCF - Seacoast Banking Corporation of Florida - Common Stock
+SBCWW - SBC Medical Group Holdings Incorporated - Warrants
 SBDS - Solo Brands, Inc. Class A Common Stock
 SBET - SharpLink Gaming, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
@@ -9902,6 +9904,7 @@ SZZL - Sizzle Acquisition Corp. II - Class A ordinary shares
 SZZLR - Sizzle Acquisition Corp. II - Right
 SZZLU - Sizzle Acquisition Corp. II - Unit
 T - AT&T Inc.
+TABD - Transamerica Bond Active ETF
 TAC - TransAlta Corporation Ordinary Shares
 TACH - Titan Acquisition Corp. - Class A Ordinary Shares
 TACHU - Titan Acquisition Corp. - Units
@@ -9924,6 +9927,7 @@ TAL - TAL Education Group American Depositary Shares
 TALK - Talkspace, Inc. - Common Stock
 TALKW - Talkspace, Inc. - Warrant
 TALO - Talos Energy, Inc. Common Stock
+TALV - Transamerica Large Value Active ETF
 TAN - Invesco Solar ETF
 TANH - Tantech Holdings Ltd. - Common Shares
 TAOP - Taoping Inc. - Ordinary Shares
@@ -10466,7 +10470,6 @@ TYO - Direxion Daily 10-Yr Treasury Bear 3x Shrs
 TYRA - Tyra Biosciences, Inc. - Common Stock
 TZA - Direxion Small Cap Bear 3X Shares
 TZOO - Travelzoo - Common Stock
-TZUP - Thumzup Media Corporation - Common Stock
 U - Unity Software Inc. Common Stock
 UA - Under Armour, Inc. Class C Common Stock
 UAA - Under Armour, Inc. Class A Common Stock
@@ -11450,7 +11453,9 @@ YANG - Direxion Daily FTSE China Bear 3X Shares
 YB - Yuanbao Inc. - American Depositary Shares
 YBIT - YieldMax Bitcoin Option Income Strategy ETF
 YBMN - Defiance BMNR Option Income ETF
+YBST - GraniteShares YieldBoost Single Stock Universe ETF
 YBTC - Roundhill Bitcoin Covered Call Strategy ETF
+YBTY - GraniteShares YieldBoost TopYielders ETF
 YCBD - cbdMD, Inc. Common Stock
 YCL - ProShares Ultra Yen
 YCS - ProShares UltraShort Yen New
