@@ -133,6 +133,7 @@ ACWV - iShares MSCI Global Min Vol Factor ETF
 ACWX - iShares MSCI ACWI ex U.S. ETF
 ACXP - Acurx Pharmaceuticals, Inc. - Common Stock
 AD - Array Digital Infrastructure, Inc. Common Shares
+ADACU - American Drive Acquisition Company - Units
 ADAG - Adagene Inc. - ADS, each representing 1.25 ordinary shares
 ADAM - Adamas Trust, Inc. - Common Stock
 ADAMG - Adamas Trust, Inc. - 9.125% Senior Notes Due 2030
@@ -1122,7 +1123,6 @@ BFRE - Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
-BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
@@ -1176,6 +1176,7 @@ BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
+BIDG - Leverage Shares 2X Long BIDU Daily ETF
 BIDU - Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share
 BIGY - YieldMax Target 12 Big 50 Option Income ETF
 BIIB - Biogen Inc. - Common Stock
@@ -1309,7 +1310,6 @@ BLX - Banco Latinoamericano de Comercio Exterior, S.A.
 BLZE - Backblaze, Inc. - Common Stock
 BLZR - Trailblazer Acquisition Corp. - Class A Ordinary Shares
 BLZRU - Trailblazer Acquisition Corp. - Unit
-BLZRW - Trailblazer Acquisition Corp. - Warrant
 BMA - Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
 BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAX - REX Bitcoin Corporate Treasury Convertible Bond ETF
@@ -1691,7 +1691,6 @@ CAPNU - Cayson Acquisition Corp - Units
 CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
 CAPT - Captivision Inc. - Ordinary Shares
-CAPTW - Captivision Inc. - Warrant
 CAR - Avis Budget Group, Inc. - Common Stock
 CARD - MAX Auto Industry -3x Inverse Leveraged ETN
 CARE - Carter Bankshares, Inc. - Common Stock
@@ -2104,6 +2103,7 @@ CNA - CNA Financial Corporation Common Stock
 CNAV - Mohr Company Nav ETF
 CNBS - Amplify Seymour Cannabis ETF
 CNC - Centene Corporation Common Stock
+CNCG - Leverage Shares 2X Long CNC Daily ETF
 CNCK - Coincheck Group N.V. - Ordinary Shares
 CNCKW - Coincheck Group N.V. - Warrants
 CNDT - Conduent Incorporated - Common Stock
@@ -3273,6 +3273,7 @@ EOSE - Eos Energy Enterprises, Inc. - Common Stock
 EOT - Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST
 EP - Empire Petroleum Corporation Common Stock
 EPAC - Enerpac Tool Group Corp. Common Stock
+EPAI - Harbor AI Inflection Strategy ETF
 EPAM - EPAM Systems, Inc. Common Stock
 EPC - Edgewell Personal Care Company Common Stock
 EPD - Enterprise Products Partners L.P. Common Stock
@@ -3706,6 +3707,7 @@ FFC - Flaherty & Crumrine Preferred and Income Securities Fund Incorporated
 FFDI - Fidelity Fundamental Developed International ETF
 FFEB - FT Vest U.S. Equity Buffer ETF - February
 FFEM - Fidelity Fundamental Emerging Markets ETF
+FFF - Founders 100 ETF
 FFGX - Fidelity Fundamental Global ex-U.S. ETF
 FFIC - Flushing Financial Corporation - Common Stock
 FFIN - First Financial Bankshares, Inc. - Common Stock
@@ -3795,6 +3797,7 @@ FIXP - FolioBeyond Enhanced Fixed Income Premium ETF
 FIXT - TCW Core Plus Bond ETF
 FIZZ - National Beverage Corp. - Common Stock
 FJAN - FT Vest U.S. Equity Buffer ETF - January
+FJET - Starfighters Space, Inc. Common Stock
 FJP - First Trust Japan AlphaDEX Fund
 FJUL - FT Vest U.S. Equity Buffer ETF - July
 FJUN - FT Vest U.S. Equity Buffer ETF - June
@@ -4119,6 +4122,7 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
+FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -5869,6 +5873,7 @@ KKR - KKR & Co. Inc. Common Stock
 KKRS - KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061
 KKRT - KKR & Co. Inc. 6.875% Subordinated Notes due 2065
 KLAC - KLA Corporation  - Common Stock
+KLAG - Leverage Shares 2x Long KLAC Daily ETF
 KLAR - Klarna Group plc Ordinary Shares
 KLC - KinderCare Learning Companies, Inc. Common Stock
 KLIC - Kulicke and Soffa Industries, Inc. - Common Stock
@@ -6260,6 +6265,7 @@ LPBB - Launch Two Acquisition Corp. - Class A Ordinary Shares
 LPBBU - Launch Two Acquisition Corp. - Unit
 LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
+LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -6683,6 +6689,7 @@ MLP - Maui Land & Pineapple Company, Inc. Common Stock
 MLPA - Global X MLP ETF
 MLPB - ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040
 MLPD - Global X MLP & Energy Infrastructure Covered Call ETF
+MLPI - NEOS MLP & Energy Infrastructure High Income ETF
 MLPR - ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN
 MLPX - Global X MLP & Energy Infrastructure ETF
 MLR - Miller Industries, Inc. Common Stock
@@ -7153,6 +7160,7 @@ NIM - Nuveen Select Maturities Municipal Fund Common Stock
 NINE - Nine Energy Service, Inc. Common Stock
 NIO - NIO Inc. American depositary shares, each  representing one Class A ordinary share
 NIOBW - NioCorp Developments Ltd. - Warrant
+NIOG - Leverage Shares 2X Long NIO Daily ETF
 NIPG - NIP Group Inc. - American Depositary Shares
 NIQ - NIQ Global Intelligence plc Ordinary Shares
 NISN - NiSun Intl Enterprise Development Group Co, Ltd - Class A Common Shares
@@ -7489,7 +7497,6 @@ OCG - Oriental Culture Holding LTD - Ordinary Shares
 OCGN - Ocugen, Inc. - Common Stock
 OCIO - ClearShares OCIO ETF
 OCS - Oculis Holding AG - Ordinary shares
-OCSAW - Oculis Holding AG - Warrants
 OCSL - Oaktree Specialty Lending Corporation - Closed End Fund
 OCTB - Aptus October Buffer ETF
 OCTH - Innovator Premium Income 20 Barrier ETF - October
@@ -7818,6 +7825,7 @@ PBP - Invesco S&P 500 BuyWrite ETF
 PBPH - Portfolio Building Block World Pharma and Biotech Index ETF
 PBQQ - PGIM Laddered Nasdaq-100 Buffer 12 ETF
 PBR - Petroleo Brasileiro S.A. Petrobras ADS
+PBRG - Leverage Shares 2X Long PBR Daily ETF
 PBSE - PGIM S&P 500 Buffer 20 ETF - September
 PBT - Permian Basin Royalty Trust Common Stock
 PBTP - Invesco 0-5 Yr US TIPS ETF
@@ -7960,7 +7968,6 @@ PGJ - Invesco Golden Dragon China ETF
 PGNY - Progyny, Inc. - Common Stock
 PGP - Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest
 PGR - Progressive Corporation (The) Common Stock
-PGRE - Paramount Group, Inc. Common Stock
 PGRI - Putnam International Stock ETF
 PGRO - Putnam Focused Large Cap Growth ETF
 PGX - Invesco Preferred ETF
@@ -9476,6 +9483,7 @@ SMXWW - SMX (Security Matters) Public Limited Company - Warrant
 SMYY - GraniteShares YieldBOOST SMCI ETF
 SN - SharkNinja, Inc. Ordinary Shares
 SNA - Snap-On Incorporated Common Stock
+SNAG - Leverage Shares 2x Long SNAP Daily ETF
 SNAL - Snail, Inc. - Class A Common Stock
 SNAP - Snap Inc. Class A Common Stock
 SNAV - Mohr Sector Nav ETF
@@ -9502,7 +9510,6 @@ SNPD - Xtrackers S&P Dividend Aristocrats Screened ETF
 SNPE - Xtrackers S&P 500 Scored & Screened ETF
 SNPG - Xtrackers S&P 500 Growth Scored & Screened ETF
 SNPS - Synopsys, Inc. - Common Stock
-SNPV - Xtrackers S&P 500 Value Scored & Screened ETF
 SNPX - Tradr 2X Long SNPS Daily ETF
 SNSE - Sensei Biotherapeutics, Inc. - Common Stock
 SNSR - Global X Internet of Things ETF
@@ -10236,6 +10243,7 @@ TNL - Travel   Leisure Co. Common  Stock
 TNMG - TNL Mediagene - Ordinary Shares
 TNON - Tenon Medical, Inc. - Common Stock
 TNONW - Tenon Medical, Inc. - Warrant
+TNUK - Tortoise Nuclear Renaissance ETF
 TNXP - Tonix Pharmaceuticals Holding Corp. - Common Stock
 TNYA - Tenaya Therapeutics, Inc. - Common Stock
 TOAK - Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF
@@ -10642,6 +10650,7 @@ USE - USCF Energy Commodity Strategy Absolute Return Fund
 USEA - United Maritime Corporation - Common Stock
 USEG - U.S. Energy Corp. - Common Stock
 USEP - Innovator U.S. Equity Ultra Buffer ETF - September
+USEW - Cambria US EW ETF
 USFD - US Foods Holding Corp. Common Stock
 USFI - BrandywineGLOBAL - U.S. Fixed Income ETF
 USFR - WisdomTree Floating Rate Treasury Fund
@@ -10728,6 +10737,7 @@ VACHW - Voyager Acquisition Corp - Warrants
 VACI - Viking Acquisition Corp. I Class A Ordinary Shares
 VAL - Valaris Limited Common Shares
 VALE - VALE S.A.  American Depositary Shares Each Representing one common share
+VALG - Leverage Shares 2X Long VALE Daily ETF
 VALN - Valneva SE - American Depositary Shares
 VALQ - American Century U.S. Quality Value ETF
 VALU - Value Line, Inc. - Common Stock
@@ -10818,6 +10828,7 @@ VGUS - Vanguard Ultra-Short Treasury ETF
 VGVT - Vanguard Government Securities Active ETF
 VGZ - Vista Gold Corp Common Stock
 VHC - VirnetX Holding Corp - Common Stock
+VHCPU - Vine Hill Capital Investment Corp. II - Units
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
 VIA - Via Transportation, Inc. Class A Common Stock
@@ -11140,7 +11151,6 @@ WLACW - Willow Lane Acquisition Corp. - Warrants
 WLDN - Willdan Group, Inc. - Common Stock
 WLDR - Affinity World Leaders Equity ETF
 WLDS - Wearable Devices Ltd. - Ordinary Share
-WLDSW - Wearable Devices Ltd. - Warrant
 WLFC - Willis Lease Finance Corporation - Common Stock
 WLK - Westlake Corporation Common Stock
 WLKP - Westlake Chemical Partners LP Common Units representing limited partner interests
