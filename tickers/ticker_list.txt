@@ -195,7 +195,6 @@ AEP - American Electric Power Company, Inc. - Common Stock
 AER - AerCap Holdings N.V. Ordinary Shares
 AERO - Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)
 AERT - Aeries Technology, Inc. - Class A Ordinary Share
-AERTW - Aeries Technology, Inc. - Warrant
 AES - The AES Corporation Common Stock
 AESI - Atlas Energy Solutions Inc. Common Stock
 AESR - Anfield U.S. Equity Sector Rotation ETF
@@ -490,7 +489,6 @@ ANET - Arista Networks, Inc. Common Stock
 ANEW - ProShares MSCI Transformational Changes ETF
 ANF - Abercrombie & Fitch Company Common Stock
 ANGH - Anghami Inc. - Ordinary Shares
-ANGHW - Anghami Inc. - Warrants
 ANGI - Angi Inc. - Class A Common Stock
 ANGL - VanEck Fallen Angel High Yield Bond ETF
 ANGO - AngioDynamics, Inc. - Common Stock
@@ -1310,6 +1308,7 @@ BLX - Banco Latinoamericano de Comercio Exterior, S.A.
 BLZE - Backblaze, Inc. - Common Stock
 BLZR - Trailblazer Acquisition Corp. - Class A Ordinary Shares
 BLZRU - Trailblazer Acquisition Corp. - Unit
+BLZRW - Trailblazer Acquisition Corp. - Warrant
 BMA - Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
 BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAX - REX Bitcoin Corporate Treasury Convertible Bond ETF
@@ -1457,7 +1456,6 @@ BRTR - iShares Total Return Active ETF
 BRTX - BioRestorative Therapies, Inc. - Common Stock
 BRW - Saba Capital Income & Opportunities Fund SBI
 BRX - Brixmor Property Group Inc. Common Stock
-BRY - Berry Corporation (bry) - Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
 BRZU - Direxion Daily Brazil Bull 2X Shares
 BSAA - BEST SPAC I Acquisition Corp. - Class A Ordinary Shares
@@ -1516,7 +1514,6 @@ BTA - BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial 
 BTAI - BioXcel Therapeutics, Inc. - Common Stock
 BTAL - AGF U.S. Market Neutral Anti-Beta Fund
 BTBD - BT Brands, Inc. - Common Stock
-BTBDW - BT Brands, Inc. - Warrant
 BTBT - Bit Digital, Inc. - Ordinary Share
 BTC - Grayscale Bitcoin Mini Trust (BTC)
 BTCC - Grayscale Bitcoin Covered Call ETF
@@ -1925,6 +1922,7 @@ CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
+CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -2276,7 +2274,6 @@ CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRANU - Crane Harbor Acquisition Corp. II - Units
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
-CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -3350,7 +3347,6 @@ ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
 ESK - REX-Osprey ETH + Staking ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
-ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLG - Eventide Large Cap Growth ETF
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESLV - Eventide Large Cap Value ETF
@@ -3688,7 +3684,6 @@ FEP - First Trust Europe AlphaDEX Fund
 FEPI - REX FANG & Innovation Equity Premium Income ETF
 FER - Ferrovial SE - Ordinary Shares
 FERA - Fifth Era Acquisition Corp I - Class A Ordinary Shares
-FERAR - Fifth Era Acquisition Corp I - Rights
 FERAU - Fifth Era Acquisition Corp I - Units
 FERG - Ferguson Enterprises Inc. Common Stock
 FESM - Fidelity Enhanced Small Cap ETF
@@ -4947,7 +4942,6 @@ HVIIR - Hennessy Capital Investment Corp. VII - Rights
 HVIIU - Hennessy Capital Investment Corp. VII - Unit
 HVMC - Highview Merger Corp. - Class A Ordinary Share
 HVMCU - Highview Merger Corp. - Units
-HVMCW - Highview Merger Corp. - Warrants
 HVT - Haverty Furniture Companies, Inc. Common Stock
 HWAY - Themes US Infrastructure ETF
 HWBK - Hawthorn Bancshares, Inc. - Common Stock
@@ -5842,7 +5836,6 @@ KF - Korea Fund, Inc. (The) New Common Stock
 KFEB - Innovator U.S. Small Cap Power Buffer ETF - February
 KFFB - Kentucky First Federal Bancorp - Common Stock
 KFII - K&F Growth Acquisition Corp. II - Class A Ordinary shares
-KFIIR - K&F Growth Acquisition Corp. II - Rights
 KFIIU - K&F Growth Acquisition Corp. II - Unit
 KFRC - Kforce, Inc. Common Stock
 KFS - Kingsway Financial Services, Inc. Common Stock (DE)
@@ -6068,7 +6061,6 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
-LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCLG - Logan Capital Broad Innovative Growth ETF
@@ -6380,7 +6372,6 @@ MAAY - GraniteShares YieldBOOST MARA ETF
 MAC - Macerich Company (The) Common Stock
 MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
-MACIW - Melar Acquisition Corp. I - Warrant
 MADE - iShares U.S. Manufacturing ETF
 MAGA - Point Bridge America First ETF
 MAGC - Roundhill China Magnificent Seven ETF
@@ -7430,7 +7421,6 @@ NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
 NXG - NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
 NXGL - NexGel, Inc - Common Stock
-NXGLW - NexGel, Inc - Warrant
 NXJ - Nuveen New Jersey Qualified Municipal Fund 
 NXL - Nexalin Technology, Inc. - Common Stock
 NXN - Nuveen New York Select Tax-Free Income Portfolio Common Stock
@@ -7486,6 +7476,7 @@ OBK - Origin Bancorp, Inc. Common Stock
 OBND - State Street Loomis Sayles Opportunistic Bond ETF
 OBOR - KraneShares MSCI One Belt One Road Index ETF
 OBT - Orange County Bancorp, Inc. - Common Stock
+OBTC - Osprey Bitcoin Trust
 OC - Owens Corning Inc Common Stock New
 OCC - Optical Cable Corporation - Common Stock
 OCCI - OFS Credit Company, Inc. - Closed End Fund
@@ -8489,7 +8480,6 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation Class A Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
-QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSI - Quantum-Si Incorporated - Class A Common Stock
 QSIAW - Quantum-Si Incorporated - Warrant
@@ -8673,6 +8663,7 @@ REMC - Columbia Research Enhanced Mid Cap ETF
 REMG - Russell Investments Emerging Markets Equity ETF
 REMX - VanEck Rare Earth and Strategic Metals ETF
 RENT - Rent the Runway, Inc. - Class A Common Stock
+RENX - RenX Enterprises Corp. - Common Stock
 REPL - Replimune Group, Inc. - Common Stock
 REPX - Riley Exploration Permian, Inc. Common Stock
 RERE - ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares)
@@ -9237,7 +9228,6 @@ SG - Sweetgreen, Inc. Class A Common Stock
 SGA - Saga Communications, Inc. - Class A Common Stock
 SGBX - Safe & Green Holdings Corp. - Common Stock
 SGC - Superior Group of Companies, Inc. - Common Stock
-SGD - Safe and Green Development Corporation - Common Stock
 SGDJ - Sprott Junior Gold Miners ETF
 SGDM - Sprott Gold Miners ETF
 SGHC - Super Group (SGHC) Limited Ordinary Shares
@@ -11369,6 +11359,7 @@ XNOV - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - November
 XNTK - State Street SPDR NYSE Technology ETF
 XOCT - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - October
 XOEF - iShares S&P 500 ex S&P 100 ETF
+XOEX - Xtrackers S&P 100 Ex Top 20 ETF
 XOM - Exxon Mobil Corporation Common Stock
 XOMA - XOMA Royalty Corporation - Common Stock
 XOMAO - XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock
