@@ -4718,7 +4718,6 @@ HDUS - Hartford Disciplined US Equity ETF
 HDV - iShares Core High Dividend ETF
 HE - Hawaiian Electric Industries, Inc. Common Stock
 HEAL - Global X HealthTech ETF
-HEAT - Touchstone Climate Transition ETF
 HECA - Hedgeye Capital Allocation ETF
 HECO - SPDR Galaxy Hedged Digital Asset Ecosystem ETF
 HEDG - Equable Shares Hedged Equity ETF
@@ -5894,7 +5893,6 @@ KMT - Kennametal Inc. Common Stock
 KMTS - Kestra Medical Technologies, Ltd. - Common Stock
 KMX - CarMax Inc
 KN - Knowles Corporation Common Stock
-KNCT - Invesco Next Gen Connectivity ETF
 KNDI - Kandi Technologies Group, Inc. - Ordinary Shares
 KNF - Knife Riv Holding Co. Common Stock
 KNG - FT Vest S&P 500 Dividend Aristocrats Target Income ETF
@@ -8388,7 +8386,6 @@ QCMU - Direxion Daily QCOM Bull 2X ETF
 QCOC - FT Vest Nasdaq-100 Conservative Buffer ETF - October
 QCOM - QUALCOMM Incorporated - Common Stock
 QCRH - QCR Holdings, Inc. - Common Stock
-QD - Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share
 QDEC - FT Vest Nasdaq-100 Buffer ETF - December
 QDEF - FlexShares Quality Dividend Defensive Index Fund
 QDEL - QuidelOrtho Corporation - Common Stock
@@ -8562,8 +8559,6 @@ RAVE - Rave Restaurant Group, Inc. - Common Stock
 RAVI - FlexShares Ultra-Short Income Fund
 RAY - Raytech Holding Limited - Ordinary Shares
 RAYA - Erayak Power Solution Group Inc. - Class A Ordinary Shares
-RAYD - Rayliant Quantitative Developed Market Equity ETF
-RAYE - Rayliant Quantamental Emerging Market ex-China Equity ETF
 RAYJ - Rayliant SMDAM Japan Equity ETF
 RB - ProShares Russell 2000 Dynamic Buffer ETF
 RBA - RB Global, Inc. Common Stock
@@ -11557,7 +11552,6 @@ ZJK - ZJK Industrial Co., Ltd. - Ordinary Shares
 ZJUL - Innovator Equity Defined Protection ETF - 1 Yr July
 ZJUN - Innovator Equity Defined Protection ETF - 1 Yr June
 ZJYL - JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares
-ZK - ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares)
 ZKH - ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares
 ZKIN - ZK International Group Co., Ltd - Ordinary Share
 ZLAB - Zai Lab Limited - American Depositary Shares
