@@ -489,6 +489,7 @@ ANET - Arista Networks, Inc. Common Stock
 ANEW - ProShares MSCI Transformational Changes ETF
 ANF - Abercrombie & Fitch Company Common Stock
 ANGH - Anghami Inc. - Ordinary Shares
+ANGHW - Anghami Inc. - Warrants
 ANGI - Angi Inc. - Class A Common Stock
 ANGL - VanEck Fallen Angel High Yield Bond ETF
 ANGO - AngioDynamics, Inc. - Common Stock
@@ -623,7 +624,6 @@ ARKF - ARK Blockchain & Fintech Innovation ETF
 ARKG - ARK Genomic Revolution ETF
 ARKK - ARK Innovation ETF
 ARKO - ARKO Corp. - Common Stock
-ARKOW - ARKO Corp. - Warrant
 ARKQ - ARK Autonomous Technology & Robotics ETF
 ARKR - Ark Restaurants Corp. - Common Stock
 ARKT - ARK DIET Q4 Buffer ETF
@@ -1514,6 +1514,7 @@ BTA - BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial 
 BTAI - BioXcel Therapeutics, Inc. - Common Stock
 BTAL - AGF U.S. Market Neutral Anti-Beta Fund
 BTBD - BT Brands, Inc. - Common Stock
+BTBDW - BT Brands, Inc. - Warrant
 BTBT - Bit Digital, Inc. - Ordinary Share
 BTC - Grayscale Bitcoin Mini Trust (BTC)
 BTCC - Grayscale Bitcoin Covered Call ETF
@@ -2274,6 +2275,7 @@ CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRANU - Crane Harbor Acquisition Corp. II - Units
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
+CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -4159,6 +4161,7 @@ GABC - German American Bancorp, Inc. - Common Stock
 GABF - Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF
 GAEM - Simplify Gamma Emerging Market Bond ETF
 GAIA - Gaia, Inc. - Class A Common Stock
+GAID - Guinness Atkinson International Dividend Builder ETF
 GAIN - Gladstone Investment Corporation - Business Development Company
 GAINI - Gladstone Investment Corporation - 7.875% Notes due 2030
 GAINN - Gladstone Investment Corporation - 5.00% Notes Due 2026
@@ -4172,10 +4175,13 @@ GAMR - Amplify Video Game Leaders ETF
 GANX - Gain Therapeutics, Inc. - Common Stock
 GAP - Gap, Inc. (The) Common Stock
 GAPR - FT Vest U.S. Equity Moderate Buffer ETF - April
+GARA - Guinness Atkinson Real Assets Income ETF
 GARP - iShares MSCI USA Quality GARP ETF
+GARY - Mango Growth ETF
 GASS - StealthGas, Inc. - common stock
 GATX - GATX Corporation Common Stock
 GAU - Galiano Gold Inc.
+GAUD - Guinness Atkinson US Dividend Builder ETF
 GAUG - FT Vest U.S. Equity Moderate Buffer ETF - August
 GAUZ - Gauzy Ltd. - Ordinary Shares
 GBAB - Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest
@@ -4889,6 +4895,7 @@ HSHP - Himalaya Shipping Ltd. Common Shares
 HSIC - Henry Schein, Inc. - Common Stock
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
 HSPT - Horizon Space Acquisition II Corp. - Ordinary share
+HSPTR - Horizon Space Acquisition II Corp. - Right
 HSPTU - Horizon Space Acquisition II Corp. - Units
 HST - Host Hotels & Resorts, Inc. - Common Stock
 HSTM - HealthStream, Inc. - Common Stock
@@ -4912,6 +4919,7 @@ HTLM - HomesToLife Ltd - Ordinary Shares
 HTO - H2O America  - Common Stock
 HTOO - Fusion Fuel Green PLC - Ordinary Shares
 HTRB - Hartford Total Return Bond ETF
+HTT - High Templar Tech Limited American depositary shares, each representing one Class A ordinary share
 HTUS - Hull Tactical US ETF
 HTZ - Hertz Global Holdings, Inc - Common Stock
 HTZWW - Hertz Global Holdings, Inc - Warrant
@@ -5165,6 +5173,8 @@ IFS - Intercorp Financial Services Inc. Common Shares
 IFV - First Trust Dorsey Wright International Focus 5 ETF
 IG - Principal Investment Grade Corporate Active ETF
 IGA - Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest
+IGAC - Invest Green Acquisition Corporation - Class A Ordinary Shares
+IGACR - Invest Green Acquisition Corporation - Rights
 IGACU - Invest Green Acquisition Corporation - Units
 IGBH - iShares Interest Rate Hedged Long-Term Corporate Bond ETF
 IGC - IGC Pharma, Inc. Common Stock
@@ -5415,7 +5425,6 @@ IQSU - NYLI Candriam U.S. Large Cap Equity ETF
 IQSZ - Invesco Global Equity Net Zero ETF
 IQV - IQVIA Holdings, Inc. Common Stock
 IR - Ingersoll Rand Inc. Common Stock
-IRBT - iRobot Corporation - Common Stock
 IRD - Opus Genetics, Inc. - Common Stock
 IRDM - Iridium Communications Inc - Common Stock
 IRE - Defiance Daily Target 2X Long IREN ETF
@@ -5893,6 +5902,7 @@ KMT - Kennametal Inc. Common Stock
 KMTS - Kestra Medical Technologies, Ltd. - Common Stock
 KMX - CarMax Inc
 KN - Knowles Corporation Common Stock
+KNCT - Invesco Next Gen Connectivity ETF
 KNDI - Kandi Technologies Group, Inc. - Ordinary Shares
 KNF - Knife Riv Holding Co. Common Stock
 KNG - FT Vest S&P 500 Dividend Aristocrats Target Income ETF
@@ -6839,9 +6849,6 @@ MSN - Emerson Radio Corporation Common Stock
 MSOO - Leverage Shares 2x Capped Accelerated MSTR Monthly ETF
 MSOS - AdvisorShares Pure US Cannabis ETF
 MSOX - AdvisorShares MSOS Daily Leveraged ETF
-MSPR - MSP Recovery, Inc. - Class A Common Stock
-MSPRW - MSP Recovery, Inc. - Warrant
-MSPRZ - MSP Recovery, Inc. - Warrant
 MSS - Maison Solutions Inc. - Class A Common Stock
 MSSM - Morgan Stanley Pathway Small-Mid Cap Equity ETF
 MSSS - Monarch Select Subsector Index ETF
@@ -8446,7 +8453,7 @@ QPUX - Defiance 2X Daily Long Pure Quantum ETF
 QPX - AdvisorShares Q Dynamic Growth ETF
 QQA - Invesco QQQ Income Advantage ETF
 QQDN - ProShares UltraShort QQQ Mega
-QQEW - First Trust NASDAQ-100 Equal Weighted Index Fund
+QQEW - First Trust Nasdaq-100 Select Equal Weight ETF
 QQH - HCM Defender 100 Index ETF
 QQHG - Invesco QQQ Hedged Advantage ETF
 QQJG - Invesco ESG NASDAQ Next Gen 100 ETF
@@ -8721,6 +8728,7 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
+RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -8935,9 +8943,11 @@ RW - Rainwater Equity ETF
 RWAY - Runway Growth Finance Corp. - Common Stock
 RWAYL - Runway Growth Finance Corp. - 7.50% Notes due 2027
 RWAYZ - Runway Growth Finance Corp. - 8.00% Notes due 2027
+RWEM - Rayliant Wilshire NxtGen Emerging Markets Equity ETF
 RWJ - Invesco S&P SmallCap 600 Revenue ETF
 RWK - Invesco S&P MidCap 400 Revenue ETF
 RWL - Invesco S&P 500 Revenue ETF
+RWLC - Rayliant Wilshire NxtGen US Large Cap Equity ETF
 RWM - ProShares Short Russell2000
 RWO - SPDR DJ Wilshire Global Real Estate ETF
 RWR - State Street SPDR Dow Jones REIT ETF
@@ -10877,6 +10887,7 @@ VNLA - Janus Henderson Short Duration Income ETF
 VNM - VanEck Vietnam ETF
 VNME - Vendome Acquisition Corporation I - Class A Ordinary Shares
 VNMEU - Vendome Acquisition Corporation I - Unit
+VNMEW - Vendome Acquisition Corporation I - Warrant
 VNO - Vornado Realty Trust Common Stock
 VNOM - Viper Energy, Inc.  - Class A Common Stock
 VNQ - Vanguard Real Estate ETF
