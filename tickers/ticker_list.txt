@@ -1240,7 +1240,6 @@ BKF - iShares MSCI BIC ETF
 BKGI - BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
-BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -6376,6 +6375,7 @@ MAAY - GraniteShares YieldBOOST MARA ETF
 MAC - Macerich Company (The) Common Stock
 MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
+MACIW - Melar Acquisition Corp. I - Warrant
 MADE - iShares U.S. Manufacturing ETF
 MAGA - Point Bridge America First ETF
 MAGC - Roundhill China Magnificent Seven ETF
@@ -7225,9 +7225,7 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
-NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
-NOEMW - CO2 Energy Transition Corp. - Warrant
 NOG - Northern Oil and Gas, Inc. Common Stock
 NOK - Nokia Corporation Sponsored American Depositary Shares
 NOM - Nuveen Missouri Quality Municipal Income Fund 
@@ -7422,6 +7420,7 @@ NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
 NXG - NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
 NXGL - NexGel, Inc - Common Stock
+NXGLW - NexGel, Inc - Warrant
 NXJ - Nuveen New Jersey Qualified Municipal Fund 
 NXL - Nexalin Technology, Inc. - Common Stock
 NXN - Nuveen New York Select Tax-Free Income Portfolio Common Stock
@@ -7992,6 +7991,7 @@ PICB - Invesco International Corporate Bond ETF
 PICK - iShares MSCI Global Select Metals & Mining Producers Fund
 PID - Invesco International Dividend Achievers ETF
 PIE - Invesco Dorsey Wright Emerging Markets Momentum ETF
+PIEL - Pacer International Export Leaders ETF
 PIEQ - Principal International Equity ETF
 PIFI - ClearShares Piton Intermediate Fixed Income ETF
 PII - Polaris Inc. Common Stock
@@ -9912,7 +9912,6 @@ TABD - Transamerica Bond Active ETF
 TAC - TransAlta Corporation Ordinary Shares
 TACH - Titan Acquisition Corp. - Class A Ordinary Shares
 TACHU - Titan Acquisition Corp. - Units
-TACHW - Titan Acquisition Corp. - Warrants
 TACK - Fairlead Tactical Sector ETF
 TACN - T. Rowe Price Active Core International Equity ETF
 TACO - Berto Acquisition Corp. - Ordinary Shares
@@ -11287,6 +11286,7 @@ XEL - Xcel Energy Inc. - Common Stock
 XELB - Xcel Brands, Inc - Common Stock
 XELLL - Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085
 XEMD - BondBloxx JP Morgan USD Emerging Markets 1-10 Year Bond ETF
+XEML - Xtrackers Europe Market Leaders ETF
 XENE - Xenon Pharmaceuticals Inc. - Common Shares
 XERS - Xeris Biopharma Holdings, Inc. - Common Stock
 XES - State Street SPDR S&P Oil & Gas Equipment & Services ETF
