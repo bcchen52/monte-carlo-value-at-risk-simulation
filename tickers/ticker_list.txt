@@ -852,7 +852,6 @@ AVXL - Anavex Life Sciences Corp. - Common Stock
 AVXX - Defiance Daily Target 2x Long AVAV ETF
 AVY - Avery Dennison Corporation Common Stock
 AWAY - Amplify Travel Tech ETF
-AWEG - Alger Weatherbie Enduring Growth ETF
 AWF - Alliancebernstein Global High Income Fund
 AWI - Armstrong World Industries Inc Common Stock
 AWK - American Water Works Company, Inc. Common Stock
@@ -3175,7 +3174,6 @@ ELM - Elm Market Navigator ETF
 ELMD - Electromed, Inc. Common Stock
 ELME - Elme Communities Common Stock
 ELOG - Eastern International Ltd. - Ordinary Shares
-ELP - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares)
 ELPC - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
 ELPW - Elong Power Holding Limited - Class A Ordinary Shares
 ELS - Equity Lifestyle Properties, Inc. Common Stock
@@ -5786,7 +5784,6 @@ KALV - KalVista Pharmaceuticals, Inc. - Common Stock
 KAMO - Kensington Credit Opportunities ETF
 KAPA - Kairos Pharma, Ltd. Common Stock
 KAPR - Innovator U.S. Small Cap Power Buffer ETF - April
-KAR - OPENLANE, Inc. Common Stock
 KARO - Karooooo Ltd. - Ordinary shares
 KARS - KraneShares Electric Vehicles and Future Mobility Index ETF
 KAT - Scharf ETF
@@ -6645,10 +6642,10 @@ MIRM - Mirum Pharmaceuticals, Inc. - common stock
 MISL - First Trust Indxx Aerospace & Defense ETF
 MIST - Milestone Pharmaceuticals Inc. - Common Shares
 MITK - Mitek Systems, Inc. - Common Stock
-MITN - AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029
-MITP - AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029
+MITN - TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029
+MITP - TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029
 MITQ - Moving iMage Technologies, Inc. Common Stock
-MITT - AG Mortgage Investment Trust, Inc. Common Stock
+MITT - TPG Mortgage Investment Trust, Inc. Common Stock
 MIY - Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock
 MJ - Amplify Alternative Harvest ETF
 MJSC - MUFG Japan Small Cap Active ETF
@@ -10849,7 +10846,6 @@ VIS - Vanguard Industrials ETF
 VIST - Vista Energy S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value
 VITL - Vital Farms, Inc. - Common Stock
 VIV - Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)
-VIVK - Vivakor, Inc. - Common Stock
 VIVS - VivoSim Labs, Inc. - Common Stock
 VIXM - VIX Mid-Term Futures ETF
 VIXY - VIX Short-Term Futures ETF
