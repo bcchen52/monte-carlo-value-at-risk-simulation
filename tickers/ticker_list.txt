@@ -195,6 +195,7 @@ AEP - American Electric Power Company, Inc. - Common Stock
 AER - AerCap Holdings N.V. Ordinary Shares
 AERO - Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)
 AERT - Aeries Technology, Inc. - Class A Ordinary Share
+AERTW - Aeries Technology, Inc. - Warrant
 AES - The AES Corporation Common Stock
 AESI - Atlas Energy Solutions Inc. Common Stock
 AESR - Anfield U.S. Equity Sector Rotation ETF
@@ -1169,7 +1170,6 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
-BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
@@ -1935,7 +1935,6 @@ CHDN - Churchill Downs, Incorporated - Common Stock
 CHE - Chemed Corp
 CHEC - Chenghe Acquisition III Co. - Class A Ordinary Shares
 CHECU - Chenghe Acquisition III Co. - Units
-CHECW - Chenghe Acquisition III Co. - Warrants
 CHEF - The Chefs' Warehouse, Inc. - Common Stock
 CHGG - Chegg, Inc. Common Stock
 CHGX - Stance Sustainable Beta ETF
@@ -3119,7 +3118,6 @@ EGGQ - NestYield Visionary ETF
 EGGS - NestYield Total Return Guard ETF
 EGGY - NestYield Dynamic Income ETF
 EGHA - EGH Acquisition Corp. - Class A ordinary shares
-EGHAR - EGH Acquisition Corp. - rights
 EGHAU - EGH Acquisition Corp. - Unit
 EGHT - 8x8 Inc - Common stock
 EGLE - Global X S&P 500 U.S. Revenue Leaders ETF
@@ -3446,7 +3444,6 @@ EVNT - AltShares Event-Driven ETF
 EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
 EVOX - Evolution Global Acquisition Corp - Class A Ordinary Shares
 EVOXU - Evolution Global Acquisition Corp - Units
-EVOXW - Evolution Global Acquisition Corp - Warrants
 EVR - Evercore Inc. Class A Common Stock
 EVRG - Evergy, Inc. - Common Stock
 EVSB - Eaton Vance Ultra-Short Income ETF
@@ -4010,6 +4007,7 @@ FSEP - FT Vest U.S. Equity Buffer ETF - September
 FSFG - First Savings Financial Group, Inc. - Common Stock
 FSGS - First Trust SMID Growth Strength ETF
 FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
+FSHPR - Flag Ship Acquisition Corp. - Right
 FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
@@ -4558,6 +4556,7 @@ GSGO - Goldman Sachs Growth Opportunities ETF
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
+GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -4588,7 +4587,6 @@ GTEC - Greenland Technologies Holding Corporation - Ordinary Shares
 GTEK - Goldman Sachs Future Tech Leaders Equity ETF
 GTEN - Gores Holdings X, Inc. - Class A ordinary shares
 GTENU - Gores Holdings X, Inc. - Units
-GTENW - Gores Holdings X, Inc. - Warrants
 GTERA - Globa Terra Acquisition Corporation - Class A Ordinary Shares
 GTERR - Globa Terra Acquisition Corporation - Rights
 GTERU - Globa Terra Acquisition Corporation - Units
@@ -7242,7 +7240,6 @@ NOWL - GraniteShares 2x Long NOW Daily ETF
 NP - Neptune Insurance Holdings Inc. Class A Common Stock
 NPAC - New Providence Acquisition Corp. III - Ordinary Shares
 NPACU - New Providence Acquisition Corp. III - Units
-NPACW - New Providence Acquisition Corp. III - Warrants
 NPB - Northpointe Bancshares, Inc. Common Stock
 NPCE - Neuropace, Inc. - Common Stock
 NPCT - Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest
@@ -7464,7 +7461,6 @@ OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
 OBA - Oxley Bridge Acquisition Limited - Class A Ordinary Shares
 OBAWU - Oxley Bridge Acquisition Limited - Unit
-OBAWW - Oxley Bridge Acquisition Limited - Warrants
 OBDC - Blue Owl Capital Corporation Common Stock
 OBE - Obsidian Energy Ltd. Common Shares
 OBIL - US Treasury 12 Month Bill ETF
@@ -7613,6 +7609,7 @@ OPEX - Tradr 2X Long OPEN Daily ETF
 OPFI - OppFi Inc. Class A Common Stock
 OPHC - OptimumBank Holdings, Inc. Common Stock
 OPK - Opko Health, Inc. - Common Stock
+OPLN - OPENLANE, Inc. Common Stock
 OPP - RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock
 OPPE - WisdomTree European Opportunities Fund
 OPPJ - WisdomTree Japan Opportunities Fund
@@ -7735,6 +7732,7 @@ PAC - Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del 
 PACB - Pacific Biosciences of California, Inc. - Common Stock
 PACH - Pioneer Acquisition I Corp - Class A Ordinary Shares
 PACHU - Pioneer Acquisition I Corp - Units
+PACHW - Pioneer Acquisition I Corp - Warrants
 PACK - Ranpak Holdings Corp Class A Common Stock
 PACS - PACS Group, Inc. Common Stock
 PAG - Penske Automotive Group, Inc. Common Stock
