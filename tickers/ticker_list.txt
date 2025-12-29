@@ -1979,7 +1979,6 @@ CIEN - Ciena Corporation Common Stock
 CIF - MFS Intermediate High Income Fund Common Stock
 CIFG - Leverage Shares 2X Long CIFR Daily ETF
 CIFR - Cipher Mining Inc. - Common Stock
-CIFRW - Cipher Mining Inc. - Warrant
 CIFU - T-REX 2X Long CIFR Daily Target ETF
 CIG - Comp En De Mn Cemig ADS American Depositary Shares
 CIGI - Colliers International Group Inc.  - Subordinate Voting Shares
@@ -3136,7 +3135,6 @@ EHTH - eHealth, Inc. - Common Stock
 EHY - Amplify Ethereum Max Income Covered Call ETF
 EIC - Eagle Point Income Company Inc. Common Stock
 EICA - Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026
-EICB - Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028
 EICC - Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2029
 EIDO - iShares MSCI Indonesia ETF
 EIG - Employers Holdings Inc Common Stock
@@ -7398,7 +7396,7 @@ NWBI - Northwest Bancshares, Inc. - Common Stock
 NWE - NorthWestern Energy Group, Inc.  - Common Stock
 NWFL - Norwood Financial Corp. - Common Stock
 NWG - NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)
-NWGL - Nature Wood Group Limited - American Depositary Shares
+NWGL - CL Workshop Group Limited - American Depositary Shares
 NWL - Newell Brands Inc. - Common Stock
 NWLG - Nuveen Winslow Large-Cap Growth ESG ETF
 NWMX - Tradr 2X Long NEM Daily ETF
@@ -10399,7 +10397,6 @@ TTI - Tetra Technologies, Inc. Common Stock
 TTMI - TTM Technologies, Inc. - Common Stock
 TTOP - 21Shares FTSE Crypto 10 Index ETF
 TTRX - Turn Therapeutics Inc. - Common Stock
-TTSH - Tile Shop Holdings, Inc. - Common Stock
 TTT - ProShares UltraPro Short 20 Year Treasury
 TTWO - Take-Two Interactive Software, Inc. - Common Stock
 TTXD - Direxion Daily Technology Top 5 Bear 2X ETF
