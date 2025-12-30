@@ -47,10 +47,8 @@ ABFL - Abacus FCF Leaders ETF
 ABG - Asbury Automotive Group Inc Common Stock
 ABI - VictoryShares Pioneer Asset-Based Income ETF
 ABIG - Argent Large Cap ETF
-ABL - Abacus Global Management, Inc. - Class A Common Stock
 ABLD - Abacus FCF Real Assets Leaders ETF
 ABLG - Abacus FCF International Leaders ETF
-ABLLL - Abacus Global Management, Inc. - 9.875% Fixed Rate Senior Notes due 2028
 ABLS - Abacus FCF Small Cap Leaders ETF
 ABLV - Able View Global Inc. - Class B Ordinary Shares
 ABLVW - Able View Global Inc. - Warrant
@@ -1923,7 +1921,6 @@ CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
-CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -2030,7 +2027,6 @@ CLMB - Climb Global Solutions, Inc. - Common Stock
 CLMT - Calumet, Inc - Common Stock
 CLNE - Clean Energy Fuels Corp. - Common Stock
 CLNN - Clene Inc. - Common Stock
-CLNNW - Clene Inc. - Warrant
 CLOA - iShares AAA CLO Active ETF
 CLOB - VanEck AA-BB CLO ETF
 CLOC - AAM Crescent CLO ETF
@@ -3343,6 +3339,7 @@ ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
 ESK - REX-Osprey ETH + Staking ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
+ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLG - Eventide Large Cap Growth ETF
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESLV - Eventide Large Cap Value ETF
@@ -3410,7 +3407,6 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -3442,6 +3438,7 @@ EVNT - AltShares Event-Driven ETF
 EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
 EVOX - Evolution Global Acquisition Corp - Class A Ordinary Shares
 EVOXU - Evolution Global Acquisition Corp - Units
+EVOXW - Evolution Global Acquisition Corp - Warrants
 EVR - Evercore Inc. Class A Common Stock
 EVRG - Evergy, Inc. - Common Stock
 EVSB - Eaton Vance Ultra-Short Income ETF
@@ -5230,8 +5227,6 @@ ILCV - iShares Morningstar Large-Cap  Value ETF
 ILDR - First Trust Innovation Leaders ETF
 ILF - iShares Latin America 40 ETF
 ILIT - iShares Lithium Miners and Producers ETF
-ILLR - Triller Group Inc. - Common Stock
-ILLRW - Triller Group Inc. - Warrant
 ILMN - Illumina, Inc. - Common Stock
 ILOW - AB International Low Volatility Equity ETF
 ILPT - Industrial Logistics Properties Trust - Common Shares of Beneficial Interest
@@ -6057,6 +6052,7 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
+LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCLG - Logan Capital Broad Innovative Growth ETF
@@ -6936,28 +6932,28 @@ MXE - Mexico Equity and Income Fund, Inc. (The) Common Stock
 MXF - Mexico Fund, Inc. (The) Common Stock
 MXI - iShares Global Materials ETF
 MXL - MaxLinear, Inc - Common Stock
-MYCF - SPDR SSGA My2026 Corporate Bond ETF
-MYCG - SPDR SSGA My2027 Corporate Bond ETF
-MYCH - SPDR SSGA My2028 Corporate Bond ETF
-MYCI - SPDR SSGA My2029 Corporate Bond ETF
-MYCJ - SPDR SSGA My2030 Corporate Bond ETF
-MYCK - SPDR SSGA My2031 Corporate Bond ETF
-MYCL - SPDR SSGA My2032 Corporate Bond ETF
-MYCM - SPDR SSGA My2033 Corporate Bond ETF
-MYCN - SPDR SSGA My2034 Corporate Bond ETF
-MYCO - SPDR SSGA My2035 Corporate Bond ETF
+MYCF - State Street My2026 Corporate Bond ETF
+MYCG - State Street My2027 Corporate Bond ETF
+MYCH - State Street My2028 Corporate Bond ETF
+MYCI - State Street My2029 Corporate Bond ETF
+MYCJ - State Street My2030 Corporate Bond ETF
+MYCK - State Street My2031 Corporate Bond ETF
+MYCL - State Street My2032 Corporate Bond ETF
+MYCM - State Street My2033 Corporate Bond ETF
+MYCN - State Street My2034 Corporate Bond ETF
+MYCO - State Street My2035 Corporate Bond ETF
 MYD - Blackrock MuniYield Fund, Inc.  Common Stock
 MYE - Myers Industries, Inc. Common Stock
 MYFW - First Western Financial, Inc. - Common Stock
 MYGN - Myriad Genetics, Inc. - Common Stock
 MYI - Blackrock MuniYield Quality Fund III, Inc Common Stock
 MYLD - Cambria Micro and SmallCap Shareholder Yield ETF
-MYMF - SPDR SSGA My2026 Municipal Bond ETF
-MYMG - SPDR SSGA My2027 Municipal Bond ETF
-MYMH - SPDR SSGA My2028 Municipal Bond ETF
-MYMI - SPDR SSGA My2029 Municipal Bond ETF
-MYMJ - SPDR SSGA My2030 Municipal Bond ETF
-MYMK - SPDR SSGA My2031 Municipal Bond ETF
+MYMF - State Street My2026 Municipal Bond ETF
+MYMG - State Street My2027 Municipal Bond ETF
+MYMH - State Street My2028 Municipal Bond ETF
+MYMI - State Street My2029 Municipal Bond ETF
+MYMJ - State Street My2030 Municipal Bond ETF
+MYMK - State Street My2031 Municipal Bond ETF
 MYN - Blackrock MuniYield New York Quality Fund, Inc.Common Stock
 MYND - Mynd.ai, Inc. American Depositary Shares
 MYNZ - Mainz Biomed N.V. - Ordinary Shares
@@ -7219,6 +7215,7 @@ NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
 NOEMU - CO2 Energy Transition Corp. - Unit
+NOEMW - CO2 Energy Transition Corp. - Warrant
 NOG - Northern Oil and Gas, Inc. Common Stock
 NOK - Nokia Corporation Sponsored American Depositary Shares
 NOM - Nuveen Missouri Quality Municipal Income Fund 
@@ -7238,6 +7235,7 @@ NOWL - GraniteShares 2x Long NOW Daily ETF
 NP - Neptune Insurance Holdings Inc. Class A Common Stock
 NPAC - New Providence Acquisition Corp. III - Ordinary Shares
 NPACU - New Providence Acquisition Corp. III - Units
+NPACW - New Providence Acquisition Corp. III - Warrants
 NPB - Northpointe Bancshares, Inc. Common Stock
 NPCE - Neuropace, Inc. - Common Stock
 NPCT - Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest
@@ -7441,10 +7439,8 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - State Street SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
-OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
-OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - OneAscent Core Plus Bond ETF
 OAEM - OneAscent Emerging Markets ETF
 OAIM - OneAscent International Equity ETF
@@ -7887,7 +7883,6 @@ PEG - Public Service Enterprise Group Incorporated Common Stock
 PEGA - Pegasystems Inc. - Common Stock
 PEJ - Invesco Leisure and Entertainment ETF
 PELI - Pelican Acquisition Corporation - Ordinary Shares
-PELIR - Pelican Acquisition Corporation - Right
 PELIU - Pelican Acquisition Corporation - Unit
 PEMX - Putnam Emerging Markets ex-China ETF
 PEN - Penumbra, Inc. Common Stock
@@ -10167,7 +10162,6 @@ TLK - PT Telekomunikasi Indonesia, Tbk
 TLN - Talen Energy Corporation - Common Stock
 TLNC - Talon Capital Corp. - Class A Ordinary Shares
 TLNCU - Talon Capital Corp. - Units
-TLNCW - Talon Capital Corp. - Warrants
 TLPH - Talphera, Inc. - Common Stock
 TLRY - Tilray Brands, Inc. - Common Stock
 TLS - Telos Corporation - Common Stock
@@ -10417,7 +10411,6 @@ TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
 TVACW - Texas Ventures Acquisition III Corp - Warrants
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
-TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
 TVAL - T. Rowe Price Value ETF
 TVC - Tennessee Valley Authority Common Stock
@@ -10719,7 +10712,6 @@ VABS - Virtus Newfleet ABS/MBS ETF
 VAC - Marriott Vacations Worldwide Corporation Common Stock
 VACH - Voyager Acquisition Corp - Class A Ordinary Shares
 VACHU - Voyager Acquisition Corp - Unit
-VACHW - Voyager Acquisition Corp - Warrants
 VACI - Viking Acquisition Corp. I Class A Ordinary Shares
 VAL - Valaris Limited Common Shares
 VALE - VALE S.A.  American Depositary Shares Each Representing one common share
