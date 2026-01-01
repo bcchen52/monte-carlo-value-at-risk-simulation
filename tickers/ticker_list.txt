@@ -1122,6 +1122,7 @@ BFRE - Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
+BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
@@ -1926,6 +1927,7 @@ CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
+CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -3119,6 +3121,7 @@ EGGQ - NestYield Visionary ETF
 EGGS - NestYield Total Return Guard ETF
 EGGY - NestYield Dynamic Income ETF
 EGHA - EGH Acquisition Corp. - Class A ordinary shares
+EGHAR - EGH Acquisition Corp. - rights
 EGHAU - EGH Acquisition Corp. - Unit
 EGHT - 8x8 Inc - Common stock
 EGLE - Global X S&P 500 U.S. Revenue Leaders ETF
@@ -5837,6 +5840,7 @@ KF - Korea Fund, Inc. (The) New Common Stock
 KFEB - Innovator U.S. Small Cap Power Buffer ETF - February
 KFFB - Kentucky First Federal Bancorp - Common Stock
 KFII - K&F Growth Acquisition Corp. II - Class A Ordinary shares
+KFIIR - K&F Growth Acquisition Corp. II - Rights
 KFIIU - K&F Growth Acquisition Corp. II - Unit
 KFRC - Kforce, Inc. Common Stock
 KFS - Kingsway Financial Services, Inc. Common Stock (DE)
@@ -7223,6 +7227,7 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
+NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
 NOG - Northern Oil and Gas, Inc. Common Stock
@@ -7921,6 +7926,7 @@ PEZ - Invesco Dorsey Wright Consumer Cyclicals Momentum ETF
 PFAI - Pinnacle Food Group Limited - Class A Common Shares
 PFBC - Preferred Bank - Common Stock
 PFD - Flaherty & Crumrine Preferred and Income Fund Incorporated
+PFDE - Pathfinder Disciplined US Equity ETF
 PFE - Pfizer, Inc. Common Stock
 PFEB - Innovator U.S. Equity Power Buffer ETF - February
 PFF - iShares Preferred and Income Securities ETF
@@ -7942,6 +7948,7 @@ PFLT - PennantPark Floating Rate Capital Ltd. Common Stock
 PFM - Invesco Dividend Achievers ETF
 PFN - PIMCO Income Strategy Fund II
 PFO - Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated
+PFOE - Pathfinder Focused Opportunities ETF
 PFRL - PGIM Floating Rate Income ETF
 PFS - Provident Financial Services, Inc Common Stock
 PFSA - Profusa, Inc. - Common Stock
@@ -8190,7 +8197,6 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
-PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - SPDR SSGA IG Public & Private Credit ETF
@@ -8728,7 +8734,6 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
-RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -11206,6 +11211,8 @@ WSML - iShares MSCI World Small-Cap ETF
 WSO - Watsco, Inc. Common Stock
 WSR - Whitestone REIT Common Shares
 WST - West Pharmaceutical Services, Inc. Common Stock
+WSTN - Westin Acquisition Corp - Class A Ordinary Share
+WSTNR - Westin Acquisition Corp - Right
 WT - WisdomTree, Inc. Common Stock
 WTAI - WisdomTree Artificial Intelligence and Innovation Fund
 WTBA - West Bancorporation - Common Stock
@@ -11214,7 +11221,6 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
-WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
