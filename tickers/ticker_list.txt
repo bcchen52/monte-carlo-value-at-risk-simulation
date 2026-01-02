@@ -717,7 +717,7 @@ ASTX - Tradr 2X Long ASTS Daily ETF
 ASUR - Asure Software Inc - Common Stock
 ASX - ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) 
 ASYS - Amtech Systems, Inc. - Common Stock
-ATAI - Atai Beckley N.V - Common Shares
+ATAI - AtaiBeckley Inc. - Common Stock
 ATAT - Atour Lifestyle Holdings Limited - American Depositary Shares
 ATCH - AtlasClear Holdings, Inc. Common Stock
 ATEC - Alphatec Holdings, Inc. - Common Stock
@@ -1594,7 +1594,7 @@ BUYZ - Franklin Disruptive Commerce ETF
 BUZZ - VanEck Social Sentiment ETF
 BV - BrightView Holdings, Inc. Common Stock
 BVAL - Bluemonte Large Cap Value ETF
-BVC - BitVentures Limited - American Depositary Shares
+BVC - BitVentures Limited - Ordinary Share
 BVFL - BV Financial, Inc. - Common Stock
 BVN - Buenaventura Mining Company Inc.
 BVS - Bioventus Inc. - Class A Common Stock
@@ -4802,7 +4802,7 @@ HIYS - Invesco High Yield Select ETF
 HIYY - YieldMax HIMS Option Income Strategy ETF
 HKD - AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)
 HKIT - Hitek Global Inc. - Class A Ordinary Share
-HKPD - Hong Kong Pharma Digital Technology Holdings Limited - Ordinary shares
+HKPD - Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares
 HL - Hecla Mining Company Common Stock
 HLAL - Wahed FTSE USA Shariah ETF
 HLF - Herbalife Ltd. Common Shares
@@ -6753,7 +6753,6 @@ MODD - Modular Medical, Inc. - common stock
 MODG - Topgolf Callaway Brands Corp. Common Stock
 MODL - VictoryShares WestEnd U.S. Sector ETF
 MOFG - MidWestOne Financial Group, Inc. - Common Stock
-MOGO - Mogo Inc. - Common Shares
 MOGU - MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares)
 MOH - Molina Healthcare Inc Common Stock
 MOLN - Molecular Partners AG - American Depositary Shares
@@ -7560,7 +7559,6 @@ OM - Outset Medical, Inc. - Common Stock
 OMAB - Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares
 OMAH - VistaShares Target 15 Berkshire Select Income ETF
 OMC - Omnicom Group Inc. Common Stock
-OMCC - Old Market Capital Corporation - Common Stock
 OMCL - Omnicell, Inc. - Common Stock
 OMDA - Omada Health, Inc. - Common Stock
 OMER - Omeros Corporation - Common Stock
@@ -7569,7 +7567,6 @@ OMF - OneMain Holdings, Inc. Common Stock
 OMFL - Invesco Russell 1000 Dynamic Multifactor ETF
 OMFS - Invesco Russell 2000 Dynamic Multifactor ETF
 OMH - Ohmyhome Limited - Class A Ordinary Shares
-OMI - Owens & Minor, Inc. Common Stock
 OMSE - OMS Energy Technologies Inc. - Ordinary Shares
 ON - ON Semiconductor Corporation - Common Stock
 ONB - Old National Bancorp - Common Stock
@@ -7647,6 +7644,7 @@ ORGNW - Origin Materials, Inc. - Warrant
 ORGO - Organogenesis Holdings Inc.  - Class A 
 ORI - Old Republic International Corporation Common Stock
 ORIC - Oric Pharmaceuticals, Inc. - Common Stock
+ORIO - Orion Digital Corp. - Common Shares
 ORIQ - Origin Investment Corp I - Ordinary Shares
 ORIQU - Origin Investment Corp I - Units
 ORIQW - Origin Investment Corp I - Redeemable Warrant
@@ -8120,8 +8118,7 @@ PMVP - PMV Pharmaceuticals, Inc. - Common Stock
 PN - Skycorp Solar Group Limited - Ordinary Shares
 PNBK - Patriot National Bancorp Inc. - Common Stock
 PNC - PNC Financial Services Group, Inc. (The) Common Stock
-PNFP - Pinnacle Financial Partners, Inc. - Common Stock
-PNFPP - Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B
+PNFP - Pinnacle Financial Partners, Inc. Common stock
 PNI - Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest
 PNNT - PennantPark Investment Corporation Common Stock
 PNOV - Innovator U.S. Equity Power Buffer ETF - November
@@ -9518,7 +9515,6 @@ SNT - Senstar Technologies Corporation - Common Shares
 SNTG - Sentage Holdings Inc. - Class A Ordinary Shares
 SNTH - MRP SynthEquity ETF
 SNTI - Senti Biosciences, Inc.  - Common Stock
-SNV - Synovus Financial Corp. Common Stock
 SNWV - SANUWAVE Health, Inc. - Common Stock
 SNX - TD SYNNEX Corporation Common Stock
 SNY - Sanofi - American Depositary Shares
@@ -10504,7 +10500,7 @@ UBCP - United Bancorp, Inc. - Common Stock
 UBER - Uber Technologies, Inc. Common Stock
 UBEW - Roundhill UBER WeeklyPay ETF
 UBFO - United Security Bancshares - Common Stock
-UBND - VictoryShares Core Plus Intermediate Bond ETF
+UBND - VictoryShares Core Plus Bond ETF
 UBOT - Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares
 UBR - ProShares Ultra MSCI Brazil Capped
 UBRL - GraniteShares 2x Long UBER Daily ETF
@@ -11303,7 +11299,6 @@ XERS - Xeris Biopharma Holdings, Inc. - Common Stock
 XES - State Street SPDR S&P Oil & Gas Equipment & Services ETF
 XFEB - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - February
 XFIV - BondBloxx Bloomberg Five Year Target Duration US Treasury ETF
-XFIX - F/m Opportunistic Income ETF
 XFLT - XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest
 XFLX - FundX Flexible ETF
 XFOR - X4 Pharmaceuticals, Inc. - Common Stock
@@ -11562,6 +11557,7 @@ ZGM - Zenta Group Company Limited - Ordinary Shares
 ZGN - Ermenegildo Zegna N.V. Ordinary Shares
 ZH - Zhihu Inc. American Depositary Shares, each representing three (3) Class A Ordinary Shares
 ZHDG - ZEGA Buy and Hedge ETF
+ZHOG - F/m Opportunistic Income ETF
 ZIG - The Acquirers Fund
 ZIM - ZIM Integrated Shipping Services Ltd. Ordinary Shares
 ZION - Zions Bancorporation N.A. - Common Stock
