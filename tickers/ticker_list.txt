@@ -90,6 +90,7 @@ ACGL - Arch Capital Group Ltd. - Common Stock
 ACGLN - Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G
 ACGLO - Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F
 ACGR - American Century Large Cap Growth ETF
+ACH - Accendra Health, Inc. Common Stock
 ACHC - Acadia Healthcare Company, Inc. - Common Stock
 ACHR - Archer Aviation Inc. Class A Common Stock
 ACHV - Achieve Life Sciences, Inc.  - Common Shares
@@ -621,6 +622,7 @@ ARGX - argenx SE - American Depositary Shares
 ARHS - Arhaus, Inc. - Class A Common Stock
 ARI - Apollo Commercial Real Estate Finance, Inc
 ARKB - ARK 21Shares Bitcoin ETF 
+ARKD - ARK DIET Q1 Buffer ETF
 ARKF - ARK Blockchain & Fintech Innovation ETF
 ARKG - ARK Genomic Revolution ETF
 ARKK - ARK Innovation ETF
@@ -2504,7 +2506,6 @@ CZWI - Citizens Community Bancorp, Inc. - Common Stock
 D - Dominion Energy, Inc. Common Stock
 DAAQ - Digital Asset Acquisition Corp. - Class A Ordinary shares
 DAAQU - Digital Asset Acquisition Corp. - Units
-DAAQW - Digital Asset Acquisition Corp. - Warrant
 DABS - DoubleLine Asset-Backed Securities ETF
 DAC - Danaos Corporation Common Stock
 DADS - Digital Asset Debt Strategy ETF
@@ -2575,6 +2576,7 @@ DDC - DDC Enterprise Limited Class A Ordinary Shares
 DDD - 3D Systems Corporation Common Stock
 DDEC - FT Vest U.S. Equity Deep Buffer ETF - December
 DDFD - Innovator Equity Dual Directional 15 Buffer ETF - December
+DDFJ - Innovator Equity Dual Directional 15 Buffer ETF - January
 DDFL - Innovator Equity Dual Directional 15 Buffer ETF - July
 DDFN - Innovator Equity Dual Directional 15 Buffer ETF - November
 DDFO - Innovator Equity Dual Directional 15 Buffer ETF - October
@@ -2584,10 +2586,13 @@ DDIV - First Trust Dorsey Wright Momentum & Dividend ETF
 DDL - Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)
 DDLS - WisdomTree Dynamic International SmallCap Equity Fund
 DDM - ProShares Ultra Dow30
+DDNQ - Innovator Growth-100 Dual Directional 5 Buffer ETF - Quarterly
 DDOG - Datadog, Inc. - Class A Common Stock
 DDS - Dillard's, Inc. Common Stock
+DDSQ - Innovator Equity Dual Directional 5 Buffer ETF - Quarterly
 DDT - Dillard's Capital Trust I
 DDTD - Innovator Equity Dual Directional 10 Buffer ETF - December
+DDTJ - Innovator Equity Dual Directional 10 Buffer ETF - January
 DDTL - Innovator Equity Dual Directional 10 Buffer ETF - July
 DDTN - Innovator Equity Dual Directional 10 Buffer ETF - November
 DDTO - Innovator Equity Dual Directional 10 Buffer ETF - October
@@ -4326,7 +4331,6 @@ GHYG - iShares US & Intl High Yield Corp Bond ETF
 GIAX - Nicholas Global Equity and Income ETF
 GIB - CGI Inc. Common Stock
 GIBO - GIBO Holdings Limited - Class A Ordinary Shares
-GIBOW - GIBO Holdings Limited - Warrants
 GIC - Global Industrial Company Common Stock
 GIFI - Gulf Island Fabrication, Inc. - Common Stock
 GIFT - Giftify, Inc. - Common Stock
@@ -4459,6 +4463,7 @@ GOF - Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Intere
 GOGO - Gogo Inc. - Common Stock
 GOLD - Gold.com, Inc. Common Stock
 GOLF - Acushnet Holdings Corp. Common Stock
+GOLS - Gabelli Opportunities in Live and Sports ETF
 GOLY - Strategy Shares Gold Enhanced Yield ETF
 GOOD - Gladstone Commercial Corporation - Real Estate Investment Trust
 GOODN - Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeemable Preferred Stock
@@ -7360,6 +7365,7 @@ NUVL - Nuvalent, Inc. - Class A Common Stock
 NUW - Nuveen AMT-Free Municipal Value Fund
 NUWE - Nuwellis, Inc. - Common Stock
 NVA - Nova Minerals Limited - American Depositary Shares
+NVAWW - Nova Minerals Limited - Warrant
 NVAX - Novavax, Inc. - Common Stock
 NVBT - AllianzIM U.S. Large Cap Buffer10 Nov ETF
 NVBU - AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF
@@ -8194,6 +8200,7 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
+PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - SPDR SSGA IG Public & Private Credit ETF
@@ -10726,7 +10733,6 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
-UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -10894,7 +10900,6 @@ VNLA - Janus Henderson Short Duration Income ETF
 VNM - VanEck Vietnam ETF
 VNME - Vendome Acquisition Corporation I - Class A Ordinary Shares
 VNMEU - Vendome Acquisition Corporation I - Unit
-VNMEW - Vendome Acquisition Corporation I - Warrant
 VNO - Vornado Realty Trust Common Stock
 VNOM - Viper Energy, Inc.  - Class A Common Stock
 VNQ - Vanguard Real Estate ETF
