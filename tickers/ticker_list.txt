@@ -1112,7 +1112,6 @@ BFAP - FT Vest Bitcoin Strategy Floor15 ETF April
 BFC - Bank First Corporation - Common Stock
 BFEB - Innovator U.S. Equity Buffer ETF - February
 BFH - Bread Financial Holdings, Inc. Common Stock
-BFIN - BankFinancial Corporation - Common Stock
 BFIX - Build Bond Innovation ETF
 BFJL - FT Vest Bitcoin Strategy Floor15 ETF July
 BFK - BlackRock Municipal Income Trust
@@ -1488,8 +1487,6 @@ BSJV - Invesco BulletShares 2031 High Yield Corporate Bond ETF
 BSJW - Invesco BulletShares 2032 High Yield Corporate Bond ETF
 BSJX - Invesco BulletShares 2033 High Yield Corporate Bond ETF
 BSL - Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest
-BSLK - Bolt Projects Holdings, Inc. - Common Stock
-BSLKW - Bolt Projects Holdings, Inc. - Warrant
 BSM - Black Stone Minerals, L.P. Common units representing limited partner interests
 BSMC - Brandes U.S. Small-Mid Cap Value ETF
 BSMQ - Invesco BulletShares 2026 Municipal Bond ETF
@@ -1682,7 +1679,7 @@ CAMX - Cambiar Aggressive Value ETF
 CAN - Canaan Inc. - American Depositary Shares
 CANC - Tema Oncology ETF
 CANE - Teucrium Sugar Fund ETV
-CANF - Can-Fite Biopharma Ltd Sponsored ADR (Israel)
+CANF - Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares
 CANG - Cango Inc. Class A Ordinary Shares
 CANQ - Calamos Nasdaq Equity & Income ETF
 CAOS - Alpha Architect Tail Risk ETF
@@ -2075,7 +2072,6 @@ CMCL - Caledonia Mining Corporation Plc Common Shares
 CMCM - Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares
 CMCO - Columbus McKinnon Corporation - Common Stock
 CMCSA - Comcast Corporation - Class A Common Stock
-CMCSV - Comcast Corporation - Class A Common Stock Ex-Distribution When Issued
 CMCT - Creative Media  - Common Stock
 CMDB - Costamare Bulkers Holdings Limited Common Stock
 CMDT - PIMCO Commodity Strategy Active Exchange-Traded Fund
@@ -2486,7 +2482,6 @@ CXRN - Teucrium 2x Daily Corn ETF
 CXSE - WisdomTree China ex-State-Owned Enterprises Fund
 CXT - Crane NXT, Co. Common Stock
 CXW - CoreCivic, Inc. Common Stock
-CYBN - Cybin Inc. Common Shares
 CYBR - CyberArk Software Ltd. - Ordinary Shares
 CYCN - Cyclerion Therapeutics, Inc. - Common Stock
 CYCU - Cycurion, Inc. - Common Stock
@@ -8218,7 +8213,6 @@ PROF - Profound Medical Corp. - common stock
 PROK - ProKidney Corp. - Class A Ordinary Shares
 PROP - Prairie Operating Co. - Common Stock
 PROV - Provident Financial Holdings, Inc. - Common Stock
-PRPH - ProPhase Labs, Inc. - Common Stock
 PRPL - Purple Innovation, Inc. - Common Stock
 PRPO - Precipio, Inc. - Common Stock
 PRQR - ProQR Therapeutics N.V. - Ordinary Shares
@@ -8312,8 +8306,6 @@ PTHL - Pheton Holdings Ltd - Class A Ordinary Shares
 PTHS - Pelthos Therapeutics Inc. Common Stock
 PTIN - Pacer Trendpilot International ETF
 PTIR - GraniteShares 2x Long PLTR Daily ETF
-PTIX - Protagenic Therapeutics, Inc. - Common Stock
-PTIXW - Protagenic Therapeutics, Inc. - Warrant
 PTL - Inspire 500 ETF
 PTLC - Pacer Trendpilot US Large Cap ETF
 PTLE - PTL LTD - Class A Ordinary Shares
@@ -10969,7 +10961,7 @@ VSHY - Virtus Newfleet Short Duration High Yield Bond ETF
 VSLU - Applied Finance Valuation Large Cap ETF
 VSME - VS Media Holdings Limited - Class A Ordinary Shares
 VSMV - VictoryShares US Multi-Factor Minimum Volatility ETF
-VSNTV - Versant Media Group, Inc. - Class A Common Stock When-Issued
+VSNT - Versant Media Group, Inc. - Class A Common Stock
 VSOL - VanEck Solana ETF
 VSS - Vanguard FTSE All-Wld ex-US SmCp Idx ETF
 VSSYW - Versus Systems Inc. - Class A Warrants
