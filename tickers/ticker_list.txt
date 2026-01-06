@@ -332,7 +332,7 @@ AIXI - XIAO-I Corporation - American Depositary Shares
 AIYY - YieldMax AI Option Income Strategy ETF
 AIZ - Assurant, Inc. Common Stock
 AIZN - Assurant, Inc. 5.25% Subordinated Notes due 2061
-AJAN - Innovator Equity Defined Protection ETF - 2 Yr to January 2026
+AJAN - Innovator Equity Defined Protection ETF - 2 Yr to January 2028
 AJG - Arthur J. Gallagher & Co. Common Stock
 AJUL - Innovator Equity Defined Protection ETF - 2 Yr to July 2026
 AKA - a.k.a. Brands Holding Corp. Common Stock
@@ -2104,7 +2104,6 @@ CNBS - Amplify Seymour Cannabis ETF
 CNC - Centene Corporation Common Stock
 CNCG - Leverage Shares 2X Long CNC Daily ETF
 CNCK - Coincheck Group N.V. - Ordinary Shares
-CNCKW - Coincheck Group N.V. - Warrants
 CNDT - Conduent Incorporated - Common Stock
 CNEQ - Alger Concentrated Equity ETF
 CNET - ZW Data Action Technologies Inc. - Common Stock
@@ -3374,10 +3373,10 @@ ETD - Ethan Allen Interiors Inc. Common Stock
 ETEC - iShares Breakthrough Environmental Solutions ETF
 ETFT - Fundsmith Equity ETF
 ETG - Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest
-ETH - Grayscale Ethereum Mini Trust (ETH)
+ETH - Grayscale Ethereum Staking Mini ETF Shares
 ETHA - iShares Ethereum Trust ETF
 ETHD - ProShares UltraShort Ether ETF
-ETHE - Grayscale Ethereum Trust (ETH)
+ETHE - Grayscale Ethereum Staking ETF Shares
 ETHI - Defiance Leveraged Long Income Ethereum ETF
 ETHM - Dynamix Corporation - Class A Ordinary Share
 ETHMU - Dynamix Corporation - Unit
@@ -4326,6 +4325,7 @@ GHYG - iShares US & Intl High Yield Corp Bond ETF
 GIAX - Nicholas Global Equity and Income ETF
 GIB - CGI Inc. Common Stock
 GIBO - GIBO Holdings Limited - Class A Ordinary Shares
+GIBOW - GIBO Holdings Limited - Warrants
 GIC - Global Industrial Company Common Stock
 GIFI - Gulf Island Fabrication, Inc. - Common Stock
 GIFT - Giftify, Inc. - Common Stock
@@ -4575,7 +4575,7 @@ GSKH - GSK plc ADRhedged
 GSL - Global Ship Lease Inc New Class A Common Shares
 GSLC - Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF
 GSM - Ferroglobe PLC - Ordinary Shares
-GSOL - Grayscale Solana Trust ETF
+GSOL - Grayscale Solana Staking ETF
 GSPY - Gotham Enhanced 500 ETF
 GSRF - GSR IV Acquisition Corp. - Class A ordinary share
 GSRFR - GSR IV Acquisition Corp. - Rights
@@ -4737,6 +4737,7 @@ HEI - Heico Corporation Common Stock
 HEJD - VictoryShares Hedged Equity Income ETF
 HELE - Helen of Troy Limited - Common Stock
 HELO - JPMorgan Hedged Equity Laddered Overlay ETF
+HELP - Cybin Inc. - Common Stock
 HELS - Hedgeye 130/30 Equity ETF
 HELX - Franklin Genomic Advancements ETF
 HEMI - Hartford Equity Premium Income ETF
@@ -5541,7 +5542,7 @@ IWM - iShares Russell 2000 ETF
 IWMI - NEOS Russell 2000 High Income ETF
 IWML - ETRACS 2x Leveraged US Size Factor TR ETN
 IWMW - iShares Russell 2000 BuyWrite ETF
-IWMY - Defiance R2000 Enhanced Options & 0DTE Income ETF
+IWMY - Defiance R2000 Weekly Distribution ETF
 IWN - iShares Russell 2000 Value ETF
 IWO - iShares Russell 2000 Growth Fund
 IWP - iShares Russell Midcap Growth ETF
@@ -7465,6 +7466,7 @@ OAKM - Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
+OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
@@ -7793,7 +7795,6 @@ PB - Prosperity Bancshares, Inc. Common Stock
 PBA - Pembina Pipeline Corp. Ordinary Shares (Canada)
 PBAP - PGIM S&P 500 Buffer 20 ETF - April
 PBAU - PGIM S&P 500 Buffer 20 ETF - August
-PBBK - PB Bankshares, Inc. - Common Stock
 PBD - Invesco Global Clean Energy ETF
 PBDC - Putnam BDC Income ETF
 PBDE - PGIM S&P 500 Buffer 20 ETF - December
@@ -8730,6 +8731,7 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
+RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -9141,7 +9143,6 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
-SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -10142,7 +10143,7 @@ TILE - Interface, Inc. - Common Stock
 TILL - Teucrium Agricultural Strategy No K-1 ETF
 TILT - FlexShares Mornigstar US Market Factors Tilt Index Fund ETF
 TIMB - TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
-TIME - Clockwise Core Equity & Innovation ETF
+TIME - Clockwise U.S. Core Equity ETF
 TINS - Templeton International Insights ETF
 TINT - ProShares Smart Materials ETF
 TINY - ProShares Nanotechnology ETF
@@ -10293,7 +10294,7 @@ TPST - Tempest Therapeutics, Inc. - Common Stock
 TPTA - Terra Property Trust, Inc. 6.00% Notes due 2026
 TPVG - TriplePoint Venture Growth BDC Corp. Common Stock
 TPYP - Tortoise North American Pipeline Fund
-TPZ - Tortoise Essential Energy Fund
+TPZ - Tortoise Electrification Infrastructure ETF
 TQQQ - ProShares UltraPro QQQ
 TQQY - GraniteShares YieldBOOST QQQ ETF
 TR - Tootsie Roll Industries, Inc. Common Stock
@@ -11081,7 +11082,7 @@ WDI - Western Asset Diversified Income Fund Common Shares of Beneficial Interest
 WDIV - SPDR S&P Global Dividend
 WDNA - WisdomTree BioRevolution Fund
 WDS - Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share
-WDTE - Defiance S&P 500 Enhanced Options & 0DTE Income ETF
+WDTE - Defiance S&P 500 Weekly Distribution ETF
 WEA - Western Asset Bond Fund Share of Beneficial Interest
 WEAT - Teucrium Wheat Fund ETV
 WEAV - Weave Communications, Inc. Common Stock
@@ -11151,6 +11152,7 @@ WLACW - Willow Lane Acquisition Corp. - Warrants
 WLDN - Willdan Group, Inc. - Common Stock
 WLDR - Affinity World Leaders Equity ETF
 WLDS - Wearable Devices Ltd. - Ordinary Share
+WLDSW - Wearable Devices Ltd. - Warrant
 WLFC - Willis Lease Finance Corporation - Common Stock
 WLK - Westlake Corporation Common Stock
 WLKP - Westlake Chemical Partners LP Common Units representing limited partner interests
