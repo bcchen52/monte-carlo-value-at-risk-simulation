@@ -403,6 +403,7 @@ ALTL - Pacer Lunt Large Cap Alternator ETF
 ALTO - Alto Ingredients, Inc. - Common Stock
 ALTS - ALT5 Sigma Corporation - Common Stock
 ALTY - Global X Alternative Income ETF
+ALUB - Alussa Energy Acquisition Corp. II Class A Ordinary Shares
 ALUR - Allurion Technologies, Inc. Common Stock
 ALV - Autoliv, Inc. Common Stock
 ALVO - Alvotech - Ordinary Shares
@@ -653,6 +654,7 @@ ARQQW - Arqit Quantum Inc. - Warrants
 ARQT - Arcutis Biotherapeutics, Inc. - Common stock
 ARR - ARMOUR Residential REIT, Inc.
 ARRY - Array Technologies, Inc. - Common Stock
+ARTCU - Art Technology Acquisition Corp. - Units
 ARTL - Artelo Biosciences, Inc. - Common Stock
 ARTNA - Artesian Resources Corporation - Class A Non-Voting Common Stock
 ARTV - Artiva Biotherapeutics, Inc. - Common Stock
@@ -1402,6 +1404,8 @@ BOXA - Alpha Architect Aggregate Bond ETF
 BOXL - Boxlight Corporation - Class A Common Stock
 BOXX - Alpha Architect 1-3 Month Box ETF
 BP - BP p.l.c. Common Stock
+BPAC - Blueport Acquisition Ltd - Class A Ordinary Shares
+BPACR - Blueport Acquisition Ltd - Rights
 BPACU - Blueport Acquisition Ltd - Units
 BPAY - iShares FinTech Active ETF
 BPH - BP plc ADRhedged
@@ -2104,6 +2108,7 @@ CNBS - Amplify Seymour Cannabis ETF
 CNC - Centene Corporation Common Stock
 CNCG - Leverage Shares 2X Long CNC Daily ETF
 CNCK - Coincheck Group N.V. - Ordinary Shares
+CNCKW - Coincheck Group N.V. - Warrants
 CNDT - Conduent Incorporated - Common Stock
 CNEQ - Alger Concentrated Equity ETF
 CNET - ZW Data Action Technologies Inc. - Common Stock
@@ -2500,6 +2505,7 @@ CZWI - Citizens Community Bancorp, Inc. - Common Stock
 D - Dominion Energy, Inc. Common Stock
 DAAQ - Digital Asset Acquisition Corp. - Class A Ordinary shares
 DAAQU - Digital Asset Acquisition Corp. - Units
+DAAQW - Digital Asset Acquisition Corp. - Warrant
 DABS - DoubleLine Asset-Backed Securities ETF
 DAC - Danaos Corporation Common Stock
 DADS - Digital Asset Debt Strategy ETF
@@ -3189,6 +3195,7 @@ ELWS - Earlyworks Co., Ltd. - American Depositary Shares
 ELWT - Elauwit Connection, Inc. - Common Stock
 EM - Smart Share Global Limited - American Depositary Shares
 EMA - Emera Incorporated Common Shares
+EMAT - Evolution Metals & Technologies Corp. - Common Stock
 EMB - iShares J.P. Morgan USD Emerging Markets Bond ETF
 EMBC - Embecta Corp. - Common Stock
 EMBD - Global X Emerging Markets Bond ETF
@@ -7493,6 +7500,7 @@ OCG - Oriental Culture Holding LTD - Ordinary Shares
 OCGN - Ocugen, Inc. - Common Stock
 OCIO - ClearShares OCIO ETF
 OCS - Oculis Holding AG - Ordinary shares
+OCSAW - Oculis Holding AG - Warrants
 OCSL - Oaktree Specialty Lending Corporation - Closed End Fund
 OCTB - Aptus October Buffer ETF
 OCTH - Innovator Premium Income 20 Barrier ETF - October
@@ -9143,6 +9151,7 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
+SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -10893,6 +10902,7 @@ VNLA - Janus Henderson Short Duration Income ETF
 VNM - VanEck Vietnam ETF
 VNME - Vendome Acquisition Corporation I - Class A Ordinary Shares
 VNMEU - Vendome Acquisition Corporation I - Unit
+VNMEW - Vendome Acquisition Corporation I - Warrant
 VNO - Vornado Realty Trust Common Stock
 VNOM - Viper Energy, Inc.  - Class A Common Stock
 VNQ - Vanguard Real Estate ETF
@@ -11216,6 +11226,7 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
+WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
