@@ -748,8 +748,6 @@ ATLCZ - Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029
 ATLN - Atlantic International Corp. - Common Stock
 ATLO - Ames National Corporation - Common Stock
 ATLX - Atlas Lithium Corporation - Common Stock
-ATMC - AlphaTime Acquisition Corp - Ordinary Shares
-ATMCU - AlphaTime Acquisition Corp - Unit
 ATMP - iPath Select MLP ETN
 ATMU - Atmus Filtration Technologies Inc. Common Stock
 ATNI - ATN International, Inc. - Common Stock
@@ -1175,6 +1173,7 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
+BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
@@ -1827,7 +1826,6 @@ CDROW - Codere Online Luxembourg, S.A. - Warrants
 CDT - CDT Equity Inc. - Common Stock
 CDTG - CDT Environmental Technology Investment Holdings Limited - ordinary shares
 CDTTW - CDT Equity Inc. - Warrant
-CDTX - Cidara Therapeutics, Inc. - Common Stock
 CDW - CDW Corporation - Common Stock
 CDX - Simplify High Yield ETF
 CDXS - Codexis, Inc. - Common Stock
@@ -2430,7 +2428,6 @@ CURX - Curanex Pharmaceuticals Inc - Common Stock
 CUT - Invesco MSCI Global Timber ETF
 CUZ - Cousins Properties Incorporated Common Stock
 CV - CapsoVision, Inc. - Common Stock
-CVAC - CureVac N.V. - Ordinary Shares
 CVAR - Cultivar ETF
 CVBF - CVB Financial Corporation - Common Stock
 CVCO - Cavco Industries, Inc. - Common Stock
@@ -2568,6 +2565,7 @@ DCOM - Dime Community Bancshares, Inc. - Common Stock
 DCOMG - Dime Community Bancshares, Inc. - 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034
 DCOMP - Dime Community Bancshares, Inc. - Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A
 DCOR - Dimensional US Core Equity 1 ETF
+DCOY - Decoy Therapeutics Inc. - Common Stock
 DCRE - DoubleLine Commercial Real Estate ETF
 DCTH - Delcath Systems, Inc. - Common Stock
 DCX - Digital Currency X Technology Inc. - Class A Ordinary Shares
@@ -2687,7 +2685,6 @@ DGICB - Donegal Group, Inc. - Class B Common Stock
 DGII - Digi International Inc. - Common Stock
 DGIN - VanEck Digital India ETF
 DGLO - First Trust RBA Deglobalization ETF
-DGLY - Digital Ally, Inc. - Common Stock
 DGNX - Diginex Limited - Ordinary Shares
 DGOC - FT Vest U.S. Equity Buffer & Digital Return ETF - October
 DGP - DB Gold Double Long ETN due February 15, 2038
@@ -3734,7 +3731,6 @@ FGBI - First Guaranty Bancshares, Inc. - Common Stock
 FGBIP - First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock
 FGD - First Trust DJ Global Select Dividend
 FGDL - Franklin Responsibly Sourced Gold ETF
-FGEN - FibroGen, Inc - Common Stock
 FGI - FGI Industries Ltd. - Ordinary Shares
 FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
@@ -5869,6 +5865,7 @@ KIE - State Street SPDR S&P Insurance ETF
 KIM - Kimco Realty Corporation (HC) Common Stock
 KINS - Kingstone Companies, Inc - Common Stock
 KIO - KKR Income Opportunities Fund Common Shares
+KIQQ - KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF
 KITT - Nauticus Robotics, Inc. - Common stock
 KITTW - Nauticus Robotics, Inc. - Warrant
 KJAN - Innovator U.S. Small Cap Power Buffer ETF - January
@@ -5994,6 +5991,7 @@ KTUP - T-REX 2X Long KTOS Daily Target ETF
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
 KURE - KraneShares MSCI All China Health Care Index ETF
+KUST - Kustom Entertainment, Inc. - Common Stock
 KVAC - Keen Vision Acquisition Corporation - Ordinary Shares
 KVACU - Keen Vision Acquisition Corporation - Units
 KVACW - Keen Vision Acquisition Corporation - Warrant
@@ -6015,6 +6013,7 @@ KYIVW - Kyivstar Group Ltd. - Warrant
 KYLD - Kurv High Income ETF
 KYMR - Kymera Therapeutics, Inc. - Common Stock
 KYN - Kayne Anderson Energy Infrastructure Fund, Inc.
+KYNB - Kyntra Bio, Inc. - Common Stock
 KYTX - Kyverna Therapeutics, Inc. - Common Stock
 KZIA - Kazia Therapeutics Limited - American Depositary Shares
 KZR - Kezar Life Sciences, Inc. - Common Stock
@@ -6813,7 +6812,6 @@ MRNOW - Murano Global Investments PLC - Warrants
 MRNY - YieldMax MRNA Option Income Strategy ETF
 MRP - Millrose Properties, Inc. Class A Common Stock
 MRSK - Toews Agility Shares Managed Risk ETF
-MRSN - Mersana Therapeutics, Inc. - Common Stock
 MRT - Marti Technologies, Inc. Class A Ordinary Shares
 MRTN - Marten Transport, Ltd. - Common Stock
 MRVI - Maravai LifeSciences Holdings, Inc. - Class A common stock
@@ -8081,6 +8079,7 @@ PLTU - Direxion Daily PLTR Bull 2X Shares
 PLTW - Roundhill PLTR WeeklyPay ETF
 PLTY - YieldMax PLTR Option Income Strategy ETF
 PLTZ - Defiance Daily Target 2x Short PLTR ETF
+PLU - Defiance Daily Target 2x Long PL ETF
 PLUG - Plug Power, Inc. - Common Stock
 PLUR - Pluri Inc. - Common Stock
 PLUS - ePlus inc. - Common Stock
@@ -8748,14 +8747,14 @@ RIG - Transocean Ltd (Switzerland) Common Stock
 RIGL - Rigel Pharmaceuticals, Inc. - Common Stock
 RIGS - RiverFront Strategic Income Fund
 RILA - Indexperts Gorilla Aggressive Growth ETF
-RILY - B. Riley Financial, Inc. - Common Stock
-RILYG - B. Riley Financial, Inc. - 5.00% Senior Notes due 2026
-RILYK - B. Riley Financial, Inc. - 5.50% Senior Notes Due 2026
-RILYL - B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock
-RILYN - B. Riley Financial, Inc. - 6.50% Senior Notes Due 2026
-RILYP - B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock
-RILYT - B. Riley Financial, Inc. - 6.00% Senior Notes Due 2028
-RILYZ - B. Riley Financial, Inc. - 5.25% Senior Notes due 2028
+RILY - BRC Group Holdings, Inc. - Common Stock
+RILYG - BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026
+RILYK - BRC Group Holdings, Inc. - 5.50% Senior Notes Due 2026
+RILYL - BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock
+RILYN - BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026
+RILYP - BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock
+RILYT - BRC Group Holdings, Inc. - 6.00% Senior Notes Due 2028
+RILYZ - BRC Group Holdings, Inc. - 5.25% Senior Notes due 2028
 RIME - Algorhythm Holdings, Inc. - Common Stock
 RINF - ProShares Inflation Expectations ETF
 RING - iShares MSCI Global Gold Miners ETF
@@ -9409,7 +9408,6 @@ SLP - Simulations Plus, Inc. - Common Stock
 SLQD - iShares 0-5 Year Investment Grade Corporate Bond ETF
 SLQT - SelectQuote, Inc. Common Stock
 SLRC - SLR Investment Corp. - Closed End Fund
-SLRX - Salarius Pharmaceuticals, Inc. - Common Stock
 SLS - SELLAS Life Sciences Group, Inc.  - Common Stock
 SLSN - Solesence, Inc. - Common stock
 SLSR - Solaris Resources Inc. Common Shares
@@ -9568,6 +9566,7 @@ SOPA - Society Pass Incorporated - Common Stock
 SOPH - SOPHiA GENETICS SA - Ordinary Shares
 SOR - Source Capital, Inc. Cmn Shs of BI
 SORA - AsiaStrategy - Ordinary Shares
+SORNU - Soren Acquisition Corp. - Unit
 SOS - SOS Limited Class A Ordinary Shares
 SOTK - Sono-Tek Corporation - Common Stock
 SOUL - Soulpower Acquisition Corporation Class A Ordinary Shares
@@ -10021,6 +10020,7 @@ TD - Toronto Dominion Bank (The) Common Stock
 TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
 TDAQ - TappAlpha Innovation 100 Growth & Daily Income ETF
+TDAX - TDAQ Lift ETF
 TDAY - USA TODAY Co., Inc. Common Stock
 TDC - Teradata Corporation Common Stock
 TDEC - FT Vest Emerging Markets Buffer ETF - December
@@ -10408,6 +10408,7 @@ TSSI - TSS, Inc. - Common Stock
 TSXD - Direxion Daily Semiconductors Top 5 Bear 2X ETF
 TSXU - Direxion Daily Semiconductors Top 5 Bull 2X ETF
 TSYW - Roundhill Treasury Bond WeeklyPay ETF
+TSYX - TSPY Lift ETF
 TSYY - GraniteShares YieldBOOST TSLA ETF
 TT - Trane Technologies plc
 TTAM - Titan America SA Common Shares
@@ -10735,6 +10736,7 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
+UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -10745,6 +10747,7 @@ VABS - Virtus Newfleet ABS/MBS ETF
 VAC - Marriott Vacations Worldwide Corporation Common Stock
 VACH - Voyager Acquisition Corp - Class A Ordinary Shares
 VACHU - Voyager Acquisition Corp - Unit
+VACHW - Voyager Acquisition Corp - Warrants
 VACI - Viking Acquisition Corp. I Class A Ordinary Shares
 VAL - Valaris Limited Common Shares
 VALE - VALE S.A.  American Depositary Shares Each Representing one common share
