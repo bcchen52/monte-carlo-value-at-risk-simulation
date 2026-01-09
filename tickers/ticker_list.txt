@@ -966,6 +966,7 @@ BBC - Virtus LifeSci Biotech Clinical Trials ETF
 BBCA - JPMorgan BetaBuilders Canada ETF
 BBCB - JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF
 BBCP - Concrete Pumping Holdings, Inc.  - Common Stock
+BBCQU - Bleichroeder Acquisition Corp. II - Units
 BBD - Banco Bradesco Sa American Depositary Shares
 BBDC - Barings BDC, Inc. Common Stock
 BBDO - Banco Bradesco Sa American Depositary Shares (each representing one Common Share)
@@ -1444,7 +1445,6 @@ BRKU - Direxion Daily BRKB Bull 2X Shares
 BRKW - Roundhill BRKB WeeklyPay ETF
 BRLN - iShares Floating Rate Loan Active ETF
 BRLS - Borealis Foods Inc. - Class A Common Shares
-BRLSW - Borealis Foods Inc. - Warrant
 BRLT - Brilliant Earth Group, Inc. - Class A Common Stock
 BRN - Barnwell Industries, Inc. Common Stock
 BRNS - Barinthus Biotherapeutics plc - American Depositary Shares
@@ -1556,6 +1556,7 @@ BTZ - BlackRock Credit Allocation Income Trust
 BU - Defiance Daily Target 2X Long BU ETF
 BUCK - Simplify Treasury Option Income ETF
 BUD - Anheuser-Busch Inbev SA Sponsored ADR (Belgium)
+BUDA - Buda Juice, Inc. Common Stock
 BUFB - Innovator Laddered Allocation Buffer ETF
 BUFC - AB Conservative Buffer ETF
 BUFD - FT Vest Laddered Deep Buffer ETF
@@ -2001,7 +2002,6 @@ CINF - Cincinnati Financial Corporation - Common Stock
 CING - Cingulate Inc. - Common Stock
 CINGW - Cingulate Inc. - Warrants
 CINT - CI&T Inc Class A Common Shares
-CIO - City Office REIT, Inc. Common Stock
 CION - CION Investment Corporation Common Stock
 CISO - CISO Global, Inc. - Common Stock
 CISS - C3is Inc. - Common Stock
@@ -2017,7 +2017,6 @@ CLB - Core Laboratories Inc. Common Stock
 CLBK - Columbia Financial, Inc. - Common Stock
 CLBT - Cellebrite DI Ltd. - Ordinary Shares
 CLCG - Crossmark Large Cap Growth ETF
-CLCO - Cool Company Ltd. Common Shares
 CLCV - Crossmark Large Cap Value ETF
 CLDI - Calidi Biotherapeutics, Inc. Common Stock
 CLDT - Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
@@ -3768,7 +3767,6 @@ FIGR - Figure Technology Solutions, Inc. - Class A Common Stock
 FIGS - FIGS, Inc. Class A Common Stock
 FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
-FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIHL - Fidelis Insurance Holdings Limited Common Shares
 FIIG - First Trust Intermediate Duration Investment Grade Corporate ETF
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
@@ -4212,7 +4210,6 @@ GCAL - Goldman Sachs Dynamic California Municipal Income ETF
 GCBC - Greene County Bancorp, Inc. - Common Stock
 GCC - WisdomTree EnhancedContinuous Commodity Index Fund
 GCL - GCL Global Holdings Ltd - Ordinary Shares
-GCLWW - GCL Global Holdings Ltd - Warrants
 GCMG - GCM Grosvenor Inc. - Class A Common Stock
 GCO - Genesco Inc. Common Stock
 GCOR - Goldman Sachs Access U.S. Aggregate Bond ETF
@@ -4857,7 +4854,6 @@ HOOZ - Defiance Daily Target 2X Short HOOD ETF
 HOPE - Hope Bancorp, Inc. - Common Stock
 HOTH - Hoth Therapeutics, Inc. - Common Stock
 HOUR - Hour Loop, Inc. - common stock
-HOUS - Anywhere Real Estate Inc. Common Stock,
 HOV - Hovnanian Enterprises, Inc. Class A Common Stock
 HOVNP - Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock
 HOVR - New Horizon Aircraft Ltd. - Class A Ordinary Shares
@@ -5404,7 +5400,6 @@ IPM - Intelligent Protection Management Corp.  - Common Stock
 IPO - Renaissance IPO ETF
 IPOD - Dune Acquisition Corporation II - Class A ordinary shares
 IPODU - Dune Acquisition Corporation II - Units
-IPODW - Dune Acquisition Corporation II - Warrants
 IPOS - Renaissance Capital Greenwich Fund
 IPSC - Century Therapeutics, Inc. - Common Stock
 IPST - Heritage Distilling Holding Company, Inc. - Common Stock
@@ -6502,7 +6497,6 @@ MCRB - Seres Therapeutics, Inc. - Common Stock
 MCRI - Monarch Casino & Resort, Inc. - Common Stock
 MCRP - Micropolis AI Robotics Ordinary Shares
 MCS - Marcus Corporation (The) Common Stock
-MCSE - Franklin Sustainable International Equity ETF
 MCTA - Charming Medical Limited - Class A Ordinary Shares
 MCW - Mister Car Wash, Inc. - Common Stock
 MCY - Mercury General Corporation Common Stock
@@ -7133,6 +7127,7 @@ NFXL - Direxion Daily NFLX Bull 2X Shares
 NFXS - Direxion Daily NFLX Bear 1X Shares
 NG - Novagold Resources Inc.
 NGD - New Gold Inc.
+NGEN - NervGen Pharma Corp. - Common stock
 NGG - National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares
 NGL - NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
 NGNE - Neurogene Inc. - Common Stock
@@ -7143,6 +7138,7 @@ NHC - National HealthCare Corporation Common Stock
 NHI - National Health Investors, Inc. Common Stock
 NHIC - NewHold Investment Corp III - Class A Ordinary shares
 NHICU - NewHold Investment Corp III - Units
+NHICW - NewHold Investment Corp III - Warrants
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger High Yield Strategies Fund Inc. Common Stock
@@ -7461,7 +7457,6 @@ O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
-OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - OneAscent Core Plus Bond ETF
 OAEM - OneAscent Emerging Markets ETF
 OAIM - OneAscent International Equity ETF
@@ -8849,7 +8844,7 @@ ROKU - Roku, Inc. - Class A Common Stock
 ROL - Rollins, Inc. Common Stock
 ROLR - High Roller Technologies, Inc. Common Stock
 ROM - ProShares Ultra Technology
-ROMA - Roma Green Finance Limited - Ordinary Shares
+ROMA - Roma Green Finance Limited - Class A Ordinary Shares
 ROMO - Strategy Shares Newfound/ReSolve Robust Momentum ETF
 RONB - Baron First Principles ETF
 ROOT - Root, Inc. - Common Stock
@@ -10188,7 +10183,6 @@ TLK - PT Telekomunikasi Indonesia, Tbk
 TLN - Talen Energy Corporation - Common Stock
 TLNC - Talon Capital Corp. - Class A Ordinary Shares
 TLNCU - Talon Capital Corp. - Units
-TLNCW - Talon Capital Corp. - Warrants
 TLPH - Talphera, Inc. - Common Stock
 TLRY - Tilray Brands, Inc. - Common Stock
 TLS - Telos Corporation - Common Stock
@@ -11551,6 +11545,12 @@ ZBAO - Zhibao Technology Inc. - Class A Ordinary Shares
 ZBH - Zimmer Biomet Holdings, Inc. Common Stock
 ZBIO - Zenas BioPharma, Inc. - Common Stock
 ZBRA - Zebra Technologies Corporation - Class A Common Stock
+ZCBA - Global X Zero Coupon Bond 2030 ETF
+ZCBB - Global X Zero Coupon Bond 2031 ETF
+ZCBC - Global X Zero Coupon Bond 2032 ETF
+ZCBE - Global X Zero Coupon Bond 2033 ETF
+ZCBF - Global X Zero Coupon Bond 2034 ETF
+ZCBG - Global X Zero Coupon Bond 2035 ETF
 ZCMD - Zhongchao Inc. - Class A Ordinary Shares
 ZD - Ziff Davis, Inc. - Common Stock
 ZDAI - DirectBooking Technology Co., Ltd. - Ordinary Shares
