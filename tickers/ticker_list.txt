@@ -342,6 +342,7 @@ AKAN - Akanda Corp. - Common Shares
 AKBA - Akebia Therapeutics, Inc. - Common Stock
 AKR - Acadia Realty Trust Common Stock
 AKRE - Akre Focus ETF
+AKTS - Aktis Oncology, Inc. - Common stock
 AKTX - Akari Therapeutics Plc - American Depositary Shares
 AL - Air Lease Corporation Class A Common Stock
 ALAB - Astera Labs, Inc. - Common Stock
@@ -724,6 +725,7 @@ ASYS - Amtech Systems, Inc. - Common Stock
 ATAI - AtaiBeckley Inc. - Common Stock
 ATAT - Atour Lifestyle Holdings Limited - American Depositary Shares
 ATCH - AtlasClear Holdings, Inc. Common Stock
+ATCX - Atlas Critical Minerals Corporation - Common Stock
 ATEC - Alphatec Holdings, Inc. - Common Stock
 ATEN - A10 Networks, Inc. Common Stock
 ATER - Aterian, Inc. - Common Stock
@@ -1312,7 +1314,6 @@ BLX - Banco Latinoamericano de Comercio Exterior, S.A.
 BLZE - Backblaze, Inc. - Common Stock
 BLZR - Trailblazer Acquisition Corp. - Class A Ordinary Shares
 BLZRU - Trailblazer Acquisition Corp. - Unit
-BLZRW - Trailblazer Acquisition Corp. - Warrant
 BMA - Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
 BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAX - REX Bitcoin Corporate Treasury Convertible Bond ETF
@@ -3767,6 +3768,7 @@ FIGR - Figure Technology Solutions, Inc. - Class A Common Stock
 FIGS - FIGS, Inc. Class A Common Stock
 FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
+FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIHL - Fidelis Insurance Holdings Limited Common Shares
 FIIG - First Trust Intermediate Duration Investment Grade Corporate ETF
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
@@ -4210,6 +4212,7 @@ GCAL - Goldman Sachs Dynamic California Municipal Income ETF
 GCBC - Greene County Bancorp, Inc. - Common Stock
 GCC - WisdomTree EnhancedContinuous Commodity Index Fund
 GCL - GCL Global Holdings Ltd - Ordinary Shares
+GCLWW - GCL Global Holdings Ltd - Warrants
 GCMG - GCM Grosvenor Inc. - Class A Common Stock
 GCO - Genesco Inc. Common Stock
 GCOR - Goldman Sachs Access U.S. Aggregate Bond ETF
@@ -4950,7 +4953,6 @@ HVIIR - Hennessy Capital Investment Corp. VII - Rights
 HVIIU - Hennessy Capital Investment Corp. VII - Unit
 HVMC - Highview Merger Corp. - Class A Ordinary Share
 HVMCU - Highview Merger Corp. - Units
-HVMCW - Highview Merger Corp. - Warrants
 HVT - Haverty Furniture Companies, Inc. Common Stock
 HWAY - Themes US Infrastructure ETF
 HWBK - Hawthorn Bancshares, Inc. - Common Stock
@@ -6072,6 +6074,7 @@ LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCLG - Logan Capital Broad Innovative Growth ETF
 LCNB - LCNB Corporation - Common Stock
+LCO - LOGIQ Contrarian Opportunities ETF
 LCOW - Pacer S&P 500 Quality FCF Aristocrats ETF
 LCR - Leuthold Core ETF
 LCTD - iShares World ex U.S. Carbon Transition Readiness Aware Active ETF
@@ -7472,7 +7475,6 @@ OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
 OBA - Oxley Bridge Acquisition Limited - Class A Ordinary Shares
 OBAWU - Oxley Bridge Acquisition Limited - Unit
-OBAWW - Oxley Bridge Acquisition Limited - Warrants
 OBDC - Blue Owl Capital Corporation Common Stock
 OBE - Obsidian Energy Ltd. Common Shares
 OBIL - US Treasury 12 Month Bill ETF
@@ -9528,7 +9530,6 @@ SOBR - SOBR Safe, Inc. - Common Stock
 SOC - Sable Offshore Corp. Common Stock
 SOCA - Solarius Capital Acquisition Corp. - Class A Ordinary Share
 SOCAU - Solarius Capital Acquisition Corp. - Units
-SOCAW - Solarius Capital Acquisition Corp. - Warrant
 SOCL - Global X Social Media ETF
 SOEZ - Franklin Solana ETF
 SOFI - SoFi Technologies, Inc.  - Common Stock
@@ -10014,6 +10015,7 @@ TCX - Tucows Inc. - Common Stock
 TD - Toronto Dominion Bank (The) Common Stock
 TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
+TDACW - Translational Development Acquisition Corp. - Warrants
 TDAQ - TappAlpha Innovation 100 Growth & Daily Income ETF
 TDAX - TDAQ Lift ETF
 TDAY - USA TODAY Co., Inc. Common Stock
@@ -10455,6 +10457,8 @@ TWG - Top Wealth Group Holding Limited - Class A Ordinary Shares
 TWI - Titan International, Inc. (DE) Common Stock
 TWIN - Twin Disc, Incorporated - Common Stock
 TWLO - Twilio Inc. Class A Common Stock
+TWLV - Twelve Seas Investment Company III - Class A Ordinary Shares
+TWLVR - Twelve Seas Investment Company III - Rights
 TWLVU - Twelve Seas Investment Company III - Units
 TWM - ProShares UltraShort Russell2000
 TWN - Taiwan Fund, Inc. (The) Common Stock
@@ -11215,6 +11219,7 @@ WSR - Whitestone REIT Common Shares
 WST - West Pharmaceutical Services, Inc. Common Stock
 WSTN - Westin Acquisition Corp - Class A Ordinary Share
 WSTNR - Westin Acquisition Corp - Right
+WSTNU - Westin Acquisition Corp - Units
 WT - WisdomTree, Inc. Common Stock
 WTAI - WisdomTree Artificial Intelligence and Innovation Fund
 WTBA - West Bancorporation - Common Stock
@@ -11583,6 +11588,7 @@ ZJUN - Innovator Equity Defined Protection ETF - 1 Yr June
 ZJYL - JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares
 ZKH - ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares
 ZKIN - ZK International Group Co., Ltd - Ordinary Share
+ZKPU - Lafayette Digital Acquisition Corp. I - Unit
 ZLAB - Zai Lab Limited - American Depositary Shares
 ZM - Zoom Communications, Inc. - Class A Common Stock
 ZMAR - Innovator Equity Defined Protection ETF - 1 Yr March
