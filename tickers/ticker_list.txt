@@ -733,7 +733,6 @@ ATEX - Anterix Inc. - Common Stock
 ATFV - Alger 35 ETF
 ATGE - Adtalem Global Education Inc. Common Stock
 ATGL - Alpha Technology Group Limited - Class A Ordinary Shares
-ATHA - Athira Pharma, Inc. - Common Stock
 ATHE - Alterity Therapeutics Limited - American Depositary Shares
 ATHM - Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.
 ATHR - Aether Holdings, Inc. - Common Stock
@@ -935,7 +934,7 @@ BANC - Banc of California, Inc. Common Stock
 BAND - Bandwidth Inc. - Class A Common Stock
 BANF - BancFirst Corporation - Common Stock
 BANFP - BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities
-BANL - CBL International Limited - Ordinary Shares
+BANL - CBL International Limited - Class B Ordinary Shares
 BANR - Banner Corporation - Common Stock
 BANX - ArrowMark Financial Corp. - Closed End Fund
 BAOS - Baosheng Media Group Holdings Limited - Ordinary shares
@@ -6248,6 +6247,7 @@ LOKV - Live Oak Acquisition Corp. V - Class A Ordinary Shares
 LOKVU - Live Oak Acquisition Corp. V - Units
 LOKVW - Live Oak Acquisition Corp. V - Warrants
 LOMA - Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
+LONA - LeonaBio, Inc. - Common Stock
 LONZ - PIMCO Senior Loan Active Exchange-Traded Fund
 LOOP - Loop Industries, Inc. - Common Stock
 LOPE - Grand Canyon Education, Inc. - Common Stock
@@ -7423,7 +7423,6 @@ NWS - News Corporation - Class B Common Stock
 NWSA - News Corporation - Class A Common Stock
 NWTG - Newton Golf Company, Inc. - Common Stock
 NX - Quanex Building Products Corporation Common Stock
-NXC - Nuveen California Select Tax-Free Income Portfolio Common Stock
 NXDR - Nextdoor Holdings, Inc. Class A Common Stock
 NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
@@ -7432,7 +7431,6 @@ NXGL - NexGel, Inc - Common Stock
 NXGLW - NexGel, Inc - Warrant
 NXJ - Nuveen New Jersey Qualified Municipal Fund 
 NXL - Nexalin Technology, Inc. - Common Stock
-NXN - Nuveen New York Select Tax-Free Income Portfolio Common Stock
 NXP - Nuveen Select Tax Free Income Portfolio Common Stock
 NXPI - NXP Semiconductors N.V. - Common Stock
 NXPL - NextPlat Corp - Common Stock
@@ -8698,7 +8696,6 @@ RFCI - RiverFront Dynamic Core Income ETF
 RFDA - RiverFront Dynamic US Dividend Advantage ETF
 RFDI - First Trust RiverFront Dynamic Developed International ETF
 RFEM - First Trust RiverFront Dynamic Emerging Markets ETF
-RFEU - First Trust RiverFront Dynamic Europe ETF
 RFFC - ALPS Active Equity Opportunity ETF
 RFG - Invesco S&P MidCap 400 Pure Growth ETF
 RFI - Cohen & Steers Total Return Realty Fund, Inc. Common Stock
@@ -8769,7 +8766,6 @@ RIVN - Rivian Automotive, Inc. - Class A Common Stock
 RJDI - RJ Eagle GCM Dividend Select Income ETF
 RJET - Republic Airways Holdings Inc. - Common Stock
 RJF - Raymond James Financial, Inc. Common Stock
-RJMG - FT Raymond James Multicap Growth Equity ETF
 RJMI - RJ Eagle Municipal Income ETF
 RJVI - RJ Eagle Vertical Income ETF
 RKDA - Arcadia Biosciences, Inc. - Common Stock
