@@ -1035,6 +1035,7 @@ BCML - BayCom Corp - Common Stock
 BCO - Brinks Company (The) Common Stock
 BCOR - Grayscale Bitcoin Adopters ETF
 BCPC - Balchem Corporation - Common Stock
+BCPL - BNY Mellon Core Plus ETF
 BCRX - BioCryst Pharmaceuticals, Inc. - Common Stock
 BCS - Barclays PLC Common Stock
 BCSF - Bain Capital Specialty Finance, Inc. Common Stock
@@ -1242,6 +1243,7 @@ BKDV - BNY Mellon Dynamic Value ETF
 BKE - Buckle, Inc. (The) Common Stock
 BKEM - BNY Mellon Emerging Markets Equity ETF
 BKF - iShares MSCI BIC ETF
+BKFI - BNY Mellon Active Core Bond ETF
 BKGI - BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
@@ -1253,6 +1255,8 @@ BKKT - Bakkt Holdings, Inc. Class A Common Stock
 BKLC - BNY Mellon US Large Cap Core Equity ETF
 BKLN - Invesco Senior Loan ETF
 BKMC - BNY Mellon US Mid Cap Core Equity ETF
+BKMI - BNY Mellon Municipal Intermediate ETF
+BKMS - BNY Mellon Municipal Short Duration ETF
 BKN - BlackRock Investment Quality Municipal Trust Inc. (The)
 BKNG - Booking Holdings Inc. - Common Stock
 BKNU - T-REX 2X Long BKNG Daily Target ETF
@@ -1313,6 +1317,7 @@ BLX - Banco Latinoamericano de Comercio Exterior, S.A.
 BLZE - Backblaze, Inc. - Common Stock
 BLZR - Trailblazer Acquisition Corp. - Class A Ordinary Shares
 BLZRU - Trailblazer Acquisition Corp. - Unit
+BLZRW - Trailblazer Acquisition Corp. - Warrant
 BMA - Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
 BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAX - REX Bitcoin Corporate Treasury Convertible Bond ETF
@@ -1332,6 +1337,7 @@ BMNR - BitMine Immersion Technologies, Inc. Common Stock
 BMNU - T-REX 2X Long BMNR Daily Target ETF
 BMNZ - Defiance Daily Target 2X Short BMNR ETF
 BMO - Bank Of Montreal Common Stock
+BMOP - BNY Mellon Municipal Opportunities ETF
 BMR - Beamr Imaging Ltd. - Ordinary Share
 BMRA - Biomerica, Inc. - Common Stock
 BMRC - Bank of Marin Bancorp - Common Stock
@@ -2274,6 +2280,8 @@ CRACU - Crown Reserve Acquisition Corp. I - Unit
 CRACW - Crown Reserve Acquisition Corp. I - Warrant
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
+CRAN - Crane Harbor Acquisition Corp. II - Class A Ordinary Shares
+CRANR - Crane Harbor Acquisition Corp. II - Rights
 CRANU - Crane Harbor Acquisition Corp. II - Units
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
 CRAQR - Cal Redwood Acquisition Corp. - Right
@@ -7327,7 +7335,6 @@ NTSX - WisdomTree U.S. Efficient Core Fund
 NTWK - NETSOL Technologies Inc. - Common Stock
 NTWO - Newbury Street II Acquisition Corp - Class A Ordinary Shares
 NTWOU - Newbury Street II Acquisition Corp - Unit
-NTWOW - Newbury Street II Acquisition Corp - Warrant
 NTZ - Natuzzi, S.p.A.
 NU - Nu Holdings Ltd. Class A Ordinary Shares
 NUAG - Nuveen Enhanced Yield U.S. Aggregate Bond ETF
@@ -7473,6 +7480,7 @@ OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
 OBA - Oxley Bridge Acquisition Limited - Class A Ordinary Shares
 OBAWU - Oxley Bridge Acquisition Limited - Unit
+OBAWW - Oxley Bridge Acquisition Limited - Warrants
 OBDC - Blue Owl Capital Corporation Common Stock
 OBE - Obsidian Energy Ltd. Common Shares
 OBIL - US Treasury 12 Month Bill ETF
@@ -9526,6 +9534,7 @@ SOBR - SOBR Safe, Inc. - Common Stock
 SOC - Sable Offshore Corp. Common Stock
 SOCA - Solarius Capital Acquisition Corp. - Class A Ordinary Share
 SOCAU - Solarius Capital Acquisition Corp. - Units
+SOCAW - Solarius Capital Acquisition Corp. - Warrant
 SOCL - Global X Social Media ETF
 SOEZ - Franklin Solana ETF
 SOFI - SoFi Technologies, Inc.  - Common Stock
@@ -10730,7 +10739,6 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
-UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
