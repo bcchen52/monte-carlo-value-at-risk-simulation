@@ -1475,6 +1475,7 @@ BRX - Brixmor Property Group Inc. Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
 BRZU - Direxion Daily Brazil Bull 2X Shares
 BSAA - BEST SPAC I Acquisition Corp. - Class A Ordinary Shares
+BSAAR - BEST SPAC I Acquisition Corp. - Rights
 BSAAU - BEST SPAC I Acquisition Corp. - Unit
 BSAC - Banco Santander - Chile ADS
 BSBK - Bogota Financial Corp. - Common Stock
@@ -1686,6 +1687,7 @@ CALF - Pacer US Small Cap Cash Cows ETF
 CALI - iShares Short-Term California Muni Active ETF
 CALM - Cal-Maine Foods, Inc. - Common Stock
 CALX - Calix, Inc Common Stock
+CALY - Callaway Golf Company Common Stock
 CAM - AB California Intermediate Municipal ETF
 CAML - Congress Large Cap Growth ETF
 CAMP - CAMP4 Therapeutics Corporation - Common Stock
@@ -3044,8 +3046,6 @@ ECCU - Eagle Point Credit Company Inc. 7.75% Notes due 2030
 ECCV - Eagle Point Credit Company Inc. 5.375% Notes due 2029
 ECCW - Eagle Point Credit Company Inc. 6.75% Notes due 2031
 ECCX - Eagle Point Credit Company Inc. 6.6875% Notes due 2028
-ECDA - ECD Automotive Design, Inc. - Common Stock
-ECDAW - ECD Automotive Design, Inc. - Warrant
 ECF - Ellsworth Growth and Income Fund Ltd.
 ECG - Everus Construction Group, Inc. Common Stock
 ECH - iShares MSCI Chile ETF
@@ -3227,6 +3227,7 @@ EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
+EMISR - Emmis Acquisition Corp. - Rights
 EMKT - Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
@@ -3659,6 +3660,7 @@ FDP - Fresh Del Monte Produce, Inc. Common Stock
 FDRR - Fidelity Dividend ETF for Rising Rates
 FDRS - Founder-Led ETF
 FDRV - Fidelity Electric Vehicles and Future Transportation ETF
+FDRX - Founder-Led 2X Daily ETF
 FDS - FactSet Research Systems Inc. Common Stock
 FDSB - Fifth District Bancorp, Inc. - Common Stock
 FDT - First Trust Developed Markets Ex-US AlphaDEX Fund
@@ -5503,6 +5505,7 @@ ITGR - Integer Holdings Corporation Common Stock
 ITHAU - ITHAX Acquisition Corp III - Units
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
+ITOC - iTonic Holdings Ltd - Class A Ordinary Shares
 ITOL - Tema International Durable Quality ETF
 ITOT - iShares Core S&P Total U.S. Stock Market ETF
 ITP - IT Tech Packaging, Inc. Common Stock
@@ -5655,6 +5658,7 @@ JEPQ - JPMorgan Nasdaq Equity Premium Income ETF
 JETD - MAX Airlines -3X Inverse Leveraged ETNs
 JETS - U.S. Global Jets ETF
 JETU - MAX Airlines 3X Leveraged ETNs
+JF - J and Friends Holdings Limited - American Depositary Shares
 JFB - JFB Construction Holdings - Class A Common Stock
 JFBR - Jeffs' Brands Ltd - Ordinary Shares
 JFBRW - Jeffs' Brands Ltd - Warrant
@@ -6768,7 +6772,6 @@ MOBX - Mobix Labs, Inc. - Class A Common Stock
 MOBXW - Mobix Labs, Inc. - Warrants
 MOD - Modine Manufacturing Company Common Stock
 MODD - Modular Medical, Inc. - common stock
-MODG - Topgolf Callaway Brands Corp. Common Stock
 MODL - VictoryShares WestEnd U.S. Sector ETF
 MOFG - MidWestOne Financial Group, Inc. - Common Stock
 MOGU - MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares)
@@ -7470,6 +7473,7 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - State Street SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -7675,6 +7679,7 @@ ORIS - Oriental Rise Holdings Limited - Ordinary Shares
 ORKA - Oruka Therapeutics, Inc. - Common Stock
 ORKT - Orangekloud Technology Inc. - Class A Ordinary Shares
 ORLA - Orla Mining Ltd. Common Shares
+ORLG - Leverage Shares 2X Long ORLY Daily ETF
 ORLY - O'Reilly Automotive, Inc. - Common Stock
 ORMP - Oramed Pharmaceuticals Inc. - Common Stock
 ORN - Orion Group Holdings, Inc. Common
@@ -7764,6 +7769,7 @@ PAC - Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del 
 PACB - Pacific Biosciences of California, Inc. - Common Stock
 PACH - Pioneer Acquisition I Corp - Class A Ordinary Shares
 PACHU - Pioneer Acquisition I Corp - Units
+PACHW - Pioneer Acquisition I Corp - Warrants
 PACK - Ranpak Holdings Corp Class A Common Stock
 PACS - PACS Group, Inc. Common Stock
 PAG - Penske Automotive Group, Inc. Common Stock
@@ -8315,7 +8321,6 @@ PSTR - PeakShares Sector Rotation ETF
 PSTV - PLUS THERAPEUTICS, Inc. - Common Stock
 PSWD - Xtrackers Cybersecurity Select Equity ETF
 PSX - Phillips 66 Common Stock
-PT - Pintec Technology Holdings Limited - American Depositary Shares
 PTA - Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest
 PTBD - Pacer Trendpilot US Bond ETF
 PTC - PTC Inc. - Common Stock
@@ -8325,7 +8330,6 @@ PTEU - Pacer TrendpilotTM European Index ETF
 PTF - Invesco Dorsey Wright Technology Momentum ETF
 PTGX - Protagonist Therapeutics, Inc. - Common Stock
 PTH - Invesco Dorsey Wright Healthcare Momentum ETF
-PTHL - Pheton Holdings Ltd - Class A Ordinary Shares
 PTHS - Pelthos Therapeutics Inc. Common Stock
 PTIN - Pacer Trendpilot International ETF
 PTIR - GraniteShares 2x Long PLTR Daily ETF
@@ -9272,6 +9276,7 @@ SGOL - abrdn Physical Gold Shares ETF
 SGOV - iShares 0-3 Month Treasury Bond ETF
 SGRP - SPAR Group, Inc. - Common Stock
 SGRT - SMART Earnings Growth 30 ETF
+SGRW - Harbor Active Small Cap Growth ETF
 SGRY - Surgery Partners, Inc. - Common Stock
 SGU - Star Group L.P. Common Stock
 SGVT - Schwab Government Money Market ETF
@@ -11418,6 +11423,7 @@ XOSWW - Xos, Inc. - Warrants
 XOVR - ERShares Private-Public Crossover ETF
 XP - XP Inc. - Class A Common Stock
 XPAY - Roundhill S&P 500 Target 20 Managed Distribution ETF
+XPEG - Leverage Shares 2X Long XPEV Daily ETF
 XPEL - XPEL, Inc. - Common Stock
 XPER - Xperi Inc. Common Stock 
 XPEV - XPeng Inc. American depositary shares, each representing two Class A ordinary shares
