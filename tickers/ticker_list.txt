@@ -9976,7 +9976,6 @@ TARS - Tarsus Pharmaceuticals, Inc. - Common Stock
 TASK - TaskUs, Inc. - Class A Common Stock
 TATT - TAT Technologies Ltd. - Ordinary Shares
 TAVI - Tavia Acquisition Corp. - Ordinary Shares
-TAVIR - Tavia Acquisition Corp. - Right
 TAVIU - Tavia Acquisition Corp. - Unit
 TAX - Cambria Tax Aware ETF
 TAXE - Intermediate Municipal Income ETF
