@@ -2633,7 +2633,6 @@ DEI - Douglas Emmett, Inc. Common Stock
 DELL - Dell Technologies Inc. Class C Common Stock 
 DEM - WisdomTree Emerging Markets High Dividend Fund
 DEMZ - Democratic Large Cap Core ETF
-DENN - Denny's Corporation - Common Stock
 DEO - Diageo plc Common Stock
 DERM - Journey Medical Corporation - Common Stock
 DES - WisdomTree U.S. SmallCap Dividend Fund
@@ -3199,7 +3198,6 @@ ELV - Elevance Health, Inc. Common Stock
 ELVA - Electrovaya Inc. - Common Shares
 ELVN - Enliven Therapeutics, Inc.  - Common Stock
 ELVR - Elevra Lithium Limited - American Depository Shares
-ELWS - Earlyworks Co., Ltd. - American Depositary Shares
 ELWT - Elauwit Connection, Inc. - Common Stock
 EM - Smart Share Global Limited - American Depositary Shares
 EMA - Emera Incorporated Common Shares
@@ -4345,7 +4343,6 @@ GIB - CGI Inc. Common Stock
 GIBO - GIBO Holdings Limited - Class A Ordinary Shares
 GIBOW - GIBO Holdings Limited - Warrants
 GIC - Global Industrial Company Common Stock
-GIFI - Gulf Island Fabrication, Inc. - Common Stock
 GIFT - Giftify, Inc. - Common Stock
 GIG - GigCapital7 Corp. - Class A Ordinary Share
 GIGB - Goldman Sachs Access Investment Grade Corporate Bond ETF
@@ -6567,6 +6564,7 @@ MEMA - Man Active Emerging Markets Alternative ETF
 MEME - Roundhill Meme Stock ETF
 MEMS - Matthews Emerging Markets Discovery Active ETF
 MEMX - Matthews Emerging Markets ex China Active ETF
+MEMY - Tuttle Capital Meme Stock Income Blast ETF
 MENS - Jyong Biotech Ltd. - Ordinary shares
 MEOH - Methanex Corporation - Common Stock
 MERC - Mercer International Inc. - Common Stock
@@ -7605,7 +7603,7 @@ ONCY - Oncolytics Biotech Inc. - Common Shares
 OND - ProShares On-Demand ETF
 ONDG - Leverage Shares 2X Long ONDS Daily ETF
 ONDL - Defiance Daily Target 2X Long ONDS ETF
-ONDS - Ondas Holdings Inc. - Common Stock
+ONDS - Ondas Inc - Common Stock
 ONDU - Tradr 2X Long ONDS Daily ETF
 ONEG - OneConstruction Group Limited - Ordinary Shares
 ONEO - State Street SPDR Russell 1000 Momentum Focus ETF
@@ -7899,6 +7897,7 @@ PCYO - Pure Cycle Corporation - Common Stock
 PD - PagerDuty, Inc. Common Stock
 PDBA - Invesco Agriculture Commodity Strategy No K-1 ETF
 PDBC - Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF
+PDC - Perpetuals.com Ltd - American Depositary Shares
 PDCC - Pearl Diver Credit Company Inc. Common Stock
 PDD - PDD Holdings Inc. - American Depositary Shares
 PDDL - GraniteShares 2x Long PDD Daily ETF
@@ -8216,7 +8215,7 @@ PREF - Principal Spectrum Preferred Securities Active ETF
 PRENW - Prenetics Global Limited - Warrant
 PRF - Invesco RAFI US 1000 ETF
 PRFD - PIMCO Preferred and Capital Securities Active Exchange-Traded Fund
-PRFX - PainReform Ltd. - Ordinary Shares
+PRFX - PRF Technologies Ltd. - Ordinary Shares
 PRFZ - Invesco RAFI US 1500 Small-Mid ETF
 PRG - PROG Holdings, Inc. Common Stock
 PRGO - Perrigo Company plc Ordinary Shares
@@ -9474,7 +9473,6 @@ SMIZ - Zacks Small/Mid Cap ETF
 SMJF - SMJ International Holdings Inc. Class A Ordinary Shares
 SMLF - iShares U.S. Small-Cap Equity Factor ETF
 SMLL - Harbor Active Small Cap ETF
-SMLR - Semler Scientific, Inc. - Common Stock
 SMLV - State Street SPDR US Small Cap Low Volatility Index ETF
 SMMD - iShares Russell 2500 ETF
 SMMT - Summit Therapeutics Inc.  - Common Stock
@@ -10076,7 +10074,6 @@ TECL - Direxion Technology Bull 3X Shares
 TECS - Direxion Technology Bear 3X Shares
 TECTP - Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
 TECX - Tectonic Therapeutic, Inc. - Common Stock
-TEF - Telefonica SA Common Stock
 TEI - Templeton Emerging Markets Income Fund, Inc. Common Stock
 TEK - iShares Technology Opportunities Active ETF
 TEKX - SPDR Galaxy Transformative Tech Accelerators ETF
@@ -11002,7 +10999,6 @@ VSMV - VictoryShares US Multi-Factor Minimum Volatility ETF
 VSNT - Versant Media Group, Inc. - Class A Common Stock
 VSOL - VanEck Solana ETF
 VSS - Vanguard FTSE All-Wld ex-US SmCp Idx ETF
-VSSYW - Versus Systems Inc. - Class A Warrants
 VST - Vistra Corp. Common Stock
 VSTA - Vasta Platform Limited - Class A Ordinary Shares
 VSTD - Vestand Inc.  - Class A Common Stock
