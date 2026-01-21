@@ -410,6 +410,7 @@ ALUB - Alussa Energy Acquisition Corp. II Class A Ordinary Shares
 ALUR - Allurion Technologies, Inc. Common Stock
 ALV - Autoliv, Inc. Common Stock
 ALVO - Alvotech - Ordinary Shares
+ALVOW - Alvotech - Warrant
 ALX - Alexander's, Inc. Common Stock
 ALXO - ALX Oncology Holdings Inc. - Common Stock
 ALZN - Alzamend Neuro, Inc. - Common Stock
@@ -2696,6 +2697,7 @@ DGICA - Donegal Group, Inc. - Class A Common Stock
 DGICB - Donegal Group, Inc. - Class B Common Stock
 DGII - Digi International Inc. - Common Stock
 DGIN - VanEck Digital India ETF
+DGJA - FT Vest U.S. Equity Buffer & Digital Return ETF - January
 DGLO - First Trust RBA Deglobalization ETF
 DGNX - Diginex Limited - Ordinary Shares
 DGOC - FT Vest U.S. Equity Buffer & Digital Return ETF - October
@@ -4028,6 +4030,7 @@ FSEP - FT Vest U.S. Equity Buffer ETF - September
 FSFG - First Savings Financial Group, Inc. - Common Stock
 FSGS - First Trust SMID Growth Strength ETF
 FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
+FSHPR - Flag Ship Acquisition Corp. - Right
 FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
@@ -4164,7 +4167,6 @@ FXR - First Trust Industrials AlphaDEX
 FXU - First Trust Utilities AlphaDEX Fund
 FXY - Invesco CurrencyShares Japanese Yen Trust
 FXZ - First Trust Materials AlphaDEX Fund
-FYBR - Frontier Communications Parent, Inc. - Common Stock
 FYC - First Trust Small Cap Growth AlphaDEX Fund
 FYEE - Fidelity Yield Enhanced Equity ETF
 FYLD - Cambria Foreign Shareholder Yield ETF
@@ -4705,7 +4707,7 @@ HBNC - Horizon Bancorp, Inc. - Common Stock
 HBR - Canary HBAR ETF
 HBT - HBT Financial, Inc. - Common Stock
 HBTA - Horizon Expedition Plus ETF
-HBTC - Fortuna Hedged Bitcoin Fund
+HBTC - Fortuna Hedged Bitcoin ETF
 HCA - HCA Healthcare, Inc. Common Stock
 HCACU - Hall Chadwick Acquisition Corp. - Unit
 HCAI - Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares
@@ -5036,6 +5038,7 @@ IAUI - NEOS Gold High Income ETF
 IAUM - iShares Gold Trust Micro Shares
 IAUX - i-80 Gold Corp. Common Shares
 IBAC - IB Acquisition Corp. - Common Stock
+IBACR - IB Acquisition Corp. - Right
 IBAT - iShares Energy Storage & Materials ETF
 IBB - iShares Biotechnology ETF
 IBBQ - Invesco Nasdaq Biotechnology ETF
@@ -5414,6 +5417,7 @@ IPM - Intelligent Protection Management Corp.  - Common Stock
 IPO - Renaissance IPO ETF
 IPOD - Dune Acquisition Corporation II - Class A ordinary shares
 IPODU - Dune Acquisition Corporation II - Units
+IPODW - Dune Acquisition Corporation II - Warrants
 IPOS - Renaissance Capital Greenwich Fund
 IPSC - Century Therapeutics, Inc. - Common Stock
 IPST - Heritage Distilling Holding Company, Inc. - Common Stock
@@ -5497,7 +5501,9 @@ ITDI - iShares LifePath Target Date 2065 ETF
 ITDJ - iShares LifePath Target Date 2070 ETF
 ITEQ - Amplify BlueStar Israel Technology ETF
 ITGR - Integer Holdings Corporation Common Stock
+ITHA - ITHAX Acquisition Corp III - Class A Ordinary Shares
 ITHAU - ITHAX Acquisition Corp III - Units
+ITHAW - ITHAX Acquisition Corp III - Warrants
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
 ITOC - iTonic Holdings Ltd - Class A Ordinary Shares
@@ -5528,7 +5534,6 @@ IVOG - Vanguard S&P Mid-Cap 400 Growth ETF
 IVOL - Quadratic Interest Rate Volatility and Inflation Hedge ETF
 IVOO - Vanguard S&P Mid-Cap 400 ETF
 IVOV - Vanguard S&P Mid-Cap 400 Value ETF
-IVP - Inspire Veterinary Partners, Inc. - Class A Common Stock
 IVR - INVESCO MORTGAGE CAPITAL INC Common Stock
 IVRA - Invesco Real Assets ESG ETF
 IVRS - iShares Future Metaverse Tech and Communications ETF
@@ -9030,6 +9035,7 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
+SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SAM - Boston Beer Company, Inc. (The) Common Stock
@@ -9128,6 +9134,8 @@ SCHX - Schwab U.S. Large-Cap ETF
 SCHY - Schwab International Dividend Equity ETF
 SCHZ - Schwab US Aggregate Bond ETF
 SCI - Service Corporation International Common Stock
+SCII - SC II Acquisition Corp. - Class A ordinary share
+SCIIR - SC II Acquisition Corp. - Rights
 SCIIU - SC II Acquisition Corp. - Units
 SCIO - First Trust Structured Credit Income Opportunities ETF
 SCJ - iShares MSCI Japan Sm Cap
@@ -9919,7 +9927,6 @@ SXTP - 60 Degrees Pharmaceuticals, Inc. - Common Stock
 SXTPW - 60 Degrees Pharmaceuticals, Inc. - Warrant
 SY - So-Young International Inc. - American Depository Shares
 SYBT - Stock Yards Bancorp, Inc. - Common Stock
-SYBX - Synlogic, Inc. - Common Stock
 SYF - Synchrony Financial Common Stock
 SYFI - AB Short Duration High Yield ETF
 SYK - Stryker Corporation Common Stock
