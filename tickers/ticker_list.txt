@@ -76,7 +76,7 @@ ABXL - Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028
 ACA - Arcosa, Inc. Common Stock 
 ACAD - ACADIA Pharmaceuticals Inc. - Common Stock
 ACB - Aurora Cannabis Inc. - Common Shares
-ACCL - Acco Group Holdings Limited - Ordinary Shares
+ACCL - Acco Group Holdings Limited - Class A Ordinary Shares
 ACCO - Acco Brands Corporation Common Stock
 ACCS - ACCESS Newswire Inc. Common Stock
 ACDC - ProFrac Holding Corp. - Class A Common Stock
@@ -1250,11 +1250,10 @@ BKFI - BNY Mellon Active Core Bond ETF
 BKGI - BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
-BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
-BKKT - Bakkt Holdings, Inc. Class A Common Stock
+BKKT - Bakkt, Inc. Class A Common Stock
 BKLC - BNY Mellon US Large Cap Core Equity ETF
 BKLN - Invesco Senior Loan ETF
 BKMC - BNY Mellon US Mid Cap Core Equity ETF
@@ -4579,6 +4578,7 @@ GSGO - Goldman Sachs Growth Opportunities ETF
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
+GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -4677,6 +4677,7 @@ HAFC - Hanmi Financial Corporation - Common Stock
 HAFN - Hafnia Limited Common Shares
 HAIL - State Street SPDR S&P Kensho Smart Mobility ETF
 HAIN - The Hain Celestial Group, Inc. - Common Stock
+HAKY - Amplify HACK Cybersecurity Covered Call ETF
 HAL - Halliburton Company Common Stock
 HALO - Halozyme Therapeutics, Inc. - Common Stock
 HAO - Haoxi Health Technology Limited - Class A Ord Share
@@ -5404,6 +5405,7 @@ IPAV - Global X Infrastructure Development ex-U.S. ETF
 IPAY - Amplify Digital Payments ETF
 IPB - Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1
 IPCX - Inflection Point Acquisition Corp. III - Class A ordinary shares
+IPCXR - Inflection Point Acquisition Corp. III - Rights
 IPCXU - Inflection Point Acquisition Corp. III - Units
 IPDN - Professional Diversity Network, Inc. - Common Stock
 IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
@@ -5462,6 +5464,7 @@ IRTR - iShares LifePath Retirement ETF
 IRVH - Global X Interest Rate Volatility & Inflation Hedge ETF
 IRWD - Ironwood Pharmaceuticals, Inc. - Class A Common Stock
 ISBA - Isabella Bank Corporation - Common stock
+ISBG - IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF
 ISCB - iShares Morningstar Small-Cap ETF
 ISCF - iShares International Small-Cap Equity Factor ETF
 ISCG - iShares Morningstar Small-Cap Growth ETF
@@ -5480,6 +5483,7 @@ ISPR - Ispire Technology Inc. - Common Stock
 ISPY - ProShares S&P 500 High Income ETF
 ISRA - VanEck Israel ETF
 ISRG - Intuitive Surgical, Inc. - Common Stock
+ISSB - IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF
 ISSC - Innovative Solutions and Support, Inc. - Common Stock
 ISTB - iShares Core 1-5 Year USD Bond ETF
 ISTR - Investar Holding Corporation - Common Stock
@@ -6246,6 +6250,7 @@ LNGX - Global X U.S. Natural Gas ETF
 LNKB - LINKBANCORP, Inc. - Common Stock
 LNKS - Linkers Industries Limited - Class A Ordinary Shares
 LNN - Lindsay Corporation Common Stock
+LNOK - Defiance Daily Target 2X Long NOK ETF
 LNSR - LENSAR, Inc. - Common Stock
 LNT - Alliant Energy Corporation - Common Stock
 LNTH - Lantheus Holdings, Inc. - Common Stock
@@ -7011,7 +7016,7 @@ NAGE - Niagen Bioscience, Inc. - Common Stock
 NAII - Natural Alternatives International, Inc. - Common Stock
 NAIL - Direxion Daily Homebuilders & Supplies Bull 3X Shares
 NAK - Northern Dynasty Minerals, Ltd. Common Stock
-NAKA - Kindly MD, Inc. - Common Stock
+NAKA - Nakamoto Inc. - Common Stock
 NAMI - Jinxin Technology Holding Company - American Depositary Shares
 NAMM - Namib Minerals - Ordinary Shares
 NAMMW - Namib Minerals - Warrants
@@ -7488,7 +7493,6 @@ OAKM - Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
-OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
@@ -7580,6 +7584,7 @@ OLED - Universal Display Corporation - Common Stock
 OLLI - Ollie's Bargain Outlet Holdings, Inc. - Common Stock
 OLMA - Olema Pharmaceuticals, Inc. - Common Stock
 OLN - Olin Corporation Common Stock
+OLOX - Olenox Industries Inc. - Common Stock
 OLP - One Liberty Properties, Inc. Common Stock
 OLPX - Olaplex Holdings, Inc. - Common Stock
 OM - Outset Medical, Inc. - Common Stock
@@ -8089,6 +8094,7 @@ PLPC - Preformed Line Products Company - Common Stock
 PLRX - Pliant Therapeutics, Inc. - Common Stock
 PLRZ - Polyrizon Ltd. - Ordinary Shares
 PLSE - Pulse Biosciences, Inc - Common Stock
+PLSM - Pulsenmore Ltd. - Ordinary Shares
 PLT - Defiance Leveraged Long Income PLTR ETF
 PLTA - ProShares Ultra PLTR
 PLTD - Direxion Daily PLTR Bear 1X Shares
@@ -8517,7 +8523,6 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation - Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
-QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSI - Quantum-Si Incorporated - Class A Common Stock
 QSIAW - Quantum-Si Incorporated - Warrant
@@ -8566,6 +8571,7 @@ QVMM - Invesco S&P MidCap 400 QVM Multi-factor ETF
 QVMS - Invesco S&P SmallCap 600 QVM Multi-factor ETF
 QVOY - Q3 All-Season Active Rotation ETF Q3 All-Season Active Rotation ETF
 QWLD - SPDR MSCI World StrategicFactors ETF
+QXAS - Quantify 2X Daily Alt Season Crypto ETF
 QXO - QXO, Inc. Common Stock
 QXQ - SGI Enhanced Nasdaq-100 ETF
 QYLD - Global X NASDAQ 100 Covered Call ETF
@@ -9162,6 +9168,7 @@ SCWO - 374Water Inc. - common stock
 SCYB - Schwab High Yield Bond ETF
 SCYX - SCYNEXIS, Inc. - Common Stock
 SCZ - iShares MSCI EAFE Small-Cap ETF
+SCZM - Santacruz Silver Mining Ltd. - Common Shares
 SD - SandRidge Energy, Inc. Common Stock
 SDA - SunCar Technology Group Inc. - Ordinary Shares
 SDAWW - SunCar Technology Group Inc. - Warrant
@@ -9266,7 +9273,6 @@ SFYF - SoFi Social 50 ETF
 SFYX - SoFi Next 500 ETF
 SG - Sweetgreen, Inc. Class A Common Stock
 SGA - Saga Communications, Inc. - Class A Common Stock
-SGBX - Safe & Green Holdings Corp. - Common Stock
 SGC - Superior Group of Companies, Inc. - Common Stock
 SGDJ - Sprott Junior Gold Miners ETF
 SGDM - Sprott Gold Miners ETF
@@ -10043,7 +10049,6 @@ TCX - Tucows Inc. - Common Stock
 TD - Toronto Dominion Bank (The) Common Stock
 TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
-TDACW - Translational Development Acquisition Corp. - Warrants
 TDAQ - TappAlpha Innovation 100 Growth & Daily Income ETF
 TDAX - TDAQ Lift ETF
 TDAY - USA TODAY Co., Inc. Common Stock
@@ -10205,6 +10210,7 @@ TKNQ - Amplify Tokenization Technology ETF
 TKO - TKO Group Holdings, Inc. Class A Common Stock
 TKR - Timken Company (The) Common Stock
 TLCI - Touchstone International Equity ETF
+TLDR - The Laddered T-Bill ETF
 TLF - Tandy Leather Factory, Inc. - common stock
 TLH - iShares 10-20 Year Treasury Bond ETF
 TLIH - Ten-League International Holdings Limited - Ordinary Shares
@@ -10372,7 +10378,6 @@ TRTX - TPG RE Finance Trust, Inc. Common Stock
 TRTY - Cambria Trinity ETF
 TRU - TransUnion Common Stock
 TRUD - VanEck Consumer Discretionary TruSector ETF
-TRUE - TrueCar, Inc. - Common Stock
 TRUG - TruGolf Holdings, Inc. - Class A Common Stock
 TRUP - Trupanion, Inc. - Common Stock
 TRUT - VanEck Technology TruSector ETF
@@ -11163,7 +11168,6 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
-WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHTX - 2x Wheat ETF
@@ -11315,6 +11319,7 @@ XBP - XBP Global Holdings, Inc. - Common Stock
 XBPEW - XBP Global Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
 XC - WisdomTree True Emerging Markets Fund
+XCBEU - X3 Acquisition Corp. Ltd. - Unit
 XCCC - BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
 XCEM - Columbia EM Core ex-China ETF
 XCH - XCHG Limited - ADS
@@ -11587,7 +11592,7 @@ ZCBF - Global X Zero Coupon Bond 2034 ETF
 ZCBG - Global X Zero Coupon Bond 2035 ETF
 ZCMD - Zhongchao Inc. - Class A Ordinary Shares
 ZD - Ziff Davis, Inc. - Common Stock
-ZDAI - DirectBooking Technology Co., Ltd. - Ordinary Shares
+ZDAI - DirectBooking Technology Co., Ltd. - Class A Ordinary Shares
 ZDEK - Innovator Equity Defined Protection ETF - 1 Yr December
 ZDGE - Zedge, Inc. Class B Common Stock 
 ZECP - Zacks Earnings Consistent Portfolio ETF
