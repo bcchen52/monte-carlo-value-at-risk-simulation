@@ -609,6 +609,7 @@ ARBEW - Arbe Robotics Ltd. - Warrant
 ARBK - Argo Blockchain plc - American Depositary Shares
 ARCB - ArcBest Corporation - Common Stock
 ARCC - Ares Capital Corporation - Closed End Fund
+ARCIU - Archimedes Tech SPAC Partners III Co. - Unit
 ARCM - Arrow Reserve Capital Management ETF
 ARCO - Arcos Dorados Holdings Inc. Class A Shares
 ARCT - Arcturus Therapeutics Holdings Inc. - Common Stock
@@ -1182,7 +1183,6 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
-BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
@@ -1253,6 +1253,7 @@ BKFI - BNY Mellon Active Core Bond ETF
 BKGI - BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
+BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -1969,7 +1970,6 @@ CHMI - Cherry Hill Mortgage Investment Corporation Common Stock
 CHNR - China Natural Resources, Inc. - Common Shares
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
-CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -3323,6 +3323,7 @@ EQIX - Equinix, Inc. - Common Stock
 EQL - ALPS Equal Sector Weight ETF
 EQLT - iShares MSCI Emerging Markets Quality Factor ETF
 EQNR - Equinor ASA
+EQPT - EquipmentShare.com Inc - Common Stock
 EQR - Equity Residential Common Shares of Beneficial Interest
 EQRR - ProShares Equities for Rising Rates ETF
 EQS - Equus Total Return, Inc. Common Stock
@@ -4363,7 +4364,6 @@ GIND - Goldman Sachs India Equity ETF
 GINN - Goldman Sachs Innovate Equity ETF
 GINX - SGI Enhanced Global Income ETF
 GIPR - Generation Income Properties Inc. - Common stock
-GIPRW - Generation Income Properties Inc. - Warrant
 GIS - General Mills, Inc. Common Stock
 GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
 GIW - GigCapital8 Corp. - Class A Ordinary Shares
@@ -4499,12 +4499,15 @@ GOVT - iShares U.S. Treasury Bond ETF
 GOVX - GeoVax Labs, Inc. - Common Stock
 GOVZ - iShares 25  Year Treasury STRIPS Bond ETF
 GP - GreenPower Motor Company Inc. - Common Shares
+GPAC - General Purpose Acquisition Corp. - Class A Ordinary Shares
 GPACU - General Purpose Acquisition Corp. - Units
+GPACW - General Purpose Acquisition Corp. - Warrant
 GPAT - GP-Act III Acquisition Corp. - Class A Ordinary Share
 GPATU - GP-Act III Acquisition Corp. - Units
 GPATW - GP-Act III Acquisition Corp. - Warrants
 GPC - Genuine Parts Company Common Stock
 GPCR - Structure Therapeutics Inc. - American Depositary Shares
+GPGI - GPGI, Inc. Class A Common Stock
 GPI - Group 1 Automotive, Inc. Common Stock
 GPIQ - Goldman Sachs Nasdaq-100 Premium Income ETF
 GPIX - Goldman Sachs S&P 500 Premium Income ETF
@@ -4837,6 +4840,7 @@ HLNE - Hamilton Lane Incorporated - Class A Common Stock
 HLP - Hongli Group Inc. - Ordinary Shares
 HLT - Hilton Worldwide Holdings Inc. Common Stock 
 HLX - Helix Energy Solutions Group, Inc. Common Stock
+HLXC - Helix Acquisition Corp. III - Class A Ordinary Shares
 HMC - Honda Motor Company, Ltd. Common Stock
 HMN - Horace Mann Educators Corporation Common Stock
 HMOP - Hartford Municipal Opportunities ETF
@@ -7497,6 +7501,7 @@ OAKM - Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
+OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
@@ -8355,6 +8360,7 @@ PTN - Palatin Technologies, Inc. Common Stock
 PTNM - Pitanium Limited - Class A Ordinary Shares
 PTNQ - Pacer Trendpilot 100 ETF
 PTON - Peloton Interactive, Inc. - Common Stock
+PTORU - Praetorian Acquisition Corp. - Units
 PTRB - PGIM Total Return Bond ETF
 PTRN - Pattern Group Inc. - Series A Common Stock
 PTY - Pimco Corporate & Income Opportunity Fund
@@ -9106,6 +9112,7 @@ SBTU - T-REX 2X Long SBET Daily Target ETF
 SBU - Leverage Shares 2X Long SBUX Daily ETF
 SBUX - Starbucks Corporation - Common Stock
 SBXD - SilverBox Corp IV Class A Ordinary Shares
+SBXE - SilverBox Corp V Class A Ordinary Shares
 SCAG - Scage Future - American Depositary Shares
 SCAGW - Scage Future - Warrants
 SCAP - Infrastructure Capital Small Cap Income ETF
