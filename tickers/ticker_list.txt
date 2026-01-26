@@ -770,7 +770,6 @@ ATRO - Astronics Corporation - Common Stock
 ATS - ATS Corporation Common Shares
 ATTR - Arin Tactical Tail Risk ETF
 ATXG - Addentax Group Corp. - Common Stock
-ATXS - Astria Therapeutics, Inc. - Common Stock
 ATYR - aTyr Pharma, Inc. - Common Stock
 AU - AngloGold Ashanti PLC Ordinary Shares
 AUAU - Global X Gold Miners ETF
@@ -2211,7 +2210,6 @@ CORN - Teucrium Corn Fund ETV
 CORO - iShares International Country Rotation Active ETF
 CORP - PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund
 CORT - Corcept Therapeutics Incorporated - Common Stock
-CORX - 2x Corn ETF
 CORZ - Core Scientific, Inc. - Common Stock
 CORZW - Core Scientific, Inc. - Tranche 1 Warrants
 CORZZ - Core Scientific, Inc. - Tranche 2 Warrants
@@ -3323,7 +3321,7 @@ EQIX - Equinix, Inc. - Common Stock
 EQL - ALPS Equal Sector Weight ETF
 EQLT - iShares MSCI Emerging Markets Quality Factor ETF
 EQNR - Equinor ASA
-EQPT - EquipmentShare.com Inc - Common Stock
+EQPT - EquipmentShare.com Inc - Class A Common Stock
 EQR - Equity Residential Common Shares of Beneficial Interest
 EQRR - ProShares Equities for Rising Rates ETF
 EQS - Equus Total Return, Inc. Common Stock
@@ -3396,7 +3394,7 @@ ETH - Grayscale Ethereum Staking Mini ETF Shares
 ETHA - iShares Ethereum Trust ETF
 ETHD - ProShares UltraShort Ether ETF
 ETHE - Grayscale Ethereum Staking ETF Shares
-ETHI - Defiance Leveraged Long Income Ethereum ETF
+ETHI - Defiance Leveraged Long + Income Ethereum ETF
 ETHM - Dynamix Corporation - Class A Ordinary Share
 ETHMU - Dynamix Corporation - Unit
 ETHMW - Dynamix Corporation - Warrant
@@ -3545,6 +3543,8 @@ EZM - WisdomTree U.S. MidCap Fund
 EZMO - AlphaDroid Broad Markets Momentum ETF
 EZPW - EZCORP, Inc. - Class A Non-Voting Common Stock
 EZPZ - Franklin Crypto Index ETF
+EZRA - Reliance Global Group, Inc. - Common Stock
+EZRAW - Reliance Global Group, Inc. - Series A Warrants
 EZRO - AlphaDroid Defensive Sector Rotation ETF
 EZU - iShares MSCI Eurozone ETF
 F - Ford Motor Company Common Stock
@@ -4810,7 +4810,7 @@ HII - Huntington Ingalls Industries, Inc. Common Stock
 HIMS - Hims & Hers Health, Inc. Class A Common Stock
 HIMU - iShares High Yield Muni Active ETF
 HIMX - Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.
-HIMY - Defiance Leveraged Long Income HIMS ETF
+HIMY - Defiance Leveraged Long + Income HIMS ETF
 HIMZ - Defiance Daily Target 2X Long HIMS ETF
 HIND - Vyome Holdings, Inc. - Common Stock
 HIO - Western Asset High Income Opportunity Fund, Inc. Common Stock
@@ -4870,7 +4870,7 @@ HOMZ - Hoya Capital Housing ETF
 HON - Honeywell International Inc. - Common Stock
 HOOD - Robinhood Markets, Inc. - Class A Common Stock
 HOOG - Leverage Shares 2X Long HOOD Daily ETF
-HOOI - Defiance Leveraged Long Income HOOD ETF
+HOOI - Defiance Leveraged Long + Income HOOD ETF
 HOOW - Roundhill HOOD WeeklyPay ETF
 HOOX - Defiance Daily Target 2X Long HOOD ETF
 HOOY - YieldMax HOOD Option Income Strategy ETF
@@ -5330,7 +5330,7 @@ INDL - Direxion Daily MSCI India Bull 2X Shares
 INDO - Indonesia Energy Corporation Limited Ordinary Shares
 INDP - Indaptus Therapeutics, Inc. - Common Stock
 INDS - Pacer Industrial Real Estate ETF
-INDV - Indivior PLC - Ordinary Shares
+INDV - Indivior Pharmaceuticals, Inc.  - Common Stock
 INDY - iShares India 50 ETF
 INEO - INNEOVA Holdings Limited - Class A Ordinary Shares
 INEQ - Columbia International Equity Income ETF
@@ -5942,7 +5942,7 @@ KNOV - Innovator U.S. Small Cap Power Buffer ETF - November
 KNOW - Fundamentals First ETF Fundamentals First ETF
 KNRG - Simplify Kayne Anderson Energy and Infrastructure Credit ETF
 KNRX - KNOREX LTD. Class A Ordinary Shares
-KNSA - Kiniksa Pharmaceuticals, Ltd. - Class A Ordinary Shares
+KNSA - Kiniksa Pharmaceuticals International, plc - Class A Ordinary Shares
 KNSL - Kinsale Capital Group, Inc. Common Stock
 KNTK - Kinetik Holdings Inc. Class A Common Stock
 KNX - Knight-Swift Transportation Holdings Inc.
@@ -7449,7 +7449,6 @@ NWG - NatWest Group plc American Depositary Shares, (each representing two (2) O
 NWGL - CL Workshop Group Limited - American Depositary Shares
 NWL - Newell Brands Inc. - Common Stock
 NWLG - Nuveen Winslow Large-Cap Growth ESG ETF
-NWMX - Tradr 2X Long NEM Daily ETF
 NWN - Northwest Natural Holding Company Common Stock
 NWPX - NWPX Infrastructure, Inc. - Common Stock
 NWS - News Corporation - Class B Common Stock
@@ -7585,7 +7584,6 @@ OKLO - Oklo Inc. Class A common stock
 OKLS - Defiance Daily Target 2X Short OKLO ETF
 OKTA - Okta, Inc. - Class A Common Stock
 OKTG - Leverage Shares 2X Long OKTA Daily ETF
-OKTX - Tradr 2X Long OKTA Daily ETF
 OKUR - OnKure Therapeutics, Inc. - Class A Common Stock
 OKYO - OKYO Pharma Limited - Ordinary Shares
 OLB - The OLB Group, Inc. - Common Stock
@@ -8104,7 +8102,7 @@ PLRX - Pliant Therapeutics, Inc. - Common Stock
 PLRZ - Polyrizon Ltd. - Ordinary Shares
 PLSE - Pulse Biosciences, Inc - Common Stock
 PLSM - Pulsenmore Ltd. - Ordinary Shares
-PLT - Defiance Leveraged Long Income PLTR ETF
+PLT - Defiance Leveraged Long + Income PLTR ETF
 PLTA - ProShares Ultra PLTR
 PLTD - Direxion Daily PLTR Bear 1X Shares
 PLTG - Leverage Shares 2X Long PLTR Daily ETF
@@ -8543,7 +8541,6 @@ QSOL - Invesco Galaxy Solana ETF
 QSPT - FT Vest Nasdaq-100 Buffer ETF - September
 QSR - Restaurant Brands International Inc. Common Shares
 QSU - Defiance Daily Target 2X Long QS ETF
-QSX - Tradr 2X Long QS Daily ETF
 QTAC - Q3 All-Season Tactical Advantage ETF
 QTAP - Innovator Growth Accelerated Plus ETF - April
 QTEC - First Trust NASDAQ-100-Technology Sector Index Fund
@@ -8705,8 +8702,6 @@ REIT - ALPS Active REIT ETF
 REK - ProShares Short Real Estate
 REKR - Rekor Systems, Inc. - Common Stock
 REKT - Direxion Daily Crypto Industry Bear 1X Shares
-RELI - Reliance Global Group, Inc. - Common Stock
-RELIW - Reliance Global Group, Inc. - Series A Warrants
 RELL - Richardson Electronics, Ltd. - Common Stock
 RELX - RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)
 RELY - Remitly Global, Inc. - Common stock
@@ -9726,7 +9721,7 @@ SPXT - ProShares S&P 500 Ex-Technology ETF
 SPXU - ProShares UltraPro Short S&P500
 SPXV - ProShares S&P 500 Ex-Health Care ETF
 SPXX - Nuveen S&P 500 Dynamic Overwrite Fund
-SPY - SPDR S&P 500
+SPY - State Street SPDR S&P 500 ETF Trust
 SPYA - Twin Oak Endure ETF
 SPYC - Simplify US Equity PLUS Convexity ETF
 SPYD - State Street SPDR Portfolio S&P 500 High Dividend ETF
@@ -11186,7 +11181,6 @@ WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
-WHTX - 2x Wheat ETF
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
 WIA - Western Asset Inflation-Linked Income Fund
 WILC - G. Willi-Food International,  Ltd. - Ordinary Shares
