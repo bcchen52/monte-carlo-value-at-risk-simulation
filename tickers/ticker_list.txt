@@ -943,6 +943,7 @@ BANFP - BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities
 BANL - CBL International Limited - Class B Ordinary Shares
 BANR - Banner Corporation - Common Stock
 BANX - ArrowMark Financial Corp. - Closed End Fund
+BANXR - ArrowMark Financial Corp. - Right
 BAOS - Baosheng Media Group Holdings Limited - Ordinary shares
 BAP - Credicorp Ltd. Common Stock
 BAPR - Innovator U.S. Equity Buffer ETF - April
@@ -957,6 +958,7 @@ BATT - Amplify Lithium & Battery Technology ETF
 BAUG - Innovator U.S. Equity Buffer ETF - August
 BAX - Baxter International Inc. Common Stock
 BAYA - Bayview Acquisition Corp - Ordinary Share
+BAYAR - Bayview Acquisition Corp - Right
 BAYAU - Bayview Acquisition Corp - Unit
 BB - BlackBerry Limited Common Stock
 BBAG - JPMorgan BetaBuilders U.S. Aggregate Bond ETF
@@ -972,7 +974,9 @@ BBC - Virtus LifeSci Biotech Clinical Trials ETF
 BBCA - JPMorgan BetaBuilders Canada ETF
 BBCB - JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF
 BBCP - Concrete Pumping Holdings, Inc.  - Common Stock
+BBCQ - Bleichroeder Acquisition Corp. II - Class A Ordinary Shares
 BBCQU - Bleichroeder Acquisition Corp. II - Units
+BBCQW - Bleichroeder Acquisition Corp. II - Warrants
 BBD - Banco Bradesco Sa American Depositary Shares
 BBDC - Barings BDC, Inc. Common Stock
 BBDO - Banco Bradesco Sa American Depositary Shares (each representing one Common Share)
@@ -1278,7 +1282,7 @@ BKYI - BIO-key International, Inc. - Common Stock
 BL - BlackLine, Inc. - Common Stock
 BLBD - Blue Bird Corporation - Common Stock
 BLBX - Blackboxstocks Inc. - Common Stock
-BLCN - Siren Nasdaq NexGen Economy ETF
+BLCN - Siren NexGen Economy ETF
 BLCO - Bausch + Lomb Corporation Common Shares
 BLCR - iShares Large Cap Core Active ETF
 BLCV - iShares Large Cap Value Active ETF
@@ -3435,7 +3439,6 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -3697,6 +3700,7 @@ FELG - Fidelity Enhanced Large Cap Growth ETF
 FELV - Fidelity Enhanced Large Cap Value ETF
 FEM - First Trust Emerging Markets AlphaDEX Fund
 FEMB - First Trust Emerging Markets Local Currency Bond ETF
+FEMD - First Eagle Mid Cap Equity ETF
 FEMR - Fidelity Enhanced Emerging Markets ETF
 FEMS - First Trust Emerging Markets Small Cap AlphaDEX Fund
 FEMY - Femasys Inc. - Common Stock
@@ -3849,7 +3853,6 @@ FLEU - Franklin FTSE Eurozone ETF
 FLEX - Flex Ltd. - Ordinary Shares
 FLG - Flagstar Bank, N.A. Common Stock
 FLGB - Franklin FTSE United Kingdom ETF
-FLGC - Flora Growth Corp. - Common Stock
 FLGR - Franklin FTSE Germany ETF
 FLGT - Fulgent Genetics, Inc. - Common Stock
 FLGV - Franklin U.S. Treasury Bond ETF
@@ -4473,6 +4476,7 @@ GNTA - Genenta Science S.p.A. - American Depositary Shares
 GNTX - Gentex Corporation - Common Stock
 GNW - Genworth Financial Inc Common Stock
 GO - Grocery Outlet Holding Corp. - Common Stock
+GOAI - Eva Live Inc. - Common Stock
 GOAU - US Global GO Gold and Precious Metal Miners ETF
 GOCO - GoHealth, Inc. - Class A Common Stock
 GOCT - FT Vest U.S. Equity Moderate Buffer ETF - October
@@ -5706,6 +5710,7 @@ JHPI - John Hancock Preferred Income ETF
 JHS - John Hancock Income Securities Trust Common Stock
 JHSC - John Hancock Multifactor Small Cap ETF
 JHX - James Hardie Industries plc. Ordinary Shares
+JIDE - JPMorgan International Dynamic ETF
 JIG - JPMorgan International Growth ETF
 JIII - Janus Henderson Income ETF
 JILL - J. Jill, Inc. Common Stock
@@ -5980,6 +5985,7 @@ KPRX - Kiora Pharmaceuticals, Inc.  - Common Stock
 KPTI - Karyopharm Therapeutics Inc. - Common Stock
 KQQQ - Kurv Technology Titans Select ETF
 KR - Kroger Company (The) Common Stock
+KRAQU - KRAKacquisition Corp - Unit
 KRBN - KraneShares Global Carbon Strategy ETF
 KRC - Kilroy Realty Corporation Common Stock
 KRE - State Street SPDR S&P Regional Banking ETF
@@ -6017,6 +6023,7 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
+KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - T-REX 2X Long KTOS Daily Target ETF
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -6704,6 +6711,7 @@ MJSC - MUFG Japan Small Cap Active ETF
 MKAM - MKAM ETF
 MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
+MKDWW - MKDWELL Tech Inc. - Warrants
 MKL - Markel Group Inc. Common Stock
 MKLY - McKinley Acquisition Corporation - Class A Ordinary Shares
 MKLYR - McKinley Acquisition Corporation - Rights
@@ -8210,6 +8218,7 @@ PPCB - Propanc Biopharma, Inc. - Common Stock
 PPEM - Putnam PanAgora ESG Emerging Markets Equity ETF
 PPG - PPG Industries, Inc. Common Stock
 PPH - VanEck Pharmaceutical ETF
+PPHC - Public Policy Holding Company, Inc. - Common Stock
 PPI - Astoria Real Assets ETF
 PPIE - Putnam PanAgora ESG International Equity ETF
 PPIH - Perma-Pipe International Holdings, Inc. - Common Stock
@@ -8550,6 +8559,7 @@ QSU - Defiance Daily Target 2X Long QS ETF
 QTAC - Q3 All-Season Tactical Advantage ETF
 QTAP - Innovator Growth Accelerated Plus ETF - April
 QTEC - First Trust NASDAQ-100-Technology Sector Index Fund
+QTI - QT Imaging Holdings, Inc. - Common Stock
 QTJA - Innovator Growth Accelerated Plus ETF - January
 QTJL - Innovator Growth Accelerated Plus ETF - July
 QTOC - Innovator Growth Accelerated Plus ETF - October
@@ -8908,7 +8918,6 @@ RPID - Rapid Micro Biosystems, Inc. - Class A Common Stock
 RPM - RPM International Inc. Common Stock
 RPRX - Royalty Pharma plc - Class A Ordinary Shares
 RPT - Rithm Property Trust Inc. Common stock
-RPTX - Repare Therapeutics Inc. - Common Shares
 RPV - Invesco S&P 500 Pure Value ETF
 RQI - Cohen & Steers Quality Income Realty Fund Inc Common Shares
 RR - Richtech Robotics Inc. - Class B Common Stock
@@ -9038,6 +9047,7 @@ RZV - Invesco S&P SmallCap 600 Pure Value ETF
 S - SentinelOne, Inc. Class A Common Stock
 SA - Seabridge Gold, Inc. Ordinary Shares (Canada)
 SAA - ProShares Ultra SmallCap600
+SAAQU - Space Asset Acquisition Corp. - Units
 SABA - Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest
 SABR - Sabre Corporation - Common Stock
 SABS - SAB Biotherapeutics, Inc. - Common Stock
@@ -9054,7 +9064,6 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
-SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SAM - Boston Beer Company, Inc. (The) Common Stock
@@ -9313,7 +9322,6 @@ SHAG - WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund
 SHAK - Shake Shack, Inc. Class A Common Stock
 SHBI - Shore Bancshares, Inc. - Common Stock
 SHC - Sotera Health Company - Common Stock
-SHCO - Soho House & Co Inc. Class A Common Stock
 SHDG - Soundwatch Hedged Equity ETF
 SHE - State Street SPDR MSCI USA Gender Diversity ETF
 SHEH - Shell plc ADRhedged
@@ -10715,6 +10723,7 @@ USEG - U.S. Energy Corp. - Common Stock
 USEP - Innovator U.S. Equity Ultra Buffer ETF - September
 USEW - Cambria US EW ETF
 USFD - US Foods Holding Corp. Common Stock
+USFE - First Eagle US Equity ETF
 USFI - BrandywineGLOBAL - U.S. Fixed Income ETF
 USFR - WisdomTree Floating Rate Treasury Fund
 USG - USCF Gold Strategy Plus Income Fund
@@ -11031,7 +11040,6 @@ VSNT - Versant Media Group, Inc. - Class A Common Stock
 VSOL - VanEck Solana ETF
 VSS - Vanguard FTSE All-Wld ex-US SmCp Idx ETF
 VST - Vistra Corp. Common Stock
-VSTA - Vasta Platform Limited - Class A Ordinary Shares
 VSTD - Vestand Inc.  - Class A Common Stock
 VSTL - Defiance Daily Target 2X Long VST ETF
 VSTM - Verastem, Inc. - Common Stock
@@ -11663,6 +11671,7 @@ ZSC - USCF Sustainable Commodity Strategy Fund
 ZSEP - Innovator Equity Defined Protection ETF - 1 Yr September
 ZSL - ProShares UltraShort Silver
 ZSPC - zSpace, Inc. - Common stock
+ZSTK - ZeroStack Corp. - Common Stock
 ZTAX - X-Square Municipal Income ETF
 ZTEK - Zentek Ltd. - common stock
 ZTEN - F/m 10-Year Investment Grade Corporate Bond ETF
