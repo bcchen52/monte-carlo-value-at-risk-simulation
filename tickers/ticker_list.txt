@@ -1187,6 +1187,7 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
+BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
@@ -1194,6 +1195,7 @@ BIDG - Leverage Shares 2X Long BIDU Daily ETF
 BIDU - Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share
 BIGY - YieldMax Target 12 Big 50 Option Income ETF
 BIIB - Biogen Inc. - Common Stock
+BIII - Black Spade Acquisition III Co Class A Ordinary Shares
 BIL - State Street SPDR Bloomberg 1-3 Month T-Bill ETF
 BILD - Nomura Global Listed Infrastructure ETF
 BILI - Bilibili Inc. - American Depositary Shares
@@ -1333,7 +1335,6 @@ BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAX - REX Bitcoin Corporate Treasury Convertible Bond ETF
 BMAY - Innovator U.S. Equity Buffer ETF - May
 BMBL - Bumble Inc. - common stock
-BMDL - VictoryShares WestEnd Economic Cycle Bond ETF
 BME - Blackrock Health Sciences Trust
 BMEA - Biomea Fusion, Inc. - Common Stock
 BMED - iShares Health Innovation Active ETF
@@ -2015,7 +2016,6 @@ CIGL - Concorde International Group Ltd - Class A Ordinary Shares
 CII - BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock
 CIIT - Tianci International, Inc. - Common Stock
 CIK - Credit Suisse Asset Management Income Fund, Inc. Common Stock
-CIL - VictoryShares International Volatility Wtd ETF
 CIM - Chimera Investment Corporation Common Stock
 CIMN - Chimera Investment Corporation 9.000% Senior Notes due 2029
 CIMO - Chimera Investment Corporation 9.250% Senior Notes due 2029
@@ -2029,7 +2029,6 @@ CISO - CISO Global, Inc. - Common Stock
 CISS - C3is Inc. - Common Stock
 CITR - General Enterprise Ventures, Inc. Common Stock
 CIVB - Civista Bancshares, Inc.  - Common Stock
-CIVI - Civitas Resources, Inc. Common Stock
 CIX - CompX International Inc. Common Stock
 CJMB - Callan JMB Inc. - Common Stock
 CKX - CKX Lands, Inc. Common Stock
@@ -2864,6 +2863,7 @@ DRCT - Direct Digital Holdings, Inc. - Class A Common Stock
 DRD - DRDGOLD Limited American Depositary Shares
 DRDB - Roman DBDR Acquisition Corp. II - Ordinary shares
 DRDBU - Roman DBDR Acquisition Corp. II - Unit
+DRDBW - Roman DBDR Acquisition Corp. II - Warrants
 DRES - GMO Domestic Resilience ETF
 DRGN - Themes China Generative Artificial Intelligence ETF
 DRH - Diamondrock Hospitality Company - Common Stock
@@ -2885,7 +2885,9 @@ DRUG - Bright Minds Biosciences Inc. - common stock
 DRUP - GraniteShares Nasdaq Select Disruptors ETF
 DRV - Direxion Daily Real Estate Bear 3X Shares
 DRVN - Driven Brands Holdings Inc. - Common Stock
+DSAC - Daedalus Special Acquisition Corp. - Class A Ordinary Shares
 DSACU - Daedalus Special Acquisition Corp. - Unit
+DSACW - Daedalus Special Acquisition Corp. - Warrant
 DSEP - FT Vest U.S. Equity Deep Buffer ETF - September
 DSGN - Design Therapeutics, Inc. - Common Stock
 DSGR - Distribution Solutions Group, Inc. - Common Stock
@@ -3048,7 +3050,6 @@ ECAT - BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial I
 ECBK - ECB Bancorp, Inc. - Common Stock
 ECC - Eagle Point Credit Company Inc. Common Stock
 ECCC - Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031
-ECCF - Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029
 ECCU - Eagle Point Credit Company Inc. 7.75% Notes due 2030
 ECCV - Eagle Point Credit Company Inc. 5.375% Notes due 2029
 ECCW - Eagle Point Credit Company Inc. 6.75% Notes due 2031
@@ -4767,7 +4768,6 @@ HEFA - iShares Currency Hedged MSCI EAFE ETF
 HEFT - Hedgeye Fourth Turning ETF
 HEGD - Swan Hedged Equity US Large Cap ETF
 HEI - Heico Corporation Common Stock
-HEJD - VictoryShares Hedged Equity Income ETF
 HELE - Helen of Troy Limited - Common Stock
 HELO - JPMorgan Hedged Equity Laddered Overlay ETF
 HELP - Cybin Inc. - Common Stock
@@ -6025,6 +6025,7 @@ KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
 KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - T-REX 2X Long KTOS Daily Target ETF
+KTWOU - K2 Capital Acquisition Corporation - Units
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
 KURE - KraneShares MSCI All China Health Care Index ETF
@@ -6071,7 +6072,6 @@ LAKE - Lakeland Industries, Inc. - Common Stock
 LALT - First Trust Multi-Strategy Alternative ETF
 LAMR - Lamar Advertising Company - Class A Common Stock
 LAND - Gladstone Land Corporation - Common Stock
-LANDM - Gladstone Land Corporation - 5.00% Series D Cumulative Term Preferred Stock
 LANDO - Gladstone Land Corporation - 6.00% Series B Cumulative Redeemable Preferred Stock
 LANDP - Gladstone Land Corporation - 6.00% Series C Cumulative Redeemable Preferred Stock
 LANV - Lanvin Group Holdings Limited Ordinary Shares
@@ -6209,6 +6209,7 @@ LIDR - AEye, Inc. - Class A Common Stock
 LIDRW - AEye, Inc. - Warrant
 LIEN - Chicago Atlantic BDC, Inc. - Common Stock
 LIF - Life360, Inc. - Common Stock
+LIFE - Ethos Technologies Inc. - Class A Common Stock
 LIFT - LifeX 2028 Income Bucket ETF
 LII - Lennox International, Inc. Common Stock
 LILA - Liberty Latin America Ltd. - Class A Common Stock
@@ -6348,7 +6349,7 @@ LSAK - Lesaka Technologies, Inc. - Common Stock
 LSAT - LeaderShares AlphaFactor Tactical Focused ETF
 LSBK - Lake Shore Bancorp, Inc. - Common Stock
 LSCC - Lattice Semiconductor Corporation - Common Stock
-LSE - Leishen Energy Holding Co., Ltd. - Ordinary Shares
+LSE - Leishen Energy Holding Co., Ltd. - Class A Ordinary Shares
 LSEQ - Harbor Long-Short Equity ETF
 LSF - Laird Superfood, Inc. Common Stock
 LSGR - Natixis Loomis Sayles Focused Growth ETF
@@ -7155,7 +7156,6 @@ NEWTG - NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2029
 NEWTH - NewtekOne, Inc. - 8.625% Fixed Rate Senior Notes due 2029
 NEWTI - NewtekOne, Inc. - 8.00% Fixed Rate Senior Notes due 2028
 NEWTP - NewtekOne, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.500% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B
-NEWTZ - NewtekOne, Inc. - 5.50% Notes Due 2026
 NEWZ - StockSnips AI-Powered Sentiment US All Cap ETF
 NEXA - Nexa Resources S.A. Common Shares
 NEXM - NexMetals Mining Corp. - Common Stock
@@ -7800,7 +7800,6 @@ PAC - Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del 
 PACB - Pacific Biosciences of California, Inc. - Common Stock
 PACH - Pioneer Acquisition I Corp - Class A Ordinary Shares
 PACHU - Pioneer Acquisition I Corp - Units
-PACHW - Pioneer Acquisition I Corp - Warrants
 PACK - Ranpak Holdings Corp Class A Common Stock
 PACS - PACS Group, Inc. Common Stock
 PAG - Penske Automotive Group, Inc. Common Stock
@@ -7869,7 +7868,7 @@ PBJA - PGIM S&P 500 Buffer 20 ETF - January
 PBJL - PGIM S&P 500 Buffer 20 ETF - July
 PBJN - PGIM S&P 500 Buffer 20 ETF - June
 PBL - PGIM Portfolio Ballast ETF
-PBM - Psyence Biomedical Ltd. - Ordinary Shares
+PBM - Psyence Biomedical Ltd. - Common Shares
 PBMR - PGIM S&P 500 Buffer 20 ETF - March
 PBMWW - Psyence Biomedical Ltd. - Warrant
 PBMY - PGIM S&P 500 Buffer 20 ETF - May
@@ -8057,6 +8056,7 @@ PHYS - Sprott Physical Gold Trust ETV
 PI - Impinj, Inc. - Common Stock
 PICB - Invesco International Corporate Bond ETF
 PICK - iShares MSCI Global Select Metals & Mining Producers Fund
+PICS - PicS N.V. - Class A Common Shares
 PID - Invesco International Dividend Achievers ETF
 PIE - Invesco Dorsey Wright Emerging Markets Momentum ETF
 PIEL - Pacer International Export Leaders ETF
@@ -8466,6 +8466,7 @@ QDVO - Amplify CWP Growth & Income ETF
 QEFA - SPDR MSCI EAFE StrategicFactors ETF
 QEMM - SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
+QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
 QFHD - Pacer S&P 500 Quality FCF High Dividend ETF
@@ -10309,6 +10310,7 @@ TNON - Tenon Medical, Inc. - Common Stock
 TNONW - Tenon Medical, Inc. - Warrant
 TNUK - Tortoise Nuclear Renaissance ETF
 TNXP - Tonix Pharmaceuticals Holding Corp. - Common Stock
+TNXT - T. Rowe Price Innovation Leaders ETF
 TNYA - Tenaya Therapeutics, Inc. - Common Stock
 TOAK - Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF
 TOCT - Innovator Equity Defined Protection ETF - 2 Yr to October 2027
@@ -10329,6 +10331,7 @@ TOPP - Toppoint Holdings Inc. Common Stock
 TOPS - TOP Ships, Inc. Common Stock
 TOPT - iShares Top 20 U.S. Stocks ETF
 TORO - Toro Corp. - Common stock
+TOS - Twin Oak Strategic Solutions ETF
 TOST - Toast, Inc. Class A Common Stock
 TOT - LionShares U.S. Equity Total Return ETF
 TOTL - State Street DoubleLine Total Return Tactical ETF
@@ -11494,6 +11497,7 @@ XSD - State Street SPDR S&P Semiconductor ETF
 XSEP - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September
 XSHD - Invesco S&P SmallCap High Dividend Low Volatility ETF
 XSHQ - Invesco S&P SmallCap Quality ETF
+XSLLU - Xsolla SPAC 1 - Units
 XSLV - Invesco S&P SmallCap Low Volatility ETF
 XSMO - Invesco S&P SmallCap Momentum ETF
 XSOE - WisdomTree Emerging Markets Ex-State Owned Enterprises Fund
@@ -11594,6 +11598,7 @@ YRD - Yiren Digital Ltd. American Depositary Shares, each representing two ordin
 YSEP - FT Vest International Equity Buffer ETF - September
 YSG - Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares
 YSPY - GraniteShares YieldBOOST SPY ETF
+YSS - York Space Systems Inc. Common Stock
 YSXT - YSX Tech. Co., Ltd  - Class A Ordinary Shares
 YTRA - Yatra Online, Inc. - Ordinary Shares
 YUM - Yum! Brands, Inc.
