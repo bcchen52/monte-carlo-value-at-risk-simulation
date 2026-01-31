@@ -1464,7 +1464,6 @@ BRKU - Direxion Daily BRKB Bull 2X Shares
 BRKW - Roundhill BRKB WeeklyPay ETF
 BRLN - iShares Floating Rate Loan Active ETF
 BRLS - Borealis Foods Inc. - Class A Common Shares
-BRLSW - Borealis Foods Inc. - Warrant
 BRLT - Brilliant Earth Group, Inc. - Class A Common Stock
 BRN - Barnwell Industries, Inc. Common Stock
 BRNS - Barinthus Biotherapeutics plc - American Depositary Shares
@@ -3096,6 +3095,7 @@ EDV - Vanguard Extended Duration Treasury ETF
 EDZ - Direxion Emerging Markets Bear 3X Shares
 EE - Excelerate Energy, Inc. Class A Common Stock
 EEA - The European Equity Fund, Inc. Common Stock
+EEE - CYBER HORNET S&P 500 and Ethereum 75/25 Strategy ETF
 EEFT - Euronet Worldwide, Inc. - Common Stock
 EEIQ - EpicQuest Education Group International Limited - Common Stock
 EELV - Invesco S&P Emerging Markets Low Volatility ETF
@@ -4040,7 +4040,6 @@ FSEP - FT Vest U.S. Equity Buffer ETF - September
 FSFG - First Savings Financial Group, Inc. - Common Stock
 FSGS - First Trust SMID Growth Strength ETF
 FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
-FSHPR - Flag Ship Acquisition Corp. - Right
 FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
@@ -4253,7 +4252,6 @@ GDE - WisdomTree Efficient Gold Plus Equity Strategy Fund
 GDEC - FT Vest U.S. Equity Moderate Buffer ETF - December
 GDEN - Golden Entertainment, Inc. - Common Stock
 GDEV - GDEV Inc. - Ordinary Shares
-GDEVW - GDEV Inc. - Warrant
 GDFN - Tema International Defense Innovation ETF
 GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
 GDIV - Harbor Dividend Growth Leaders ETF
@@ -5317,6 +5315,7 @@ IMVT - Immunovant, Inc.  - Common Stock
 IMXI - International Money Express, Inc. - Common Stock
 INAB - IN8bio, Inc. - Common Stock
 INAC - Indigo Acquisition Corp. - Ordinary Shares
+INACR - Indigo Acquisition Corp. - Right
 INACU - Indigo Acquisition Corp. - Unit
 INBK - First Internet Bancorp - Common Stock
 INBKZ - First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029
@@ -5422,6 +5421,7 @@ IPCXR - Inflection Point Acquisition Corp. III - Rights
 IPCXU - Inflection Point Acquisition Corp. III - Units
 IPDN - Professional Diversity Network, Inc. - Common Stock
 IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
+IPEXR - Inflection Point Acquisition Corp. - Right
 IPEXU - Inflection Point Acquisition Corp. - Unit
 IPGP - IPG Photonics Corporation - Common Stock
 IPHA - Innate Pharma S.A. - American Depositary Shares
@@ -6600,7 +6600,9 @@ MEMY - Tuttle Capital Meme Stock Income Blast ETF
 MENS - Jyong Biotech Ltd. - Ordinary shares
 MEOH - Methanex Corporation - Common Stock
 MERC - Mercer International Inc. - Common Stock
+MESH - Meshflow Acquisition Corp. - Class A Ordinary Shares
 MESHU - Meshflow Acquisition Corp. - Units
+MESHW - Meshflow Acquisition Corp. - Warrants
 MESO - Mesoblast Limited - American Depositary Shares
 MET - MetLife, Inc. Common Stock
 META - Meta Platforms, Inc. - Class A Common Stock
@@ -6613,6 +6615,7 @@ METL - Sprott Active Metals & Miners ETF
 METU - Direxion Daily META Bull 2X Shares
 METV - Roundhill Ball Metaverse ETF
 METW - Roundhill META WeeklyPay ETF
+MEVOU - M Evo Global Acquisition Corp II - Units
 MEXX - Direxion Daily MSCI Mexico Bull 3X Shares
 MFA - MFA Financial, Inc.
 MFAN - MFA Financial, Inc. 8.875% Senior Notes due 2029
@@ -6971,6 +6974,7 @@ MUSQ - MUSQ Global Music Industry Index ETF
 MUST - Columbia Multi-Sector Municipal Income ETF
 MUU - Direxion Daily MU Bull 2X Shares
 MUX - McEwen Inc. Common Stock
+MUZEU - Muzero Acquisition Corp - Unit
 MVAL - VanEck Morningstar Wide Moat Value ETF
 MVBF - MVB Financial Corp. - Common Stock
 MVF - Blackrock MuniVest Fund, Inc. Common Stock
@@ -7082,6 +7086,7 @@ NBN - Northeast Bank - Common Stock
 NBOS - Neuberger Option Strategy ETF
 NBP - NovaBridge Biosciences - American Depositary Shares
 NBR - Nabors Industries Ltd.
+NBRGU - Newbridge Acquisition Limited - Unit
 NBSD - Neuberger Berman Short Duration Income ETF
 NBSM - Neuberger Small-Mid Cap ETF
 NBTB - NBT Bancorp Inc. - Common Stock
@@ -7174,6 +7179,7 @@ NFLW - Roundhill NFLX WeeklyPay ETF
 NFLX - Netflix, Inc. - Common Stock
 NFLY - YieldMax NFLX Option Income Strategy ETF
 NFRA - FlexShares STOXX Global Broad Infrastructure Index Fund
+NFRX - Harrison Street Infrastructure Active ETF
 NFTY - First Trust India Nifty 50 Equal Weight ETF
 NFXL - Direxion Daily NFLX Bull 2X Shares
 NFXS - Direxion Daily NFLX Bear 1X Shares
@@ -7504,7 +7510,6 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - State Street SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
-OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -7517,7 +7522,6 @@ OAKM - Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
-OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
@@ -7640,6 +7644,7 @@ ONDL - Defiance Daily Target 2X Long ONDS ETF
 ONDS - Ondas Inc - Common Stock
 ONDU - Tradr 2X Long ONDS Daily ETF
 ONEG - OneConstruction Group Limited - Ordinary Shares
+ONEH - TrueShares Equity Hedge ETF
 ONEO - State Street SPDR Russell 1000 Momentum Focus ETF
 ONEQ - Fidelity Nasdaq Composite Index ETF
 ONEV - State Street SPDR Russell 1000 Low Volatility Focus ETF
@@ -7705,7 +7710,6 @@ ORIC - Oric Pharmaceuticals, Inc. - Common Stock
 ORIO - Orion Digital Corp. - Common Shares
 ORIQ - Origin Investment Corp I - Ordinary Shares
 ORIQU - Origin Investment Corp I - Units
-ORIQW - Origin Investment Corp I - Redeemable Warrant
 ORIS - Oriental Rise Holdings Limited - Ordinary Shares
 ORKA - Oruka Therapeutics, Inc. - Common Stock
 ORKT - Orangekloud Technology Inc. - Class A Ordinary Shares
@@ -8672,7 +8676,6 @@ RDACR - Rising Dragon Acquisition Corp. - Rights
 RDACU - Rising Dragon Acquisition Corp. - Unit
 RDAG - Republic Digital Acquisition Company - Class A Ordinary Shares
 RDAGU - Republic Digital Acquisition Company - Unit
-RDAGW - Republic Digital Acquisition Company - Warrants
 RDCM - Radcom Ltd. - Ordinary Shares
 RDDT - Reddit, Inc. Class A Common Stock
 RDFI - Rareview Dynamic Fixed Income ETF
@@ -8693,6 +8696,7 @@ RDVT - Red Violet, Inc. - Common Stock
 RDVY - First Trust Rising Dividend Achievers ETF
 RDW - Redwire Corporation Common Stock
 RDWR - Radware Ltd. - Ordinary Shares
+RDWU - T-REX 2X Long RDW Daily Target ETF
 RDY - Dr. Reddy's Laboratories Ltd Common Stock
 RDYY - YieldMax RDDT Option Income Strategy ETF
 RDZN - Roadzen, Inc. - Ordinary Shares
@@ -9205,7 +9209,6 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
-SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -9805,6 +9808,7 @@ SSO - ProShares Ultra S&P500
 SSP - E.W. Scripps Company (The) - Class A Common Stock
 SSPY - Stratified LargeCap Index ETF
 SSRM - SSR Mining Inc. - Common Stock
+SSS - CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF
 SSSS - SuRo Capital Corp. - Closed End Fund
 SSSSL - SuRo Capital Corp. - 6.00% Notes due 2026
 SST - System1, Inc. Class A Common Stock
@@ -10073,6 +10077,7 @@ TCX - Tucows Inc. - Common Stock
 TD - Toronto Dominion Bank (The) Common Stock
 TDAC - Translational Development Acquisition Corp. - Ordinary Shares
 TDACU - Translational Development Acquisition Corp. - Units
+TDACW - Translational Development Acquisition Corp. - Warrants
 TDAQ - TappAlpha Innovation 100 Growth & Daily Income ETF
 TDAX - TDAQ Lift ETF
 TDAY - USA TODAY Co., Inc. Common Stock
@@ -10910,6 +10915,7 @@ VHC - VirnetX Holding Corp - Common Stock
 VHCPU - Vine Hill Capital Investment Corp. II - Units
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
+VHUB - VenHub Global, Inc. - Common Stock
 VIA - Via Transportation, Inc. Class A Common Stock
 VIASP - Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock
 VIAV - Viavi Solutions Inc. - Common Stock
@@ -10970,6 +10976,7 @@ VNLA - Janus Henderson Short Duration Income ETF
 VNM - VanEck Vietnam ETF
 VNME - Vendome Acquisition Corporation I - Class A Ordinary Shares
 VNMEU - Vendome Acquisition Corporation I - Unit
+VNMEW - Vendome Acquisition Corporation I - Warrant
 VNO - Vornado Realty Trust Common Stock
 VNOM - Viper Energy, Inc.  - Class A Common Stock
 VNQ - Vanguard Real Estate ETF
@@ -11291,7 +11298,6 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
-WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
@@ -11531,6 +11537,7 @@ XXI - Twenty One Capital, Inc. Class A Common Stock
 XXII - 22nd Century Group, Inc - Common Stock
 XXRP - Teucrium 2x Long Daily XRP ETF
 XXV - Simplify Ancorato Target 25 Distribution ETF
+XXX - CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF
 XYF - X Financial American Depositary Shares, each representing six Class A Ordinary Shares
 XYL - Xylem Inc. Common Stock New
 XYLD - Global X S&P 500 Covered Call ETF
