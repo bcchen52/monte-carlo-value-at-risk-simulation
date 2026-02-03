@@ -12,7 +12,6 @@ AADR - AdvisorShares Dorsey Wright ADR ETF
 AAEQ - Alpha Architect US Equity 2 ETF
 AAL - American Airlines Group, Inc. - Common Stock
 AALG - Leverage Shares 2X Long AAL Daily ETF
-AAM - AA Mission Acquisition Corp. Class A Ordinary Shares
 AAME - Atlantic American Corporation - Common Stock
 AAMI - Acadian Asset Management Inc. Common Stock
 AAOI - Applied Optoelectronics, Inc. - Common Stock
@@ -852,6 +851,7 @@ AVSE - Avantis Responsible Emerging Markets Equity ETF
 AVSF - Avantis Short-Term Fixed Income ETF
 AVSU - Avantis Responsible U.S. Equity ETF
 AVT - Avnet, Inc. - Common Stock
+AVTM - Avantis Total Equity Markets ETF
 AVTR - Avantor, Inc. Common Stock
 AVTX - Avalo Therapeutics, Inc. - Common Stock
 AVUQ - Avantis U.S. Quality ETF
@@ -1308,6 +1308,7 @@ BLNE - Beeline Holdings, Inc. - Common Stock
 BLNK - Blink Charging Co. - Common Stock
 BLOK - Amplify Blockchain Technology ETF
 BLOX - Nicholas Crypto Income ETF
+BLRK - Bluerock Acquisition Corp. - Class A Ordinary Shares
 BLRKU - Bluerock Acquisition Corp. - Units
 BLRX - BioLineRx Ltd. - American Depositary Shares
 BLSG - Leverage Shares 2X Long BLSH Daily ETF
@@ -1975,6 +1976,7 @@ CHMI - Cherry Hill Mortgage Investment Corporation Common Stock
 CHNR - China Natural Resources, Inc. - Common Shares
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
+CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -2115,6 +2117,7 @@ CMSD - CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079
 CMT - Core Molding Technologies Inc Common Stock
 CMTG - Claros Mortgage Trust, Inc. Common Stock
 CMTL - Comtech Telecommunications Corp. - Common Stock
+CMTV - Community Bancorp.  - Common stock
 CMU - MFS Municipal Income Trust Common Stock
 CNA - CNA Financial Corporation Common Stock
 CNAV - Mohr Company Nav ETF
@@ -2591,6 +2594,7 @@ DDC - DDC Enterprise Limited Class A Ordinary Shares
 DDD - 3D Systems Corporation Common Stock
 DDEC - FT Vest U.S. Equity Deep Buffer ETF - December
 DDFD - Innovator Equity Dual Directional 15 Buffer ETF - December
+DDFF - Innovator Equity Dual Directional 15 Buffer ETF - February
 DDFJ - Innovator Equity Dual Directional 15 Buffer ETF - January
 DDFL - Innovator Equity Dual Directional 15 Buffer ETF - July
 DDFN - Innovator Equity Dual Directional 15 Buffer ETF - November
@@ -2607,6 +2611,7 @@ DDS - Dillard's, Inc. Common Stock
 DDSQ - Innovator Equity Dual Directional 5 Buffer ETF - Quarterly
 DDT - Dillard's Capital Trust I
 DDTD - Innovator Equity Dual Directional 10 Buffer ETF - December
+DDTF - Innovator Equity Dual Directional 10 Buffer ETF - February
 DDTJ - Innovator Equity Dual Directional 10 Buffer ETF - January
 DDTL - Innovator Equity Dual Directional 10 Buffer ETF - July
 DDTN - Innovator Equity Dual Directional 10 Buffer ETF - November
@@ -2884,6 +2889,7 @@ DRVN - Driven Brands Holdings Inc. - Common Stock
 DSAC - Daedalus Special Acquisition Corp. - Class A Ordinary Shares
 DSACU - Daedalus Special Acquisition Corp. - Unit
 DSACW - Daedalus Special Acquisition Corp. - Warrant
+DSCO - DoubleLine Securitized Credit ETF
 DSEP - FT Vest U.S. Equity Deep Buffer ETF - September
 DSGN - Design Therapeutics, Inc. - Common Stock
 DSGR - Distribution Solutions Group, Inc. - Common Stock
@@ -3437,6 +3443,7 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
+EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X Shares
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -3806,6 +3813,7 @@ FISR - State Street Fixed Income Sector Rotation ETF
 FISV - Fiserv, Inc. - Common Stock
 FITB - Fifth Third Bancorp - Common Stock
 FITBI - Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I
+FITBM - Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M
 FITBO - Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K
 FITBP - Fifth Third Bancorp - Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A
 FITE - State Street SPDR S&P Kensho Future Security ETF
@@ -4034,9 +4042,9 @@ FSCS - First Trust SMID Capital Strength ETF
 FSEA - First Seacoast Bancorp, Inc. - Common Stock
 FSEC - Fidelity Investment Grade Securitized ETF
 FSEP - FT Vest U.S. Equity Buffer ETF - September
-FSFG - First Savings Financial Group, Inc. - Common Stock
 FSGS - First Trust SMID Growth Strength ETF
 FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
+FSHPR - Flag Ship Acquisition Corp. - Right
 FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
@@ -4707,6 +4715,7 @@ HBAN - Huntington Bancshares Incorporated - Common Stock
 HBANL - Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock
 HBANM - Huntington Bancshares Incorporated - Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock
 HBANP - Huntington Bancshares Incorporated - Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock
+HBANZ - Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/1000th Interest in a Share of 5.50% Series L Non-Cumulative Perpetual Preferred Stock
 HBB - Hamilton Beach Brands Holding Company Class A Common Stock 
 HBCP - Home Bancorp, Inc. - Common Stock
 HBDC - Hilton BDC Corporate Bond ETF
@@ -5619,6 +5628,7 @@ JAJL - Innovator Equity Defined Protection ETF - 6mo Jan/Jul
 JAKK - JAKKS Pacific, Inc. - Common Stock
 JANB - Aptus January Buffer ETF
 JANH - Innovator Premium Income 20 Barrier ETF - January
+JANI - AllianzIM International Equity Buffer15 Uncapped Jan ETF
 JANJ - Innovator Premium Income 30 Barrier ETF - January
 JANM - FT Vest U.S. Equity Max Buffer ETF - January
 JANP - PGIM S&P 500 Buffer 12 ETF - January
@@ -6726,6 +6736,7 @@ MLAC - Mountain Lake Acquisition Corp. - Class A Ordinary Shares
 MLACR - Mountain Lake Acquisition Corp. - Right
 MLACU - Mountain Lake Acquisition Corp. - Units
 MLCI - Mount Logan Capital Inc. - Common Stock
+MLCIL - Mount Logan Capital Inc. - 8.00% Notes Due 2031
 MLCO - Melco Resorts & Entertainment Limited - American Depositary Shares 
 MLDR - Global X Intermediate-Term Treasury Ladder ETF
 MLEC - Moolec Science SA - Ordinary Shares
@@ -6827,6 +6838,7 @@ MPLT - MapLight Therapeutics, Inc. - Common Stock
 MPLX - MPLX LP Common Units Representing Limited Partner Interests
 MPLY - Monopoly ETF
 MPRO - Monarch ProCap Index ETF
+MPT - Medical Properties Trust, Inc. common stock
 MPTI - M-tron Industries, Inc. Common Stock
 MPU - Mega Matrix Inc. Class A Ordinary Shares
 MPV - Barings Participation Investors Common Stock
@@ -7203,7 +7215,6 @@ NIE - Virtus Equity & Convertible Income Fund Common Shares of Beneficial Intere
 NIHI - NEOS MSCI EAFE High Income ETF
 NIKL - Sprott Nickel Miners ETF
 NIM - Nuveen Select Maturities Municipal Fund Common Stock
-NINE - Nine Energy Service, Inc. Common Stock
 NIO - NIO Inc. American depositary shares, each  representing one Class A ordinary share
 NIOBW - NioCorp Developments Ltd. - Warrant
 NIOG - Leverage Shares 2X Long NIO Daily ETF
@@ -7375,6 +7386,7 @@ NTSX - WisdomTree U.S. Efficient Core Fund
 NTWK - NETSOL Technologies Inc. - Common Stock
 NTWO - Newbury Street II Acquisition Corp - Class A Ordinary Shares
 NTWOU - Newbury Street II Acquisition Corp - Unit
+NTWOW - Newbury Street II Acquisition Corp - Warrant
 NTZ - Natuzzi, S.p.A.
 NU - Nu Holdings Ltd. Class A Ordinary Shares
 NUAG - Nuveen Enhanced Yield U.S. Aggregate Bond ETF
@@ -7797,6 +7809,7 @@ PAC - Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del 
 PACB - Pacific Biosciences of California, Inc. - Common Stock
 PACH - Pioneer Acquisition I Corp - Class A Ordinary Shares
 PACHU - Pioneer Acquisition I Corp - Units
+PACHW - Pioneer Acquisition I Corp - Warrants
 PACK - Ranpak Holdings Corp Class A Common Stock
 PACS - PACS Group, Inc. Common Stock
 PAG - Penske Automotive Group, Inc. Common Stock
@@ -7897,7 +7910,6 @@ PCF - High Income Securities Fund Common Stock
 PCFI - Polen Floating Rate Income ETF
 PCG - Pacific Gas & Electric Co. Common Stock
 PCGG - Polen Capital Global Growth ETF
-PCH - PotlatchDeltic Corporation - Common Stock
 PCHI - Polen High Income ETF
 PCI - PGIM Corporate Bond 5-10 Year ETF
 PCIG - Polen Capital International Growth ETF
@@ -8136,6 +8148,7 @@ PLUS - ePlus inc. - Common Stock
 PLUT - Plutus Financial Group Limited - Ordinary Shares
 PLX - Protalix BioTherapeutics, Inc. (DE) Common Stock
 PLXS - Plexus Corp. - Common Stock
+PLYX - Polaryx Therapeutics, Inc. - Common Stock
 PLYY - GraniteShares YieldBOOST PLTR ETF
 PM - Philip Morris International Inc Common Stock
 PMAP - PGIM S&P 500 Max Buffer ETF - April
@@ -8544,6 +8557,7 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation - Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
+QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSI - Quantum-Si Incorporated - Class A Common Stock
 QSIAW - Quantum-Si Incorporated - Warrant
@@ -8669,6 +8683,7 @@ RDACR - Rising Dragon Acquisition Corp. - Rights
 RDACU - Rising Dragon Acquisition Corp. - Unit
 RDAG - Republic Digital Acquisition Company - Class A Ordinary Shares
 RDAGU - Republic Digital Acquisition Company - Unit
+RDAGW - Republic Digital Acquisition Company - Warrants
 RDCM - Radcom Ltd. - Ordinary Shares
 RDDT - Reddit, Inc. Class A Common Stock
 RDFI - Rareview Dynamic Fixed Income ETF
@@ -8785,6 +8800,7 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
+RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -9201,6 +9217,7 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
+SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -11200,6 +11217,7 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
+WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
@@ -11291,6 +11309,7 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
+WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
