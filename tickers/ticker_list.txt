@@ -451,7 +451,9 @@ AMODW - Alpha Modus Holdings, Inc. - Warrant
 AMOM - QRAFT AI-Enhanced U.S. Large Cap Momentum ETF
 AMP - Ameriprise Financial, Inc. Common Stock
 AMPG - Amplitech Group, Inc. - Common Stock
+AMPGR - Amplitech Group, Inc. - Series A Right
 AMPGW - Amplitech Group, Inc. - Warrants
+AMPGZ - Amplitech Group, Inc. - Series B Right
 AMPH - Amphastar Pharmaceuticals, Inc. - Common Stock
 AMPL - Amplitude, Inc. - Class A Common Stock
 AMPX - Amprius Technologies, Inc. Common Stock
@@ -515,6 +517,7 @@ ANSCU - Agriculture & Natural Solutions Acquisition Corporation - Unit
 ANSCW - Agriculture & Natural Solutions Acquisition Corporation - Warrant
 ANTA - Antalpha Platform Holding Company - Class A Ordinary Shares
 ANTX - AN2 Therapeutics, Inc. - Common Stock
+ANV - GraniteShares Autocallable NVDA ETF
 ANVS - Annovis Bio, Inc. Common Stock
 ANY - Sphere 3D Corp. - Common Shares
 AOA - iShares Core 80/20 Aggressive Allocation ETF
@@ -556,7 +559,6 @@ APLE - Apple Hospitality REIT, Inc. Common Shares
 APLM - Apollomics Inc. - Class A Ordinary Shares
 APLMW - Apollomics Inc. - Warrant
 APLS - Apellis Pharmaceuticals, Inc. - Common Stock
-APLT - Applied Therapeutics, Inc. - Common Stock
 APLU - Allspring Core Plus ETF
 APLX - Tradr 2X Long APLD Daily ETF
 APLY - YieldMax AAPL Option Income Strategy ETF
@@ -1291,6 +1293,7 @@ BLD - TopBuild Corp. Common Stock
 BLDG - Cambria Global Real Estate ETF
 BLDP - Ballard Power Systems, Inc. - Common Shares
 BLDR - Builders FirstSource, Inc. Common Stock
+BLDX - Impax Global Infrastructure ETF
 BLE - BlackRock Municipal Income Trust II
 BLES - Inspire Global Hope ETF
 BLFS - BioLife Solutions, Inc. - Common Stock
@@ -1310,6 +1313,7 @@ BLOK - Amplify Blockchain Technology ETF
 BLOX - Nicholas Crypto Income ETF
 BLRK - Bluerock Acquisition Corp. - Class A Ordinary Shares
 BLRKU - Bluerock Acquisition Corp. - Units
+BLRKW - Bluerock Acquisition Corp. - Warrants
 BLRX - BioLineRx Ltd. - American Depositary Shares
 BLSG - Leverage Shares 2X Long BLSH Daily ETF
 BLSH - Bullish Ordinary Shares
@@ -1572,6 +1576,7 @@ BTT - BlackRock Municipal 2030 Target Term Trust
 BTTC - Black Titan Corp - Ordinary Shares
 BTU - Peabody Energy Corporation Common Stock 
 BTX - BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest
+BTYB - VistaShares BitBonds 5 Yr Enhanced Weekly Distribution ETF
 BTZ - BlackRock Credit Allocation Income Trust
 BU - Defiance Daily Target 2X Long BU ETF
 BUCK - Simplify Treasury Option Income ETF
@@ -2551,7 +2556,6 @@ DAVE - Dave Inc.  - Class A Common Stock
 DAVEW - Dave Inc.  - Warrants
 DAWN - Day One Biopharmaceuticals, Inc. - Common Stock
 DAX - Global X DAX Germany ETF
-DAY - Dayforce, Inc. Common Stock
 DB - Deutsche Bank AG Common Stock
 DBA - Invesco DB Agriculture Fund
 DBAW - Xtrackers MSCI All World ex US Hedged Equity ETF
@@ -3577,9 +3581,6 @@ FARM - Farmer Brothers Company - Common Stock
 FARX - Frontier Asset Absolute Return ETF
 FAS - Direxion Financial Bull 3X Shares
 FAST - Fastenal Company - Common Stock
-FAT - FAT Brands Inc. - Common Stock
-FATBB - FAT Brands Inc. - Class B Common Stock
-FATBP - FAT Brands Inc. - 8.25% Series B Cumulative Preferred Stock
 FATE - Fate Therapeutics, Inc. - Common Stock
 FATN - FatPipe, Inc. - common stock
 FAUG - FT Vest U.S. Equity Buffer ETF - August
@@ -4256,6 +4257,7 @@ GDE - WisdomTree Efficient Gold Plus Equity Strategy Fund
 GDEC - FT Vest U.S. Equity Moderate Buffer ETF - December
 GDEN - Golden Entertainment, Inc. - Common Stock
 GDEV - GDEV Inc. - Ordinary Shares
+GDEVW - GDEV Inc. - Warrant
 GDFN - Tema International Defense Innovation ETF
 GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
 GDIV - Harbor Dividend Growth Leaders ETF
@@ -4944,7 +4946,6 @@ HTCO - High-Trend International Group - Class A Ordinary Shares
 HTCR - Heartcore Enterprises, Inc. - Common Stock
 HTD - John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
 HTEC - ROBO Global Healthcare Technology and Innovation ETF
-HTFB - Horizon Technology Finance Corporation 4.875% Notes due 2026
 HTFC - Horizon Technology Finance Corporation 6.25% Notes due 2027
 HTFL - Heartflow, Inc. - Common Stock
 HTGC - Hercules Capital, Inc. Common Stock
@@ -5495,8 +5496,6 @@ ISMD - Inspire Small/Mid Cap ETF
 ISMF - iShares Managed Futures Active ETF
 ISOU - IsoEnergy Ltd. Common Shares
 ISPC - iSpecimen Inc. - Common Stock
-ISPO - Inspirato Incorporated - Class A Common Stock
-ISPOW - Inspirato Incorporated - Warrant
 ISPR - Ispire Technology Inc. - Common Stock
 ISPY - ProShares S&P 500 High Income ETF
 ISRA - VanEck Israel ETF
@@ -7515,6 +7514,7 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - State Street SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -8660,6 +8660,7 @@ RBRK - Rubrik, Inc. Class A Common Stock
 RBUF - Innovator U.S. Small Cap 10 Buffer ETF - Quarterly
 RC - Ready Capital Corporation Common Stock
 RCAT - Red Cat Holdings, Inc. - Common Stock
+RCAX - Defiance Daily Target 2x Long RCAT ETF
 RCB - Ready Capital Corporation 6.20% Senior Notes due 2026
 RCC - Ready Capital Corporation 5.75% Senior Notes due 2026
 RCD - Ready Capital Corporation 9.00% Senior Notes due 2029
@@ -9077,6 +9078,7 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
+SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SAM - Boston Beer Company, Inc. (The) Common Stock
@@ -9113,7 +9115,7 @@ SBC - SBC Medical Group Holdings Incorporated - Common Stock
 SBCF - Seacoast Banking Corporation of Florida - Common Stock
 SBCWW - SBC Medical Group Holdings Incorporated - Warrants
 SBDS - Solo Brands, Inc. Class A Common Stock
-SBET - SharpLink Gaming, Inc. - Common Stock
+SBET - SharpLink, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
@@ -10250,6 +10252,7 @@ TKNO - Alpha Teknova, Inc. - Common Stock
 TKNQ - Amplify Tokenization Technology ETF
 TKO - TKO Group Holdings, Inc. Class A Common Stock
 TKR - Timken Company (The) Common Stock
+TLA - GraniteShares Autocallable TSLA ETF
 TLCI - Touchstone International Equity ETF
 TLDR - The Laddered T-Bill ETF
 TLF - Tandy Leather Factory, Inc. - common stock
@@ -10538,7 +10541,6 @@ TWLVR - Twelve Seas Investment Company III - Rights
 TWLVU - Twelve Seas Investment Company III - Units
 TWM - ProShares UltraShort Russell2000
 TWN - Taiwan Fund, Inc. (The) Common Stock
-TWNP - Twin Hospitality Group Inc. - Class A Common Stock
 TWO - Two Harbors Investment Corp
 TWOD - Two Harbors Investments Corp 9.375% Senior Notes due 2030
 TWOX - iShares Large Cap Accelerated Outcome ETF
@@ -11358,6 +11360,7 @@ XAUG - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August
 XB - BondBloxx B-Rated USD High Yield Corporate Bond ETF
 XBAP - Innovator U.S. Equity Accelerated 9 Buffer ETF - April
 XBB - BondBloxx BB-Rated USD High Yield Corporate Bond ETF
+XBCI - NEOS Boosted Bitcoin High Income ETF
 XBI - State Street SPDR S&P Biotech ETF
 XBIL - US Treasury 6 Month Bill ETF
 XBIO - Xenetic Biosciences, Inc. - Common Stock
@@ -11493,6 +11496,7 @@ XPOF - Xponential Fitness, Inc. Class A Common Stock
 XPON - Expion360 Inc. - Common Stock
 XPP - ProShares Ultra FTSE China 50
 XPRO - Expro Group Holdings N.V. Common Stock
+XQQI - NEOS Boosted Nasdaq-100 High Income ETF
 XRAY - DENTSPLY SIRONA Inc. - Common Stock
 XRLV - Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF
 XRLX - FundX Conservative ETF
@@ -11519,6 +11523,7 @@ XSLLU - Xsolla SPAC 1 - Units
 XSLV - Invesco S&P SmallCap Low Volatility ETF
 XSMO - Invesco S&P SmallCap Momentum ETF
 XSOE - WisdomTree Emerging Markets Ex-State Owned Enterprises Fund
+XSPI - NEOS Boosted S&P 500 High Income ETF
 XSVM - Invesco S&P SmallCap Value with Momentum ETF
 XSVN - BondBloxx Bloomberg Seven Year Target Duration US Treasury ETF
 XSW - State Street SPDR S&P Software & Services ETF
