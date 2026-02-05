@@ -880,7 +880,6 @@ AXIL - AXIL Brands, Inc. Common Stock
 AXIN - Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares
 AXINR - Axiom Intelligence Acquisition Corp 1 - Right
 AXINU - Axiom Intelligence Acquisition Corp 1 - Units
-AXL - American Axle & Manufacturing Holdings, Inc. Common Stock
 AXON - Axon Enterprise, Inc. - Common Stock
 AXP - American Express Company Common Stock
 AXR - AMREP Corporation Common Stock
@@ -3573,7 +3572,7 @@ FAD - First Trust Multi Cap Growth AlphaDEX Fund
 FAF - First American Corporation (New) Common Stock
 FAI - First Trust Bloomberg Artificial Intelligence ETF
 FALN - iShares Fallen Angels USD Bond ETF
-FAMI - Farmmi, INC. - Ordinary Shares
+FAMI - Farmmi, INC. - Class A Ordinary Share
 FAN - First Trust Global Wind Energy ETF
 FANG - Diamondback Energy, Inc. - Common Stock
 FAPR - FT Vest U.S. Equity Buffer ETF - April
@@ -4421,7 +4420,6 @@ GLO - Clough Global Opportunities Fund Common Stock
 GLOB - Globant S.A. Common Shares
 GLOF - iShares Global Equity Factor ETF
 GLOO - Gloo Holdings, Inc. - Common Stock
-GLOV - Goldman Sachs ActiveBeta World Low Vol Plus Equity ETF
 GLOW - VictoryShares WestEnd Global Equity ETF
 GLP - Global Partners LP Common Units representing Limited Partner Interests
 GLPG - Galapagos NV - American Depositary Shares
@@ -4617,7 +4615,7 @@ GSRFR - GSR IV Acquisition Corp. - Rights
 GSRFU - GSR IV Acquisition Corp. - Units
 GSSC - GS ActiveBeta U.S. Small Cap Equity ETF
 GSST - Goldman Sachs Ultra Short Bond ETF
-GSUN - Golden Sun Health Technology Group Limited - Class A Ordinary Shares
+GSUN - Golden Sun Technology Group Limited - Class A Ordinary Shares
 GSUS - Goldman Sachs MarketBeta U.S. Equity ETF
 GSX - Tradr 2X Long GS Daily ETF
 GSY - Invesco Ultra Short Duration ETF
@@ -4963,7 +4961,6 @@ HTZWW - Hertz Global Holdings, Inc - Warrant
 HUBB - Hubbell Inc Common Stock
 HUBC - Hub Cyber Security Ltd. - Ordinary Shares
 HUBCW - Hub Cyber Security Ltd. - Warrant expiring 2/27/28
-HUBCZ - Hub Cyber Security Ltd. - Warrant
 HUBG - Hub Group, Inc. - Class A Common Stock
 HUBS - HubSpot, Inc. Common Stock
 HUDI - Huadi International Group Co., Ltd. - Ordinary Shares
@@ -6009,6 +6006,7 @@ KRRO - Korro Bio, Inc. - Common Stock
 KRSP - Rice Acquisition Corporation 3 Class A Ordinary Shares
 KRT - Karat Packaging Inc. - Common Stock
 KRUS - Kura Sushi USA, Inc. - Class A Common Stock
+KRYP - ProShares CoinDesk 20 Crypto ETF
 KRYS - Krystal Biotech, Inc. - Common Stock
 KSA - iShares MSCI Saudi Arabia ETF
 KSCP - Knightscope, Inc. - Class A Common Stock
@@ -6451,6 +6449,7 @@ MAMB - Monarch Ambassador Income Index ETF
 MAMK - MaxsMaking Inc. - Class A Ordinary Shares
 MAMO - Massimo Group - Common Stock
 MAN - ManpowerGroup Common Stock
+MANE - Veradermics, Incorporated Common Stock
 MANH - Manhattan Associates, Inc. - Common Stock
 MANI - Man Active Income ETF
 MANU - Manchester United Ltd. Class A Ordinary Shares
@@ -6861,6 +6860,7 @@ MRM - MEDIROM Healthcare Technologies Inc. - American Depositary Share
 MRNA - Moderna, Inc. - Common Stock
 MRNO - Murano Global Investments PLC - Ordinary Shares
 MRNOW - Murano Global Investments PLC - Warrants
+MRNX - Defiance Daily Target 2X Long MRNA ETF
 MRNY - YieldMax MRNA Option Income Strategy ETF
 MRP - Millrose Properties, Inc. Class A Common Stock
 MRSH - Marsh Common Stock
@@ -7531,6 +7531,7 @@ OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
 OBA - Oxley Bridge Acquisition Limited - Class A Ordinary Shares
+OBAI - TG-17, Inc. - Common Stock
 OBAWU - Oxley Bridge Acquisition Limited - Unit
 OBAWW - Oxley Bridge Acquisition Limited - Warrants
 OBDC - Blue Owl Capital Corporation Common Stock
@@ -7715,6 +7716,7 @@ ORIC - Oric Pharmaceuticals, Inc. - Common Stock
 ORIO - Orion Digital Corp. - Common Shares
 ORIQ - Origin Investment Corp I - Ordinary Shares
 ORIQU - Origin Investment Corp I - Units
+ORIQW - Origin Investment Corp I - Redeemable Warrant
 ORIS - Oriental Rise Holdings Limited - Ordinary Shares
 ORKA - Oruka Therapeutics, Inc. - Common Stock
 ORKT - Orangekloud Technology Inc. - Class A Ordinary Shares
@@ -9014,6 +9016,7 @@ RVTY - Revvity, Inc. Common Stock
 RVYL - Ryvyl Inc. - Common Stock
 RW - Rainwater Equity ETF
 RWAY - Runway Growth Finance Corp. - Common Stock
+RWAYI - Runway Growth Finance Corp. - 7.25% Notes due 2031
 RWAYL - Runway Growth Finance Corp. - 7.50% Notes due 2027
 RWAYZ - Runway Growth Finance Corp. - 8.00% Notes due 2027
 RWEM - Rayliant Wilshire NxtGen Emerging Markets Equity ETF
@@ -9115,7 +9118,7 @@ SBC - SBC Medical Group Holdings Incorporated - Common Stock
 SBCF - Seacoast Banking Corporation of Florida - Common Stock
 SBCWW - SBC Medical Group Holdings Incorporated - Warrants
 SBDS - Solo Brands, Inc. Class A Common Stock
-SBET - SharpLink, Inc. - Common Stock
+SBET - Sharplink, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
@@ -10881,6 +10884,7 @@ VEGI - iShares MSCI Agriculture Producers ETF
 VEGN - US Vegan Climate Index
 VEL - Velocity Financial, Inc. Common Stock
 VELO - Velo3D, Inc. - Common stock
+VEM - Virtus Emerging Markets Dividend ETF
 VEMY - Virtus Stone Harbor Emerging Markets High Yield Bond ETF
 VENU - Venu Holding Corporation Common Stock
 VEON - VEON Ltd. - American Depositary Shares
@@ -11660,6 +11664,7 @@ ZEO - Zeo Energy Corporation - Class A Common Stock
 ZEOWW - Zeo Energy Corporation - Warrants
 ZEPP - Zepp Health Corporation American depositary shares, each representing sixteen Class A ordinary shares
 ZETA - Zeta Global Holdings Corp. Class A Common Stock
+ZETX - Defiance Daily Target 2x Long ZETA ETF
 ZEUS - Olympic Steel, Inc. - Common Stock
 ZFEB - Innovator Equity Defined Protection ETF - 1 Yr February
 ZG - Zillow Group, Inc. - Class A Common Stock
@@ -11680,7 +11685,9 @@ ZJUN - Innovator Equity Defined Protection ETF - 1 Yr June
 ZJYL - JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares
 ZKH - ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares
 ZKIN - ZK International Group Co., Ltd - Ordinary Share
+ZKP - Lafayette Digital Acquisition Corp. I - Class A Ordinary Shares
 ZKPU - Lafayette Digital Acquisition Corp. I - Unit
+ZKPW - Lafayette Digital Acquisition Corp. I - Warrant
 ZLAB - Zai Lab Limited - American Depositary Shares
 ZM - Zoom Communications, Inc. - Class A Common Stock
 ZMAR - Innovator Equity Defined Protection ETF - 1 Yr March
