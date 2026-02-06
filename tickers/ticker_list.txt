@@ -1396,6 +1396,7 @@ BNZI - Banzai International, Inc. - Class A Common Stock
 BNZIW - Banzai International, Inc. - Warrant
 BOAT - SonicShares Global Shipping ETF
 BOBP - CORE16 Best of Breed Premier Index ETF
+BOBS - Bob's Discount Furniture, Inc. Common Stock
 BOC - Boston Omaha Corporation Class A Common Stock
 BOCT - Innovator U.S. Equity Buffer ETF - October
 BODI - The Beachbody Company, Inc. - Class A Common Stock
@@ -1452,6 +1453,7 @@ BRCB - Black Rock Coffee Bar, Inc. - Class A Common Stock
 BRCC - BRC Inc. Class A Common Stock
 BRCE - MFS Blended Research Core Equity ETF
 BREM - iShares Emerging Markets Bond Active ETF
+BRES - Burney U.S. Equity Select ETF
 BRF - VanEck Brazil Small-Cap ETF
 BRFH - Barfresh Food Group Inc. - Common Stock
 BRHY - iShares High Yield Active ETF
@@ -1467,6 +1469,7 @@ BRKU - Direxion Daily BRKB Bull 2X Shares
 BRKW - Roundhill BRKB WeeklyPay ETF
 BRLN - iShares Floating Rate Loan Active ETF
 BRLS - Borealis Foods Inc. - Class A Common Shares
+BRLSW - Borealis Foods Inc. - Warrant
 BRLT - Brilliant Earth Group, Inc. - Class A Common Stock
 BRN - Barnwell Industries, Inc. Common Stock
 BRNS - Barinthus Biotherapeutics plc - American Depositary Shares
@@ -1882,6 +1885,7 @@ CENX - Century Aluminum Company - Common Stock
 CEPF - Cantor Equity Partners IV, Inc. - Class A Ordinary Shares
 CEPI - REX Crypto Equity Premium Income ETF
 CEPO - Cantor Equity Partners I, Inc. - Class A Ordinary Shares
+CEPS - Cantor Equity Partners VI, Inc. - Class A Ordinary Shares
 CEPT - Cantor Equity Partners II, Inc. - Class A ordinary share
 CEPU - Central Puerto S.A. American Depositary Shares (each represents ten Common Shares)
 CEPV - Cantor Equity Partners V, Inc. - Class A Ordinary Shares
@@ -1980,7 +1984,6 @@ CHMI - Cherry Hill Mortgage Investment Corporation Common Stock
 CHNR - China Natural Resources, Inc. - Common Shares
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
-CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -2581,6 +2584,7 @@ DBX - Dropbox, Inc. - Class A Common Stock
 DC - Dakota Gold Corp. Common Stock
 DCBO - Docebo Inc. - Common Shares
 DCGO - DocGo Inc. - Common Stock
+DCH - Dauch Corporation Common Stock
 DCI - Donaldson Company, Inc. Common Stock
 DCMT - DoubleLine Commodity Strategy ETF
 DCO - Ducommun Incorporated Common Stock
@@ -3173,6 +3177,7 @@ EICC - Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2
 EIDO - iShares MSCI Indonesia ETF
 EIG - Employers Holdings Inc Common Stock
 EIIA - Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029
+EIKN - Eikon Therapeutics, Inc. - Common Stock
 EIM - Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value
 EINC - VanEck Energy Income ETF
 EIPI - FT Energy Income Partners Enhanced Income ETF
@@ -4000,6 +4005,7 @@ FPFD - Fidelity Preferred Securities & Income ETF
 FPH - Five Point Holdings, LLC Class A Common Shares
 FPI - Farmland Partners Inc. Common Stock
 FPRO - Fidelity Real Estate Investment ETF
+FPS - Forgent Power Solutions, Inc. Class A Common Stock
 FPWR - First Trust EIP Power Solutions ETF
 FPX - First Trust US Equity Opportunities ETF
 FPXE - First Trust IPOX Europe Equity Opportunities ETF
@@ -4374,6 +4380,7 @@ GIND - Goldman Sachs India Equity ETF
 GINN - Goldman Sachs Innovate Equity ETF
 GINX - SGI Enhanced Global Income ETF
 GIPR - Generation Income Properties Inc. - Common stock
+GIPRW - Generation Income Properties Inc. - Warrant
 GIS - General Mills, Inc. Common Stock
 GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
 GIW - GigCapital8 Corp. - Class A Ordinary Shares
@@ -4617,6 +4624,7 @@ GSSC - GS ActiveBeta U.S. Small Cap Equity ETF
 GSST - Goldman Sachs Ultra Short Bond ETF
 GSUN - Golden Sun Technology Group Limited - Class A Ordinary Shares
 GSUS - Goldman Sachs MarketBeta U.S. Equity ETF
+GSWO - Goldman Sachs ActiveBeta World Equity ETF
 GSX - Tradr 2X Long GS Daily ETF
 GSY - Invesco Ultra Short Duration ETF
 GT - The Goodyear Tire & Rubber Company - Common Stock
@@ -4736,6 +4744,7 @@ HCAT - Health Catalyst, Inc - Common stock
 HCC - Warrior Met Coal, Inc. Common Stock
 HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
+HCICU - Hennessy Capital Investment Corp. VIII - Units
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
 HCMA - HCM III Acquisition Corp. - Class A Ordinary Share
@@ -7164,6 +7173,7 @@ NEWT - NewtekOne, Inc. - Common Stock
 NEWTG - NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2029
 NEWTH - NewtekOne, Inc. - 8.625% Fixed Rate Senior Notes due 2029
 NEWTI - NewtekOne, Inc. - 8.00% Fixed Rate Senior Notes due 2028
+NEWTO - NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2031
 NEWTP - NewtekOne, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.500% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B
 NEWZ - StockSnips AI-Powered Sentiment US All Cap ETF
 NEXA - Nexa Resources S.A. Common Shares
@@ -9122,7 +9132,6 @@ SBET - Sharplink, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
-SBFMW - Sunshine Biopharma Inc. - Warrant
 SBGI - Sinclair, Inc. - Class A Common Stock
 SBH - Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI - Western Asset Intermediate Muni Fund Inc Common Stock
@@ -10625,6 +10634,7 @@ UFG - Uni-Fuels Holdings Limited - Class A Ordinary Shares
 UFI - Unifi, Inc. New Common Stock
 UFIV - US Treasury 5 Year Note ETF
 UFO - Procure Space ETF
+UFOD - Tuttle Capital UFO Disclosure ETF
 UFPI - UFP Industries, Inc. - Common Stock
 UFPT - UFP Technologies, Inc. - Common Stock
 UG - United-Guardian, Inc. - Common Stock
@@ -11054,6 +11064,7 @@ VSDA - VictoryShares Dividend Accelerator ETF
 VSDB - Vanguard Short Duration Bond ETF
 VSDM - Vanguard Short Duration Tax-Exempt Bond ETF
 VSEC - VSE Corporation - Common Stock
+VSECU - VSE Corporation - Tangible Equity Units
 VSEE - VSee Health, Inc. - Common Stock
 VSEEW - VSee Health, Inc. - Warrant
 VSGX - Vanguard ESG International Stock ETF
