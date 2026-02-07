@@ -252,6 +252,7 @@ AGIQ - SoFi Agentic AI ETF
 AGIX - KraneShares Artificial Intelligence & Technology ETF
 AGL - agilon health, inc. Common Stock
 AGM - Federal Agricultural Mortgage Corporation Common Stock
+AGMB - AgomAb Therapeutics NV - ADRs representing one common share.
 AGMH - AGM Group Holdings Inc. - Class A Ordinary Shares
 AGMI - Themes Silver Miners ETF
 AGNC - AGNC Investment Corp. - Common Stock
@@ -303,6 +304,7 @@ AIMD - Ainos, Inc. - Common Stock
 AIMDW - Ainos, Inc. - warrants
 AIN - Albany International Corporation Common Stock
 AINP - Allspring Income Plus ETF
+AINT - FINQ DOLLAR NEUTRAL U.S. Large Cap AI-Managed Equity ETF
 AIO - Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest
 AIOO - AllianzIM U.S. Equity Buffer100 Protection ETF
 AIOT - PowerFleet, Inc. - Common Stock
@@ -724,6 +726,7 @@ ASTH - Astrana Health Inc. - Common Stock
 ASTI - Ascent Solar Technologies, Inc - Common Stock
 ASTL - Algoma Steel Group Inc. - Common Shares
 ASTLW - Algoma Steel Group Inc. - Warrant
+ASTN - Defiance Daily Target 2X Short ASTS ETF
 ASTS - AST SpaceMobile, Inc. - Class A Common Stock
 ASTX - Tradr 2X Long ASTS Daily ETF
 ASUR - Asure Software Inc - Common Stock
@@ -958,7 +961,6 @@ BATT - Amplify Lithium & Battery Technology ETF
 BAUG - Innovator U.S. Equity Buffer ETF - August
 BAX - Baxter International Inc. Common Stock
 BAYA - Bayview Acquisition Corp - Ordinary Share
-BAYAR - Bayview Acquisition Corp - Right
 BAYAU - Bayview Acquisition Corp - Unit
 BB - BlackBerry Limited Common Stock
 BBAG - JPMorgan BetaBuilders U.S. Aggregate Bond ETF
@@ -1089,6 +1091,7 @@ BEAGU - Bold Eagle Acquisition Corp. - Units
 BEAM - Beam Therapeutics Inc. - Common Stock
 BEAT - Heartbeam, Inc. - Common Stock
 BEATW - Heartbeam, Inc. - Warrant
+BEBE - TGE Value Creative Solutions Corp Class A Ordinary Shares
 BEDY - BNY Mellon Enhanced Dividend and Income ETF
 BEDZ - AdvisorShares Hotel ETF
 BEEM - Beam Global - Common Stock
@@ -1187,7 +1190,6 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
-BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
@@ -1489,7 +1491,6 @@ BRX - Brixmor Property Group Inc. Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
 BRZU - Direxion Daily Brazil Bull 2X Shares
 BSAA - BEST SPAC I Acquisition Corp. - Class A Ordinary Shares
-BSAAR - BEST SPAC I Acquisition Corp. - Rights
 BSAAU - BEST SPAC I Acquisition Corp. - Unit
 BSAC - Banco Santander - Chile ADS
 BSBK - Bogota Financial Corp. - Common Stock
@@ -1724,6 +1725,7 @@ CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
 CAPT - Captivision Inc. - Ordinary Shares
 CAPTW - Captivision Inc. - Warrant
+CAQUU - Cambridge Acquisition Corp. - Unit
 CAR - Avis Budget Group, Inc. - Common Stock
 CARD - MAX Auto Industry -3x Inverse Leveraged ETN
 CARE - Carter Bankshares, Inc. - Common Stock
@@ -2809,7 +2811,6 @@ DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR - Drugs Made In America Acquisition Corp. - Rights
-DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
 DMAT - Global X Disruptive Materials ETF
@@ -3357,6 +3358,7 @@ ERIC - Ericsson - American Depositary Shares each representing 1 underlying Clas
 ERIE - Erie Indemnity Company - Class A Common Stock
 ERII - Energy Recovery, Inc. - Common Stock
 ERNA - Ernexa Therapeutics Inc. - Common Stock
+ERNAW - Ernexa Therapeutics Inc. - Warrants
 ERNZ - TrueShares Active Yield ETF
 ERO - Ero Copper Corp. Common Shares
 ERTH - Invesco MSCI Sustainable Future ETF
@@ -5064,7 +5066,6 @@ IAUI - NEOS Gold High Income ETF
 IAUM - iShares Gold Trust Micro Shares
 IAUX - i-80 Gold Corp. Common Shares
 IBAC - IB Acquisition Corp. - Common Stock
-IBACR - IB Acquisition Corp. - Right
 IBAT - iShares Energy Storage & Materials ETF
 IBB - iShares Biotechnology ETF
 IBBQ - Invesco Nasdaq Biotechnology ETF
@@ -5475,6 +5476,8 @@ IREN - IREN Limited - Ordinary Shares
 IRET - iREIT - MarketVector Quality REIT Index ETF
 IREX - Tradr 2X Long IREN Daily ETF
 IREZ - Tradr 2X Short IREN Daily ETF
+IRHO - Iron Horse Acquisitions II Corp. - Common Stock
+IRHOR - Iron Horse Acquisitions II Corp. - Rights
 IRHOU - Iron Horse Acquisitions II Corp. - Units
 IRIX - IRIDEX Corporation - Common Stock
 IRM - Iron Mountain Incorporated (Delaware)Common Stock REIT
@@ -6120,7 +6123,6 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
-LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCIZ - Tradr 2X Short LCID Daily ETF
@@ -6908,6 +6910,7 @@ MSI - Motorola Solutions, Inc. Common Stock
 MSIF - MSC Income Fund, Inc. Common Stock
 MSII - REX MSTR Growth & Income ETF
 MSLC - Morgan Stanley Pathway Large Cap Equity ETF
+MSLE - Satellos Bioscience Inc. - Common Stock
 MSM - MSC Industrial Direct Company, Inc. Common Stock
 MSMR - McElhenny Sheffield Managed Risk ETF
 MSN - Emerson Radio Corporation Common Stock
@@ -7593,6 +7596,7 @@ OFAL - OFA Group - Class A Ordinary Shares
 OFG - OFG Bancorp Common Stock
 OFIX - Orthofix Medical Inc.  - Common Stock
 OFLX - Omega Flex, Inc. - Common Stock
+OFRM - Once Upon a Farm, PBC Common Stock
 OFS - OFS Capital Corporation - Closed End Fund
 OFSSH - OFS Capital Corporation - 4.95% Notes due 2028
 OFSSO - OFS Capital Corporation - 7.50% Notes due 2028
@@ -9338,6 +9342,7 @@ SGMT - Sagimet Biosciences Inc. - Series A Common Stock
 SGN - Signing Day Sports, Inc. Common Stock
 SGOL - abrdn Physical Gold Shares ETF
 SGOV - iShares 0-3 Month Treasury Bond ETF
+SGP - SpyGlass Pharma, Inc. - Common Stock
 SGRP - SPAR Group, Inc. - Common Stock
 SGRT - SMART Earnings Growth 30 ETF
 SGRW - Harbor Active Small Cap Growth ETF
@@ -9813,6 +9818,7 @@ SRVR - Pacer Data & Infrastructure Real Estate ETF
 SRXH - SRX Health Solutions, Inc. Common Stock
 SRZN - Surrozen, Inc. - Common Stock
 SRZNW - Surrozen, Inc. - Warrant
+SSACU - SPACSphere Acquisition Corp. - Unit
 SSB - SouthState Bank Corporation Common Stock
 SSBI - Summit State Bank - Common Stock
 SSD - Simpson Manufacturing Company, Inc. Common Stock
@@ -10549,7 +10555,6 @@ TWI - Titan International, Inc. (DE) Common Stock
 TWIN - Twin Disc, Incorporated - Common Stock
 TWLO - Twilio Inc. Class A Common Stock
 TWLV - Twelve Seas Investment Company III - Class A Ordinary Shares
-TWLVR - Twelve Seas Investment Company III - Rights
 TWLVU - Twelve Seas Investment Company III - Units
 TWM - ProShares UltraShort Russell2000
 TWN - Taiwan Fund, Inc. (The) Common Stock
@@ -10770,6 +10775,7 @@ USIO - Usio, Inc. - Common Stock
 USL - United States 12 Month Oil
 USLM - United States Lime & Minerals, Inc. - Common Stock
 USMC - Principal U.S. Mega-Cap ETF
+USMD - CoreValues America First Technology ETF
 USMF - WisdomTree U.S. Multifactor Fund
 USML - ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN
 USMV - iShares MSCI USA Min Vol Factor ETF
@@ -10829,7 +10835,6 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
-UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -11234,7 +11239,6 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
-WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
@@ -11608,7 +11612,6 @@ YGLD - Simplify Gold Strategy PLUS Income ETF
 YHC - LQR House Inc. - Common Stock
 YHGJ - Yunhong Green CTI Ltd. - Common Stock
 YHNA - YHN Acquisition I Limited - Ordinary Shares
-YHNAR - YHN Acquisition I Limited - Right
 YHNAU - YHN Acquisition I Limited - Unit
 YI - 111, Inc. - American Depositary Shares
 YIBO - Planet Image International Limited - Class A Ordinary Shares
