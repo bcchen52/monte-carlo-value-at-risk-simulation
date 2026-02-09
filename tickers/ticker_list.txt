@@ -1131,7 +1131,6 @@ BFH - Bread Financial Holdings, Inc. Common Stock
 BFIX - Build Bond Innovation ETF
 BFJA - FT Vest Bitcoin Strategy Floor15 ETF - January
 BFJL - FT Vest Bitcoin Strategy Floor15 ETF July
-BFK - BlackRock Municipal Income Trust
 BFLB - BufferLABS US Equity Dynamic Buffer ETF
 BFLY - Butterfly Network, Inc. Class A Common Stock
 BFOC - FT Vest Bitcoin Strategy Floor15 ETF - October
@@ -1144,7 +1143,6 @@ BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
-BFZ - BlackRock California Municipal Income Trust
 BG - Bunge Limited Common Shares
 BGB - Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest
 BGC - BGC Group, Inc. - Class A Common Stock
@@ -1295,7 +1293,6 @@ BLDG - Cambria Global Real Estate ETF
 BLDP - Ballard Power Systems, Inc. - Common Shares
 BLDR - Builders FirstSource, Inc. Common Stock
 BLDX - Impax Global Infrastructure ETF
-BLE - BlackRock Municipal Income Trust II
 BLES - Inspire Global Hope ETF
 BLFS - BioLife Solutions, Inc. - Common Stock
 BLFY - Blue Foundry Bancorp - Common Stock
@@ -1393,7 +1390,6 @@ BNS - Bank Nova Scotia Halifax Pfd 3 Ordinary Shares
 BNT - Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares
 BNTC - Benitec Biopharma Inc. - Common Stock
 BNTX - BioNTech SE - American Depositary Shares
-BNY - BlackRock New York Municipal Income Trust
 BNZI - Banzai International, Inc. - Class A Common Stock
 BNZIW - Banzai International, Inc. - Warrant
 BOAT - SonicShares Global Shipping ETF
@@ -1660,7 +1656,6 @@ BYAH - Park Ha Biological Technology Co., Ltd. - ordinary shares
 BYD - Boyd Gaming Corporation Common Stock
 BYFC - Broadway Financial Corporation - Class A Common Stock
 BYLD - iShares Yield Optimized Bond ETF
-BYM - Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest
 BYND - Beyond Meat, Inc. - Common stock
 BYRE - Principal Real Estate Active Opportunities ETF
 BYRN - Byrna Technologies, Inc. - Common Stock
@@ -2328,8 +2323,6 @@ CRED - Columbia Research Enhanced Real Estate ETF
 CREG - Smart Powerr Corp. - Common Stock
 CRESW - Cresud S.A.C.I.F. y A. - Warrant
 CRESY - Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock
-CREV - Carbon Revolution Public Limited Company - Ordinary Shares
-CREVW - Carbon Revolution Public Limited Company - Warrant
 CREX - Creative Realities, Inc. - Common Stock
 CRF - Cornerstone Total Return Fund, Inc. (The) Common Stock
 CRGO - Freightos Limited - Ordinary shares
@@ -2694,6 +2687,8 @@ DFLIW - Dragonfly Energy Holdings Corp - Warrant
 DFLV - Dimensional US Large Cap Value ETF
 DFNL - Davis Select Financial ETF
 DFNM - Dimensional National Municipal Bond ETF
+DFNS - T3 Defense Inc. - Common Stock
+DFNSW - T3 Defense Inc. - Warrants
 DFP - Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock
 DFSB - Dimensional Global Sustainability Fixed Income ETF
 DFSC - DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering
@@ -2774,7 +2769,7 @@ DIVO - Amplify CWP Enhanced Dividend Income ETF
 DIVP - Cullen Enhanced Equity Income ETF
 DIVS - Guinness Atkinson Dividend Builder ETF
 DIVY - Sound Equity Dividend Income ETF
-DIVZ - Opal Dividend Income ETF
+DIVZ - Polen Dividend Income ETF
 DJAN - FT Vest U.S. Equity Deep Buffer ETF - January
 DJCO - Daily Journal Corp. (S.C.) - Common Stock
 DJD - Invesco Dow Jones Industrial Average Dividend ETF
@@ -3532,9 +3527,6 @@ EWZS - iShares MSCI Brazil Small-Cap ETF
 EXAS - Exact Sciences Corporation - Common Stock
 EXC - Exelon Corporation - Common Stock
 EXE - Expand Energy Corporation - Common Stock
-EXEEL - Expand Energy Corporation - Class C Warrants
-EXEEW - Expand Energy Corporation - Class A Warrants
-EXEEZ - Expand Energy Corporation - Class B Warrants
 EXEL - Exelixis, Inc. - Common Stock
 EXFY - Expensify, Inc. - Class A Common Stock
 EXG - Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest
@@ -5183,7 +5175,7 @@ IDU - iShares U.S. Utilities ETF
 IDUB - Aptus International Enhanced Yield ETF
 IDV - iShares International Select Dividend ETF
 IDVO - Amplify CWP International Enhanced Dividend Income ETF
-IDVZ - The Opal International Dividend Income ETF
+IDVZ - Polen International Dividend Income Fund
 IDX - VanEck Indonesia Index ETF
 IDXX - IDEXX Laboratories, Inc. - Common Stock
 IDYA - IDEAYA Biosciences, Inc. - Common Stock
@@ -6381,7 +6373,7 @@ LTM - LATAM Airlines Group S.A. American Depositary Shares (each representing tw
 LTPZ - Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund
 LTRN - Lantern Pharma Inc. - Common Stock
 LTRX - Lantronix, Inc. - Common Stock
-LTRYW - Lottery.com, Inc. - Warrant
+LTRYW - Sports Entertainment Gaming Global Corporation  - Warrant
 LTTI - FT Vest 20+ Year Treasury & Target Income ETF
 LU - Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares
 LUCD - Lucid Diagnostics Inc. - Common Stock
@@ -6689,7 +6681,6 @@ MHF - Western Asset Municipal High Income Fund, Inc. Common Stock
 MHH - Mastech Digital, Inc Common Stock
 MHK - Mohawk Industries, Inc. Common Stock
 MHLA - Maiden Holdings, Ltd. 6.625% Notes due 2046
-MHN - Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock
 MHNC - Maiden Holdings North America, Ltd. 7.75% Notes due 2043
 MHO - M/I Homes, Inc. Common Stock
 MHY - Man Active High Yield ETF
@@ -6970,7 +6961,6 @@ MUA - Blackrock MuniAssets Fund, Inc Common Stock
 MUB - iShares National Muni Bond ETF
 MUC - Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock
 MUD - Direxion Daily MU Bear 1X Shares
-MUE - Blackrock MuniHoldings Quality Fund II, Inc. Common Stock
 MUFG - Mitsubishi UFJ Financial Group, Inc. Common Stock
 MUJ - Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock
 MULL - GraniteShares 2x Long MU Daily ETF
@@ -7116,7 +7106,7 @@ NCDL - Nuveen Churchill Direct Lending Corp. Common Stock
 NCEL - NewcelX Ltd. - Ordinary Shares
 NCEW - New Century Logistics Limited - Ordinary Shares
 NCI - Neo-Concept International Group Holdings Limited - Class A Ordinary Shares
-NCIQ - Hashdex Nasdaq Crypto Index US ETF
+NCIQ - Hashdex Nasdaq CME Crypto Index ETF
 NCL - Northann Corp. Common Stock
 NCLH - Norwegian Cruise Line Holdings Ltd. Ordinary Shares
 NCLO - Nuveen AA-BBB CLO ETF
@@ -7414,8 +7404,6 @@ NUGO - Nuveen Growth Opportunities ETF
 NUGT - Direxion Daily Gold Miners Index Bull 2XShares
 NUGY - GraniteShares YieldBOOST Gold Miners ETF
 NUHY - Nuveen ESG High Yield Corporate Bond ETF
-NUKK - Nukkleus Inc. - Ordinary Shares
-NUKKW - Nukkleus Inc. - Warrants
 NUKZ - Range Nuclear Renaissance Index ETF
 NULC - Nuveen ESG Large-Cap ETF
 NULG - Nuveen ESG Large-Cap Growth ETF
@@ -9268,7 +9256,7 @@ SEEM - SEI Select Emerging Markets Equity ETF
 SEER - Seer, Inc. - Class A Common Stock
 SEF - ProShares Short Financials
 SEG - Seaport Entertainment Group Inc. Common Stock
-SEGG - Lottery.com, Inc. - Common Stock
+SEGG - Sports Entertainment Gaming Global Corporation  - Common Stock
 SEI - Solaris Energy Infrastructure, Inc. Class A Common Stock
 SEIC - SEI Investments Company - Common Stock
 SEIE - SEI Select International Equity ETF
@@ -10905,7 +10893,6 @@ VENU - Venu Holding Corporation Common Stock
 VEON - VEON Ltd. - American Depositary Shares
 VERA - Vera Therapeutics, Inc. - Class A Common Stock
 VERI - Veritone, Inc. - Common Stock
-VERO - Venus Concept Inc.  - Common Stock
 VERS - ProShares Metaverse ETF
 VERU - Veru Inc. - Common Stock
 VERX - Vertex, Inc. - Class A Common Stock
