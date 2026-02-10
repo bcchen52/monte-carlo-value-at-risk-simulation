@@ -133,7 +133,9 @@ ACWV - iShares MSCI Global Min Vol Factor ETF
 ACWX - iShares MSCI ACWI ex U.S. ETF
 ACXP - Acurx Pharmaceuticals, Inc. - Common Stock
 AD - Array Digital Infrastructure, Inc. Common Shares
+ADAC - American Drive Acquisition Company - Class A Ordinary Shares
 ADACU - American Drive Acquisition Company - Units
+ADACW - American Drive Acquisition Company - Warrant
 ADAG - Adagene Inc. - ADS, each representing 1.25 ordinary shares
 ADAM - Adamas Trust, Inc. - Common Stock
 ADAMG - Adamas Trust, Inc. - 9.125% Senior Notes Due 2030
@@ -327,6 +329,7 @@ AIS - VistaShares Artificial Intelligence Supercycle ETF
 AISP - Airship AI Holdings, Inc - Class A Common Stock
 AISPW - Airship AI Holdings, Inc - Warrants
 AIT - Applied Industrial Technologies, Inc. Common Stock
+AIUP - FINQ FIRST U.S. Large Cap AI-Managed Equity ETF
 AIV - Apartment Investment and Management Company Common Stock
 AIVC - Amplify Bloomberg AI Value Chain ETF
 AIVI - WisdomTree International AI Enhanced Value Fund
@@ -961,6 +964,7 @@ BATT - Amplify Lithium & Battery Technology ETF
 BAUG - Innovator U.S. Equity Buffer ETF - August
 BAX - Baxter International Inc. Common Stock
 BAYA - Bayview Acquisition Corp - Ordinary Share
+BAYAR - Bayview Acquisition Corp - Right
 BAYAU - Bayview Acquisition Corp - Unit
 BB - BlackBerry Limited Common Stock
 BBAG - JPMorgan BetaBuilders U.S. Aggregate Bond ETF
@@ -1188,6 +1192,7 @@ BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - Xtrackers USD High Yield BB-B ex Financials ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
+BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
 BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
@@ -1831,7 +1836,9 @@ CCSO - Carbon Collective Climate Solutions U.S. Equity ETF
 CCTG - CCSC Technology International Holdings Limited - Class A Ordinary Shares
 CCU - Compania Cervecerias Unidas, S.A. Common Stock
 CCUP - T-REX 2X Long CRCL Daily Target ETF
+CCXI - Churchill Capital Corp XI - Class A Ordinary Shares
 CCXIU - Churchill Capital Corp XI - Units
+CCXIW - Churchill Capital Corp XI - Warrants
 CCZ - Comcast Holdings ZONES
 CD - Chaince Digital Holdings Inc. - American Ordinary Shares
 CDC - VictoryShares US EQ Income Enhanced Volatility Wtd ETF
@@ -3557,7 +3564,6 @@ EZMO - AlphaDroid Broad Markets Momentum ETF
 EZPW - EZCORP, Inc. - Class A Non-Voting Common Stock
 EZPZ - Franklin Crypto Index ETF
 EZRA - Reliance Global Group, Inc. - Common Stock
-EZRAW - Reliance Global Group, Inc. - Series A Warrants
 EZRO - AlphaDroid Defensive Sector Rotation ETF
 EZU - iShares MSCI Eurozone ETF
 F - Ford Motor Company Common Stock
@@ -3627,6 +3633,7 @@ FCHL - Fitness Champs Holdings Limited - Ordinary Shares
 FCLD - Fidelity Cloud Computing ETF
 FCN - FTI Consulting, Inc. Common Stock
 FCNCA - First Citizens BancShares, Inc. - Class A Common Stock
+FCNCN - First Citizens BancShares, Inc. - Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E
 FCNCO - First Citizens BancShares, Inc. - 5.625% Non-Cumulative Perpetual Preferred Stock, Series C
 FCNCP - First Citizens BancShares, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 5.375% Non-Cumulative Perpetual Preferred Stock, Series A
 FCO - abrdn Global Income Fund, Inc. Common Stock
@@ -4223,7 +4230,6 @@ GBF - iShares Government/Credit Bond ETF
 GBFH - GBank Financial Holdings Inc. - Common Stock
 GBHI - Gabelli High Income ETF
 GBIL - Goldman Sachs Access Treasury 0-1 Year ETF
-GBIO - Generation Bio Co. - Common stock
 GBLD - Invesco MSCI Green Building ETF
 GBLI - Global Indemnity Group, LLC - Class A Common Shares
 GBND - Goldman Sachs Core Bond ETF
@@ -4813,7 +4819,6 @@ HGTY - Hagerty, Inc. Class A Common Stock
 HGV - Hilton Grand Vacations Inc. Common Stock 
 HHH - Howard Hughes Holdings Inc. Common Stock
 HHS - Harte Hanks, Inc. - Common Stock
-HI - Hillenbrand Inc Common Stock
 HIBL - Direxion Daily S&P 500 High Beta Bull 3X Shares
 HIBS - Direxion Daily S&P 500 High Beta Bear 3X Shares
 HIDE - Alpha Architect High Inflation and Deflation ETF
@@ -5058,6 +5063,7 @@ IAUI - NEOS Gold High Income ETF
 IAUM - iShares Gold Trust Micro Shares
 IAUX - i-80 Gold Corp. Common Shares
 IBAC - IB Acquisition Corp. - Common Stock
+IBACR - IB Acquisition Corp. - Right
 IBAT - iShares Energy Storage & Materials ETF
 IBB - iShares Biotechnology ETF
 IBBQ - Invesco Nasdaq Biotechnology ETF
@@ -6316,7 +6322,9 @@ LPBB - Launch Two Acquisition Corp. - Class A Ordinary Shares
 LPBBU - Launch Two Acquisition Corp. - Unit
 LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
+LPCV - Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
 LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
+LPCVW - Launchpad Cadenza Acquisition Corp I - Warrant
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -9837,7 +9845,6 @@ SSYS - Stratasys, Ltd. - Common Stock
 ST - Sensata Technologies Holding plc Ordinary Shares
 STAA - STAAR Surgical Company - Common Stock
 STAG - Stag Industrial, Inc. Common Stock
-STAI - ScanTech AI Systems Inc. - Common stock
 STAK - STAK Inc. - Class A Ordinary Shares
 STAX - Nomura Tax-Free USA Short Term ETF
 STBA - S&T Bancorp, Inc. - Common Stock
@@ -10930,7 +10937,9 @@ VGUS - Vanguard Ultra-Short Treasury ETF
 VGVT - Vanguard Government Securities Active ETF
 VGZ - Vista Gold Corp Common Stock
 VHC - VirnetX Holding Corp - Common Stock
+VHCP - Vine Hill Capital Investment Corp. II - Class A Ordinary Shares
 VHCPU - Vine Hill Capital Investment Corp. II - Units
+VHCPW - Vine Hill Capital Investment Corp. II - Warrants
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
 VHUB - VenHub Global, Inc. - Common Stock
@@ -11140,6 +11149,7 @@ WABF - Western Asset Bond ETF
 WAFD - WaFd, Inc. - Common Stock
 WAFDP - WaFd, Inc. - Depositary Shares
 WAFU - Wah Fu Education Group Limited - Ordinary Shares
+WAGN - Pabrai Wagons ETF
 WAI - Top KingWin Ltd - Class A Ordinary Shares
 WAL - Western Alliance Bancorporation Common Stock (DE)
 WALD - Waldencast plc - Class A Ordinary Share
@@ -11599,6 +11609,7 @@ YGLD - Simplify Gold Strategy PLUS Income ETF
 YHC - LQR House Inc. - Common Stock
 YHGJ - Yunhong Green CTI Ltd. - Common Stock
 YHNA - YHN Acquisition I Limited - Ordinary Shares
+YHNAR - YHN Acquisition I Limited - Right
 YHNAU - YHN Acquisition I Limited - Unit
 YI - 111, Inc. - American Depositary Shares
 YIBO - Planet Image International Limited - Class A Ordinary Shares
