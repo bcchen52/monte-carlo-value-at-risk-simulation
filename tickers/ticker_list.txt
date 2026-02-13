@@ -554,6 +554,7 @@ APAD - A Paradise Acquisition Corp. - Class A Ordinary Shares
 APADR - A Paradise Acquisition Corp. - Rights
 APADU - A Paradise Acquisition Corp. - Unit
 APAM - Artisan Partners Asset Management Inc. Class A Common Stock
+APC - ARKO Petroleum Corp. - Class A Common Stock
 APCB - ActivePassive Core Bond ETF
 APD - Air Products and Chemicals, Inc. Common Stock
 APEI - American Public Education, Inc. - Common Stock
@@ -820,7 +821,6 @@ AVBH - Avidbank Holdings, Inc. - Common Stock
 AVBP - ArriVent BioPharma, Inc. - Common Stock
 AVD - American Vanguard Corporation Common Stock ($0.10 Par Value)
 AVDE - Avantis International Equity ETF
-AVDL - Avadel Pharmaceuticals plc - Ordinary Share
 AVDS - Avantis International Small Cap Equity ETF
 AVDV - Avantis International Small Cap Value ETF
 AVEE - Avantis Emerging Markets Small Cap Equity ETF
@@ -1453,6 +1453,7 @@ BPYPP - Brookfield Property Partners L.P. - 6.50% Class A Cumulative Redeemable 
 BQ - Boqii Holding Limited Class A Ordinary Shares
 BR - Broadridge Financial Solutions, Inc. Common Stock
 BRAG - Bragg Gaming Group Inc. - Common Shares
+BRAI - Braiin Limited - Common Stock
 BRAZ - Global X Brazil Active ETF
 BRBI - BRBI BR Partners S.A. - ADSs
 BRBR - BellRing Brands, Inc. Common Stock 
@@ -2023,6 +2024,7 @@ CIA - Citizens, Inc. Class A Common Stock ($1.00 Par)
 CIB - Grupo Cibest S.A. American Depositary Shares each representing four Preferred Shares
 CIBR - First Trust NASDAQ Cybersecurity ETF
 CICB - CION Investment Corporation 7.50% Notes due 2029
+CICC - CION Investment Corporation 7.50% Notes due 2031
 CIEN - Ciena Corporation Common Stock
 CIF - MFS Intermediate High Income Fund Common Stock
 CIFG - Leverage Shares 2X Long CIFR Daily ETF
@@ -3580,6 +3582,7 @@ EZRO - AlphaDroid Defensive Sector Rotation ETF
 EZU - iShares MSCI Eurozone ETF
 F - Ford Motor Company Common Stock
 FA - First Advantage Corporation - Common Stock
+FAAA - Fidelity AAA CLO ETF
 FAAR - First Trust Alternative Absolute Return Strategy ETF
 FAB - First Trust Multi Cap Value AlphaDEX Fund
 FACT - FACT II Acquisition Corp. - Class A Ordinary Shares
@@ -3643,6 +3646,7 @@ FCFY - First Trust S&P 500 Diversified Free Cash Flow ETF
 FCG - First Trust Natural Gas ETF
 FCHL - Fitness Champs Holdings Limited - Ordinary Shares
 FCLD - Fidelity Cloud Computing ETF
+FCLO - Fidelity CLO ETF
 FCN - FTI Consulting, Inc. Common Stock
 FCNCA - First Citizens BancShares, Inc. - Class A Common Stock
 FCNCN - First Citizens BancShares, Inc. - Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E
@@ -4462,7 +4466,6 @@ GMAR - FT Vest U.S. Equity Moderate Buffer ETF - March
 GMAY - FT Vest U.S. Equity Moderate Buffer ETF - May
 GME - GameStop Corporation Common Stock
 GMED - Globus Medical, Inc. Class A Common Stock
-GMET - VanEck Green Metals ETF
 GMEU - T-REX 2X Long GME Daily Target ETF
 GMEY - YieldMax GME Option Income Strategy ETF
 GMF - State Street SPDR S&P Emerging Asia Pacific ETF
@@ -4709,6 +4712,7 @@ GYRE - Gyre Therapeutics, Inc. - Common Stock
 GYRO - Gyrodyne , LLC - Common Stock
 H - Hyatt Hotels Corporation Class A Common Stock
 HACK - Amplify Cybersecurity ETF
+HACQU - HCM IV Acquisition Corp. - Unit
 HAE - Haemonetics Corporation Common Stock
 HAFC - Hanmi Financial Corporation - Common Stock
 HAFN - Hafnia Limited Common Shares
@@ -6682,7 +6686,7 @@ MGK - Vanguard Mega Cap Growth ETF
 MGLD - The Marygold Companies, Inc. Common Stock
 MGM - MGM Resorts International Common Stock
 MGMT - Ballast Small/Mid Cap ETF
-MGN - Megan Holdings Limited - Ordinary shares.
+MGN - Megan Holdings Limited - Class A Ordinary Shares
 MGNI - Magnite, Inc. - Common Stock
 MGNR - American Beacon Select Funds American Beacon GLG Natural Resources ETF
 MGNX - MacroGenics, Inc. - Common Stock
@@ -6790,6 +6794,7 @@ MMI - Marcus & Millichap, Inc. Common Stock
 MMID - MFS Active Mid Cap ETF
 MMIN - NYLI MacKay Muni Insured ETF
 MMIT - NYLI MacKay Muni Intermediate ETF
+MMK - State Street Prime Money Market ETF
 MMKT - Texas Capital Government Money Market ETF
 MMLG - First Trust Multi-Manager Large Growth ETF
 MMLP - Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests
@@ -7413,6 +7418,7 @@ NTSX - WisdomTree U.S. Efficient Core Fund
 NTWK - NETSOL Technologies Inc. - Common Stock
 NTWO - Newbury Street II Acquisition Corp - Class A Ordinary Shares
 NTWOU - Newbury Street II Acquisition Corp - Unit
+NTWOW - Newbury Street II Acquisition Corp - Warrant
 NTZ - Natuzzi, S.p.A.
 NU - Nu Holdings Ltd. Class A Ordinary Shares
 NUAG - Nuveen Enhanced Yield U.S. Aggregate Bond ETF
@@ -7829,6 +7835,7 @@ OZK - Bank OZK - Common Stock
 OZKAP - Bank OZK - 4.625% Series A Non-Cumulative Perpetual Preferred Stock
 PAA - Plains All American Pipeline, L.P. - Common Units representing Limited Partner Interests
 PAAA - PGIM AAA CLO ETF
+PAACU - Proem Acquisition Corp I - Units
 PAAS - Pan American Silver Corp. Common Stock
 PAB - PGIM Active Aggregate Bond ETF
 PABD - iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF
@@ -8645,6 +8652,7 @@ RAAA - Reckoner Yield Enhanced AAA CLO ETF
 RAAQ - Real Asset Acquisition Corp. - Class A Ordinary Share
 RAAQU - Real Asset Acquisition Corp. - Unit
 RAAQW - Real Asset Acquisition Corp. - Warrants
+RAAR - Reckoner Yield Enhanced AAA CLO Reinvesting ETF
 RAAX - VanEck Real Assets ETF
 RAAY - Reckoner Yield Enhanced AAA CLO Annual ETF
 RAC - Rithm Acquisition Corp. Class A Ordinary Shares
@@ -8702,6 +8710,7 @@ RCKY - Rocky Brands, Inc. - Common Stock
 RCL - Royal Caribbean Cruises Ltd. Common Stock
 RCLO - Reckoner BBB-B CLO ETF
 RCLR - Reckoner BBB-B CLO Reinvesting ETF
+RCLY - Reckoner BBB-B CLO Annual ETF
 RCMT - RCM Technologies, Inc. - Common Stock
 RCON - Recon Technology, Ltd. - Class A Ordinary Shares
 RCS - PIMCO Strategic Income Fund, Inc.
@@ -8713,6 +8722,7 @@ RDACR - Rising Dragon Acquisition Corp. - Rights
 RDACU - Rising Dragon Acquisition Corp. - Unit
 RDAG - Republic Digital Acquisition Company - Class A Ordinary Shares
 RDAGU - Republic Digital Acquisition Company - Unit
+RDAGW - Republic Digital Acquisition Company - Warrants
 RDCM - Radcom Ltd. - Ordinary Shares
 RDDT - Reddit, Inc. Class A Common Stock
 RDFI - Rareview Dynamic Fixed Income ETF
@@ -9229,7 +9239,9 @@ SCNX - Scienture Holdings, Inc. - Common Stock
 SCO - ProShares UltraShort Bloomberg Crude Oil
 SCOR - comScore, Inc. - Common Stock
 SCOW - Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
+SCPQ - Social Commerce Partners Corporation - Class A Ordinary Shares
 SCPQU - Social Commerce Partners Corporation - Unit
+SCPQW - Social Commerce Partners Corporation - Warrant
 SCSC - ScanSource, Inc. - Common Stock
 SCUS - Schwab Ultra-Short Income ETF
 SCVL - Shoe Carnival, Inc. - Common Stock
@@ -9375,7 +9387,6 @@ SHEH - Shell plc ADRhedged
 SHEL - Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) 
 SHEN - Shenandoah Telecommunications Co - Common Stock
 SHFS - SHF Holdings, Inc. - Class A Common Stock
-SHFSW - SHF Holdings, Inc. - Warrants
 SHG - Shinhan Financial Group Co Ltd American Depositary Shares
 SHIM - Shimmick Corporation - Common Stock
 SHIP - Seanergy Maritime Holdings Corp. - Common Stock
@@ -9642,7 +9653,6 @@ SOFI - SoFi Technologies, Inc.  - Common Stock
 SOFR - Amplify Samsung SOFR ETF
 SOFX - Defiance Daily Target 2X Long SOFI ETF
 SOGP - Sound Group Inc. - American Depositary Shares
-SOHO - Sotherly Hotels Inc. - Common Stock
 SOHOB - Sotherly Hotels Inc. - 8.0% Series B Cumulative Redeemable Perpetual Preferred Stock
 SOHON - Sotherly Hotels Inc. - 8.25% Series D Cumulative Redeemable Perpetual Preferred Stock
 SOHOO - Sotherly Hotels Inc. - 7.875% Series C Cumulative Redeemable Perpetual Preferred Stock
@@ -9966,7 +9976,9 @@ SVAC - Spring Valley Acquisition Corp. III - Class A Ordinary Shares
 SVACU - Spring Valley Acquisition Corp. III - Unit
 SVACW - Spring Valley Acquisition Corp. III - Warrant
 SVAL - iShares US Small Cap Value Factor ETF
+SVAQ - Silicon Valley Acquisition Corp. - Class A Ordinary Shares
 SVAQU - Silicon Valley Acquisition Corp. - Units
+SVAQW - Silicon Valley Acquisition Corp. - Warrants
 SVC - Service Properties Trust - Shares of Beneficial Interest
 SVCC - Stellar V Capital Corp. - Class A Ordinary Shares
 SVCCU - Stellar V Capital Corp. - Unit
@@ -10729,7 +10741,7 @@ UP - Wheels Up Experience Inc. Class A Common Stock
 UPAR - UPAR Ultra Risk Parity ETF
 UPB - Upstream Bio, Inc. - Common Stock
 UPBD - Upbound Group, Inc. - Common Stock
-UPC - Universe Pharmaceuticals Inc - Ordinary Shares
+UPC - Universe Pharmaceuticals Inc - Class A Ordinary Shares
 UPGD - Invesco Bloomberg Analyst Rating Improvers ETF
 UPGR - Xtrackers US Green Infrastructure Select Equity ETF
 UPLD - Upland Software, Inc. - Common Stock
