@@ -3256,6 +3256,7 @@ EMDV - ProShares MSCI Emerging Markets Dividend Growers ETF
 EME - EMCOR Group, Inc. Common Stock
 EMEQ - Nomura Focused Emerging Markets Equity ETF
 EMES - Harbor Emerging Markets Select ETF
+EMET - VanEck Copper and Green Metals ETF
 EMF - Templeton Emerging Markets Fund Common Stock
 EMGF - iShares Emerging Markets Equity Factor ETF
 EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
@@ -3402,7 +3403,6 @@ ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
 ESK - REX-Osprey ETH + Staking ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
-ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLG - Eventide Large Cap Growth ETF
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESLV - Eventide Large Cap Value ETF
@@ -3549,6 +3549,7 @@ EXAS - Exact Sciences Corporation - Common Stock
 EXC - Exelon Corporation - Common Stock
 EXE - Expand Energy Corporation - Common Stock
 EXEL - Exelixis, Inc. - Common Stock
+EXEQ - Wedbush ReturnOnLeadership U.S. Large-Cap ETF
 EXFY - Expensify, Inc. - Class A Common Stock
 EXG - Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest
 EXI - iShares Global Industrials ETF
@@ -4278,7 +4279,6 @@ GDE - WisdomTree Efficient Gold Plus Equity Strategy Fund
 GDEC - FT Vest U.S. Equity Moderate Buffer ETF - December
 GDEN - Golden Entertainment, Inc. - Common Stock
 GDEV - GDEV Inc. - Ordinary Shares
-GDEVW - GDEV Inc. - Warrant
 GDFN - Tema International Defense Innovation ETF
 GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
 GDIV - Harbor Dividend Growth Leaders ETF
@@ -4359,7 +4359,6 @@ GGME - Invesco Next Gen Media and Gaming ETF
 GGN - GAMCO Global Gold, Natural Resources & Income Trust
 GGOV - iShares Global Government Bond USD Hedged Active ETF
 GGR - Gogoro Inc. - Ordinary Shares
-GGROW - Gogoro Inc. - Warrant
 GGRW - Gabelli Growth Innovators ETF
 GGT - Gabelli Multi-Media Trust, Inc. (The) Common Stock
 GGTL - Gabelli Global Technology Leaders ETF
@@ -4649,7 +4648,6 @@ GTEC - Greenland Technologies Holding Corporation - Ordinary Shares
 GTEK - Goldman Sachs Future Tech Leaders Equity ETF
 GTEN - Gores Holdings X, Inc. - Class A ordinary shares
 GTENU - Gores Holdings X, Inc. - Units
-GTENW - Gores Holdings X, Inc. - Warrants
 GTERA - Globa Terra Acquisition Corporation - Class A Ordinary Shares
 GTERR - Globa Terra Acquisition Corporation - Rights
 GTERU - Globa Terra Acquisition Corporation - Units
@@ -4921,7 +4919,6 @@ HOWL - Werewolf Therapeutics, Inc. - Common Stock
 HOYY - GraniteShares YieldBOOST HOOD ETF
 HP - Helmerich & Payne, Inc. Common Stock
 HPAI - Helport AI Limited - Ordinary Shares
-HPAIW - Helport AI Limited - Warrants
 HPE - Hewlett Packard Enterprise Company Common Stock
 HPF - John Hancock Pfd Income Fund II Pfd Income Fund II
 HPI - John Hancock Preferred Income Fund Common Shares of Beneficial Interest
@@ -4948,7 +4945,6 @@ HSAI - Hesai Group - American Depositary Share, each ADS represents one Class B 
 HSBC - HSBC Holdings, plc. Common Stock
 HSBH - HSBC Holdings plc ADRhedged
 HSCS - HeartSciences Inc. - Common Stock
-HSCSW - HeartSciences Inc. - Warrant
 HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
@@ -5885,6 +5881,7 @@ KCE - State Street SPDR S&P Capital Markets ETF
 KCHV - Kochav Defense Acquisition Corp. - Class A Ordinary Shares
 KCHVR - Kochav Defense Acquisition Corp. - Right
 KCHVU - Kochav Defense Acquisition Corp. - Units
+KCOP - Kurv Copper & Mining Enhanced Income ETF
 KCSH - KraneShares Sustainable Ultra Short Duration Index ETF
 KD - Kyndryl Holdings, Inc. Common Stock
 KDEC - Innovator U.S. Small Cap Power Buffer ETF - December
@@ -7325,6 +7322,7 @@ NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
 NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
+NOEMW - CO2 Energy Transition Corp. - Warrant
 NOG - Northern Oil and Gas, Inc. Common Stock
 NOK - Nokia Corporation Sponsored American Depositary Shares
 NOM - Nuveen Missouri Quality Municipal Income Fund 
@@ -9387,6 +9385,7 @@ SHEH - Shell plc ADRhedged
 SHEL - Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) 
 SHEN - Shenandoah Telecommunications Co - Common Stock
 SHFS - SHF Holdings, Inc. - Class A Common Stock
+SHFSW - SHF Holdings, Inc. - Warrants
 SHG - Shinhan Financial Group Co Ltd American Depositary Shares
 SHIM - Shimmick Corporation - Common Stock
 SHIP - Seanergy Maritime Holdings Corp. - Common Stock
@@ -9645,7 +9644,6 @@ SOBR - SOBR Safe, Inc. - Common Stock
 SOC - Sable Offshore Corp. Common Stock
 SOCA - Solarius Capital Acquisition Corp. - Class A Ordinary Share
 SOCAU - Solarius Capital Acquisition Corp. - Units
-SOCAW - Solarius Capital Acquisition Corp. - Warrant
 SOCL - Global X Social Media ETF
 SOEZ - Franklin Solana ETF
 SOFA - Direxion Daily SOFI Bull 2X ETF
@@ -11302,6 +11300,7 @@ WLDR - Affinity World Leaders Equity ETF
 WLDS - Wearable Devices Ltd. - Ordinary Share
 WLDSW - Wearable Devices Ltd. - Warrant
 WLFC - Willis Lease Finance Corporation - Common Stock
+WLIIU - Willow Lane Acquisition Corp. II - Unit
 WLK - Westlake Corporation Common Stock
 WLKP - Westlake Chemical Partners LP Common Units representing limited partner interests
 WLTG - WealthTrust DBS Long Term Growth ETF
@@ -11569,6 +11568,7 @@ XRPZ - Franklin XRP ETF
 XRT - State Street SPDR S&P Retail ETF
 XRTX - XORTX Therapeutics Inc. - Common Stock
 XRX - Xerox Holdings Corporation - Common Stock
+XRXDW - Xerox Holdings Corporation - Warrants
 XSD - State Street SPDR S&P Semiconductor ETF
 XSEP - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September
 XSHD - Invesco S&P SmallCap High Dividend Low Volatility ETF
