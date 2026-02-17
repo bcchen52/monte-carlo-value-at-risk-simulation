@@ -1801,9 +1801,6 @@ CCB - Coastal Financial Corporation - Common Stock
 CCBG - Capital City Bank Group - Common Stock
 CCC - CCC Intelligent Solutions Holdings Inc. - Common Stock
 CCCC - C4 Therapeutics, Inc. - Common Stock
-CCCX - Churchill Capital Corp X - Class A Ordinary Shares
-CCCXU - Churchill Capital Corp X - Unit
-CCCXW - Churchill Capital Corp X - Warrants
 CCD - Calamos Dynamic Convertible & Income Fund - Closed End Fund
 CCEC - Capital Clean Energy Carriers Corp. - Common Share
 CCEF - Calamos CEF Income & Arbitrage ETF
@@ -2047,7 +2044,7 @@ CINT - CI&T Inc Class A Common Shares
 CION - CION Investment Corporation Common Stock
 CISO - CISO Global, Inc. - Common Stock
 CISS - C3is Inc. - Common Stock
-CITR - General Enterprise Ventures, Inc. Common Stock
+CITR - CitroTech Inc. Common Stock
 CIVB - Civista Bancshares, Inc.  - Common Stock
 CIX - CompX International Inc. Common Stock
 CJMB - Callan JMB Inc. - Common Stock
@@ -6839,7 +6836,6 @@ MOBXW - Mobix Labs, Inc. - Warrants
 MOD - Modine Manufacturing Company Common Stock
 MODD - Modular Medical, Inc. - common stock
 MODL - VictoryShares WestEnd U.S. Sector ETF
-MOFG - MidWestOne Financial Group, Inc. - Common Stock
 MOGU - MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares)
 MOH - Molina Healthcare Inc Common Stock
 MOLN - Molecular Partners AG - American Depositary Shares
@@ -7156,7 +7152,7 @@ NDAQ - Nasdaq, Inc. - Common Stock
 NDEC - Innovator Growth-100 Power Buffer ETF - December
 NDIA - Global X India Active ETF
 NDIV - Amplify Energy & Natural Resources Covered Call ETF
-NDLS - Noodles & Company - Common Stock
+NDLS - Noodles & Company - Class A Common Stock
 NDMO - Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest
 NDOW - Anydrus Advantage ETF
 NDRA - ENDRA Life Sciences Inc. - Common Stock
@@ -8696,7 +8692,6 @@ RC - Ready Capital Corporation Common Stock
 RCAT - Red Cat Holdings, Inc. - Common Stock
 RCAX - Defiance Daily Target 2x Long RCAT ETF
 RCB - Ready Capital Corporation 6.20% Senior Notes due 2026
-RCC - Ready Capital Corporation 5.75% Senior Notes due 2026
 RCD - Ready Capital Corporation 9.00% Senior Notes due 2029
 RCEL - Avita Medical, Inc. - Common Stock
 RCG - RENN Fund, Inc Common Stock
@@ -8797,6 +8792,7 @@ RF - Regions Financial Corporation Common Stock
 RFAI - RF Acquisition Corp II - Ordinary Shares
 RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
+RFAMU - RF Acquisition Corp III - Units
 RFCI - RiverFront Dynamic Core Income ETF
 RFDA - RiverFront Dynamic US Dividend Advantage ETF
 RFDI - First Trust RiverFront Dynamic Developed International ETF
@@ -9603,7 +9599,6 @@ SNAL - Snail, Inc. - Class A Common Stock
 SNAP - Snap Inc. Class A Common Stock
 SNAV - Mohr Sector Nav ETF
 SNBR - Sleep Number Corporation - Common Stock
-SNCR - Synchronoss Technologies, Inc. - Common Stock
 SNCY - Sun Country Airlines Holdings, Inc. - Common Stock
 SND - Smart Sand, Inc. - Common Stock
 SNDA - Sonida Senior Living, Inc. Common Stock
@@ -10170,7 +10165,6 @@ TECH - Bio-Techne Corp - Common Stock
 TECK - Teck Resources Ltd Ordinary Shares
 TECL - Direxion Technology Bull 3X Shares
 TECS - Direxion Technology Bear 3X Shares
-TECTP - Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
 TECX - Tectonic Therapeutic, Inc. - Common Stock
 TEI - Templeton Emerging Markets Income Fund, Inc. Common Stock
 TEK - iShares Technology Opportunities Active ETF
@@ -11715,7 +11709,6 @@ ZEOWW - Zeo Energy Corporation - Warrants
 ZEPP - Zepp Health Corporation American depositary shares, each representing sixteen Class A ordinary shares
 ZETA - Zeta Global Holdings Corp. Class A Common Stock
 ZETX - Defiance Daily Target 2x Long ZETA ETF
-ZEUS - Olympic Steel, Inc. - Common Stock
 ZFEB - Innovator Equity Defined Protection ETF - 1 Yr February
 ZG - Zillow Group, Inc. - Class A Common Stock
 ZGM - Zenta Group Company Limited - Ordinary Shares
