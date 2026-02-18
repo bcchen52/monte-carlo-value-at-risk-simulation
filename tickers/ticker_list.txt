@@ -2169,6 +2169,7 @@ CNS - Cohen & Steers Inc Common Stock
 CNSP - CNS Pharmaceuticals, Inc. - Common Stock
 CNTA - Centessa Pharmaceuticals plc - American Depositary Shares
 CNTB - Connect Biopharma Holdings Limited - Ordinary Shares
+CNTN - Canton Strategic Holdings, Inc. - Common Stock
 CNTX - Context Therapeutics Inc. - Common Stock
 CNTY - Century Casinos, Inc. - Common Stock
 CNVS - Cineverse Corp. - Class A Common Stock
@@ -2831,7 +2832,6 @@ DMAX - iShares Large Cap Max Buffer Dec ETF
 DMAY - FT Vest U.S. Equity Deep Buffer ETF - May
 DMB - BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock
 DMBS - DoubleLine Mortgage ETF
-DMCY - Democracy International Fund
 DMII - Drugs Made In America Acquisition II Corp. - Ordinary Shares
 DMIIR - Drugs Made In America Acquisition II Corp. - Right
 DMIIU - Drugs Made In America Acquisition II Corp. - Unit
@@ -3400,6 +3400,7 @@ ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
 ESK - REX-Osprey ETH + Staking ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
+ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLG - Eventide Large Cap Growth ETF
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESLV - Eventide Large Cap Value ETF
@@ -4633,6 +4634,7 @@ GSRFR - GSR IV Acquisition Corp. - Rights
 GSRFU - GSR IV Acquisition Corp. - Units
 GSSC - GS ActiveBeta U.S. Small Cap Equity ETF
 GSST - Goldman Sachs Ultra Short Bond ETF
+GSUI - Grayscale Sui Staking ETF
 GSUN - Golden Sun Technology Group Limited - Class A Ordinary Shares
 GSUS - Goldman Sachs MarketBeta U.S. Equity ETF
 GSWO - Goldman Sachs ActiveBeta World Equity ETF
@@ -5365,6 +5367,7 @@ INEO - INNEOVA Holdings Limited - Class A Ordinary Shares
 INEQ - Columbia International Equity Income ETF
 INFL - Horizon Kinetics Inflation Beneficiaries ETF
 INFO - Harbor PanAgora Dynamic Large Cap Core ETF
+INFQ - Infleqtion, Inc. Common Stock
 INFU - InfuSystems Holdings, Inc. Common Stock
 INFY - Infosys Limited American Depositary Shares
 ING - ING Group, N.V. Common Stock
@@ -7552,11 +7555,12 @@ OAKM - Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
+OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
 OBA - Oxley Bridge Acquisition Limited - Class A Ordinary Shares
-OBAI - TG-17, Inc. - Common Stock
+OBAI - Our Bond, Inc. - Common Stock
 OBAWU - Oxley Bridge Acquisition Limited - Unit
 OBAWW - Oxley Bridge Acquisition Limited - Warrants
 OBDC - Blue Owl Capital Corporation Common Stock
@@ -10225,7 +10229,6 @@ TGS - Transportadora de Gas del Sur SA TGS Common Stock
 TGT - Target Corporation Common Stock
 TGTX - TG Therapeutics, Inc. - Common Stock
 TH - Target Hospitality Corp. - Common Stock
-THAR - Tharimmune, Inc. - Common Stock
 THC - Tenet Healthcare Corporation Common Stock
 THCH - TH International Limited - Ordinary shares
 THD - iShares MSCI Thailand ETF
