@@ -4283,6 +4283,7 @@ GDE - WisdomTree Efficient Gold Plus Equity Strategy Fund
 GDEC - FT Vest U.S. Equity Moderate Buffer ETF - December
 GDEN - Golden Entertainment, Inc. - Common Stock
 GDEV - GDEV Inc. - Ordinary Shares
+GDEVW - GDEV Inc. - Warrant
 GDFN - Tema International Defense Innovation ETF
 GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
 GDIV - Harbor Dividend Growth Leaders ETF
@@ -4363,6 +4364,7 @@ GGME - Invesco Next Gen Media and Gaming ETF
 GGN - GAMCO Global Gold, Natural Resources & Income Trust
 GGOV - iShares Global Government Bond USD Hedged Active ETF
 GGR - Gogoro Inc. - Ordinary Shares
+GGROW - Gogoro Inc. - Warrant
 GGRP - The Glimpse Group, Inc. - Common Stock
 GGRW - Gabelli Growth Innovators ETF
 GGT - Gabelli Multi-Media Trust, Inc. (The) Common Stock
@@ -4952,6 +4954,7 @@ HSAI - Hesai Group - American Depositary Share, each ADS represents one Class B 
 HSBC - HSBC Holdings, plc. Common Stock
 HSBH - HSBC Holdings plc ADRhedged
 HSCS - HeartSciences Inc. - Common Stock
+HSCSW - HeartSciences Inc. - Warrant
 HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
@@ -5592,6 +5595,7 @@ IVRA - Invesco Real Assets ESG ETF
 IVRS - iShares Future Metaverse Tech and Communications ETF
 IVSI - Applied Finance IVS International Large ETF
 IVSS - Applied Finance IVS US SMID ETF
+IVSX - Applied Finance IVS International SMID ETF
 IVT - InvenTrust Properties Corp. Common Stock
 IVV - iShares Core S&P 500 ETF
 IVVB - iShares Large Cap Deep Quarterly Laddered ETF
@@ -5890,6 +5894,7 @@ KCAI - KraneShares China Alpha Index ETF
 KCCA - KraneShares California Carbon Allowance Strategy ETF
 KCE - State Street SPDR S&P Capital Markets ETF
 KCHV - Kochav Defense Acquisition Corp. - Class A Ordinary Shares
+KCHVR - Kochav Defense Acquisition Corp. - Right
 KCHVU - Kochav Defense Acquisition Corp. - Units
 KCOP - Kurv Copper & Mining Enhanced Income ETF
 KCSH - KraneShares Sustainable Ultra Short Duration Index ETF
@@ -8660,7 +8665,6 @@ RAA - SMI 3Fourteen REAL Asset Allocation ETF
 RAAA - Reckoner Yield Enhanced AAA CLO ETF
 RAAQ - Real Asset Acquisition Corp. - Class A Ordinary Share
 RAAQU - Real Asset Acquisition Corp. - Unit
-RAAQW - Real Asset Acquisition Corp. - Warrants
 RAAR - Reckoner Yield Enhanced AAA CLO Reinvesting ETF
 RAAX - VanEck Real Assets ETF
 RAAY - Reckoner Yield Enhanced AAA CLO Annual ETF
@@ -8949,6 +8953,7 @@ ROAM - Hartford Multifactor Emerging Markets ETF
 ROBN - T-Rex 2X Long HOOD Daily Target ETF
 ROBO - ROBO Global Robotics and Automation Index ETF
 ROBT - First Trust Nasdaq Artificial Intelligence and Robotics ETF
+ROC - Rank One Computing Corporation - Common stock
 ROCK - Gibraltar Industries, Inc. - Common Stock
 RODM - Hartford Multifactor Developed Markets (ex-US) ETF
 ROE - Astoria US Equal Weight Quality Kings ETF
@@ -9276,6 +9281,7 @@ SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
 SDM - Smart Digital Group Limited - Ordinary Shares
+SDMF - Simplify DBi CTA Managed Futures Index ETF
 SDOG - ALPS Sector Dividend Dogs ETF
 SDOT - Sadot Group Inc. - Common Stock
 SDOW - UltraPro Short Dow30
@@ -11375,7 +11381,6 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
-WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
