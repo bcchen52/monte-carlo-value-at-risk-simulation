@@ -59,8 +59,6 @@ ABNG - Leverage Shares 2x Long ABNB Daily ETF
 ABNY - YieldMax ABNB Option Income Strategy ETF
 ABOS - Acumen Pharmaceuticals, Inc. - Common Stock
 ABOT - Abacus FCF Innovation Leaders ETF
-ABP - Abpro Holdings, Inc - Common Stock
-ABPWW - Abpro Holdings, Inc - Warrant
 ABR - Arbor Realty Trust Common Stock
 ABSI - Absci Corporation - Common Stock
 ABT - Abbott Laboratories Common Stock
@@ -1283,7 +1281,6 @@ BKLN - Invesco Senior Loan ETF
 BKMC - BNY Mellon US Mid Cap Core Equity ETF
 BKMI - BNY Mellon Municipal Intermediate ETF
 BKMS - BNY Mellon Municipal Short Duration ETF
-BKN - BlackRock Investment Quality Municipal Trust Inc. (The)
 BKNG - Booking Holdings Inc. - Common Stock
 BKNU - T-REX 2X Long BKNG Daily Target ETF
 BKR - Baker Hughes Company - Common Stock
@@ -1550,7 +1547,6 @@ BSVN - Bank7 Corp. - Common stock
 BSVO - EA Bridgeway Omni Small-Cap Value ETF
 BSX - Boston Scientific Corporation Common Stock
 BSY - Bentley Systems, Incorporated - Class B Common Stock
-BTA - BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest
 BTAI - BioXcel Therapeutics, Inc. - Common Stock
 BTAL - AGF U.S. Market Neutral Anti-Beta Fund
 BTBD - BT Brands, Inc. - Common Stock
@@ -3682,6 +3678,7 @@ FDG - American Century Focused Dynamic Growth ETF
 FDHY - Fidelity Enhanced High Yield ETF
 FDIF - Fidelity Disruptors ETF
 FDIG - Fidelity Crypto Industry and Digital Payments ETF
+FDIQ - Invesco Bloomberg Financial Data Providers ETF
 FDIS - Fidelity MSCI Consumer Discretionary Index ETF
 FDIV - MarketDesk Focused U.S. Dividend ETF
 FDL - First Trust Morningstar ETF
@@ -4487,7 +4484,6 @@ GMOD - GMO Dynamic Allocation ETF
 GMOI - GMO International Value ETF
 GMOM - Cambria Global Momentum ETF
 GMOV - GMO US Value ETF
-GMRE - Global Medical REIT Inc. Common Stock
 GMUB - Goldman Sachs Municipal Income ETF
 GMUN - Goldman Sachs Access Municipal Bond ETF
 GNE - Genie Energy Ltd. Class B Common Stock Stock
@@ -4670,6 +4666,7 @@ GTN - Gray Media, Inc. Common Stock
 GTO - Invesco Total Return Bond ETF
 GTOC - Invesco Core Fixed Income ETF
 GTOP - Goldman Sachs Technology Opportunities ETF
+GTOQ - Invesco High Yield Systematic Bond ETF
 GTOS - Invesco Short Duration Total Return Bond ETF
 GTPE - Goldman Sachs MSCI World Private Equity Return Tracker ETF
 GTR - WisdomTree Target Range Fund
@@ -4864,7 +4861,6 @@ HITI - High Tide Inc. - Common Shares
 HIVE - HIVE Digital Technologies Ltd - Common Shares
 HIW - Highwoods Properties, Inc. Common Stock
 HIX - Western Asset High Income Fund II Inc. Common Stock
-HIYS - Invesco High Yield Select ETF
 HIYY - YieldMax HIMS Option Income Strategy ETF
 HKD - AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)
 HKIT - Hitek Global Inc. - Class A Ordinary Share
@@ -5280,7 +5276,6 @@ IHRT - iHeartMedia, Inc. - Class A Common Stock
 IHS - IHS Holding Limited Ordinary Shares
 IHT - InnSuites Hospitality Trust Shares of Beneficial Interest
 IHY - VanEck International High Yield Bond ETF
-IHYF - Invesco High Yield Bond Factor ETF
 IIF - Morgan Stanley India Investment Fund, Inc. Common Stock
 IIGD - Invesco Investment Grade Defensive ETF
 III - Information Services Group, Inc. - Common Stock
@@ -5887,7 +5882,6 @@ KBUF - KraneShares 90% KWEB Defined Outcome January 2027 ETF
 KBWB - Invesco KBW Bank ETF
 KBWD - Invesco KBW High Dividend Yield Financial ETF
 KBWP - Invesco KBW Property & Casualty Insurance ETF
-KBWR - Invesco KBW Regional Banking ETF
 KBWY - Invesco KBW Premium Yield Equity REIT ETF
 KC - Kingsoft Cloud Holdings Limited - American Depositary Shares
 KCAI - KraneShares China Alpha Index ETF
@@ -6889,7 +6883,6 @@ MPWR - Monolithic Power Systems, Inc. - Common Stock
 MPX - Marine Products Corporation Common Stock
 MQ - Marqeta, Inc. - Class A Common Stock
 MQQQ - Tradr 2X Long Innovation 100 Monthly ETF
-MQT - Blackrock MuniYield Quality Fund II, Inc. Common Stock
 MQY - Blackrock MuniYield Quality Fund, Inc. Common Stock
 MRAL - GraniteShares 2x Long MARA Daily ETF
 MRAM - Everspin Technologies, Inc. - Common Stock
@@ -7027,7 +7020,6 @@ MUX - McEwen Inc. Common Stock
 MUZEU - Muzero Acquisition Corp - Unit
 MVAL - VanEck Morningstar Wide Moat Value ETF
 MVBF - MVB Financial Corp. - Common Stock
-MVF - Blackrock MuniVest Fund, Inc. Common Stock
 MVFD - Monarch Volume Factor Dividend Tree Index ETF
 MVFG - Monarch Volume Factor Global Unconstrained Index ETF
 MVIS - MicroVision, Inc. - Common Stock
@@ -7038,7 +7030,6 @@ MVPL - Miller Value Partners Leverage ETF
 MVRL - ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN
 MVST - Microvast Holdings, Inc. - Common Stock
 MVSTW - Microvast Holdings, Inc. - Warrant
-MVT - Blackrock MuniVest Fund II, Inc.  Common Stock
 MVV - ProShares Ultra MidCap400
 MWA - MUELLER WATER PRODUCTS Common Stock
 MWG - Multi Ways Holdings Limited Class A Ordinary Shares
@@ -7061,7 +7052,6 @@ MYCL - State Street My2032 Corporate Bond ETF
 MYCM - State Street My2033 Corporate Bond ETF
 MYCN - State Street My2034 Corporate Bond ETF
 MYCO - State Street My2035 Corporate Bond ETF
-MYD - Blackrock MuniYield Fund, Inc.  Common Stock
 MYE - Myers Industries, Inc. Common Stock
 MYFW - First Western Financial, Inc. - Common Stock
 MYGN - Myriad Genetics, Inc. - Common Stock
@@ -8094,7 +8084,6 @@ PGZ - Principal Real Estate Income Fund Common Shares of Beneficial Interest
 PH - Parker-Hannifin Corporation Common Stock
 PHAR - Pharming Group N.V. - ADS, each representing 10 ordinary shares
 PHAT - Phathom Pharmaceuticals, Inc. - Common Stock
-PHB - Invesco Fundamental High Yield Corporate Bond ETF
 PHDG - Invesco S&P 500 Downside Hedged ETF
 PHEQ - Parametric Hedged Equity ETF
 PHG - Koninklijke Philips N.V. NY Registry Shares
@@ -8126,7 +8115,6 @@ PIII - P3 Health Partners Inc. - Class A Common Stock
 PIIIW - P3 Health Partners Inc. - Warrant
 PILL - Direxion Daily Pharmaceutical & Medical Bull 3X Shares
 PIM - Putnam Master Intermediate Income Trust Common Stock
-PIN - Invesco India ETF
 PINE - Alpine Income Property Trust, Inc. Common Stock
 PINK - Simplify Health Care ETF
 PINS - Pinterest, Inc. Class A Common Stock
@@ -9797,7 +9785,6 @@ SPUS - SP Funds S&P 500 Sharia Industry Exclusions ETF
 SPUT - Innovator Equity Premium Income - Daily PutWrite ETF
 SPUU - Direxion Daily S&P 500 Bull 2X Shares
 SPVM - Invesco S&P 500 Value with Momentum ETF
-SPVU - Invesco S&P 500 Enhanced Value ETF
 SPWH - Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWO - SP Funds S&P World (ex-US) ETF
 SPWR - SunPower Inc. - Common Stock
