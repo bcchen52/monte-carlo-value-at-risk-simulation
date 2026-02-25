@@ -405,6 +405,7 @@ ALNT - Allient Inc. - Common Stock
 ALNY - Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOT - AstroNova, Inc. - Common Stock
 ALOVU - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units
+ALOY - REalloys Inc. - Common Stock
 ALPS - ALPS Group Inc - Ordinary Share
 ALRG - Allspring LT Large Core ETF
 ALRM - Alarm.com Holdings, Inc. - Common Stock
@@ -758,6 +759,7 @@ ATHS - Athene Holding Ltd. 7.250% Fixed-Rate Reset Junior Subordinated Debenture
 ATI - ATI Inc. Common Stock
 ATII - Archimedes Tech SPAC Partners II Co. - Ordinary Shares
 ATIIU - Archimedes Tech SPAC Partners II Co. - Unit
+ATIIW - Archimedes Tech SPAC Partners II Co. - Warrant
 ATKR - Atkore Inc. Common Stock
 ATLC - Atlanticus Holdings Corporation - Common Stock
 ATLCL - Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026
@@ -1290,7 +1292,6 @@ BKV - BKV Corporation Common Stock
 BKYI - BIO-key International, Inc. - Common Stock
 BL - BlackLine, Inc. - Common Stock
 BLBD - Blue Bird Corporation - Common Stock
-BLBX - Blackboxstocks Inc. - Common Stock
 BLCN - Siren NexGen Economy ETF
 BLCO - Bausch + Lomb Corporation Common Shares
 BLCR - iShares Large Cap Core Active ETF
@@ -2018,7 +2019,7 @@ CICC - CION Investment Corporation 7.50% Notes due 2031
 CIEN - Ciena Corporation Common Stock
 CIF - MFS Intermediate High Income Fund Common Stock
 CIFG - Leverage Shares 2X Long CIFR Daily ETF
-CIFR - Cipher Mining Inc. - Common Stock
+CIFR - Cipher Digital Inc. - Common Stock
 CIFU - T-REX 2X Long CIFR Daily Target ETF
 CIG - Comp En De Mn Cemig ADS American Depositary Shares
 CIGI - Colliers International Group Inc.  - Subordinate Voting Shares
@@ -2411,6 +2412,7 @@ CSW - CSW Industrials, Inc. Common Stock
 CSWC - Capital Southwest Corporation - Common Stock
 CSX - CSX Corporation - Common Stock
 CTA - Simplify Managed Futures Strategy ETF
+CTAAU - ClearThink 1 Acquisition Corp. - Units
 CTAP - Simplify US Equity PLUS Managed Futures Strategy ETF
 CTAS - Cintas Corporation - Common Stock
 CTBB - Qwest Corporation 6.5% Notes due 2056
@@ -2486,6 +2488,7 @@ CVRD - Madison Covered Call ETF
 CVRT - Calamos Convertible Equity Alternative ETF
 CVRX - CVRx, Inc. - Common Stock
 CVS - CVS Health Corporation Common Stock
+CVSA - Covista Inc. Common Shares
 CVSB - Calvert Ultra-Short Investment Grade ETF
 CVU - CPI Aerostructures, Inc. Common Stock
 CVV - CVD Equipment Corporation - Common Stock
@@ -3390,6 +3393,7 @@ ESGLW - ESGL Holdings Limited - Warrants
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESHA - ESH Acquisition Corp. - Class A Common Stock
+ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
@@ -3815,6 +3819,7 @@ FIGR - Figure Technology Solutions, Inc. - Class A Common Stock
 FIGS - FIGS, Inc. Class A Common Stock
 FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
+FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIHL - Fidelis Insurance Holdings Limited Common Shares
 FIIG - First Trust Intermediate Duration Investment Grade Corporate ETF
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
@@ -4169,6 +4174,7 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
+FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -5090,6 +5096,7 @@ IBDX - iShares iBonds Dec 2032 Term Corporate ETF
 IBDY - iShares iBonds Dec 2033 Term Corporate ETF
 IBDZ - iShares iBonds Dec 2034 Term Corporate ETF
 IBEX - IBEX Limited - Common Share
+IBFR - Innovator International Developed Managed 10 Buffer ETF
 IBG - Innovation Beverage Group Limited - Ordinary Shares
 IBGA - iShares iBonds Dec 2044 Term Treasury ETF
 IBGB - iShares iBonds Dec 2045 Term Treasury ETF
@@ -5338,6 +5345,7 @@ IMVT - Immunovant, Inc.  - Common Stock
 IMXI - International Money Express, Inc. - Common Stock
 INAB - IN8bio, Inc. - Common Stock
 INAC - Indigo Acquisition Corp. - Ordinary Shares
+INACR - Indigo Acquisition Corp. - Right
 INACU - Indigo Acquisition Corp. - Unit
 INBK - First Internet Bancorp - Common Stock
 INBKZ - First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029
@@ -5480,6 +5488,7 @@ IQSU - NYLI Candriam U.S. Large Cap Equity ETF
 IQSZ - Invesco Global Equity Net Zero ETF
 IQV - IQVIA Holdings, Inc. Common Stock
 IR - Ingersoll Rand Inc. Common Stock
+IRAB - Iris Acquisition Corp II Class A Ordinary Shares
 IRD - Opus Genetics, Inc. - Common Stock
 IRDM - Iridium Communications Inc - Common Stock
 IRE - Defiance Daily Target 2X Long IREN ETF
@@ -5862,6 +5871,7 @@ KBAB - KraneShares 2x Long BABA Daily ETF
 KBDC - Kayne Anderson BDC, Inc. Common Stock
 KBDU - KraneShares 2x Long BIDU Daily ETF
 KBE - State Street SPDR S&P Bank ETF
+KBFR - Innovator U.S. Small Cap Managed 10 Buffer ETF
 KBH - KB Home Common Stock
 KBON - Karbon Capital Partners Corp. - Class A Ordinary Shares
 KBONU - Karbon Capital Partners Corp. - Units
@@ -6456,6 +6466,7 @@ MAAY - GraniteShares YieldBOOST MARA ETF
 MAC - Macerich Company (The) Common Stock
 MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
+MACIW - Melar Acquisition Corp. I - Warrant
 MADE - iShares U.S. Manufacturing ETF
 MAGA - Point Bridge America First ETF
 MAGC - Roundhill China Magnificent Seven ETF
@@ -6674,7 +6685,6 @@ MGA - Magna International, Inc. Common Stock
 MGC - Vanguard Mega Cap ETF
 MGEE - MGE Energy Inc. - Common Stock
 MGF - MFS Government Markets Income Trust Common Stock
-MGIC - Magic Software Enterprises Ltd. - Ordinary Shares
 MGIH - Millennium Group International Holdings Limited - Ordinary Shares
 MGK - Vanguard Mega Cap Growth ETF
 MGLD - The Marygold Companies, Inc. Common Stock
@@ -6716,6 +6726,7 @@ MIDE - Xtrackers S&P MidCap 400 Scored & Screened ETF
 MIDU - Direxion Mid Cap Bull 3X Shares
 MIG - VanEck Moody's Analytics IG Corporate Bond ETF
 MIGI - Mawson Infrastructure Group Inc. - Common Stock
+MIGO - MIG Core ETF
 MILK - Pacer US Cash Cows Bond ETF
 MILN - Global X Millennial Consumer ETF
 MIMI - Mint Incorporation Limited - Class A Ordinary Shares
@@ -7100,6 +7111,7 @@ NBCR - Neuberger Core Equity ETF
 NBDS - Neuberger Disrupters ETF
 NBET - Neuberger Berman Energy Transition & Infrastructure ETF
 NBFC - Neuberger Berman Flexible Credit Income ETF
+NBFR - Innovator Nasdaq-100 Managed 10 Buffer ETF
 NBGX - Neuberger Growth ETF
 NBH - Neuberger Municipal Fund Inc. Common Stock
 NBHC - National Bank Holdings Corporation Common Stock
@@ -8537,6 +8549,7 @@ QMMM - QMMM Holdings Limited - Class A Ordinary Shares
 QMMY - FT Vest Nasdaq-100 Moderate Buffer ETF - May
 QMNV - FT Vest Nasdaq-100 Moderate Buffer ETF - November
 QMOM - Alpha Architect U.S. Quantitative Momentum ETF
+QNC - Quantum eMotion Corp. Common Shares
 QNCX - Quince Therapeutics, Inc. - Common Stock
 QNRX - Quoin Pharmaceuticals, Ltd. - American Depositary Shares
 QNST - QuinStreet, Inc. - Common Stock
@@ -8897,6 +8910,7 @@ RMNI - Rimini Street, Inc. - Common Stock
 RMNY - Rockefeller New York Municipal Bond ETF
 RMOP - Rockefeller Opportunistic Municipal Bond ETF
 RMR - The RMR Group Inc. - Class A Common Stock
+RMRC - ARMOR Core Risk-Managed ETF
 RMSG - Real Messenger Corporation - Ordinary Shares
 RMSGW - Real Messenger Corporation - Warrants
 RMT - Royce Micro-Cap Trust, Inc. Common Stock
@@ -9078,6 +9092,7 @@ RYN - Rayonier Inc. REIT Common Stock
 RYOJ - rYojbaba Co., Ltd. - Common Shares
 RYSE - Vest 10 Year Interest Rate Hedge ETF
 RYTM - Rhythm Pharmaceuticals, Inc. - Common Stock
+RYZ - Ryerson Holding Corporation Common Stock
 RZB - Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056
 RZC - Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052
 RZG - Invesco S&P SmallCap 600 Pure Growth ETF
@@ -10192,6 +10207,7 @@ TEXN - iShares Texas Equity ETF
 TEXU - Direxion Daily Energy Top 5 Bull 2X ETF
 TEXX - Horizon Kinetics Texas ETF
 TFC - Truist Financial Corporation Common Stock
+TFFI - Chesapeake Trend-Following Fixed Income ETF
 TFI - State Street SPDR Nuveen ICE Municipal Bond ETF
 TFII - TFI International Inc. Common Shares
 TFIN - Triumph Financial, Inc. Common Stock
@@ -10514,6 +10530,7 @@ TSQ - Townsquare Media, Inc. Class A Common Stock
 TSRS - Truth Social American Red State REITs ETF
 TSSD - Truth Social American Security & Defense ETF
 TSSI - TSS, Inc. - Common Stock
+TSUI - 21Shares Sui ETF
 TSXD - Direxion Daily Semiconductors Top 5 Bear 2X ETF
 TSXU - Direxion Daily Semiconductors Top 5 Bull 2X ETF
 TSYW - Roundhill Treasury Bond WeeklyPay ETF
@@ -11314,6 +11331,7 @@ WOOD - iShares Global Timber & Forestry ETF
 WOOF - Petco Health and Wellness Company, Inc. - Class A Common Stock
 WOR - Worthington Enterprises, Inc. Common Shares
 WORX - SCWorx Corp. - Common Stock
+WPAC - White Pearl Acquisition Corp. Class A Ordinary Shares
 WPAY - Roundhill WeeklyPay Universe ETF
 WPC - W. P. Carey Inc. REIT
 WPM - Wheaton Precious Metals Corp Common Shares (Canada)
@@ -11402,6 +11420,7 @@ XB - BondBloxx B-Rated USD High Yield Corporate Bond ETF
 XBAP - Innovator U.S. Equity Accelerated 9 Buffer ETF - April
 XBB - BondBloxx BB-Rated USD High Yield Corporate Bond ETF
 XBCI - NEOS Boosted Bitcoin High Income ETF
+XBFR - Innovator Equity Managed 10 Buffer ETF
 XBI - State Street SPDR S&P Biotech ETF
 XBIL - US Treasury 6 Month Bill ETF
 XBIO - Xenetic Biosciences, Inc. - Common Stock
