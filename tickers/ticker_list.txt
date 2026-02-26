@@ -133,6 +133,7 @@ ACWI - iShares MSCI ACWI ETF
 ACWV - iShares MSCI Global Min Vol Factor ETF
 ACWX - iShares MSCI ACWI ex U.S. ETF
 ACXP - Acurx Pharmaceuticals, Inc. - Common Stock
+ACYN - FT Vest Laddered Autocallable Barrier & Income ETF
 AD - Array Digital Infrastructure, Inc. Common Shares
 ADAC - American Drive Acquisition Company - Class A Ordinary Shares
 ADACU - American Drive Acquisition Company - Units
@@ -1044,6 +1045,7 @@ BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHI - GMO Beyond China ETF
 BCHP - Principal Focused Blue Chip ETF
+BCHT - Birchtech Corp. Common Stock
 BCI - abrdn Bloomberg All Commodity Strategy K-1 Free ETF
 BCIC - BCP Investment Corporation - Closed End Fund
 BCIL - Bancreek International Large Cap ETF
@@ -1338,7 +1340,6 @@ BLX - Banco Latinoamericano de Comercio Exterior, S.A.
 BLZE - Backblaze, Inc. - Common Stock
 BLZR - Trailblazer Acquisition Corp. - Class A Ordinary Shares
 BLZRU - Trailblazer Acquisition Corp. - Unit
-BLZRW - Trailblazer Acquisition Corp. - Warrant
 BMA - Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
 BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAX - REX Bitcoin Corporate Treasury Convertible Bond ETF
@@ -1742,7 +1743,6 @@ CARY - Angel Oak Income ETF
 CARZ - First Trust S-Network Future Vehicles & Technology ETF
 CAS - Simplify China A Shares PLUS Income ETF
 CASH - Pathward Financial, Inc. - Common Stock
-CASI - CASI Pharmaceuticals, Inc. - Ordinary Shares
 CASS - Cass Information Systems, Inc - Common Stock
 CASY - Caseys General Stores, Inc. - Common Stock
 CAT - Caterpillar, Inc. Common Stock
@@ -2573,7 +2573,9 @@ DBA - Invesco DB Agriculture Fund
 DBAW - Xtrackers MSCI All World ex US Hedged Equity ETF
 DBB - Invesco DB Base Metals Fund
 DBC - Invesco DB Commodity Index Tracking Fund
+DBCA - D. Boral Acquisition I Corp. - Class A Ordinary Shares
 DBCAU - D. Boral Acquisition I Corp. - Unit
+DBCAW - D. Boral Acquisition I Corp. - Warrants
 DBD - Diebold Nixdorf Incorporated Common stock
 DBE - Invesco DB Energy Fund
 DBEF - Xtrackers MSCI EAFE Hedged Equity ETF
@@ -4752,7 +4754,6 @@ HBTA - Horizon Expedition Plus ETF
 HBTC - Fortuna Hedged Bitcoin ETF
 HCA - HCA Healthcare, Inc. Common Stock
 HCAC - Hall Chadwick Acquisition Corp. - Class A Ordinary Shares
-HCACR - Hall Chadwick Acquisition Corp. - Rights
 HCACU - Hall Chadwick Acquisition Corp. - Unit
 HCAI - Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares
 HCAT - Health Catalyst, Inc - Common stock
@@ -6063,6 +6064,8 @@ KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
 KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - T-REX 2X Long KTOS Daily Target ETF
+KTWO - K2 Capital Acquisition Corporation - Class A Ordinary Share
+KTWOR - K2 Capital Acquisition Corporation - Rights
 KTWOU - K2 Capital Acquisition Corporation - Units
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -6147,7 +6150,6 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
-LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCIZ - Tradr 2X Short LCID Daily ETF
@@ -6337,7 +6339,6 @@ LOPE - Grand Canyon Education, Inc. - Common Stock
 LOPP - Gabelli Love Our Planet & People ETF Gabelli Love Our Planet & People ETF
 LOT - Lotus Technology Inc. - American Depositary Shares
 LOTI - Liberty One Tactical Income ETF
-LOTWW - Lotus Technology Inc. - Warrants
 LOUP - Innovator Deepwater Frontier Tech ETF
 LOVE - The Lovesac Company - Common Stock
 LOW - Lowe's Companies, Inc. Common Stock
@@ -7255,7 +7256,6 @@ NIOG - Leverage Shares 2X Long NIO Daily ETF
 NIPG - NIP Group Inc. - American Depositary Shares
 NIQ - NIQ Global Intelligence plc Ordinary Shares
 NITE - The Nightview Fund NITE
-NITO - N2OFF, Inc. - Common Stock
 NIU - Niu Technologies - American Depositary Shares
 NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
 NIVFW - NewGenIvf Group Limited - Warrants
@@ -7425,6 +7425,8 @@ NUAG - Nuveen Enhanced Yield U.S. Aggregate Bond ETF
 NUAI - New Era Energy & Digital, Inc. - Common Stock
 NUAIW - New Era Energy & Digital, Inc. - Warrants
 NUBD - Nuveen ESG U.S. Aggregate Bond ETF
+NUCL - Eagle Nuclear Energy Corp. - Common stock
+NUCLW - Eagle Nuclear Energy Corp. - Warrants
 NUDM - Nuveen ESG International Developed Markets Equity ETF
 NUDV - Nuveen ESG Dividend ETF
 NUE - Nucor Corporation Common Stock
@@ -7517,7 +7519,6 @@ NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
 NXG - NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
 NXGL - NexGel, Inc - Common Stock
-NXGLW - NexGel, Inc - Warrant
 NXJ - Nuveen New Jersey Qualified Municipal Fund 
 NXL - Nexalin Technology, Inc. - Common Stock
 NXP - Nuveen Select Tax Free Income Portfolio Common Stock
@@ -7531,6 +7532,7 @@ NXTC - NextCure, Inc. - Common Stock
 NXTE - AXS Green Alpha ETF
 NXTG - First Trust Indxx NextG ETF
 NXTI - Simplify Next Intangible Core Index ETF
+NXTS - Nexentis Technologies Inc. - Common Stock
 NXTT - Next Technology Holding Inc. - Ordinary Shares
 NXUS - Nuveen International Aggregate Bond ETF
 NXXT - NextNRG, Inc. - Common Stock
@@ -7545,7 +7547,6 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - State Street SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
-OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -7558,7 +7559,6 @@ OAKM - Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
-OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
@@ -8839,7 +8839,6 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
-RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -8915,8 +8914,8 @@ RMSG - Real Messenger Corporation - Ordinary Shares
 RMSGW - Real Messenger Corporation - Warrants
 RMT - Royce Micro-Cap Trust, Inc. Common Stock
 RMTI - Rockwell Medical, Inc. - Common Stock
-RNA - Avidity Biosciences, Inc. - Common Stock
 RNAC - Cartesian Therapeutics, Inc. - Common Stock
+RNAM - Avidity Biosciences, Inc. - Common Stock
 RNAZ - TransCode Therapeutics, Inc. - Common Stock
 RND - First Trust Bloomberg R&D Leaders ETF
 RNEM - Emerging Markets Equity Select ETF
@@ -10929,7 +10928,6 @@ VDIG - Vanguard Wellington Dividend Growth Active ETF
 VEA - Vanguard FTSE Developed Markets ETF
 VECO - Veeco Instruments Inc. - Common Stock
 VEEA - Veea Inc. - Common Stock
-VEEAW - Veea Inc. - Warrant
 VEEE - Twin Vee PowerCats Co. - Common Stock
 VEEV - Veeva Systems Inc. Class A Common Stock
 VEGA - AdvisorShares STAR Global Buy-Write ETF
