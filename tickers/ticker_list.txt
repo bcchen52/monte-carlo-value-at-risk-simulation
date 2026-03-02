@@ -283,7 +283,6 @@ AGZ - iShares  Agency Bond ETF
 AGZD - WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund
 AHCO - AdaptHealth Corp.  - Common Stock
 AHG - Akso Health Group - American Depositary Shares
-AHH - Armada Hoffler Properties, Inc. Common Stock
 AHLT - AHL Trend ETF
 AHMA - Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares
 AHR - American Healthcare REIT, Inc. Common Stock
@@ -396,7 +395,7 @@ ALLE - Allegion plc Ordinary Shares
 ALLO - Allogene Therapeutics, Inc. - Common Stock
 ALLR - Allarity Therapeutics, Inc. - Common stock
 ALLT - Allot Ltd. - Ordinary Shares
-ALLW - SPDR Bridgewater All Weather ETF
+ALLW - State Street Bridgewater All Weather ETF
 ALLY - Ally Financial Inc. Common Stock
 ALM - Almonty Industries Inc. - Common Shares
 ALMS - Alumis Inc. - Common Stock
@@ -501,7 +500,6 @@ AN - AutoNation, Inc. Common Stock
 ANAB - AnaptysBio, Inc. - Common Stock
 ANDE - The Andersons, Inc. - Common Stock
 ANDG - Andersen Group Inc. Class A Common Stock
-ANEB - Anebulo Pharmaceuticals, Inc. - Common Stock
 ANEL - Defiance Daily Target 2x Long ANET ETF
 ANET - Arista Networks, Inc. Common Stock
 ANEW - ProShares MSCI Transformational Changes ETF
@@ -1148,7 +1146,6 @@ BFLB - BufferLABS US Equity Dynamic Buffer ETF
 BFLY - Butterfly Network, Inc. Class A Common Stock
 BFOC - FT Vest Bitcoin Strategy Floor15 ETF - October
 BFOR - Barron's 400 ETF
-BFRE - Westwood LBRTY Global Equity ETF
 BFRG - Bullfrog AI Holdings, Inc. - Common Stock
 BFRGW - Bullfrog AI Holdings, Inc. - Warrants
 BFRI - Biofrontera Inc. - Common Stock
@@ -1897,7 +1894,7 @@ CEPU - Central Puerto S.A. American Depositary Shares (each represents ten Commo
 CEPV - Cantor Equity Partners V, Inc. - Class A Ordinary Shares
 CERS - Cerus Corporation - Common Stock
 CERT - Certara, Inc. - Common Stock
-CERY - SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF
+CERY - State Street SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF
 CET - Central Securities Corporation Common Stock
 CETX - Cemtrex Inc. - Common Stock
 CETY - Clean Energy Technologies, Inc. - Common Stock
@@ -2646,7 +2643,7 @@ DEA - Easterly Government Properties, Inc. Common Stock
 DEC - Diversified Energy Company Common Stock
 DECK - Deckers Outdoor Corporation Common Stock
 DECM - FT Vest U.S. Equity Max Buffer ETF - December
-DECO - SPDR Galaxy Digital Asset Ecosystem ETF
+DECO - State Street Galaxy Digital Asset Ecosystem ETF
 DECP - PGIM S&P 500 Buffer 12 ETF - December
 DECT - AllianzIM U.S. Large Cap Buffer10 Dec ETF
 DECU - AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF
@@ -2691,7 +2688,7 @@ DFEN - Direxion Daily Aerospace & Defense Bull 3X Shares
 DFEV - Dimensional Emerging Markets Value ETF
 DFGP - Dimensional Global Core Plus Fixed Income ETF
 DFGR - Dimensional Global Real Estate ETF
-DFGX - Dimensional Global ex US Core Fixed Income ETF
+DFGX - Dimensional International Core Fixed Income ETF
 DFH - Dream Finders Homes, Inc. Class A Common Stock
 DFIC - Dimensional International Core Equity 2 ETF
 DFII - FT Vest Bitcoin Strategy & Target Income ETF
@@ -2828,7 +2825,6 @@ DMAAR - Drugs Made In America Acquisition Corp. - Rights
 DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
-DMAT - Global X Disruptive Materials ETF
 DMAX - iShares Large Cap Max Buffer Dec ETF
 DMAY - FT Vest U.S. Equity Deep Buffer ETF - May
 DMB - BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock
@@ -3053,6 +3049,7 @@ EAOM - iShares ESG Aware 40/60 Moderate Allocation ETF
 EAOR - iShares ESG Aware 60/40 Balanced Allocation ETF
 EAPR - Innovator Emerging Markets Power Buffer ETF April
 EARN - Ellington Credit Company Common Shares of Beneficial Interest
+EART - Global X Rare Earth & Critical Materials ETF
 EASG - Xtrackers MSCI EAFE Selection Equity ETF
 EASY - Liberty One Defensive Dividend Growth ETF
 EAT - Brinker International, Inc. Common Stock
@@ -3439,7 +3436,6 @@ ETHT - ProShares Ultra Ether ETF
 ETHU - 2x Ether ETF
 ETHV - VanEck Ethereum ETF VanEck Ethereum ETF
 ETHW - Bitwise Ethereum ETF 
-ETHZ - ETHZilla Corporation - Common Stock
 ETJ - Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest
 ETN - Eaton Corporation, PLC Ordinary Shares
 ETO - Eaton Vance Tax-Advantage Global Dividend Opp Common Stock
@@ -4040,7 +4036,6 @@ FRDD - Direxion Daily F Bear 1X ETF
 FRDM - Freedom 100 Emerging Markets ETF
 FRDU - Direxion Daily F Bull 2X ETF
 FREL - Fidelity MSCI Real Estate Index ETF
-FRGE - Forge Global Holdings, Inc. Common Stock
 FRGN - Horizon International Equity ETF
 FRGT - Freight Technologies, Inc. - Ordinary Shares
 FRHC - Freedom Holding Corp. - Common Stock
@@ -4163,7 +4158,6 @@ FUMB - First Trust Ultra Short Duration Municipal ETF
 FUN - Six Flags Entertainment Corporation Common Stock New
 FUNC - First United Corporation - Common Stock
 FUND - Sprott Focus Trust, Inc. - Closed End Fund
-FUNL - CornerCap Fundametrics Large-Cap ETF
 FURY - Fury Gold Mines Limited Common Shares
 FUSB - First US Bancshares, Inc. - Common Stock
 FUSE - Fusemachines Inc. - Common stock
@@ -4259,7 +4253,6 @@ GBTG - Global Business Travel Group, Inc. Class A Common Stock
 GBUG - Sprott Active Gold & Silver Miners ETF
 GBX - Greenbrier Companies, Inc. (The) Common Stock
 GBXA - Goldman Sachs U.S. Large Cap Buffer 1 ETF
-GBXC - Goldman Sachs U.S. Large Cap Buffer 3 ETF
 GCAD - Gabelli Commercial Aerospace and Defense ETF
 GCAL - Goldman Sachs Dynamic California Municipal Income ETF
 GCBC - Greene County Bancorp, Inc. - Common Stock
@@ -4324,7 +4317,7 @@ GEME - Pacific North of South EM Equity Active ETF
 GEMG - Leverage Shares 2X Long GEMI Daily ETF
 GEMI - Gemini Space Station, Inc. - Class A Common Stock
 GEN - Gen Digital Inc. - Common Stock
-GENB - Generate Biomedicines, Inc. - Common Stock 
+GENB - Generate Biomedicines, Inc. - Common Stock
 GENC - Gencor Industries, Inc. Common Stock
 GEND - Genter Capital Dividend Income ETF
 GENI - Genius Sports Limited Ordinary Shares
@@ -4794,7 +4787,7 @@ HDV - iShares Core High Dividend ETF
 HE - Hawaiian Electric Industries, Inc. Common Stock
 HEAL - Global X HealthTech ETF
 HECA - Hedgeye Capital Allocation ETF
-HECO - SPDR Galaxy Hedged Digital Asset Ecosystem ETF
+HECO - State Street Galaxy Hedged Digital Asset Ecosystem ETF
 HEDG - Equable Shares Hedged Equity ETF
 HEDJ - WisdomTree Europe Hedged Equity Fund
 HEEM - iShares Currency Hedged MSCI Emerging Markets ETF
@@ -5235,7 +5228,7 @@ IFGL - iShares International Developed Real Estate ETF
 IFLN - Invesco Bloomberg Enhanced Fallen Angels ETF
 IFLO - VictoryShares International Free Cash Flow ETF
 IFLR - Innovator International Developed Managed Floor ETF
-IFN - India Fund, Inc. (The) Common Stock
+IFN - Aberdeen India Fund, Inc. Common Stock
 IFRA - iShares U.S. Infrastructure ETF
 IFRX - InflaRx N.V. - Common Stock
 IFS - Intercorp Financial Services Inc. Common Shares
@@ -5808,7 +5801,6 @@ JPLD - JPMorgan Limited Duration Bond ETF
 JPM - JP Morgan Chase & Co. Common Stock
 JPMB - JPMorgan USD Emerging Markets Sovereign Bond ETF
 JPME - JPMorgan Diversified Return U.S. Mid Cap Equity ETF
-JPMO - YieldMax JPM Option Income Strategy ETF
 JPRE - JPMorgan Realty Income ETF
 JPSE - JPMorgan Diversified Return U.S. Small Cap Equity ETF
 JPST - JPMorgan Ultra-Short Income ETF
@@ -7122,8 +7114,8 @@ NBCE - Neuberger China Equity ETF
 NBCM - Neuberger Commodity Strategy ETF
 NBCR - Neuberger Core Equity ETF
 NBDS - Neuberger Disrupters ETF
-NBET - Neuberger Berman Energy Transition & Infrastructure ETF
-NBFC - Neuberger Berman Flexible Credit Income ETF
+NBET - Neuberger Energy Transition & Infrastructure ETF
+NBFC - Neuberger Flexible Credit Income ETF
 NBFR - Innovator Nasdaq-100 Managed 10 Buffer ETF
 NBGX - Neuberger Growth ETF
 NBH - Neuberger Municipal Fund Inc. Common Stock
@@ -7139,10 +7131,10 @@ NBOS - Neuberger Option Strategy ETF
 NBP - NovaBridge Biosciences - American Depositary Shares
 NBR - Nabors Industries Ltd.
 NBRGU - Newbridge Acquisition Limited - Unit
-NBSD - Neuberger Berman Short Duration Income ETF
+NBSD - Neuberger Short Duration Income ETF
 NBSM - Neuberger Small-Mid Cap ETF
 NBTB - NBT Bancorp Inc. - Common Stock
-NBTR - Neuberger Berman Total Return Bond ETF
+NBTR - Neuberger Total Return Bond ETF
 NBTX - Nanobiotix S.A. - ADSs
 NBXG - Neuberger Next Generation Connectivity Fund Inc. Common Stock
 NBY - NovaBay Pharmaceuticals, Inc. Common Stock
@@ -7189,7 +7181,7 @@ NEGG - Newegg Commerce, Inc. - Common Shares
 NEHI - NEOS Ethereum High Income ETF
 NELS - Nelson Select ETF
 NEM - Newmont Corporation
-NEMD - Neuberger Berman Emerging Markets Debt Hard Currency ETF
+NEMD - Neuberger Emerging Markets Debt Hard Currency ETF
 NEMG - Leverage Shares 2x Long NEM Daily ETF
 NEN - New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership
 NEO - NeoGenomics, Inc. - Common Stock
@@ -8317,7 +8309,7 @@ PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
-PRIV - SPDR SSGA IG Public & Private Credit ETF
+PRIV - State Street IG Public & Private Credit ETF
 PRK - Park National Corporation Common Stock
 PRKS - United Parks & Resorts Inc. Common Stock
 PRLB - Proto Labs, Inc. Common stock
@@ -8931,7 +8923,6 @@ RMT - Royce Micro-Cap Trust, Inc. Common Stock
 RMTI - Rockwell Medical, Inc. - Common Stock
 RNA - Atrium Therapeutics, Inc. - Common Stock
 RNAC - Cartesian Therapeutics, Inc. - Common Stock
-RNAM - Avidity Biosciences, Inc. - Common Stock
 RNAZ - TransCode Therapeutics, Inc. - Common Stock
 RND - First Trust Bloomberg R&D Leaders ETF
 RNEM - Emerging Markets Equity Select ETF
@@ -9438,13 +9429,13 @@ SID - Companhia Siderurgica Nacional S.A. Common Stock
 SIDU - Sidus Space, Inc. - Class A Common Stock
 SIEB - Siebert Financial Corp. - Common Stock
 SIF - SIFCO Industries, Inc. Common Stock
-SIFI - Harbor Scientific Alpha Income ETF
+SIFI - Harbor Ares Systematic Multi-Sector Income ETF
 SIFY - Sify Technologies Limited - American Depository Shares
 SIG - Signet Jewelers Limited Common Shares
 SIGA - SIGA Technologies Inc. - Common Stock
 SIGI - Selective Insurance Group, Inc. - Common Stock
 SIGIP - Selective Insurance Group, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 4.60% Non-Cumulative Preferred Stock, Series B
-SIHY - Harbor Scientific Alpha High-Yield ETF
+SIHY - Harbor Ares Systematic High Yield ETF
 SII - Sprott Inc. Common Shares
 SIJ - ProShares UltraShort Industrials
 SIL - Global X Silver Miners ETF
@@ -9491,7 +9482,7 @@ SKE - Skeena Resources Limited Common Shares
 SKF - ProShares UltraShort Financials
 SKIL - Skillsoft Corp. Class A Common Stock
 SKIN - The Beauty Health Company - Class A Common Stock
-SKK - SKK Holdings Limited - Ordinary Shares
+SKK - SKK Holdings Limited - Class A Ordinary Shares
 SKLZ - Skillz Inc. Class A Common Stock
 SKM - SK Telecom Co., Ltd. Common Stock
 SKOR - FlexShares Credit-Scored US Corporate Bond Index Fund
@@ -9522,7 +9513,7 @@ SLGB - Smart Logistics Global Limited - Ordinary Shares
 SLGL - Sol-Gel Technologies Ltd. - Ordinary Shares
 SLGN - Silgan Holdings Inc. Common Stock
 SLI - Standard Lithium Ltd. Common Shares
-SLJY - Amplify SILJ Covered Call ETF
+SLJY - Amplify SILJ Junior Silver Miners Covered Call ETF
 SLM - SLM Corporation - Common Stock
 SLMBP - SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B
 SLMT - Brera Holdings PLC - Class B Ordinary Shares
@@ -10195,7 +10186,7 @@ TECS - Direxion Technology Bear 3X Shares
 TECX - Tectonic Therapeutic, Inc. - Common Stock
 TEI - Templeton Emerging Markets Income Fund, Inc. Common Stock
 TEK - iShares Technology Opportunities Active ETF
-TEKX - SPDR Galaxy Transformative Tech Accelerators ETF
+TEKX - State Street Galaxy Transformative Tech Accelerators ETF
 TEKY - Lazard Next Gen Technologies ETF
 TEL - TE Connectivity plc Ordinary Shares
 TELA - TELA Bio, Inc. - Common stock
@@ -10798,7 +10789,7 @@ URTY - ProShares UltraPro Russell2000
 USA - Liberty All-Star Equity Fund Common Stock
 USAC - USA Compression Partners, LP Common Units Representing Limited Partner Interests
 USAF - Atlas America Fund
-USAI - Pacer American Energy Independence ETF
+USAI - Pacer American Energy Infrastructure ETF
 USAR - USA Rare Earth, Inc. - Common Stock
 USAS - Americas Gold and Silver Corporation Common Shares, no par value
 USAU - U.S. Gold Corp. - Common Stock
@@ -11587,7 +11578,7 @@ XRP - Bitwise XRP ETF
 XRPC - Canary XRP ETF
 XRPI - Volatility Shares Trust XRP ETF
 XRPK - T-REX 2X Long XRP Daily Target ETF
-XRPM - Amplify XRP 3% Monthly Premium Income ETF
+XRPM - Amplify XRP 3% Monthly Option Income ETF
 XRPN - Armada Acquisition Corp. II - Class A Ordinary Shares
 XRPNU - Armada Acquisition Corp. II - Units
 XRPNW - Armada Acquisition Corp. II - Warrant
