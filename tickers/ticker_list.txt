@@ -286,6 +286,7 @@ AHG - Akso Health Group - American Depositary Shares
 AHLT - AHL Trend ETF
 AHMA - Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares
 AHR - American Healthcare REIT, Inc. Common Stock
+AHRT - AH Realty Trust, Inc. Common Stock
 AHT - Ashford Hospitality Trust Inc Common Stock
 AHYB - American Century Select High Yield ETF
 AI - C3.ai, Inc. Class A Common Stock
@@ -1986,6 +1987,7 @@ CHMI - Cherry Hill Mortgage Investment Corporation Common Stock
 CHNR - China Natural Resources, Inc. - Common Shares
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
+CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -2311,6 +2313,7 @@ CRAN - Crane Harbor Acquisition Corp. II - Class A Ordinary Shares
 CRANR - Crane Harbor Acquisition Corp. II - Rights
 CRANU - Crane Harbor Acquisition Corp. II - Units
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
+CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -2448,6 +2451,7 @@ CUBB - Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034
 CUBE - CubeSmart Common Shares
 CUBI - Customers Bancorp, Inc Common Stock
 CUBWU - Lionheart Holdings - Unit
+CUBWW - Lionheart Holdings - Warrant
 CUE - Cue Biopharma, Inc. - Common Stock
 CUK - Carnival Plc ADS ADS
 CULP - Culp, Inc. Common Stock
@@ -2614,6 +2618,7 @@ DDFD - Innovator Equity Dual Directional 15 Buffer ETF - December
 DDFF - Innovator Equity Dual Directional 15 Buffer ETF - February
 DDFJ - Innovator Equity Dual Directional 15 Buffer ETF - January
 DDFL - Innovator Equity Dual Directional 15 Buffer ETF - July
+DDFM - Innovator Equity Dual Directional 15 Buffer ETF - March
 DDFN - Innovator Equity Dual Directional 15 Buffer ETF - November
 DDFO - Innovator Equity Dual Directional 15 Buffer ETF - October
 DDFS - Innovator Equity Dual Directional 15 Buffer ETF - September
@@ -2631,6 +2636,7 @@ DDTD - Innovator Equity Dual Directional 10 Buffer ETF - December
 DDTF - Innovator Equity Dual Directional 10 Buffer ETF - February
 DDTJ - Innovator Equity Dual Directional 10 Buffer ETF - January
 DDTL - Innovator Equity Dual Directional 10 Buffer ETF - July
+DDTM - Innovator Equity Dual Directional 10 Buffer ETF - March
 DDTN - Innovator Equity Dual Directional 10 Buffer ETF - November
 DDTO - Innovator Equity Dual Directional 10 Buffer ETF - October
 DDTS - Innovator Equity Dual Directional 10 Buffer ETF - September
@@ -3496,6 +3502,7 @@ EVNT - AltShares Event-Driven ETF
 EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
 EVOX - Evolution Global Acquisition Corp - Class A Ordinary Shares
 EVOXU - Evolution Global Acquisition Corp - Units
+EVOXW - Evolution Global Acquisition Corp - Warrants
 EVR - Evercore Inc. Class A Common Stock
 EVRG - Evergy, Inc. - Common Stock
 EVSB - Eaton Vance Ultra-Short Income ETF
@@ -4044,6 +4051,7 @@ FRIZ - Franklin Dividend Growth ETF
 FRME - First Merchants Corporation - Common Stock
 FRMEP - First Merchants Corporation - Depository Shares, each representing a 1/100th interest in a share of 7.50% Non-Cumulative Perpetual Preferred Stock, A
 FRMI - Fermi Inc. - Common Stock
+FRMM - Forum Markets, Incorporated - Common Stock
 FRNW - Fidelity Clean Energy ETF
 FRO - Frontline Plc Ordinary Shares
 FROG - JFrog Ltd. - Ordinary shares
@@ -4470,7 +4478,6 @@ GMED - Globus Medical, Inc. Class A Common Stock
 GMEU - T-REX 2X Long GME Daily Target ETF
 GMEY - YieldMax GME Option Income Strategy ETF
 GMF - State Street SPDR S&P Emerging Asia Pacific ETF
-GMGI - Golden Matrix Group, Inc. - Common Stock
 GMHS - Gamehaus Holdings Inc. - Class A Ordinary Shares
 GMM - Global Mofy AI Limited  - Class A Ordinary Shares
 GMMA - GammaRoad Market Navigation ETF
@@ -4648,6 +4655,7 @@ GTEC - Greenland Technologies Holding Corporation - Class A Ordinary Shares
 GTEK - Goldman Sachs Future Tech Leaders Equity ETF
 GTEN - Gores Holdings X, Inc. - Class A ordinary shares
 GTENU - Gores Holdings X, Inc. - Units
+GTENW - Gores Holdings X, Inc. - Warrants
 GTERA - Globa Terra Acquisition Corporation - Class A Ordinary Shares
 GTERR - Globa Terra Acquisition Corporation - Rights
 GTERU - Globa Terra Acquisition Corporation - Units
@@ -5801,6 +5809,7 @@ JPLD - JPMorgan Limited Duration Bond ETF
 JPM - JP Morgan Chase & Co. Common Stock
 JPMB - JPMorgan USD Emerging Markets Sovereign Bond ETF
 JPME - JPMorgan Diversified Return U.S. Mid Cap Equity ETF
+JPO - YieldMax JP Option Income Strategy ETF
 JPRE - JPMorgan Realty Income ETF
 JPSE - JPMorgan Diversified Return U.S. Small Cap Equity ETF
 JPST - JPMorgan Ultra-Short Income ETF
@@ -5875,6 +5884,7 @@ KBFR - Innovator U.S. Small Cap Managed 10 Buffer ETF
 KBH - KB Home Common Stock
 KBON - Karbon Capital Partners Corp. - Class A Ordinary Shares
 KBONU - Karbon Capital Partners Corp. - Units
+KBONW - Karbon Capital Partners Corp. - Warrant
 KBR - KBR, Inc. Common Stock
 KBSX - FST Corp. - Ordinary Shares
 KBUF - KraneShares 90% KWEB Defined Outcome January 2027 ETF
@@ -6338,6 +6348,7 @@ LOPE - Grand Canyon Education, Inc. - Common Stock
 LOPP - Gabelli Love Our Planet & People ETF Gabelli Love Our Planet & People ETF
 LOT - Lotus Technology Inc. - American Depositary Shares
 LOTI - Liberty One Tactical Income ETF
+LOTWW - Lotus Technology Inc. - Warrants
 LOUP - Innovator Deepwater Frontier Tech ETF
 LOVE - The Lovesac Company - Common Stock
 LOW - Lowe's Companies, Inc. Common Stock
@@ -6536,7 +6547,6 @@ MBBB - VanEck Moody's Analytics BBB Corporate Bond ETF
 MBBC - Marathon Bancorp, Inc. - Common Stock
 MBC - MasterBrand, Inc. Common Stock
 MBCC - Monarch Blue Chips Core Index ETF
-MBCN - Middlefield Banc Corp. - Common Stock
 MBI - MBIA Inc. Common Stock
 MBIN - Merchants Bancorp - Common Stock
 MBINL - Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value
@@ -6557,6 +6567,7 @@ MBSX - Regan Fixed Rate MBS ETF
 MBUU - Malibu Boats, Inc. - Common Stock
 MBVI - M3-Brigade Acquisition VI Corp. - Class A Ordinary Shares
 MBVIU - M3-Brigade Acquisition VI Corp. - Units
+MBVIW - M3-Brigade Acquisition VI Corp. - Warrant
 MBWM - Mercantile Bank Corporation - Common Stock
 MBX - MBX Biosciences, Inc. - Common Stock
 MC - Moelis & Company Class A Common Stock
@@ -6605,7 +6616,7 @@ MDLN - Medline Inc. - Class A common stock
 MDLV - Morgan Dempsey Large Cap Value ETF
 MDLZ - Mondelez International, Inc. - Class A Common Stock
 MDPL - Monarch Dividend Plus Index ETF
-MDRR - Medalist Diversified REIT, Inc. - Common Stock
+MDRR - Medalist Diversified, Inc. - Common Stock
 MDST - Westwood Salient Enhanced Midstream Income ETF
 MDT - Medtronic plc. Ordinary Shares
 MDU - MDU Resources Group, Inc. Common Stock (Holding Company)
@@ -6754,6 +6765,7 @@ MJSC - MUFG Japan Small Cap Active ETF
 MKAM - MKAM ETF
 MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
+MKDWW - MKDWELL Tech Inc. - Warrants
 MKL - Markel Group Inc. Common Stock
 MKLY - McKinley Acquisition Corporation - Class A Ordinary Shares
 MKLYR - McKinley Acquisition Corporation - Rights
@@ -6887,6 +6899,7 @@ MRBK - Meridian Corporation - Common Stock
 MRCC - Monroe Capital Corporation - Closed End Fund
 MRCP - PGIM S&P 500 Buffer 12 ETF - March
 MRCY - Mercury Systems Inc - Common Stock
+MRDN - Meridian Holdings Inc. - Common Stock
 MREO - Mereo BioPharma Group plc - American Depositary Shares
 MRGR - ProShares Merger ETF
 MRK - Merck & Company, Inc. Common Stock (new)
@@ -7564,6 +7577,7 @@ OAKM - Oakmark U.S. Large Cap ETF
 OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
 OAKUR - Oak Woods Acquisition Corporation - Right
 OAKUU - Oak Woods Acquisition Corporation - Unit
+OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
@@ -8515,6 +8529,7 @@ QDVO - Amplify CWP Growth & Income ETF
 QEFA - State Street SPDR MSCI EAFE StrategicFactors ETF
 QEMM - State Street SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
+QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
 QFHD - Pacer S&P 500 Quality FCF High Dividend ETF
@@ -8595,6 +8610,7 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation - Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
+QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSI - Quantum-Si Incorporated - Class A Common Stock
 QSIAW - Quantum-Si Incorporated - Warrant
@@ -9965,6 +9981,7 @@ SUI - Sun Communities, Inc. Common Stock
 SUIG - Sui Group Holdings Limited - Common Stock
 SUIS - Canary Staked SUIS ETF
 SUN - Sunoco LP Common Units representing limited partner interests
+SUNB - Sunbelt Rentals Holdings, Inc. Common Stock
 SUNC - SunocoCorp LLC Common Units, representing limited liability company interests
 SUNE - SUNation Energy, Inc. - Common Stock
 SUNS - Sunrise Realty Trust, Inc. - Common Stock
@@ -9995,7 +10012,9 @@ SVCC - Stellar V Capital Corp. - Class A Ordinary Shares
 SVCCU - Stellar V Capital Corp. - Unit
 SVCCW - Stellar V Capital Corp. - Warrant
 SVCO - Silvaco Group, Inc. - Common Stock
+SVIV - Spring Valley Acquisition Corp. IV - Class A Ordinary Shares
 SVIVU - Spring Valley Acquisition Corp. IV - Units
+SVIVW - Spring Valley Acquisition Corp. IV - Warrants
 SVIX - -1x Short VIX Futures ETF
 SVM - Silvercorp Metals Inc. Common Shares
 SVOL - Simplify Volatility Premium ETF
@@ -10499,7 +10518,6 @@ TSCM - TimesSquare Quality Mid Cap Growth ETF
 TSCO - Tractor Supply Company - Common Stock
 TSCV - Thrivent Small Cap Value ETF
 TSDD - GraniteShares 2x Short TSLA Daily ETF
-TSE - Trinseo PLC Ordinary Shares 
 TSEC - Touchstone Securitized Income ETF
 TSEL - Touchstone Sands Capital US Select Growth ETF
 TSEM - Tower Semiconductor Ltd. - Ordinary Shares
