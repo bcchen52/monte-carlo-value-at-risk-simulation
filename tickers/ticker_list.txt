@@ -2307,6 +2307,7 @@ CR - Crane Company Common Stock
 CRAC - Crown Reserve Acquisition Corp. I - Class A Ordinary Shares
 CRACR - Crown Reserve Acquisition Corp. I - Rights
 CRACU - Crown Reserve Acquisition Corp. I - Unit
+CRACW - Crown Reserve Acquisition Corp. I - Warrant
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAN - Crane Harbor Acquisition Corp. II - Class A Ordinary Shares
@@ -2902,6 +2903,7 @@ DRLL - Strive U.S. Energy ETF
 DRMA - Dermata Therapeutics, Inc. - Common Stock
 DRMAW - Dermata Therapeutics, Inc. - Warrant
 DRN - Direxion Daily Real Estate Bull 3X Shares
+DRNL - Defiance 2X Daily Long Pure Drone and Aerial Automation ETF
 DRNZ - REX Drone ETF
 DRS - Leonardo DRS, Inc. - Common Stock
 DRSK - Aptus Defined Risk ETF
@@ -4624,6 +4626,7 @@ GSGO - Goldman Sachs Growth Opportunities ETF
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
+GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -4739,6 +4742,7 @@ HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
 HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
+HAVAR - Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares
 HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWX - iShares Currency Hedged MSCI ACWI ex U.S. ETF
 HAYW - Hayward Holdings, Inc. Common Stock
@@ -5015,6 +5019,7 @@ HVIIR - Hennessy Capital Investment Corp. VII - Rights
 HVIIU - Hennessy Capital Investment Corp. VII - Unit
 HVMC - Highview Merger Corp. - Class A Ordinary Share
 HVMCU - Highview Merger Corp. - Units
+HVMCW - Highview Merger Corp. - Warrants
 HVT - Haverty Furniture Companies, Inc. Common Stock
 HWAY - Themes US Infrastructure ETF
 HWBK - Hawthorn Bancshares, Inc. - Common Stock
@@ -7453,6 +7458,7 @@ NUGO - Nuveen Growth Opportunities ETF
 NUGT - Direxion Daily Gold Miners Index Bull 2XShares
 NUGY - GraniteShares YieldBOOST Gold Miners ETF
 NUHY - Nuveen ESG High Yield Corporate Bond ETF
+NUKX - Nicholas Nuclear Income ETF
 NUKZ - Range Nuclear Renaissance Index ETF
 NULC - Nuveen ESG Large-Cap ETF
 NULG - Nuveen ESG Large-Cap Growth ETF
@@ -8321,6 +8327,7 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
+PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - State Street IG Public & Private Credit ETF
@@ -8690,7 +8697,6 @@ RANGR - Range Capital Acquisition Corp. - Rights
 RANGU - Range Capital Acquisition Corp. - Units
 RANI - Rani Therapeutics Holdings, Inc. - Class A Common Stock
 RAPP - Rapport Therapeutics, Inc. - Common Stock
-RAPT - RAPT Therapeutics, Inc. - Common Stock
 RARE - Ultragenyx Pharmaceutical Inc. - Common Stock
 RAUS - RACWI US ETF
 RAVE - Rave Restaurant Group, Inc. - Common Stock
@@ -8711,7 +8717,6 @@ RBLU - T-REX 2X Long RBLX Daily Target ETF
 RBLX - Roblox Corporation Class A Common Stock
 RBLY - YieldMax RBLX Option Income Strategy ETF
 RBNE - Robin Energy Ltd. - Common Stock
-RBOT - Vicarious Surgical Inc. Class A Common Stock
 RBRK - Rubrik, Inc. Class A Common Stock
 RBUF - Innovator U.S. Small Cap 10 Buffer ETF - Quarterly
 RC - Ready Capital Corporation Common Stock
@@ -9265,6 +9270,7 @@ SCOR - comScore, Inc. - Common Stock
 SCOW - Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
 SCPQ - Social Commerce Partners Corporation - Class A Ordinary Shares
 SCPQU - Social Commerce Partners Corporation - Unit
+SCPQW - Social Commerce Partners Corporation - Warrant
 SCSC - ScanSource, Inc. - Common Stock
 SCUS - Schwab Ultra-Short Income ETF
 SCVL - Shoe Carnival, Inc. - Common Stock
@@ -9705,6 +9711,7 @@ SOR - Source Capital, Inc. Cmn Shs of BI
 SORA - AsiaStrategy - Ordinary Shares
 SORN - Soren Acquisition Corp. - Class A Ordinary Shares
 SORNU - Soren Acquisition Corp. - Unit
+SORNW - Soren Acquisition Corp. - Warrant
 SOS - SOS Limited Class A Ordinary Shares
 SOTK - Sono-Tek Corporation - Common Stock
 SOUL - Soulpower Acquisition Corporation Class A Ordinary Shares
@@ -11282,6 +11289,7 @@ WEN - Wendy's Company (The) - Common Stock
 WENN - Wen Acquisition Corp - Class A Ordinary Shares
 WENNU - Wen Acquisition Corp - Unit
 WENNW - Wen Acquisition Corp - Warrant
+WEPN - Nicholas Defense and Rare Earth Income ETF
 WERN - Werner Enterprises, Inc. - Common Stock
 WES - Western Midstream Partners, LP Common Units Representing Limited Partner Interests
 WEST - Westrock Coffee Company - Common Stock
