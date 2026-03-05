@@ -20,11 +20,11 @@ AAOI - Applied Optoelectronics, Inc. - Common Stock
 AAON - AAON, Inc. - Common Stock
 AAP - Advance Auto Parts Inc.
 AAPB - GraniteShares 2x Long AAPL Daily ETF
-AAPD - Direxion Daily AAPL Bear 1X Shares
+AAPD - Direxion Daily AAPL Bear 1X ETF
 AAPG - Ascentage Pharma Group International - American Depository Shares
 AAPL - Apple Inc. - Common Stock
 AAPR - Innovator Equity Defined Protection ETF - 2 Yr to April 2026
-AAPU - Direxion Daily AAPL Bull 2X Shares
+AAPU - Direxion Daily AAPL Bull 2X ETF
 AAPW - Roundhill AAPL WeeklyPay ETF
 AAPX - T-Rex 2X Long Apple Daily Target ETF
 AAPY - Kurv Yield Premium Strategy Apple (AAPL) ETF
@@ -367,6 +367,7 @@ ALC - Alcon Inc. Ordinary Shares
 ALCO - Alico, Inc. - Common Stock
 ALCY - Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares
 ALCYU - Alchemy Investments Acquisition Corp 1 - Units
+ALCYW - Alchemy Investments Acquisition Corp 1 - Warrants
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
 ALDFW - Aldel Financial II Inc. - Warrants
@@ -440,7 +441,7 @@ AMCI - AMC Robotics Corporation - Common Stock
 AMCR - Amcor plc Ordinary Shares
 AMCX - AMC Networks Inc. - Class A Common Stock
 AMD - Advanced Micro Devices, Inc. - Common Stock
-AMDD - Direxion Daily AMD Bear 1X Shares
+AMDD - Direxion Daily AMD Bear 1X ETF
 AMDG - Leverage Shares 2X Long AMD Daily ETF
 AMDL - GraniteShares 2x Long AMD Daily ETF
 AMDW - Roundhill AMD WeeklyPay ETF
@@ -483,17 +484,17 @@ AMTM - Amentum Holdings, Inc. Common Stock
 AMTX - Aemetis, Inc - Common Stock
 AMUB - ETRACS Alerian MLP Index ETN Series B due July 18, 2042
 AMUN - abrdn Ultra Short Municipal Income Active ETF
-AMUU - Direxion Daily AMD Bull 2X Shares
+AMUU - Direxion Daily AMD Bull 2X ETF
 AMWD - American Woodmark Corporation - Common Stock
 AMWL - American Well Corporation Class A Common Stock
 AMX - America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares
 AMYY - GraniteShares YieldBOOST AMD ETF
 AMZA - InfraCap MLP ETF
-AMZD - Direxion Daily AMZN Bear 1X Shares
+AMZD - Direxion Daily AMZN Bear 1X ETF
 AMZE - Amaze Holdings, Inc. Common Stock
 AMZN - Amazon.com, Inc. - Common Stock
 AMZP - Kurv Yield Premium Strategy Amazon (AMZN) ETF
-AMZU - Direxion Daily AMZN Bull 2X Shares
+AMZU - Direxion Daily AMZN Bull 2X ETF
 AMZW - Roundhill AMZN WeeklyPay ETF
 AMZY - YieldMax AMZN Option Income Strategy ETF
 AMZZ - GraniteShares 2x Long AMZN Daily ETF
@@ -839,7 +840,7 @@ AVIG - Avantis Core Fixed Income ETF
 AVIR - Atea Pharmaceuticals, Inc. - common stock
 AVIV - Avantis International Large Cap Value ETF
 AVK - Advent Convertible and Income Fund
-AVL - Direxion Daily AVGO Bull 2X Shares
+AVL - Direxion Daily AVGO Bull 2X ETF
 AVLC - Avantis U.S. Large Cap Equity ETF
 AVLV - Avantis U.S. Large Cap Value ETF
 AVMA - Avantis Moderate Allocation ETF
@@ -856,7 +857,7 @@ AVPT - AvePoint, Inc. - Class A Common Stock
 AVR - Anteris Technologies Global Corp. - Common Stock
 AVRE - Avantis Real Estate ETF
 AVRY - Avory Foundational ETF
-AVS - Direxion Daily AVGO Bear 1X Shares
+AVS - Direxion Daily AVGO Bear 1X ETF
 AVSC - Avantis U.S Small Cap Equity ETF
 AVSD - Avantis Responsible International Equity ETF
 AVSE - Avantis Responsible Emerging Markets Equity ETF
@@ -1043,7 +1044,6 @@ BCE - BCE, Inc. Common Stock
 BCFN - Baron Financials ETF
 BCG - Binah Capital Group, Inc. - Common Stock
 BCGD - Baron Global Durable Advantage ETF
-BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHI - GMO Beyond China ETF
 BCHP - Principal Focused Blue Chip ETF
@@ -1408,9 +1408,9 @@ BOC - Boston Omaha Corporation Class A Common Stock
 BOCT - Innovator U.S. Equity Buffer ETF - October
 BODI - The Beachbody Company, Inc. - Class A Common Stock
 BOE - Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest
-BOED - Direxion Daily BA Bear 1X Shares
+BOED - Direxion Daily BA Bear 1X ETF
 BOEG - Leverage Shares 2X Long BA Daily ETF
-BOEU - Direxion Daily BA Bull 2X Shares
+BOEU - Direxion Daily BA Bull 2X ETF
 BOF - BranchOut Food Inc. - Common Stock
 BOH - Bank of Hawaii Corporation Common Stock
 BOIL - ProShares Ultra Bloomberg Natural Gas
@@ -1470,10 +1470,10 @@ BRID - Bridgford Foods Corporation - Common Stock
 BRIE - MFS Blended Research International Equity ETF
 BRIF - FIS Bright Portfolios Focused Equity ETF
 BRKC - YieldMax BRK.B Option Income Strategy ETF
-BRKD - Direxion Daily BRKB Bear 1X Shares
+BRKD - Direxion Daily BRKB Bear 1X ETF
 BRKR - Bruker Corporation - Common Stock
 BRKRP - Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A
-BRKU - Direxion Daily BRKB Bull 2X Shares
+BRKU - Direxion Daily BRKB Bull 2X ETF
 BRKW - Roundhill BRKB WeeklyPay ETF
 BRLN - iShares Floating Rate Loan Active ETF
 BRLS - Borealis Foods Inc. - Class A Common Shares
@@ -1963,6 +1963,7 @@ CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
+CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
@@ -2117,6 +2118,7 @@ CMGG - Leverage Shares 2X Long CMG Daily ETF
 CMI - Cummins Inc. Common Stock
 CMII - Columbus Circle Capital Corp II - Class A Ordinary Shares
 CMIIU - Columbus Circle Capital Corp II - Unit
+CMIIW - Columbus Circle Capital Corp II - Warrant
 CMMB - Chemomab Therapeutics Ltd.  - American Depositary Shares
 CMND - Clearmind Medicine Inc. - Common Shares
 CMP - Compass Minerals Intl Inc Common Stock
@@ -3224,8 +3226,8 @@ ELDN - Eledon Pharmaceuticals, Inc. - Common Stock
 ELE - Elemental Royalty Corporation - Common Stock
 ELF - e.l.f. Beauty, Inc. Common Stock
 ELFY - ALPS Electrification Infrastructure ETF
-ELIL - Direxion Daily LLY Bull 2X Shares
-ELIS - Direxion Daily LLY Bear 1X Shares
+ELIL - Direxion Daily LLY Bull 2X ETF
+ELIS - Direxion Daily LLY Bear 1X ETF
 ELLO - Ellomay Capital Ltd Ordinary Shares (Israel)
 ELM - Elm Market Navigator ETF
 ELMD - Electromed, Inc. Common Stock
@@ -3398,6 +3400,7 @@ ESGD - iShares ESG Aware MSCI EAFE ETF
 ESGE - iShares ESG Aware MSCI EM ETF
 ESGG - FlexShares STOXX Global ESG Select Index Fund
 ESGL - ESGL Holdings Limited - Class A Ordinary Shares
+ESGLW - ESGL Holdings Limited - Warrants
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESHA - ESH Acquisition Corp. - Class A Common Stock
@@ -3826,7 +3829,6 @@ FIGR - Figure Technology Solutions, Inc. - Class A Common Stock
 FIGS - FIGS, Inc. Class A Common Stock
 FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
-FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIHL - Fidelis Insurance Holdings Limited Common Shares
 FIIG - First Trust Intermediate Duration Investment Grade Corporate ETF
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
@@ -4149,7 +4151,7 @@ FTSD - Franklin Short Duration U.S. Government ETF
 FTSL - First Trust Senior Loan Fund
 FTSM - First Trust Enhanced Short Maturity ETF
 FTV - Fortive Corporation Common Stock 
-FTW - EQV Ventures Acquisition Corp. Class A Ordinary Shares
+FTW - Presidio Production Company Class A Common Stock
 FTWO - Strive Natural Resources and Security ETF
 FTXG - First Trust Nasdaq Food & Beverage ETF
 FTXH - First Trust Nasdaq Pharmaceuticals ETF
@@ -4360,8 +4362,8 @@ GFS - GlobalFoundries Inc. - Ordinary Share
 GGAL - Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying
 GGB - Gerdau S.A. Common Stock
 GGG - Graco Inc. Common Stock
-GGLL - Direxion Daily GOOGL Bull 2X Shares
-GGLS - Direxion Daily GOOGL Bear 1X Shares
+GGLL - Direxion Daily GOOGL Bull 2X ETF
+GGLS - Direxion Daily GOOGL Bear 1X ETF
 GGM - GGM Macro Alignment ETF
 GGME - Invesco Next Gen Media and Gaming ETF
 GGN - GAMCO Global Gold, Natural Resources & Income Trust
@@ -4742,7 +4744,6 @@ HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
 HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
-HAVAR - Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares
 HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWX - iShares Currency Hedged MSCI ACWI ex U.S. ETF
 HAYW - Hayward Holdings, Inc. Common Stock
@@ -6075,7 +6076,6 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
-KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - T-REX 2X Long KTOS Daily Target ETF
 KTWO - K2 Capital Acquisition Corporation - Class A Ordinary Share
 KTWOR - K2 Capital Acquisition Corporation - Rights
@@ -6663,9 +6663,9 @@ METC - Ramaco Resources, Inc. - Class A Common Stock
 METCB - Ramaco Resources, Inc. - Class B Common Stock
 METCI - Ramaco Resources, Inc. - 8.250% Senior Notes due 2030
 METCZ - Ramaco Resources, Inc. - 8.375% Senior Notes due 2029
-METD - Direxion Daily META Bear 1X Shares
+METD - Direxion Daily META Bear 1X ETF
 METL - Sprott Active Metals & Miners ETF
-METU - Direxion Daily META Bull 2X Shares
+METU - Direxion Daily META Bull 2X ETF
 METV - Roundhill Ball Metaverse ETF
 METW - Roundhill META WeeklyPay ETF
 MEVO - M Evo Global Acquisition Corp II - Class A Ordinary Shares
@@ -6937,11 +6937,11 @@ MSD - Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock
 MSDD - GraniteShares 2x Short MSTR Daily ETF
 MSDL - Morgan Stanley Direct Lending Fund Common Stock
 MSEX - Middlesex Water Company - Common Stock
-MSFD - Direxion Daily MSFT Bear 1X Shares
+MSFD - Direxion Daily MSFT Bear 1X ETF
 MSFL - GraniteShares 2x Long MSFT Daily ETF
 MSFO - YieldMax MSFT Option Income Strategy ETF
 MSFT - Microsoft Corporation - Common Stock
-MSFU - Direxion Daily MSFT Bull 2X Shares
+MSFU - Direxion Daily MSFT Bull 2X ETF
 MSFW - Roundhill MSFT WeeklyPay ETF
 MSFX - T-Rex 2X Long Microsoft Daily Target ETF
 MSFY - Kurv Yield Premium Strategy Microsoft (MSFT) ETF
@@ -7012,7 +7012,7 @@ MU - Micron Technology, Inc. - Common Stock
 MUA - Blackrock MuniAssets Fund, Inc Common Stock
 MUB - iShares National Muni Bond ETF
 MUC - Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock
-MUD - Direxion Daily MU Bear 1X Shares
+MUD - Direxion Daily MU Bear 1X ETF
 MUFG - Mitsubishi UFJ Financial Group, Inc. Common Stock
 MUJ - Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock
 MULL - GraniteShares 2x Long MU Daily ETF
@@ -7030,7 +7030,7 @@ MUSE - TCW Multisector Credit Income ETF
 MUSI - American Century Multisector Income ETF
 MUSQ - MUSQ Global Music Industry Index ETF
 MUST - Columbia Multi-Sector Municipal Income ETF
-MUU - Direxion Daily MU Bull 2X Shares
+MUU - Direxion Daily MU Bull 2X ETF
 MUX - McEwen Inc. Common Stock
 MUZEU - Muzero Acquisition Corp - Unit
 MVAL - VanEck Morningstar Wide Moat Value ETF
@@ -7243,8 +7243,8 @@ NFLY - YieldMax NFLX Option Income Strategy ETF
 NFRA - FlexShares STOXX Global Broad Infrastructure Index Fund
 NFRX - Harrison Street Infrastructure Active ETF
 NFTY - First Trust India Nifty 50 Equal Weight ETF
-NFXL - Direxion Daily NFLX Bull 2X Shares
-NFXS - Direxion Daily NFLX Bear 1X Shares
+NFXL - Direxion Daily NFLX Bull 2X ETF
+NFXS - Direxion Daily NFLX Bear 1X ETF
 NG - Novagold Resources Inc.
 NGD - New Gold Inc.
 NGEN - NervGen Pharma Corp. - Common stock
@@ -7280,6 +7280,7 @@ NIQ - NIQ Global Intelligence plc Ordinary Shares
 NITE - The Nightview Fund NITE
 NIU - Niu Technologies - American Depositary Shares
 NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
+NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
 NIXXW - Nixxy, Inc. - Warrant
@@ -7489,13 +7490,13 @@ NVCT - Nuvectis Pharma, Inc. - Common Stock
 NVD - GraniteShares 2x Short NVDA Daily ETF
 NVDA - NVIDIA Corporation - Common Stock
 NVDB - ProShares Ultra NVDA
-NVDD - Direxion Daily NVDA Bear 1X Shares
+NVDD - Direxion Daily NVDA Bear 1X ETF
 NVDG - Leverage Shares 2X Long NVDA Daily ETF
 NVDL - GraniteShares 2x Long NVDA Daily ETF
 NVDO - Leverage Shares 2x Capped Accelerated NVDA Monthly ETF
 NVDQ - T-Rex 2X Inverse NVIDIA Daily Target ETF
 NVDS - Tradr 1.5X Short NVDA Daily ETF
-NVDU - Direxion Daily NVDA Bull 2X Shares
+NVDU - Direxion Daily NVDA Bull 2X ETF
 NVDW - Roundhill NVDA WeeklyPay ETF
 NVDX - T-Rex 2X Long NVIDIA Daily Target ETF
 NVDY - YieldMax NVDA Option Income Strategy ETF
@@ -7881,11 +7882,11 @@ PAI - Western Asset Investment Grade Income Fund Inc.
 PAII - Pyrophyte Acquisition Corp. II Class A Ordinary Shares
 PAL - Proficient Auto Logistics, Inc. - Common Stock
 PALC - Pacer Lunt Large Cap Multi-Factor Alternator ETF
-PALD - Direxion Daily PANW Bear 1X Shares
+PALD - Direxion Daily PANW Bear 1X ETF
 PALI - Palisade Bio, Inc. - Common Stock
 PALL - abrdn Physical Palladium Shares ETF
 PALOU - Paloma Acquisition Corp I - Units
-PALU - Direxion Daily PANW Bull 2X Shares
+PALU - Direxion Daily PANW Bull 2X ETF
 PAM - Pampa Energia S.A.
 PAMC - Pacer Lunt MidCap Multi-Factor Alternator ETF
 PAMT - PAMT CORP - Common Stock
@@ -8189,14 +8190,14 @@ PLRZ - Polyrizon Ltd. - Ordinary Shares
 PLSE - Pulse Biosciences, Inc - Common Stock
 PLSM - Pulsenmore Ltd. - Ordinary Shares
 PLTA - ProShares Ultra PLTR
-PLTD - Direxion Daily PLTR Bear 1X Shares
+PLTD - Direxion Daily PLTR Bear 1X ETF
 PLTG - Leverage Shares 2X Long PLTR Daily ETF
 PLTI - REX PLTR Growth & Income ETF
 PLTK - Playtika Holding Corp. - Common Stock
 PLTM - GraniteShares Platinum Shares ETF
 PLTR - Palantir Technologies Inc. - Class A Common Stock
 PLTS - Platinum Analytics Cayman Limited - Class A Ordinary Shares
-PLTU - Direxion Daily PLTR Bull 2X Shares
+PLTU - Direxion Daily PLTR Bull 2X ETF
 PLTW - Roundhill PLTR WeeklyPay ETF
 PLTY - YieldMax PLTR Option Income Strategy ETF
 PLTZ - Defiance Daily Target 2x Short PLTR ETF
@@ -8293,6 +8294,7 @@ PPI - Astoria Real Assets ETF
 PPIE - Putnam PanAgora ESG International Equity ETF
 PPIH - Perma-Pipe International Holdings, Inc. - Common Stock
 PPL - PPL Corporation Common Stock
+PPLC - PPL Corporation Corporate Units
 PPLT - abrdn Physical Platinum Shares ETF
 PPSI - Pioneer Power Solutions, Inc. - Common Stock
 PPT - Putnam Premier Income Trust Common Stock
@@ -8417,7 +8419,7 @@ PSQH - PSQ Holdings, Inc. Class A Common Stock
 PSQO - Palmer Square Credit Opportunities ETF
 PSR - Invesco Active U.S. Real Estate Fund
 PST - ProShares UltraShort Lehman 7-10 Year Treasury
-PSTG - Pure Storage, Inc. Class A Common Stock
+PSTG - Everpure, Inc. Class A common stock
 PSTL - Postal Realty Trust, Inc. Class A Common Stock
 PSTP - Innovator Power Buffer Step-Up Strategy ETF
 PSTR - PeakShares Sector Rotation ETF
@@ -8595,7 +8597,7 @@ QQMG - Invesco ESG NASDAQ 100 ETF
 QQQ - Invesco QQQ Trust, Series 1
 QQQA - ProShares Nasdaq-100 Dorsey Wright Momentum ETF
 QQQD - Direxion Daily Magnificent 7 Bear 1X Shares
-QQQE - Direxion NASDAQ-100 Equal Weighted Index Shares
+QQQE - Direxion NASDAQ-100 Equal Weighted Index ETF
 QQQG - Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF
 QQQH - NEOS Nasdaq-100 Hedged Equity Income ETF
 QQQI - NEOS Nasdaq 100 High Income ETF
@@ -9084,7 +9086,6 @@ RW - Rainwater Equity ETF
 RWAY - Runway Growth Finance Corp. - Common Stock
 RWAYI - Runway Growth Finance Corp. - 7.25% Notes due 2031
 RWAYL - Runway Growth Finance Corp. - 7.50% Notes due 2027
-RWAYZ - Runway Growth Finance Corp. - 8.00% Notes due 2027
 RWEM - Rayliant Wilshire NxtGen Emerging Markets Equity ETF
 RWJ - Invesco S&P SmallCap 600 Revenue ETF
 RWK - Invesco S&P MidCap 400 Revenue ETF
@@ -9163,6 +9164,7 @@ SAPH - SAP SE ADRhedged
 SAR - Saratoga Investment Corp New
 SARK - Tradr 1X Short Innovation Daily ETF
 SARO - StandardAero, Inc. Common Stock
+SASS - M.D. Sass Concentrated Value ETF
 SAT - Saratoga Investment Corp 6.00% Notes due 2027
 SATA - Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock
 SATG - Leverage Shares 2X Long SATS Daily ETF
@@ -9677,6 +9679,7 @@ SOBR - SOBR Safe, Inc. - Common Stock
 SOC - Sable Offshore Corp. Common Stock
 SOCA - Solarius Capital Acquisition Corp. - Class A Ordinary Share
 SOCAU - Solarius Capital Acquisition Corp. - Units
+SOCAW - Solarius Capital Acquisition Corp. - Warrant
 SOCL - Global X Social Media ETF
 SOEZ - Franklin Solana ETF
 SOFA - Direxion Daily SOFI Bull 2X ETF
@@ -10318,7 +10321,6 @@ TIPD - Northern Trust 2055 Inflation-Linked Distributing Ladder ETF
 TIPT - Tiptree Inc. - Common Stock
 TIPX - State Street SPDR Bloomberg 1a??10 Year TIPS ETF
 TIPZ - PIMCO Broad U.S. TIPS Index Exchange-Traded Fund
-TIRX - TIAN RUIXIANG Holdings Ltd - Class A Ordinary Shares
 TISI - Team, Inc. Common Stock
 TITN - Titan Machinery Inc. - Common Stock
 TIVC - Tivic Health Systems, Inc. - Common stock
@@ -10538,12 +10540,12 @@ TSL - GraniteShares 1.25x Long TSLA Daily ETF
 TSLA - Tesla, Inc.  - Common Stock
 TSLG - Leverage Shares 2X Long TSLA Daily ETF
 TSLI - ProShares Ultra TSLA
-TSLL - Direxion Daily TSLA Bull 2X Shares
+TSLL - Direxion Daily TSLA Bull 2X ETF
 TSLO - Leverage Shares 2x Capped Accelerated TSLA Monthly ETF
 TSLP - Kurv Yield Premium Strategy Tesla (TSLA) ETF
 TSLQ - Tradr 2X Short TSLA Daily ETF
 TSLR - GraniteShares 2x Long TSLA Daily ETF
-TSLS - Direxion Daily TSLA Bear 1X Shares
+TSLS - Direxion Daily TSLA Bear 1X ETF
 TSLT - T-REX 2X Long Tesla Daily Target ETF
 TSLW - Roundhill TSLA WeeklyPay ETF
 TSLX - Sixth Street Specialty Lending, Inc. Common Stock
@@ -10553,9 +10555,9 @@ TSM - Taiwan Semiconductor Manufacturing Company Ltd.
 TSME - Thrivent Small-Mid Cap Equity ETF
 TSMG - Leverage Shares 2X Long TSM Daily ETF
 TSMU - GraniteShares 2x Long TSM Daily ETF
-TSMX - Direxion Daily TSM Bull 2X Shares
+TSMX - Direxion Daily TSM Bull 2X ETF
 TSMY - YieldMax TSM Option Income Strategy ETF
-TSMZ - Direxion Daily TSM Bear 1X Shares
+TSMZ - Direxion Daily TSM Bear 1X ETF
 TSN - Tyson Foods, Inc. Common Stock
 TSNF - Truth Social American Next Frontiers ETF
 TSOL - 21Shares Solana ETF
@@ -11188,7 +11190,6 @@ VTVT - vTv Therapeutics Inc. - Class A Common Stock
 VTWG - Vanguard Russell 2000 Growth ETF
 VTWO - Vanguard Russell 2000 ETF
 VTWV - Vanguard Russell 2000 Value ETF
-VTYX - Ventyx Biosciences, Inc. - Common Stock
 VUG - Vanguard Growth ETF
 VUS - Virtus US Dividend ETF
 VUSB - Vanguard Ultra-Short Bond ETF
@@ -11574,8 +11575,8 @@ XOMA - XOMA Royalty Corporation - Common Stock
 XOMAO - XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock
 XOMAP - XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock
 XOMO - YieldMax XOM Option Income Strategy ETF
-XOMX - Direxion Daily XOM Bull 2X Shares
-XOMZ - Direxion Daily XOM Bear 1X Shares
+XOMX - Direxion Daily XOM Bull 2X ETF
+XOMZ - Direxion Daily XOM Bear 1X ETF
 XONE - BondBloxx Bloomberg One Year Target Duration US Treasury ETF
 XOP - State Street SPDR S&P Oil & Gas Exploration & Production ETF
 XOS - Xos, Inc. - Common Stock
