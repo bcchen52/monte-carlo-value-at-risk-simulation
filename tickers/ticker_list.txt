@@ -1460,6 +1460,7 @@ BRC - Brady Corporation Common Stock
 BRCB - Black Rock Coffee Bar, Inc. - Class A Common Stock
 BRCC - BRC Inc. Class A Common Stock
 BRCE - MFS Blended Research Core Equity ETF
+BREE - MFS Blended Research Emerging Markets Equity ETF
 BREM - iShares Emerging Markets Bond Active ETF
 BRES - Burney U.S. Equity Select ETF
 BRF - VanEck Brazil Small-Cap ETF
@@ -1497,6 +1498,7 @@ BRX - Brixmor Property Group Inc. Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
 BRZU - Direxion Daily Brazil Bull 2X Shares
 BSAA - BEST SPAC I Acquisition Corp. - Class A Ordinary Shares
+BSAAR - BEST SPAC I Acquisition Corp. - Rights
 BSAAU - BEST SPAC I Acquisition Corp. - Unit
 BSAC - Banco Santander - Chile ADS
 BSBK - Bogota Financial Corp. - Common Stock
@@ -2457,7 +2459,6 @@ CUBWU - Lionheart Holdings - Unit
 CUBWW - Lionheart Holdings - Warrant
 CUE - Cue Biopharma, Inc. - Common Stock
 CUK - Carnival Plc ADS ADS
-CULP - Culp, Inc. Common Stock
 CUPR - Cuprina Holdings (Cayman) Limited - Ordinary shares
 CURB - Curbline Properties Corp. Common Stock
 CURE - Direxion Daily Healthcare Bull 3X Shares
@@ -3508,6 +3509,7 @@ EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordina
 EVOX - Evolution Global Acquisition Corp - Class A Ordinary Shares
 EVOXU - Evolution Global Acquisition Corp - Units
 EVOXW - Evolution Global Acquisition Corp - Warrants
+EVPF - Eaton Vance Preferred Securities and Income ETF
 EVR - Evercore Inc. Class A Common Stock
 EVRG - Evergy, Inc. - Common Stock
 EVSB - Eaton Vance Ultra-Short Income ETF
@@ -3829,6 +3831,7 @@ FIGR - Figure Technology Solutions, Inc. - Class A Common Stock
 FIGS - FIGS, Inc. Class A Common Stock
 FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
+FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIHL - Fidelis Insurance Holdings Limited Common Shares
 FIIG - First Trust Intermediate Duration Investment Grade Corporate ETF
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
@@ -4744,6 +4747,7 @@ HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
 HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
+HAVAR - Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares
 HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWX - iShares Currency Hedged MSCI ACWI ex U.S. ETF
 HAYW - Hayward Holdings, Inc. Common Stock
@@ -4766,6 +4770,7 @@ HBTA - Horizon Expedition Plus ETF
 HBTC - Fortuna Hedged Bitcoin ETF
 HCA - HCA Healthcare, Inc. Common Stock
 HCAC - Hall Chadwick Acquisition Corp. - Class A Ordinary Shares
+HCACR - Hall Chadwick Acquisition Corp. - Rights
 HCACU - Hall Chadwick Acquisition Corp. - Unit
 HCAI - Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares
 HCAT - Health Catalyst, Inc - Common stock
@@ -5331,7 +5336,6 @@ IMCV - iShares Morningstar Mid-Cap Value ETF
 IMDX - Insight Molecular Diagnostics Inc. - Common Stock
 IMF - Invesco Managed Futures Strategy ETF
 IMFL - Invesco International Developed Dynamic Multifactor ETF
-IMG - CIMG Inc. - Common Stock
 IMKTA - Ingles Markets, Incorporated - Class A Common Stock
 IMMP - Immutep Limited - American Depositary Shares
 IMMR - Immersion Corporation - Common Stock
@@ -6514,6 +6518,7 @@ MARB - First Trust Merger Arbitrage ETF
 MARM - FT Vest U.S. Equity Max Buffer ETF - March
 MARO - YieldMax MARA Option Income Strategy ETF
 MARPS - Marine Petroleum Trust - Units of Beneficial Interest
+MARS - Roundhill Space & Technology ETF
 MART - AllianzIM U.S. Large Cap Buffer10 Mar ETF
 MARU - AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF
 MARW - AllianzIM U.S. Large Cap Buffer20 Mar ETF
@@ -9989,7 +9994,7 @@ SUB - iShares Short-Term National Muni Bond ETF
 SUGP - SU Group Holdings Limited - Ordinary Shares
 SUI - Sun Communities, Inc. Common Stock
 SUIG - Sui Group Holdings Limited - Common Stock
-SUIS - Canary Staked SUIS ETF
+SUIS - Canary Staked SUI ETF
 SUN - Sunoco LP Common Units representing limited partner interests
 SUNB - Sunbelt Rentals Holdings, Inc. Common Stock
 SUNC - SunocoCorp LLC Common Units, representing limited liability company interests
@@ -10849,6 +10854,7 @@ USIN - WisdomTree 7-10 Year Laddered Treasury Fund
 USIO - Usio, Inc. - Common Stock
 USL - United States 12 Month Oil
 USLM - United States Lime & Minerals, Inc. - Common Stock
+USLN - iShares Broad USD Floating Rate Loan ETF
 USMC - Principal U.S. Mega-Cap ETF
 USMD - CoreValues America First Technology ETF
 USMF - WisdomTree U.S. Multifactor Fund
