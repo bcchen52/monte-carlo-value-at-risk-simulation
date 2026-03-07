@@ -180,7 +180,6 @@ ADX - Adams Diversified Equity Fund Inc.
 ADXN - Addex Therapeutics Ltd - American Depositary Shares
 AEAQ - Activate Energy Acquisition Corp. - Class A Ordinary Share
 AEAQU - Activate Energy Acquisition Corp. - Unit
-AEAQW - Activate Energy Acquisition Corp. - Warrant
 AEBI - Aebi Schmidt Holding AG - Common Stock
 AEC - Anfield Energy Inc. - Common Shares
 AEE - Ameren Corporation Common Stock
@@ -853,6 +852,7 @@ AVNT - Avient Corporation Common Stock
 AVNV - Avantis All International Markets Value ETF
 AVNW - Aviat Networks, Inc. - Common Stock
 AVO - Mission Produce, Inc. - Common Stock
+AVOS - Avos Global Equities ETF
 AVPT - AvePoint, Inc. - Class A Common Stock
 AVR - Anteris Technologies Global Corp. - Common Stock
 AVRE - Avantis Real Estate ETF
@@ -1044,6 +1044,7 @@ BCE - BCE, Inc. Common Stock
 BCFN - Baron Financials ETF
 BCG - Binah Capital Group, Inc. - Common Stock
 BCGD - Baron Global Durable Advantage ETF
+BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHI - GMO Beyond China ETF
 BCHP - Principal Focused Blue Chip ETF
@@ -2459,6 +2460,7 @@ CUBWU - Lionheart Holdings - Unit
 CUBWW - Lionheart Holdings - Warrant
 CUE - Cue Biopharma, Inc. - Common Stock
 CUK - Carnival Plc ADS ADS
+CULP - Culp, Inc. - Common Shares
 CUPR - Cuprina Holdings (Cayman) Limited - Ordinary shares
 CURB - Curbline Properties Corp. Common Stock
 CURE - Direxion Daily Healthcare Bull 3X Shares
@@ -3405,7 +3407,6 @@ ESGLW - ESGL Holdings Limited - Warrants
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESHA - ESH Acquisition Corp. - Class A Common Stock
-ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
@@ -4770,7 +4771,6 @@ HBTA - Horizon Expedition Plus ETF
 HBTC - Fortuna Hedged Bitcoin ETF
 HCA - HCA Healthcare, Inc. Common Stock
 HCAC - Hall Chadwick Acquisition Corp. - Class A Ordinary Shares
-HCACR - Hall Chadwick Acquisition Corp. - Rights
 HCACU - Hall Chadwick Acquisition Corp. - Unit
 HCAI - Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares
 HCAT - Health Catalyst, Inc - Common stock
@@ -6080,6 +6080,7 @@ KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred 
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
+KTTAW - Pasithea Therapeutics Corp. - Warrant
 KTUP - T-REX 2X Long KTOS Daily Target ETF
 KTWO - K2 Capital Acquisition Corporation - Class A Ordinary Share
 KTWOR - K2 Capital Acquisition Corporation - Rights
@@ -6372,7 +6373,6 @@ LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
 LPCV - Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
 LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
-LPCVW - Launchpad Cadenza Acquisition Corp I - Warrant
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -6817,6 +6817,7 @@ MMA - Mixed Martial Arts Group Limited Ordinary Shares
 MMAX - iShares Large Cap Max Buffer Mar ETF
 MMCA - NYLI MacKay California Muni Intermediate ETF
 MMD - NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares
+MMED - MiniMed Group, Inc. - Common Stock
 MMI - Marcus & Millichap, Inc. Common Stock
 MMID - MFS Active Mid Cap ETF
 MMIN - NYLI MacKay Muni Insured ETF
@@ -7288,7 +7289,6 @@ NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
 NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
-NIXXW - Nixxy, Inc. - Warrant
 NJAN - Innovator Growth-100 Power Buffer ETF - January
 NJNK - Columbia U.S. High Yield ETF
 NJR - NewJersey Resources Corporation Common Stock
@@ -7320,7 +7320,6 @@ NMIH - NMI Holdings Inc - Common Stock
 NML - Neuberger Energy Infrastructure and Income Fund Inc. Common Stock
 NMM - Navios Maritime Partners LP Common Units Representing Limited Partner Interests
 NMP - NMP Acquisition Corp. - Class A Ordinary Shares
-NMPAR - NMP Acquisition Corp. - Right
 NMPAU - NMP Acquisition Corp. - Units
 NMR - Nomura Holdings Inc ADR American Depositary Shares
 NMRA - Neumora Therapeutics, Inc. - Common Stock
@@ -7577,6 +7576,7 @@ NZF - Nuveen Municipal Credit Income Fund
 NZUS - State Street SPDR MSCI USA Climate Paris Aligned ETF
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -9073,6 +9073,7 @@ RUSC - Russell Investments U.S. Small Cap Equity ETF
 RUSHA - Rush Enterprises, Inc. - Class A Common Stock
 RUSHB - Rush Enterprises, Inc. - Class B Common Stock
 RVER - Trenchless Fund ETF
+RVI - Robinhood Ventures Fund I Common Shares of Beneficial Interest
 RVLV - Revolve Group, Inc. Class A Common Stock
 RVMD - Revolution Medicines, Inc. - Common Stock
 RVMDW - Revolution Medicines, Inc. - Warrant
@@ -9756,7 +9757,6 @@ SPDV - AAM S&P 500 High Dividend Value ETF
 SPDW - State Street SPDR Portfolio Developed World ex-US ETF
 SPE - Special Opportunities Fund, Inc Common Stock
 SPEG - Silver Pegasus Acquisition Corp - Class A Ordinary Shares
-SPEGR - Silver Pegasus Acquisition Corp - Rights
 SPEGU - Silver Pegasus Acquisition Corp - Unit
 SPEM - State Street SPDR Portfolio Emerging Markets ETF
 SPEU - State Street SPDR Portfolio Europe ETF
@@ -10193,6 +10193,7 @@ TDIC - Dreamland Limited - Class A Ordinary Shares
 TDIV - First Trust NASDAQ Technology Dividend Index Fund
 TDOC - Teladoc Health, Inc. Common Stock
 TDOG - 21shares Dogecoin ETF
+TDOT - 21shares Polkadot ETF
 TDS - Telephone and Data Systems, Inc. Common Shares
 TDSB - ETC Cabana Target Beta ETF
 TDSC - ETC Cabana Target Drawdown 10 ETF
@@ -10615,7 +10616,6 @@ TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
 TVACW - Texas Ventures Acquisition III Corp - Warrants
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
-TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
 TVAL - T. Rowe Price Value ETF
 TVC - Tennessee Valley Authority Common Stock
@@ -11078,6 +11078,7 @@ VMAX - Hartford US Value ETF
 VMBS - Vanguard Mortgage-Backed Securities ETF
 VMC - Vulcan Materials Company (Holding Company) Common Stock
 VMD - Viemed Healthcare, Inc. - Common Shares
+VMET - Versamet Royalties Corporation - Common Stock
 VMI - Valmont Industries, Inc. Common Stock
 VMO - Invesco Municipal Opportunity Trust Common Stock
 VMSB - Voya Multi-Sector Income ETF
@@ -11415,7 +11416,6 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
-WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
