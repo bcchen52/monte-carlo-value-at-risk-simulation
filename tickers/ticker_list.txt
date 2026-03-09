@@ -290,8 +290,8 @@ AHT - Ashford Hospitality Trust Inc Common Stock
 AHYB - American Century Select High Yield ETF
 AI - C3.ai, Inc. Class A Common Stock
 AIA - iShares Asia 50 ETF
-AIBD - Direxion Daily AI and Big Data Bear 2X Shares
-AIBU - Direxion Daily AI and Big Data Bull 2X Shares
+AIBD - Direxion Daily AI and Big Data Bear 2X ETF
+AIBU - Direxion Daily AI and Big Data Bull 2X ETF
 AIDX - 20/20 Biolabs, Inc. - Common Stock
 AIEQ - Amplify AI Powered Equity ETF
 AIFD - TCW Artificial Intelligence ETF
@@ -419,7 +419,6 @@ ALTO - Alto Ingredients, Inc. - Common Stock
 ALTS - ALT5 Sigma Corporation - Common Stock
 ALTY - Global X Alternative Income ETF
 ALUB - Alussa Energy Acquisition Corp. II Class A Ordinary Shares
-ALUR - Allurion Technologies, Inc. Common Stock
 ALV - Autoliv, Inc. Common Stock
 ALVO - Alvotech - Ordinary Shares
 ALVOW - Alvotech - Warrant
@@ -983,7 +982,7 @@ BBBI - BondBloxx BBB Rated 5-10 Year Corporate Bond ETF
 BBBL - BondBloxx BBB Rated 10+ Year Corporate Bond ETF
 BBBS - BondBloxx BBB Rated 1-5 Year Corporate Bond ETF
 BBBY - Bed Bath & Beyond, Inc. Common Stock
-BBC - Virtus LifeSci Biotech Clinical Trials ETF
+BBC - Virtus Biotech Clinical Trials ETF
 BBCA - JPMorgan BetaBuilders Canada ETF
 BBCB - JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF
 BBCP - Concrete Pumping Holdings, Inc.  - Common Stock
@@ -1012,7 +1011,7 @@ BBMC - JPMorgan BetaBuilders U.S. Mid Cap Equity ETF
 BBN - BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest
 BBNX - Beta Bionics, Inc. - Common Stock
 BBOT - BridgeBio Oncology Therapeutics, Inc. - Common Stock
-BBP - Virtus LifeSci Biotech Products ETF
+BBP - Virtus Biotech ETF
 BBRE - JPMorgan BetaBuilders MSCI U.S. REIT ETF
 BBSB - JPMorgan BetaBuilders U.S. Treasury Bond 1-3 Year ETF
 BBSC - JPMorgan BetaBuilders U.S. Small Cap Equity ETF
@@ -1497,7 +1496,7 @@ BRTX - BioRestorative Therapies, Inc. - Common Stock
 BRW - Saba Capital Income & Opportunities Fund SBI
 BRX - Brixmor Property Group Inc. Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
-BRZU - Direxion Daily Brazil Bull 2X Shares
+BRZU - Direxion Daily Brazil Bull 2X ETF
 BSAA - BEST SPAC I Acquisition Corp. - Class A Ordinary Shares
 BSAAR - BEST SPAC I Acquisition Corp. - Rights
 BSAAU - BEST SPAC I Acquisition Corp. - Unit
@@ -1969,7 +1968,7 @@ CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
 CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
-CHAU - Direxion Daily CSI 300 China A Share Bull 2X Shares
+CHAU - Direxion Daily CSI 300 China A Share Bull 2X ETF
 CHCI - Comstock Holding Companies, Inc. - Class A Common Stock
 CHCO - City Holding Company - Common Stock
 CHCT - Community Healthcare Trust Incorporated Common Stock
@@ -2463,7 +2462,7 @@ CUK - Carnival Plc ADS ADS
 CULP - Culp, Inc. - Common Shares
 CUPR - Cuprina Holdings (Cayman) Limited - Ordinary shares
 CURB - Curbline Properties Corp. Common Stock
-CURE - Direxion Daily Healthcare Bull 3X Shares
+CURE - Direxion Daily Healthcare Bull 3X ETF
 CURI - CuriosityStream Inc.  - Class A Common Stock
 CURR - Currenc Group Inc. - Ordinary Shares
 CURV - Torrid Holdings Inc. Common Stock
@@ -2507,7 +2506,7 @@ CWB - State Street SPDR Bloomberg Convertible Securities ETF
 CWBC - Community West Bancshares - Common Stock
 CWCO - Consolidated Water Co. Ltd. - Ordinary Shares
 CWD - CaliberCos Inc. - Class A Common Stock
-CWEB - Direxion Daily CSI China Internet Index Bull 2X Shares
+CWEB - Direxion Daily CSI China Internet Index Bull 2X ETF
 CWEN - Clearway Energy, Inc. Class C Common Stock
 CWH - Camping World Holdings, Inc. Class A Common Stock
 CWI - State Street SPDR MSCI ACWI ex-US ETF
@@ -2696,7 +2695,7 @@ DFDVW - DeFi Development Corp. - Warrant
 DFE - WisdomTree Europe SmallCap Dividend Fund
 DFEB - FT Vest U.S. Equity Deep Buffer ETF - February
 DFEM - Dimensional Emerging Markets Core Equity 2 ETF
-DFEN - Direxion Daily Aerospace & Defense Bull 3X Shares
+DFEN - Direxion Daily Aerospace & Defense Bull 3X ETF
 DFEV - Dimensional Emerging Markets Value ETF
 DFGP - Dimensional Global Core Plus Fixed Income ETF
 DFGR - Dimensional Global Real Estate ETF
@@ -2885,7 +2884,7 @@ DOX - Amdocs Limited - Ordinary Shares
 DOYU - DouYu International Holdings Limited - American Depositary Shares
 DPG - Duff & Phelps Utility and Infrastructure Fund Inc.
 DPRO - Draganfly Inc. - Common Shares
-DPST - Direxion Daily Regional Banks Bull 3X Shares
+DPST - Direxion Daily Regional Banks Bull 3X ETF
 DPZ - Domino's Pizza Inc - Common Stock
 DQ - DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares
 DRAI - Draco Evolution AI ETF
@@ -2900,13 +2899,13 @@ DRGN - Themes China Generative Artificial Intelligence ETF
 DRH - Diamondrock Hospitality Company - Common Stock
 DRI - Darden Restaurants, Inc. Common Stock
 DRIO - DarioHealth Corp. - Common Stock
-DRIP - Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares
+DRIP - Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X ETF
 DRIV - Global X Autonomous & Electric Vehicles ETF
 DRKY - VistaShares Target 15 DRUKMacro Distribution ETF
 DRLL - Strive U.S. Energy ETF
 DRMA - Dermata Therapeutics, Inc. - Common Stock
 DRMAW - Dermata Therapeutics, Inc. - Warrant
-DRN - Direxion Daily Real Estate Bull 3X Shares
+DRN - Direxion Daily Real Estate Bull 3X ETF
 DRNL - Defiance 2X Daily Long Pure Drone and Aerial Automation ETF
 DRNZ - REX Drone ETF
 DRS - Leonardo DRS, Inc. - Common Stock
@@ -2915,7 +2914,7 @@ DRTS - Alpha Tau Medical Ltd. - Ordinary Shares
 DRTSW - Alpha Tau Medical Ltd. - Warrant
 DRUG - Bright Minds Biosciences Inc. - common stock
 DRUP - GraniteShares Nasdaq Select Disruptors ETF
-DRV - Direxion Daily Real Estate Bear 3X Shares
+DRV - Direxion Daily Real Estate Bear 3X ETF
 DRVN - Driven Brands Holdings Inc. - Common Stock
 DSAC - Daedalus Special Acquisition Corp. - Class A Ordinary Shares
 DSACU - Daedalus Special Acquisition Corp. - Unit
@@ -2981,8 +2980,8 @@ DUOT - Duos Technologies Group, Inc. - Common Stock
 DURA - VanEck Durable High Dividend ETF
 DUSA - Davis Select U.S. Equity ETF
 DUSB - Dimensional Ultrashort Fixed Income ETF
-DUSL - Direxion Daily Industrials Bull 3X Shares
-DUST - Direxion Daily Gold Miners Index Bear 2X Shares
+DUSL - Direxion Daily Industrials Bull 3X ETF
+DUST - Direxion Daily Gold Miners Index Bear 2X ETF
 DV - DoubleVerify Holdings, Inc. Common Stock
 DVA - DaVita Inc. Common Stock
 DVAL - BrandywineGLOBAL-Dynamic US Large Cap Value ETF
@@ -3105,7 +3104,7 @@ ED - Consolidated Edison, Inc. Common Stock
 EDAP - EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share
 EDBL - Edible Garden AG Incorporated - Common Stock
 EDBLW - Edible Garden AG Incorporated - Warrant
-EDC - Direxion Emerging Markets Bull 3X Shares
+EDC - Direxion Emerging Markets Bull 3X ETF
 EDD - Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock
 EDEN - iShares MSCI Denmark ETF
 EDF - Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest
@@ -3128,7 +3127,7 @@ EDTK - Skillful Craftsman Education Technology Limited - Ordinary Share
 EDU - New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)
 EDUC - Educational Development Corporation - Common Stock
 EDV - Vanguard Extended Duration Treasury ETF
-EDZ - Direxion Emerging Markets Bear 3X Shares
+EDZ - Direxion Emerging Markets Bear 3X ETF
 EE - Excelerate Energy, Inc. Class A Common Stock
 EEA - The European Equity Fund, Inc. Common Stock
 EEE - CYBER HORNET S&P 500 and Ethereum 75/25 Strategy ETF
@@ -3388,8 +3387,8 @@ ERNAW - Ernexa Therapeutics Inc. - Warrants
 ERNZ - TrueShares Active Yield ETF
 ERO - Ero Copper Corp. Common Shares
 ERTH - Invesco MSCI Sustainable Future ETF
-ERX - Direxion Energy Bull 2X Shares
-ERY - Direxion Daily Energy Bear 2X Shares
+ERX - Direxion Energy Bull 2X ETF
+ERY - Direxion Daily Energy Bear 2X ETF
 ES - Eversource Energy (D/B/A) Common Stock
 ESAB - ESAB Corporation Common Stock
 ESBA - Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests
@@ -3478,7 +3477,7 @@ EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
 EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
-EURL - Direxion Daily FTSE Europe Bull 3X Shares
+EURL - Direxion Daily FTSE Europe Bull 3X ETF
 EUSA - iShares MSCI USA Equal Weighted ETF
 EUSB - iShares ESG Advanced Universal USD Bond ETF
 EVAC - EQV Ventures Acquisition Corp. II Class A Ordinary Shares
@@ -3607,13 +3606,13 @@ FANG - Diamondback Energy, Inc. - Common Stock
 FAPR - FT Vest U.S. Equity Buffer ETF - April
 FARM - Farmer Brothers Company - Common Stock
 FARX - Frontier Asset Absolute Return ETF
-FAS - Direxion Financial Bull 3X Shares
+FAS - Direxion Financial Bull 3X ETF
 FAST - Fastenal Company - Common Stock
 FATE - Fate Therapeutics, Inc. - Common Stock
 FATN - FatPipe, Inc. - common stock
 FAUG - FT Vest U.S. Equity Buffer ETF - August
 FAX - abrdn Asia-Pacific Income Fund, Inc. Common Stock
-FAZ - Direxion Financial Bear 3X Shares
+FAZ - Direxion Financial Bear 3X ETF
 FB - ProShares S&P 500 Dynamic Buffer ETF
 FBCG - Fidelity Blue Chip Growth ETF
 FBCV - Fidelity Blue Chip Value ETF
@@ -3989,7 +3988,7 @@ FNDF - Schwab Fundamental International Equity ETF
 FNDX - Schwab Fundamental U.S. Large Company ETF
 FNF - Fidelity National Financial, Inc. Common Stock
 FNGD - MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038
-FNGG - Direxion Daily NYSE FANG+ Bull 2X Shares
+FNGG - Direxion Daily NYSE FANG+ Bull 2X ETF
 FNGO - MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038
 FNGR - FingerMotion, Inc. - common stock
 FNGS - MicroSectors FANG  ETNs due January 8, 2038
@@ -4692,7 +4691,7 @@ GURE - Gulf Resources, Inc. - Common Stock
 GURU - Global X Guru Index ETF
 GUSA - Goldman Sachs MarketBeta U.S. 1000 Equity ETF
 GUSE - Goldman Sachs Enhanced U.S. Equity ETF
-GUSH - Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares
+GUSH - Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X ETF
 GUT - Gabelli Utility Trust (The) Common Stock
 GUTS - Fractyl Health, Inc. - Common Stock
 GV - Visionary Holdings Inc. - Common Shares
@@ -4851,8 +4850,8 @@ HGTY - Hagerty, Inc. Class A Common Stock
 HGV - Hilton Grand Vacations Inc. Common Stock 
 HHH - Howard Hughes Holdings Inc. Common Stock
 HHS - Harte Hanks, Inc. - Common Stock
-HIBL - Direxion Daily S&P 500 High Beta Bull 3X Shares
-HIBS - Direxion Daily S&P 500 High Beta Bear 3X Shares
+HIBL - Direxion Daily S&P 500 High Beta Bull 3X ETF
+HIBS - Direxion Daily S&P 500 High Beta Bear 3X ETF
 HIDE - Alpha Architect High Inflation and Deflation ETF
 HIDV - AB US High Dividend ETF
 HIFS - Hingham Institution for Savings - Common Stock
@@ -5380,7 +5379,7 @@ INDB - Independent Bank Corp. - Common Stock
 INDE - Matthews India Active ETF
 INDH - WisdomTree India Hedged Equity Fund
 INDI - indie Semiconductor, Inc. - Class A Common Stock
-INDL - Direxion Daily MSCI India Bull 2X Shares
+INDL - Direxion Daily MSCI India Bull 2X ETF
 INDO - Indonesia Energy Corporation Limited Ordinary Shares
 INDP - Indaptus Therapeutics, Inc. - Common Stock
 INDS - Pacer Industrial Real Estate ETF
@@ -5713,7 +5712,7 @@ JCTC - Jewett-Cameron Trading Company - Common Shares
 JD - JD.com, Inc. - American Depositary Shares
 JDIV - JPMorgan Dividend Leaders ETF
 JDOC - JPMorgan Healthcare Leaders ETF
-JDST - Direxion Daily Junior Gold Miners Index Bear 2X Shares
+JDST - Direxion Daily Junior Gold Miners Index Bear 2X ETF
 JDVI - John Hancock Disciplined Value International Select ETF
 JDVL - John Hancock Disciplined Value Select ETF
 JDZG - JIADE LIMITED - Class A Ordinary Shares
@@ -5795,7 +5794,7 @@ JMUB - JPMorgan Municipal ETF
 JNEU - AllianzIM U.S. Equity Buffer15 Uncapped June ETF
 JNJ - Johnson & Johnson Common Stock
 JNK - State Street SPDR Bloomberg High Yield Bond ETF
-JNUG - Direxion Daily Junior Gold Miners Index Bull 2X Shares
+JNUG - Direxion Daily Junior Gold Miners Index Bull 2X ETF
 JOB - GEE Group Inc. Common Stock
 JOBX - Tradr 2X Long JOBY Daily ETF
 JOBY - Joby Aviation, Inc. Common Stock
@@ -6025,7 +6024,7 @@ KOP - Koppers Holdings Inc. Common Stock
 KOPN - Kopin Corporation - Common Stock
 KORE - KORE Group Holdings, Inc. Common Stock
 KORP - American Century Diversified Corporate Bond ETF
-KORU - Direxion Daily South Korea Bull 3X Shares
+KORU - Direxion Daily South Korea Bull 3X ETF
 KOS - Kosmos Energy Ltd. Common Shares (DE)
 KOSS - Koss Corporation - Common Stock
 KOYN - CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares
@@ -6115,8 +6114,8 @@ KZIA - Kazia Therapeutics Limited - American Depositary Shares
 KZR - Kezar Life Sciences, Inc. - Common Stock
 L - Loews Corporation Common Stock
 LAB - Standard BioTools Inc. - Common Stock
-LABD - Direxion Daily S&P Biotech Bear 3X Shares
-LABU - Direxion Daily S&P Biotech Bull 3X Shares
+LABD - Direxion Daily S&P Biotech Bear 3X ETF
+LABU - Direxion Daily S&P Biotech Bull 3X ETF
 LABX - Tradr 2X Long ALAB Daily ETF
 LAC - Lithium Americas Corp. Common Shares
 LACG - Leverage Shares 2X Long LAC Daily ETF
@@ -6310,7 +6309,7 @@ LLYVK - Liberty Live Holdings, Inc. - Series C Liberty Live Group Common Stock
 LLYX - Defiance Daily Target 2X Long LLY ETF
 LMAT - LeMaitre Vascular, Inc. - Common Stock
 LMB - Limbach Holdings, Inc. - Common Stock
-LMBO - Direxion Daily Crypto Industry Bull 2X Shares
+LMBO - Direxion Daily Crypto Industry Bull 2X ETF
 LMBS - First Trust Low Duration Opportunities ETF
 LMFA - LM Funding America, Inc. - Common Stock
 LMND - Lemonade, Inc. Common Stock
@@ -6675,7 +6674,7 @@ METW - Roundhill META WeeklyPay ETF
 MEVO - M Evo Global Acquisition Corp II - Class A Ordinary Shares
 MEVOU - M Evo Global Acquisition Corp II - Units
 MEVOW - M Evo Global Acquisition Corp II - Warrants
-MEXX - Direxion Daily MSCI Mexico Bull 3X Shares
+MEXX - Direxion Daily MSCI Mexico Bull 3X ETF
 MFA - MFA Financial, Inc.
 MFAN - MFA Financial, Inc. 8.875% Senior Notes due 2029
 MFAO - MFA Financial, Inc. 9.000% Senior Notes due 2029
@@ -6743,7 +6742,7 @@ MICC - The Magnum Ice Cream Company N.V. Ordinary Shares
 MID - American Century Mid Cap Growth Impact ETF
 MIDD - The Middleby Corporation - Common Stock
 MIDE - Xtrackers S&P MidCap 400 Scored & Screened ETF
-MIDU - Direxion Mid Cap Bull 3X Shares
+MIDU - Direxion Mid Cap Bull 3X ETF
 MIG - VanEck Moody's Analytics IG Corporate Bond ETF
 MIGI - Mawson Infrastructure Group Inc. - Common Stock
 MIGO - MIG Core ETF
@@ -7108,7 +7107,7 @@ NACP - Impact Shares NAACP Minority Empowerment ETF
 NAD - Nuveen Quality Municipal Income Fund Common Stock
 NAGE - Niagen Bioscience, Inc. - Common Stock
 NAII - Natural Alternatives International, Inc. - Common Stock
-NAIL - Direxion Daily Homebuilders & Supplies Bull 3X Shares
+NAIL - Direxion Daily Homebuilders & Supplies Bull 3X ETF
 NAK - Northern Dynasty Minerals, Ltd. Common Stock
 NAKA - Nakamoto Inc. - Common Stock
 NAMI - Jinxin Technology Holding Company - American Depositary Shares
@@ -7459,7 +7458,7 @@ NUE - Nucor Corporation Common Stock
 NUEM - Nuveen ESG Emerging Markets Equity ETF
 NUG - Leverage Shares 2X Long NU Daily ETF
 NUGO - Nuveen Growth Opportunities ETF
-NUGT - Direxion Daily Gold Miners Index Bull 2XShares
+NUGT - Direxion Daily Gold Miners Index Bull 2X ETF
 NUGY - GraniteShares YieldBOOST Gold Miners ETF
 NUHY - Nuveen ESG High Yield Corporate Bond ETF
 NUKX - Nicholas Nuclear Income ETF
@@ -8140,7 +8139,7 @@ PIFI - ClearShares Piton Intermediate Fixed Income ETF
 PII - Polaris Inc. Common Stock
 PIII - P3 Health Partners Inc. - Class A Common Stock
 PIIIW - P3 Health Partners Inc. - Warrant
-PILL - Direxion Daily Pharmaceutical & Medical Bull 3X Shares
+PILL - Direxion Daily Pharmaceutical & Medical Bull 3X ETF
 PIM - Putnam Master Intermediate Income Trust Common Stock
 PINE - Alpine Income Property Trust, Inc. Common Stock
 PINK - Simplify Health Care ETF
@@ -8600,7 +8599,7 @@ QQLV - Invesco QQQ Low Volatility ETF
 QQMG - Invesco ESG NASDAQ 100 ETF
 QQQ - Invesco QQQ Trust, Series 1
 QQQA - ProShares Nasdaq-100 Dorsey Wright Momentum ETF
-QQQD - Direxion Daily Magnificent 7 Bear 1X Shares
+QQQD - Direxion Daily Magnificent 7 Bear 1X ETF
 QQQE - Direxion NASDAQ-100 Equal Weighted Index ETF
 QQQG - Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF
 QQQH - NEOS Nasdaq-100 Hedged Equity Income ETF
@@ -8610,7 +8609,7 @@ QQQM - Invesco NASDAQ 100 ETF
 QQQP - Tradr 2X Long Innovation 100 Quarterly ETF
 QQQS - Invesco NASDAQ Future Gen 200 ETF
 QQQT - Defiance Nasdaq 100 Income Target ETF
-QQQU - Direxion Daily Magnificent 7 Bull 2X Shares
+QQQU - Direxion Daily Magnificent 7 Bull 2X ETF
 QQQX - Nuveen NASDAQ 100 Dynamic Overwrite Fund - Closed End Fund
 QQQY - Defiance Nasdaq 100 Weekly Distribution ETF
 QQUP - ProShares Ultra QQQ Mega
@@ -8799,7 +8798,7 @@ REI - Ring Energy, Inc. Common Stock
 REIT - ALPS Active REIT ETF
 REK - ProShares Short Real Estate
 REKR - Rekor Systems, Inc. - Common Stock
-REKT - Direxion Daily Crypto Industry Bear 1X Shares
+REKT - Direxion Daily Crypto Industry Bear 1X ETF
 RELL - Richardson Electronics, Ltd. - Common Stock
 RELX - RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)
 RELY - Remitly Global, Inc. - Common stock
@@ -8814,7 +8813,7 @@ REPX - Riley Exploration Permian, Inc. Common Stock
 RERE - ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares)
 RES - RPC, Inc. Common Stock
 RESM - Columbia Research Enhanced Small Cap ETF
-RETL - Direxion Daily Retail Bull 3X Shares ETF
+RETL - Direxion Daily Retail Bull 3X ETF
 RETO - ReTo Eco-Solutions, Inc. - Class A Shares
 REVB - Revelation Biosciences, Inc. - Common Stock
 REVBW - Revelation Biosciences, Inc. - Warrant
@@ -9728,9 +9727,9 @@ SOUNW - SoundHound AI, Inc. - Warrant
 SOUX - Defiance Daily Target 2X Long SOUN ETF
 SOVF - Sovereign's Capital Flourish Fund
 SOWG - Sow Good Inc. - Common Stock
-SOXL - Direxion Daily Semiconductor Bull 3X Shares
+SOXL - Direxion Daily Semiconductor Bull 3X ETF
 SOXQ - Invesco PHLX Semiconductor ETF
-SOXS - Direxion Daily Semiconductor Bear 3X Shares
+SOXS - Direxion Daily Semiconductor Bear 3X ETF
 SOXX - iShares PHLX SOX Semiconductor Sector Index Fund
 SOXY - YieldMax Target 12 Semiconductor Option Income ETF
 SOYB - Teucrium Soybean Fund ETV
@@ -9751,7 +9750,7 @@ SPCX - SPAC and New Issue ETF
 SPCZ - RiverNorth Enhanced Pre-Merger SPAC ETF
 SPD - Simplify US Equity PLUS Downside Convexity ETF
 SPDG - State Street SPDR Portfolio S&P Sector Neutral Dividend ETF
-SPDN - Direxion Daily S&P 500 Bear 1X Shares
+SPDN - Direxion Daily S&P 500 Bear 1X ETF
 SPDV - AAM S&P 500 High Dividend Value ETF
 SPDW - State Street SPDR Portfolio Developed World ex-US ETF
 SPE - Special Opportunities Fund, Inc Common Stock
@@ -9817,7 +9816,7 @@ SPTU - State Street SPDR Portfolio Ultra Short T-Bill ETF
 SPUC - Simplify US Equity PLUS Upside Convexity ETF
 SPUS - SP Funds S&P 500 Sharia Industry Exclusions ETF
 SPUT - Innovator Equity Premium Income - Daily PutWrite ETF
-SPUU - Direxion Daily S&P 500 Bull 2X Shares
+SPUU - Direxion Daily S&P 500 Bull 2X ETF
 SPVM - Invesco S&P 500 Value with Momentum ETF
 SPWH - Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWO - SP Funds S&P World (ex-US) ETF
@@ -9826,9 +9825,9 @@ SPWRW - SunPower Inc. - Warrant
 SPXC - SPX Technologies, Inc. Common Stock
 SPXD - Xtrackers S&P 500 Diversified Sector Weight ETF
 SPXE - ProShares S&P 500 Ex-Energy ETF
-SPXL - Direxion Daily S&P 500 Bull 3X Shares
+SPXL - Direxion Daily S&P 500 Bull 3X ETF
 SPXN - ProShares S&P 500 Ex-Financials ETF
-SPXS - Direxion Daily S&P 500 Bear 3X
+SPXS - Direxion Daily S&P 500 Bear 3X ETF
 SPXT - ProShares S&P 500 Ex-Technology ETF
 SPXU - ProShares UltraPro Short S&P500
 SPXV - ProShares S&P 500 Ex-Health Care ETF
@@ -10215,8 +10214,8 @@ TEC - Harbor Transformative Technologies ETF
 TECB - iShares U.S. Tech Breakthrough Multisector ETF
 TECH - Bio-Techne Corp - Common Stock
 TECK - Teck Resources Ltd Ordinary Shares
-TECL - Direxion Technology Bull 3X Shares
-TECS - Direxion Technology Bear 3X Shares
+TECL - Direxion Daily S&P 500 Bear 3X ETF
+TECS - Direxion Technology Bear 3X ETF
 TECX - Tectonic Therapeutic, Inc. - Common Stock
 TEI - Templeton Emerging Markets Income Fund, Inc. Common Stock
 TEK - iShares Technology Opportunities Active ETF
@@ -10404,7 +10403,7 @@ TMUSL - T-Mobile US, Inc. - 6.250% Senior Notes due 2069
 TMUSZ - T-Mobile US, Inc. - 5.500% Senior Notes due March 2070
 TMV - Direxion Daily 20-Year Treasury Bear 3X
 TMVE - Thrivent Mid Cap Value ETF
-TNA - Direxion Small Cap Bull 3X Shares
+TNA - Direxion Small Cap Bull 3X ETF
 TNC - Tennant Company Common Stock
 TNDM - Tandem Diabetes Care, Inc. - Common Stock
 TNET - TriNet Group, Inc. Common Stock
@@ -10463,7 +10462,7 @@ TPIF - Timothy Plan International ETF
 TPL - Texas Pacific Land Corporation Common Stock
 TPLC - Timothy Plan US Large/Mid Cap Core ETF
 TPLS - Thornburg Core Plus Bond ETF
-TPOR - Direxion Daily Transportation Bull 3X Shares
+TPOR - Direxion Daily Transportation Bull 3X ETF
 TPR - Tapestry, Inc. Common Stock
 TPRY - VistaShares Target 15 TEPRTantrum Contrarian Distribution ETF
 TPSC - Timothy Plan US Small Cap Core ETF
@@ -10664,7 +10663,7 @@ TYLD - Cambria Tactical Yield ETF
 TYLG - Global X Information Technology Covered Call & Growth ETF
 TYO - Direxion Daily 10-Yr Treasury Bear 3x Shrs
 TYRA - Tyra Biosciences, Inc. - Common Stock
-TZA - Direxion Small Cap Bear 3X Shares
+TZA - Direxion Small Cap Bear 3X ETF
 TZOO - Travelzoo - Common Stock
 U - Unity Software Inc. Common Stock
 UA - Under Armour, Inc. Class C Common Stock
@@ -10682,7 +10681,7 @@ UBER - Uber Technologies, Inc. Common Stock
 UBEW - Roundhill UBER WeeklyPay ETF
 UBFO - United Security Bancshares - Common Stock
 UBND - VictoryShares Core Plus Bond ETF
-UBOT - Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares
+UBOT - Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF
 UBR - ProShares Ultra MSCI Brazil Capped
 UBRL - GraniteShares 2x Long UBER Daily ETF
 UBS - UBS Group AG Registered Ordinary Shares
@@ -10804,7 +10803,7 @@ UPW - ProShares Ultra Utilities
 UPWK - Upwork Inc. - Common Stock
 UPXI - Upexi, Inc. - Common Stock
 URA - Global X Uranium ETF
-URAA - Direxion Daily Uranium Industry Bull 2X Shares
+URAA - Direxion Daily Uranium Industry Bull 2X ETF
 URAN - Themes Uranium & Nuclear ETF
 URBN - Urban Outfitters, Inc. - Common Stock
 URE - ProShares Ultra Real Estate
@@ -10888,7 +10887,7 @@ UTL - UNITIL Corporation Common Stock
 UTMD - Utah Medical Products, Inc. - Common Stock
 UTRE - US Treasury 3 Year Note ETF
 UTSI - UTStarcom Holdings Corp - Ordinary Shares
-UTSL - Direxion Daily Utilities Bull 3X Shares
+UTSL - Direxion Daily Utilities Bull 3X ETF
 UTWO - US Treasury 2 Year Note ETF
 UTWY - US Treasury 20 Year Bond ETF
 UTZ - Utz Brands Inc Class A Common Stock 
@@ -11239,7 +11238,7 @@ WAI - Top KingWin Ltd - Class A Ordinary Shares
 WAL - Western Alliance Bancorporation Common Stock (DE)
 WALD - Waldencast plc - Class A Ordinary Share
 WALDW - Waldencast plc - Warrant
-WANT - Direxion Daily Consumer Discretionary Bull 3X Shares
+WANT - Direxion Daily Consumer Discretionary Bull 3X ETF
 WAR - U.S. Global Technology and Aerospace & Defense ETF
 WASH - Washington Trust Bancorp, Inc. - Common Stock
 WAT - Waters Corporation Common Stock
@@ -11284,8 +11283,8 @@ WDTE - Defiance S&P 500 Weekly Distribution ETF
 WEA - Western Asset Bond Fund Share of Beneficial Interest
 WEAT - Teucrium Wheat Fund ETV
 WEAV - Weave Communications, Inc. Common Stock
-WEBL - Direxion Daily Dow Jones Internet Bull 3X Shares
-WEBS - Direxion Daily Dow Jones Internet Bear 3X Shares
+WEBL - Direxion Daily Dow Jones Internet Bull 3X ETF
+WEBS - Direxion Daily Dow Jones Internet Bear 3X ETF
 WEC - WEC Energy Group, Inc. Common Stock
 WEED - Roundhill Cannabis ETF
 WEEI - Westwood Salient Enhanced Energy Income ETF
@@ -11672,7 +11671,7 @@ XZO - Exzeo Group, Inc. Common Stock
 YAAS - Youxin Technology Ltd - Class A Ordinary shares
 YALA - Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share
 YALL - God Bless America ETF
-YANG - Direxion Daily FTSE China Bear 3X Shares
+YANG - Direxion Daily FTSE China Bear 3X ETF
 YB - Yuanbao Inc. - American Depositary Shares
 YBIT - YieldMax Bitcoin Option Income Strategy ETF
 YBMN - Defiance BMNR Option Income ETF
@@ -11703,7 +11702,7 @@ YHNAR - YHN Acquisition I Limited - Right
 YHNAU - YHN Acquisition I Limited - Unit
 YI - 111, Inc. - American Depositary Shares
 YIBO - Planet Image International Limited - Class A Ordinary Shares
-YINN - Direxion Daily FTSE China Bull 3X Shares
+YINN - Direxion Daily FTSE China Bull 3X ETF
 YJ - Yunji Inc. - American Depository Shares
 YJUN - FT Vest International Equity Moderate Buffer ETF - June
 YLD - Principal Active High Yield ETF
