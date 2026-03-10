@@ -2340,7 +2340,6 @@ CRDU - Tradr 2X Long CRDO Daily ETF
 CRE - Cre8 Enterprise Limited - Class A Ordinary Shares
 CRED - Columbia Research Enhanced Real Estate ETF
 CREG - Smart Powerr Corp. - Common Stock
-CRESW - Cresud S.A.C.I.F. y A. - Warrant
 CRESY - Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock
 CREX - Creative Realities, Inc. - Common Stock
 CRF - Cornerstone Total Return Fund, Inc. (The) Common Stock
@@ -2844,6 +2843,7 @@ DMIIR - Drugs Made In America Acquisition II Corp. - Right
 DMIIU - Drugs Made In America Acquisition II Corp. - Unit
 DMLP - Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests
 DMO - Western Asset Mortgage Opportunity Fund Inc. Common Stock
+DMRA - Damora Therapeutics, Inc. - Common Stock
 DMRC - Digimarc Corporation - Common Stock
 DMX - DoubleLine Multi-Sector Income ETF
 DMXF - iShares ESG Advanced MSCI EAFE ETF
@@ -3065,7 +3065,6 @@ EASG - Xtrackers MSCI EAFE Selection Equity ETF
 EASY - Liberty One Defensive Dividend Growth ETF
 EAT - Brinker International, Inc. Common Stock
 EATZ - AdvisorShares Restaurant ETF
-EB - Eventbrite, Inc. Class A Common Stock
 EBAY - eBay Inc. - Common Stock
 EBC - Eastern Bankshares, Inc. - Common Stock
 EBF - Ennis, Inc. Common Stock
@@ -3400,11 +3399,10 @@ ESG - FlexShares STOXX US ESG Select Index Fund
 ESGD - iShares ESG Aware MSCI EAFE ETF
 ESGE - iShares ESG Aware MSCI EM ETF
 ESGG - FlexShares STOXX Global ESG Select Index Fund
-ESGL - ESGL Holdings Limited - Class A Ordinary Shares
-ESGLW - ESGL Holdings Limited - Warrants
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESHA - ESH Acquisition Corp. - Class A Common Stock
+ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
@@ -4466,7 +4464,6 @@ GLQ - Clough Global Equity Fund Clough Global Equity Fund Common Shares of Benef
 GLRE - Greenlight Reinsurance, Ltd. - Class A Ordinary Shares
 GLRY - Inspire Growth ETF
 GLSI - Greenwich LifeSciences, Inc. - Common stock
-GLTO - Galecto, Inc. - Common Stock
 GLTR - abrdn Physical Precious Metals Basket Shares ETF
 GLU - Gabelli Global Utility Common Shares of Beneficial Ownership
 GLUE - Monte Rosa Therapeutics, Inc. - Common Stock
@@ -7142,6 +7139,7 @@ NBFR - Innovator Nasdaq-100 Managed 10 Buffer ETF
 NBGX - Neuberger Growth ETF
 NBH - Neuberger Municipal Fund Inc. Common Stock
 NBHC - National Bank Holdings Corporation Common Stock
+NBIE - Neuberger International Core Equity ETF
 NBIG - Leverage Shares 2X Long NBIS Daily ETF
 NBIL - GraniteShares 2x Long NBIS Daily ETF
 NBIS - Nebius Group N.V. - Class A Ordinary Shares
@@ -7318,6 +7316,7 @@ NMIH - NMI Holdings Inc - Common Stock
 NML - Neuberger Energy Infrastructure and Income Fund Inc. Common Stock
 NMM - Navios Maritime Partners LP Common Units Representing Limited Partner Interests
 NMP - NMP Acquisition Corp. - Class A Ordinary Shares
+NMPAR - NMP Acquisition Corp. - Right
 NMPAU - NMP Acquisition Corp. - Units
 NMR - Nomura Holdings Inc ADR American Depositary Shares
 NMRA - Neumora Therapeutics, Inc. - Common Stock
@@ -7665,7 +7664,11 @@ OILD - MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN
 OILK - ProShares K-1 Free Crude Oil ETF
 OILT - Texas Capital Texas Oil Index ETF
 OILU - MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN
+OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
+OIMAW - OneIM Acquisition Corp. - Warrant
+OIO - OIO Group - Ordinary Shares
+OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
 OKE - ONEOK, Inc. Common Stock
 OKLL - Defiance Daily Target 2x Long OKLO ETF
@@ -10614,6 +10617,7 @@ TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
 TVACW - Texas Ventures Acquisition III Corp - Warrants
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
+TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
 TVAL - T. Rowe Price Value ETF
 TVC - Tennessee Valley Authority Common Stock
@@ -11501,6 +11505,7 @@ XERS - Xeris Biopharma Holdings, Inc. - Common Stock
 XES - State Street SPDR S&P Oil & Gas Equipment & Services ETF
 XFEB - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - February
 XFIV - BondBloxx Bloomberg Five Year Target Duration US Treasury ETF
+XFLH - XFLH Capital Corporation Ordinary Shares
 XFLT - XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest
 XFLX - FundX Flexible ETF
 XFOR - X4 Pharmaceuticals, Inc. - Common Stock
@@ -11768,7 +11773,7 @@ ZETA - Zeta Global Holdings Corp. Class A Common Stock
 ZETX - Defiance Daily Target 2x Long ZETA ETF
 ZFEB - Innovator Equity Defined Protection ETF - 1 Yr February
 ZG - Zillow Group, Inc. - Class A Common Stock
-ZGM - Zenta Group Company Limited - Ordinary Shares
+ZGM - Zenta Group Company Limited - Class A Ordinary Shares
 ZGN - Ermenegildo Zegna N.V. Ordinary Shares
 ZH - Zhihu Inc. American Depositary Shares, each representing three (3) Class A Ordinary Shares
 ZHDG - ZEGA Buy and Hedge ETF
