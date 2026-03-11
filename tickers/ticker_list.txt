@@ -1043,6 +1043,7 @@ BCE - BCE, Inc. Common Stock
 BCFN - Baron Financials ETF
 BCG - Binah Capital Group, Inc. - Common Stock
 BCGD - Baron Global Durable Advantage ETF
+BCGS - Bancreek Global Select ETF
 BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHI - GMO Beyond China ETF
@@ -1747,6 +1748,7 @@ CARZ - First Trust S-Network Future Vehicles & Technology ETF
 CAS - Simplify China A Shares PLUS Income ETF
 CASH - Pathward Financial, Inc. - Common Stock
 CASS - Cass Information Systems, Inc - Common Stock
+CAST - FreeCast, Inc. - Class A common stock
 CASY - Caseys General Stores, Inc. - Common Stock
 CAT - Caterpillar, Inc. Common Stock
 CATF - American Century California Municipal Bond ETF
@@ -3473,7 +3475,6 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X ETF
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -3790,7 +3791,9 @@ FGBIP - First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulati
 FGD - First Trust DJ Global Select Dividend
 FGDL - Franklin Responsibly Sourced Gold ETF
 FGI - FGI Industries Ltd. - Ordinary Shares
+FGII - FG Imperii Acquisition Corp. - Class A Ordinary Shares
 FGIIU - FG Imperii Acquisition Corp. - Units
+FGIIW - FG Imperii Acquisition Corp. - Warrants
 FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
@@ -3906,6 +3909,7 @@ FLMB - Franklin Municipal Green Bond ETF
 FLMI - Franklin Dynamic Municipal Bond ETF
 FLMX - Franklin FTSE Mexico ETF
 FLN - First Trust Latin America AlphaDEX Fund
+FLNA - Filana Therapeutics, Inc. - Common Stock
 FLNC - Fluence Energy, Inc. - Class A Common Stock
 FLNG - FLEX LNG Ltd. Ordinary Shares
 FLNT - Fluent, Inc. - Common Stock
@@ -4469,6 +4473,7 @@ GLU - Gabelli Global Utility Common Shares of Beneficial Ownership
 GLUE - Monte Rosa Therapeutics, Inc. - Common Stock
 GLV - Clough Global Dividend and Income Fund Common Shares of beneficial interest
 GLW - Corning Incorporated Common Stock
+GLWG - Leverage Shares 2X Long GLW Daily ETF
 GLXG - Galaxy Payroll Group Limited - Class A Ordinary Shares
 GLXU - T-REX 2X Long GLXY Daily Target ETF
 GLXY - Galaxy Digital Inc. - Class A common stock
@@ -5218,6 +5223,8 @@ IDXX - IDEXX Laboratories, Inc. - Common Stock
 IDYA - IDEAYA Biosciences, Inc. - Common Stock
 IDYN - iShares International Equity Factor Rotation Active ETF
 IE - Ivanhoe Electric Inc. Common Stock
+IEAG - Infinite Eagle Acquisition Corp. - Class A Ordinary Shares
+IEAGR - Infinite Eagle Acquisition Corp. - Rights
 IEAGU - Infinite Eagle Acquisition Corp. - Unit
 IEDI - iShares U.S. Consumer Focused ETF
 IEF - iShares 7-10 Year Treasury Bond ETF
@@ -6443,6 +6450,7 @@ LUXE - LuxExperience B.V. American Depositary Shares, each representing one Ordi
 LVDS - JPMorgan Fundamental Data Science Large Value ETF
 LVHD - Franklin U.S. Low Volatility High Dividend Index ETF
 LVHI - Franklin International Low Volatility High Dividend Index ETF
+LVIG - Longview Advantage Fixed Income ETF
 LVLN - State Street SPDR S&P Leveraged Loan ETF
 LVLU - Lulu's Fashion Lounge Holdings, Inc. - Common Stock
 LVO - LiveOne, Inc. - Common Stock
@@ -9181,7 +9189,6 @@ SATO - Invesco Alerian Galaxy Crypto Economy ETF
 SATS - EchoStar Corporation - Common stock
 SAUG - FT Vest U.S. Small Cap Moderate Buffer ETF - August
 SAV - Saratoga Investment Corp 7.50% Notes due 2031
-SAVA - Cassava Sciences, Inc. - Common Stock
 SAWG - AAM Sawgrass US Large Cap Quality Growth ETF
 SAWS - AAM Sawgrass US Small Cap Quality Growth ETF
 SAY - Saratoga Investment Corp 8.125% Notes due 2027
@@ -11352,6 +11359,7 @@ WLDN - Willdan Group, Inc. - Common Stock
 WLDR - Affinity World Leaders Equity ETF
 WLDS - Wearable Devices Ltd. - Ordinary Share
 WLDSW - Wearable Devices Ltd. - Warrant
+WLDU - Leverage Shares 2x Long World Stock Daily ETF
 WLFC - Willis Lease Finance Corporation - Common Stock
 WLIIU - Willow Lane Acquisition Corp. II - Unit
 WLK - Westlake Corporation Common Stock
@@ -11742,6 +11750,7 @@ YXT - YXT.COM GROUP HOLDING LIMITED - American Depository Shares
 YYAI - AiRWA Inc. - Common Stock
 YYGH - YY Group Holding Limited - Class A Ordinary Shares
 YYY - Amplify CEF High Income ETF
+YYYM - Amplify Municipal CEF High Income ETF
 Z - Zillow Group, Inc. - Class C Capital Stock
 ZALT - Innovator U.S. Equity 10 Buffer ETF - Quarterly
 ZAP - Global X U.S. Electrification ETF
