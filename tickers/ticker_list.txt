@@ -207,7 +207,6 @@ AESI - Atlas Energy Solutions Inc. Common Stock
 AESR - Anfield U.S. Equity Sector Rotation ETF
 AETH - Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF
 AEVA - Aeva Technologies, Inc. - Common Stock
-AEVAW - Aeva Technologies, Inc. - Redeemable Warrants
 AEXA - American Exceptionalism Acquisition Corp. A Class A Ordinary Shares
 AEYE - AudioEye, Inc. - Common Stock
 AFB - AllianceBernstein National Municipal Income Fund Inc
@@ -1992,7 +1991,6 @@ CHMI - Cherry Hill Mortgage Investment Corporation Common Stock
 CHNR - China Natural Resources, Inc. - Common Shares
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
-CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -2187,6 +2185,7 @@ COCO - The Vita Coco Company, Inc. - Common Stock
 COCP - Cocrystal Pharma, Inc. - Common Stock
 CODA - Coda Octopus Group, Inc. - Common stock
 CODI - D/B/A Compass Diversified Holdings Shares of Beneficial Interest
+CODX - Co-Diagnostics, Inc. - Common Stock
 COE - 51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares
 COEP - Coeptis Therapeutics Holdings, Inc. - Common Stock
 COEPW - Coeptis Therapeutics Holdings, Inc. - Warrants
@@ -4120,7 +4119,6 @@ FTDR - Frontdoor, Inc. - Common Stock
 FTDS - First Trust Dividend Strength ETF
 FTEC - Fidelity MSCI Information Technology Index ETF
 FTEK - Fuel Tech, Inc. - Common Stock
-FTEL - Fitell Corporation - Class A Ordinary Shares
 FTF - Franklin Limited Duration Income Trust Common Shares of Beneficial Interest
 FTFT - Future FinTech Group Inc. - Common Stock
 FTGC - First Trust Global Tactical Commodity Strategy Fund
@@ -4484,6 +4482,7 @@ GMAY - FT Vest U.S. Equity Moderate Buffer ETF - May
 GME - GameStop Corporation Common Stock
 GMED - Globus Medical, Inc. Class A Common Stock
 GMEU - T-REX 2X Long GME Daily Target ETF
+GMEX - GMEX ROBOTICS CORPORATION - Class A Ordinary Shares
 GMEY - YieldMax GME Option Income Strategy ETF
 GMF - State Street SPDR S&P Emerging Asia Pacific ETF
 GMHS - Gamehaus Holdings Inc. - Class A Ordinary Shares
@@ -4595,6 +4594,8 @@ GRFS - Grifols, S.A. - American Depositary Shares
 GRI - GRI Bio, Inc. - Common Stock
 GRID - First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund
 GRIN - VictoryShares International Free Cash Flow Growth ETF
+GRML - Greenland Mines Ltd - Common Stock
+GRMLW - Greenland Mines Ltd - Warrants
 GRMN - Garmin Ltd. Common Stock (Switzerland)
 GRN - iPath Series B Carbon Exchange-Traded Notes
 GRNB - VanEck Green Bond ETF
@@ -4969,6 +4970,7 @@ HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
 HSIC - Henry Schein, Inc. - Common Stock
+HSLV - Highlander Silver Corp. Common Shares
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
 HSPT - Horizon Space Acquisition II Corp. - Ordinary share
 HSPTR - Horizon Space Acquisition II Corp. - Right
@@ -5978,8 +5980,6 @@ KLIP - KraneShares KWEB Covered Call Strategy ETF
 KLMN - Invesco MSCI North America Climate ETF
 KLMT - Invesco MSCI Global Climate 500 ETF
 KLRS - Kalaris Therapeutics, Inc.  - Common Stock
-KLTO - Klotho Neurosciences, Inc. - Common Stock
-KLTOW - Klotho Neurosciences, Inc. - Warrants
 KLTR - Kaltura, Inc. - Common Stock
 KLXE - KLX Energy Services Holdings, Inc.  - Common Stock
 KLXY - KraneShares Global Luxury Index ETF
@@ -7094,7 +7094,6 @@ MYMJ - State Street My2030 Municipal Bond ETF
 MYMK - State Street My2031 Municipal Bond ETF
 MYN - Blackrock MuniYield New York Quality Fund, Inc.Common Stock
 MYND - Mynd.ai, Inc. American Depositary Shares
-MYNZ - Mainz Biomed N.V. - Ordinary Shares
 MYO - Myomo Inc. Common Stock
 MYPS - PLAYSTUDIOS, Inc.  - Class A Common Stock
 MYPSW - PLAYSTUDIOS, Inc.  - Warrant
@@ -7381,6 +7380,7 @@ NPB - Northpointe Bancshares, Inc. Common Stock
 NPCE - Neuropace, Inc. - Common Stock
 NPCT - Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest
 NPFD - Nuveen Variable Rate Preferred & Income Fund Common Shares
+NPFE - NPF Core Equity ETF
 NPFI - Nuveen Preferred and Income ETF
 NPK - National Presto Industries, Inc. Common Stock
 NPKI - NPK International Inc. Common Stock
@@ -7834,7 +7834,6 @@ OUNZ - VanEck Merk Gold ETF
 OUSA - ALPS O'Shares U.S. Quality Dividend ETF
 OUSM - ALPS O'Shares U.S. Small-Cap Quality Dividend ETF
 OUST - Ouster, Inc. - Common Stock
-OUSTZ - Ouster, Inc. - Warrants
 OUT - OUTFRONT Media Inc. Common Stock
 OVB - Overlay Shares Core Bond ETF
 OVBC - Ohio Valley Banc Corp. - Common Stock
@@ -8324,6 +8323,7 @@ PQUS - Pictet AI Enhanced US Equity ETF
 PR - Permian Resources Corporation Class A Common Stock
 PRA - ProAssurance Corporation Common Stock
 PRAA - PRA Group, Inc. - Common Stock
+PRAB - State Street IG Public & Private ABS ETF
 PRAE - PlanRock Alternative Growth ETF
 PRAX - Praxis Precision Medicines, Inc. - Common Stock
 PRAY - FIS Christian Stock Fund
@@ -8662,6 +8662,7 @@ QUAD - Quad Graphics, Inc Class A Common Stock
 QUAL - iShares MSCI USA Quality Factor ETF
 QUBT - Quantum Computing Inc. - Common Stock
 QUBX - Tradr 2X Long QUBT Daily ETF
+QUCY - Mainz Biomed N.V. - Ordinary Shares
 QUIK - QuickLogic Corporation - Common Stock
 QUIZ - Zacks Quality International ETF
 QULL - ETRACS 2x Leveraged MSCI US Quality Factor TR ETN
@@ -10003,6 +10004,7 @@ SUGP - SU Group Holdings Limited - Ordinary Shares
 SUI - Sun Communities, Inc. Common Stock
 SUIG - Sui Group Holdings Limited - Common Stock
 SUIS - Canary Staked SUI ETF
+SUMAU - SUMA Acquisition Corporation - Units
 SUN - Sunoco LP Common Units representing limited partner interests
 SUNB - Sunbelt Rentals Holdings, Inc. Common Stock
 SUNC - SunocoCorp LLC Common Units, representing limited liability company interests
@@ -11651,7 +11653,7 @@ XTEN - BondBloxx Bloomberg Ten Year Target Duration US Treasury ETF
 XTIA - XTI Aerospace, Inc. Common Stock  - Common Stock
 XTJA - Innovator U.S. Equity Accelerated Plus ETF - January
 XTJL - Innovator U.S. Equity Accelerated Plus ETF - July
-XTKG - X3 Holdings Co., Ltd. - Ordinary Shares
+XTKG - X3 Holdings Co., Ltd. - Class A Ordinary Shares
 XTL - State Street SPDR S&P Telecom ETF
 XTLB - XTL Biopharmaceuticals Ltd. - American Depositary Shares
 XTN - State Street SPDR S&P Transportation ETF
