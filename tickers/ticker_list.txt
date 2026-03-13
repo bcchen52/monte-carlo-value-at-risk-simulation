@@ -371,7 +371,6 @@ ALDFU - Aldel Financial II Inc. - Units
 ALDFW - Aldel Financial II Inc. - Warrants
 ALDX - Aldeyra Therapeutics, Inc. - Common Stock
 ALEC - Alector, Inc. - Common Stock
-ALEX - Alexander & Baldwin, Inc. Common Stock REIT Holding Company
 ALF - Centurion Acquisition Corp. - Class A Ordinary Shares
 ALFUU - Centurion Acquisition Corp. - Unit
 ALFUW - Centurion Acquisition Corp. - Warrant
@@ -1966,7 +1965,6 @@ CHACR - Crane Harbor Acquisition Corp. - Rights
 CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
-CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X ETF
@@ -2618,6 +2616,7 @@ DCX - Digital Currency X Technology Inc. - Class A Ordinary Shares
 DD - DuPont de Nemours, Inc. Common Stock
 DDC - DDC Enterprise Limited Class A Ordinary Shares
 DDD - 3D Systems Corporation Common Stock
+DDDD - YieldMax U.S. Stocks Target Double Distribution ETF
 DDEC - FT Vest U.S. Equity Deep Buffer ETF - December
 DDFD - Innovator Equity Dual Directional 15 Buffer ETF - December
 DDFF - Innovator Equity Dual Directional 15 Buffer ETF - February
@@ -3300,6 +3299,7 @@ ENFR - Alerian Energy Infrastructure ETF
 ENGN - enGene Holdings Inc. - Common Stock
 ENGNW - enGene Holdings Inc. - Warrants
 ENGS - Energys Group Limited - Ordinary Shares
+ENHI - iShares Enhanced International Active ETF
 ENHU - iShares Enhanced Large Cap Core Active ETF
 ENIC - Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock)
 ENJ - Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052
@@ -3409,6 +3409,7 @@ ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
 ESK - REX-Osprey ETH + Staking ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
+ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLG - Eventide Large Cap Growth ETF
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESLV - Eventide Large Cap Value ETF
@@ -3436,6 +3437,7 @@ ETFT - Fundsmith Equity ETF
 ETG - Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest
 ETH - Grayscale Ethereum Staking Mini ETF Shares
 ETHA - iShares Ethereum Trust ETF
+ETHB - iShares Staked Ethereum Trust ETF
 ETHD - ProShares UltraShort Ether ETF
 ETHE - Grayscale Ethereum Staking ETF Shares
 ETHM - Dynamix Corporation - Class A Ordinary Share
@@ -4252,6 +4254,7 @@ GAU - Galiano Gold Inc.
 GAUD - Guinness Atkinson US Dividend Builder ETF
 GAUG - FT Vest U.S. Equity Moderate Buffer ETF - August
 GAUZ - Gauzy Ltd. - Ordinary Shares
+GAVA - Grayscale Avalanche Staking ETF
 GBAB - Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest
 GBCI - Glacier Bancorp, Inc. Common Stock
 GBDC - Golub Capital BDC, Inc. - Closed End Fund
@@ -6613,6 +6616,7 @@ MCTA - Charming Medical Limited - Class A Ordinary Shares
 MCW - Mister Car Wash, Inc. - Common Stock
 MCY - Mercury General Corporation Common Stock
 MD - Pediatrix Medical Group, Inc. Common Stock
+MDA - MDA Space Ltd. Common Shares
 MDAA - Myriad Dynamic Asset Allocation ETF
 MDAI - Spectral AI, Inc. - Class A Common Stock
 MDAIW - Spectral AI, Inc. - Warrants
@@ -7292,6 +7296,7 @@ NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
 NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
+NIXXW - Nixxy, Inc. - Warrant
 NJAN - Innovator Growth-100 Power Buffer ETF - January
 NJNK - Columbia U.S. High Yield ETF
 NJR - NewJersey Resources Corporation Common Stock
@@ -7877,6 +7882,7 @@ PAA - Plains All American Pipeline, L.P. - Common Units representing Limited Par
 PAAA - PGIM AAA CLO ETF
 PAACU - Proem Acquisition Corp I - Units
 PAAS - Pan American Silver Corp. Common Stock
+PAAU - T-REX 2X Long PAAS Daily Target ETF
 PAB - PGIM Active Aggregate Bond ETF
 PABD - iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF
 PABU - iShares Paris-Aligned Climate Optimized MSCI USA ETF
@@ -7930,6 +7936,7 @@ PAYC - Paycom Software, Inc. Common Stock
 PAYH - TrueShares S&P Autocallable High Income ETF
 PAYM - TrueShares S&P Autocallable Defensive Income ETF
 PAYO - Payoneer Global Inc. - Common Stock
+PAYP - PayPay Corporation - American Depository Shares
 PAYR - Federated Hermes Enhanced Income ETF
 PAYS - Paysign, Inc. - Common Stock
 PAYX - Paychex, Inc. - Common Stock
@@ -9660,6 +9667,7 @@ SNDA - Sonida Senior Living, Inc. Common Stock
 SNDK - Sandisk Corporation - Common Stock
 SNDL - SNDL Inc. - Common Shares
 SNDR - Schneider National, Inc. Common Stock
+SNDU - T-REX 2X Long SNDK Daily Target ETF
 SNDX - Syndax Pharmaceuticals, Inc. - Common Stock
 SNES - SenesTech, Inc. - Common Stock
 SNEX - StoneX Group Inc. - Common Stock
@@ -9756,6 +9764,7 @@ SPBW - AllianzIM Buffer20 Allocation ETF
 SPBX - AllianzIM 6 Month Buffer10 Allocation ETF
 SPCB - SuperCom, Ltd. - Ordinary Shares
 SPCE - Virgin Galactic Holdings, Inc. Common Stock
+SPCI - Tuttle Capital Space Industry Income Blast ETF
 SPCT - Liberty One Spectrum ETF
 SPCX - SPAC and New Issue ETF
 SPCZ - RiverNorth Enhanced Pre-Merger SPAC ETF
@@ -10238,6 +10247,7 @@ TELA - TELA Bio, Inc. - Common stock
 TELO - Telomir Pharmaceuticals, Inc. - Common Stock
 TEM - Tempus AI, Inc. - Class A Common Stock
 TEMD - Templeton Emerging Markets Debt ETF
+TEMR - T. Rowe Price Emerging Markets Equity Research ETF
 TEMT - Tradr 2X Long TEM Daily ETF
 TEMX - Touchstone Sands Capital Emerging Markets ex-China Growth ETF
 TEN - Tsakos Energy Navigation Ltd Common Shares
@@ -11136,6 +11146,7 @@ VPL - Vanguard FTSE Pacific ETF
 VPLS - Vanguard Core Plus Bond ETF
 VPU - Vanguard Utilities ETF
 VPV - Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)
+VPX - Variant Perception Cycle Aware US Equity ETF
 VRA - Vera Bradley, Inc. - Common Stock
 VRAI - Virtus Real Asset Income ETF
 VRAX - Virax Biolabs Group Limited - Ordinary Shares
@@ -11251,6 +11262,7 @@ WAI - Top KingWin Ltd - Class A Ordinary Shares
 WAL - Western Alliance Bancorporation Common Stock (DE)
 WALD - Waldencast plc - Class A Ordinary Share
 WALDW - Waldencast plc - Warrant
+WAMA - WisdomTree US Adaptive Moving Average Fund
 WANT - Direxion Daily Consumer Discretionary Bull 3X ETF
 WAR - U.S. Global Technology and Aerospace & Defense ETF
 WASH - Washington Trust Bancorp, Inc. - Common Stock
@@ -11339,6 +11351,7 @@ WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
 WIA - Western Asset Inflation-Linked Income Fund
 WILC - G. Willi-Food International,  Ltd. - Ordinary Shares
+WIMA - WisdomTree International Adaptive Moving Average Fund
 WIMI - WiMi Hologram Cloud Inc. - Class B Ordinary Shares
 WINA - Winmark Corporation - Common Stock
 WING - Wingstop Inc. - Common Stock
@@ -11798,7 +11811,7 @@ ZJAN - Innovator Equity Defined Protection ETF - 1 Yr January
 ZJK - ZJK Industrial Co., Ltd. - Ordinary Shares
 ZJUL - Innovator Equity Defined Protection ETF - 1 Yr July
 ZJUN - Innovator Equity Defined Protection ETF - 1 Yr June
-ZJYL - JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares
+ZJYL - JIN MEDICAL INTERNATIONAL LTD. - Class A Ordinary Shares
 ZKH - ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares
 ZKIN - ZK International Group Co., Ltd - Ordinary Share
 ZKP - Lafayette Digital Acquisition Corp. I - Class A Ordinary Shares
