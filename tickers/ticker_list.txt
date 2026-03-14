@@ -180,6 +180,7 @@ ADX - Adams Diversified Equity Fund Inc.
 ADXN - Addex Therapeutics Ltd - American Depositary Shares
 AEAQ - Activate Energy Acquisition Corp. - Class A Ordinary Share
 AEAQU - Activate Energy Acquisition Corp. - Unit
+AEAQW - Activate Energy Acquisition Corp. - Warrant
 AEBI - Aebi Schmidt Holding AG - Common Stock
 AEC - Anfield Energy Inc. - Common Shares
 AEE - Ameren Corporation Common Stock
@@ -1724,7 +1725,6 @@ CAOS - Alpha Architect Tail Risk ETF
 CAPE - DoubleLine Shiller CAPE U.S. Equities ETF
 CAPL - CrossAmerica Partners LP Common Units representing limited partner interests
 CAPN - Cayson Acquisition Corp - Ordinary Shares
-CAPNR - Cayson Acquisition Corp - Right
 CAPNU - Cayson Acquisition Corp - Units
 CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
@@ -2059,6 +2059,7 @@ CLFD - Clearfield, Inc. - Common Stock
 CLGN - CollPlant Biotechnologies Ltd. - Ordinary Shares
 CLH - Clean Harbors, Inc. Common Stock
 CLIK - Click Holdings Limited - Ordinary Share
+CLIM - Climate Global - Climate Resilient REIT Index ETF
 CLIP - Global X 1-3 Month T-Bill ETF
 CLIR - ClearSign Technologies Corporation - Common Stock
 CLIX - ProShares Long Online/Short Stores ETF
@@ -2308,7 +2309,6 @@ CQP - Cheniere Energy Partners, LP Common Units
 CQQQ - Invesco China Technology ETF
 CR - Crane Company Common Stock
 CRAC - Crown Reserve Acquisition Corp. I - Class A Ordinary Shares
-CRACR - Crown Reserve Acquisition Corp. I - Rights
 CRACU - Crown Reserve Acquisition Corp. I - Unit
 CRACW - Crown Reserve Acquisition Corp. I - Warrant
 CRAI - CRA International,Inc. - Common Stock
@@ -3270,7 +3270,6 @@ EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
-EMISR - Emmis Acquisition Corp. - Rights
 EMKT - Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
@@ -4082,7 +4081,6 @@ FSEC - Fidelity Investment Grade Securitized ETF
 FSEP - FT Vest U.S. Equity Buffer ETF - September
 FSGS - First Trust SMID Growth Strength ETF
 FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
-FSHPR - Flag Ship Acquisition Corp. - Right
 FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
@@ -4189,7 +4187,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -5580,7 +5577,6 @@ ITEQ - Amplify BlueStar Israel Technology ETF
 ITGR - Integer Holdings Corporation Common Stock
 ITHA - ITHAX Acquisition Corp III - Class A Ordinary Shares
 ITHAU - ITHAX Acquisition Corp III - Units
-ITHAW - ITHAX Acquisition Corp III - Warrants
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
 ITOC - iTonic Holdings Ltd - Class A Ordinary Shares
@@ -7681,7 +7677,6 @@ OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
 OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
-OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
 OKE - ONEOK, Inc. Common Stock
 OKLL - Defiance Daily Target 2x Long OKLO ETF
@@ -8290,6 +8285,7 @@ POLE - Andretti Acquisition Corp. II - Class A Ordinary Shares
 POLEU - Andretti Acquisition Corp. II - Unit
 POLEW - Andretti Acquisition Corp. II - Warrant
 POM - POMDOCTOR LIMITED - American Depositary Shares
+PONOU - Pono Capital Four, Inc. - Units
 PONX - Tradr 2X Long PONY Daily ETF
 PONY - Pony AI Inc. - American Depositary Shares
 POOL - Pool Corporation - Common Stock
@@ -8674,7 +8670,6 @@ QUIK - QuickLogic Corporation - Common Stock
 QUIZ - Zacks Quality International ETF
 QULL - ETRACS 2x Leveraged MSCI US Quality Factor TR ETN
 QUMS - Quantumsphere Acquisition Corp. - Ordinary Shares
-QUMSR - Quantumsphere Acquisition Corp. - Rights
 QUMSU - Quantumsphere Acquisition Corp. - Units
 QURE - uniQure N.V. - Ordinary Shares
 QUS - State Street SPDR MSCI USA StrategicFactors ETF
@@ -11502,7 +11497,9 @@ XBP - XBP Global Holdings, Inc. - Common Stock
 XBPEW - XBP Global Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
 XC - WisdomTree True Emerging Markets Fund
+XCBE - X3 Acquisition Corp. Ltd. - Class A Ordinary Shares
 XCBEU - X3 Acquisition Corp. Ltd. - Unit
+XCBEW - X3 Acquisition Corp. Ltd. - Warrant
 XCCC - BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
 XCEM - Columbia EM Core ex-China ETF
 XCH - XCHG Limited - ADS
