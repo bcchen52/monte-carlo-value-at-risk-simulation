@@ -1179,7 +1179,6 @@ BGT - BlackRock Floating Rate Income Trust
 BGX - Blackstone Long Short Credit Income Fund Common Shares
 BGY - Blackrock Enhanced International Dividend Trust
 BH - Biglari Holdings Inc. Class B Common Stock
-BHAT - Blue Hat Interactive Entertainment Technology - Ordinary Shares
 BHB - Bar Harbor Bankshares, Inc. Common Stock
 BHC - Bausch Health Companies Inc. Common Stock
 BHE - Benchmark Electronics, Inc. Common Stock
@@ -1325,7 +1324,6 @@ BLRX - BioLineRx Ltd. - American Depositary Shares
 BLSG - Leverage Shares 2X Long BLSH Daily ETF
 BLSH - Bullish Ordinary Shares
 BLST - Bluemonte Short Term Bond ETF
-BLSX - Tradr 2X Long BLSH Daily ETF
 BLTD - Bluemonte Long Term Bond ETF
 BLTE - Belite Bio, Inc - American Depositary Shares
 BLUC - Bluemonte Large Cap Core ETF
@@ -1879,7 +1877,6 @@ CEG - Constellation Energy Corporation - Common Stock When-Issued
 CEGX - Tradr 2X Long CEG Daily ETF
 CELC - Celcuity Inc. - Common Stock
 CELH - Celsius Holdings, Inc. - Common Stock
-CELT - Tradr 2X Long CELH Daily ETF
 CELU - Celularity Inc. - Class A Common Stock
 CELUW - Celularity Inc. - Warrant
 CELZ - Creative Medical Technology Holdings, Inc. - Common Stock
@@ -2198,7 +2195,7 @@ COHX - Tradr 2X Long COHR Daily ETF
 COIA - ProShares Ultra COIN
 COIG - Leverage Shares 2X Long COIN Daily ETF
 COII - REX COIN Growth & Income ETF
-COIN - Coinbase Global, Inc. - 3Class A Common Stock
+COIN - Coinbase Global, Inc. - Class A Common Stock
 COIO - Leverage Shares 2x Capped Accelerated COIN Monthly ETF
 COIW - Roundhill COIN WeeklyPay ETF
 COKE - Coca-Cola Consolidated, Inc. - Common Stock
@@ -2564,7 +2561,6 @@ DAR - Darling Ingredients Inc. Common Stock
 DARE - Dare Bioscience, Inc. - Common Stock
 DARP - Grizzle Growth ETF
 DASH - DoorDash, Inc. - Common Stock
-DASX - Tradr 2X Long DASH Daily ETF
 DAT - ProShares Big Data Refiners ETF
 DAUG - FT Vest U.S. Equity Deep Buffer ETF - August
 DAVA - Endava plc American Depositary Shares (each representing one Class A Ordinary Share)
@@ -3999,6 +3995,7 @@ FNK - First Trust Mid Cap Value AlphaDEX Fund
 FNKO - Funko, Inc. - Class A Common Stock
 FNLC - First Bancorp, Inc (ME) - Common Stock
 FNOV - FT Vest U.S. Equity Buffer ETF - November
+FNUC - Frontier Nuclear and Minerals Inc. - Common Shares
 FNV - Franco-Nevada Corporation
 FNWB - First Northwest Bancorp - Common Stock
 FNWD - Finward Bancorp - common stock
@@ -5528,7 +5525,6 @@ IRM - Iron Mountain Incorporated (Delaware)Common Stock REIT
 IRMD - iRadimed Corporation - Common Stock
 IROC - Invesco Rochester High Yield Municipal ETF
 IRON - Disc Medicine, Inc. - Common Stock
-IROQ - IF Bancorp, Inc. - Common Stock
 IRS - IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock)
 IRT - Independence Realty Trust, Inc. Common Stock
 IRTC - iRhythm Holdings, Inc.  - Common Stock
@@ -5931,7 +5927,6 @@ KEMX - KraneShares MSCI Emerging Markets ex China Index ETF
 KEN - Kenon Holdings Ltd. Ordinary Shares
 KEP - Korea Electric Power Corporation Common Stock
 KEQU - Kewaunee Scientific Corporation - Common Stock
-KEUA - KraneShares European Carbon Allowance Strategy ETF
 KEX - Kirby Corporation Common Stock
 KEY - KeyCorp Common Stock
 KEYS - Keysight Technologies Inc. Common Stock
@@ -5981,7 +5976,6 @@ KLMT - Invesco MSCI Global Climate 500 ETF
 KLRS - Kalaris Therapeutics, Inc.  - Common Stock
 KLTR - Kaltura, Inc. - Common Stock
 KLXE - KLX Energy Services Holdings, Inc.  - Common Stock
-KLXY - KraneShares Global Luxury Index ETF
 KMAR - Innovator U.S. Small Cap Power Buffer ETF - March
 KMAY - Innovator U.S. Small Cap Power Buffer ETF - May
 KMB - Kimberly-Clark Corporation - Common Stock
@@ -6172,7 +6166,6 @@ LCFY - Locafy Limited - Ordinary Share
 LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
-LCIZ - Tradr 2X Short LCID Daily ETF
 LCLG - Logan Capital Broad Innovative Growth ETF
 LCNB - LCNB Corporation - Common Stock
 LCO - LOGIQ Contrarian Opportunities ETF
@@ -6289,7 +6282,6 @@ LIT - Global X Lithium & Battery Tech ETF
 LITB - LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares
 LITE - Lumentum Holdings Inc. - Common Stock
 LITL - Simplify Piper Sandler US Small-Cap PLUS Income ETF
-LITM - Snow Lake Resources Ltd. - Common Shares
 LITP - Sprott Lithium Miners ETF
 LITS - Lite Strategy, Inc. - Common Stock
 LITX - Tradr 2X Long LITE Daily ETF
@@ -11070,6 +11062,7 @@ VISN - Vistance Networks, Inc.  - Common Stock
 VIST - Vista Energy S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value
 VITL - Vital Farms, Inc. - Common Stock
 VIV - Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)
+VIVO - VivoPower PLC - Ordinary Shares
 VIVS - VivoSim Labs, Inc. - Common Stock
 VIXM - VIX Mid-Term Futures ETF
 VIXY - VIX Short-Term Futures ETF
@@ -11224,7 +11217,6 @@ VUSV - Vanguard Wellington U.S. Value Active ETF
 VUZI - Vuzix Corporation  - Common Stock
 VV - Vanguard Large-Cap ETF
 VVOS - Vivos Therapeutics, Inc. - Common Stock
-VVPR - VivoPower International PLC - Ordinary Shares
 VVR - Invesco Senior Income Trust Common Stock (DE)
 VVV - Valvoline Inc. Common Stock
 VVX - V2X, Inc. Common Stock
