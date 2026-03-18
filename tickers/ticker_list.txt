@@ -290,6 +290,7 @@ AHT - Ashford Hospitality Trust Inc Common Stock
 AHYB - American Century Select High Yield ETF
 AI - C3.ai, Inc. Class A Common Stock
 AIA - iShares Asia 50 ETF
+AIB - BlockchAIn Digital Infrastructure, Inc Common Shares
 AIBD - Direxion Daily AI and Big Data Bear 2X ETF
 AIBU - Direxion Daily AI and Big Data Bull 2X ETF
 AIDX - 20/20 Biolabs, Inc. - Common Stock
@@ -1905,7 +1906,6 @@ CFFI - C&F Financial Corporation - Common Stock
 CFFN - Capitol Federal Financial, Inc. - Common Stock
 CFG - Citizens Financial Group, Inc. Common Stock
 CFIT - Cambria Fixed Income Trend ETF
-CFLT - Confluent, Inc. - Class A Common Stock
 CFND - C1 Fund Inc. Common Stock
 CFO - VictoryShares US 500 Enhanced Volatility Wtd ETF
 CFR - Cullen/Frost Bankers, Inc. Common Stock
@@ -1984,7 +1984,6 @@ CHMI - Cherry Hill Mortgage Investment Corporation Common Stock
 CHNR - China Natural Resources, Inc. - Common Shares
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
-CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -2828,7 +2827,6 @@ DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR - Drugs Made In America Acquisition Corp. - Rights
-DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
 DMAX - iShares Large Cap Max Buffer Dec ETF
@@ -3267,7 +3265,6 @@ EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
-EMISR - Emmis Acquisition Corp. - Rights
 EMKT - Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
@@ -3400,7 +3397,6 @@ ESGG - FlexShares STOXX Global ESG Select Index Fund
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESHA - ESH Acquisition Corp. - Class A Common Stock
-ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
@@ -3472,7 +3468,6 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X ETF
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -4187,7 +4182,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -5370,7 +5364,6 @@ IMVT - Immunovant, Inc.  - Common Stock
 IMXI - International Money Express, Inc. - Common Stock
 INAB - IN8bio, Inc. - Common Stock
 INAC - Indigo Acquisition Corp. - Ordinary Shares
-INACR - Indigo Acquisition Corp. - Right
 INACU - Indigo Acquisition Corp. - Unit
 INBK - First Internet Bancorp - Common Stock
 INBKZ - First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029
@@ -5578,6 +5571,7 @@ ITEQ - Amplify BlueStar Israel Technology ETF
 ITGR - Integer Holdings Corporation Common Stock
 ITHA - ITHAX Acquisition Corp III - Class A Ordinary Shares
 ITHAU - ITHAX Acquisition Corp III - Units
+ITHAW - ITHAX Acquisition Corp III - Warrants
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
 ITOC - iTonic Holdings Ltd - Class A Ordinary Shares
@@ -5898,7 +5892,6 @@ KBFR - Innovator U.S. Small Cap Managed 10 Buffer ETF
 KBH - KB Home Common Stock
 KBON - Karbon Capital Partners Corp. - Class A Ordinary Shares
 KBONU - Karbon Capital Partners Corp. - Units
-KBONW - Karbon Capital Partners Corp. - Warrant
 KBR - KBR, Inc. Common Stock
 KBSX - FST Corp. - Ordinary Shares
 KBUF - KraneShares 90% KWEB Defined Outcome January 2027 ETF
@@ -6915,6 +6908,7 @@ MREO - Mereo BioPharma Group plc - American Depositary Shares
 MRGR - ProShares Merger ETF
 MRK - Merck & Company, Inc. Common Stock (new)
 MRKR - Marker Therapeutics, Inc. - Common Stock
+MRLN - Merlin, Inc. - Common Stock
 MRM - MEDIROM Healthcare Technologies Inc. - American Depositary Share
 MRNA - Moderna, Inc. - Common Stock
 MRNO - Murano Global Investments PLC - Ordinary Shares
@@ -8462,6 +8456,7 @@ PTNQ - Pacer Trendpilot 100 ETF
 PTON - Peloton Interactive, Inc. - Common Stock
 PTOR - Praetorian Acquisition Corp. - Class A Ordinary Shares
 PTORU - Praetorian Acquisition Corp. - Units
+PTORW - Praetorian Acquisition Corp. - Warrant
 PTRB - PGIM Total Return Bond ETF
 PTRN - Pattern Group Inc. - Series A Common Stock
 PTY - Pimco Corporate & Income Opportunity Fund
@@ -9766,7 +9761,6 @@ SPDV - AAM S&P 500 High Dividend Value ETF
 SPDW - State Street SPDR Portfolio Developed World ex-US ETF
 SPE - Special Opportunities Fund, Inc Common Stock
 SPEG - Silver Pegasus Acquisition Corp - Class A Ordinary Shares
-SPEGR - Silver Pegasus Acquisition Corp - Rights
 SPEGU - Silver Pegasus Acquisition Corp - Unit
 SPEM - State Street SPDR Portfolio Emerging Markets ETF
 SPEU - State Street SPDR Portfolio Europe ETF
@@ -10061,6 +10055,7 @@ SWK - Stanley Black & Decker, Inc. Common Stock
 SWKH - SWK Holdings Corporation - Common Stock
 SWKHL - SWK Holdings Corporation - 9.00% Senior Notes due 2027
 SWKS - Skyworks Solutions, Inc. - Common Stock
+SWMR - Swarmer, Inc - common stock
 SWP - SWP Growth & Income ETF
 SWVL - Swvl Holdings Corp - Ordinary Shares
 SWVLW - Swvl Holdings Corp - Warrant
@@ -10769,7 +10764,6 @@ ULTA - Ulta Beauty, Inc. - Common Stock
 ULTI - REX IncomeMax Option Strategy ETF
 ULTY - YieldMax Ultra Option Income Strategy ETF
 ULVM - VictoryShares US Value Momentum ETF
-ULY - Urgent.ly Inc. - Common Stock
 UMAC - Unusual Machines, Inc. Common Stock
 UMAR - Innovator U.S. Equity Ultra Buffer ETF - March
 UMAY - Innovator U.S. Equity Ultra Buffer ETF - May
@@ -11435,7 +11429,6 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
-WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
