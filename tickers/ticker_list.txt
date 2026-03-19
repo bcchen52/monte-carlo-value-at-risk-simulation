@@ -406,6 +406,7 @@ ALNY - Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOT - AstroNova, Inc. - Common Stock
 ALOV - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares
 ALOVU - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units
+ALOVW - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants
 ALOY - REalloys Inc. - Common Stock
 ALPS - ALPS Group Inc - Ordinary Share
 ALRG - Allspring LT Large Core ETF
@@ -1180,6 +1181,7 @@ BGY - Blackrock Enhanced International Dividend Trust
 BH - Biglari Holdings Inc. Class B Common Stock
 BHB - Bar Harbor Bankshares, Inc. Common Stock
 BHC - Bausch Health Companies Inc. Common Stock
+BHDG - Nicholas Bitcoin Tail ETF
 BHE - Benchmark Electronics, Inc. Common Stock
 BHF - Brighthouse Financial, Inc. - Common Stock
 BHFAL - Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058
@@ -2822,7 +2824,7 @@ DLS - WisdomTree International SmallCap Fund
 DLTH - Duluth Holdings Inc. - Class B Common Stock
 DLTR - Dollar Tree, Inc. - Common Stock
 DLX - Deluxe Corporation Common Stock
-DLXY - Delixy Holdings Limited - Ordinary Shares
+DLXY - Delixy Holdings Limited - Class A Ordinary Shares
 DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
@@ -3265,6 +3267,7 @@ EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
+EMISR - Emmis Acquisition Corp. - Rights
 EMKT - Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
@@ -6851,6 +6854,7 @@ MNTK - Montauk Renewables, Inc. - Common Stock
 MNTN - MNTN, Inc. Class A Common Stock
 MNTS - Momentus Inc. - Class A Common Stock
 MNTSW - Momentus Inc. - Warrant
+MNVT - Moonvest ETF
 MNY - MoneyHero Limited - Class A Ordinary Shares
 MNYWW - MoneyHero Limited - Warrants
 MNZL - Manzil Russell Halal USA Broad Market ETF
@@ -7522,7 +7526,6 @@ NVT - nVent Electric plc Ordinary Shares
 NVTS - Navitas Semiconductor Corporation - Common Stock
 NVTX - Tradr 2X Long NVTS Daily ETF
 NVVE - Nuvve Holding Corp. - Common Stock
-NVVEW - Nuvve Holding Corp. - Warrant
 NVX - NOVONIX Limited - American Depository Shares
 NVYY - GraniteShares YieldBOOST NVDA ETF
 NWAX - New America Acquisition I Corp. Class A Common Stock
@@ -8549,6 +8552,7 @@ QETA - Quetta Acquisition Corporation - Common Stock
 QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
+QEW - Invesco QQQ Equal Weight ETF
 QFHD - Pacer S&P 500 Quality FCF High Dividend ETF
 QFIN - Qfin Holdings, Inc.  - American Depositary Shares
 QFLR - Innovator Nasdaq-100 Managed Floor ETF
@@ -9761,6 +9765,7 @@ SPDV - AAM S&P 500 High Dividend Value ETF
 SPDW - State Street SPDR Portfolio Developed World ex-US ETF
 SPE - Special Opportunities Fund, Inc Common Stock
 SPEG - Silver Pegasus Acquisition Corp - Class A Ordinary Shares
+SPEGR - Silver Pegasus Acquisition Corp - Rights
 SPEGU - Silver Pegasus Acquisition Corp - Unit
 SPEM - State Street SPDR Portfolio Emerging Markets ETF
 SPEU - State Street SPDR Portfolio Europe ETF
@@ -10642,7 +10647,6 @@ TWI - Titan International, Inc. (DE) Common Stock
 TWIN - Twin Disc, Incorporated - Common Stock
 TWLO - Twilio Inc. Class A Common Stock
 TWLV - Twelve Seas Investment Company III - Class A Ordinary Shares
-TWLVR - Twelve Seas Investment Company III - Rights
 TWLVU - Twelve Seas Investment Company III - Units
 TWM - ProShares UltraShort Russell2000
 TWN - Taiwan Fund, Inc. (The) Common Stock
@@ -11334,6 +11338,7 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
+WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
@@ -11486,6 +11491,7 @@ XBIT - XBiotech Inc. - Common Stock
 XBJA - Innovator U.S. Equity Accelerated 9 Buffer ETF - January
 XBJL - Innovator U.S. Equity Accelerated 9 Buffer ETF - July
 XBOC - Innovator U.S. Equity Accelerated 9 Buffer ETF - October
+XBOX - Roundhill Ultra Short Duration No Dividend Target ETF
 XBP - XBP Global Holdings, Inc. - Common Stock
 XBPEW - XBP Global Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
@@ -11642,7 +11648,9 @@ XSD - State Street SPDR S&P Semiconductor ETF
 XSEP - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September
 XSHD - Invesco S&P SmallCap High Dividend Low Volatility ETF
 XSHQ - Invesco S&P SmallCap Quality ETF
+XSLL - Xsolla SPAC 1 - Class A Ordinary Shares
 XSLLU - Xsolla SPAC 1 - Units
+XSLLW - Xsolla SPAC 1 - Warrants
 XSLV - Invesco S&P SmallCap Low Volatility ETF
 XSMO - Invesco S&P SmallCap Momentum ETF
 XSOE - WisdomTree Emerging Markets Ex-State Owned Enterprises Fund
@@ -11779,7 +11787,6 @@ ZDEK - Innovator Equity Defined Protection ETF - 1 Yr December
 ZDGE - Zedge, Inc. Class B Common Stock 
 ZECP - Zacks Earnings Consistent Portfolio ETF
 ZENA - ZenaTech, Inc. - Common Stock
-ZENV - Zenvia Inc. - Class A Common Stock
 ZEO - Zeo Energy Corporation - Class A Common Stock
 ZEOWW - Zeo Energy Corporation - Warrants
 ZEPP - Zepp Health Corporation American depositary shares, each representing sixteen Class A ordinary shares
