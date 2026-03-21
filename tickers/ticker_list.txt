@@ -139,6 +139,7 @@ ACYN - FT Vest Laddered Autocallable Barrier & Income ETF
 AD - Array Digital Infrastructure, Inc. Common Shares
 ADAC - American Drive Acquisition Company - Class A Ordinary Shares
 ADACU - American Drive Acquisition Company - Units
+ADACW - American Drive Acquisition Company - Warrant
 ADAG - Adagene Inc. - ADS, each representing 1.25 ordinary shares
 ADAM - Adamas Trust, Inc. - Common Stock
 ADAMG - Adamas Trust, Inc. - 9.125% Senior Notes Due 2030
@@ -2712,6 +2713,7 @@ DFJ - WisdomTree Japan SmallCap Fund
 DFLI - Dragonfly Energy Holdings Corp - Common Stock
 DFLIW - Dragonfly Energy Holdings Corp - Warrant
 DFLV - Dimensional US Large Cap Value ETF
+DFMC - U.S. Micro Cap Portfolio: ETF Class Shares
 DFNL - Davis Select Financial ETF
 DFNM - Dimensional National Municipal Bond ETF
 DFNS - T3 Defense Inc. - Common Stock
@@ -4957,10 +4959,12 @@ HPK - HighPeak Energy, Inc. - Common Stock
 HPP - Hudson Pacific Properties, Inc. Common Stock
 HPQ - HP Inc. Common Stock
 HPS - John Hancock Preferred Income Fund III Preferred Income Fund III
+HQ - Horizon Quantum Holdings Ltd. - Class A Ordinary Shares
 HQGO - Hartford US Quality Growth ETF
 HQH - abrdn Healthcare Investors Shares of Beneficial Interest
 HQI - HireQuest, Inc. - Common Stock
 HQL - abrdn Life Sciences Investors Shares of Beneficial Interest
+HQWWW - Horizon Quantum Holdings Ltd. - Warrant
 HQY - HealthEquity, Inc. - Common Stock
 HR - Healthcare Realty Trust Incorporated Common Stock
 HRB - H&R Block, Inc. Common Stock
@@ -5690,6 +5694,7 @@ JAGU - Jaguar Uranium Corp. Class A Common Shares
 JAGX - Jaguar Health, Inc. - Common Stock
 JAJL - Innovator Equity Defined Protection ETF - 6mo Jan/Jul
 JAKK - JAKKS Pacific, Inc. - Common Stock
+JAN - Janus Living, Inc. Class A-1 Common Stock
 JANB - Aptus January Buffer ETF
 JANH - Innovator Premium Income 20 Barrier ETF - January
 JANI - AllianzIM International Equity Buffer15 Uncapped Jan ETF
@@ -6051,7 +6056,9 @@ KPRX - Kiora Pharmaceuticals, Inc.  - Common Stock
 KPTI - Karyopharm Therapeutics Inc. - Common Stock
 KQQQ - Kurv Technology Titans Select ETF
 KR - Kroger Company (The) Common Stock
+KRAQ - KRAKacquisition Corp - Class A Ordinary Shares
 KRAQU - KRAKacquisition Corp - Unit
+KRAQW - KRAKacquisition Corp - Warrants
 KRBN - KraneShares Global Carbon Strategy ETF
 KRC - Kilroy Realty Corporation Common Stock
 KRE - State Street SPDR S&P Regional Banking ETF
@@ -6382,6 +6389,7 @@ LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
 LPCV - Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
 LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
+LPCVW - Launchpad Cadenza Acquisition Corp I - Warrant
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -7302,7 +7310,6 @@ NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
 NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
-NIXXW - Nixxy, Inc. - Warrant
 NJAN - Innovator Growth-100 Power Buffer ETF - January
 NJNK - Columbia U.S. High Yield ETF
 NJR - NewJersey Resources Corporation Common Stock
@@ -7453,6 +7460,7 @@ NTRBW - Nutriband Inc. - Warrant
 NTRP - NextTrip, Inc. - Common Stock
 NTRS - Northern Trust Corporation - Common Stock
 NTRSO - Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock
+NTSD - WisdomTree Efficient U.S. Plus International Equity Fund
 NTSE - WisdomTree Emerging Markets Efficient Core Fund
 NTSI - WisdomTree International Efficient Core Fund
 NTSK - Netskope, Inc. - Class A Common Stock
@@ -9162,7 +9170,9 @@ RZV - Invesco S&P SmallCap 600 Pure Value ETF
 S - SentinelOne, Inc. Class A Common Stock
 SA - Seabridge Gold, Inc. Ordinary Shares (Canada)
 SAA - ProShares Ultra SmallCap600
+SAAQ - Space Asset Acquisition Corp. - Class A Ordinary Shares
 SAAQU - Space Asset Acquisition Corp. - Units
+SAAQW - Space Asset Acquisition Corp. - Warrants
 SABA - Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest
 SABR - Sabre Corporation - Common Stock
 SABS - SAB Biotherapeutics, Inc. - Common Stock
