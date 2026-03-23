@@ -1170,7 +1170,6 @@ BGLD - FT Vest Gold Strategy Quarterly Buffer ETF
 BGLWW - Blue Gold Limited - Warrant
 BGM - BGM Group Ltd. - Class A Ordinary Shares
 BGMS - Bio Green Med Solution, Inc. - Common Stock
-BGMSP - Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock
 BGR - BlackRock Energy and Resources Trust
 BGRN - iShares USD Green Bond ETF
 BGRO - iShares Large Cap Growth Active ETF
@@ -2233,7 +2232,7 @@ COPL - Copley Acquisition Corp Ordinary Shares
 COPP - Sprott Copper Miners ETF
 COPX - Global X Copper Miners ETF
 COPY - Tweedy, Browne Insider + Value ETF
-COPZ - Defiance Daily Target 2x Long Copper ETF
+COPZ - Defiance Daily Target 2X Long Copper Miners ETF
 COR - Cencora, Inc. Common Stock
 CORB - AB Core Bond ETF
 CORD - T-REX 2X Inverse CRWV Daily Target ETF
@@ -6904,7 +6903,7 @@ MOTG - VanEck Morningstar Global Wide Moat ETF
 MOTI - VanEck Morningstar International Moat ETF
 MOTO - Guinness Atkinson Smart Transportation & Technology ETF
 MOV - Movado Group Inc. Common Stock
-MOVE - Movano Inc. - Common Stock
+MOVE - Corvex, Inc. - Common Stock
 MP - MP Materials Corp. Common Stock
 MPA - Blackrock MuniYield Pennsylvania Quality Fund Common Stock
 MPAA - Motorcar Parts of America, Inc. - Common Stock
@@ -10312,7 +10311,6 @@ TGL - Treasure Global Inc. - Common Stock
 TGLB - T. Rowe Price Global Equity ETF
 TGLR - LAFFER TENGLER Equity Income ETF
 TGLS - Tecnoglass Inc. Ordinary Shares
-TGNA - TEGNA Inc
 TGRT - T. Rowe Price Growth ETF
 TGRW - T. Rowe Price Growth Stock ETF
 TGS - Transportadora de Gas del Sur SA TGS Common Stock
@@ -11424,7 +11422,6 @@ WOOF - Petco Health and Wellness Company, Inc. - Class A Common Stock
 WOR - Worthington Enterprises, Inc. Common Shares
 WORX - SCWorx Corp. - Common Stock
 WPAC - White Pearl Acquisition Corp. Class A Ordinary Shares
-WPAY - Roundhill WeeklyPay Universe ETF
 WPC - W. P. Carey Inc. REIT
 WPM - Wheaton Precious Metals Corp Common Shares (Canada)
 WPP - WPP plc American Depositary Shares
