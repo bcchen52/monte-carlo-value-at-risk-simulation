@@ -3556,7 +3556,6 @@ EWX - State Street SPDR S&P Emerging Markets Small Cap ETF
 EWY - iShares MSCI South Korea ETF
 EWZ - iShares MSCI Brazil ETF
 EWZS - iShares MSCI Brazil Small-Cap ETF
-EXAS - Exact Sciences Corporation - Common Stock
 EXC - Exelon Corporation - Common Stock
 EXE - Expand Energy Corporation - Common Stock
 EXEL - Exelixis, Inc. - Common Stock
@@ -4506,6 +4505,7 @@ GMOD - GMO Dynamic Allocation ETF
 GMOI - GMO International Value ETF
 GMOM - Cambria Global Momentum ETF
 GMOV - GMO US Value ETF
+GMTL - Guardian Metal Resources PLC ADS
 GMUB - Goldman Sachs Municipal Income ETF
 GMUN - Goldman Sachs Access Municipal Bond ETF
 GNE - Genie Energy Ltd. Class B Common Stock Stock
@@ -6406,7 +6406,6 @@ LQDI - iShares Inflation Hedged Corporate Bond ETF
 LQDT - Liquidity Services, Inc. - Common Stock
 LQDW - iShares Investment Grade Corporate Bond BuyWrite Strategy ETF
 LQIG - State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF
-LQPE - PEO AlphaQuest Thematic PE ETF
 LQTI - FT Vest Investment Grade & Target Income ETF
 LRCU - Tradr 2X Long LRCX Daily ETF
 LRCX - Lam Research Corporation - Common Stock
@@ -7059,7 +7058,9 @@ MUSQ - MUSQ Global Music Industry Index ETF
 MUST - Columbia Multi-Sector Municipal Income ETF
 MUU - Direxion Daily MU Bull 2X ETF
 MUX - McEwen Inc. Common Stock
+MUZE - Muzero Acquisition Corp - Class A Ordinary Shares
 MUZEU - Muzero Acquisition Corp - Unit
+MUZEW - Muzero Acquisition Corp - Warrant
 MVAL - VanEck Morningstar Wide Moat Value ETF
 MVBF - MVB Financial Corp. - Common Stock
 MVFD - Monarch Volume Factor Dividend Tree Index ETF
@@ -7175,6 +7176,7 @@ NBN - Northeast Bank - Common Stock
 NBOS - Neuberger Option Strategy ETF
 NBP - NovaBridge Biosciences - American Depositary Shares
 NBR - Nabors Industries Ltd.
+NBRG - Newbridge Acquisition Limited - Class A Ordinary Share
 NBRGU - Newbridge Acquisition Limited - Unit
 NBSD - Neuberger Short Duration Income ETF
 NBSM - Neuberger Small-Mid Cap ETF
@@ -7373,6 +7375,7 @@ NOEM - CO2 Energy Transition Corp. - Common Stock
 NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
+NOEQ - Northern Trust US Equity ETF
 NOG - Northern Oil and Gas, Inc. Common Stock
 NOK - Nokia Corporation Sponsored American Depositary Shares
 NOM - Nuveen Missouri Quality Municipal Income Fund 
@@ -10096,7 +10099,7 @@ SXC - SunCoke Energy, Inc. Common Stock
 SXI - Standex International Corporation Common Stock
 SXQG - ETC 6 Meridian Quality Growth ETF
 SXT - Sensient Technologies Corporation Common Stock
-SXTC - China SXT Pharmaceuticals, Inc. - Common Stock
+SXTC - China SXT Pharmaceuticals, Inc. - Class A Ordinary Shares
 SXTP - 60 Degrees Pharmaceuticals, Inc. - Common Stock
 SXTPW - 60 Degrees Pharmaceuticals, Inc. - Warrant
 SY - So-Young International Inc. - American Depository Shares
@@ -10477,6 +10480,7 @@ TOPC - iShares S&P 500 3% Capped ETF
 TOPP - Toppoint Holdings Inc. Common Stock
 TOPS - TOP Ships, Inc. Common Stock
 TOPT - iShares Top 20 U.S. Stocks ETF
+TOPW - Roundhill Top WeeklyPay ETF
 TORO - Toro Corp. - Common stock
 TOS - Twin Oak Strategic Solutions ETF
 TOST - Toast, Inc. Class A Common Stock
