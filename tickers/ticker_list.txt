@@ -18,6 +18,7 @@ AAME - Atlantic American Corporation - Common Stock
 AAMI - Acadian Asset Management Inc. Common Stock
 AAOI - Applied Optoelectronics, Inc. - Common Stock
 AAON - AAON, Inc. - Common Stock
+AAOX - Tradr 2X Long AAOI Daily ETF
 AAP - Advance Auto Parts Inc.
 AAPB - GraniteShares 2x Long AAPL Daily ETF
 AAPD - Direxion Daily AAPL Bear 1X ETF
@@ -495,6 +496,7 @@ AMZA - InfraCap MLP ETF
 AMZD - Direxion Daily AMZN Bear 1X ETF
 AMZE - Amaze Holdings, Inc. Common Stock
 AMZN - Amazon.com, Inc. - Common Stock
+AMZO - Tradr 2X Short AMZN Daily ETF
 AMZP - Kurv Yield Premium Strategy Amazon (AMZN) ETF
 AMZU - Direxion Daily AMZN Bull 2X ETF
 AMZW - Roundhill AMZN WeeklyPay ETF
@@ -2944,7 +2946,6 @@ DSYWW - Big Tree Cloud Holdings Limited - Warrants
 DT - Dynatrace, Inc. Common Stock
 DTAN - Sparkline International Intangible Value ETF
 DTB - DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080
-DTCK - Davis Commodities Limited - Class A Ordinary Shares
 DTCR - Global X Data Center & Digital Infrastructure ETF
 DTCX - Datacentrex, Inc. - Common Stock
 DTD - WisdomTree U.S. Total Dividend Fund
@@ -3388,7 +3389,6 @@ ERIE - Erie Indemnity Company - Class A Common Stock
 ERII - Energy Recovery, Inc. - Common Stock
 ERNA - Ernexa Therapeutics Inc. - Common Stock
 ERNAW - Ernexa Therapeutics Inc. - Warrants
-ERNZ - TrueShares Active Yield ETF
 ERO - Ero Copper Corp. Common Shares
 ERTH - Invesco MSCI Sustainable Future ETF
 ERX - Direxion Energy Bull 2X ETF
@@ -4906,6 +4906,7 @@ HLP - Hongli Group Inc. - Ordinary Shares
 HLT - Hilton Worldwide Holdings Inc. Common Stock 
 HLX - Helix Energy Solutions Group, Inc. Common Stock
 HLXC - Helix Acquisition Corp. III - Class A Ordinary Shares
+HLXX - Tradr 2X Long HL Daily ETF
 HMC - Honda Motor Company, Ltd. Common Stock
 HMN - Horace Mann Educators Corporation Common Stock
 HMOP - Hartford Municipal Opportunities ETF
@@ -5185,6 +5186,7 @@ IBTP - iShares iBonds Dec 2034 Term Treasury ETF
 IBTQ - iShares iBonds Dec 2035 Term Treasury ETF
 IBUF - Innovator International Developed 10 Buffer ETF - Quarterly
 IBUY - Amplify Online Retail ETF
+IBX - Tradr 2X Long IBM Daily ETF
 ICAP - Infrastructure Capital Equity Income ETF
 ICCC - ImmuCell Corporation - Common Stock
 ICCM - IceCure Medical Ltd. - Ordinary Shares
@@ -6676,7 +6678,6 @@ MEOH - Methanex Corporation - Common Stock
 MERC - Mercer International Inc. - Common Stock
 MESH - Meshflow Acquisition Corp. - Class A Ordinary Shares
 MESHU - Meshflow Acquisition Corp. - Units
-MESHW - Meshflow Acquisition Corp. - Warrants
 MESO - Mesoblast Limited - American Depositary Shares
 MET - MetLife, Inc. Common Stock
 META - Meta Platforms, Inc. - Class A Common Stock
@@ -7177,6 +7178,7 @@ NBOS - Neuberger Option Strategy ETF
 NBP - NovaBridge Biosciences - American Depositary Shares
 NBR - Nabors Industries Ltd.
 NBRG - Newbridge Acquisition Limited - Class A Ordinary Share
+NBRGR - Newbridge Acquisition Limited - Rights
 NBRGU - Newbridge Acquisition Limited - Unit
 NBSD - Neuberger Short Duration Income ETF
 NBSM - Neuberger Small-Mid Cap ETF
@@ -7311,6 +7313,7 @@ NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
 NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
+NIXXW - Nixxy, Inc. - Warrant
 NJAN - Innovator Growth-100 Power Buffer ETF - January
 NJNK - Columbia U.S. High Yield ETF
 NJR - NewJersey Resources Corporation Common Stock
@@ -7611,10 +7614,6 @@ OAIM - OneAscent International Equity ETF
 OAKG - Oakmark Global Large Cap ETF
 OAKI - Oakmark International Large Cap ETF
 OAKM - Oakmark U.S. Large Cap ETF
-OAKU - Oak Woods Acquisition Corporation - Class A Ordinary Shares
-OAKUR - Oak Woods Acquisition Corporation - Right
-OAKUU - Oak Woods Acquisition Corporation - Unit
-OAKUW - Oak Woods Acquisition Corporation - Warrant
 OALC - OneAscent Large Cap Core ETF
 OARK - YieldMax Innovation Option Income Strategy ETF
 OASC - OneAscent Enhanced Small and Mid Cap ETF
@@ -7876,6 +7875,7 @@ OXLC - Oxford Lane Capital Corp. - Closed End Fund
 OXLCG - Oxford Lane Capital Corp. - 7.95% Notes due 2032
 OXLCI - Oxford Lane Capital Corp. - 8.75% Notes due 2030
 OXLCL - Oxford Lane Capital Corp. - 6.75% Notes due 2031
+OXLCM - Oxford Lane Capital Corp. - Preferred Stock Shares, 8.25% Series 2031
 OXLCN - Oxford Lane Capital Corp. - 7.125% Series 2029 Term Preferred Stock
 OXLCO - Oxford Lane Capital Corp. - Preferred Stock Shares, 6.00% Series 2029
 OXLCP - Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares
@@ -11069,7 +11069,6 @@ VGZ - Vista Gold Corp Common Stock
 VHC - VirnetX Holding Corp - Common Stock
 VHCP - Vine Hill Capital Investment Corp. II - Class A Ordinary Shares
 VHCPU - Vine Hill Capital Investment Corp. II - Units
-VHCPW - Vine Hill Capital Investment Corp. II - Warrants
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
 VHUB - VenHub Global, Inc. - Common Stock
