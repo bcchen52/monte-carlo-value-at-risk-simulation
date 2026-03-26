@@ -6624,6 +6624,7 @@ MCRI - Monarch Casino & Resort, Inc. - Common Stock
 MCRP - Micropolis AI Robotics Ordinary Shares
 MCS - Marcus Corporation (The) Common Stock
 MCTA - Charming Medical Limited - Class A Ordinary Shares
+MCVT - Miller Convertible Total Return ETF
 MCW - Mister Car Wash, Inc. - Common Stock
 MCY - Mercury General Corporation Common Stock
 MD - Pediatrix Medical Group, Inc. Common Stock
@@ -6678,6 +6679,7 @@ MEOH - Methanex Corporation - Common Stock
 MERC - Mercer International Inc. - Common Stock
 MESH - Meshflow Acquisition Corp. - Class A Ordinary Shares
 MESHU - Meshflow Acquisition Corp. - Units
+MESHW - Meshflow Acquisition Corp. - Warrants
 MESO - Mesoblast Limited - American Depositary Shares
 MET - MetLife, Inc. Common Stock
 META - Meta Platforms, Inc. - Class A Common Stock
@@ -7385,7 +7387,6 @@ NOM - Nuveen Missouri Quality Municipal Income Fund
 NOMA - NOMADAR Corp. - Class A Common Stock
 NOMD - Nomad Foods Limited Ordinary Shares
 NORW - Global X MSCI Norway ETF
-NOTE - FiscalNote Holdings, Inc. Class A common stock
 NOTV - Inotiv, Inc. - Common Stock
 NOV - NOV Inc. Common Stock
 NOVM - FT Vest U.S. Equity Max Buffer ETF - November
@@ -8063,9 +8064,6 @@ PED - Pedevco Corp. Common Stock
 PEG - Public Service Enterprise Group Incorporated Common Stock
 PEGA - Pegasystems Inc. - Common Stock
 PEJ - Invesco Leisure and Entertainment ETF
-PELI - Pelican Acquisition Corporation - Ordinary Shares
-PELIR - Pelican Acquisition Corporation - Right
-PELIU - Pelican Acquisition Corporation - Unit
 PEMX - Putnam Emerging Markets ex-China ETF
 PEN - Penumbra, Inc. Common Stock
 PENG - Penguin Solutions, Inc. - Common Stock
@@ -8393,6 +8391,7 @@ PRT - PermRock Royalty Trust Units of Beneficial Interest
 PRTA - Prothena Corporation plc - Ordinary Shares
 PRTC - PureTech Health plc - American Depositary Shares
 PRTH - Priority Technology Holdings, Inc. - Common Stock
+PRTO - RCN Pareto Strategic Allocation ETF
 PRTS - CarParts.com, Inc. - Common Stock
 PRU - Prudential Financial, Inc. Common Stock
 PRVA - Privia Health Group, Inc. - Common Stock
@@ -8525,6 +8524,7 @@ PYLD - PIMCO Multisector Bond Active Exchange-Traded Fund
 PYPD - PolyPid Ltd. - Ordinary Shares
 PYPG - Leverage Shares 2X Long PYPL Daily ETF
 PYPL - PayPal Holdings, Inc. - Common Stock
+PYPU - Direxion Daily PYPL Bull 2X ETF
 PYPY - YieldMax PYPL Option Income Strategy ETF
 PYT - PPlus Tr GSC-2 Tr Ctf Fltg Rate
 PYXS - Pyxis Oncology, Inc. - Common Stock
@@ -10815,6 +10815,7 @@ UNFI - United Natural Foods, Inc. Common Stock
 UNG - United States Natural Gas Fund LP
 UNH - UnitedHealth Group Incorporated Common Stock (DE)
 UNHG - Leverage Shares 2X Long UNH Daily ETF
+UNHU - Direxion Daily UNH Bull 2X ETF
 UNHW - Roundhill UNH WeeklyPay ETF
 UNIT - Uniti Group Inc. - Common Stock
 UNIY - WisdomTree Voya Yield Enhanced USD Universal Bond Fund
