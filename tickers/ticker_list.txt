@@ -153,6 +153,7 @@ ADAMO - Adamas Trust, Inc. - 9.250% Senior Notes Due 2031
 ADAMZ - Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share
 ADBE - Adobe Inc. - Common Stock
 ADBG - Leverage Shares 2X Long ADBE Daily ETF
+ADBU - Direxion Daily ADBE Bull 2X ETF
 ADC - Agree Realty Corporation Common Stock
 ADCT - ADC Therapeutics SA Common Shares
 ADEA - Adeia Inc.  - Common Stock
@@ -1961,9 +1962,6 @@ CGVV - Capital Group U.S. Large Value ETF
 CGW - Invesco S&P Global Water Index ETF
 CGXU - Capital Group International Focus Equity ETF
 CHA - Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share
-CHAC - Crane Harbor Acquisition Corp. - Class A Ordinary Shares
-CHACR - Crane Harbor Acquisition Corp. - Rights
-CHACU - Crane Harbor Acquisition Corp. - Units
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
 CHARR - Charlton Aria Acquisition Corporation - Rights
@@ -2101,7 +2099,6 @@ CLWT - Euro Tech Holdings Company Limited - Ordinary Shares
 CLX - Clorox Company (The) Common Stock
 CLYM - Climb Bio, Inc. - Common Stock
 CM - Canadian Imperial Bank of Commerce Common Stock
-CMBM - Cambium Networks Corporation - Ordinary Shares
 CMBO - Wayfinder Dynamic U.S. Interest Rate ETF
 CMBS - iShares CMBS Bond ETF
 CMBT - CMB.TECH NV Ordinary Shares
@@ -2431,7 +2428,7 @@ CTEC - Global X CleanTech ETF
 CTEF - Castellan Targeted Equity ETF
 CTEV - Claritev Corporation Class A Common Stock
 CTEX - ProShares S&P Kensho Cleantech ETF
-CTGO - Contango ORE, Inc. Common Stock
+CTGO - Contango Silver & Gold Inc. Common Stock
 CTIF - Castellan Targeted Income ETF
 CTKB - Cytek Biosciences, Inc. - Common Stock
 CTLP - Cantaloupe, Inc. - Common Stock
@@ -2999,7 +2996,6 @@ DVND - Touchstone Dividend Select ETF
 DVOL - First Trust Dorsey Wright Momentum & Low Volatility ETF
 DVQQ - WEBs QQQ Defined Volatility ETF
 DVRE - WEBs Real Estate XLRE Defined Volatility ETF
-DVS - Dolly Varden Silver Corporation Common Shares
 DVSP - WEBs SPY Defined Volatility ETF
 DVUT - WEBs Utilities XLU Defined Volatility ETF
 DVVY - Invesco Diversified Dividend Opportunities ETF
@@ -4462,6 +4458,7 @@ GLIN - VanEck India Growth Leaders ETF
 GLIX - Lazard Listed Infrastructure ETF
 GLL - ProShares UltraShort Gold
 GLMD - Galmed Pharmaceuticals Ltd. - Ordinary Shares
+GLND - Greenland Energy Company - Common Stock
 GLNG - Golar LNG Limited - Common Shares
 GLNK - Grayscale Chainlink Trust ETF
 GLO - Clough Global Opportunities Fund Common Stock
@@ -5119,6 +5116,7 @@ IBAT - iShares Energy Storage & Materials ETF
 IBB - iShares Biotechnology ETF
 IBBQ - Invesco Nasdaq Biotechnology ETF
 IBCA - iShares iBonds Dec 2035 Term Corporate ETF
+IBCB - iShares iBonds Dec 2036 Term Corporate ETF
 IBCP - Independent Bank Corporation - Common Stock
 IBD - Inspire Corporate Bond ETF
 IBDR - iShares iBonds Dec 2026 Term Corporate ETF
@@ -5135,8 +5133,10 @@ IBFR - Innovator International Developed Managed 10 Buffer ETF
 IBG - Innovation Beverage Group Limited - Ordinary Shares
 IBGA - iShares iBonds Dec 2044 Term Treasury ETF
 IBGB - iShares iBonds Dec 2045 Term Treasury ETF
+IBGC - iShares iBonds Dec 2046 Term Treasury ETF
 IBGK - iShares iBonds Dec 2054 Term Treasury ETF
 IBGL - iShares iBonds Dec 2055 Term Treasury ETF
+IBGM - iShares iBonds Dec 2056 Term Treasury ETF
 IBHF - iShares iBonds 2026 Term High Yield and Income ETF
 IBHG - iShares iBonds 2027 Term High Yield and Income ETF
 IBHH - iShares iBonds 2028 Term High Yield and Income ETF
@@ -5144,6 +5144,7 @@ IBHI - iShares iBonds 2029 Term High Yield and Income ETF
 IBHJ - iShares iBonds 2030 Term High Yield and Income ETF
 IBHK - iShares iBonds 2031 Term High Yield and Income ETF
 IBHL - iShares iBonds 2032 Term High Yield and Income ETF
+IBHM - iShares iBonds 2033 Term High Yield and Income ETF
 IBIC - iShares iBonds Oct 2026 Term TIPS ETF
 IBID - iShares iBonds Oct 2027 Term TIPS ETF
 IBIE - iShares iBonds Oct 2028 Term TIPS ETF
@@ -5154,6 +5155,7 @@ IBII - iShares iBonds Oct 2032 Term TIPS ETF
 IBIJ - iShares iBonds Oct 2033 Term TIPS ETF
 IBIK - iShares iBonds Oct 2034 Term TIPS ETF
 IBIL - iShares iBonds Oct 2035 Term TIPS ETF
+IBIM - iShares iBonds Oct 2036 Term TIPS ETF
 IBIO - iBio, Inc. - Common Stock
 IBIT - iShares Bitcoin Trust ETF
 IBKR - Interactive Brokers Group, Inc. - Class A Common Stock
@@ -5184,6 +5186,7 @@ IBTM - iShares iBonds Dec 2032 Term Treasury ETF
 IBTO - iShares iBonds Dec 2033 Term Treasury ETF
 IBTP - iShares iBonds Dec 2034 Term Treasury ETF
 IBTQ - iShares iBonds Dec 2035 Term Treasury ETF
+IBTR - iShares iBonds Dec 2036 Term Treasury ETF
 IBUF - Innovator International Developed 10 Buffer ETF - Quarterly
 IBUY - Amplify Online Retail ETF
 IBX - Tradr 2X Long IBM Daily ETF
@@ -5865,6 +5868,7 @@ JSTC - Adasina Social Justice All Cap Global ETF
 JTAI - Jet.AI Inc. - Common Stock
 JTEK - JPMorgan U.S. Tech Leaders ETF
 JUCY - Aptus Enhanced Yield ETF
+JUDO - Janus Henderson U.S. Equity Enhanced Income ETF
 JULB - Aptus July Buffer ETF
 JULH - Innovator Premium Income 20 Barrier ETF - July
 JULJ - Innovator Premium Income 30 Barrier ETF - July
@@ -7598,6 +7602,7 @@ NYAX - Nayax Ltd. - Ordinary Shares
 NYC - American Strategic Investment Co. Class A Common Stock
 NYF - iShares New York Muni Bond ETF
 NYM - AB New York Intermediate Municipal ETF
+NYSX - Global X NYSE 100 ETF
 NYT - New York Times Company (The) Common Stock
 NYXH - Nyxoah SA - Ordinary Shares
 NZAC - State Street SPDR MSCI ACWI Climate Paris Aligned ETF
@@ -9116,7 +9121,6 @@ RVNL - GraniteShares 2x Long RIVN Daily ETF
 RVNU - Xtrackers Municipal Infrastructure Revenue Bond ETF
 RVP - Retractable Technologies, Inc. Common Stock
 RVPH - Reviva Pharmaceuticals Holdings, Inc. - Common Stock
-RVRB - Reverb ETF
 RVSB - Riverview Bancorp Inc - Common Stock
 RVSN - Rail Vision Ltd. - Ordinary Shares
 RVSNW - Rail Vision Ltd. - Warrant
@@ -10021,9 +10025,7 @@ STX - Seagate Technology Holdings PLC - Ordinary Shares (Ireland)
 STXD - Strive 1000 Dividend Growth ETF
 STXE - Strive Emerging Markets Ex-China ETF
 STXG - Strive 1000 Growth ETF
-STXI - Strive International Developed Markets ETF
 STXK - Strive Small-Cap ETF
-STXM - Strive Mid-Cap ETF
 STXS - Stereotaxis, Inc. Common Stock
 STXT - Strive Total Return Bond ETF
 STXV - Strive 1000 Value ETF
@@ -10187,8 +10189,6 @@ TBLAW - Taboola.com Ltd. - Warrant
 TBLD - Thornburg Income Builder Opportunities Trust - Closed End Fund
 TBLL - Invesco Short Term Treasury ETF
 TBLU - Tortoise Global Water Fund
-TBMC - Trailblazer Merger Corporation I - Class A Common Stock
-TBMCR - Trailblazer Merger Corporation I - Rights
 TBN - Tamboran Resources Corporation Common stock
 TBPH - Theravance Biopharma, Inc. - Ordinary Shares
 TBRG - TruBridge, Inc. - Common Stock
@@ -10690,6 +10690,7 @@ TXG - 10x Genomics, Inc. - Common Stock
 TXMD - TherapeuticsMD, Inc. - Common Stock
 TXN - Texas Instruments Incorporated - Common Stock
 TXNM - TXNM Energy, Inc. Common Stock
+TXNU - Direxion Daily TXN Bull 2X ETF
 TXO - TXO Partners, L.P. Common Units Representing Limited Partner Interests
 TXRH - Texas Roadhouse, Inc. - Common Stock
 TXS - Texas Capital Texas Equity Index ETF
@@ -10984,6 +10985,16 @@ VATE - INNOVATE Corp. Common Stock
 VAVX - VanEck Avalanche ETF
 VAW - Vanguard Materials ETF
 VB - Vanguard Small-Cap ETF
+VBCA - Vanguard Target Maturity 2027 Corporate Bond ETF
+VBCB - Vanguard Target Maturity 2028 Corporate Bond ETF
+VBCC - Vanguard Target Maturity 2029 Corporate Bond ETF
+VBCD - Vanguard Target Maturity 2030 Corporate Bond ETF
+VBCE - Vanguard Target Maturity 2031 Corporate Bond ETF
+VBCF - Vanguard Target Maturity 2032 Corporate Bond ETF
+VBCG - Vanguard Target Maturity 2033 Corporate Bond ETF
+VBCH - Vanguard Target Maturity 2034 Corporate Bond ETF
+VBCI - Vanguard Target Maturity 2035 Corporate Bond ETF
+VBCJ - Vanguard Target Maturity 2036 Corporate Bond ETF
 VBF - Invesco Bond Fund Common Stock
 VBIL - Vanguard 0-3 Month Treasury Bill ETF
 VBIX - Viewbix Inc. - Common Stock 
