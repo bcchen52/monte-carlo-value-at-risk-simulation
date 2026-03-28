@@ -8,7 +8,9 @@ AACB - Artius II Acquisition Inc. - Class A Ordinary Shares
 AACBR - Artius II Acquisition Inc. - Rights
 AACBU - Artius II Acquisition Inc. - Units
 AACG - ATA Creativity Global - American Depositary Shares, each representing two common shares
+AACI - Armada Acquisition Corp. III - Class A Ordinary Share
 AACIU - Armada Acquisition Corp. III - Units
+AACIW - Armada Acquisition Corp. III - Warrant
 AACOU - Abony Acquisition Corp. I - Units
 AADR - AdvisorShares Dorsey Wright ADR ETF
 AAEQ - Alpha Architect US Equity 2 ETF
@@ -2049,6 +2051,7 @@ CL - Colgate-Palmolive Company Common Stock
 CLAR - Clarus Corporation - Common Stock
 CLB - Core Laboratories Inc. Common Stock
 CLBK - Columbia Financial, Inc. - Common Stock
+CLBR - Colombier Acquisition Corp. III Class A Ordinary Shares
 CLBT - Cellebrite DI Ltd. - Ordinary Shares
 CLCG - Crossmark Large Cap Growth ETF
 CLCV - Crossmark Large Cap Value ETF
@@ -2527,6 +2530,7 @@ CXRN - Teucrium 2x Daily Corn ETF
 CXSE - WisdomTree China ex-State-Owned Enterprises Fund
 CXT - Crane NXT, Co. Common Stock
 CXW - CoreCivic, Inc. Common Stock
+CYAB - Cyabra, Inc. - Common Stock
 CYCN - Cyclerion Therapeutics, Inc. - Common Stock
 CYCU - Cycurion, Inc. - Common Stock
 CYCUW - Cycurion, Inc. - Warrants
@@ -2833,7 +2837,6 @@ DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR - Drugs Made In America Acquisition Corp. - Rights
-DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
 DMAX - iShares Large Cap Max Buffer Dec ETF
@@ -3271,7 +3274,6 @@ EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
-EMISR - Emmis Acquisition Corp. - Rights
 EMKT - Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
@@ -3403,7 +3405,6 @@ ESGG - FlexShares STOXX Global ESG Select Index Fund
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESHA - ESH Acquisition Corp. - Class A Common Stock
-ESHAR - ESH Acquisition Corp. - Right
 ESI - Element Solutions Inc. Common Stock
 ESIM - Eventide International ETF
 ESIX - State Street SPDR S&P SmallCap 600 ESG ETF
@@ -3948,6 +3949,7 @@ FLYT - Tradr 2X Long FLY Daily ETF
 FLYU - MicroSectors Travel 3x Leveraged ETN
 FLYW - Flywire Corporation - Voting Common Stock
 FLYX - flyExclusive, Inc. Class A Common Stock
+FMACU - Future Money Acquisition Corporation - Units
 FMAG - Fidelity Magellan ETF
 FMAO - Farmers & Merchants Bancorp, Inc. - Common Stock
 FMAR - FT Vest U.S. Equity Buffer ETF - March
@@ -4190,7 +4192,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -5167,6 +5168,8 @@ IBMQ - iShares iBonds Dec 2028 Term Muni Bond ETF
 IBMR - iShares iBonds Dec 2029 Term Muni Bond ETF
 IBMS - iShares iBonds Dec 2030 Term Muni Bond ETF
 IBMT - iShares iBonds Dec 2031 Term Muni Bond ETF
+IBMU - iShares iBonds Dec 2032 Term Muni Bond ETF
+IBMV - iShares iBonds Dec 2033 Term Muni Bond ETF
 IBN - ICICI Bank Limited Common Stock
 IBND - SPDR Bloomberg International Corporate Bond ETF
 IBO - Impact BioMedical, Inc. Common Stock
@@ -5497,6 +5500,7 @@ IPDN - Professional Diversity Network, Inc. - Common Stock
 IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
 IPEXR - Inflection Point Acquisition Corp. - Right
 IPEXU - Inflection Point Acquisition Corp. - Unit
+IPFXU - Inflection Point Acquisition Corp. VI - Units
 IPGP - IPG Photonics Corporation - Common Stock
 IPHA - Innate Pharma S.A. - American Depositary Shares
 IPI - Intrepid Potash, Inc Common Stock
@@ -7351,7 +7355,6 @@ NMIH - NMI Holdings Inc - Common Stock
 NML - Neuberger Energy Infrastructure and Income Fund Inc. Common Stock
 NMM - Navios Maritime Partners LP Common Units Representing Limited Partner Interests
 NMP - NMP Acquisition Corp. - Class A Ordinary Shares
-NMPAR - NMP Acquisition Corp. - Right
 NMPAU - NMP Acquisition Corp. - Units
 NMR - Nomura Holdings Inc ADR American Depositary Shares
 NMRA - Neumora Therapeutics, Inc. - Common Stock
@@ -7701,6 +7704,7 @@ OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
 OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
+OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
 OKE - ONEOK, Inc. Common Stock
 OKLL - Defiance Daily Target 2x Long OKLO ETF
@@ -8367,7 +8371,6 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
-PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - State Street IG Public & Private Credit ETF
@@ -8540,6 +8543,7 @@ PZT - Invesco New York AMT-Free Municipal Bond ETF
 PZZA - Papa John's International, Inc. - Common Stock
 Q - Qnity Electronics, Inc. Common Stock
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
+QADRU - QDRO Acquisition Corp. - Units
 QAI - NYLI Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
 QARP - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF
@@ -8869,7 +8873,6 @@ RFAI - RF Acquisition Corp II - Ordinary Shares
 RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
 RFAM - RF Acquisition Corp III - Ordinary Shares
-RFAMR - RF Acquisition Corp III - Rights
 RFAMU - RF Acquisition Corp III - Units
 RFCI - RiverFront Dynamic Core Income ETF
 RFDA - RiverFront Dynamic US Dividend Advantage ETF
@@ -11170,6 +11173,7 @@ VOR - Vor Biopharma Inc. - Common Stock
 VOT - Vanguard Mid-Cap Growth ETF
 VOTE - TCW Transform 500 ETF
 VOX - Vanguard Communication Services  ETF
+VOXP - Vox Populi ETF
 VOXR - Vox Royalty Corp. - common stock
 VOYA - Voya Financial, Inc. Common Stock
 VOYG - Voyager Technologies, Inc. Class A Common Stock
@@ -11379,7 +11383,6 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
-WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
@@ -11633,6 +11636,7 @@ XMTR - Xometry, Inc. - Class A Common Stock
 XMVM - Invesco S&P MidCap Value with Momentum ETF
 XNAV - FundX Aggressive ETF
 XNCR - Xencor, Inc. - Common Stock
+XNDU - Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares
 XNET - Xunlei Limited - American Depositary Shares
 XNOV - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - November
 XNTK - State Street SPDR NYSE Technology ETF
