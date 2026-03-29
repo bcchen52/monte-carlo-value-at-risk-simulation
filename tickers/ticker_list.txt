@@ -2837,6 +2837,7 @@ DLY - DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
 DMA - Destra Multi-Alternative Fund Common Stock
 DMAA - Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR - Drugs Made In America Acquisition Corp. - Rights
+DMAAU - Drugs Made In America Acquisition Corp. - Units
 DMAC - DiaMedica Therapeutics Inc. - Common Stock
 DMAR - FT Vest U.S. Equity Deep Buffer ETF - March
 DMAX - iShares Large Cap Max Buffer Dec ETF
