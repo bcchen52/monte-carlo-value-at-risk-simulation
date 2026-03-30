@@ -1664,7 +1664,6 @@ BWZ - SPDR Bloomberg Short Term International Treasury Bond ETF
 BX - Blackstone Inc. Common Stock
 BXC - Bluelinx Holdings Inc. Common Stock
 BXMT - Blackstone Mortgage Trust, Inc. Common Stock
-BXMX - Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest
 BXP - BXP, Inc. Common Stock
 BXSL - Blackstone Secured Lending Fund Common Shares of Beneficial Interest
 BY - Byline Bancorp, Inc. Common Stock
@@ -2772,7 +2771,6 @@ DHX - DHI Group, Inc. Common Stock
 DHY - Credit Suisse High Yield Credit Fund Common Stock
 DIA - State Street SPDR Dow Jones Industrial Average ETF Trust
 DIAL - Columbia Diversified Fixed Income Allocation ETF
-DIAX - Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest
 DIBS - 1stdibs.com, Inc. - Common Stock
 DIEM - Franklin Emerging Market Core Dividend Tilt Index ETF
 DIG - ProShares Ultra Energy
@@ -5074,7 +5072,6 @@ HYGW - iShares High Yield Corporate Bond BuyWrite Strategy ETF
 HYHG - ProShares High Yield Interest Rate Hedged
 HYI - Western Asset High Yield Opportunity Fund Inc. Common Stock
 HYIN - WisdomTree Private Credit and Alternative Income Fund
-HYKE - Vest 2 Year Interest Rate Hedge ETF
 HYLB - Xtrackers USD High Yield Corporate Bond ETF
 HYLN - Hyliion Holdings Corp. Class A Common Stock
 HYLS - First Trust Tactical High Yield ETF
@@ -8926,7 +8923,6 @@ RIGS - RiverFront Strategic Income Fund
 RILA - Indexperts Gorilla Aggressive Growth ETF
 RILY - BRC Group Holdings, Inc. - Common Stock
 RILYG - BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026
-RILYK - BRC Group Holdings, Inc. - 5.50% Senior Notes Due 2026
 RILYL - BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock
 RILYN - BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026
 RILYP - BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock
@@ -9167,7 +9163,6 @@ RYLG - Global X Russell 2000 Covered Call & Growth ETF
 RYM - RYTHM, Inc. - Common Stock
 RYN - Rayonier Inc. REIT Common Stock
 RYOJ - rYojbaba Co., Ltd. - Common Shares
-RYSE - Vest 10 Year Interest Rate Hedge ETF
 RYTM - Rhythm Pharmaceuticals, Inc. - Common Stock
 RYZ - Ryerson Holding Corporation Common Stock
 RZB - Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056
@@ -10192,7 +10187,7 @@ TBLA - Taboola.com Ltd. - Ordinary Shares
 TBLAW - Taboola.com Ltd. - Warrant
 TBLD - Thornburg Income Builder Opportunities Trust - Closed End Fund
 TBLL - Invesco Short Term Treasury ETF
-TBLU - Tortoise Global Water Fund
+TBLU - Tortoise Global Water ETF
 TBN - Tamboran Resources Corporation Common stock
 TBPH - Theravance Biopharma, Inc. - Ordinary Shares
 TBRG - TruBridge, Inc. - Common Stock
@@ -10456,7 +10451,7 @@ TNC - Tennant Company Common Stock
 TNDM - Tandem Diabetes Care, Inc. - Common Stock
 TNET - TriNet Group, Inc. Common Stock
 TNGX - Tango Therapeutics, Inc. - Common Stock
-TNGY - Tortoise Energy Fund
+TNGY - Tortoise Energy ETF
 TNK - Teekay Tankers Ltd.
 TNL - Travel   Leisure Co. Common  Stock
 TNMG - TNL Mediagene - Ordinary Shares
@@ -10518,7 +10513,7 @@ TPSC - Timothy Plan US Small Cap Core ETF
 TPST - Tempest Therapeutics, Inc. - Common Stock
 TPTA - Terra Property Trust, Inc. 6.00% Notes due 2026
 TPVG - TriplePoint Venture Growth BDC Corp. Common Stock
-TPYP - Tortoise North American Pipeline Fund
+TPYP - Tortoise North American Pipeline ETF
 TPZ - Tortoise Electrification Infrastructure ETF
 TQQQ - ProShares UltraPro QQQ
 TQQY - GraniteShares YieldBOOST QQQ ETF
