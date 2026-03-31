@@ -671,6 +671,7 @@ ARMH - Arm Holdings PLC ADRhedged
 ARMK - Aramark Common Stock
 ARMP - Armata Pharmaceuticals, Inc. Common Stock
 ARMW - Roundhill ARM WeeklyPay ETF
+ARMY - Tema International Defense ETF
 AROC - Archrock, Inc. Common Stock
 AROW - Arrow Financial Corporation - Common Stock
 ARP - PMV Adaptive Risk Parity ETF
@@ -1023,8 +1024,7 @@ BBSB - JPMorgan BetaBuilders U.S. Treasury Bond 1-3 Year ETF
 BBSC - JPMorgan BetaBuilders U.S. Small Cap Equity ETF
 BBSI - Barrett Business Services, Inc. - Common Stock
 BBT - Beacon Financial Corporation Common stock
-BBU - Brookfield Business Partners L.P. Limited Partnership Units 
-BBUC - Brookfield Business Corporation Class A Exchangeable Subordinate Voting Shares
+BBUC - Brookfield Business Corporation Class A Subordinate Voting Shares
 BBUS - JPMorgan BetaBuilders U.S. Equity ETF
 BBVA - Banco Bilbao Vizcaya Argentaria S.A. Common Stock
 BBW - Build-A-Bear Workshop, Inc. Common Stock
@@ -1735,6 +1735,7 @@ CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
 CAPT - Captivision Inc. - Ordinary Shares
 CAPTW - Captivision Inc. - Warrant
+CAQ - Cambridge Acquisition Corp. - Class A Ordinary Shares
 CAQUU - Cambridge Acquisition Corp. - Unit
 CAR - Avis Budget Group, Inc. - Common Stock
 CARD - MAX Auto Industry -3x Inverse Leveraged ETN
@@ -4294,7 +4295,6 @@ GDEC - FT Vest U.S. Equity Moderate Buffer ETF - December
 GDEN - Golden Entertainment, Inc. - Common Stock
 GDEV - GDEV Inc. - Ordinary Shares
 GDEVW - GDEV Inc. - Warrant
-GDFN - Tema International Defense Innovation ETF
 GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
 GDIV - Harbor Dividend Growth Leaders ETF
 GDL - GDL Fund, The Common Shares of Beneficial Interest
@@ -4787,6 +4787,7 @@ HCAT - Health Catalyst, Inc - Common stock
 HCC - Warrior Met Coal, Inc. Common Stock
 HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
+HCIC - Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares
 HCICU - Hennessy Capital Investment Corp. VIII - Units
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
@@ -5757,8 +5758,6 @@ JETS - U.S. Global Jets ETF
 JETU - MAX Airlines 3X Leveraged ETNs
 JF - J and Friends Holdings Limited - American Depositary Shares
 JFB - JFB Construction Holdings - Class A Common Stock
-JFBR - Jeffs' Brands Ltd - Ordinary Shares
-JFBRW - Jeffs' Brands Ltd - Warrant
 JFIN - Jiayin Group Inc. - American Depositary Shares
 JFLI - JPMorgan Flexible Income ETF
 JFLX - JPMorgan Flexible Debt ETF
@@ -6522,6 +6521,7 @@ MAGX - Roundhill Daily 2X Long Magnificent Seven ETF
 MAGY - Roundhill Magnificent Seven Covered Call ETF
 MAIA - MAIA Biotechnology, Inc. Common Stock
 MAIN - Main Street Capital Corporation Common Stock
+MAKO - Mako Mining Corp - Common Stock
 MAKX - ProShares S&P Kensho Smart Factories ETF
 MAMA - Mama's Creations, Inc. - Common Stock
 MAMB - Monarch Ambassador Income Index ETF
@@ -6867,7 +6867,7 @@ MMTXW - Miluna Acquisition Corp - Warrant
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MNA - NYLI Merger Arbitrage ETF
-MNBD - ALPS Intermediate Municipal Bond ETF
+MNBD - ALPS BBH Intermediate Municipal Bond ETF
 MNDO - MIND C.T.I. Ltd. - Ordinary Shares
 MNDR - Mobile-health Network Solutions - Class A Ordinary Shares
 MNDY - monday.com Ltd. - Ordinary Shares
@@ -7266,6 +7266,8 @@ NEWZ - StockSnips AI-Powered Sentiment US All Cap ETF
 NEXA - Nexa Resources S.A. Common Shares
 NEXM - NexMetals Mining Corp. - Common Stock
 NEXN - Nexxen International Ltd. - Ordinary Shares
+NEXR - Nexera Technologies Ltd - Ordinary Shares
+NEXRW - Nexera Technologies Ltd - Warrant
 NEXT - NextDecade Corporation - Common Stock
 NFBK - Northfield Bancorp, Inc. - Common Stock
 NFE - New Fortress Energy Inc. - Class A Common Stock
@@ -7310,6 +7312,7 @@ NIE - Virtus Equity & Convertible Income Fund Common Shares of Beneficial Intere
 NIHI - NEOS MSCI EAFE High Income ETF
 NIKL - Sprott Nickel Miners ETF
 NIM - Nuveen Select Maturities Municipal Fund Common Stock
+NINE - Nine Energy Service, Inc. Common Stock
 NIO - NIO Inc. American depositary shares, each  representing one Class A ordinary share
 NIOBW - NioCorp Developments Ltd. - Warrant
 NIOG - Leverage Shares 2X Long NIO Daily ETF
@@ -7353,6 +7356,7 @@ NMIH - NMI Holdings Inc - Common Stock
 NML - Neuberger Energy Infrastructure and Income Fund Inc. Common Stock
 NMM - Navios Maritime Partners LP Common Units Representing Limited Partner Interests
 NMP - NMP Acquisition Corp. - Class A Ordinary Shares
+NMPAR - NMP Acquisition Corp. - Right
 NMPAU - NMP Acquisition Corp. - Units
 NMR - Nomura Holdings Inc ADR American Depositary Shares
 NMRA - Neumora Therapeutics, Inc. - Common Stock
@@ -8872,8 +8876,8 @@ RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
 RFAM - RF Acquisition Corp III - Ordinary Shares
 RFAMU - RF Acquisition Corp III - Units
-RFCI - RiverFront Dynamic Core Income ETF
-RFDA - RiverFront Dynamic US Dividend Advantage ETF
+RFCI - ALPS Dynamic Core Income ETF
+RFDA - ALPS Dynamic US Dividend Advantage ETF
 RFDI - First Trust RiverFront Dynamic Developed International ETF
 RFEM - First Trust RiverFront Dynamic Emerging Markets ETF
 RFFC - ALPS Active Equity Opportunity ETF
@@ -9318,6 +9322,7 @@ SCOW - Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
 SCPQ - Social Commerce Partners Corporation - Class A Ordinary Shares
 SCPQU - Social Commerce Partners Corporation - Unit
 SCPQW - Social Commerce Partners Corporation - Warrant
+SCSB - Sterling Capital Short Duration Bond ETF
 SCSC - ScanSource, Inc. - Common Stock
 SCUS - Schwab Ultra-Short Income ETF
 SCVL - Shoe Carnival, Inc. - Common Stock
@@ -10301,7 +10306,6 @@ TFLR - T. Rowe Price Floating Rate ETF
 TFNS - T. Rowe Price Financials ETF
 TFPM - Triple Flag Precious Metals Corp. Common Shares
 TFPN - Blueprint Chesapeake Multi-Asset Trend ETF
-TFSA - Terra Income Fund 6, LLC 7.00% Notes due 2026
 TFSL - TFS Financial Corporation - Common Stock
 TFX - Teleflex Incorporated Common Stock
 TG - Tredegar Corporation Common Stock
