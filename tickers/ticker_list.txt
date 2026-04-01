@@ -26,7 +26,7 @@ AAPB - GraniteShares 2x Long AAPL Daily ETF
 AAPD - Direxion Daily AAPL Bear 1X ETF
 AAPG - Ascentage Pharma Group International - American Depository Shares
 AAPL - Apple Inc. - Common Stock
-AAPR - Innovator Equity Defined Protection ETF - 2 Yr to April 2026
+AAPR - Innovator Equity Defined Protection ETF - 2 Yr to April 2028
 AAPU - Direxion Daily AAPL Bull 2X ETF
 AAPW - Roundhill AAPL WeeklyPay ETF
 AAPX - T-Rex 2X Long Apple Daily Target ETF
@@ -412,7 +412,6 @@ ALNY - Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOT - AstroNova, Inc. - Common Stock
 ALOV - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares
 ALOVU - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units
-ALOVW - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants
 ALOY - REalloys Inc. - Common Stock
 ALPS - ALPS Group Inc - Ordinary Share
 ALRG - Allspring LT Large Core ETF
@@ -1966,7 +1965,6 @@ CGXU - Capital Group International Focus Equity ETF
 CHA - Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
-CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X ETF
@@ -2427,7 +2425,7 @@ CTAS - Cintas Corporation - Common Stock
 CTBB - Qwest Corporation 6.5% Notes due 2056
 CTBI - Community Trust Bancorp, Inc. - Common Stock
 CTDD - Qwest Corporation 6.75% Notes due 2057
-CTEC - Global X CleanTech ETF
+CTEC - Global X ClimateTech ETF
 CTEF - Castellan Targeted Equity ETF
 CTEV - Claritev Corporation Class A Common Stock
 CTEX - ProShares S&P Kensho Cleantech ETF
@@ -3785,7 +3783,6 @@ FFOX - FundX Future Fund Opportunities ETF
 FFSM - Fidelity Fundamental Small-Mid Cap ETF
 FFTY - Innovator IBD 50 ETF
 FFUT - Fidelity Managed Futures ETF
-FFWM - First Foundation Inc. Common Stock
 FG - F&G Annuities & Life, Inc. Common Stock
 FGBI - First Guaranty Bancshares, Inc. - Common Stock
 FGBIP - First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock
@@ -4271,7 +4268,6 @@ GBTC - Grayscale Bitcoin Trust (BTC)
 GBTG - Global Business Travel Group, Inc. Class A Common Stock
 GBUG - Sprott Active Gold & Silver Miners ETF
 GBX - Greenbrier Companies, Inc. (The) Common Stock
-GBXA - Goldman Sachs U.S. Large Cap Buffer 1 ETF
 GCAD - Gabelli Commercial Aerospace and Defense ETF
 GCAL - Goldman Sachs Dynamic California Municipal Income ETF
 GCBC - Greene County Bancorp, Inc. - Common Stock
@@ -4788,6 +4784,7 @@ HCC - Warrior Met Coal, Inc. Common Stock
 HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
 HCIC - Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares
+HCICR - Hennessy Capital Investment Corp. VIII - Share Rights
 HCICU - Hennessy Capital Investment Corp. VIII - Units
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
@@ -5607,7 +5604,6 @@ ITOT - iShares Core S&P Total U.S. Stock Market ETF
 ITP - IT Tech Packaging, Inc. Common Stock
 ITRG - Integra Resources Corp. Common Shares
 ITRI - Itron, Inc. - Common Stock
-ITRM - Iterum Therapeutics plc - Ordinary Share
 ITRN - Ituran Location and Control Ltd. - Ordinary Shares
 ITT - ITT Inc. Common Stock 
 ITUB - Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
@@ -7151,6 +7147,7 @@ NAN - Nuveen New York Quality Municipal Income Fund Common Stock
 NANC - Unusual Whales Subversive Democratic Trading ETF
 NANR - State Street SPDR S&P North American Natural Resources ETF
 NAPR - Innovator Growth-100 Power Buffer ETF - April
+NASA - Tema Space Innovators ETF
 NAT - Nordic American Tankers Limited Common Stock
 NATH - Nathan's Famous, Inc. - Common Stock
 NATL - NCR Atleos Corporation Common Stock
@@ -7746,7 +7743,7 @@ ONCH - 1RT Acquisition Corp. - Class A Ordinary Share
 ONCHU - 1RT Acquisition Corp. - Units
 ONCHW - 1RT Acquisition Corp. - Warrant
 ONCO - Onconetix, Inc.  - Common Stock
-ONCY - Oncolytics Biotech Inc. - Common Shares
+ONCY - Oncolytics Biotech Inc. - Common Stock
 OND - ProShares On-Demand ETF
 ONDG - Leverage Shares 2X Long ONDS Daily ETF
 ONDL - Defiance Daily Target 2X Long ONDS ETF
@@ -7769,7 +7766,6 @@ ONMD - OneMedNet Corp - Class A Common Stock
 ONMDW - OneMedNet Corp - Warrant
 ONOF - Global X Adaptive U.S. Risk Management ETF
 ONON - On Holding AG Class A Ordinary Shares
-ONTF - ON24, Inc. Common Stock
 ONTO - Onto Innovation Inc. Common Stock
 OOMA - Ooma, Inc. Common Stock
 OOQB - One One Nasdaq-100 and Bitcoin ETF
@@ -8373,6 +8369,7 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
+PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - State Street IG Public & Private Credit ETF
@@ -9324,6 +9321,7 @@ SCPQU - Social Commerce Partners Corporation - Unit
 SCPQW - Social Commerce Partners Corporation - Warrant
 SCSB - Sterling Capital Short Duration Bond ETF
 SCSC - ScanSource, Inc. - Common Stock
+SCUB - Sterling Capital Ultra Short Bond ETF
 SCUS - Schwab Ultra-Short Income ETF
 SCVL - Shoe Carnival, Inc. - Common Stock
 SCWO - 374Water Inc. - common stock
@@ -11008,9 +11006,6 @@ VBR - Vanguard Small-Cap Value ETF
 VC - Visteon Corporation - Common Stock
 VCEB - Vanguard World Funds ETF
 VCEL - Vericel Corporation - Common Stock
-VCIC - Vine Hill Capital Investment Corp. - Class A Ordinary Shares
-VCICU - Vine Hill Capital Investment Corp. - Unit
-VCICW - Vine Hill Capital Investment Corp. - Warrant
 VCIG - VCI Global Limited - Ordinary Share
 VCIT - Vanguard Intermediate-Term Corporate Bond ETF
 VCLN - Virtus Duff & Phelps Clean Energy ETF
@@ -11477,7 +11472,6 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
-WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
