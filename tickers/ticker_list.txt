@@ -68,6 +68,7 @@ ABSI - Absci Corporation - Common Stock
 ABT - Abbott Laboratories Common Stock
 ABTC - American Bitcoin Corp. - Class A Common Stock
 ABTS - Abits Group Inc - Ordinary Shares
+ABUF - Aptus Laddered Buffer ETF
 ABUS - Arbutus Biopharma Corporation - Common Stock
 ABVC - ABVC BioPharma, Inc. - Common Stock
 ABVE - Above Food Ingredients Inc. - Common Stock
@@ -186,7 +187,6 @@ ADX - Adams Diversified Equity Fund Inc.
 ADXN - Addex Therapeutics Ltd - American Depositary Shares
 AEAQ - Activate Energy Acquisition Corp. - Class A Ordinary Share
 AEAQU - Activate Energy Acquisition Corp. - Unit
-AEAQW - Activate Energy Acquisition Corp. - Warrant
 AEBI - Aebi Schmidt Holding AG - Common Stock
 AEC - Anfield Energy Inc. - Common Shares
 AEE - Ameren Corporation Common Stock
@@ -2903,6 +2903,7 @@ DPST - Direxion Daily Regional Banks Bull 3X ETF
 DPZ - Domino's Pizza Inc - Common Stock
 DQ - DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares
 DRAI - Draco Evolution AI ETF
+DRAM - Roundhill Memory ETF
 DRAY - YieldMax DKNG Option Income Strategy ETF
 DRCT - Direct Digital Holdings, Inc. - Class A Common Stock
 DRD - DRDGOLD Limited American Depositary Shares
@@ -3203,6 +3204,7 @@ EGY - VAALCO Energy, Inc.  Common Stock
 EH - EHang Holdings Limited - ADS
 EHAB - Enhabit, Inc. Common Stock
 EHC - Encompass Health Corporation Common Stock
+EHCC - Global X Ethereum Covered Call ETF
 EHGO - Eshallgo Inc. - Class A Ordinary Shares
 EHI - Western Asset Global High Income Fund Inc Common Stock
 EHLD - Euroholdings Ltd. - Common Stock
@@ -3486,7 +3488,6 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X ETF
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -4286,6 +4287,7 @@ GCBC - Greene County Bancorp, Inc. - Common Stock
 GCC - WisdomTree EnhancedContinuous Commodity Index Fund
 GCDT - Green Circle Decarbonize Technology Limited Ordinary Shares
 GCL - GCL Global Holdings Ltd - Ordinary Shares
+GCLWW - GCL Global Holdings Ltd - Warrants
 GCMG - GCM Grosvenor Inc. - Class A Common Stock
 GCO - Genesco Inc. Common Stock
 GCOR - Goldman Sachs Access U.S. Aggregate Bond ETF
@@ -6871,7 +6873,6 @@ MMT - MFS Multimarket Income Trust Common Stock
 MMTM - State Street SPDR S&P 1500 Momentum Tilt ETF
 MMTX - Miluna Acquisition Corp - Class A Ordinary Shares
 MMTXU - Miluna Acquisition Corp - Units
-MMTXW - Miluna Acquisition Corp - Warrant
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MNA - NYLI Merger Arbitrage ETF
@@ -7679,6 +7680,7 @@ ODD - ODDITY Tech Ltd. - Class A Ordinary Shares
 ODDS - Pacer BlueStar Digital Entertainment ETF
 ODFL - Old Dominion Freight Line, Inc. - Common Stock
 ODHY - Obra Defensive High Yield ETF
+ODTE - VegaShares SPX NDX RTY Premium Income ETF
 ODV - Osisko Development Corp. Common Shares
 ODVWZ - Osisko Development Corp. - Warrant
 ODYS - Odysight.ai Inc. - Common Stock
@@ -10466,7 +10468,9 @@ TMP - Tompkins Financial Corporation Common Stock
 TMQ - Trilogy Metals Inc. Common Stock
 TMSF - T. Rowe Price Multi-Sector Income ETF
 TMSL - T. Rowe Price Small-Mid Cap ETF
+TMTS - Spartacus Acquisition Corp. II - Class A Ordinary Shares
 TMTSU - Spartacus Acquisition Corp. II - Unit
+TMTSW - Spartacus Acquisition Corp. II - Warrants
 TMUS - T-Mobile US, Inc. - Common Stock
 TMUSI - T-Mobile US, Inc. - 5.500% Senior Notes due June 2070
 TMUSL - T-Mobile US, Inc. - 6.250% Senior Notes due 2069
@@ -10588,7 +10592,9 @@ TRTY - Cambria Trinity ETF
 TRU - TransUnion Common Stock
 TRUC - VanEck Communication Services TruSector ETF
 TRUD - VanEck Consumer Discretionary TruSector ETF
+TRUF - VanEck Financials TruSector ETF
 TRUG - TruGolf Holdings, Inc. - Class A Common Stock
+TRUH - VanEck Healthcare TruSector ETF
 TRUP - Trupanion, Inc. - Common Stock
 TRUT - VanEck Technology TruSector ETF
 TRV - The Travelers Companies, Inc. Common Stock
@@ -11053,6 +11059,7 @@ VEEA - Veea Inc. - Common Stock
 VEEAW - Veea Inc. - Warrant
 VEEE - Twin Vee PowerCats Co. - Common Stock
 VEEV - Veeva Systems Inc. Class A Common Stock
+VEFA - VanEck MSCI EAFE Analyst Sentiment ETF
 VEGA - AdvisorShares STAR Global Buy-Write ETF
 VEGI - iShares MSCI Agriculture Producers ETF
 VEGN - US Vegan Climate Index
@@ -11104,6 +11111,7 @@ VGZ - Vista Gold Corp Common Stock
 VHC - VirnetX Holding Corp - Common Stock
 VHCP - Vine Hill Capital Investment Corp. II - Class A Ordinary Shares
 VHCPU - Vine Hill Capital Investment Corp. II - Units
+VHCPW - Vine Hill Capital Investment Corp. II - Warrants
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
 VHUB - VenHub Global, Inc. - Common Stock
