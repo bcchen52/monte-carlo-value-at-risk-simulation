@@ -1241,7 +1241,6 @@ BIS - ProShares UltraShort Nasdaq Biotechnology
 BIT - BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest
 BITB - Bitwise Bitcoin ETF 
 BITC - Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF
-BITF - Bitfarms Ltd. - Common Stock
 BITI - ProShares Short Bitcoin ETF
 BITK - Tuttle Capital IBIT 0DTE Covered Call ETF
 BITO - ProShares Bitcoin ETF
@@ -3213,7 +3212,6 @@ EHTH - eHealth, Inc. - Common Stock
 EHY - Amplify Ethereum Max Income Covered Call ETF
 EIC - Eagle Point Income Company Inc. Common Stock
 EICA - Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026
-EICC - Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2029
 EIDO - iShares MSCI Indonesia ETF
 EIG - Employers Holdings Inc Common Stock
 EIIA - Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029
@@ -5956,6 +5954,7 @@ KDRN - Kingsbarn Tactical Bond ETF
 KDVD - Keeley Dividend ETF
 KE - Kimball Electronics, Inc. - Common Stock
 KEAT - Keating Active ETF
+KEEL - Keel Infrastructure Corp. - Common Stock
 KELYA - Kelly Services, Inc. - Class A Common Stock
 KELYB - Kelly Services, Inc. - Class B Common Stock
 KEMQ - KraneShares Emerging Markets Consumer Technology Index ETF
@@ -7204,7 +7203,6 @@ NBTB - NBT Bancorp Inc. - Common Stock
 NBTR - Neuberger Total Return Bond ETF
 NBTX - Nanobiotix S.A. - ADSs
 NBXG - Neuberger Next Generation Connectivity Fund Inc. Common Stock
-NBY - NovaBay Pharmaceuticals, Inc. Common Stock
 NC - NACCO Industries, Inc. Common Stock
 NCA - Nuveen California Municipal Value Fund
 NCDL - Nuveen Churchill Direct Lending Corp. Common Stock
@@ -8616,7 +8614,6 @@ QGEN - Qiagen N.V. Common Shares
 QGRD - Horizon Nasdaq-100 Defined Risk ETF
 QGRO - American Century U.S. Quality Growth ETF
 QGRW - WisdomTree U.S. Quality Growth Fund
-QH - Quhuo Limited - American Depository Shares
 QHDG - Innovator Hedged Nasdaq-100 ETF
 QHY - WisdomTree U.S. High Yield Corporate Bond Fund
 QID - ProShares UltraShort QQQ
@@ -9254,7 +9251,6 @@ SBB - ProShares Short SmallCap600
 SBC - SBC Medical Group Holdings Incorporated - Common Stock
 SBCF - Seacoast Banking Corporation of Florida - Common Stock
 SBCWW - SBC Medical Group Holdings Incorporated - Warrants
-SBDS - Solo Brands, Inc. Class A Common Stock
 SBET - Sharplink, Inc. - Common Stock
 SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
@@ -10208,7 +10204,6 @@ TBFC - The Brinsmere Fund  Conservative ETF
 TBFG - The Brinsmere Fund Growth ETF
 TBG - TBG Dividend Focus ETF
 TBH - Brag House Holdings, Inc. - Common Stock
-TBHC - The Brand House Collective, Inc - Common Stock
 TBI - TrueBlue, Inc. Common Stock
 TBIL - F/m US Treasury 3 Month Bill Fund
 TBJL - Innovator 20  Year Treasury Bond 9 Buffer ETF - July
