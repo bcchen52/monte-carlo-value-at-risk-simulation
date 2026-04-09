@@ -364,7 +364,6 @@ AKR - Acadia Realty Trust Common Stock
 AKRE - Akre Focus ETF
 AKTS - Aktis Oncology, Inc. - Common stock
 AKTX - Akari Therapeutics Plc - American Depositary Shares
-AL - Air Lease Corporation Class A Common Stock
 ALAB - Astera Labs, Inc. - Common Stock
 ALAI - Alger AI Enablers & Adopters ETF
 ALAR - Alarum Technologies Ltd. - American Depositary Shares
@@ -1151,6 +1150,7 @@ BFAM - Bright Horizons Family Solutions Inc. Common Stock
 BFAP - FT Vest Bitcoin Strategy Floor15 ETF April
 BFC - Bank First Corporation - Common Stock
 BFEB - Innovator U.S. Equity Buffer ETF - February
+BFEW - FT Vest Laddered U.S. Equity Equal Weight Buffer ETF
 BFH - Bread Financial Holdings, Inc. Common Stock
 BFIX - Build Bond Innovation ETF
 BFJA - FT Vest Bitcoin Strategy Floor15 ETF - January
@@ -1166,6 +1166,7 @@ BFRIW - Biofrontera Inc. - Warrants
 BFRZ - Innovator Equity Managed 100 Buffer ETF
 BFS - Saul Centers, Inc. Common Stock
 BFST - Business First Bancshares, Inc. - Common Stock
+BFXU - FT Vest Laddered U.S. Equity Uncapped Accelerator ETF
 BG - Bunge Limited Common Shares
 BGB - Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest
 BGC - BGC Group, Inc. - Class A Common Stock
@@ -1264,7 +1265,6 @@ BIZD - VanEck BDC Income ETF
 BJ - BJ's Wholesale Club Holdings, Inc. Common Stock
 BJAN - Innovator U.S. Equity Buffer ETF - January
 BJDX - Bluejay Diagnostics, Inc. - Common Stock
-BJK - VanEck Gaming ETF
 BJRI - BJ's Restaurants, Inc. - Common Stock
 BJUL - Innovator U.S. Equity Buffer ETF - July
 BJUN - Innovator U.S. Equity Buffer ETF - June
@@ -1736,8 +1736,6 @@ CAPNR - Cayson Acquisition Corp - Right
 CAPNU - Cayson Acquisition Corp - Units
 CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
-CAPT - Captivision Inc. - Ordinary Shares
-CAPTW - Captivision Inc. - Warrant
 CAQ - Cambridge Acquisition Corp. - Class A Ordinary Shares
 CAQUU - Cambridge Acquisition Corp. - Unit
 CAQUW - Cambridge Acquisition Corp. - Warrants
@@ -2999,6 +2997,7 @@ DUSA - Davis Select U.S. Equity ETF
 DUSB - Dimensional Ultrashort Fixed Income ETF
 DUSL - Direxion Daily Industrials Bull 3X ETF
 DUST - Direxion Daily Gold Miners Index Bear 2X ETF
+DUTY - U.S. Defense ETF
 DV - DoubleVerify Holdings, Inc. Common Stock
 DVA - DaVita Inc. Common Stock
 DVAL - BrandywineGLOBAL-Dynamic US Large Cap Value ETF
@@ -3809,6 +3808,7 @@ FGDL - Franklin Responsibly Sourced Gold ETF
 FGI - FGI Industries Ltd. - Ordinary Shares
 FGII - FG Imperii Acquisition Corp. - Class A Ordinary Shares
 FGIIU - FG Imperii Acquisition Corp. - Units
+FGIIW - FG Imperii Acquisition Corp. - Warrants
 FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
@@ -4358,6 +4358,7 @@ GENM - Genter Capital Municipal Quality Intermediate ETF
 GENT - Genter Capital Taxable Quality Intermediate ETF
 GENVR - Gen Digital Inc. - Contingent Value Rights
 GENW - Genter Capital International Dividend ETF
+GENZ - VanEck Digital Native Economy ETF
 GEO - Geo Group Inc (The) REIT
 GEOA - WisdomTree GeoAlpha Opportunities Fund
 GEOS - Geospace Technologies Corporation - Common Stock
@@ -4569,6 +4570,7 @@ GOVZ - iShares 25  Year Treasury STRIPS Bond ETF
 GP - GreenPower Motor Company Inc. - Common Shares
 GPAC - General Purpose Acquisition Corp. - Class A Ordinary Shares
 GPACU - General Purpose Acquisition Corp. - Units
+GPACW - General Purpose Acquisition Corp. - Warrant
 GPAT - GP-Act III Acquisition Corp. - Class A Ordinary Share
 GPATU - GP-Act III Acquisition Corp. - Units
 GPATW - GP-Act III Acquisition Corp. - Warrants
@@ -5068,7 +5070,6 @@ HWSM - Hotchkis & Wiley SMID Cap Diversified Value Fund
 HXHX - Haoxin Holdings Limited - Class A Ordinary Shares
 HXL - Hexcel Corporation Common Stock
 HY - Hyster-Yale, Inc. Class A common stock
-HYAC - Haymaker Acquisition Corp. 4 Class A Ordinary Shares
 HYBB - iShares BB Rated Corporate Bond ETF
 HYBI - NEOS Enhanced Income Credit Select ETF
 HYBL - State Street Blackstone High Income ETF
@@ -5637,6 +5638,7 @@ IVAL - Alpha Architect International Quantitative Value ETF
 IVDA - Iveda Solutions, Inc. - Common Stock
 IVDAW - Iveda Solutions, Inc. - Warrant
 IVE - iShares S&P 500 Value ETF
+IVEP - Dan IVES Wedbush AI Power & Infrastructure ETF
 IVES - Dan IVES Wedbush AI Revolution ETF
 IVF - INVO Fertility, Inc. - Common Stock
 IVLU - iShares MSCI Intl Value Factor ETF
@@ -5788,6 +5790,7 @@ JHAI - Janus Henderson Global Artificial Intelligence ETF
 JHCB - John Hancock Corporate Bond ETF
 JHCP - John Hancock Core Plus Bond ETF
 JHCR - John Hancock Core Bond ETF
+JHDG - John Hancock Hedged Equity ETF
 JHDV - John Hancock U.S. High Dividend ETF
 JHEM - John Hancock Multifactor Emerging Markets ETF
 JHG - Janus Henderson Group plc Ordinary Shares
@@ -6980,6 +6983,7 @@ MSAIW - MultiSensor AI Holdings, Inc. - Warrants
 MSB - Mesabi Trust Common Stock
 MSBI - Midland States Bancorp, Inc. - Common Stock
 MSBIP - Midland States Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A
+MSBT - Common Units of Beneficial Interest of Morgan Stanley Bitcoin Trust
 MSC - Studio City International Holdings Limited American depositary shares, each representing four  Class A ordinary shares
 MSCI - MSCI Inc. Common Stock
 MSD - Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock
@@ -7302,6 +7306,7 @@ NFXS - Direxion Daily NFLX Bear 1X ETF
 NG - Novagold Resources Inc.
 NGEN - NervGen Pharma Corp. - Common stock
 NGG - National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares
+NGHT - Nicholas Bitcoin and Treasuries AfterDark ETF
 NGL - NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
 NGNE - Neurogene Inc. - Common Stock
 NGS - Natural Gas Services Group, Inc. Common Stock
@@ -9160,6 +9165,7 @@ RWAY - Runway Growth Finance Corp. - Common Stock
 RWAYI - Runway Growth Finance Corp. - 7.25% Notes due 2031
 RWAYL - Runway Growth Finance Corp. - 7.50% Notes due 2027
 RWEM - Rayliant Wilshire NxtGen Emerging Markets Equity ETF
+RWIN - Rayliant NxtGen Multifactor International Equity ETF
 RWJ - Invesco S&P SmallCap 600 Revenue ETF
 RWK - Invesco S&P MidCap 400 Revenue ETF
 RWL - Invesco S&P 500 Revenue ETF
@@ -9396,7 +9402,6 @@ SECR - NYLI MacKay Securitized Income ETF
 SECT - Main Sector Rotation ETF
 SECU - iShares Securitized Income Active ETF
 SEDG - SolarEdge Technologies, Inc. - Common Stock
-SEE - Sealed Air Corporation Common Stock
 SEED - Origin Agritech Limited - Ordinary Shares
 SEEM - SEI Select Emerging Markets Equity ETF
 SEER - Seer, Inc. - Class A Common Stock
@@ -10447,6 +10452,7 @@ TMAT - Main Thematic Innovation ETF
 TMB - Thornburg Multi Sector Bond ETF
 TMC - TMC the metals company Inc. - Common Stock
 TMCI - Treace Medical Concepts, Inc. - Common Stock
+TMCR - The Metals Royalty Company Inc. - Common Stock
 TMCWW - TMC the metals company Inc. - Warrant
 TMDE - TMD Energy Limited Ordinary Shares
 TMDV - ProShares Russell US Dividend Growers ETF
@@ -11304,7 +11310,6 @@ VVV - Valvoline Inc. Common Stock
 VVX - V2X, Inc. Common Stock
 VWAV - VisionWave Holdings, Inc. - Common Stock
 VWAVW - VisionWave Holdings, Inc. - Warrant
-VWID - Virtus WMC International Dividend ETF
 VWO - Vanguard FTSE Emerging Markets ETF
 VWOB - Vanguard Emerging Markets Government Bond ETF
 VXF - Vanguard Extended Market ETF
@@ -11554,6 +11559,7 @@ WYNN - Wynn Resorts, Limited - Common Stock
 WYY - WidePoint Corporation Common Stock
 WZRD - Opportunistic Trader ETF
 XAGG - Eaton Vance Income Opportunities ETF
+XAIL - Defiance Pure Space Daily 2X Strategy ETF
 XAIR - Beyond Air, Inc. - Common Stock
 XAIX - Xtrackers Artificial Intelligence and Big Data ETF
 XAPR - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April
