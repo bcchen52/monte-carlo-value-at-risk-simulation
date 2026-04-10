@@ -145,7 +145,6 @@ ACYN - FT Vest Laddered Autocallable Barrier & Income ETF
 AD - Array Digital Infrastructure, Inc. Common Shares
 ADAC - American Drive Acquisition Company - Class A Ordinary Shares
 ADACU - American Drive Acquisition Company - Units
-ADACW - American Drive Acquisition Company - Warrant
 ADAG - Adagene Inc. - ADS, each representing 1.25 ordinary shares
 ADAM - Adamas Trust, Inc. - Common Stock
 ADAMG - Adamas Trust, Inc. - 9.125% Senior Notes Due 2030
@@ -730,7 +729,6 @@ ASMH - ASML Holding NV ADRhedged
 ASML - ASML Holding N.V. - New York Registry Shares
 ASMU - Direxion Daily ASML Bull 2X ETF
 ASND - Ascendis Pharma A/S - American Depositary Shares
-ASNS - Actelis Networks, Inc. - Common Stock
 ASO - Academy Sports and Outdoors, Inc. - Common Stock
 ASPC - A SPAC III Acquisition Corp. - Class A Ordinary Shares
 ASPCR - A SPAC III Acquisition Corp. - Right
@@ -1050,6 +1048,7 @@ BCD - abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF
 BCDA - BioCardia, Inc. - Common Stock
 BCDF - Horizon Kinetics Blockchain Development ETF
 BCE - BCE, Inc. Common Stock
+BCEM - Baron Emerging Markets Select ETF
 BCFN - Baron Financials ETF
 BCG - Binah Capital Group, Inc. - Common Stock
 BCGD - Baron Global Durable Advantage ETF
@@ -1604,6 +1603,7 @@ BUDA - Buda Juice, Inc. Common Stock
 BUFB - Innovator Laddered Allocation Buffer ETF
 BUFC - AB Conservative Buffer ETF
 BUFD - FT Vest Laddered Deep Buffer ETF
+BUFE - FT Vest Laddered Emerging Markets Buffer ETF
 BUFF - Innovator Laddered Allocation Power Buffer ETF
 BUFG - FT Vest Buffered Allocation Growth ETF
 BUFH - FT Vest Laddered Max Buffer ETF
@@ -5187,6 +5187,7 @@ IBMS - iShares iBonds Dec 2030 Term Muni Bond ETF
 IBMT - iShares iBonds Dec 2031 Term Muni Bond ETF
 IBMU - iShares iBonds Dec 2032 Term Muni Bond ETF
 IBMV - iShares iBonds Dec 2033 Term Muni Bond ETF
+IBMW - iShares iBonds Dec 2034 Term Muni Bond ETF
 IBN - ICICI Bank Limited Common Stock
 IBND - SPDR Bloomberg International Corporate Bond ETF
 IBO - Impact BioMedical, Inc. Common Stock
@@ -6414,6 +6415,7 @@ LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
 LPCV - Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
 LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
+LPCVW - Launchpad Cadenza Acquisition Corp I - Warrant
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -7284,7 +7286,6 @@ NEXA - Nexa Resources S.A. Common Shares
 NEXM - NexMetals Mining Corp. - Common Stock
 NEXN - Nexxen International Ltd. - Ordinary Shares
 NEXR - Nexera Technologies Ltd - Ordinary Shares
-NEXRW - Nexera Technologies Ltd - Warrant
 NEXT - NextDecade Corporation - Common Stock
 NFBK - Northfield Bancorp, Inc. - Common Stock
 NFE - New Fortress Energy Inc. - Class A Common Stock
@@ -7342,7 +7343,6 @@ NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
 NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
-NIXXW - Nixxy, Inc. - Warrant
 NJAN - Innovator Growth-100 Power Buffer ETF - January
 NJNK - Columbia U.S. High Yield ETF
 NJR - NewJersey Resources Corporation Common Stock
@@ -8307,7 +8307,7 @@ PMTU - PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028
 PMTV - PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030
 PMTW - PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030
 PMVP - PMV Pharmaceuticals, Inc. - Common Stock
-PN - Skycorp Solar Group Limited - Ordinary Shares
+PN - Skycorp Solar Group Limited - Class A Ordinary Shares
 PNBK - Patriot National Bancorp Inc. - Common Stock
 PNC - PNC Financial Services Group, Inc. (The) Common Stock
 PNFP - Pinnacle Financial Partners, Inc. Common stock
@@ -9008,6 +9008,7 @@ RMCOW - Royalty Management Holding Corporation - Warrant
 RMD - ResMed Inc. Common Stock
 RMI - RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock
 RMIF - LHA Risk-Managed Income ETF
+RMIX - Suncrete, Inc. - Class A Common Stock
 RMM - RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock
 RMME - Rareview Government Money Market ETF
 RMMZ - RiverNorth Managed Duration Municipal Income Fund II, Inc. Common Stock
@@ -10366,6 +10367,7 @@ THH - TryHard Holdings Limited - Ordinary Shares
 THIR - THOR Index Rotation ETF
 THLV - THOR Equal Weight Low Volatility ETF
 THM - International Tower Hill Mines, Ltd. Ordinary Shares (Canada)
+THMR - THOR AdaptiveRisk Dynamic ETF
 THMZ - Lazard Equity Megatrends ETF
 THNQ - ROBO Global Artificial Intelligence ETF
 THNR - Amplify Weight Loss Drug & Treatment ETF
