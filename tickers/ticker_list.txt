@@ -1415,7 +1415,6 @@ BOC - Boston Omaha Corporation Class A Common Stock
 BOCT - Innovator U.S. Equity Buffer ETF - October
 BODI - The Beachbody Company, Inc. - Class A Common Stock
 BOE - Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest
-BOED - Direxion Daily BA Bear 1X ETF
 BOEG - Leverage Shares 2X Long BA Daily ETF
 BOEU - Direxion Daily BA Bull 2X ETF
 BOF - BranchOut Food Inc. - Common Stock
@@ -1479,7 +1478,6 @@ BRID - Bridgford Foods Corporation - Common Stock
 BRIE - MFS Blended Research International Equity ETF
 BRIF - FIS Bright Portfolios Focused Equity ETF
 BRKC - YieldMax BRK.B Option Income Strategy ETF
-BRKD - Direxion Daily BRKB Bear 1X ETF
 BRKR - Bruker Corporation - Common Stock
 BRKRP - Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A
 BRKU - Direxion Daily BRKB Bull 2X ETF
@@ -2031,7 +2029,6 @@ CIFR - Cipher Digital Inc. - Common Stock
 CIFU - T-REX 2X Long CIFR Daily Target ETF
 CIG - Comp En De Mn Cemig ADS American Depositary Shares
 CIGI - Colliers International Group Inc.  - Subordinate Voting Shares
-CIGL - Concorde International Group Ltd - Class A Ordinary Shares
 CII - BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock
 CIIT - Tianci International, Inc. - Common Stock
 CIK - Credit Suisse Asset Management Income Fund, Inc. Common Stock
@@ -3243,7 +3240,6 @@ ELE - Elemental Royalty Corporation - Common Stock
 ELF - e.l.f. Beauty, Inc. Common Stock
 ELFY - ALPS Electrification Infrastructure ETF
 ELIL - Direxion Daily LLY Bull 2X ETF
-ELIS - Direxion Daily LLY Bear 1X ETF
 ELLA - Ellington Credit Company 8.50% Notes due 2031
 ELLO - Ellomay Capital Ltd Ordinary Shares (Israel)
 ELM - Elm Market Navigator ETF
@@ -3615,7 +3611,7 @@ FAD - First Trust Multi Cap Growth AlphaDEX Fund
 FAF - First American Corporation (New) Common Stock
 FAI - First Trust Bloomberg Artificial Intelligence ETF
 FALN - iShares Fallen Angels USD Bond ETF
-FAMI - Farmmi, INC. - Class A Ordinary Share
+FAMI - Farmmi, Inc. - Class A Ordinary Shares
 FAN - First Trust Global Wind Energy ETF
 FANG - Diamondback Energy, Inc. - Common Stock
 FAPR - FT Vest U.S. Equity Buffer ETF - April
@@ -4064,9 +4060,7 @@ FRA - Blackrock Floating Rate Income Strategies Fund Inc  Common Stock
 FRAF - Franklin Financial Services Corporation - Common Stock
 FRBA - First Bank  - Common Stock
 FRD - Friedman Industries Inc. - Common Stock
-FRDD - Direxion Daily F Bear 1X ETF
 FRDM - Freedom 100 Emerging Markets ETF
-FRDU - Direxion Daily F Bull 2X ETF
 FREL - Fidelity MSCI Real Estate Index ETF
 FRGN - Horizon International Equity ETF
 FRGT - Freight Technologies, Inc. - Ordinary Shares
@@ -6353,7 +6347,6 @@ LLYVK - Liberty Live Holdings, Inc. - Series C Liberty Live Group Common Stock
 LLYX - Defiance Daily Target 2X Long LLY ETF
 LMAT - LeMaitre Vascular, Inc. - Common Stock
 LMB - Limbach Holdings, Inc. - Common Stock
-LMBO - Direxion Daily Crypto Industry Bull 2X ETF
 LMBS - First Trust Low Duration Opportunities ETF
 LMFA - LM Funding America, Inc. - Common Stock
 LMND - Lemonade, Inc. Common Stock
@@ -6362,7 +6355,6 @@ LMNX - Defiance Daily Target 2x Long LMND ETF
 LMRI - Lumexa Imaging Holdings, Inc. - Common Stock
 LMT - Lockheed Martin Corporation Common Stock
 LMTL - Direxion Daily LMT Bull 2X ETF
-LMTS - Direxion Daily LMT Bear 1X ETF
 LMUB - iShares Long-Term National Muni Bond ETF
 LNAI - Lunai Bioworks Inc. - Common Stock
 LNC - Lincoln National Corporation Common Stock
@@ -7789,8 +7781,6 @@ ONOF - Global X Adaptive U.S. Risk Management ETF
 ONON - On Holding AG Class A Ordinary Shares
 ONTO - Onto Innovation Inc. Common Stock
 OOMA - Ooma, Inc. Common Stock
-OOQB - One One Nasdaq-100 and Bitcoin ETF
-OOSB - One One S&P 500 and Bitcoin ETF
 OOSP - Obra Opportunistic Structured Products ETF
 OPAD - Offerpad Solutions Inc. Class A Common Stock
 OPAL - OPAL Fuels Inc. - Class A Common Stock
@@ -8872,7 +8862,6 @@ REI - Ring Energy, Inc. Common Stock
 REIT - ALPS Active REIT ETF
 REK - ProShares Short Real Estate
 REKR - Rekor Systems, Inc. - Common Stock
-REKT - Direxion Daily Crypto Industry Bear 1X ETF
 RELL - Richardson Electronics, Ltd. - Common Stock
 RELX - RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)
 RELY - Remitly Global, Inc. - Common stock
@@ -9514,7 +9503,6 @@ SHO - Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Share
 SHOC - Strive U.S. Semiconductor ETF
 SHOO - Steven Madden, Ltd. - Common Stock
 SHOP - Shopify Inc. - Class A Subordinate Voting Shares
-SHPD - Direxion Daily SHOP Bear 1X ETF
 SHPH - Shuttle Pharmaceuticals Holdings, Inc. - common stock
 SHPP - Pacer Industrials and Logistics ETF
 SHPU - Direxion Daily SHOP Bull 2X ETF
@@ -10350,7 +10338,7 @@ TGEN - Tecogen Inc. Common Stock
 TGHL - The GrowHub Limited - Class A Ordinary Shares
 TGL - Treasure Global Inc. - Common Stock
 TGLB - T. Rowe Price Global Equity ETF
-TGLR - LAFFER TENGLER Equity Income ETF
+TGLR - Wedbush LAFFER TENGLER New Era Value ETF
 TGLS - Tecnoglass Inc. Ordinary Shares
 TGRT - T. Rowe Price Growth ETF
 TGRW - T. Rowe Price Growth Stock ETF
@@ -11694,7 +11682,6 @@ XOMAO - XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulat
 XOMAP - XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock
 XOMO - YieldMax XOM Option Income Strategy ETF
 XOMX - Direxion Daily XOM Bull 2X ETF
-XOMZ - Direxion Daily XOM Bear 1X ETF
 XONE - BondBloxx Bloomberg One Year Target Duration US Treasury ETF
 XOP - State Street SPDR S&P Oil & Gas Exploration & Production ETF
 XOS - Xos, Inc. - Common Stock
