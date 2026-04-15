@@ -82,6 +82,7 @@ ABXL - Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028
 ACA - Arcosa, Inc. Common Stock 
 ACAA - Averin Capital Acquisition Corp. - Class A Ordinary Shares
 ACAAU - Averin Capital Acquisition Corp. - Units
+ACAAW - Averin Capital Acquisition Corp. - Warrants
 ACAD - ACADIA Pharmaceuticals Inc. - Common Stock
 ACB - Aurora Cannabis Inc. - Common Shares
 ACCL - Acco Group Holdings Limited - Class A Ordinary Shares
@@ -448,7 +449,7 @@ AMBR - Amber International Holding Limited - American Depositary Shares
 AMC - AMC Entertainment Holdings, Inc. Class A Common Stock
 AMCI - AMC Robotics Corporation - Common Stock
 AMCR - Amcor plc Ordinary Shares
-AMCX - AMC Networks Inc. - Class A Common Stock
+AMCX - AMC Global Media Inc. - Class A Common Stock
 AMD - Advanced Micro Devices, Inc. - Common Stock
 AMDD - Direxion Daily AMD Bear 1X ETF
 AMDG - Leverage Shares 2X Long AMD Daily ETF
@@ -560,7 +561,6 @@ AOUT - American Outdoor Brands, Inc. - Common Stock
 AP - Ampco-Pittsburgh Corporation Common Stock
 APA - APA Corporation - Common Stock
 APAC - StoneBridge Acquisition II Corporation - Class A Ordinary Shares
-APACR - StoneBridge Acquisition II Corporation - Rights
 APACU - StoneBridge Acquisition II Corporation - Units
 APAD - A Paradise Acquisition Corp. - Class A Ordinary Shares
 APADR - A Paradise Acquisition Corp. - Rights
@@ -903,7 +903,6 @@ AXGN - Axogen, Inc. - Common Stock
 AXIA - AXIA Energia American Depositary Shares (Each representing one Common Share)
 AXIL - AXIL Brands, Inc. Common Stock
 AXIN - Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares
-AXINR - Axiom Intelligence Acquisition Corp 1 - Right
 AXINU - Axiom Intelligence Acquisition Corp 1 - Units
 AXON - Axon Enterprise, Inc. - Common Stock
 AXP - American Express Company Common Stock
@@ -1994,7 +1993,6 @@ CHNR - China Natural Resources, Inc. - Common Shares
 CHNU - 2x Chainlink ETF
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
-CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -2525,6 +2523,7 @@ CWS - AdvisorShares Focused Equity ETF
 CWST - Casella Waste Systems, Inc. - Class A Common Stock
 CWT - California Water Service Group Common Stock
 CWVX - Tradr 2X Long CRWV Daily ETF
+CWY - GraniteShares YieldBOOST CRWV ETF
 CX - Cemex, S.A.B. de C.V. Sponsored ADR
 CXAI - CXApp Inc. - Class A Common Stock
 CXAIW - CXApp Inc. - Warrant
@@ -2971,7 +2970,7 @@ DTRE - First Trust Alerian Disruptive Technology Real Estate ETF
 DTSQ - DT Cloud Star Acquisition Corporation - Ordinary Shares
 DTSQR - DT Cloud Star Acquisition Corporation - Right
 DTSQU - DT Cloud Star Acquisition Corporation - Units
-DTSS - Datasea Inc. - Common Stock
+DTSS - Datasea Intelligent Technology Ltd. - Class A Ordinary Shares
 DTST - Data Storage Corporation - Common Stock
 DTSTW - Data Storage Corporation - Warrant
 DTW - DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077
@@ -3488,7 +3487,6 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X ETF
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -4201,7 +4199,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4460,6 +4457,7 @@ GLDN - Nicholas Gold Income ETF
 GLDW - Roundhill Gold WeeklyPay ETF
 GLDY - Defiance Gold Enhanced Options Income ETF
 GLE - Global Engine Group Holding Limited - Class A Ordinary Shares
+GLED - GalaxyEdge Acquisition Corporation Ordinary Shares
 GLGG - Leverage Shares 2X Long GLXY Daily ETF
 GLIBA - GCI Liberty, Inc. - Series A GCI Group Common Stock
 GLIBK - GCI Liberty, Inc. - Series C GCI Group Common Stock
@@ -5670,6 +5668,7 @@ IWML - ETRACS 2x Leveraged US Size Factor TR ETN
 IWMW - iShares Russell 2000 BuyWrite ETF
 IWMY - Defiance R2000 Weekly Distribution ETF
 IWN - iShares Russell 2000 Value ETF
+IWO - iShares Russell 2000 Growth Fund
 IWP - iShares Russell Midcap Growth ETF
 IWR - iShares Russell Mid-Cap ETF
 IWS - iShares Russell Mid-Cap Value ETF
@@ -6254,7 +6253,6 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LFAC - Leapfrog Acquisition Corporation - Class A Ordinary Shares
 LFACU - Leapfrog Acquisition Corporation - Units
-LFACW - Leapfrog Acquisition Corporation - Warrants
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
@@ -6946,7 +6944,6 @@ MQY - Blackrock MuniYield Quality Fund, Inc. Common Stock
 MRAL - GraniteShares 2x Long MARA Daily ETF
 MRAM - Everspin Technologies, Inc. - Common Stock
 MRBK - Meridian Corporation - Common Stock
-MRCC - Monroe Capital Corporation - Closed End Fund
 MRCP - PGIM S&P 500 Buffer 12 ETF - March
 MRCY - Mercury Systems Inc - Common Stock
 MRDN - Meridian Holdings Inc. - Common Stock
@@ -7014,7 +7011,6 @@ MSST - YieldMax MSTR Performance & Distribution Target 25 ETF
 MST - Defiance Leveraged Long + Income MSTR ETF
 MSTB - LHA Market State Tactical Beta ETF
 MSTI - Madison Short Term Strategic Income ETF
-MSTK - Tuttle Capital MSTR 0DTE Covered Call ETF
 MSTP - GraniteShares 2x Long MSTR Daily ETF
 MSTQ - LHA Market State Tactical Q ETF
 MSTR - Strategy Inc - Class A Common Stock
@@ -7026,6 +7022,7 @@ MSTZ - T-Rex 2X Inverse MSTR Daily Target ETF
 MSW - Ming Shing Group Holdings Limited - Ordinary Shares
 MT - Arcelor Mittal NY Registry Shares NEW
 MTA - Metalla Royalty & Streaming Ltd. Common Shares
+MTAL - Metals Acquisition Corp. II Class A Ordinary Shares
 MTB - M&T Bank Corporation Common Stock
 MTBA - Simplify MBS ETF
 MTC - MMTec, Inc. - Common Shares
@@ -7079,6 +7076,7 @@ MUSQ - MUSQ Global Music Industry Index ETF
 MUST - Columbia Multi-Sector Municipal Income ETF
 MUU - Direxion Daily MU Bull 2X ETF
 MUX - McEwen Inc. Common Stock
+MUYY - GraniteShares YieldBOOST MU ETF
 MUZE - Muzero Acquisition Corp - Class A Ordinary Shares
 MUZEU - Muzero Acquisition Corp - Unit
 MUZEW - Muzero Acquisition Corp - Warrant
@@ -7141,6 +7139,7 @@ MYRG - MYR Group, Inc. - Common Stock
 MYSE - Myseum, Inc. - Common Stock
 MYSEW - Myseum, Inc. - Series A Warrant
 MYSZ - My Size, Inc. - Common Stock
+MYXXU - Maywood Acquisition Corp. 2 - Units
 MYY - ProShares Short MidCap400
 MZTI - The Marzetti Company - Common Stock
 MZZ - ProShares UltraShort MidCap400
@@ -7278,6 +7277,7 @@ NEXA - Nexa Resources S.A. Common Shares
 NEXM - NexMetals Mining Corp. - Common Stock
 NEXN - Nexxen International Ltd. - Ordinary Shares
 NEXR - Nexera Technologies Ltd - Ordinary Shares
+NEXRW - Nexera Technologies Ltd - Warrant
 NEXT - NextDecade Corporation - Common Stock
 NFBK - Northfield Bancorp, Inc. - Common Stock
 NFE - New Fortress Energy Inc. - Class A Common Stock
@@ -7319,6 +7319,7 @@ NHYM - Nuveen High Yield Municipal Income ETF
 NI - NiSource Inc Common Stock
 NIC - Nicolet Bankshares Inc. Common Stock
 NICE - NICE Ltd - American Depositary Shares each representing one Ordinary Share
+NICM - Nicola Mining Inc. - American Depositary Shares
 NIE - Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest
 NIHI - NEOS MSCI EAFE High Income ETF
 NIKL - Sprott Nickel Miners ETF
@@ -7397,7 +7398,6 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
-NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
 NOEQ - Northern Trust US Equity ETF
@@ -8226,6 +8226,8 @@ PLBL - Polibeli Group Ltd - Class A Ordinary Shares
 PLBY - Playboy, Inc. - Common Stock
 PLCE - Children's Place, Inc. (The) - Common Stock
 PLD - Prologis, Inc. Common Stock
+PLDR - Putnam Sustainable Leaders ETF
+PLG - Platinum Group Metals Ltd. Ordinary Shares (Canada)
 PLGI - PL Growth and Income ETF
 PLMK - Plum Acquisition Corp. IV - Class A Ordinary Shares
 PLMKU - Plum Acquisition Corp. IV - Unit
@@ -8278,6 +8280,7 @@ PMJA - PGIM S&P 500 Max Buffer ETF - January
 PMJL - PGIM S&P 500 Max Buffer ETF - July
 PMJN - PGIM S&P 500 Max Buffer ETF - June
 PML - Pimco Municipal Income Fund II Common Shares of Beneficial Interest
+PMM - Putnam Managed Municipal Income Trust Common Stock
 PMMF - iShares Prime Money Market ETF
 PMMR - PGIM S&P 500 Max Buffer ETF - March
 PMMY - PGIM S&P 500 Max Buffer ETF - May
@@ -8606,6 +8609,7 @@ QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
 QEW - Invesco QQQ Equal Weight ETF
+QFHD - Pacer S&P 500 Quality FCF High Dividend ETF
 QFIN - Qfin Holdings, Inc.  - American Depositary Shares
 QFLR - Innovator Nasdaq-100 Managed Floor ETF
 QFRD - Pacer S&P 500 Quality FCF R&D Leaders
@@ -8889,7 +8893,6 @@ RFAI - RF Acquisition Corp II - Ordinary Shares
 RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
 RFAM - RF Acquisition Corp III - Ordinary Shares
-RFAMR - RF Acquisition Corp III - Rights
 RFAMU - RF Acquisition Corp III - Units
 RFCI - ALPS Dynamic Core Income ETF
 RFDA - ALPS Dynamic US Dividend Advantage ETF
@@ -8988,6 +8991,7 @@ RM - Regional Management Corp. Common Stock
 RMAX - RE/MAX Holdings, Inc. Class A Common Stock
 RMBI - Richmond Mutual Bancorporation, Inc. - Common Stock
 RMBS - Rambus, Inc. - Common Stock
+RMCA - Rockefeller California Municipal Bond ETF
 RMCF - Rocky Mountain Chocolate Factory, Inc. - Common Stock
 RMCO - Royalty Management Holding Corporation - Class A Common Stock
 RMCOW - Royalty Management Holding Corporation - Warrant
@@ -10473,6 +10477,7 @@ TMUSL - T-Mobile US, Inc. - 6.250% Senior Notes due 2069
 TMUSZ - T-Mobile US, Inc. - 5.500% Senior Notes due March 2070
 TMV - Direxion Daily 20-Year Treasury Bear 3X
 TMVE - Thrivent Mid Cap Value ETF
+TMYY - GraniteShares YieldBOOST TSM ETF
 TNA - Direxion Small Cap Bull 3X ETF
 TNC - Tennant Company Common Stock
 TNDM - Tandem Diabetes Care, Inc. - Common Stock
@@ -10911,6 +10916,7 @@ USE - USCF Energy Commodity Strategy Absolute Return Fund
 USEA - United Maritime Corporation - Common Stock
 USEG - U.S. Energy Corp. - Common Stock
 USEP - Innovator U.S. Equity Ultra Buffer ETF - September
+USEW - Cambria US EW ETF
 USFD - US Foods Holding Corp. Common Stock
 USFE - First Eagle US Equity ETF
 USFI - BrandywineGLOBAL - U.S. Fixed Income ETF
@@ -11503,7 +11509,6 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
-WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
@@ -11794,7 +11799,6 @@ YGLD - Simplify Gold Strategy PLUS Income ETF
 YHC - LQR House Inc. - Common Stock
 YHGJ - Yunhong Green CTI Ltd. - Common Stock
 YHNA - YHN Acquisition I Limited - Ordinary Shares
-YHNAR - YHN Acquisition I Limited - Right
 YHNAU - YHN Acquisition I Limited - Unit
 YI - 111, Inc. - American Depositary Shares
 YIBO - Planet Image International Limited - Class A Ordinary Shares
@@ -11907,6 +11911,7 @@ ZSTK - ZeroStack Corp. - Common Stock
 ZTAX - X-Square Municipal Income ETF
 ZTEK - Zentek Ltd. - common stock
 ZTEN - F/m 10-Year Investment Grade Corporate Bond ETF
+ZTG - Zenta Group Company Limited - Class A Ordinary Shares
 ZTO - ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.
 ZTOP - F/m High Yield 100 ETF
 ZTR - Virtus Total Return Fund Inc.
