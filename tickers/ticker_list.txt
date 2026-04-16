@@ -13,6 +13,7 @@ AACIU - Armada Acquisition Corp. III - Units
 AACIW - Armada Acquisition Corp. III - Warrant
 AACO - Abony Acquisition Corp. I - Class A Ordinary Share
 AACOU - Abony Acquisition Corp. I - Units
+AACOW - Abony Acquisition Corp. I - Warrants
 AACPU - Apogee Acquisition Corp - Units
 AADR - AdvisorShares Dorsey Wright ADR ETF
 AAEQ - Alpha Architect US Equity 2 ETF
@@ -733,7 +734,6 @@ ASMU - Direxion Daily ASML Bull 2X ETF
 ASND - Ascendis Pharma A/S - American Depositary Shares
 ASO - Academy Sports and Outdoors, Inc. - Common Stock
 ASPC - A SPAC III Acquisition Corp. - Class A Ordinary Shares
-ASPCR - A SPAC III Acquisition Corp. - Right
 ASPCU - A SPAC III Acquisition Corp. - Unit
 ASPI - ASP Isotopes Inc. - Common Stock
 ASPN - Aspen Aerogels, Inc. Common Stock
@@ -978,6 +978,7 @@ BATRA - Atlanta Braves Holdings, Inc. - Series A Common Stock
 BATRK - Atlanta Braves Holdings, Inc. - Series C Common Stock
 BATT - Amplify Lithium & Battery Technology ETF
 BAUG - Innovator U.S. Equity Buffer ETF - August
+BAVA - Common Shares of Beneficial Interest of Bitwise Avalanche ETF
 BAX - Baxter International Inc. Common Stock
 BAYA - Bayview Acquisition Corp - Ordinary Share
 BAYAR - Bayview Acquisition Corp - Right
@@ -1380,6 +1381,7 @@ BNAIW - Brand Engagement Network Inc. - Warrant
 BNBX - BNB Plus Corp. - Common Stock
 BNC - CEA Industries Inc. - Common Stock
 BNCWW - CEA Industries Inc. - Warrant
+BNCWZ - CEA Industries Inc. - Warrants
 BND - Vanguard Total Bond Market ETF
 BNDC - FlexShares Core Select Bond Fund
 BNDD - Quadratic Deflation ETF
@@ -1966,7 +1968,6 @@ CGXU - Capital Group International Focus Equity ETF
 CHA - Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share
 CHAI - Core AI Holdings, Inc. - Common Shares
 CHAR - Charlton Aria Acquisition Corporation - Class A Ordinary Shares
-CHARR - Charlton Aria Acquisition Corporation - Rights
 CHARU - Charlton Aria Acquisition Corporation - Units
 CHAT - Roundhill Generative AI & Technology ETF
 CHAU - Direxion Daily CSI 300 China A Share Bull 2X ETF
@@ -2895,6 +2896,7 @@ DOW - Dow Inc. Common Stock
 DOX - Amdocs Limited - Ordinary Shares
 DOYU - DouYu International Holdings Limited - American Depositary Shares
 DPG - Duff & Phelps Utility and Infrastructure Fund Inc.
+DPRE - Virtus Duff & Phelps Real Estate Income ETF
 DPRO - Draganfly Inc. - Common Shares
 DPST - Direxion Daily Regional Banks Bull 3X ETF
 DPZ - Domino's Pizza Inc - Common Stock
@@ -3283,7 +3285,6 @@ EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
-EMISR - Emmis Acquisition Corp. - Rights
 EMKT - Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
@@ -3487,6 +3488,7 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
+EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X ETF
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -5759,7 +5761,6 @@ JEDI - Defiance Drone and Modern Warfare ETF
 JEF - Jefferies Financial Group Inc. Common Stock
 JELD - JELD-WEN Holding, Inc. Common Stock
 JEM - 707 Cayman Holdings Limited - Ordinary Shares
-JEMA - JPMorgan ActiveBuilders Emerging Markets Equity ETF
 JEMB - Janus Henderson Emerging Markets Debt Hard Currency ETF
 JENA - Jena Acquisition Corporation II Class A Ordinary Shares
 JEPI - JPMorgan Equity Premium Income ETF
@@ -5841,7 +5842,6 @@ JOET - Virtus Terranova U.S. Quality Momentum ETF
 JOF - Japan Smaller Capitalization Fund Inc Common Stock
 JOJO - ATAC Credit Rotation ETF
 JOUT - Johnson Outdoors Inc. - Class A Common Stock
-JOYT - JPMorgan Equity and Options Total Return ETF
 JOYY - JOYY Inc. - American Depositary Shares
 JPAN - Matthews Japan Active ETF
 JPC - Nuveen Preferred & Income Opportunities Fund
@@ -6253,6 +6253,7 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LFAC - Leapfrog Acquisition Corporation - Class A Ordinary Shares
 LFACU - Leapfrog Acquisition Corporation - Units
+LFACW - Leapfrog Acquisition Corporation - Warrants
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
@@ -6477,7 +6478,6 @@ LUNL - Defiance Daily Target 2X Long LUNR ETF
 LUNR - Intuitive Machines, Inc. - Class A Common Stock
 LUV - Southwest Airlines Company Common Stock
 LUXE - LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share
-LVDS - JPMorgan Fundamental Data Science Large Value ETF
 LVHD - Franklin U.S. Low Volatility High Dividend Index ETF
 LVHI - Franklin International Low Volatility High Dividend Index ETF
 LVIG - Longview Advantage Fixed Income ETF
@@ -6873,6 +6873,7 @@ MMT - MFS Multimarket Income Trust Common Stock
 MMTM - State Street SPDR S&P 1500 Momentum Tilt ETF
 MMTX - Miluna Acquisition Corp - Class A Ordinary Shares
 MMTXU - Miluna Acquisition Corp - Units
+MMTXW - Miluna Acquisition Corp - Warrant
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MNA - NYLI Merger Arbitrage ETF
@@ -7310,6 +7311,7 @@ NHI - National Health Investors, Inc. Common Stock
 NHIC - NewHold Investment Corp III - Class A Ordinary shares
 NHICU - NewHold Investment Corp III - Units
 NHICW - NewHold Investment Corp III - Warrants
+NHIVU - NewHold Investment Corp IV - Units
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger High Yield Strategies Fund Inc. Common Stock
@@ -7813,6 +7815,7 @@ OPY - Oppenheimer Holdings, Inc. Class A Common Stock (DE)
 OR - OR Royalties Inc. Common Shares
 ORA - Ormat Technologies, Inc. Common Stock
 ORBS - Eightco Holdings Inc. - Common Stock
+ORBX - Global X Space Tech ETF
 ORC - Orchid Island Capital, Inc. Common Stock
 ORCL - Oracle Corporation Common Stock
 ORCS - Direxion Daily ORCL Bear 1X ETF
@@ -7940,6 +7943,7 @@ PALI - Palisade Bio, Inc. - Common Stock
 PALL - abrdn Physical Palladium Shares ETF
 PALO - Paloma Acquisition Corp I - Class A Ordinary Shares
 PALOU - Paloma Acquisition Corp I - Units
+PALOW - Paloma Acquisition Corp I - Warrants
 PALU - Direxion Daily PANW Bull 2X ETF
 PAM - Pampa Energia S.A.
 PAMC - Pacer Lunt MidCap Multi-Factor Alternator ETF
@@ -8884,6 +8888,7 @@ REVBW - Revelation Biosciences, Inc. - Warrant
 REVS - Columbia Research Enhanced Value ETF
 REW - ProShares UltraShort Technology
 REX - REX American Resources Corporation
+REXC - Sprott Rare Earths Ex-China ETF
 REXR - Rexford Industrial Realty, Inc. Common Stock
 REYN - Reynolds Consumer Products Inc. - Common Stock
 REZ - iShares Residential and Multisector Real Estate ETF
@@ -9816,6 +9821,7 @@ SPCK - SPAC and New Issue ETF
 SPCT - Liberty One Spectrum ETF
 SPCZ - RiverNorth Enhanced Pre-Merger SPAC ETF
 SPD - Simplify US Equity PLUS Downside Convexity ETF
+SPDF - Defender Risk Adaptive 500 ETF
 SPDG - State Street SPDR Portfolio S&P Sector Neutral Dividend ETF
 SPDN - Direxion Daily S&P 500 Bear 1X ETF
 SPDV - AAM S&P 500 High Dividend Value ETF
@@ -10283,7 +10289,7 @@ TEC - Harbor Transformative Technologies ETF
 TECB - iShares U.S. Tech Breakthrough Multisector ETF
 TECH - Bio-Techne Corp - Common Stock
 TECK - Teck Resources Ltd Ordinary Shares
-TECL - Direxion Daily S&P 500 Bear 3X ETF
+TECL - Direxion Daily Technology Bull 3X ETF
 TECS - Direxion Technology Bear 3X ETF
 TECX - Tectonic Therapeutic, Inc. - Common Stock
 TEI - Templeton Emerging Markets Income Fund, Inc. Common Stock
@@ -11412,7 +11418,6 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
-WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
