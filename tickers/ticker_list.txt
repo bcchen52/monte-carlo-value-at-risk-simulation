@@ -411,6 +411,7 @@ ALLT - Allot Ltd. - Ordinary Shares
 ALLW - State Street Bridgewater All Weather ETF
 ALLY - Ally Financial Inc. Common Stock
 ALM - Almonty Industries Inc. - Common Shares
+ALMR - Alamar Biosciences, Inc. - Class A common stock
 ALMS - Alumis Inc. - Common Stock
 ALMU - Aeluma, Inc. - Common Stock
 ALNT - Allient Inc. - Common Stock
@@ -691,6 +692,7 @@ ARR - ARMOUR Residential REIT, Inc.
 ARRY - Array Technologies, Inc. - Common Stock
 ARTC - Art Technology Acquisition Corp. - Class A Ordinary Shares
 ARTCU - Art Technology Acquisition Corp. - Units
+ARTCW - Art Technology Acquisition Corp. - Warrants
 ARTL - Artelo Biosciences, Inc. - Common Stock
 ARTNA - Artesian Resources Corporation - Class A Non-Voting Common Stock
 ARTV - Artiva Biotherapeutics, Inc. - Common Stock
@@ -843,6 +845,7 @@ AVDV - Avantis International Small Cap Value ETF
 AVEE - Avantis Emerging Markets Small Cap Equity ETF
 AVEM - Avantis Emerging Markets Equity ETF
 AVES - Avantis Emerging Markets Value ETF
+AVEX - AEVEX Corp. Class A Common Stock
 AVGB - Avantis Credit ETF
 AVGE - Avantis All Equity Markets ETF
 AVGG - Leverage Shares 2X Long AVGO Daily ETF
@@ -1447,7 +1450,6 @@ BOXL - Boxlight Corporation - Class A Common Stock
 BOXX - Alpha Architect 1-3 Month Box ETF
 BP - BP p.l.c. Common Stock
 BPAC - Blueport Acquisition Ltd - Class A Ordinary Shares
-BPACR - Blueport Acquisition Ltd - Rights
 BPACU - Blueport Acquisition Ltd - Units
 BPAY - iShares FinTech Active ETF
 BPH - BP plc ADRhedged
@@ -1738,7 +1740,6 @@ CAOS - Alpha Architect Tail Risk ETF
 CAPE - DoubleLine Shiller CAPE U.S. Equities ETF
 CAPL - CrossAmerica Partners LP Common Units representing limited partner interests
 CAPN - Cayson Acquisition Corp - Ordinary Shares
-CAPNR - Cayson Acquisition Corp - Right
 CAPNU - Cayson Acquisition Corp - Units
 CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
@@ -1787,6 +1788,7 @@ CBOJ - Calamos Bitcoin Structured Alt Protection ETF - January
 CBOL - Calamos Laddered Bitcoin Structured Alt Protection ETF
 CBON - VanEck China Bond ETF
 CBOO - Calamos Bitcoin Structured Alt Protection ETF - October
+CBOX - Calamos Tax-Aware Collateral ETF
 CBOY - Calamos Bitcoin Structured Alt Protection ETF - July
 CBRE - CBRE Group Inc Common Stock Class A
 CBRL - Cracker Barrel Old Country Store, Inc. - Common Stock
@@ -2001,6 +2003,7 @@ CHNR - China Natural Resources, Inc. - Common Shares
 CHNU - 2x Chainlink ETF
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
+CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -2329,7 +2332,6 @@ CRAN - Crane Harbor Acquisition Corp. II - Class A Ordinary Shares
 CRANR - Crane Harbor Acquisition Corp. II - Rights
 CRANU - Crane Harbor Acquisition Corp. II - Units
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
-CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -2599,6 +2601,7 @@ DBB - Invesco DB Base Metals Fund
 DBC - Invesco DB Commodity Index Tracking Fund
 DBCA - D. Boral Acquisition I Corp. - Class A Ordinary Shares
 DBCAU - D. Boral Acquisition I Corp. - Unit
+DBCAW - D. Boral Acquisition I Corp. - Warrants
 DBD - Diebold Nixdorf Incorporated Common stock
 DBE - Invesco DB Energy Fund
 DBEF - Xtrackers MSCI EAFE Hedged Equity ETF
@@ -5736,6 +5739,7 @@ JANW - AllianzIM U.S. Large Cap Buffer20 Jan ETF
 JANX - Janux Therapeutics, Inc. - Common Stock
 JANZ - TrueShares Structured Outcome (January) ETF
 JAPN - Horizon Kinetics Japan Owner Operator ETF
+JATT - JATT II Acquisition Corp - Ordinary Shares
 JAVA - JPMorgan Active Value ETF
 JAZZ - Jazz Pharmaceuticals plc - Ordinary Shares
 JBBB - Janus Henderson B-BBB CLO ETF
@@ -6023,6 +6027,7 @@ KLIC - Kulicke and Soffa Industries, Inc. - Common Stock
 KLIP - KraneShares KWEB Covered Call Strategy ETF
 KLMN - Invesco MSCI North America Climate ETF
 KLMT - Invesco MSCI Global Climate 500 ETF
+KLRA - Kailera Therapeutics, Inc. - Common stock
 KLRS - Kalaris Therapeutics, Inc.  - Common Stock
 KLTR - Kaltura, Inc. - Common Stock
 KLXE - KLX Energy Services Holdings, Inc.  - Common Stock
@@ -7413,6 +7418,7 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
+NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
 NOEQ - Northern Trust US Equity ETF
@@ -7730,6 +7736,7 @@ OILT - Texas Capital Texas Oil Index ETF
 OILU - MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN
 OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
+OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
 OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
@@ -7926,6 +7933,7 @@ OZ - Belpointe PREP, LLC Class A Units
 OZEM - Roundhill GLP-1 & Weight Loss ETF
 OZK - Bank OZK - Common Stock
 OZKAP - Bank OZK - 4.625% Series A Non-Cumulative Perpetual Preferred Stock
+P - Everpure, Inc. Class A common stock
 PAA - Plains All American Pipeline, L.P. - Common Units representing Limited Partner Interests
 PAAA - PGIM AAA CLO ETF
 PAAC - Proem Acquisition Corp I - Ordinary Shares
@@ -8400,7 +8408,6 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
-PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - State Street IG Public & Private Credit ETF
@@ -8701,6 +8708,7 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation - Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
+QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSI - Quantum-Si Incorporated - Class A Common Stock
 QSIAW - Quantum-Si Incorporated - Warrant
@@ -8950,7 +8958,6 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
-RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -9829,6 +9836,7 @@ SPCB - SuperCom, Ltd. - Ordinary Shares
 SPCE - Virgin Galactic Holdings, Inc. Common Stock
 SPCI - Tuttle Capital Space Industry Income Blast ETF
 SPCK - SPAC and New Issue ETF
+SPCL - Defiance Pure Space Daily 2X Strategy ETF
 SPCT - Liberty One Spectrum ETF
 SPCZ - RiverNorth Enhanced Pre-Merger SPAC ETF
 SPD - Simplify US Equity PLUS Downside Convexity ETF
@@ -10487,6 +10495,7 @@ TMSF - T. Rowe Price Multi-Sector Income ETF
 TMSL - T. Rowe Price Small-Mid Cap ETF
 TMTS - Spartacus Acquisition Corp. II - Class A Ordinary Shares
 TMTSU - Spartacus Acquisition Corp. II - Unit
+TMTSW - Spartacus Acquisition Corp. II - Warrants
 TMUS - T-Mobile US, Inc. - Common Stock
 TMUSI - T-Mobile US, Inc. - 5.500% Senior Notes due June 2070
 TMUSL - T-Mobile US, Inc. - 6.250% Senior Notes due 2069
