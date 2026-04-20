@@ -514,7 +514,6 @@ AMZY - YieldMax AMZN Option Income Strategy ETF
 AMZZ - GraniteShares 2x Long AMZN Daily ETF
 AN - AutoNation, Inc. Common Stock
 ANAB - AnaptysBio, Inc. - Common Stock
-ANABV - AnaptysBio, Inc. - Common Stock When Issued
 ANDE - The Andersons, Inc. - Common Stock
 ANDG - Andersen Group Inc. Class A Common Stock
 ANEL - Defiance Daily Target 2x Long ANET ETF
@@ -735,7 +734,7 @@ ASMG - Leverage Shares 2X Long ASML Daily ETF
 ASMH - ASML Holding NV ADRhedged
 ASML - ASML Holding N.V. - New York Registry Shares
 ASMU - Direxion Daily ASML Bull 2X ETF
-ASND - Ascendis Pharma A/S - American Depositary Shares
+ASND - Ascendis Pharma A/S - Ordinary Share
 ASO - Academy Sports and Outdoors, Inc. - Common Stock
 ASPC - A SPAC III Acquisition Corp. - Class A Ordinary Shares
 ASPCR - A SPAC III Acquisition Corp. - Right
@@ -5016,7 +5015,6 @@ HSY - The Hershey Company Common Stock
 HTAB - Hartford Schroders Tax-Aware Bond ETF
 HTAX - Nomura National High-Yield Municipal Bond ETF
 HTB - HomeTrust Bancshares, Inc. Common Stock
-HTBK - Heritage Commerce Corp - Common Stock
 HTCO - High-Trend International Group - Class A Ordinary Shares
 HTCR - Heartcore Enterprises, Inc. - Common Stock
 HTD - John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
@@ -5369,6 +5367,7 @@ ILDR - First Trust Innovation Leaders ETF
 ILF - iShares Latin America 40 ETF
 ILIT - iShares Lithium Miners and Producers ETF
 ILLR - Triller Group Inc. - Common Stock
+ILLRW - Triller Group Inc. - Warrant
 ILLUU - Illumination Acquisition Corp I - Units
 ILMN - Illumina, Inc. - Common Stock
 ILOW - AB International Low Volatility Equity ETF
@@ -8749,8 +8748,6 @@ QUS - State Street SPDR MSCI USA StrategicFactors ETF
 QUSA - VistaShares Target 15 USA Quality Income ETF
 QUVU - Hartford Quality Value ETF
 QVAL - Alpha Architect U.S. Quantitative Value ETF
-QVCC - QVC, Inc. 6.250% Senior Secured Notes due 2068
-QVCD - QVC, Inc. 6.375% Senior Secured Notes due 2067
 QVCGA - QVC Group, Inc. - Series A Common Stock
 QVCGP - QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock
 QVML - Invesco S&P 500 QVM Multi-factor ETF
@@ -10524,7 +10521,6 @@ TOGA - Managed Portfolio Series Tremblant Global ETF
 TOI - The Oncology Institute, Inc. - Common Stock
 TOIIW - The Oncology Institute, Inc. - Warrant
 TOK - iShares MSCI Kokusai ETF
-TOKE - Cambria Cannabis ETF
 TOL - Toll Brothers, Inc. Common Stock
 TOLL - Tema Monopolies and Oligopolies ETF
 TOLZ - ProShares DJ Brookfield Global Infrastructure ETF
@@ -10577,7 +10573,6 @@ TQQY - GraniteShares YieldBOOST QQQ ETF
 TR - Tootsie Roll Industries, Inc. Common Stock
 TRAK - ReposiTrak, Inc. Common Stock
 TRAW - Traws Pharma, Inc. - Common Stock
-TRAXV - First Tracks Biotherapeutics, Inc. - Ordinary Shares
 TRBF - Angel Oak Total Return ETF
 TRC - Tejon Ranch Co Common Stock
 TRDA - Entrada Therapeutics, Inc. - Common Stock
