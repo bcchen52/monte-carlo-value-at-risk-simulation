@@ -793,7 +793,6 @@ ATNI - ATN International, Inc. - Common Stock
 ATNM - Actinium Pharmaceuticals, Inc. (Delaware) Common Stock
 ATO - Atmos Energy Corporation Common Stock
 ATOM - Atomera Incorporated - Common Stock
-ATON - AlphaTON Capital Corp. - Common Stock
 ATOS - Atossa Therapeutics, Inc. - Common Stock
 ATPC - Agape ATP Corporation - Common Stock
 ATR - AptarGroup, Inc. Common Stock
@@ -1449,6 +1448,7 @@ BOXL - Boxlight Corporation - Class A Common Stock
 BOXX - Alpha Architect 1-3 Month Box ETF
 BP - BP p.l.c. Common Stock
 BPAC - Blueport Acquisition Ltd - Class A Ordinary Shares
+BPACR - Blueport Acquisition Ltd - Rights
 BPACU - Blueport Acquisition Ltd - Units
 BPAY - iShares FinTech Active ETF
 BPH - BP plc ADRhedged
@@ -1739,6 +1739,7 @@ CAOS - Alpha Architect Tail Risk ETF
 CAPE - DoubleLine Shiller CAPE U.S. Equities ETF
 CAPL - CrossAmerica Partners LP Common Units representing limited partner interests
 CAPN - Cayson Acquisition Corp - Ordinary Shares
+CAPNR - Cayson Acquisition Corp - Right
 CAPNU - Cayson Acquisition Corp - Units
 CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
@@ -2331,6 +2332,7 @@ CRAN - Crane Harbor Acquisition Corp. II - Class A Ordinary Shares
 CRANR - Crane Harbor Acquisition Corp. II - Rights
 CRANU - Crane Harbor Acquisition Corp. II - Units
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
+CRAQR - Cal Redwood Acquisition Corp. - Right
 CRAQU - Cal Redwood Acquisition Corp. - Units
 CRBD - Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064
 CRBG - Corebridge Financial Inc. Common Stock
@@ -2753,6 +2755,7 @@ DFUV - Dimensional US Marketwide Value ETF
 DFVE - DoubleLine Fortune 500 Equal Weight ETF
 DFVX - Dimensional US Large Cap Vector ETF
 DG - Dollar General Corporation Common Stock
+DGAP - FT Vest U.S. Equity Buffer & Digital Return ETF - April
 DGCB - Dimensional Global Credit ETF
 DGICA - Donegal Group, Inc. - Class A Common Stock
 DGICB - Donegal Group, Inc. - Class B Common Stock
@@ -2889,7 +2892,6 @@ DOCS - Doximity, Inc. Class A Common Stock
 DOCT - FT Vest U.S. Equity Deep Buffer ETF - October
 DOCU - DocuSign, Inc. - Common Stock
 DOG - ProShares Short Dow30
-DOGD - Tradr 2X Long DDOG Daily ETF
 DOGG - FT Vest DJIA Dogs 10 Target Income ETF
 DOGZ - Dogness (International) Corporation - Class A Common Stock
 DOJE - REX-Osprey DOGE ETF
@@ -3333,7 +3335,6 @@ ENO - Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2
 ENOR - iShares MSCI Norway ETF
 ENOV - Enovis Corporation Common Stock
 ENPH - Enphase Energy, Inc. - Common Stock
-ENPX - Tradr 2X Long ENPH Daily ETF
 ENR - Energizer Holdings, Inc. Common Stock
 ENS - EnerSys Common Stock
 ENSC - Ensysce Biosciences, Inc. - Common Stock
@@ -5368,6 +5369,7 @@ ILF - iShares Latin America 40 ETF
 ILIT - iShares Lithium Miners and Producers ETF
 ILLR - Triller Group Inc. - Common Stock
 ILLRW - Triller Group Inc. - Warrant
+ILLU - Illumination Acquisition Corp I - Class A Ordinary Shares
 ILLUU - Illumination Acquisition Corp I - Units
 ILMN - Illumina, Inc. - Common Stock
 ILOW - AB International Low Volatility Equity ETF
@@ -6667,7 +6669,6 @@ MDAI - Spectral AI, Inc. - Class A Common Stock
 MDAIW - Spectral AI, Inc. - Warrants
 MDB - MongoDB, Inc. - Class A Common Stock
 MDBH - MDB Capital Holdings, LLC - Class A common 
-MDBX - Tradr 2X Long MDB Daily ETF
 MDCX - Medicus Pharma Ltd. - Common Stock
 MDCXW - Medicus Pharma Ltd. - Warrant
 MDEV - First Trust Indxx Medical Devices ETF
@@ -7160,6 +7161,7 @@ MYSZ - My Size, Inc. - Common Stock
 MYXXU - Maywood Acquisition Corp. 2 - Units
 MYY - ProShares Short MidCap400
 MZTI - The Marzetti Company - Common Stock
+MZYX - MOZAYYX Acquisition Corp. Class A Ordinary Shares
 MZZ - ProShares UltraShort MidCap400
 NAAS - NaaS Technology Inc. - American Depositary Shares
 NABL - N-able, Inc. Common Stock
@@ -7401,7 +7403,6 @@ NNAVW - NextNav Inc. - Warrant
 NNBR - NN, Inc. - Common Stock
 NNDM - Nano Dimension Ltd. - American Depositary Shares
 NNE - Nano Nuclear Energy Inc. - common stock
-NNEX - Tradr 2X Long NNE Daily ETF
 NNI - Nelnet, Inc. Common Stock
 NNN - NNN REIT, Inc. Common Stock
 NNNN - Anbio Biotechnology - Class A Ordinary Shares
@@ -8914,6 +8915,7 @@ RFAI - RF Acquisition Corp II - Ordinary Shares
 RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
 RFAM - RF Acquisition Corp III - Ordinary Shares
+RFAMR - RF Acquisition Corp III - Rights
 RFAMU - RF Acquisition Corp III - Units
 RFCI - ALPS Dynamic Core Income ETF
 RFDA - ALPS Dynamic US Dividend Advantage ETF
@@ -8955,6 +8957,7 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
+RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -9163,7 +9166,6 @@ RVMD - Revolution Medicines, Inc. - Common Stock
 RVMDW - Revolution Medicines, Inc. - Warrant
 RVNL - GraniteShares 2x Long RIVN Daily ETF
 RVNU - Xtrackers Municipal Infrastructure Revenue Bond ETF
-RVP - Retractable Technologies, Inc. Common Stock
 RVPH - Reviva Pharmaceuticals Holdings, Inc. - Common Stock
 RVSB - Riverview Bancorp Inc - Common Stock
 RVSN - Rail Vision Ltd. - Ordinary Shares
@@ -9750,7 +9752,6 @@ SNPD - Xtrackers S&P Dividend Aristocrats Screened ETF
 SNPE - Xtrackers S&P 500 Scored & Screened ETF
 SNPG - Xtrackers S&P 500 Growth Scored & Screened ETF
 SNPS - Synopsys, Inc. - Common Stock
-SNPX - Tradr 2X Long SNPS Daily ETF
 SNSE - Sensei Biotherapeutics, Inc. - Common Stock
 SNSR - Global X Internet of Things ETF
 SNT - Senstar Technologies Corporation - Common Shares
@@ -9777,9 +9778,6 @@ SOFI - SoFi Technologies, Inc.  - Common Stock
 SOFR - Amplify Samsung SOFR ETF
 SOFX - Defiance Daily Target 2X Long SOFI ETF
 SOGP - Sound Group Inc. - American Depositary Shares
-SOHOB - Sotherly Hotels Inc. - 8.0% Series B Cumulative Redeemable Perpetual Preferred Stock
-SOHON - Sotherly Hotels Inc. - 8.25% Series D Cumulative Redeemable Perpetual Preferred Stock
-SOHOO - Sotherly Hotels Inc. - 7.875% Series C Cumulative Redeemable Perpetual Preferred Stock
 SOHU - Sohu.com Limited  - American Depositary Shares
 SOJC - Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077
 SOJD - Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080
@@ -10085,6 +10083,8 @@ SUGP - SU Group Holdings Limited - Class A Ordinary Shares
 SUI - Sun Communities, Inc. Common Stock
 SUIG - Sui Group Holdings Limited - Common Stock
 SUIS - Canary Staked SUI ETF
+SUMA - SUMA Acquisition Corporation - Class A Ordinary Shares
+SUMAR - SUMA Acquisition Corporation - Rights
 SUMAU - SUMA Acquisition Corporation - Units
 SUN - Sunoco LP Common Units representing limited partner interests
 SUNB - Sunbelt Rentals Holdings, Inc. Common Stock
@@ -10571,8 +10571,10 @@ TPZ - Tortoise Electrification Infrastructure ETF
 TQQQ - ProShares UltraPro QQQ
 TQQY - GraniteShares YieldBOOST QQQ ETF
 TR - Tootsie Roll Industries, Inc. Common Stock
+TRAD - APEX Tech Acquisition Inc. Ordinary Shares
 TRAK - ReposiTrak, Inc. Common Stock
 TRAW - Traws Pharma, Inc. - Common Stock
+TRAX - First Tracks Biotherapeutics, Inc. - Ordinary Shares
 TRBF - Angel Oak Total Return ETF
 TRC - Tejon Ranch Co Common Stock
 TRDA - Entrada Therapeutics, Inc. - Common Stock
@@ -10581,6 +10583,8 @@ TREX - Trex Company, Inc. Common Stock
 TRFK - Pacer Data and Digital Revolution ETF
 TRFM - AAM Transformers ETF
 TRGP - Targa Resources, Inc. Common Stock
+TRGS - TRG Latin America Acquisitions Corp. - Class A Ordinary Shares
+TRGSR - TRG Latin America Acquisitions Corp. - Rights
 TRGSU - TRG Latin America Acquisitions Corp. - Units
 TRI - Thomson Reuters Corp - Common Shares
 TRIB - Trinity Biotech plc - American Depositary Shares
@@ -11229,7 +11233,6 @@ VOXP - Vox Populi ETF
 VOXR - Vox Royalty Corp. - common stock
 VOYA - Voya Financial, Inc. Common Stock
 VOYG - Voyager Technologies, Inc. Class A Common Stock
-VOYX - Tradr 2X Long VOYG Daily ETF
 VPC - Virtus Private Credit Strategy ETF
 VPG - Vishay Precision Group, Inc. Common Stock
 VPL - Vanguard FTSE Pacific ETF
