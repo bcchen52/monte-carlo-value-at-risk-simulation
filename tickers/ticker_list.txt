@@ -421,6 +421,7 @@ ALOV - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares
 ALOVU - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units
 ALOVW - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants
 ALOY - REalloys Inc. - Common Stock
+ALP - Alpha Compute Corp  - Common Stock
 ALPS - ALPS Group Inc - Ordinary Share
 ALRG - Allspring LT Large Core ETF
 ALRM - Alarm.com Holdings, Inc. - Common Stock
@@ -3408,7 +3409,6 @@ ERIC - Ericsson - American Depositary Shares each representing 1 underlying Clas
 ERIE - Erie Indemnity Company - Class A Common Stock
 ERII - Energy Recovery, Inc. - Common Stock
 ERNA - Ernexa Therapeutics Inc. - Common Stock
-ERNAW - Ernexa Therapeutics Inc. - Warrants
 ERO - Ero Copper Corp. Common Shares
 ERTH - Invesco MSCI Sustainable Future ETF
 ERX - Direxion Energy Bull 2X ETF
@@ -4778,7 +4778,6 @@ HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
 HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
-HAVAR - Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares
 HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWX - iShares Currency Hedged MSCI ACWI ex U.S. ETF
 HAYW - Hayward Holdings, Inc. Common Stock
@@ -5088,6 +5087,7 @@ HYFM - Hydrofarm Holdings Group, Inc. - Common Stock
 HYFT - MindWalk Holdings Corp. - Common Stock
 HYG - iShares iBoxx $ High Yield Corporate Bond ETF
 HYGH - iShares Interest Rate Hedged High Yield Bond ETF
+HYGM - Amplify HYG High Yield 10% Target Income ETF
 HYGV - FlexShares High Yield Value-Scored Bond Index Fund
 HYGW - iShares High Yield Corporate Bond BuyWrite Strategy ETF
 HYHG - ProShares High Yield Interest Rate Hedged
@@ -5371,6 +5371,7 @@ ILLR - Triller Group Inc. - Common Stock
 ILLRW - Triller Group Inc. - Warrant
 ILLU - Illumination Acquisition Corp I - Class A Ordinary Shares
 ILLUU - Illumination Acquisition Corp I - Units
+ILLUW - Illumination Acquisition Corp I - Warrant
 ILMN - Illumina, Inc. - Common Stock
 ILOW - AB International Low Volatility Equity ETF
 ILPT - Industrial Logistics Properties Trust - Common Shares of Beneficial Interest
@@ -6786,6 +6787,8 @@ MH - McGraw Hill, Inc. Common Stock
 MHD - Blackrock MuniHoldings Fund, Inc. Common Stock
 MHF - Western Asset Municipal High Income Fund, Inc. Common Stock
 MHH - Mastech Digital, Inc Common Stock
+MHIG - Milliman Healthcare Inflation Guard ETF
+MHIP - Milliman Healthcare Inflation Plus ETF
 MHK - Mohawk Industries, Inc. Common Stock
 MHLA - Maiden Holdings, Ltd. 6.625% Notes due 2046
 MHNC - Maiden Holdings North America, Ltd. 7.75% Notes due 2043
@@ -7454,7 +7457,7 @@ NPT - Texxon Holding Limited - Ordinary shares
 NPV - Nuveen Virginia Quality Municipal Income Fund Common Stock
 NPWR - NET Power Inc. Class A Common Stock
 NQP - Nuveen Pennsylvania Quality Municipal Income Fund Common Stock
-NRC - National Research Corporation - Common Stock
+NRC - NRC Health - Common Stock
 NRDS - NerdWallet, Inc. - Class A Common Stock
 NRDY - Nerdy Inc. Class A Common Stock
 NREF - NexPoint Real Estate Finance, Inc. Common Stock
@@ -8812,7 +8815,6 @@ RBUF - Innovator U.S. Small Cap 10 Buffer ETF - Quarterly
 RC - Ready Capital Corporation Common Stock
 RCAT - Red Cat Holdings, Inc. - Common Stock
 RCAX - Defiance Daily Target 2x Long RCAT ETF
-RCB - Ready Capital Corporation 6.20% Senior Notes due 2026
 RCD - Ready Capital Corporation 9.00% Senior Notes due 2029
 RCEL - Avita Medical, Inc. - Common Stock
 RCG - RENN Fund, Inc Common Stock
@@ -9166,6 +9168,7 @@ RVMD - Revolution Medicines, Inc. - Common Stock
 RVMDW - Revolution Medicines, Inc. - Warrant
 RVNL - GraniteShares 2x Long RIVN Daily ETF
 RVNU - Xtrackers Municipal Infrastructure Revenue Bond ETF
+RVP - Retractable Technologies, Inc. Common Stock
 RVPH - Reviva Pharmaceuticals Holdings, Inc. - Common Stock
 RVSB - Riverview Bancorp Inc - Common Stock
 RVSN - Rail Vision Ltd. - Ordinary Shares
@@ -10800,6 +10803,7 @@ UCIB - ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Retur
 UCL - uCloudlink Group Inc. - American Depositary Shares
 UCO - ProShares Ultra Bloomberg Crude Oil
 UCON - First Trust Smith Unconstrained Bond ETF
+UCOP - ProShares Ultra Copper K-1 Free ETF
 UCRD - VictoryShares Corporate Bond ETF
 UCTT - Ultra Clean Holdings, Inc. - Common Stock
 UCYB - ProShares Ultra Nasdaq Cybersecurity
@@ -10888,6 +10892,7 @@ UOCT - Innovator U.S. Equity Ultra Buffer ETF - October
 UONE - Urban One, Inc.  - Class A Common Stock
 UONEK - Urban One, Inc.  - Class D Common Stock
 UP - Wheels Up Experience Inc. Class A Common Stock
+UPAL - ProShares Ultra Palladium K-1 Free ETF
 UPAR - UPAR Ultra Risk Parity ETF
 UPB - Upstream Bio, Inc. - Common Stock
 UPBD - Upbound Group, Inc. - Common Stock
@@ -10895,6 +10900,7 @@ UPC - Universe Pharmaceuticals Inc - Class A Ordinary Shares
 UPGD - Invesco Bloomberg Analyst Rating Improvers ETF
 UPGR - Xtrackers US Green Infrastructure Select Equity ETF
 UPLD - Upland Software, Inc. - Common Stock
+UPLT - ProShares Ultra Platinum K-1 Free ETF
 UPRO - ProShares UltraPro S&P 500
 UPS - United Parcel Service, Inc. Common Stock
 UPSD - Aptus Large Cap Upside ETF
