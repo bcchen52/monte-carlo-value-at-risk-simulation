@@ -1143,6 +1143,7 @@ BEPI - Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes
 BEPJ - Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes
 BERZ - MicroSectors FANG & Innovation -3x Inverse Leveraged ETN
 BESF - Bastion Energy ETF
+BESO - GSR Crypto Core3 ETF
 BESS - Bimergen Energy Corporation Common Stock
 BETA - Beta Technologies, Inc. Class A Common Stock
 BETE - ProShares Bitcoin & Ether Equal Weight ETF
@@ -2699,6 +2700,7 @@ DEO - Diageo plc Common Stock
 DERM - Journey Medical Corporation - Common Stock
 DES - WisdomTree U.S. SmallCap Dividend Fund
 DESK - VanEck Office and Commercial REIT ETF
+DETX - Liberty Defense Holdings, Ltd. - Common Shares
 DEUS - Xtrackers Russell US Multifactor ETF
 DEVS - DevvStream Corp. - Common Stock
 DEW - WisdomTree Global High Dividend Fund
@@ -2783,7 +2785,6 @@ DHCNL - Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046
 DHDG - FT Vest U.S. Equity Quarterly 2.5 to 15 Buffer ETF
 DHF - BNY Mellon High Yield Strategies Fund Common Stock
 DHI - D.R. Horton, Inc. Common Stock
-DHIL - Diamond Hill Investment Group, Inc. - Class A Common Stock
 DHLX - Diamond Hill Large Cap Concentrated ETF
 DHR - Danaher Corporation Common Stock
 DHS - WisdomTree U.S. High Dividend Fund
@@ -4211,6 +4212,7 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
+FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -5775,6 +5777,8 @@ JDZG - JIADE LIMITED - Class A Ordinary Shares
 JEDI - Defiance Drone and Modern Warfare ETF
 JEF - Jefferies Financial Group Inc. Common Stock
 JELD - JELD-WEN Holding, Inc. Common Stock
+JELH - Janus Henderson Equity Linked High Income ETF
+JELM - Janus Henderson Equity Linked Moderate Income ETF
 JEM - 707 Cayman Holdings Limited - Ordinary Shares
 JEMA - JPMorgan ActiveBuilders Emerging Markets Equity ETF
 JEMB - Janus Henderson Emerging Markets Debt Hard Currency ETF
@@ -6439,6 +6443,7 @@ LQDA - Liquidia Corporation - Common Stock
 LQDB - iShares BBB Rated Corporate Bond ETF
 LQDH - iShares Interest Rate Hedged Corporate Bond ETF
 LQDI - iShares Inflation Hedged Corporate Bond ETF
+LQDM - Amplify LQD Investment Grade 12% Target Income ETF
 LQDT - Liquidity Services, Inc. - Common Stock
 LQDW - iShares Investment Grade Corporate Bond BuyWrite Strategy ETF
 LQIG - State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF
@@ -7334,6 +7339,7 @@ NHIC - NewHold Investment Corp III - Class A Ordinary shares
 NHICU - NewHold Investment Corp III - Units
 NHICW - NewHold Investment Corp III - Warrants
 NHIVU - NewHold Investment Corp IV - Units
+NHP - National Healthcare Properties, Inc. - Class A Common Stock
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger High Yield Strategies Fund Inc. Common Stock
@@ -9599,7 +9605,7 @@ SKBL - Skyline Builders Group Holding Limited - Class A Ordinary Shares
 SKE - Skeena Resources Limited Common Shares
 SKF - ProShares UltraShort Financials
 SKIL - Skillsoft Corp. Class A Common Stock
-SKIN - The Beauty Health Company - Class A Common Stock
+SKIN - SkinHealth Systems Inc. - Class A Common Stock
 SKK - SKK Holdings Limited - Class A Ordinary Shares
 SKLZ - Skillz Inc. Class A Common Stock
 SKM - SK Telecom Co., Ltd. Common Stock
@@ -9991,6 +9997,7 @@ SSII - SS Innovations International Inc. - Common Stock
 SSK - REX-Osprey SOL + Staking ETF
 SSL - Sasol Ltd. American Depositary Shares
 SSM - Sono Group N.V. - Ordinary Shares
+SSMG - Virtus Silvant Small/Mid Growth ETF
 SSNC - SS&C Technologies Holdings, Inc. - Common Stock
 SSO - ProShares Ultra S&P500
 SSP - E.W. Scripps Company (The) - Class A Common Stock
@@ -11384,6 +11391,7 @@ WCC - WESCO International, Inc. Common Stock
 WCEO - Hypatia Women CEO ETF
 WCLD - WisdomTree Cloud Computing Fund
 WCME - First Trust WCM Developing World Equity ETF
+WCMG - First Trust WCM Global Equity ETF
 WCMI - First Trust WCM International Equity ETF
 WCN - Waste Connections, Inc. Common Shares
 WCPB - Weitz Core Plus Bond ETF
@@ -11827,6 +11835,7 @@ YGLD - Simplify Gold Strategy PLUS Income ETF
 YHC - LQR House Inc. - Common Stock
 YHGJ - Yunhong Green CTI Ltd. - Common Stock
 YHNA - YHN Acquisition I Limited - Ordinary Shares
+YHNAR - YHN Acquisition I Limited - Right
 YHNAU - YHN Acquisition I Limited - Unit
 YI - 111, Inc. - American Depositary Shares
 YIBO - Planet Image International Limited - Class A Ordinary Shares
@@ -11857,6 +11866,7 @@ YSEP - FT Vest International Equity Buffer ETF - September
 YSG - Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares
 YSPY - GraniteShares YieldBOOST SPY ETF
 YSS - York Space Systems Inc. Common Stock
+YSWY - Yesway, Inc. - Class A Common Stock
 YSXT - YSX Tech. Co., Ltd  - Class A Ordinary Shares
 YTRA - Yatra Online, Inc. - Ordinary Shares
 YUM - Yum! Brands, Inc.
