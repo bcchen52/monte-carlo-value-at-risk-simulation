@@ -146,6 +146,7 @@ ACWV - iShares MSCI Global Min Vol Factor ETF
 ACWX - iShares MSCI ACWI ex U.S. ETF
 ACXP - Acurx Pharmaceuticals, Inc. - Common Stock
 ACYN - FT Vest Laddered Autocallable Barrier & Income ETF
+ACYS - FT Vest Laddered Autocallable Barrier & Resilient Income ETF
 AD - Array Digital Infrastructure, Inc. Common Shares
 ADAC - American Drive Acquisition Company - Class A Ordinary Shares
 ADACU - American Drive Acquisition Company - Units
@@ -719,7 +720,6 @@ ASEA - Global X FTSE Southeast Asia ETF
 ASG - Liberty All-Star Growth Fund, Inc.
 ASGI - abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest
 ASGM - Virtus AlphaSimplex Global Macro ETF
-ASGN - ASGN Incorporated Common Stock
 ASH - Ashland Inc. Common Stock
 ASHR - Xtrackers Harvest CSI 300 China A-Shares ETF
 ASHS - Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF
@@ -908,6 +908,7 @@ AXGN - Axogen, Inc. - Common Stock
 AXIA - AXIA Energia American Depositary Shares (Each representing one Common Share)
 AXIL - AXIL Brands, Inc. Common Stock
 AXIN - Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares
+AXINR - Axiom Intelligence Acquisition Corp 1 - Right
 AXINU - Axiom Intelligence Acquisition Corp 1 - Units
 AXON - Axon Enterprise, Inc. - Common Stock
 AXP - American Express Company Common Stock
@@ -2595,7 +2596,6 @@ DAUG - FT Vest U.S. Equity Deep Buffer ETF - August
 DAVA - Endava plc American Depositary Shares (each representing one Class A Ordinary Share)
 DAVE - Dave Inc.  - Class A Common Stock
 DAVEW - Dave Inc.  - Warrants
-DAWN - Day One Biopharmaceuticals, Inc. - Common Stock
 DAX - Global X DAX Germany ETF
 DB - Deutsche Bank AG Common Stock
 DBA - Invesco DB Agriculture Fund
@@ -2620,7 +2620,6 @@ DBND - DoubleLine Opportunistic Core Bond ETF
 DBO - Invesco DB Oil Fund
 DBP - Invesco DB Precious Metals Fund
 DBRG - DigitalBridge Group, Inc.
-DBSC - Deepwater Beachfront Small Cap ETF
 DBVT - DBV Technologies S.A. - American Depositary Shares
 DBX - Dropbox, Inc. - Class A Common Stock
 DC - Dakota Gold Corp. Common Stock
@@ -3261,6 +3260,7 @@ ELLO - Ellomay Capital Ltd Ordinary Shares (Israel)
 ELM - Elm Market Navigator ETF
 ELMD - Electromed, Inc. Common Stock
 ELME - Elme Communities Common Stock
+ELMT - The Elmet Group Co. - Common Stock
 ELOG - Eastern International Ltd. - Ordinary Shares
 ELPC - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
 ELPW - Elong Power Holding Limited - Class A Ordinary Shares
@@ -3294,6 +3294,7 @@ EMEQ - Nomura Focused Emerging Markets Equity ETF
 EMES - Harbor Emerging Markets Select ETF
 EMET - VanEck Copper and Green Metals ETF
 EMF - Templeton Emerging Markets Fund Common Stock
+EMFI - Pictet Emerging Markets Debt ETF
 EMGF - iShares Emerging Markets Equity Factor ETF
 EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
@@ -3410,6 +3411,7 @@ ERIC - Ericsson - American Depositary Shares each representing 1 underlying Clas
 ERIE - Erie Indemnity Company - Class A Common Stock
 ERII - Energy Recovery, Inc. - Common Stock
 ERNA - Ernexa Therapeutics Inc. - Common Stock
+ERNAW - Ernexa Therapeutics Inc. - Warrants
 ERO - Ero Copper Corp. Common Shares
 ERTH - Invesco MSCI Sustainable Future ETF
 ERX - Direxion Energy Bull 2X ETF
@@ -5526,7 +5528,6 @@ IPCXR - Inflection Point Acquisition Corp. III - Rights
 IPCXU - Inflection Point Acquisition Corp. III - Units
 IPDN - Professional Diversity Network, Inc. - Common Stock
 IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
-IPEXR - Inflection Point Acquisition Corp. - Right
 IPEXU - Inflection Point Acquisition Corp. - Unit
 IPFXU - Inflection Point Acquisition Corp. VI - Units
 IPGP - IPG Photonics Corporation - Common Stock
@@ -6175,6 +6176,7 @@ KZR - Kezar Life Sciences, Inc. - Common Stock
 L - Loews Corporation Common Stock
 LAB - Standard BioTools Inc. - Common Stock
 LABD - Direxion Daily S&P Biotech Bear 3X ETF
+LABT - Lakewood-Amedex Biotherapeutics Inc. - Common Stock
 LABU - Direxion Daily S&P Biotech Bull 3X ETF
 LABX - Tradr 2X Long ALAB Daily ETF
 LAC - Lithium Americas Corp. Common Shares
@@ -6203,7 +6205,6 @@ LATAW - Galata Acquisition Corp. II - Warrant
 LAUR - Laureate Education, Inc. - Common Stock
 LAW - CS Disco, Inc. Common Stock
 LAWR - Robot Consulting Co., Ltd. - ADS
-LAYS - STKd 100% NVDA & 100% AMD ETF
 LAZ - Lazard, Inc. Common Stock
 LB - LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests
 LBAY - Leatherback Long/Short Alternative Yield ETF
@@ -6349,6 +6350,7 @@ LITL - Simplify Piper Sandler US Small-Cap PLUS Income ETF
 LITP - Sprott Lithium Miners ETF
 LITS - Lite Strategy, Inc. - Common Stock
 LITX - Tradr 2X Long LITE Daily ETF
+LITZ - Tradr 2X Short LITE Daily ETF
 LIVE - Live Ventures Incorporated - Common Stock
 LIVN - LivaNova PLC - Ordinary Shares
 LIXT - Lixte Biotechnology Holdings, Inc. - Common Stock
@@ -6899,7 +6901,6 @@ MMT - MFS Multimarket Income Trust Common Stock
 MMTM - State Street SPDR S&P 1500 Momentum Tilt ETF
 MMTX - Miluna Acquisition Corp - Class A Ordinary Shares
 MMTXU - Miluna Acquisition Corp - Units
-MMTXW - Miluna Acquisition Corp - Warrant
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MNA - NYLI Merger Arbitrage ETF
@@ -8758,15 +8759,12 @@ QUS - State Street SPDR MSCI USA StrategicFactors ETF
 QUSA - VistaShares Target 15 USA Quality Income ETF
 QUVU - Hartford Quality Value ETF
 QVAL - Alpha Architect U.S. Quantitative Value ETF
-QVCGA - QVC Group, Inc. - Series A Common Stock
-QVCGP - QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock
 QVML - Invesco S&P 500 QVM Multi-factor ETF
 QVMM - Invesco S&P MidCap 400 QVM Multi-factor ETF
 QVMS - Invesco S&P SmallCap 600 QVM Multi-factor ETF
 QVMT - Invesco S&P 500 Concentrated QVM ETF
 QVOY - Q3 Active Rotation ETF
 QWLD - State Street SPDR MSCI World StrategicFactors ETF
-QXAS - Quantify 2X Daily Alt Season Crypto ETF
 QXO - QXO, Inc. Common Stock
 QXQ - SGI Enhanced Nasdaq-100 ETF
 QYLD - Global X NASDAQ 100 Covered Call ETF
@@ -8988,6 +8986,7 @@ RINT - Russell Investments International Developed Equity ETF
 RIO - Rio Tinto Plc Common Stock
 RIOT - Riot Platforms, Inc. - Common Stock
 RIOX - Defiance Daily Target 2X Long RIOT ETF
+RISE - Pictet Emerging Markets Rising Economies ETF
 RISN - Inspire Capital Appreciation ETF
 RISR - FolioBeyond Alternative Income and Interest Rate Hedge ETF
 RITA - ETFB Green SRI REITs ETF
@@ -9744,6 +9743,7 @@ SND - Smart Sand, Inc. - Common Stock
 SNDA - Sonida Senior Living, Inc. Common Stock
 SNDK - Sandisk Corporation - Common Stock
 SNDL - SNDL Inc. - Common Shares
+SNDQ - Tradr 2X Short SNDK Daily ETF
 SNDR - Schneider National, Inc. Common Stock
 SNDU - T-REX 2X Long SNDK Daily Target ETF
 SNDX - Syndax Pharmaceuticals, Inc. - Common Stock
@@ -9989,7 +9989,6 @@ SSB - SouthState Bank Corporation Common Stock
 SSBI - Summit State Bank - Common Stock
 SSD - Simpson Manufacturing Company, Inc. Common Stock
 SSEA - Starry Sea Acquisition Corp - Ordinary Shares
-SSEAR - Starry Sea Acquisition Corp - Rights
 SSEAU - Starry Sea Acquisition Corp - Unit
 SSFI - Day Hagan Smart Sector Fixed Income ETF
 SSG - ProShares UltraShort Semiconductors
@@ -10083,6 +10082,7 @@ STXD - Strive 1000 Dividend Growth ETF
 STXE - Strive Emerging Markets Ex-China ETF
 STXG - Strive 1000 Growth ETF
 STXK - Strive Small-Cap ETF
+STXL - Defiance Daily Target 2x Long STX ETF
 STXS - Stereotaxis, Inc. Common Stock
 STXT - Strive Total Return Bond ETF
 STXV - Strive 1000 Value ETF
