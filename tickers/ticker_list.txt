@@ -918,6 +918,7 @@ AXS - Axis Capital Holdings Limited Common Stock
 AXSM - Axsome Therapeutics, Inc. - Common Stock
 AXTA - Axalta Coating Systems Ltd. Common Shares
 AXTI - AXT Inc - Common Stock
+AXTX - Tradr 2X Long AXTI Daily ETF
 AYI - Acuity Inc. Common Stock
 AYTU - Aytu BioPharma, Inc.  - Common Stock
 AZ - A2Z Cust2Mate Solutions Corp. - Common Shares
@@ -2006,7 +2007,6 @@ CHNR - China Natural Resources, Inc. - Common Shares
 CHNU - 2x Chainlink ETF
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
-CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -2136,7 +2136,6 @@ CMGG - Leverage Shares 2X Long CMG Daily ETF
 CMI - Cummins Inc. Common Stock
 CMII - Columbus Circle Capital Corp II - Class A Ordinary Shares
 CMIIU - Columbus Circle Capital Corp II - Unit
-CMIIW - Columbus Circle Capital Corp II - Warrant
 CMMB - Chemomab Therapeutics Ltd.  - American Depositary Shares
 CMND - Clearmind Medicine Inc. - Common Shares
 CMP - Compass Minerals Intl Inc Common Stock
@@ -2295,6 +2294,7 @@ CPNJ - Calamos Nasdaq - 100 Structured Alt Protection ETF -June
 CPNM - Calamos Nasdaq-100 Structured Alt Protection ETF - March
 CPNQ - Calamos Nasdaq-100 Structured Alt Protection ETF December
 CPNS - Calamos Nasdaq-100 Structured Alt Protection ETF  September
+CPNX - Tradr 2X Long CPNG Daily ETF
 CPOP - Pop Culture Group Co., Ltd - Class A Ordinary Shares
 CPRA - Calamos Russell 2000 Structured Alt Protection ETF - April
 CPRI - Capri Holdings Limited Ordinary Shares
@@ -2946,7 +2946,6 @@ DRV - Direxion Daily Real Estate Bear 3X ETF
 DRVN - Driven Brands Holdings Inc. - Common Stock
 DSAC - Daedalus Special Acquisition Corp. - Class A Ordinary Shares
 DSACU - Daedalus Special Acquisition Corp. - Unit
-DSACW - Daedalus Special Acquisition Corp. - Warrant
 DSCO - DoubleLine Securitized Credit ETF
 DSEP - FT Vest U.S. Equity Deep Buffer ETF - September
 DSGN - Design Therapeutics, Inc. - Common Stock
@@ -3186,6 +3185,7 @@ EFIV - State Street SPDR S&P 500 ESG ETF
 EFNL - iShares MSCI Finland ETF
 EFO - ProShares Ultra MSCI EAFE
 EFOI - Energy Focus, Inc. - Common Stock
+EFOR - Everforth, Inc. Common Stock
 EFR - Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest
 EFRA - iShares Environmental Infrastructure and Industrials ETF
 EFSC - Enterprise Financial Services Corporation - Common Stock
@@ -3502,7 +3502,6 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
-EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X ETF
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -4026,6 +4025,7 @@ FNK - First Trust Mid Cap Value AlphaDEX Fund
 FNKO - Funko, Inc. - Class A Common Stock
 FNLC - First Bancorp, Inc (ME) - Common Stock
 FNOV - FT Vest U.S. Equity Buffer ETF - November
+FNRN - First Northern Community Bancorp - Common stock
 FNUC - Frontier Nuclear and Minerals Inc. - Common Shares
 FNV - Franco-Nevada Corporation
 FNWB - First Northwest Bancorp - Common Stock
@@ -4300,7 +4300,6 @@ GCBC - Greene County Bancorp, Inc. - Common Stock
 GCC - WisdomTree EnhancedContinuous Commodity Index Fund
 GCDT - Green Circle Decarbonize Technology Limited Ordinary Shares
 GCL - GCL Global Holdings Ltd - Ordinary Shares
-GCLWW - GCL Global Holdings Ltd - Warrants
 GCMG - GCM Grosvenor Inc. - Class A Common Stock
 GCO - Genesco Inc. Common Stock
 GCOR - Goldman Sachs Access U.S. Aggregate Bond ETF
@@ -5528,6 +5527,7 @@ IPCXR - Inflection Point Acquisition Corp. III - Rights
 IPCXU - Inflection Point Acquisition Corp. III - Units
 IPDN - Professional Diversity Network, Inc. - Common Stock
 IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
+IPEXR - Inflection Point Acquisition Corp. - Right
 IPEXU - Inflection Point Acquisition Corp. - Unit
 IPFXU - Inflection Point Acquisition Corp. VI - Units
 IPGP - IPG Photonics Corporation - Common Stock
@@ -5628,7 +5628,6 @@ ITEQ - Amplify BlueStar Israel Technology ETF
 ITGR - Integer Holdings Corporation Common Stock
 ITHA - ITHAX Acquisition Corp III - Class A Ordinary Shares
 ITHAU - ITHAX Acquisition Corp III - Units
-ITHAW - ITHAX Acquisition Corp III - Warrants
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
 ITOC - iTonic Holdings Ltd - Class A Ordinary Shares
@@ -6276,7 +6275,6 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LFAC - Leapfrog Acquisition Corporation - Class A Ordinary Shares
 LFACU - Leapfrog Acquisition Corporation - Units
-LFACW - Leapfrog Acquisition Corporation - Warrants
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
@@ -6430,7 +6428,6 @@ LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
 LPCV - Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
 LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
-LPCVW - Launchpad Cadenza Acquisition Corp I - Warrant
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -6721,7 +6718,6 @@ MEOH - Methanex Corporation - Common Stock
 MERC - Mercer International Inc. - Common Stock
 MESH - Meshflow Acquisition Corp. - Class A Ordinary Shares
 MESHU - Meshflow Acquisition Corp. - Units
-MESHW - Meshflow Acquisition Corp. - Warrants
 MESO - Mesoblast Limited - American Depositary Shares
 MET - MetLife, Inc. Common Stock
 META - Meta Platforms, Inc. - Class A Common Stock
@@ -6965,6 +6961,7 @@ MPTI - M-tron Industries, Inc. Common Stock
 MPU - Mega Matrix Inc. Class A Ordinary Shares
 MPV - Barings Participation Investors Common Stock
 MPWR - Monolithic Power Systems, Inc. - Common Stock
+MPWX - Tradr 2X Long MPWR Daily ETF
 MPX - Marine Products Corporation Common Stock
 MQ - Marqeta, Inc. - Class A Common Stock
 MQQQ - Tradr 2X Long Innovation 100 Monthly ETF
@@ -9395,7 +9392,6 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
-SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -10086,6 +10082,7 @@ STXL - Defiance Daily Target 2x Long STX ETF
 STXS - Stereotaxis, Inc. Common Stock
 STXT - Strive Total Return Bond ETF
 STXV - Strive 1000 Value ETF
+STXX - Tradr 2X Long STX Daily ETF
 STZ - Constellation Brands, Inc. Common Stock
 SU - Suncor Energy  Inc. Common Stock
 SUB - iShares Short-Term National Muni Bond ETF
@@ -11627,6 +11624,7 @@ XDIV - Roundhill S&P 500 No Dividend Target ETF
 XDQQ - Innovator Growth Accelerated ETF - Quarterly
 XDSQ - Innovator U.S. Equity Accelerated ETF - Quarterly
 XDTE - Roundhill S&P 500 0DTE Covered Call Strategy ETF
+XE - X-Energy, Inc. - Class A Common Stock
 XEL - Xcel Energy Inc. - Common Stock
 XELB - Xcel Brands, Inc - Common Stock
 XELLL - Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085
