@@ -1444,7 +1444,7 @@ BOSC - B.O.S. Better Online Solutions - Ordinary Shares
 BOTJ - Bank of the James Financial Group, Inc. - Common Stock
 BOTT - Themes Humanoid Robotics ETF
 BOTZ - Global X Robotics & Artificial Intelligence ETF
-BOUT - Innovator IBD Breakout Opportunities ETF
+BOUT - CapForce IBD Breakout Opportunities ETF
 BOW - Bowhead Specialty Holdings Inc. Common Stock
 BOX - Box, Inc. Class A Common Stock
 BOXA - Alpha Architect Aggregate Bond ETF
@@ -1582,7 +1582,6 @@ BTCZ - T-Rex 2X Inverse Bitcoin Daily Target ETF
 BTDR - Bitdeer Technologies Group - Ordinary Shares
 BTE - Baytex Energy Corp Common Shares
 BTF - CoinShares Bitcoin and Ether ETF
-BTFL - Defiance Daily Target 2X Long BITF ETF
 BTG - B2Gold Corp Common shares (Canada)
 BTGD - STKd 100% Bitcoin & 100% Gold ETF
 BTGO - BitGo Holdings, Inc. Class A Common Stock
@@ -2202,8 +2201,6 @@ CODA - Coda Octopus Group, Inc. - Common stock
 CODI - D/B/A Compass Diversified Holdings Shares of Beneficial Interest
 CODX - Co-Diagnostics, Inc. - Common Stock
 COE - 51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares
-COEP - Coeptis Therapeutics Holdings, Inc. - Common Stock
-COEPW - Coeptis Therapeutics Holdings, Inc. - Warrants
 COF - Capital One Financial Corporation Common Stock
 COFS - ChoiceOne Financial Services, Inc. - Common Stock
 COGT - Cogent Biosciences, Inc. - Common Stock
@@ -3808,7 +3805,7 @@ FFND - One Global ETF
 FFOG - Franklin Focused Growth ETF
 FFOX - FundX Future Fund Opportunities ETF
 FFSM - Fidelity Fundamental Small-Mid Cap ETF
-FFTY - Innovator IBD 50 ETF
+FFTY - CapForce IBD 50 ETF
 FFUT - Fidelity Managed Futures ETF
 FG - F&G Annuities & Life, Inc. Common Stock
 FGBI - First Guaranty Bancshares, Inc. - Common Stock
@@ -6567,8 +6564,6 @@ MANH - Manhattan Associates, Inc. - Common Stock
 MANI - Man Active Income ETF
 MANU - Manchester United Ltd. Class A Ordinary Shares
 MAPP - Harbor Multi-Asset Explorer ETF
-MAPS - WM Technology, Inc. - Class A Common Stock
-MAPSW - WM Technology, Inc. - Warrants
 MAR - Marriott International - Class A Common Stock
 MARA - MARA Holdings, Inc. - Common Stock
 MARB - First Trust Merger Arbitrage ETF
@@ -6805,7 +6800,7 @@ MIDD - The Middleby Corporation - Common Stock
 MIDE - Xtrackers S&P MidCap 400 Scored & Screened ETF
 MIDU - Direxion Mid Cap Bull 3X ETF
 MIG - VanEck Moody's Analytics IG Corporate Bond ETF
-MIGI - Mawson Infrastructure Group Inc. - Common Stock
+MIGI - Big Digital Energy, Inc. - Common Stock
 MIGO - MIG Core ETF
 MILK - Pacer US Cash Cows Bond ETF
 MILN - Global X Millennial Consumer ETF
@@ -7431,7 +7426,6 @@ NOEMW - CO2 Energy Transition Corp. - Warrant
 NOEQ - Northern Trust US Equity ETF
 NOG - Northern Oil and Gas, Inc. Common Stock
 NOK - Nokia Corporation Sponsored American Depositary Shares
-NOM - Nuveen Missouri Quality Municipal Income Fund 
 NOMA - NOMADAR Corp. - Class A Common Stock
 NOMD - Nomad Foods Limited Ordinary Shares
 NORW - Global X MSCI Norway ETF
@@ -7460,7 +7454,6 @@ NPO - Enpro Inc. Common Stock
 NPT - Texxon Holding Limited - Ordinary shares
 NPV - Nuveen Virginia Quality Municipal Income Fund Common Stock
 NPWR - NET Power Inc. Class A Common Stock
-NQP - Nuveen Pennsylvania Quality Municipal Income Fund Common Stock
 NRC - NRC Health - Common Stock
 NRDS - NerdWallet, Inc. - Class A Common Stock
 NRDY - Nerdy Inc. Class A Common Stock
@@ -7623,7 +7616,6 @@ NXE - Nexgen Energy Ltd. Common Shares
 NXG - NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
 NXGL - NexGel, Inc - Common Stock
 NXGLW - NexGel, Inc - Warrant
-NXJ - Nuveen New Jersey Qualified Municipal Fund 
 NXL - Nexalin Technology, Inc. - Common Stock
 NXP - Nuveen Select Tax Free Income Portfolio Common Stock
 NXPI - NXP Semiconductors N.V. - Common Stock
@@ -9762,7 +9754,7 @@ SNSR - Global X Internet of Things ETF
 SNT - Senstar Technologies Corporation - Common Shares
 SNTG - Sentage Holdings Inc. - Class A Ordinary Shares
 SNTH - MRP SynthEquity ETF
-SNTI - Senti Biosciences, Inc.  - Common Stock
+SNTI - Senti Biosciences Holdings, Inc. - Common Stock
 SNWV - SANUWAVE Health, Inc. - Common Stock
 SNX - TD SYNNEX Corporation Common Stock
 SNXX - Tradr 2X Long SNDK Daily ETF
@@ -11473,7 +11465,7 @@ WLAC - Willow Lane Acquisition Corp. - Class A Ordinary Shares
 WLACU - Willow Lane Acquisition Corp. - Unit
 WLACW - Willow Lane Acquisition Corp. - Warrants
 WLDN - Willdan Group, Inc. - Common Stock
-WLDR - Affinity World Leaders Equity ETF
+WLDR - Simplify Affinity World Leaders Equity ETF
 WLDS - Wearable Devices Ltd. - Ordinary Share
 WLDSW - Wearable Devices Ltd. - Warrant
 WLDU - Leverage Shares 2x Long World Stock Daily ETF
