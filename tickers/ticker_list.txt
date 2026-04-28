@@ -2943,6 +2943,7 @@ DRV - Direxion Daily Real Estate Bear 3X ETF
 DRVN - Driven Brands Holdings Inc. - Common Stock
 DSAC - Daedalus Special Acquisition Corp. - Class A Ordinary Shares
 DSACU - Daedalus Special Acquisition Corp. - Unit
+DSACW - Daedalus Special Acquisition Corp. - Warrant
 DSCO - DoubleLine Securitized Credit ETF
 DSEP - FT Vest U.S. Equity Deep Buffer ETF - September
 DSGN - Design Therapeutics, Inc. - Common Stock
@@ -4033,7 +4034,6 @@ FOA - Finance of America Companies Inc. Class A Common Stock
 FOCT - FT Vest U.S. Equity Buffer ETF - October
 FOF - Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock
 FOFO - Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares
-FOLD - Amicus Therapeutics, Inc. - Common Stock
 FONR - Fonar Corporation - Common Stock
 FOPC - Frontier Asset Opportunistic Credit ETF
 FOR - Forestar Group Inc Common Stock 
@@ -5977,6 +5977,7 @@ KDVD - Keeley Dividend ETF
 KE - Kimball Electronics, Inc. - Common Stock
 KEAT - Keating Active ETF
 KEEL - Keel Infrastructure Corp. - Common Stock
+KEEX - Defiance Daily Target 2x Long KEEL ETF
 KELYA - Kelly Services, Inc. - Class A Common Stock
 KELYB - Kelly Services, Inc. - Class B Common Stock
 KEMQ - KraneShares Emerging Markets Consumer Technology Index ETF
@@ -6272,6 +6273,7 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LFAC - Leapfrog Acquisition Corporation - Class A Ordinary Shares
 LFACU - Leapfrog Acquisition Corporation - Units
+LFACW - Leapfrog Acquisition Corporation - Warrants
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
@@ -6425,6 +6427,7 @@ LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
 LPCV - Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
 LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
+LPCVW - Launchpad Cadenza Acquisition Corp I - Warrant
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -6892,6 +6895,7 @@ MMT - MFS Multimarket Income Trust Common Stock
 MMTM - State Street SPDR S&P 1500 Momentum Tilt ETF
 MMTX - Miluna Acquisition Corp - Class A Ordinary Shares
 MMTXU - Miluna Acquisition Corp - Units
+MMTXW - Miluna Acquisition Corp - Warrant
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MNA - NYLI Merger Arbitrage ETF
@@ -9384,6 +9388,7 @@ SDG - iShares MSCI Global Sustainable Development Goals ETF
 SDGR - Schrodinger, Inc. - Common Stock
 SDHC - Smith Douglas Homes Corp. Class A Common Stock
 SDHI - Siddhi Acquisition Corp - Class A Common stock
+SDHIR - Siddhi Acquisition Corp - Right
 SDHIU - Siddhi Acquisition Corp - Unit
 SDHY - PGIM Short Duration High Yield Opportunities Fund Common Shares
 SDIV - Global X SuperDividend ETF
@@ -9431,7 +9436,6 @@ SELX - Semilux International Ltd. - Ordinary Shares
 SEM - Select Medical Holdings Corporation Common Stock
 SEMG - Suncoast Select Growth ETF
 SEMI - Columbia Select Technology ETF
-SEMR - SEMrush Holdings, Inc. Class A Common Stock
 SEMY - GraniteShares YieldBOOST Semiconductor ETF
 SENEA - Seneca Foods Corp. - Class A Common Stock
 SENEB - Seneca Foods Corp. - Class B Common Stock
@@ -10418,7 +10422,6 @@ TIPX - State Street SPDR Bloomberg 1a??10 Year TIPS ETF
 TIPZ - PIMCO Broad U.S. TIPS Index Exchange-Traded Fund
 TISI - Team, Inc. Common Stock
 TITN - Titan Machinery Inc. - Common Stock
-TIVC - Tivic Health Systems, Inc. - Common stock
 TJAN - Innovator Equity Defined Protection ETF - 2 Yr to January 2027
 TJGC - TJGC Group Limited - ordinary shares
 TJUL - Innovator Equity Defined Protection ETF - 2 Yr to July 2027
@@ -10515,6 +10518,7 @@ TNXP - Tonix Pharmaceuticals Holding Corp. - Common Stock
 TNXT - T. Rowe Price Innovation Leaders ETF
 TNYA - Tenaya Therapeutics, Inc. - Common Stock
 TOAK - Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF
+TOAO - Twin Oak Active Opportunities III ETF
 TOCT - Innovator Equity Defined Protection ETF - 2 Yr to October 2027
 TOGA - Managed Portfolio Series Tremblant Global ETF
 TOI - The Oncology Institute, Inc. - Common Stock
@@ -11169,6 +11173,7 @@ VISN - Vistance Networks, Inc.  - Common Stock
 VIST - Vista Energy S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value
 VITL - Vital Farms, Inc. - Common Stock
 VIV - Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)
+VIVK - Vivakor, Inc. - Common Stock
 VIVO - VivoPower PLC - Ordinary Shares
 VIVS - VivoSim Labs, Inc. - Common Stock
 VIXM - VIX Mid-Term Futures ETF
@@ -11934,7 +11939,7 @@ ZSB - USCF Sustainable Battery Metals Strategy Fund
 ZSC - USCF Sustainable Commodity Strategy Fund
 ZSEP - Innovator Equity Defined Protection ETF - 1 Yr September
 ZSL - ProShares UltraShort Silver
-ZSPC - zSpace, Inc. - Common stock
+ZSQR - Z Squared Inc. - Common Stock
 ZSTK - ZeroStack Corp. - Common Stock
 ZTAX - X-Square Municipal Income ETF
 ZTEK - Zentek Ltd. - common stock
