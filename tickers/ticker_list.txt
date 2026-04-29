@@ -115,7 +115,6 @@ ACKY - VistaShares Target 15 ACKtivist Distribution ETF
 ACLC - American Century Large Cap Equity ETF
 ACLO - TCW AAA CLO ETF
 ACLS - Axcelis Technologies, Inc. - Common Stock
-ACLX - Arcellx, Inc. - Common Stock
 ACM - AECOM Common Stock
 ACMR - ACM Research, Inc. - Class A Common Stock
 ACN - Accenture plc Class A Ordinary Shares (Ireland)
@@ -433,7 +432,6 @@ ALTG - Alta Equipment Group Inc. Class A Common Stock
 ALTI - AlTi Global, Inc. - Class A Common Stock
 ALTL - Pacer Lunt Large Cap Alternator ETF
 ALTO - Alto Ingredients, Inc. - Common Stock
-ALTS - ALT5 Sigma Corporation - Common Stock
 ALTY - Global X Alternative Income ETF
 ALUB - Alussa Energy Acquisition Corp. II Class A Ordinary Shares
 ALV - Autoliv, Inc. Common Stock
@@ -1293,7 +1291,6 @@ BKFI - BNY Mellon Active Core Bond ETF
 BKGI - BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
-BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -1742,13 +1739,11 @@ CAOS - Alpha Architect Tail Risk ETF
 CAPE - DoubleLine Shiller CAPE U.S. Equities ETF
 CAPL - CrossAmerica Partners LP Common Units representing limited partner interests
 CAPN - Cayson Acquisition Corp - Ordinary Shares
-CAPNR - Cayson Acquisition Corp - Right
 CAPNU - Cayson Acquisition Corp - Units
 CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
 CAQ - Cambridge Acquisition Corp. - Class A Ordinary Shares
 CAQUU - Cambridge Acquisition Corp. - Unit
-CAQUW - Cambridge Acquisition Corp. - Warrants
 CAR - Avis Budget Group, Inc. - Common Stock
 CARD - MAX Auto Industry -3x Inverse Leveraged ETN
 CARE - Carter Bankshares, Inc. - Common Stock
@@ -2400,6 +2395,7 @@ CRWS - Crown Crafts, Inc. - Common Stock
 CRWU - T-REX 2X Long CRWV Daily Target ETF
 CRWV - CoreWeave, Inc. - Class A Common Stock
 CRXP - Columbia Core Plus Bond ETF
+CRY - GraniteShares YieldBOOST CRCL ETF
 CSAI - Cloudastructure, Inc. - Class A Common Stock
 CSAN - Cosan S.A. ADS
 CSB - VictoryShares US Small Cap High Div Volatility Wtd ETF
@@ -2543,6 +2539,7 @@ CXAIW - CXApp Inc. - Warrant
 CXDO - Crexendo, Inc. - Common Stock
 CXE - MFS High Income Municipal Trust Common Stock
 CXH - MFS Investment Grade Municipal Trust Common Stock
+CXIIU - Churchill Capital Corp XII - Units
 CXM - Sprinklr, Inc. Class A Common Stock
 CXRN - Teucrium 2x Daily Corn ETF
 CXSE - WisdomTree China ex-State-Owned Enterprises Fund
@@ -4297,6 +4294,7 @@ GCBC - Greene County Bancorp, Inc. - Common Stock
 GCC - WisdomTree EnhancedContinuous Commodity Index Fund
 GCDT - Green Circle Decarbonize Technology Limited Ordinary Shares
 GCL - GCL Global Holdings Ltd - Ordinary Shares
+GCLWW - GCL Global Holdings Ltd - Warrants
 GCMG - GCM Grosvenor Inc. - Class A Common Stock
 GCO - Genesco Inc. Common Stock
 GCOR - Goldman Sachs Access U.S. Aggregate Bond ETF
@@ -4478,6 +4476,7 @@ GLIX - Lazard Listed Infrastructure ETF
 GLL - ProShares UltraShort Gold
 GLMD - Galmed Pharmaceuticals Ltd. - Ordinary Shares
 GLND - Greenland Energy Company - Common Stock
+GLNDW - Greenland Energy Company - Warrant
 GLNG - Golar LNG Limited - Common Shares
 GLNK - Grayscale Chainlink Trust ETF
 GLO - Clough Global Opportunities Fund Common Stock
@@ -5117,6 +5116,7 @@ IAC - IAC Inc. - Common Stock
 IACO - Idea Acquisition Corp. - Class A Ordinary Shares
 IACOU - Idea Acquisition Corp. - Units
 IACOW - Idea Acquisition Corp. - Warrants
+IACQU - Irenic Acquisition Corp. - Unit
 IAE - Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IAF - abrdn Australia Equity Fund, Inc. Common Stock
 IAG - Iamgold Corporation Ordinary Shares
@@ -7679,7 +7679,6 @@ OCC - Optical Cable Corporation - Common Stock
 OCCI - OFS Credit Company, Inc. - Closed End Fund
 OCCIM - OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock
 OCCIN - OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due 2026
-OCCIO - OFS Credit Company, Inc. - 6.125% Series C Term Preferred Stock
 OCFC - OceanFirst Financial Corp. - Common Stock
 OCG - Oriental Culture Holding LTD - Ordinary Shares
 OCGN - Ocugen, Inc. - Common Stock
@@ -8411,6 +8410,7 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
+PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - State Street IG Public & Private Credit ETF
@@ -9291,7 +9291,6 @@ SBIL - Simplify Government Money Market ETF
 SBIO - ALPS Medical Breakthroughs ETF
 SBIT - ProShares UltraShort Bitcoin ETF
 SBLK - Star Bulk Carriers Corp. - Common Shares
-SBLX - StableX Technologies, Inc. - Common Stock
 SBND - Columbia Short Duration Bond ETF
 SBR - Sabine Royalty Trust Common Stock
 SBRA - Sabra Health Care REIT, Inc. - Common Stock
@@ -11060,6 +11059,7 @@ VBCI - Vanguard Target Maturity 2035 Corporate Bond ETF
 VBCJ - Vanguard Target Maturity 2036 Corporate Bond ETF
 VBF - Invesco Bond Fund Common Stock
 VBIL - Vanguard 0-3 Month Treasury Bill ETF
+VBIO - Valion Bio, Inc. - Common stock
 VBIX - Viewbix Inc. - Common Stock 
 VBK - Vanguard Small-Cap Growth ETF
 VBND - Vident U.S. Bond Strategy ETF
@@ -11515,6 +11515,7 @@ WRD - WeRide Inc. - American Depositary Shares
 WRLD - World Acceptance Corporation - Common Stock
 WRN - Western Copper and Gold Corporation Common Stock
 WRND - NYLI Global Equity R&D Leaders ETF
+WRTH - Worth Charting Options Income ETF
 WS - Worthington Steel, Inc. Common Shares
 WSBC - WesBanco, Inc. - Common Stock
 WSBCO - WesBanco, Inc. - Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B
@@ -11597,6 +11598,7 @@ XBIO - Xenetic Biosciences, Inc. - Common Stock
 XBIT - XBiotech Inc. - Common Stock
 XBJA - Innovator U.S. Equity Accelerated 9 Buffer ETF - January
 XBJL - Innovator U.S. Equity Accelerated 9 Buffer ETF - July
+XBNB - Teucrium xETFs 2x Long Daily BNB ETF
 XBOC - Innovator U.S. Equity Accelerated 9 Buffer ETF - October
 XBOX - Roundhill Ultra Short Duration No Dividend Target ETF
 XBP - XBP Global Holdings, Inc. - Common Stock
@@ -11630,6 +11632,7 @@ XEML - Xtrackers Europe Market Leaders ETF
 XENE - Xenon Pharmaceuticals Inc. - Common Shares
 XERS - Xeris Biopharma Holdings, Inc. - Common Stock
 XES - State Street SPDR S&P Oil & Gas Equipment & Services ETF
+XEY - GraniteShares YieldBOOST Ether ETF
 XFEB - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - February
 XFIV - BondBloxx Bloomberg Five Year Target Duration US Treasury ETF
 XFLH - XFLH Capital Corporation Ordinary Shares
