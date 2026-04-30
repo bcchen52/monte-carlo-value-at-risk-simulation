@@ -308,6 +308,7 @@ AIBD - Direxion Daily AI and Big Data Bear 2X ETF
 AIBU - Direxion Daily AI and Big Data Bull 2X ETF
 AIDX - 20/20 Biolabs, Inc. - Common Stock
 AIEQ - Amplify AI Powered Equity ETF
+AIFC - AI Financial Corporation - Common Stock
 AIFD - TCW Artificial Intelligence ETF
 AIFF - Firefly Neuroscience, Inc.  - Common Stock
 AIFU - AIFU Inc. - Class A Ordinary Share
@@ -1291,6 +1292,7 @@ BKFI - BNY Mellon Active Core Bond ETF
 BKGI - BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
+BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -1667,9 +1669,9 @@ BWMX - Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares
 BWNB - Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026
 BWOW - Bitwise Dogecoin ETF
 BWTG - Brendan Wood TopGun Index ETF
-BWX - SPDR Bloomberg International Treasury Bond ETF
+BWX - State Street SPDR Bloomberg International Treasury Bond ETF
 BWXT - BWX Technologies, Inc. Common Stock
-BWZ - SPDR Bloomberg Short Term International Treasury Bond ETF
+BWZ - State Street SPDR Bloomberg Short Term International Treasury Bond ETF
 BX - Blackstone Inc. Common Stock
 BXC - Bluelinx Holdings Inc. Common Stock
 BXMT - Blackstone Mortgage Trust, Inc. Common Stock
@@ -1715,6 +1717,7 @@ CAGE - Calamos Autocallable Growth ETF
 CAH - Cardinal Health, Inc. Common Stock
 CAI - Caris Life Sciences, Inc. - Common Stock
 CAIE - Calamos Autocallable Income ETF
+CAIIU - Collective Acquisition Corp. II - Units
 CAIQ - Calamos Nasdaq Autocallable Income ETF
 CAKE - The Cheesecake Factory Incorporated - Common Stock
 CAL - Caleres, Inc. Common Stock
@@ -1739,11 +1742,13 @@ CAOS - Alpha Architect Tail Risk ETF
 CAPE - DoubleLine Shiller CAPE U.S. Equities ETF
 CAPL - CrossAmerica Partners LP Common Units representing limited partner interests
 CAPN - Cayson Acquisition Corp - Ordinary Shares
+CAPNR - Cayson Acquisition Corp - Right
 CAPNU - Cayson Acquisition Corp - Units
 CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
 CAQ - Cambridge Acquisition Corp. - Class A Ordinary Shares
 CAQUU - Cambridge Acquisition Corp. - Unit
+CAQUW - Cambridge Acquisition Corp. - Warrants
 CAR - Avis Budget Group, Inc. - Common Stock
 CARD - MAX Auto Industry -3x Inverse Leveraged ETN
 CARE - Carter Bankshares, Inc. - Common Stock
@@ -2130,6 +2135,7 @@ CMGG - Leverage Shares 2X Long CMG Daily ETF
 CMI - Cummins Inc. Common Stock
 CMII - Columbus Circle Capital Corp II - Class A Ordinary Shares
 CMIIU - Columbus Circle Capital Corp II - Unit
+CMIIW - Columbus Circle Capital Corp II - Warrant
 CMMB - Chemomab Therapeutics Ltd.  - American Depositary Shares
 CMND - Clearmind Medicine Inc. - Common Shares
 CMP - Compass Minerals Intl Inc Common Stock
@@ -3094,7 +3100,7 @@ EBI - Longview Advantage ETF
 EBIT - Harbor AlphaEdge Small Cap Earners ETF
 EBIZ - Global X E-commerce ETF
 EBMT - Eagle Bancorp Montana, Inc. - Common Stock
-EBND - SPDR Bloomberg Emerging Markets Local Bond ETF
+EBND - State Street SPDR Bloomberg Emerging Markets Local Bond ETF
 EBON - Ebang International Holdings Inc. - Class A Ordinary Shares
 EBS - Emergent BioSolutions Inc. Common Stock
 EBUF - Innovator Emerging Markets 10 Buffer ETF - Quarterly
@@ -3269,7 +3275,6 @@ ELVA - Electrovaya Inc. - Common Shares
 ELVN - Enliven Therapeutics, Inc.  - Common Stock
 ELVR - Elevra Lithium Limited - American Depository Shares
 ELWT - Elauwit Connection, Inc. - Common Stock
-EM - Smart Share Global Limited - American Depositary Shares
 EMA - Emera Incorporated Common Shares
 EMAT - Evolution Metals & Technologies Corp. - Common Stock
 EMB - iShares J.P. Morgan USD Emerging Markets Bond ETF
@@ -3613,6 +3618,7 @@ FA - First Advantage Corporation - Common Stock
 FAAA - Fidelity AAA CLO ETF
 FAAR - First Trust Alternative Absolute Return Strategy ETF
 FAB - First Trust Multi Cap Value AlphaDEX Fund
+FABC - Fabric.AI, Inc. - Common Stock
 FACT - FACT II Acquisition Corp. - Class A Ordinary Shares
 FACTU - FACT II Acquisition Corp. - Unit
 FACTW - FACT II Acquisition Corp. - Warrant
@@ -4101,6 +4107,7 @@ FSEC - Fidelity Investment Grade Securitized ETF
 FSEP - FT Vest U.S. Equity Buffer ETF - September
 FSGS - First Trust SMID Growth Strength ETF
 FSHP - Flag Ship Acquisition Corp. - Ordinary Shares
+FSHPR - Flag Ship Acquisition Corp. - Right
 FSHPU - Flag Ship Acquisition Corp. - Unit
 FSI - Flexible Solutions International Inc. Common Stock (CDA)
 FSIG - First Trust Limited Duration Investment Grade Corporate ETF
@@ -5194,7 +5201,7 @@ IBMV - iShares iBonds Dec 2033 Term Muni Bond ETF
 IBMW - iShares iBonds Dec 2034 Term Muni Bond ETF
 IBMX - iShares iBonds Dec 2035 Term Muni Bond ETF
 IBN - ICICI Bank Limited Common Stock
-IBND - SPDR Bloomberg International Corporate Bond ETF
+IBND - State Street SPDR Bloomberg International Corporate Bond ETF
 IBO - Impact BioMedical, Inc. Common Stock
 IBOC - International Bancshares Corporation - Common Stock
 IBOT - VanEck Robotics ETF
@@ -5271,7 +5278,6 @@ IDYA - IDEAYA Biosciences, Inc. - Common Stock
 IDYN - iShares International Equity Factor Rotation Active ETF
 IE - Ivanhoe Electric Inc. Common Stock
 IEAG - Infinite Eagle Acquisition Corp. - Class A Ordinary Shares
-IEAGR - Infinite Eagle Acquisition Corp. - Rights
 IEAGU - Infinite Eagle Acquisition Corp. - Unit
 IEDI - iShares U.S. Consumer Focused ETF
 IEF - iShares 7-10 Year Treasury Bond ETF
@@ -5625,6 +5631,7 @@ ITEQ - Amplify BlueStar Israel Technology ETF
 ITGR - Integer Holdings Corporation Common Stock
 ITHA - ITHAX Acquisition Corp III - Class A Ordinary Shares
 ITHAU - ITHAX Acquisition Corp III - Units
+ITHAW - ITHAX Acquisition Corp III - Warrants
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
 ITOC - iTonic Holdings Ltd - Class A Ordinary Shares
@@ -6716,6 +6723,7 @@ MEOH - Methanex Corporation - Common Stock
 MERC - Mercer International Inc. - Common Stock
 MESH - Meshflow Acquisition Corp. - Class A Ordinary Shares
 MESHU - Meshflow Acquisition Corp. - Units
+MESHW - Meshflow Acquisition Corp. - Warrants
 MESO - Mesoblast Limited - American Depositary Shares
 MET - MetLife, Inc. Common Stock
 META - Meta Platforms, Inc. - Class A Common Stock
@@ -6803,7 +6811,6 @@ MIDD - The Middleby Corporation - Common Stock
 MIDE - Xtrackers S&P MidCap 400 Scored & Screened ETF
 MIDU - Direxion Mid Cap Bull 3X ETF
 MIG - VanEck Moody's Analytics IG Corporate Bond ETF
-MIGI - Big Digital Energy, Inc. - Common Stock
 MIGO - MIG Core ETF
 MILK - Pacer US Cash Cows Bond ETF
 MILN - Global X Millennial Consumer ETF
@@ -7340,7 +7347,7 @@ NHP - National Healthcare Properties, Inc. - Class A Common Stock
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger High Yield Strategies Fund Inc. Common Stock
-NHTC - Natural Health Trends Corp. - Commn Stock
+NHTC - Natural Health Trends Corp. - Common Stock
 NHYB - Nuveen High Yield Corporate Bond ETF
 NHYM - Nuveen High Yield Municipal Income ETF
 NI - NiSource Inc Common Stock
@@ -8167,7 +8174,6 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
-PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -8447,6 +8453,7 @@ PRVS - Parnassus Value Select ETF
 PRXG - Praxis Impact Large Cap Growth ETF
 PRXV - Praxis Impact Large Cap Value ETF
 PRZO - ParaZero Technologies Ltd. - Ordinary Shares
+PS - Pershing Square Inc. Common Stock
 PSA - Public Storage Common Stock
 PSBD - Palmer Square Capital BDC Inc. Common Stock
 PSC - Principal U.S. Small-Cap ETF
@@ -8505,6 +8512,7 @@ PSTL - Postal Realty Trust, Inc. Class A Common Stock
 PSTP - Innovator Power Buffer Step-Up Strategy ETF
 PSTR - PeakShares Sector Rotation ETF
 PSTV - PLUS THERAPEUTICS, Inc. - Common Stock
+PSUS - Pershing Square USA, Ltd. Common Shares
 PSWD - Xtrackers Cybersecurity Select Equity ETF
 PSX - Phillips 66 Common Stock
 PTA - Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest
@@ -8740,7 +8748,7 @@ QUAD - Quad Graphics, Inc Class A Common Stock
 QUAL - iShares MSCI USA Quality Factor ETF
 QUBT - Quantum Computing Inc. - Common Stock
 QUBX - Tradr 2X Long QUBT Daily ETF
-QUCY - Mainz Biomed N.V. - Ordinary Shares
+QUCY - Quantum Cyber N.V. - Ordinary Shares
 QUIK - QuickLogic Corporation - Common Stock
 QUIZ - Zacks Quality International ETF
 QULL - ETRACS 2x Leveraged MSCI US Quality Factor TR ETN
@@ -8750,7 +8758,6 @@ QUMSU - Quantumsphere Acquisition Corp. - Units
 QURE - uniQure N.V. - Ordinary Shares
 QUS - State Street SPDR MSCI USA StrategicFactors ETF
 QUSA - VistaShares Target 15 USA Quality Income ETF
-QUVU - Hartford Quality Value ETF
 QVAL - Alpha Architect U.S. Quantitative Value ETF
 QVML - Invesco S&P 500 QVM Multi-factor ETF
 QVMM - Invesco S&P MidCap 400 QVM Multi-factor ETF
@@ -9575,7 +9582,6 @@ SIVR - abrdn Physical Silver Shares ETF
 SIXA - ETC 6 Meridian Mega Cap Equity ETF
 SIXD - AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF
 SIXF - AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF
-SIXG - Defiance Connective Technologies ETF
 SIXH - ETC 6 Meridian Hedged Equity Index Option ETF
 SIXJ - AllianzIM U.S. Large Cap 6 Month Buffer10 Jan/Jul ETF
 SIXL - ETC 6 Meridian Low Beta Equity ETF
@@ -11060,7 +11066,6 @@ VBCJ - Vanguard Target Maturity 2036 Corporate Bond ETF
 VBF - Invesco Bond Fund Common Stock
 VBIL - Vanguard 0-3 Month Treasury Bill ETF
 VBIO - Valion Bio, Inc. - Common stock
-VBIX - Viewbix Inc. - Common Stock 
 VBK - Vanguard Small-Cap Growth ETF
 VBND - Vident U.S. Bond Strategy ETF
 VBNK - VersaBank - Common Shares
@@ -11455,7 +11460,7 @@ WIMI - WiMi Hologram Cloud Inc. - Class B Ordinary Shares
 WINA - Winmark Corporation - Common Stock
 WING - Wingstop Inc. - Common Stock
 WINN - Harbor Long-Term Growers ETF
-WIP - SPDR FTSE International Government Inflation-Protected Bond ETF
+WIP - State Street SPDR FTSE International Government Inflation-Protected Bond ETF
 WISD - Wisdom Short Duration Income ETF
 WISE - Themes Generative Artificial Intelligence ETF
 WIT - Wipro Limited Common Stock
