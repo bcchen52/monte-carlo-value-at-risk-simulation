@@ -443,6 +443,7 @@ ALX - Alexander's, Inc. Common Stock
 ALXO - ALX Oncology Holdings Inc. - Common Stock
 ALZN - Alzamend Neuro, Inc. - Common Stock
 AM - Antero Midstream Corporation Common Stock
+AMA - Defiance Daily Target 2X Long AMAT ETF
 AMAL - Amalgamated Financial Corp. - Common Stock
 AMAT - Applied Materials, Inc. - Common Stock
 AMAX - Adaptive Hedged Multi-Asset Income ETF
@@ -694,7 +695,6 @@ ARR - ARMOUR Residential REIT, Inc.
 ARRY - Array Technologies, Inc. - Common Stock
 ARTC - Art Technology Acquisition Corp. - Class A Ordinary Shares
 ARTCU - Art Technology Acquisition Corp. - Units
-ARTCW - Art Technology Acquisition Corp. - Warrants
 ARTL - Artelo Biosciences, Inc. - Common Stock
 ARTNA - Artesian Resources Corporation - Class A Non-Voting Common Stock
 ARTV - Artiva Biotherapeutics, Inc. - Common Stock
@@ -2119,6 +2119,7 @@ CLWT - Euro Tech Holdings Company Limited - Ordinary Shares
 CLX - Clorox Company (The) Common Stock
 CLYM - Climb Bio, Inc. - Common Stock
 CM - Canadian Imperial Bank of Commerce Common Stock
+CMAY - Corgi U.S. Equities 15% Structured Buffer ETF - May Series
 CMBO - Wayfinder Dynamic U.S. Interest Rate ETF
 CMBS - iShares CMBS Bond ETF
 CMBT - CMB.TECH NV Ordinary Shares
@@ -2197,6 +2198,7 @@ CNXC - Concentrix Corporation - Common Stock
 CNXN - PC Connection, Inc. - Common Stock
 CNXT - VanEck ChiNext Innovators ETF
 CNYA - iShares MSCI China A ETF
+COAG - Hemab Therapeutics Holdings, Inc. - Common Stock
 COAL - Range Global Coal Index ETF
 COCH - Envoy Medical, Inc. - Class A Common Stock
 COCHW - Envoy Medical, Inc. - Warrant
@@ -2654,6 +2656,7 @@ DDFM - Innovator Equity Dual Directional 15 Buffer ETF - March
 DDFN - Innovator Equity Dual Directional 15 Buffer ETF - November
 DDFO - Innovator Equity Dual Directional 15 Buffer ETF - October
 DDFS - Innovator Equity Dual Directional 15 Buffer ETF - September
+DDFY - Innovator Equity Dual Directional 15 Buffer ETF - May
 DDI - DoubleDown Interactive Co., Ltd. - American Depository Shares
 DDIV - First Trust Dorsey Wright Momentum & Dividend ETF
 DDL - Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)
@@ -2673,6 +2676,7 @@ DDTM - Innovator Equity Dual Directional 10 Buffer ETF - March
 DDTN - Innovator Equity Dual Directional 10 Buffer ETF - November
 DDTO - Innovator Equity Dual Directional 10 Buffer ETF - October
 DDTS - Innovator Equity Dual Directional 10 Buffer ETF - September
+DDTY - Innovator Equity Dual Directional 10 Buffer ETF - May
 DDV - Defined Duration 5 ETF
 DDWM - WisdomTree Dynamic International Equity Fund
 DDX - Defined Duration 10 ETF
@@ -3071,6 +3075,8 @@ DYLD - LeaderShares Dynamic Yield ETF
 DYLG - Global X Dow 30 Covered Call & Growth ETF
 DYN - Dyne Therapeutics, Inc. - Common Stock
 DYNB - Hartford Dynamic Bond ETF
+DYNC - Dynamix Corporation - Class A Ordinary Share
+DYNCW - Dynamix Corporation - Warrant
 DYNF - iShares U.S. Equity Factor Rotation Active ETF
 DYOR - Insight Digital Partners II - Class A Ordinary Shares
 DYORU - Insight Digital Partners II - Units
@@ -3820,7 +3826,6 @@ FGDL - Franklin Responsibly Sourced Gold ETF
 FGI - FGI Industries Ltd. - Ordinary Shares
 FGII - FG Imperii Acquisition Corp. - Class A Ordinary Shares
 FGIIU - FG Imperii Acquisition Corp. - Units
-FGIIW - FG Imperii Acquisition Corp. - Warrants
 FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
@@ -4817,7 +4822,6 @@ HCC - Warrior Met Coal, Inc. Common Stock
 HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
 HCIC - Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares
-HCICR - Hennessy Capital Investment Corp. VIII - Share Rights
 HCICU - Hennessy Capital Investment Corp. VIII - Units
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
@@ -6597,10 +6601,12 @@ MATH - Metalpha Technology Holding Limited - Ordinary Shares
 MATV - Mativ Holdings, Inc. Common Stock
 MATW - Matthews International Corporation - Class A Common Stock
 MATX - Matson, Inc. Common Stock
+MAUG - Pacer Swan SOS Moderate (August) ETF
 MAVF - Matrix Advisors Value ETF
 MAX - MediaAlpha, Inc. Class A Common Stock
 MAXI - Simplify Bitcoin Strategy PLUS Income ETF
 MAXJ - iShares Large Cap Max Buffer Jun ETF
+MAYC - Corgi U.S. Equities 10% Structured Buffer ETF - May Series
 MAYM - FT Vest U.S. Equity Max Buffer ETF - May
 MAYP - PGIM S&P 500 Buffer 12 ETF - May
 MAYS - J. W. Mays, Inc. - Common Stock
@@ -6883,6 +6889,7 @@ MLTX - MoonLake Immunotherapeutics - Class A Ordinary Shares
 MLYS - Mineralys Therapeutics, Inc. - Common Stock
 MMA - Mixed Martial Arts Group Limited Ordinary Shares
 MMAX - iShares Large Cap Max Buffer Mar ETF
+MMAY - Pacer Swan SOS Moderate (May) ETF
 MMCA - NYLI MacKay California Muni Intermediate ETF
 MMD - NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares
 MMED - MiniMed Group, Inc. - Common Stock
@@ -7747,7 +7754,6 @@ OILT - Texas Capital Texas Oil Index ETF
 OILU - MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN
 OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
-OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
 OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
@@ -7975,7 +7981,6 @@ PALI - Palisade Bio, Inc. - Common Stock
 PALL - abrdn Physical Palladium Shares ETF
 PALO - Paloma Acquisition Corp I - Class A Ordinary Shares
 PALOU - Paloma Acquisition Corp I - Units
-PALOW - Paloma Acquisition Corp I - Warrants
 PALU - Direxion Daily PANW Bull 2X ETF
 PAM - Pampa Energia S.A.
 PAMC - Pacer Lunt MidCap Multi-Factor Alternator ETF
@@ -8351,6 +8356,7 @@ POCI - Precision Optics Corporation, Inc. - Common stock
 POCT - Innovator U.S. Equity Power Buffer ETF - October
 PODC - PodcastOne, Inc. - Common Stock
 PODD - Insulet Corporation - Common Stock
+POEL - Defiance Daily Target 2X Long POET ETF
 POET - POET Technologies Inc. - Common Shares
 POLA - Polar Power, Inc. - Common Stock
 POLE - Andretti Acquisition Corp. II - Class A Ordinary Shares
@@ -8696,6 +8702,7 @@ QQH - HCM Defender 100 Index ETF
 QQHG - Invesco QQQ Hedged Advantage ETF
 QQLV - Invesco QQQ Low Volatility ETF
 QQMG - Invesco ESG NASDAQ 100 ETF
+QQMY - Corgi Growth & Technology 15% Structured Buffer ETF - May Series
 QQQ - Invesco QQQ Trust, Series 1
 QQQA - ProShares Nasdaq-100 Dorsey Wright Momentum ETF
 QQQD - Direxion Daily Magnificent 7 Bear 1X ETF
@@ -9911,6 +9918,7 @@ SPTL - State Street SPDR Portfolio Long Term Treasury ETF
 SPTM - State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF
 SPTS - State Street SPDR Portfolio Short Term Treasury ETF
 SPTU - State Street SPDR Portfolio Ultra Short T-Bill ETF
+SPTX - Seaport Therapeutics, Inc. - Common Stock
 SPUC - Simplify US Equity PLUS Upside Convexity ETF
 SPUS - SP Funds S&P 500 Sharia Industry Exclusions ETF
 SPUT - Innovator Equity Premium Income - Daily PutWrite ETF
@@ -11553,6 +11561,7 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
+WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
@@ -11844,7 +11853,6 @@ YGLD - Simplify Gold Strategy PLUS Income ETF
 YHC - LQR House Inc. - Common Stock
 YHGJ - Yunhong Green CTI Ltd. - Common Stock
 YHNA - YHN Acquisition I Limited - Ordinary Shares
-YHNAR - YHN Acquisition I Limited - Right
 YHNAU - YHN Acquisition I Limited - Unit
 YI - 111, Inc. - American Depositary Shares
 YIBO - Planet Image International Limited - Class A Ordinary Shares
