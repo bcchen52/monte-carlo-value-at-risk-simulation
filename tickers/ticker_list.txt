@@ -6084,7 +6084,7 @@ KOCT - Innovator U.S. Small Cap Power Buffer ETF - October
 KOD - Kodiak Sciences Inc - Common Stock
 KODK - Eastman Kodak Company Common New
 KOF - Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)
-KOID - KraneShares Global Humanoid and Embodied Intelligence Index ETF
+KOID - KraneShares Global Humanoid Robotics and Physical AI Index ETF
 KOKU - Xtrackers MSCI Kokusai Equity ETF
 KOLD - ProShares UltraShort Bloomberg Natural Gas
 KOMP - State Street SPDR S&P Kensho New Economies Composite ETF
@@ -6714,7 +6714,6 @@ MED - MEDIFAST INC Common Stock
 MEDI - Harbor Health Care ETF
 MEDP - Medpace Holdings, Inc. - Common Stock
 MEDX - Horizon Kinetics Medical ETF
-MEG - Montrose Environmental Group, Inc. Common Stock
 MEGI - NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares
 MEGL - Magic Empire Global Limited - Class A Ordinary Shares
 MEHA - Functional Brands, Inc. - Common Stock
@@ -10048,7 +10047,6 @@ STIP - iShares 0-5 Year TIPS Bond ETF
 STK - Columbia Seligman Premium Technology Growth Fund Inc
 STKE - Sol Strategies Inc. - Common Shares
 STKH - Steakholder Foods Ltd. - American Depositary Shares
-STKL - SunOpta, Inc. - Common Stock
 STKS - The ONE Group Hospitality, Inc. - Common Stock
 STLA - Stellantis N.V. Common Shares
 STLD - Steel Dynamics, Inc. - Common Stock
