@@ -921,6 +921,7 @@ AXSM - Axsome Therapeutics, Inc. - Common Stock
 AXTA - Axalta Coating Systems Ltd. Common Shares
 AXTI - AXT Inc - Common Stock
 AXTX - Tradr 2X Long AXTI Daily ETF
+AYA - Aya Gold & Silver Inc. - Common Shares
 AYI - Acuity Inc. Common Stock
 AYTU - Aytu BioPharma, Inc.  - Common Stock
 AZ - A2Z Cust2Mate Solutions Corp. - Common Shares
@@ -3251,7 +3252,6 @@ EJAN - Innovator Emerging Markets Power Buffer ETF January
 EJH - E-Home Household Service Holdings Limited - Ordinary shares
 EJUL - Innovator Emerging Markets Power Buffer ETF July
 EKG - First Trust Nasdaq Lux Digital Health Solutions ETF
-EKSO - Ekso Bionics Holdings, Inc. - Common Stock
 EL - Estee Lauder Companies, Inc. (The) Common Stock
 ELA - Envela Corporation Common Stock
 ELAB - PMGC Holdings Inc. - Common Stock
@@ -3309,6 +3309,7 @@ EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
+EMISR - Emmis Acquisition Corp. - Rights
 EMKT - Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
@@ -4268,7 +4269,6 @@ GAID - Guinness Atkinson International Dividend Builder ETF
 GAIN - Gladstone Investment Corporation - Business Development Company
 GAING - Gladstone Investment Corporation - 7.125% Notes due 2031
 GAINI - Gladstone Investment Corporation - 7.875% Notes due 2030
-GAINN - Gladstone Investment Corporation - 5.00% Notes Due 2026
 GAINZ - Gladstone Investment Corporation - 4.875% Notes due 2028
 GAL - State Street Global Allocation ETF
 GALT - Galectin Therapeutics Inc. - Common Stock
@@ -4792,6 +4792,7 @@ HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
 HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
+HAVAR - Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares
 HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWX - iShares Currency Hedged MSCI ACWI ex U.S. ETF
 HAYW - Hayward Holdings, Inc. Common Stock
@@ -4822,6 +4823,7 @@ HCC - Warrior Met Coal, Inc. Common Stock
 HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
 HCIC - Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares
+HCICR - Hennessy Capital Investment Corp. VIII - Share Rights
 HCICU - Hennessy Capital Investment Corp. VIII - Units
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
@@ -5285,6 +5287,7 @@ IDYA - IDEAYA Biosciences, Inc. - Common Stock
 IDYN - iShares International Equity Factor Rotation Active ETF
 IE - Ivanhoe Electric Inc. Common Stock
 IEAG - Infinite Eagle Acquisition Corp. - Class A Ordinary Shares
+IEAGR - Infinite Eagle Acquisition Corp. - Rights
 IEAGU - Infinite Eagle Acquisition Corp. - Unit
 IEDI - iShares U.S. Consumer Focused ETF
 IEF - iShares 7-10 Year Treasury Bond ETF
@@ -6752,6 +6755,7 @@ MFAN - MFA Financial, Inc. 8.875% Senior Notes due 2029
 MFAO - MFA Financial, Inc. 9.000% Senior Notes due 2029
 MFC - Manulife Financial Corporation Common Stock
 MFDX - PIMCO RAFI Dynamic Multi-Factor International Equity ETF
+MFEB - Pacer Swan SOS Moderate (February) ETF
 MFEM - PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF
 MFG - Mizuho Financial Group, Inc. Sponosred ADR (Japan)
 MFI - mF International Limited - Class A Ordinary Shares
@@ -6932,6 +6936,7 @@ MNTK - Montauk Renewables, Inc. - Common Stock
 MNTN - MNTN, Inc. Class A Common Stock
 MNTS - Momentus Inc. - Class A Common Stock
 MNTSW - Momentus Inc. - Warrant
+MNVR - Pacer Swan SOS Moderate (November) ETF
 MNVT - Moonvest ETF
 MNY - MoneyHero Limited - Class A Ordinary Shares
 MNYWW - MoneyHero Limited - Warrants
@@ -7817,6 +7822,7 @@ ONMD - OneMedNet Corp - Class A Common Stock
 ONMDW - OneMedNet Corp - Warrant
 ONOF - Global X Adaptive U.S. Risk Management ETF
 ONON - On Holding AG Class A Ordinary Shares
+ONT - Onterris, Inc. Common Stock
 ONTO - Onto Innovation Inc. Common Stock
 OOMA - Ooma, Inc. Common Stock
 OOSP - Obra Opportunistic Structured Products ETF
@@ -8180,6 +8186,7 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
+PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -9376,6 +9383,7 @@ SCNI - Scinai Immunotherapeutics Ltd. - American Depositary Shares
 SCNM - Sterling Capital National Municipal Bond ETF
 SCNX - Scienture Holdings, Inc. - Common Stock
 SCO - ProShares UltraShort Bloomberg Crude Oil
+SCOP - Sprott Physical Copper Trust Units
 SCOR - comScore, Inc. - Common Stock
 SCOW - Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
 SCPQ - Social Commerce Partners Corporation - Class A Ordinary Shares
@@ -9504,7 +9512,6 @@ SGI - Somnigroup International Inc. Common Stock
 SGLC - SGI U.S. Large Cap Core ETF
 SGLY - Singularity Future Technology Ltd. - Common Stock
 SGML - Sigma Lithium Corporation - common shares
-SGMO - Sangamo Therapeutics, Inc. - Common Stock
 SGMT - Sagimet Biosciences Inc. - Series A Common Stock
 SGOL - abrdn Physical Gold Shares ETF
 SGOV - iShares 0-3 Month Treasury Bond ETF
@@ -9805,7 +9812,6 @@ SOLR - Guinness Atkinson Sustainable Energy ETF
 SOLS - Solstice Advanced Materials Inc. - Common Stock
 SOLT - 2x Solana ETF
 SOLV - Solventum Corporation Common Stock
-SOLX - T-REX 2X Long SOL Daily Target ETF
 SOLZ - Solana ETF
 SOMN - Southern Company (The) 2025 Series A Corporate Units
 SON - Sonoco Products Company Common Stock
@@ -9997,6 +10003,7 @@ SSB - SouthState Bank Corporation Common Stock
 SSBI - Summit State Bank - Common Stock
 SSD - Simpson Manufacturing Company, Inc. Common Stock
 SSEA - Starry Sea Acquisition Corp - Ordinary Shares
+SSEAR - Starry Sea Acquisition Corp - Rights
 SSEAU - Starry Sea Acquisition Corp - Unit
 SSFI - Day Hagan Smart Sector Fixed Income ETF
 SSG - ProShares UltraShort Semiconductors
@@ -10853,8 +10860,6 @@ UGL - ProShares Ultra Gold
 UGP - Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)
 UGRO - urban-gro, Inc. - Common Stock
 UHAL - U-Haul Holding Company Common Stock
-UHG - United Homes Group, Inc - Class A Common Stock
-UHGWW - United Homes Group, Inc - Warrant
 UHS - Universal Health Services, Inc. Common Stock
 UHT - Universal Health Realty Income Trust Common Stock
 UI - Ubiquiti Inc. Common Stock
@@ -11761,7 +11766,6 @@ XRN - Chiron Real Estate Inc. Common Stock
 XRP - Bitwise XRP ETF
 XRPC - Canary XRP ETF
 XRPI - Volatility Shares Trust XRP ETF
-XRPK - T-REX 2X Long XRP Daily Target ETF
 XRPM - Amplify XRP 3% Monthly Option Income ETF
 XRPN - Armada Acquisition Corp. II - Class A Ordinary Shares
 XRPNU - Armada Acquisition Corp. II - Units
@@ -11851,6 +11855,7 @@ YGLD - Simplify Gold Strategy PLUS Income ETF
 YHC - LQR House Inc. - Common Stock
 YHGJ - Yunhong Green CTI Ltd. - Common Stock
 YHNA - YHN Acquisition I Limited - Ordinary Shares
+YHNAR - YHN Acquisition I Limited - Right
 YHNAU - YHN Acquisition I Limited - Unit
 YI - 111, Inc. - American Depositary Shares
 YIBO - Planet Image International Limited - Class A Ordinary Shares
