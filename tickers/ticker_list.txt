@@ -83,7 +83,6 @@ ABXL - Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028
 ACA - Arcosa, Inc. Common Stock 
 ACAA - Averin Capital Acquisition Corp. - Class A Ordinary Shares
 ACAAU - Averin Capital Acquisition Corp. - Units
-ACAAW - Averin Capital Acquisition Corp. - Warrants
 ACAD - ACADIA Pharmaceuticals Inc. - Common Stock
 ACB - Aurora Cannabis Inc. - Common Shares
 ACCL - Acco Group Holdings Limited - Class A Ordinary Shares
@@ -469,6 +468,7 @@ AMH - American Homes 4 Rent Common Shares of Beneficial Interest
 AMID - Argent Mid Cap ETF
 AMIX - Autonomix Medical, Inc. - Common Stock
 AMJB - Alerian MLP Index ETN
+AMKL - Defiance Daily Target 2X Long AMKR ETF
 AMKR - Amkor Technology, Inc. - Common Stock
 AMLP - Alerian MLP ETF
 AMLX - Amylyx Pharmaceuticals, Inc. - Common Stock
@@ -695,6 +695,7 @@ ARR - ARMOUR Residential REIT, Inc.
 ARRY - Array Technologies, Inc. - Common Stock
 ARTC - Art Technology Acquisition Corp. - Class A Ordinary Shares
 ARTCU - Art Technology Acquisition Corp. - Units
+ARTCW - Art Technology Acquisition Corp. - Warrants
 ARTL - Artelo Biosciences, Inc. - Common Stock
 ARTNA - Artesian Resources Corporation - Class A Non-Voting Common Stock
 ARTV - Artiva Biotherapeutics, Inc. - Common Stock
@@ -920,6 +921,7 @@ AXS - Axis Capital Holdings Limited Common Stock
 AXSM - Axsome Therapeutics, Inc. - Common Stock
 AXTA - Axalta Coating Systems Ltd. Common Shares
 AXTI - AXT Inc - Common Stock
+AXTU - T-REX 2X Long AXTI Daily Target ETF
 AXTX - Tradr 2X Long AXTI Daily ETF
 AYA - Aya Gold & Silver Inc. - Common Shares
 AYI - Acuity Inc. Common Stock
@@ -1249,6 +1251,7 @@ BINV - Brandes International ETF
 BIO - Bio-Rad Laboratories, Inc. Class A Common Stock
 BIOA - BioAge Labs, Inc. - Common Stock
 BIOX - Bioceres Crop Solutions Corp. - Ordinary Shares
+BIOY - GraniteShares YieldBOOST Biotech ETF
 BIP - Brookfield Infrastructure Partners LP Limited Partnership Units
 BIPC - Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation
 BIPH - Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081
@@ -2019,6 +2022,7 @@ CHPY - YieldMax Semiconductor Portfolio Option Income ETF
 CHR - Cheer Holding, Inc.  - Class A Ordinary Share
 CHRD - Chord Energy Corporation - Common Stock
 CHRI - Global X S&P 500 Christian Values ETF
+CHRN - ChronoScale Corporation - Common Stock
 CHRS - Coherus Oncology, Inc. - Common Stock
 CHRW - C.H. Robinson Worldwide, Inc. - Common Stock
 CHSCL - CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4
@@ -2611,7 +2615,6 @@ DBB - Invesco DB Base Metals Fund
 DBC - Invesco DB Commodity Index Tracking Fund
 DBCA - D. Boral Acquisition I Corp. - Class A Ordinary Shares
 DBCAU - D. Boral Acquisition I Corp. - Unit
-DBCAW - D. Boral Acquisition I Corp. - Warrants
 DBD - Diebold Nixdorf Incorporated Common stock
 DBE - Invesco DB Energy Fund
 DBEF - Xtrackers MSCI EAFE Hedged Equity ETF
@@ -2809,6 +2812,7 @@ DIHP - Dimensional International High Profitability ETF
 DIM - WisdomTree International MidCap Dividend Fund
 DIME - CoinShares Altcoins ETF
 DIN - Dine Brands Global, Inc. Common Stock
+DINE - Simplify Tax Aware Diversified Income Strategy ETF
 DINO - HF Sinclair Corporation Common Stock
 DINT - Davis Select International ETF
 DIOD - Diodes Incorporated - Common Stock
@@ -3636,7 +3640,6 @@ FAMI - Farmmi, Inc. - Class A Ordinary Shares
 FAN - First Trust Global Wind Energy ETF
 FANG - Diamondback Energy, Inc. - Common Stock
 FAPR - FT Vest U.S. Equity Buffer ETF - April
-FARM - Farmer Brothers Company - Common Stock
 FARX - Frontier Asset Absolute Return ETF
 FAS - Direxion Financial Bull 3X ETF
 FAST - Fastenal Company - Common Stock
@@ -3872,6 +3875,7 @@ FINT - Frontier Asset Total International Equity ETF
 FINV - FinVolution Group American Depositary Shares
 FINW - FinWise Bancorp - Common Stock
 FINX - Global X FinTech ETF
+FINY - GraniteShares YieldBOOST Financials ETF
 FIP - FTAI Infrastructure Inc. - Common Stock
 FIS - Fidelity National Information Services, Inc. Common Stock
 FISI - Financial Institutions, Inc. - Common Stock
@@ -3893,6 +3897,7 @@ FIX - Comfort Systems USA, Inc. Common Stock
 FIXD - First Trust Smith Opportunistic Fixed Income ETF
 FIXP - FolioBeyond Enhanced Fixed Income Premium ETF
 FIXT - TCW Core Plus Bond ETF
+FIYY - GraniteShares YieldBOOST 20Y Treasuries ETF
 FIZZ - National Beverage Corp. - Common Stock
 FJAN - FT Vest U.S. Equity Buffer ETF - January
 FJET - Starfighters Space, Inc. Common Stock
@@ -5582,7 +5587,6 @@ IRDM - Iridium Communications Inc - Common Stock
 IRE - Defiance Daily Target 2X Long IREN ETF
 IREG - Leverage Shares 2X Long IREN Daily ETF
 IREN - IREN Limited - Ordinary Shares
-IRET - iREIT - MarketVector Quality REIT Index ETF
 IREX - Tradr 2X Long IREN Daily ETF
 IREZ - Tradr 2X Short IREN Daily ETF
 IRHO - Iron Horse Acquisitions II Corp. - Common Stock
@@ -6452,6 +6456,7 @@ LPRO - Open Lending Corporation - Common Stock
 LPSN - LivePerson, Inc. - Common Stock
 LPTH - LightPath Technologies, Inc. - Class A Common Stock
 LPX - Louisiana-Pacific Corporation Common Stock
+LQ - Simplify Tax Aware Alternatives ETF
 LQAI - LG QRAFT AI-Powered U.S. Large Cap Core ETF
 LQD - iShares iBoxx $ Investment Grade Corporate Bond ETF
 LQDA - Liquidia Corporation - Common Stock
@@ -7123,7 +7128,6 @@ MUX - McEwen Inc. Common Stock
 MUYY - GraniteShares YieldBOOST MU ETF
 MUZE - Muzero Acquisition Corp - Class A Ordinary Shares
 MUZEU - Muzero Acquisition Corp - Unit
-MUZEW - Muzero Acquisition Corp - Warrant
 MVAL - VanEck Morningstar Wide Moat Value ETF
 MVBF - MVB Financial Corp. - Common Stock
 MVFD - Monarch Volume Factor Dividend Tree Index ETF
@@ -7367,6 +7371,7 @@ NI - NiSource Inc Common Stock
 NIC - Nicolet Bankshares Inc. Common Stock
 NICE - NICE Ltd - American Depositary Shares each representing one Ordinary Share
 NICM - Nicola Mining Inc. - American Depositary Shares
+NICO - Hexis Active Nicotine Engagement ETF
 NIE - Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest
 NIHI - NEOS MSCI EAFE High Income ETF
 NIKL - Sprott Nickel Miners ETF
@@ -8260,7 +8265,6 @@ PKBK - Parke Bancorp, Inc. - Common Stock
 PKE - Park Aerospace Corp. Common Stock
 PKG - Packaging Corporation of America Common Stock
 PKOH - Park-Ohio Holdings Corp. - Common Stock
-PKST - Peakstone Realty Trust Common Shares
 PKW - Invesco BuyBack Achievers ETF
 PKX - POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock)
 PL - Planet Labs PBC Class A Common Stock
@@ -8369,6 +8373,8 @@ POLE - Andretti Acquisition Corp. II - Class A Ordinary Shares
 POLEU - Andretti Acquisition Corp. II - Unit
 POLEW - Andretti Acquisition Corp. II - Warrant
 POM - POMDOCTOR LIMITED - American Depositary Shares
+PONO - Pono Capital Four, Inc. - Class A Ordinary Shares
+PONOR - Pono Capital Four, Inc. - Rights
 PONOU - Pono Capital Four, Inc. - Units
 PONX - Tradr 2X Long PONY Daily ETF
 PONY - Pony AI Inc. - American Depositary Shares
@@ -8884,6 +8890,7 @@ RDY - Dr. Reddy's Laboratories Ltd Common Stock
 RDYY - YieldMax RDDT Option Income Strategy ETF
 RDZN - Roadzen, Inc. - Ordinary Shares
 RDZNW - Roadzen, Inc. - Warrants
+REA - Rare Earths Americas, Inc. Common Stock
 REAI - Intelligent Real Estate ETF
 REAL - The RealReal, Inc. - Common Stock
 REAX - The Real Brokerage, Inc. - Common Shares
@@ -10333,6 +10340,7 @@ TECK - Teck Resources Ltd Ordinary Shares
 TECL - Direxion Daily Technology Bull 3X ETF
 TECS - Direxion Technology Bear 3X ETF
 TECX - Tectonic Therapeutic, Inc. - Common Stock
+TECY - GraniteShares YieldBOOST Technology ETF
 TEI - Templeton Emerging Markets Income Fund, Inc. Common Stock
 TEK - iShares Technology Opportunities Active ETF
 TEKX - State Street Galaxy Transformative Tech Accelerators ETF
@@ -10355,7 +10363,6 @@ TEO - Telecom Argentina SA
 TEQI - T. Rowe Price Equity Income ETF
 TER - Teradyne, Inc. - Common Stock
 TERG - Leverage Shares 2X Long TER Daily ETF
-TERN - Terns Pharmaceuticals, Inc. - Common Stock
 TESL - Simplify Volt TSLA Revolution ETF
 TEST - YieldMax TSLA Performance & Distribution Target 25 ETF
 TETH - 21Shares Ethereum ETF
@@ -10576,6 +10583,9 @@ TPB - Turning Point Brands, Inc. Common Stock
 TPC - Tutor Perini Corporation Common Stock
 TPCS - TechPrecision Corporation - Common stock
 TPET - Trio Petroleum Corp. Common Stock
+TPFC - Timothy Plan Free Cash Flow ETF
+TPFG - Timothy Plan Free Cash Flow Growth ETF
+TPFI - Timothy Plan Fixed Income ETF
 TPG - TPG Inc. - Class A Common Stock
 TPGXL - TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064
 TPH - Tri Pointe Homes, Inc. Common Stock
@@ -11743,6 +11753,7 @@ XONE - BondBloxx Bloomberg One Year Target Duration US Treasury ETF
 XOP - State Street SPDR S&P Oil & Gas Exploration & Production ETF
 XOS - Xos, Inc. - Common Stock
 XOSWW - Xos, Inc. - Warrants
+XOVL - Defiance Daily Target 2X Long XOVR ETF
 XOVR - ERShares Private-Public Crossover ETF
 XP - XP Inc. - Class A Common Stock
 XPAY - Roundhill S&P 500 Target 20 Managed Distribution ETF
