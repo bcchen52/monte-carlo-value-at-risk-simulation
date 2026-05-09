@@ -279,6 +279,7 @@ AGNCO - AGNC Investment Corp. - Depositary Shares, each representing a 1/1,000th
 AGNCP - AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
 AGNCZ - AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock
 AGNG - Global X Aging Population ETF
+AGNT - eXp World Holdings, Inc. - Common Stock
 AGO - Assured Guaranty Ltd. Common Stock
 AGOX - Adaptive Alpha Opportunities ETF
 AGPU - Axe Compute Inc. - Common Stock
@@ -1759,6 +1760,7 @@ CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
 CAQ - Cambridge Acquisition Corp. - Class A Ordinary Shares
 CAQUU - Cambridge Acquisition Corp. - Unit
+CAQUW - Cambridge Acquisition Corp. - Warrants
 CAR - Avis Budget Group, Inc. - Common Stock
 CARD - MAX Auto Industry -3x Inverse Leveraged ETN
 CARE - Carter Bankshares, Inc. - Common Stock
@@ -2152,7 +2154,6 @@ CMGG - Leverage Shares 2X Long CMG Daily ETF
 CMI - Cummins Inc. Common Stock
 CMII - Columbus Circle Capital Corp II - Class A Ordinary Shares
 CMIIU - Columbus Circle Capital Corp II - Unit
-CMIIW - Columbus Circle Capital Corp II - Warrant
 CMMB - Chemomab Therapeutics Ltd.  - American Depositary Shares
 CMND - Clearmind Medicine Inc. - Common Shares
 CMP - Compass Minerals Intl Inc Common Stock
@@ -3353,6 +3354,7 @@ ENFR - Alerian Energy Infrastructure ETF
 ENGN - enGene Therapeutics Inc. - Common Stock
 ENGNW - enGene Therapeutics Inc. - Warrants
 ENGS - Energys Group Limited - Ordinary Shares
+ENHA - Enhanced Group Inc. Class A Common Stock
 ENHI - iShares Enhanced International Active ETF
 ENHU - iShares Enhanced Large Cap Core Active ETF
 ENIC - Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock)
@@ -6261,7 +6263,6 @@ LBTYK - Liberty Global Ltd. - Class C Common Shares
 LC - LendingClub Corporation Common Stock
 LCAP - Principal Capital Appreciation Select ETF
 LCCC - Lakeshore Acquisition III Corp. - Ordinary Shares
-LCCCR - Lakeshore Acquisition III Corp. - Rights
 LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
@@ -6397,9 +6398,11 @@ LIXT - Lixte Biotechnology Holdings, Inc. - Common Stock
 LJAN - Innovator Premium Income 15 Buffer ETF - January
 LJUL - Innovator Premium Income 15 Buffer ETF - July
 LKFN - Lakeland Financial Corporation - Common Stock
+LKFT - Lakefront Biotherapeutics - American Depositary Shares
 LKOR - FlexShares Credit-Scored US Long Corporate Bond Index Fund
 LKQ - LKQ Corporation - Common Stock
 LKSP - Lake Superior Acquisition Corp. - Class A Ordinary Shares
+LKSPR - Lake Superior Acquisition Corp. - Rights
 LKSPU - Lake Superior Acquisition Corp. - Units
 LLDR - Global X Long-Term Treasury Ladder ETF
 LLII - REX LLY Growth & Income ETF
@@ -6971,6 +6974,7 @@ MO - Altria Group, Inc.
 MOAT - VanEck Morningstar Wide Moat ETF
 MOB - Mobilicom Limited - Ordinary Shares
 MOBBW - Mobilicom Limited - Warrants
+MOBI - Mobia Medical, Inc. - Common Stock
 MOBX - Mobix Labs, Inc. - Class A Common Stock
 MOBXW - Mobix Labs, Inc. - Warrants
 MOD - Modine Manufacturing Company Common Stock
@@ -7269,7 +7273,6 @@ NBOS - Neuberger Option Strategy ETF
 NBP - NovaBridge Biosciences - American Depositary Shares
 NBR - Nabors Industries Ltd.
 NBRG - Newbridge Acquisition Limited - Class A Ordinary Share
-NBRGR - Newbridge Acquisition Limited - Rights
 NBRGU - Newbridge Acquisition Limited - Unit
 NBSD - Neuberger Short Duration Income ETF
 NBSM - Neuberger Small-Mid Cap ETF
@@ -7471,7 +7474,6 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
-NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
 NOEQ - Northern Trust US Equity ETF
@@ -7752,6 +7754,7 @@ ODDZ - Corgi Sports Betting & Gambling ETF
 ODFL - Old Dominion Freight Line, Inc. - Common Stock
 ODHY - Obra Defensive High Yield ETF
 ODTE - VegaShares SPX NDX RTY Premium Income ETF
+ODTX - Odyssey Therapeutics, Inc. - Common Stock
 ODV - Osisko Development Corp. Common Shares
 ODVWZ - Osisko Development Corp. - Warrant
 ODYS - Odysight.ai Inc. - Common Stock
@@ -8016,6 +8019,7 @@ PALI - Palisade Bio, Inc. - Common Stock
 PALL - abrdn Physical Palladium Shares ETF
 PALO - Paloma Acquisition Corp I - Class A Ordinary Shares
 PALOU - Paloma Acquisition Corp I - Units
+PALOW - Paloma Acquisition Corp I - Warrants
 PALU - Direxion Daily PANW Bull 2X ETF
 PAM - Pampa Energia S.A.
 PAMC - Pacer Lunt MidCap Multi-Factor Alternator ETF
@@ -8500,6 +8504,7 @@ PRXV - Praxis Impact Large Cap Value ETF
 PRZO - ParaZero Technologies Ltd. - Ordinary Shares
 PS - Pershing Square Inc. Common Stock
 PSA - Public Storage Common Stock
+PSAI - Pacer S&P 500 3AI Top 100 ETF
 PSBD - Palmer Square Capital BDC Inc. Common Stock
 PSC - Principal U.S. Small-Cap ETF
 PSCC - Invesco S&P SmallCap Consumer Staples ETF
@@ -11458,6 +11463,7 @@ WCPB - Weitz Core Plus Bond ETF
 WCT - Wellchange Holdings Company Limited - Class A Ordinary shares
 WD - Walker & Dunlop, Inc Common Stock
 WDAF - WisdomTree Asia Defense Fund
+WDAI - Pacer S&P World 3AI Top 300 ETF
 WDAY - Workday, Inc. - Class A Common Stock
 WDC - Western Digital Corporation - Common Stock
 WDCX - Tradr 2X Long WDC Daily ETF
@@ -11512,6 +11518,7 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
+WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
