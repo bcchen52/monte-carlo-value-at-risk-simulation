@@ -912,6 +912,7 @@ AXGN - Axogen, Inc. - Common Stock
 AXIA - AXIA Energia American Depositary Shares (Each representing one Common Share)
 AXIL - AXIL Brands, Inc. Common Stock
 AXIN - Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares
+AXINR - Axiom Intelligence Acquisition Corp 1 - Right
 AXINU - Axiom Intelligence Acquisition Corp 1 - Units
 AXON - Axon Enterprise, Inc. - Common Stock
 AXP - American Express Company Common Stock
@@ -1450,6 +1451,7 @@ BOOM - DMC Global Inc. - Common Stock
 BOOT - Boot Barn Holdings, Inc. Common Stock
 BORR - Borr Drilling Limited Common Shares
 BOSC - B.O.S. Better Online Solutions - Ordinary Shares
+BOT - RoboStrategy, Inc. - Common Stock
 BOTJ - Bank of the James Financial Group, Inc. - Common Stock
 BOTT - Themes Humanoid Robotics ETF
 BOTZ - Global X Robotics & Artificial Intelligence ETF
@@ -1521,6 +1523,8 @@ BRSP - BrightSpire Capital, Inc. Class A Common Stock
 BRT - BRT Apartments Corp. (MD) Common Stock
 BRTR - iShares Total Return Active ETF
 BRTX - BioRestorative Therapies, Inc. - Common Stock
+BRUN - Boost Run Inc. - Class A Common Stock
+BRUNW - Boost Run Inc. - Warrant
 BRW - Saba Capital Income & Opportunities Fund SBI
 BRX - Brixmor Property Group Inc. Common Stock
 BRZE - Braze, Inc. - Class A Common Stock
@@ -1675,6 +1679,7 @@ BWET - Breakwave Tanker Shipping ETF
 BWFG - Bankwell Financial Group, Inc. - Common Stock
 BWG - BrandywineGLOBAL Global Income Opportunities Fund Inc.
 BWIN - The Baldwin Insurance Group, Inc. - Class A Common Stock
+BWIV - Blue Water Acquisition Corp. IV Class A Ordinary Shares
 BWLP - BW LPG Limited Common Shares
 BWMN - Bowman Consulting Group Ltd. - Common Stock
 BWMX - Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares
@@ -3879,7 +3884,6 @@ FIGS - FIGS, Inc. Class A Common Stock
 FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
 FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
-FIHL - Fidelis Insurance Holdings Limited Common Shares
 FIIG - First Trust Intermediate Duration Investment Grade Corporate ETF
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
 FINT - Frontier Asset Total International Equity ETF
@@ -5660,6 +5664,7 @@ ITEQ - Amplify BlueStar Israel Technology ETF
 ITGR - Integer Holdings Corporation Common Stock
 ITHA - ITHAX Acquisition Corp III - Class A Ordinary Shares
 ITHAU - ITHAX Acquisition Corp III - Units
+ITHAW - ITHAX Acquisition Corp III - Warrants
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
 ITOC - iTonic Holdings Ltd - Class A Ordinary Shares
@@ -6209,7 +6214,6 @@ KYN - Kayne Anderson Energy Infrastructure Fund, Inc.
 KYNB - Kyntra Bio, Inc. - Common Stock
 KYTX - Kyverna Therapeutics, Inc. - Common Stock
 KZIA - Kazia Therapeutics Limited - American Depositary Shares
-KZR - Kezar Life Sciences, Inc. - Common Stock
 L - Loews Corporation Common Stock
 LAB - Standard BioTools Inc. - Common Stock
 LABD - Direxion Daily S&P Biotech Bear 3X ETF
@@ -6259,6 +6263,7 @@ LBTYK - Liberty Global Ltd. - Class C Common Shares
 LC - LendingClub Corporation Common Stock
 LCAP - Principal Capital Appreciation Select ETF
 LCCC - Lakeshore Acquisition III Corp. - Ordinary Shares
+LCCCR - Lakeshore Acquisition III Corp. - Rights
 LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
@@ -7269,6 +7274,7 @@ NBOS - Neuberger Option Strategy ETF
 NBP - NovaBridge Biosciences - American Depositary Shares
 NBR - Nabors Industries Ltd.
 NBRG - Newbridge Acquisition Limited - Class A Ordinary Share
+NBRGR - Newbridge Acquisition Limited - Rights
 NBRGU - Newbridge Acquisition Limited - Unit
 NBSD - Neuberger Short Duration Income ETF
 NBSM - Neuberger Small-Mid Cap ETF
@@ -7470,6 +7476,7 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
+NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
 NOEQ - Northern Trust US Equity ETF
@@ -7787,6 +7794,7 @@ OILT - Texas Capital Texas Oil Index ETF
 OILU - MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN
 OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
+OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
 OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
@@ -10876,7 +10884,6 @@ UCYB - ProShares Ultra Nasdaq Cybersecurity
 UDEC - Innovator U.S. Equity Ultra Buffer ETF - December
 UDI - USCF Dividend Income Fund
 UDIV - Franklin U.S. Core Dividend Tilt Index ETF
-UDMY - Udemy, Inc. - Common Stock
 UDN - Invesco DB USD Index Bearish ETF
 UDOW - ProShares UltraPro Dow30
 UDR - UDR, Inc. Common Stock
@@ -11592,6 +11599,7 @@ WSBF - Waterstone Financial, Inc. - Common Stock
 WSBK - Winchester Bancorp, Inc. - Common Stock
 WSC - WillScot Holdings Corporation - Class A Common Stock
 WSDB - Weitz Short Duration Bond ETF
+WSE - Wise Group plc - Class A Ordinary Shares
 WSFS - WSFS Financial Corporation - Common Stock
 WSGE - Warren Street Global Equity ETF
 WSHP - WeShop Holdings Limited - Class A Ordinary Shares
