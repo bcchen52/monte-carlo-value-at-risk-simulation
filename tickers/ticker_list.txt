@@ -84,6 +84,7 @@ ABXL - Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028
 ACA - Arcosa, Inc. Common Stock 
 ACAA - Averin Capital Acquisition Corp. - Class A Ordinary Shares
 ACAAU - Averin Capital Acquisition Corp. - Units
+ACAAW - Averin Capital Acquisition Corp. - Warrants
 ACAD - ACADIA Pharmaceuticals Inc. - Common Stock
 ACB - Aurora Cannabis Inc. - Common Shares
 ACCL - Acco Group Holdings Limited - Class A Ordinary Shares
@@ -380,9 +381,7 @@ ALBG - Leverage Shares 2X Long ALB Daily ETF
 ALBT - Avalon GloboCare Corp. - Common Stock
 ALC - Alcon Inc. Ordinary Shares
 ALCO - Alico, Inc. - Common Stock
-ALCY - Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares
-ALCYU - Alchemy Investments Acquisition Corp 1 - Units
-ALCYW - Alchemy Investments Acquisition Corp 1 - Warrants
+ALDB - Aptus Laddered Deep Buffer ETF
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
 ALDFW - Aldel Financial II Inc. - Warrants
@@ -1494,6 +1493,7 @@ BREE - MFS Blended Research Emerging Markets Equity ETF
 BREM - iShares Emerging Markets Bond Active ETF
 BRES - Burney U.S. Equity Select ETF
 BREW - Corgi Coffee & Energy Drinks ETF
+BREZU - Breeze Acquisition Corp. II - Units
 BRF - VanEck Brazil Small-Cap ETF
 BRFH - Barfresh Food Group Inc. - Common Stock
 BRHY - iShares High Yield Active ETF
@@ -4127,6 +4127,7 @@ FRST - Primis Financial Corp. - Common Stock
 FRSX - Foresight Autonomous Holdings Ltd. - American Depositary Shares
 FRT - Federal Realty Investment Trust Common Stock
 FRTY - Alger Mid Cap 40 ETF
+FRVO - Fervo Energy Company - Class A common stock
 FRWD - Nomura Transformational Technologies ETF
 FSBC - Five Star Bancorp - Common Stock
 FSBW - FS Bancorp, Inc. - Common Stock
@@ -4560,6 +4561,7 @@ GMOD - GMO Dynamic Allocation ETF
 GMOI - GMO International Value ETF
 GMOM - Cambria Global Momentum ETF
 GMOV - GMO US Value ETF
+GMRS - GMR Solutions Inc. Class A Common Stock
 GMTL - Guardian Metal Resources PLC ADS
 GMUB - Goldman Sachs Municipal Income ETF
 GMUN - Goldman Sachs Access Municipal Bond ETF
@@ -9219,6 +9221,7 @@ RTAC - Renatus Tactical Acquisition Corp I - Class A Ordinary Shares
 RTACU - Renatus Tactical Acquisition Corp I - Unit
 RTACW - Renatus Tactical Acquisition Corp I - Warrant
 RTAI - Rareview Tax Advantaged Income ETF
+RTB - RTB Digital, Inc. - Common Stock
 RTH - VanEck Retail ETF
 RTO - Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares)
 RTRE - Rareview Total Return Bond ETF
@@ -9242,7 +9245,6 @@ RVMDW - Revolution Medicines, Inc. - Warrant
 RVNL - GraniteShares 2x Long RIVN Daily ETF
 RVNU - Xtrackers Municipal Infrastructure Revenue Bond ETF
 RVP - Retractable Technologies, Inc. Common Stock
-RVPH - Reviva Pharmaceuticals Holdings, Inc. - Common Stock
 RVSB - Riverview Bancorp Inc - Common Stock
 RVSN - Rail Vision Ltd. - Ordinary Shares
 RVSNW - Rail Vision Ltd. - Warrant
@@ -9805,7 +9807,6 @@ SNAL - Snail, Inc. - Class A Common Stock
 SNAP - Snap Inc. Class A Common Stock
 SNAV - Mohr Sector Nav ETF
 SNBR - Sleep Number Corporation - Common Stock
-SNCY - Sun Country Airlines Holdings, Inc. - Common Stock
 SND - Smart Sand, Inc. - Common Stock
 SNDA - Sonida Senior Living, Inc. Common Stock
 SNDG - Leverage Shares 2X Long SNDK Daily ETF
@@ -10640,7 +10641,6 @@ TPFG - Timothy Plan Free Cash Flow Growth ETF
 TPFI - Timothy Plan Fixed Income ETF
 TPG - TPG Inc. - Class A Common Stock
 TPGXL - TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064
-TPH - Tri Pointe Homes, Inc. Common Stock
 TPHD - Timothy Plan High Dividend Stock ETF
 TPIF - Timothy Plan International ETF
 TPL - Texas Pacific Land Corporation Common Stock
@@ -11504,6 +11504,7 @@ WEEK - Roundhill Weekly T-Bill ETF
 WEEL - Peerless Option Income Wheel ETF
 WELL - Welltower Inc. Common Stock
 WEN - Wendy's Company (The) - Common Stock
+WENC - West Enclave Merger Corp. Ordinary Shares
 WENN - Wen Acquisition Corp - Class A Ordinary Shares
 WENNU - Wen Acquisition Corp - Unit
 WENNW - Wen Acquisition Corp - Warrant
