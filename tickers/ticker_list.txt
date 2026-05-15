@@ -306,6 +306,7 @@ AHT - Ashford Hospitality Trust Inc Common Stock
 AHYB - American Century Select High Yield ETF
 AI - C3.ai, Inc. Class A Common Stock
 AIA - iShares Asia 50 ETF
+AIAI - AIAI Holdings Corporation - Class A common stock
 AIB - BlockchAIn Digital Infrastructure, Inc Common Shares
 AIBD - Direxion Daily AI and Big Data Bear 2X ETF
 AIBU - Direxion Daily AI and Big Data Bull 2X ETF
@@ -587,7 +588,6 @@ APLD - Applied Digital Corporation - Common Stock
 APLE - Apple Hospitality REIT, Inc. Common Shares
 APLM - Apollomics Inc. - Class A Ordinary Shares
 APLMW - Apollomics Inc. - Warrant
-APLS - Apellis Pharmaceuticals, Inc. - Common Stock
 APLU - Allspring Core Plus ETF
 APLX - Tradr 2X Long APLD Daily ETF
 APLY - YieldMax AAPL Option Income Strategy ETF
@@ -1692,6 +1692,7 @@ BWXT - BWX Technologies, Inc. Common Stock
 BWZ - State Street SPDR Bloomberg Short Term International Treasury Bond ETF
 BX - Blackstone Inc. Common Stock
 BXC - Bluelinx Holdings Inc. Common Stock
+BXDC - Blackstone Digital Infrastructure Trust Inc. Common Stock
 BXMT - Blackstone Mortgage Trust, Inc. Common Stock
 BXP - BXP, Inc. Common Stock
 BXSL - Blackstone Secured Lending Fund Common Shares of Beneficial Interest
@@ -1815,6 +1816,7 @@ CBOX - Calamos Tax-Aware Collateral ETF
 CBOY - Calamos Bitcoin Structured Alt Protection ETF - July
 CBRE - CBRE Group Inc Common Stock Class A
 CBRL - Cracker Barrel Old Country Store, Inc. - Common Stock
+CBRS - Cerebras Systems Inc. - Class A Common Stock
 CBSE - Clough Select Equity ETF
 CBSH - Commerce Bancshares, Inc. - Common Stock
 CBT - Cabot Corporation Common Stock
@@ -1859,7 +1861,6 @@ CCJ - Cameco Corporation Common Stock
 CCK - Crown Holdings, Inc.
 CCL - Carnival Corporation Ltd. Common Shares
 CCLD - CareCloud, Inc. - Common Stock
-CCLDO - CareCloud, Inc. - 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock
 CCM - Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)
 CCNE - CNB Financial Corporation - Common Stock
 CCNEP - CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock
@@ -2441,7 +2442,6 @@ CSCS - Direxion Daily CSCO Bear 1X ETF
 CSD - Invesco S&P Spin-Off ETF
 CSEX - Tradr 2X Long CLS Daily ETF
 CSGP - CoStar Group, Inc. - Common Stock
-CSGS - CSG Systems International, Inc. - Common Stock
 CSHI - NEOS Enhanced Income 1-3 Month T-Bill ETF
 CSHP - iShares Enhanced Short-Term Bond Active ETF
 CSHR - CoinShares PLC - Ordinary Shares
@@ -3247,7 +3247,6 @@ EGP - EastGroup Properties, Inc. Common Stock
 EGUS - iShares ESG Aware MSCI USA Growth ETF
 EGY - VAALCO Energy, Inc.  Common Stock
 EH - EHang Holdings Limited - ADS
-EHAB - Enhabit, Inc. Common Stock
 EHC - Encompass Health Corporation Common Stock
 EHCC - Global X Ethereum Covered Call ETF
 EHGO - Eshallgo Inc. - Class A Ordinary Shares
@@ -3446,6 +3445,7 @@ ERII - Energy Recovery, Inc. - Common Stock
 ERNA - Ernexa Therapeutics Inc. - Common Stock
 ERNAW - Ernexa Therapeutics Inc. - Warrants
 ERO - Ero Copper Corp. Common Shares
+EROK - EagleRock Land, LLC Class A shares representing limited liability company interests
 ERTH - Invesco MSCI Sustainable Future ETF
 ERX - Direxion Energy Bull 2X ETF
 ERY - Direxion Daily Energy Bear 2X ETF
@@ -4250,6 +4250,7 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
+FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4611,6 +4612,7 @@ GOSS - Gossamer Bio, Inc. - Common Stock
 GOTU - Gaotu Techedu Inc. American Depositary Shares
 GOU - GraniteShares 2x Long GOOGL Daily ETF
 GOVI - Invesco Equal Weight 0-30 Year Treasury ETF
+GOVM - iShares 1-10 Year Treasury Bond ETF
 GOVT - iShares U.S. Treasury Bond ETF
 GOVX - GeoVax Labs, Inc. - Common Stock
 GOVZ - iShares 25  Year Treasury STRIPS Bond ETF
@@ -4719,6 +4721,7 @@ GSPY - Gotham Enhanced 500 ETF
 GSRF - GSR IV Acquisition Corp. - Class A ordinary share
 GSRFR - GSR IV Acquisition Corp. - Rights
 GSRFU - GSR IV Acquisition Corp. - Units
+GSRVU - GSR V Acquisition Corp. - Units
 GSSC - GS ActiveBeta U.S. Small Cap Equity ETF
 GSST - Goldman Sachs Ultra Short Bond ETF
 GSUI - Grayscale Sui Staking ETF
@@ -4745,6 +4748,7 @@ GTLB - GitLab Inc. - Class A Common Stock
 GTLS - Chart Industries, Inc. Common Stock
 GTM - ZoomInfo Technologies Inc. - Common Stock
 GTN - Gray Media, Inc. Common Stock
+GTND - Goaltender ETF
 GTO - Invesco Total Return Bond ETF
 GTOC - Invesco Core Fixed Income ETF
 GTOH - Invesco Short Duration High Yield ETF
@@ -4851,7 +4855,6 @@ HCC - Warrior Met Coal, Inc. Common Stock
 HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
 HCIC - Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares
-HCICR - Hennessy Capital Investment Corp. VIII - Share Rights
 HCICU - Hennessy Capital Investment Corp. VIII - Units
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
@@ -5675,7 +5678,6 @@ ITHAW - ITHAX Acquisition Corp III - Warrants
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
 ITOC - iTonic Holdings Ltd - Class A Ordinary Shares
-ITOL - Tema International Durable Quality ETF
 ITOT - iShares Core S&P Total U.S. Stock Market ETF
 ITP - IT Tech Packaging, Inc. Common Stock
 ITRG - Integra Resources Corp. Common Shares
@@ -6453,6 +6455,7 @@ LODE - Comstock Inc. Common Stock
 LODI - AAM SLC Low Duration Income ETF
 LOGI - Logitech International S.A. - Registered Shares
 LOGO - Alpha Brands Consumption Leaders ETF
+LOHA - Roundhill HALO ETF
 LOKV - Live Oak Acquisition Corp. V - Class A Ordinary Shares
 LOKVU - Live Oak Acquisition Corp. V - Units
 LOKVW - Live Oak Acquisition Corp. V - Warrants
@@ -7018,7 +7021,6 @@ MPU - Mega Matrix Inc. Class A Ordinary Shares
 MPV - Barings Participation Investors Common Stock
 MPWR - Monolithic Power Systems, Inc. - Common Stock
 MPWX - Tradr 2X Long MPWR Daily ETF
-MPX - Marine Products Corporation Common Stock
 MQ - Marqeta, Inc. - Class A Common Stock
 MQQQ - Tradr 2X Long Innovation 100 Monthly ETF
 MQY - Blackrock MuniYield Quality Fund, Inc. Common Stock
@@ -7176,6 +7178,7 @@ MVST - Microvast Holdings, Inc. - Common Stock
 MVSTW - Microvast Holdings, Inc. - Warrant
 MVV - ProShares Ultra MidCap400
 MWA - MUELLER WATER PRODUCTS Common Stock
+MWC - Micware Co., Ltd. - American Depositary Shares
 MWG - Multi Ways Holdings Limited Class A Ordinary Shares
 MWH - SOLV Energy, Inc. - Class A common stock
 MWYN - Marwynn Holdings, Inc. - Common stock
@@ -7416,6 +7419,7 @@ NIOBW - NioCorp Developments Ltd. - Warrant
 NIOG - Leverage Shares 2X Long NIO Daily ETF
 NIPG - NIP Group Inc. - American Depositary Shares
 NIQ - NIQ Global Intelligence plc Ordinary Shares
+NISM - NYLI International Small-Mid Cap Equity ETF
 NITE - The Nightview Fund NITE
 NIU - Niu Technologies - American Depositary Shares
 NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
@@ -10250,7 +10254,6 @@ SYSB - iShares Systematic Bond ETF
 SYY - Sysco Corporation Common Stock
 SYZ - Lazard US Systematic Small Cap Equity ETF
 SZK - ProShares UltraShort Consumer Staples
-SZNE - Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF
 SZZL - Sizzle Acquisition Corp. II - Class A ordinary shares
 SZZLR - Sizzle Acquisition Corp. II - Right
 SZZLU - Sizzle Acquisition Corp. II - Unit
@@ -10514,6 +10517,7 @@ TKC - Turkcell Iletisim Hizmetleri AS Common Stock
 TKLF - Tokyo Lifestyle Co., Ltd. - American Depositary Shares
 TKNO - Alpha Teknova, Inc. - Common Stock
 TKNQ - Amplify Tokenization Technology ETF
+TKNS - 21Shares Active Crypto ETF
 TKO - TKO Group Holdings, Inc. Class A Common Stock
 TKR - Timken Company (The) Common Stock
 TLA - GraniteShares Autocallable TSLA ETF
@@ -11239,6 +11243,7 @@ VIAV - Viavi Solutions Inc. - Common Stock
 VICE - AdvisorShares Vice ETF
 VICI - VICI Properties Inc. Common Stock
 VICR - Vicor Corporation - Common Stock
+VIDA - VIDA Global Inc. Class A Common Stock
 VIDI - Vident International Equity Strategy ETF
 VIG - Vanguard Div Appreciation ETF
 VIGI - Vanguard International Dividend Appreciation ETF
@@ -11490,6 +11495,7 @@ WDI - Western Asset Diversified Income Fund Common Shares of Beneficial Interest
 WDIG - WisdomTree Efficient Rare Earth Plus Strategic Metals Fund
 WDIV - State Street SPDR S&P Global Dividend ETF
 WDNA - WisdomTree BioRevolution Fund
+WDRN - WisdomTree Physical AI, Humanoids and Drones Fund
 WDS - Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share
 WDTE - Defiance S&P 500 Weekly Distribution ETF
 WEA - Western Asset Bond Fund Share of Beneficial Interest
