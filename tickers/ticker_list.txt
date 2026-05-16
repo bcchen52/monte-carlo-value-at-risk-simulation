@@ -837,6 +837,7 @@ AVA - Avista Corporation Common Stock
 AVAH - Aveanna Healthcare Holdings Inc. - Common Stock
 AVAL - Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)
 AVAV - AeroVironment, Inc. - Common Stock
+AVAZ - 2x Avalanche ETF
 AVB - AvalonBay Communities, Inc. Common Stock
 AVBC - Avidia Bancorp, Inc. Common Stock
 AVBH - Avidbank Holdings, Inc. - Common Stock
@@ -1231,6 +1232,7 @@ BHST - BioHarvest Sciences Inc. - Common Stock
 BHV - BlackRock Virginia Municipal Bond Trust
 BHVN - Biohaven Ltd. Common Shares 
 BHYB - Xtrackers USD High Yield BB-B ex Financials ETF
+BHYP - Common Shares of Beneficial Interest of Bitwise Hyperliquid ETF
 BIAF - bioAffinity Technologies, Inc. - Common Stock
 BIAFW - bioAffinity Technologies, Inc. - Warrant
 BIB - ProShares Ultra Nasdaq Biotechnology
@@ -1350,7 +1352,6 @@ BLOK - Amplify Blockchain Technology ETF
 BLOX - Nicholas Crypto Income ETF
 BLRK - Bluerock Acquisition Corp. - Class A Ordinary Shares
 BLRKU - Bluerock Acquisition Corp. - Units
-BLRKW - Bluerock Acquisition Corp. - Warrants
 BLRX - BioLineRx Ltd. - American Depositary Shares
 BLSG - Leverage Shares 2X Long BLSH Daily ETF
 BLSH - Bullish Ordinary Shares
@@ -1815,6 +1816,7 @@ CBOT - Corgi Robots & Humanoids ETF
 CBOX - Calamos Tax-Aware Collateral ETF
 CBOY - Calamos Bitcoin Structured Alt Protection ETF - July
 CBRE - CBRE Group Inc Common Stock Class A
+CBRG - Leverage Shares 2X Long CBRS Daily ETF
 CBRL - Cracker Barrel Old Country Store, Inc. - Common Stock
 CBRS - Cerebras Systems Inc. - Class A Common Stock
 CBSE - Clough Select Equity ETF
@@ -3026,6 +3028,8 @@ DUK - Duke Energy Corporation (Holding Company) Common Stock
 DUKB - Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078
 DUKH - Ocean Park High Income ETF
 DUKQ - Ocean Park Domestic ETF
+DUKR - DUKE Robotics Corp. - Common Stock
+DUKRW - DUKE Robotics Corp. - Warrant
 DUKX - Ocean Park International ETF
 DUKZ - Ocean Park Diversified Income ETF
 DULL - MicroSectors Gold -3X Inverse Leveraged ETNs due January 29, 2043
@@ -3625,6 +3629,8 @@ EXPO - Exponent, Inc. - Common Stock
 EXR - Extra Space Storage Inc Common Stock
 EXTR - Extreme Networks, Inc. - Common Stock
 EXUS - Nomura Focused International Core ETF
+EXYN - Exyn Technologies, Inc. - Common Stock
+EXYNW - Exyn Technologies, Inc. - Warrant
 EYE - National Vision Holdings, Inc. - Common Stock
 EYEG - AB Corporate Bond ETF
 EYES - Corgi Data & Surveillance ETF
@@ -4619,6 +4625,7 @@ GOVZ - iShares 25  Year Treasury STRIPS Bond ETF
 GP - GreenPower Motor Company Inc. - Common Shares
 GPAC - General Purpose Acquisition Corp. - Class A Ordinary Shares
 GPACU - General Purpose Acquisition Corp. - Units
+GPACW - General Purpose Acquisition Corp. - Warrant
 GPAT - GP-Act III Acquisition Corp. - Class A Ordinary Share
 GPATU - GP-Act III Acquisition Corp. - Units
 GPATW - GP-Act III Acquisition Corp. - Warrants
@@ -4759,6 +4766,7 @@ GTPE - Goldman Sachs MSCI World Private Equity Return Tracker ETF
 GTR - WisdomTree Target Range Fund
 GTX - Garrett Motion Inc. - Common Stock
 GTY - Getty Realty Corporation Common Stock
+GUACU - Berto Acquisition Corp. II - Units
 GUG - Guggenheim Active Allocation Fund Common Shares of Beneficial Interest
 GUMI - Goldman Sachs Ultra Short Municipal Income ETF
 GUNR - FlexShares Global Upstream Natural Resources Index Fund ETF
@@ -4855,6 +4863,7 @@ HCC - Warrior Met Coal, Inc. Common Stock
 HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
 HCIC - Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares
+HCICR - Hennessy Capital Investment Corp. VIII - Share Rights
 HCICU - Hennessy Capital Investment Corp. VIII - Units
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
@@ -5291,6 +5300,7 @@ ICUCW - SeaStar Medical Holding Corporation - Warrant
 ICUI - ICU Medical, Inc. - Common Stock
 ICVT - iShares Convertible Bond ETF
 IDA - IDACORP, Inc. Common Stock
+IDACU - Iron Dome Acquisition I Corp. - Units
 IDAI - T Stamp Inc. - Class A Common Stock
 IDCC - InterDigital, Inc. - Common Stock
 IDE - Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest
@@ -7224,7 +7234,10 @@ MYRG - MYR Group, Inc. - Common Stock
 MYSE - Myseum.AI, Inc. - Common Stock
 MYSEW - Myseum.AI, Inc. - Series A Warrant
 MYSZ - My Size, Inc. - Common Stock
+MYX - Maywood Acquisition Corp. 2 - Class A Ordinary Share
+MYXXR - Maywood Acquisition Corp. 2 - Rights
 MYXXU - Maywood Acquisition Corp. 2 - Units
+MYXXW - Maywood Acquisition Corp. 2 - Warrants
 MYY - ProShares Short MidCap400
 MZTI - The Marzetti Company - Common Stock
 MZYX - MOZAYYX Acquisition Corp. Class A Ordinary Shares
@@ -7707,6 +7720,7 @@ NYNY - Corgi NYC Based ETF
 NYSX - Global X NYSE 100 ETF
 NYT - New York Times Company (The) Common Stock
 NYXH - Nyxoah SA - Ordinary Shares
+NYYY - xETFs NVDA Daily Income ETF
 NZAC - State Street SPDR MSCI ACWI Climate Paris Aligned ETF
 NZF - Nuveen Municipal Credit Income Fund 
 O - Realty Income Corporation Common Stock
@@ -8581,6 +8595,7 @@ PSUS - Pershing Square USA, Ltd. Common Shares
 PSWD - Xtrackers Cybersecurity Select Equity ETF
 PSX - Phillips 66 Common Stock
 PTA - Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest
+PTACU - Patriot Acquisition Corp. - Units
 PTBD - Pacer Trendpilot US Bond ETF
 PTC - PTC Inc. - Common Stock
 PTCT - PTC Therapeutics, Inc. - Common Stock
@@ -10168,6 +10183,7 @@ SUB - iShares Short-Term National Muni Bond ETF
 SUGP - SU Group Holdings Limited - Class A Ordinary Shares
 SUI - Sun Communities, Inc. Common Stock
 SUIG - Sui Group Holdings Limited - Common Stock
+SUIL - 2x Sui ETF
 SUIS - Canary Staked SUI ETF
 SUJA - Suja Life, Inc. - Class A Common Stock
 SUMA - SUMA Acquisition Corporation - Class A Ordinary Shares
@@ -10860,6 +10876,7 @@ TYLD - Cambria Tactical Yield ETF
 TYLG - Global X Information Technology Covered Call & Growth ETF
 TYO - Direxion Daily 10-Yr Treasury Bear 3x Shrs
 TYRA - Tyra Biosciences, Inc. - Common Stock
+TYYY - xETFs TSLA Daily Income ETF
 TZA - Direxion Small Cap Bear 3X ETF
 TZOO - Travelzoo - Common Stock
 U - Unity Software Inc. Common Stock
@@ -11233,7 +11250,6 @@ VGZ - Vista Gold Corp Common Stock
 VHC - VirnetX Holding Corp - Common Stock
 VHCP - Vine Hill Capital Investment Corp. II - Class A Ordinary Shares
 VHCPU - Vine Hill Capital Investment Corp. II - Units
-VHCPW - Vine Hill Capital Investment Corp. II - Warrants
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
 VHUB - VenHub Global, Inc. - Common Stock
@@ -11540,7 +11556,6 @@ WHFCL - WhiteHorse Finance, Inc. - 7.875% Notes due 2028
 WHG - Westwood Holdings Group Inc Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
-WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
