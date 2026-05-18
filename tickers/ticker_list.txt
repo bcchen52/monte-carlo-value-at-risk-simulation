@@ -263,7 +263,6 @@ AGGA - EA Astoria Dynamic Core US Fixed Income ETF
 AGGH - Simplify Aggregate Bond ETF
 AGGS - Harbor Disciplined Bond ETF
 AGGY - WisdomTree Yield Enhanced U.S. Aggregate Bond Fund
-AGH - Aureus Greenway Holdings Inc. - Common Stock
 AGI - Alamos Gold Inc. Class A Common Shares
 AGIG - Abundia Global Impact Group Inc. Common stock
 AGIO - Agios Pharmaceuticals, Inc. - Common Stock
@@ -1728,7 +1727,6 @@ CACC - Credit Acceptance Corporation - Common Stock
 CACI - CACI International, Inc. Class A Common Stock
 CADL - Candel Therapeutics, Inc. - Common Stock
 CAE - CAE Inc. Ordinary Shares
-CAEP - Cantor Equity Partners III, Inc. - Class A Ordinary Shares
 CAF - Morgan Stanley China A Share Fund Inc. Common Stock
 CAFG - Pacer US Small Cap Cash Cows Growth Leaders ETF
 CAFX - Congress Intermediate Bond ETF
@@ -3720,7 +3718,6 @@ FCNCA - First Citizens BancShares, Inc. - Class A Common Stock
 FCNCN - First Citizens BancShares, Inc. - Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E
 FCNCO - First Citizens BancShares, Inc. - 5.625% Non-Cumulative Perpetual Preferred Stock, Series C
 FCNCP - First Citizens BancShares, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 5.375% Non-Cumulative Perpetual Preferred Stock, Series A
-FCO - abrdn Global Income Fund, Inc. Common Stock
 FCOM - Fidelity MSCI Communication Services Index ETF
 FCOR - Fidelity Corporate Bond ETF
 FCPI - Fidelity Stocks for Inflation ETF
@@ -4077,7 +4074,6 @@ FOFO - Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares
 FONR - Fonar Corporation - Common Stock
 FOPC - Frontier Asset Opportunistic Credit ETF
 FOR - Forestar Group Inc Common Stock 
-FORA - Forian Inc. - Common Stock
 FORH - Formidable ETF
 FORM - FormFactor, Inc. - Common Stock
 FORR - Forrester Research, Inc. - Common Stock
@@ -6355,7 +6351,6 @@ LFT - Lument Finance Trust, Inc. Common Stock
 LFUS - Littelfuse, Inc. - Common Stock
 LFVN - Lifevantage Corporation - Common Stock
 LFWD - Lifeward Ltd. - Ordinary Shares
-LGCB - Linkage Global Inc - Class A Ordinary Shares
 LGCF - Themes US Cash Flow Champions ETF
 LGCL - Lucas GC Limited - Class A Ordinary Shares
 LGCY - Legacy Education Inc. Common Stock
@@ -11760,13 +11755,6 @@ XHLD - TEN Holdings, Inc. - Common Stock
 XHLF - BondBloxx Bloomberg Six Month Target Duration US Treasury ETF
 XHR - Xenia Hotels & Resorts, Inc. Common Stock
 XHS - State Street SPDR S&P Health Care Services ETF
-XHYC - BondBloxx USD High Yield Bond Consumer Cyclicals Sector ETF
-XHYD - BondBloxx USD High Yield Bond Consumer Non-Cyclicals Sector ETF
-XHYE - BondBloxx USD High Yield Bond Energy Sector ETF
-XHYF - BondBloxx USD High Yield Bond Financial & REIT Sector ETF
-XHYH - BondBloxx USD High Yield Bond Healthcare Sector ETF
-XHYI - BondBloxx USD High Yield Bond Industrial Sector ETF
-XHYT - BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF
 XIDE - FT Vest U.S. Equity Buffer & Premium Income  ETF - December
 XIDV - Franklin International Dividend Booster Index ETF
 XIFR - XPLR Infrastructure, LP Common Units representing limited partner interests
@@ -11903,7 +11891,6 @@ XUSP - Innovator Uncapped Accelerated U.S. Equity ETF
 XV - Simplify Target 15 Distribution ETF
 XVV - iShares ESG Select Screened S&P 500 ETF
 XWEL - XWELL, Inc. - Common Stock
-XWIN - XMAX, Inc. - Common Stock
 XXI - Twenty One Capital, Inc. Class A Common Stock
 XXII - 22nd Century Group, Inc - Common Stock
 XXRP - Teucrium 2x Long Daily XRP ETF
@@ -11995,7 +11982,6 @@ ZALT - Innovator U.S. Equity 10 Buffer ETF - Quarterly
 ZAP - Global X U.S. Electrification ETF
 ZAPR - Innovator Equity Defined Protection ETF - 1 Yr April
 ZAUG - Innovator Equity Defined Protection ETF - 1 Yr August
-ZBAI - ATIF Holdings Limited - Ordinary Shares
 ZBAO - Zhibao Technology Inc. - Class A Ordinary Shares
 ZBH - Zimmer Biomet Holdings, Inc. Common Stock
 ZBIO - Zenas BioPharma, Inc. - Common Stock
