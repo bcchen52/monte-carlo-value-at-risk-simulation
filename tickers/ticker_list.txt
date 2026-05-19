@@ -321,6 +321,7 @@ AII - American Integrity Insurance Group, Inc. Common Stock
 AIIA - AI Infrastructure Acquisition Corp. Class A Ordinary Shares
 AIIO - Robo.ai Inc. - Class B Ordinary Shares
 AIIOW - Robo.ai Inc. - Warrant
+AIIR - Air Global PLC - Ordinary shares
 AIM - AIM ImmunoTech Inc. Common Stock
 AIMD - Ainos, Inc. - Common Stock
 AIMDW - Ainos, Inc. - warrants
@@ -810,6 +811,7 @@ AU - AngloGold Ashanti PLC Ordinary Shares
 AUAU - Global X Gold Miners ETF
 AUB - Atlantic Union Bankshares Corporation Common Stock
 AUBN - Auburn National Bancorporation, Inc. - Common Stock
+AUC - ATIF Holdings Limited - Ordinary Shares
 AUDC - AudioCodes Ltd. - Ordinary Shares
 AUGM - FT Vest U.S. Equity Max Buffer ETF - August
 AUGO - Aura Minerals Inc. - Common Shares
@@ -2871,6 +2873,7 @@ DLB - Dolby Laboratories Common Stock
 DLFE - FT Vest U.S. Equity Dual Directional Buffer ETF - February
 DLHC - DLH Holdings Corp. - Common Stock
 DLLL - GraniteShares 2x Long DELL Daily ETF
+DLMY - FT Vest U.S. Equity Dual Directional Buffer ETF - May
 DLN - WisdomTree U.S. LargeCap Dividend Fund
 DLNG - Dynagas LNG Partners LP Common Units
 DLNV - FT Vest U.S. Equity Dual Directional Buffer ETF - November
@@ -2900,7 +2903,7 @@ DMIIU - Drugs Made In America Acquisition II Corp. - Unit
 DMLP - Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests
 DMO - Western Asset Mortgage Opportunity Fund Inc. Common Stock
 DMRA - Damora Therapeutics, Inc. - Common Stock
-DMRC - Digimarc Corporation - Common Stock
+DMRC - Digimarc Parent, Inc. - Common Stock
 DMX - DoubleLine Multi-Sector Income ETF
 DMXF - iShares ESG Advanced MSCI EAFE ETF
 DNA - Ginkgo Bioworks Holdings, Inc. Class A Common Stock
@@ -3017,7 +3020,6 @@ DTSQR - DT Cloud Star Acquisition Corporation - Right
 DTSQU - DT Cloud Star Acquisition Corporation - Units
 DTSS - Datasea Intelligent Technology Ltd. - Class A Ordinary Shares
 DTST - Data Storage Corporation - Common Stock
-DTSTW - Data Storage Corporation - Warrant
 DTW - DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077
 DUBS - Aptus Large Cap Enhanced Yield ETF
 DUG - ProShares UltraShort Energy
@@ -4008,6 +4010,8 @@ FLYT - Tradr 2X Long FLY Daily ETF
 FLYU - MicroSectors Travel 3x Leveraged ETN
 FLYW - Flywire Corporation - Voting Common Stock
 FLYX - flyExclusive, Inc. Class A Common Stock
+FMAC - Future Money Acquisition Corporation - Ordinary Shares
+FMACR - Future Money Acquisition Corporation - Rights
 FMACU - Future Money Acquisition Corporation - Units
 FMAG - Fidelity Magellan ETF
 FMAO - Farmers & Merchants Bancorp, Inc. - Common Stock
@@ -5582,7 +5586,9 @@ IPDN - Professional Diversity Network, Inc. - Common Stock
 IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
 IPEXR - Inflection Point Acquisition Corp. - Right
 IPEXU - Inflection Point Acquisition Corp. - Unit
+IPFX - Inflection Point Acquisition Corp. VI - Class A Ordinary Shares
 IPFXU - Inflection Point Acquisition Corp. VI - Units
+IPFXW - Inflection Point Acquisition Corp. VI - Warrant
 IPGP - IPG Photonics Corporation - Common Stock
 IPHA - Innate Pharma S.A. - American Depositary Shares
 IPI - Intrepid Potash, Inc Common Stock
@@ -6053,7 +6059,6 @@ KFII - K&F Growth Acquisition Corp. II - Class A Ordinary shares
 KFIIR - K&F Growth Acquisition Corp. II - Rights
 KFIIU - K&F Growth Acquisition Corp. II - Unit
 KFRC - Kforce, Inc. Common Stock
-KFS - Kingsway Financial Services, Inc. Common Stock (DE)
 KFY - Korn Ferry Common Stock
 KG - Kestrel Group, Ltd. - Common Stock
 KGC - Kinross Gold Corporation Common Stock
@@ -6322,6 +6327,7 @@ LEGR - First Trust Indxx Innovative Transaction & Process ETF
 LEGT - Legato Merger Corp. III Ordinary Shares
 LEMB - iShares J.P. Morgan EM Local Currency Bond
 LEN - Lennar Corporation Class A Common Stock
+LEND - SEI High Yield Bond & Alternative Credit ETF
 LENS - Sarmaya Thematic ETF
 LENZ - LENZ Therapeutics, Inc. - Common Stock
 LEO - BNY Mellon Strategic Municipals, Inc. Common Stock
@@ -8135,6 +8141,7 @@ PCI - PGIM Corporate Bond 5-10 Year ETF
 PCIG - Polen Capital International Growth ETF
 PCL - PGIM Corporate Bond 10+ Year ETF
 PCLA - PicoCELA Inc. - American Depositary Shares
+PCLC - Polen 5Perspectives Large Growth ETF
 PCLG - Polen Focus Growth ETF
 PCLN - Pictet Cleaner Planet ETF
 PCLO - VIRTUS SEIX AAA Private Credit CLO ETF
@@ -8150,6 +8157,7 @@ PCRX - Pacira BioSciences, Inc. - Common Stock
 PCS - PGIM Corporate Bond 0-5 Year ETF
 PCSA - Processa Pharmaceuticals, Inc. - Common Stock
 PCSC - Perceptive Capital Solutions Corp - Class A Ordinary Shares
+PCSG - Polen 5Perspectives Small-Mid Growth ETF
 PCT - PureCycle Technologies, Inc. - Common stock
 PCTTU - PureCycle Technologies, Inc. - Unit
 PCTTW - PureCycle Technologies, Inc. - Warrant
@@ -8626,6 +8634,7 @@ PULS - PGIM Ultra Short Bond ETF
 PULT - Putnam ESG Ultra Short ETF
 PUMP - ProPetro Holding Corp. Common Stock
 PURR - Hyperliquid Strategies Inc - Common Stock
+PUSA - Aureus Greenway Holdings Inc. - Common Stock
 PUSH - PGIM Ultra Short Municipal Bond ETF
 PVAL - Putnam Focused Large Cap Value ETF
 PVEX - TrueShares ConVex Protect ETF
@@ -9727,7 +9736,6 @@ SLND - Southland Holdings, Inc. Common Stock
 SLNG - Stabilis Solutions, Inc. - Common Stock
 SLNH - Soluna Holdings, Inc. - Common Stock
 SLNHP - Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock
-SLNO - Soleno Therapeutics, Inc. - Common Stock
 SLNZ - TCW Senior Loan ETF
 SLON - ProShares Ultra Solana ETF
 SLP - Simulations Plus, Inc. - Common Stock
@@ -11127,6 +11135,7 @@ UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
 UZF - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
+UZX - Linkage Global Inc - Class A Ordinary Shares
 V - Visa Inc.
 VABK - Virginia National Bankshares Corporation - Common Stock
 VABS - Virtus Newfleet ABS/MBS ETF
@@ -11794,6 +11803,7 @@ XLY - State Street Consumer Discretionary Select Sector SPDR ETF
 XLYI - State Street Consumer Discretionary Select Sector SPDR Premium Income ETF
 XMAG - Defiance Large Cap ex-Mag 7 ETF
 XMAR - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - March
+XMAX - XMAX, Inc. - Common Stock
 XMAY - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - May
 XME - State Street SPDR S&P Metals & Mining ETF
 XMHQ - Invesco S&P MidCap Quality ETF
