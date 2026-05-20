@@ -296,6 +296,7 @@ AGYS - Agilysys, Inc. - Common Stock
 AGZ - iShares  Agency Bond ETF
 AGZD - WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund
 AHCO - AdaptHealth Corp.  - Common Stock
+AHD - GraniteShares Autocallable HOOD ETF
 AHG - Akso Health Group - American Depositary Shares
 AHLT - AHL Trend ETF
 AHMA - Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares
@@ -446,6 +447,7 @@ ALZN - Alzamend Neuro, Inc. - Common Stock
 AM - Antero Midstream Corporation Common Stock
 AMA - Defiance Daily Target 2X Long AMAT ETF
 AMAL - Amalgamated Financial Corp. - Common Stock
+AMAN - Amanat Acquisition Corp - Class A Ordinary Shares
 AMAT - Applied Materials, Inc. - Common Stock
 AMAU - Leverage Shares 2X Long AMAT Daily ETF
 AMAX - Adaptive Hedged Multi-Asset Income ETF
@@ -1353,6 +1355,7 @@ BLOK - Amplify Blockchain Technology ETF
 BLOX - Nicholas Crypto Income ETF
 BLRK - Bluerock Acquisition Corp. - Class A Ordinary Shares
 BLRKU - Bluerock Acquisition Corp. - Units
+BLRKW - Bluerock Acquisition Corp. - Warrants
 BLRX - BioLineRx Ltd. - American Depositary Shares
 BLSG - Leverage Shares 2X Long BLSH Daily ETF
 BLSH - Bullish Ordinary Shares
@@ -2525,6 +2528,7 @@ CVBF - CVB Financial Corporation - Common Stock
 CVCO - Cavco Industries, Inc. - Common Stock
 CVE - Cenovus Energy Inc Common Stock
 CVEO - Civeo Corporation (Canada) Common Shares
+CVGD - CresAlta Global Dividend ETF
 CVGI - Commercial Vehicle Group, Inc. - Common Stock
 CVGW - Calavo Growers, Inc. - Common Stock
 CVI - CVR Energy Inc. Common Stock
@@ -2545,6 +2549,7 @@ CVRX - CVRx, Inc. - Common Stock
 CVS - CVS Health Corporation Common Stock
 CVSA - Covista Inc. Common Shares
 CVSB - Calvert Ultra-Short Investment Grade ETF
+CVSM - CresAlta Small and Mid-Cap ETF
 CVU - CPI Aerostructures, Inc. Common Stock
 CVV - CVD Equipment Corporation - Common Stock
 CVX - Chevron Corporation Common Stock
@@ -4821,6 +4826,7 @@ HAIN - The Hain Celestial Group, Inc. - Common Stock
 HAKY - Amplify HACK Cybersecurity Covered Call ETF
 HAL - Halliburton Company Common Stock
 HALO - Halozyme Therapeutics, Inc. - Common Stock
+HALX - Tuttle Capital Heavy Assets Low Obsolescence ETF
 HAO - Haoxi Health Technology Limited - Class A Ord Share
 HAP - VanEck Natural Resources ETF
 HAPI - Harbor Human Capital Factor US Large Cap ETF
@@ -4956,6 +4962,7 @@ HIND - Vyome Holdings, Inc. - Common Stock
 HIO - Western Asset High Income Opportunity Fund, Inc. Common Stock
 HIPO - Hippo Holdings Inc. Common Stock
 HIPS - GraniteShares HIPS US High Income ETF
+HIS - Humilis US Focused Opportunities ETF
 HISF - First Trust High Income Strategic Focus ETF
 HIT - Health In Tech, Inc. - Class A Common Stock
 HITI - High Tide Inc. - Common Shares
@@ -5407,8 +5414,6 @@ III - Information Services Group, Inc. - Common Stock
 IIIN - Insteel Industries, Inc. Common Stock
 IIIV - i3 Verticals, Inc. - Common Stock
 IIM - Invesco Value Municipal Income Trust Common Stock
-IINN - Inspira Technologies Oxy B.H.N. Ltd. - Ordinary Shares
-IINNW - Inspira Technologies Oxy B.H.N. Ltd. - Warrant
 IIPR - Innovative Industrial Properties, Inc. Common Stock
 IJAN - Innovator International Developed Power Buffer ETF January
 IJH - iShares Core S&P Mid-Cap ETF
@@ -6223,6 +6228,7 @@ KWM - K Wave Media, Ltd. - Ordinary Shares
 KWMWW - K Wave Media, Ltd. - Warrant
 KWR - Quaker Houghton Common Stock
 KWT - iShares MSCI Kuwait ETF
+KWY - Kingsway Corporation Common Stock
 KXI - iShares Global Consumer Staples ETF
 KXIN - Kaixin Holdings - Ordinary Shares
 KYC - Corgi Digital Banking & Fintech Infrastructure ETF
@@ -6731,7 +6737,6 @@ MCRP - Micropolis AI Robotics Ordinary Shares
 MCS - Marcus Corporation (The) Common Stock
 MCTA - Charming Medical Limited - Class A Ordinary Shares
 MCVT - Miller Convertible Total Return ETF
-MCW - Mister Car Wash, Inc. - Common Stock
 MCY - Mercury General Corporation Common Stock
 MD - Pediatrix Medical Group, Inc. Common Stock
 MDA - MDA Space Ltd. Common Shares
@@ -7821,6 +7826,7 @@ OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
 OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
+OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
 OKE - ONEOK, Inc. Common Stock
 OKLL - Defiance Daily Target 2x Long OKLO ETF
@@ -8328,6 +8334,7 @@ PKOH - Park-Ohio Holdings Corp. - Common Stock
 PKW - Invesco BuyBack Achievers ETF
 PKX - POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock)
 PL - Planet Labs PBC Class A Common Stock
+PLA - GraniteShares Autocallable PLTR ETF
 PLAB - Photronics, Inc. - Common Stock
 PLAG - Planet Green Holdings Corp. Common Stock
 PLAY - Dave & Buster's Entertainment, Inc. - Common Stock
@@ -10599,7 +10606,6 @@ TMSF - T. Rowe Price Multi-Sector Income ETF
 TMSL - T. Rowe Price Small-Mid Cap ETF
 TMTS - Spartacus Acquisition Corp. II - Class A Ordinary Shares
 TMTSU - Spartacus Acquisition Corp. II - Unit
-TMTSW - Spartacus Acquisition Corp. II - Warrants
 TMUS - T-Mobile US, Inc. - Common Stock
 TMUSI - T-Mobile US, Inc. - 5.500% Senior Notes due June 2070
 TMUSL - T-Mobile US, Inc. - 6.250% Senior Notes due 2069
@@ -11197,6 +11203,7 @@ VDI - Virtus International Dividend ETF
 VDIG - Vanguard Wellington Dividend Growth Active ETF
 VDV - Vanguard Developed Markets ex-US Value Index ETF
 VEA - Vanguard FTSE Developed Markets ETF
+VECA - Vernal Capital Acquisition Corp. Ordinary Shares
 VECO - Veeco Instruments Inc. - Common Stock
 VEEA - Veea Inc. - Common Stock
 VEEAW - Veea Inc. - Warrant
@@ -11254,6 +11261,7 @@ VGZ - Vista Gold Corp Common Stock
 VHC - VirnetX Holding Corp - Common Stock
 VHCP - Vine Hill Capital Investment Corp. II - Class A Ordinary Shares
 VHCPU - Vine Hill Capital Investment Corp. II - Units
+VHCPW - Vine Hill Capital Investment Corp. II - Warrants
 VHI - Valhi, Inc. Common Stock
 VHT - Vanguard Health Care ETF
 VHUB - VenHub Global, Inc. - Common Stock
