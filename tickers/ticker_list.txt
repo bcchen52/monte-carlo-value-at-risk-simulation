@@ -498,6 +498,7 @@ AMRZ - Amrize Ltd Ordinary Shares
 AMS - American Shared Hospital Services Common Stock
 AMSC - American Superconductor Corporation - Common Stock
 AMSF - AMERISAFE, Inc. - Common Stock
+AMSS - AMASS Brands Inc. - Common Stock
 AMST - Amesite Inc. - Common Stock
 AMT - American Tower Corporation (REIT) Common Stock
 AMTB - Amerant Bancorp Inc. Class A Common Stock
@@ -1177,6 +1178,7 @@ BFIX - Build Bond Innovation ETF
 BFJA - FT Vest Bitcoin Strategy Floor15 ETF - January
 BFJL - FT Vest Bitcoin Strategy Floor15 ETF July
 BFLB - BufferLABS US Equity Dynamic Buffer ETF
+BFLX - iShares Flexible Equity Active ETF
 BFLY - Butterfly Network, Inc. Class A Common Stock
 BFOC - FT Vest Bitcoin Strategy Floor15 ETF - October
 BFOR - Barron's 400 ETF
@@ -1294,7 +1296,6 @@ BJDX - Bluejay Diagnostics, Inc. - Common Stock
 BJRI - BJ's Restaurants, Inc. - Common Stock
 BJUL - Innovator U.S. Equity Buffer ETF - July
 BJUN - Innovator U.S. Equity Buffer ETF - June
-BK - The Bank of New York Mellon Corporation Common Stock
 BKAG - BNY Mellon Core Bond ETF
 BKCG - BNY Mellon Concentrated Growth ETF
 BKCH - Global X Blockchain ETF
@@ -3328,6 +3329,7 @@ EMD - Western Asset Emerging Markets Debt Fund Inc Common Stock
 EMDM - First Trust Bloomberg Emerging Market Democracies ETF
 EMDV - ProShares MSCI Emerging Markets Dividend Growers ETF
 EME - EMCOR Group, Inc. Common Stock
+EMEM - Sophus Capital Emerging Market ETF
 EMEQ - Nomura Focused Emerging Markets Equity ETF
 EMES - Harbor Emerging Markets Select ETF
 EMET - VanEck Copper and Green Metals ETF
@@ -6299,6 +6301,7 @@ LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCLG - Logan Capital Broad Innovative Growth ETF
+LCLN - Lincoln International, Inc. Class A Common Stock
 LCNB - LCNB Corporation - Common Stock
 LCO - LOGIQ Contrarian Opportunities ETF
 LCOW - Pacer S&P 500 Quality FCF Aristocrats ETF
@@ -7914,6 +7917,7 @@ OPPJ - WisdomTree Japan Opportunities Fund
 OPRA - Opera Limited - American Depositary Shares
 OPRT - Oportun Financial Corporation - common stock
 OPRX - OptimizeRx Corporation - Common Stock
+OPTH - Optimi Health Corp. - Common Shares
 OPTT - Ocean Power Technologies, Inc. Common Stock
 OPTU - Optimum Communications, Inc. Class A common stock
 OPTX - Syntec Optics Holdings, Inc. - Class A Common Stock
@@ -8531,7 +8535,6 @@ PRSO - Peraso Inc. - Common Stock
 PRSU - Pursuit Attractions and Hospitality, Inc. Common Stock
 PRT - PermRock Royalty Trust Units of Beneficial Interest
 PRTA - Prothena Corporation plc - Ordinary Shares
-PRTC - PureTech Health plc - American Depositary Shares
 PRTH - Priority Technology Holdings, Inc. - Common Stock
 PRTO - RCN Pareto Strategic Allocation ETF
 PRTS - CarParts.com, Inc. - Common Stock
@@ -8684,7 +8687,9 @@ PZT - Invesco New York AMT-Free Municipal Bond ETF
 PZZA - Papa John's International, Inc. - Common Stock
 Q - Qnity Electronics, Inc. Common Stock
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
+QADR - QDRO Acquisition Corp. - Class A Ordinary Shares
 QADRU - QDRO Acquisition Corp. - Units
+QADRW - QDRO Acquisition Corp. - Warrant
 QAI - NYLI Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
 QARP - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF
@@ -8828,6 +8833,8 @@ QSU - Defiance Daily Target 2X Long QS ETF
 QTAC - Q3 All-Season Tactical Advantage ETF
 QTAP - Innovator Growth Accelerated Plus ETF - April
 QTEC - First Trust NASDAQ-100-Technology Sector Index Fund
+QTEX - QTREX Quantum Ltd. - Ordinary Shares
+QTEXW - QTREX Quantum Ltd. - Warrant
 QTI - QT Imaging Holdings, Inc. - Common Stock
 QTJA - Innovator Growth Accelerated Plus ETF - January
 QTJL - Innovator Growth Accelerated Plus ETF - July
@@ -8877,6 +8884,7 @@ RAAR - Reckoner Yield Enhanced AAA CLO Reinvesting ETF
 RAAX - VanEck Real Assets ETF
 RAAY - Reckoner Yield Enhanced AAA CLO Annual ETF
 RAC - Rithm Acquisition Corp. Class A Ordinary Shares
+RACC - Research Alliance Corporation III - Class A Ordinary Shares
 RACE - Ferrari N.V. Common Shares
 RADX - Radiopharm Theranostics Limited - American Depositary Shares
 RAFE - PIMCO RAFI ESG U.S. ETF
@@ -9204,7 +9212,9 @@ RQI - Cohen & Steers Quality Income Realty Fund Inc Common Shares
 RR - Richtech Robotics Inc. - Class B Common Stock
 RRBI - Red River Bancshares, Inc. - Common Stock
 RRC - Range Resources Corporation Common Stock
+RREV - RRE Ventures Acquisition Corp. - Class A Ordinary Shares
 RREVU - RRE Ventures Acquisition Corp. - Units
+RREVW - RRE Ventures Acquisition Corp. - Warrants
 RRGB - Red Robin Gourmet Burgers, Inc. - Common Stock
 RRR - Red Rock Resorts, Inc. - Class A Common Stock
 RRX - Regal Rexnord Corporation Common Stock
@@ -9902,7 +9912,6 @@ SON - Sonoco Products Company Common Stock
 SONM - DNA X, Inc. - Common Stock
 SONO - Sonos, Inc. - Common Stock
 SONY - Sony Group Corporation American Depositary Shares 
-SOPA - Society Pass Incorporated - Common Stock
 SOPH - SOPHiA GENETICS SA - Ordinary Shares
 SOR - Source Capital, Inc. Cmn Shs of BI
 SORA - AsiaStrategy - Ordinary Shares
@@ -10606,6 +10615,7 @@ TMSF - T. Rowe Price Multi-Sector Income ETF
 TMSL - T. Rowe Price Small-Mid Cap ETF
 TMTS - Spartacus Acquisition Corp. II - Class A Ordinary Shares
 TMTSU - Spartacus Acquisition Corp. II - Unit
+TMTSW - Spartacus Acquisition Corp. II - Warrants
 TMUS - T-Mobile US, Inc. - Common Stock
 TMUSI - T-Mobile US, Inc. - 5.500% Senior Notes due June 2070
 TMUSL - T-Mobile US, Inc. - 6.250% Senior Notes due 2069
