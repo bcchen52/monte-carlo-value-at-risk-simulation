@@ -84,7 +84,6 @@ ABXL - Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028
 ACA - Arcosa, Inc. Common Stock 
 ACAA - Averin Capital Acquisition Corp. - Class A Ordinary Shares
 ACAAU - Averin Capital Acquisition Corp. - Units
-ACAAW - Averin Capital Acquisition Corp. - Warrants
 ACAD - ACADIA Pharmaceuticals Inc. - Common Stock
 ACB - Aurora Cannabis Inc. - Common Shares
 ACCL - Acco Group Holdings Limited - Class A Ordinary Shares
@@ -617,6 +616,7 @@ APRZ - TrueShares Structured Outcome (April) ETF
 APT - Alpha Pro Tech, Ltd. Common Stock
 APTV - Aptiv PLC Ordinary Shares
 APUE - ActivePassive U.S. Equity ETF
+APURU - Aperture AC - Units
 APUS - Apimeds Pharmaceuticals US, Inc. Common Stock
 APVO - Aptevo Therapeutics Inc. - Common Stock
 APWC - Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share
@@ -763,6 +763,8 @@ ASTLW - Algoma Steel Group Inc. - Warrant
 ASTN - Defiance Daily Target 2X Short ASTS ETF
 ASTS - AST SpaceMobile, Inc. - Class A Common Stock
 ASTX - Tradr 2X Long ASTS Daily ETF
+ASTY - Defiance Daily Target 2X Long ASTS ETF
+ASUP - T-REX 2X Long ASTS Daily Target ETF
 ASUR - Asure Software Inc - Common Stock
 ASX - ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) 
 ASYS - Amtech Systems, Inc. - Common Stock
@@ -1434,6 +1436,7 @@ BNS - Bank Nova Scotia Halifax Pfd 3 Ordinary Shares
 BNT - Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares
 BNTC - Benitec Biopharma Inc. - Common Stock
 BNTX - BioNTech SE - American Depositary Shares
+BNY - The Bank of New York Mellon Corporation Common Stock
 BNZI - Banzai International, Inc. - Class A Common Stock
 BNZIW - Banzai International, Inc. - Warrant
 BOAT - SonicShares Global Shipping ETF
@@ -1613,7 +1616,6 @@ BTMWW - Bitcoin Depot Inc. - Warrant
 BTO - John Hancock Financial Opportunities Fund Common Stock
 BTOC - Armlogi Holding Corp. - common stock
 BTOG - Bit Origin Limited - Class A Ordinary Shares
-BTOP - Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF
 BTOT - iShares Total USD Fixed Income Market ETF
 BTQ - BTQ Technologies Corp. - Common Stock
 BTR - Beacon Tactical Risk ETF
@@ -1680,7 +1682,6 @@ BWA - BorgWarner Inc. Common Stock
 BWAY - BrainsWay Ltd. - American Depositary Shares
 BWB - Bridgewater Bancshares, Inc. - Common Stock
 BWBBP - Bridgewater Bancshares, Inc. - Depositary Shares, Each Representing a 1/100th Interest in a Share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series A
-BWEB - Bitwise Web3 ETF
 BWEN - Broadwind, Inc. - Common Stock
 BWET - Breakwave Tanker Shipping ETF
 BWFG - Bankwell Financial Group, Inc. - Common Stock
@@ -2225,6 +2226,7 @@ CNX - CNX Resources Corporation Common Stock
 CNXC - Concentrix Corporation - Common Stock
 CNXN - PC Connection, Inc. - Common Stock
 CNXT - VanEck ChiNext Innovators ETF
+CNXU - Conexeu Sciences Inc. - Common Stock
 CNYA - iShares MSCI China A ETF
 COAG - Hemab Therapeutics Holdings, Inc. - Common Stock
 COAL - Range Global Coal Index ETF
@@ -2909,7 +2911,7 @@ DMIIU - Drugs Made In America Acquisition II Corp. - Unit
 DMLP - Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests
 DMO - Western Asset Mortgage Opportunity Fund Inc. Common Stock
 DMRA - Damora Therapeutics, Inc. - Common Stock
-DMRC - Digimarc Parent, Inc. - Common Stock
+DMRC - Digimarc Corporation - Common Stock
 DMX - DoubleLine Multi-Sector Income ETF
 DMXF - iShares ESG Advanced MSCI EAFE ETF
 DNA - Ginkgo Bioworks Holdings, Inc. Class A Common Stock
@@ -3087,6 +3089,7 @@ DWSH - AdvisorShares Dorsey Wright Short ETF
 DWSN - Dawson Geophysical Company - Common Stock
 DWTX - Dogwood Therapeutics, Inc.  - Common Stock
 DWUS - AdvisorShares Dorsey Wright FSM US Core ETF
+DWWN - Principal Long Duration ETF
 DWX - State Street SPDR S&P International Dividend ETF
 DX - Dynex Capital, Inc. Common Stock
 DXC - DXC Technology Company Common Stock 
@@ -3150,10 +3153,10 @@ EBUF - Innovator Emerging Markets 10 Buffer ETF - Quarterly
 EC - Ecopetrol S.A. American Depositary Shares
 ECAT - BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest
 ECBK - ECB Bancorp, Inc. - Common Stock
-ECC - Eagle Point Credit Company Inc. Common Stock
-ECCC - Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031
-ECCU - Eagle Point Credit Company Inc. 7.75% Notes due 2030
-ECCV - Eagle Point Credit Company Inc. 5.375% Notes due 2029
+ECC - Eagle Point Credit Company Common Share of Beneficial Interest
+ECCC - Eagle Point Credit Company 6.50% Series C Term Preferred Stock due 2031
+ECCU - Eagle Point Credit Company 7.75% Notes due 2030
+ECCV - Eagle Point Credit Company 5.375% Notes due 2029
 ECF - Ellsworth Growth and Income Fund Ltd.
 ECG - Everus Construction Group, Inc. Common Stock
 ECH - iShares MSCI Chile ETF
@@ -3359,6 +3362,7 @@ EMPD - Empery Digital Inc. - Common stock
 EMPG - Empro Group Inc. - Ordinary shares
 EMQQ - EMQQ The Emerging Markets Internet ETF
 EMR - Emerson Electric Company Common Stock
+EMSC - Sophus Capital Emerging Market Small Cap ETF
 EMSF - Matthews Emerging Markets Sustainable Future Active ETF
 EMTL - State Street DoubleLine Emerging Markets Fixed Income ETF
 EMTY - ProShares Decline of the Retail Store ETF
@@ -4469,6 +4473,7 @@ GIB - CGI Inc. Common Stock
 GIBO - GIBO Holdings Limited - Class A Ordinary Shares
 GIBOW - GIBO Holdings Limited - Warrants
 GIC - Global Industrial Company Common Stock
+GIEQ - Goldman Sachs Data Enhanced International Equity ETF
 GIF - REX Growth & Income Universe ETF
 GIFT - Giftify, Inc. - Common Stock
 GIG - GigCapital7 Corp. - Class A Ordinary Share
@@ -6158,6 +6163,7 @@ KOYN - CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares
 KOYNU - CSLM Digital Asset Acquisition Corp III - Units
 KOYNW - CSLM Digital Asset Acquisition Corp III - Warrants
 KPDD - KraneShares 2x Long PDD Daily ETF
+KPET - KPET Ultra Paceline Corporation Class A Ordinary Shares
 KPHO - KraneShares Dragon Capital Vietnam Growth Index ETF
 KPLT - Katapult Holdings, Inc. - Common Stock
 KPLTW - Katapult Holdings, Inc. - Warrant
@@ -6420,6 +6426,7 @@ LITE - Lumentum Holdings Inc. - Common Stock
 LITL - Simplify Piper Sandler US Small-Cap PLUS Income ETF
 LITP - Sprott Lithium Miners ETF
 LITS - Lite Strategy, Inc. - Common Stock
+LITU - T-REX 2X Long LITE Daily Target ETF
 LITX - Tradr 2X Long LITE Daily ETF
 LITZ - Tradr 2X Short LITE Daily ETF
 LIVE - Live Ventures Incorporated - Common Stock
@@ -7780,6 +7787,7 @@ OCTM - FT Vest U.S. Equity Max Buffer ETF - October
 OCTP - PGIM S&P 500 Buffer 12 ETF - October
 OCTT - AllianzIM U.S. Large Cap Buffer10 Oct ETF
 OCTU - AllianzIM U.S. Equity Buffer15 Uncapped Oct ETF
+OCTVV - Octave Intelligence plc - Class B Ordinary Shares When Issued
 OCTW - AllianzIM U.S. Large Cap Buffer20 Oct ETF
 OCTZ - TrueShares Structured Outcome (October) ETF
 OCUL - Ocular Therapeutix, Inc. - Common Stock
@@ -7816,6 +7824,7 @@ OGIG - ALPS O'Shares Global Internet Giants ETF
 OGN - Organon & Co. Common Stock 
 OGS - ONE Gas, Inc. Common Stock
 OGSP - Obra High Grade Structured Products ETF
+OHACU - Oceanhawk Acquisition Corp. - Units
 OHI - Omega Healthcare Investors, Inc. Common Stock
 OI - O-I Glass, Inc. Common Stock
 OIA - Invesco Municipal Income Opportunities Trust Common Stock
@@ -8329,6 +8338,7 @@ PJP - Invesco Pharmaceuticals ETF
 PJT - PJT Partners Inc. Class A Common Stock
 PJUL - Innovator U.S. Equity Power Buffer ETF - July
 PJUN - Innovator U.S. Equity Power Buffer ETF - June
+PJUS - PGIM Jennison U.S. Core Equity ETF
 PK - Park Hotels & Resorts Inc. Common Stock 
 PKB - Invesco Building & Construction ETF
 PKBK - Parke Bancorp, Inc. - Common Stock
@@ -9100,6 +9110,7 @@ RITM - Rithm Capital Corp. Common Stock
 RITR - Reitar Logtech Holdings Limited - Ordinary shares
 RIV - RiverNorth Opportunities Fund, Inc. Common Stock
 RIVN - Rivian Automotive, Inc. - Class A Common Stock
+RIZE - Principal Inflation Protection ETF
 RJDI - RJ Eagle GCM Dividend Select Income ETF
 RJET - Republic Airways Holdings Inc. - Common Stock
 RJF - Raymond James Financial, Inc. Common Stock
@@ -11124,6 +11135,7 @@ UTWO - US Treasury 2 Year Note ETF
 UTWY - US Treasury 20 Year Bond ETF
 UTZ - Utz Brands Inc Class A Common Stock 
 UUP - Invesco DB USD Index Bullish Fund ETF
+UUPP - Principal CLO ETF
 UUU - Universal Safety Products, Inc. Common Stock
 UUUG - Leverage Shares 2X Long UUUU Daily ETF
 UUUU - Energy Fuels Inc Ordinary Shares (Canada)
@@ -11525,6 +11537,7 @@ WDAI - Pacer S&P World 3AI Top 300 ETF
 WDAY - Workday, Inc. - Class A Common Stock
 WDC - Western Digital Corporation - Common Stock
 WDCX - Tradr 2X Long WDC Daily ETF
+WDE - Principal Securitized Debt ETF
 WDEF - WisdomTree Europe Defense Fund
 WDFC - WD-40 Company - Common Stock
 WDGF - WisdomTree Global Defense Fund
