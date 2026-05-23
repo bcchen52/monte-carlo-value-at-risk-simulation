@@ -84,6 +84,7 @@ ABXL - Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028
 ACA - Arcosa, Inc. Common Stock 
 ACAA - Averin Capital Acquisition Corp. - Class A Ordinary Shares
 ACAAU - Averin Capital Acquisition Corp. - Units
+ACAAW - Averin Capital Acquisition Corp. - Warrants
 ACAD - ACADIA Pharmaceuticals Inc. - Common Stock
 ACB - Aurora Cannabis Inc. - Common Shares
 ACCL - Acco Group Holdings Limited - Class A Ordinary Shares
@@ -743,7 +744,6 @@ ASMU - Direxion Daily ASML Bull 2X ETF
 ASND - Ascendis Pharma A/S - Ordinary Share
 ASO - Academy Sports and Outdoors, Inc. - Common Stock
 ASPC - A SPAC III Acquisition Corp. - Class A Ordinary Shares
-ASPCR - A SPAC III Acquisition Corp. - Right
 ASPCU - A SPAC III Acquisition Corp. - Unit
 ASPI - ASP Isotopes Inc. - Common Stock
 ASPN - Aspen Aerogels, Inc. Common Stock
@@ -1512,6 +1512,7 @@ BRID - Bridgford Foods Corporation - Common Stock
 BRIE - MFS Blended Research International Equity ETF
 BRIF - FIS Bright Portfolios Focused Equity ETF
 BRKC - YieldMax BRK.B Option Income Strategy ETF
+BRKHU - Burtech Acquisition Corp II - Units
 BRKR - Bruker Corporation - Common Stock
 BRKRP - Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A
 BRKU - Direxion Daily BRKB Bull 2X ETF
@@ -4267,7 +4268,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4278,6 +4278,7 @@ FWONK - Liberty Media Corporation - Series C Liberty Formula One Common Stock
 FWRD - Forward Air Corporation - Common Stock
 FWRG - First Watch Restaurant Group, Inc. - Common Stock
 FXA - Invesco CurrencyShares Australian Dollar Trust
+FXACU - FortuneX Acquisition Corporation - Units
 FXB - Invesco CurrencyShares British Pound Sterling Trust
 FXC - Invesco CurrencyShares Canadian Dollar Trust
 FXD - First Trust Cons. Discret. AlphaDEX
@@ -8210,6 +8211,7 @@ PDYNW - Palladyne AI Corp. - Warrant
 PEB - Pebblebrook Hotel Trust Common Shares of Beneficial Interest
 PEBK - Peoples Bancorp of North Carolina, Inc. - Common Stock
 PEBO - Peoples Bancorp Inc. - Common Stock
+PECEU - Peace Acquisition Corp - Units
 PECO - Phillips Edison & Company, Inc. - Common Stock
 PED - Pedevco Corp. Common Stock
 PEG - Public Service Enterprise Group Incorporated Common Stock
@@ -9365,6 +9367,7 @@ SAFT - Safety Insurance Group, Inc. - Common Stock
 SAFX - XCF Global, Inc. - Class A Common Stock
 SAGP - Strategas Global Policy Opportunities ETF
 SAGT - SAGTEC GLOBAL LIMITED - Class A Ordinary shares
+SAGU - Shreya Acquisition Group Class A Ordinary Shares
 SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
@@ -11158,7 +11161,6 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
-UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
