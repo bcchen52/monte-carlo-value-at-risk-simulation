@@ -251,7 +251,6 @@ AFSC - abrdn Focused U.S. Small Cap Active ETF
 AFSM - First Trust Active Factor Small Cap ETF
 AFYA - Afya Limited - Class A Common Shares
 AG - First Majestic Silver Corp. Ordinary Shares (Canada)
-AGAE - Allied Gaming & Entertainment Inc. - Common Stock
 AGBK - AGI Inc Class A Common Shares
 AGCC - Agencia Comercial Spirits Ltd - Class A Ordinary Share
 AGCO - AGCO Corporation Common Stock
@@ -744,6 +743,7 @@ ASMU - Direxion Daily ASML Bull 2X ETF
 ASND - Ascendis Pharma A/S - Ordinary Share
 ASO - Academy Sports and Outdoors, Inc. - Common Stock
 ASPC - A SPAC III Acquisition Corp. - Class A Ordinary Shares
+ASPCR - A SPAC III Acquisition Corp. - Right
 ASPCU - A SPAC III Acquisition Corp. - Unit
 ASPI - ASP Isotopes Inc. - Common Stock
 ASPN - Aspen Aerogels, Inc. Common Stock
@@ -1611,9 +1611,7 @@ BTG - B2Gold Corp Common shares (Canada)
 BTGD - STKd 100% Bitcoin & 100% Gold ETF
 BTGO - BitGo Holdings, Inc. Class A Common Stock
 BTI - British American Tobacco  Industries, p.l.c. Common Stock ADR
-BTM - Bitcoin Depot Inc. - Class A Common Stock
 BTMD - Biote Corp. - Class A common stock
-BTMWW - Bitcoin Depot Inc. - Warrant
 BTO - John Hancock Financial Opportunities Fund Common Stock
 BTOC - Armlogi Holding Corp. - common stock
 BTOG - Bit Origin Limited - Class A Ordinary Shares
@@ -2171,6 +2169,7 @@ CMGG - Leverage Shares 2X Long CMG Daily ETF
 CMI - Cummins Inc. Common Stock
 CMII - Columbus Circle Capital Corp II - Class A Ordinary Shares
 CMIIU - Columbus Circle Capital Corp II - Unit
+CMIIW - Columbus Circle Capital Corp II - Warrant
 CMMB - Chemomab Therapeutics Ltd.  - American Depositary Shares
 CMND - Clearmind Medicine Inc. - Common Shares
 CMP - Compass Minerals Intl Inc Common Stock
@@ -2516,7 +2515,7 @@ CUBWU - Lionheart Holdings - Unit
 CUBWW - Lionheart Holdings - Warrant
 CUE - Cue Biopharma, Inc. - Common Stock
 CULP - Culp, Inc. - Common Shares
-CUPR - Cuprina Holdings (Cayman) Limited - Ordinary shares
+CUPR - Cuprina Holdings (Cayman) Limited - Class A Ordinary shares
 CURB - Curbline Properties Corp. Common Stock
 CURE - Direxion Daily Healthcare Bull 3X ETF
 CURI - CuriosityStream Inc.  - Class A Common Stock
@@ -3737,7 +3736,6 @@ FCOR - Fidelity Corporate Bond ETF
 FCPI - Fidelity Stocks for Inflation ETF
 FCPT - Four Corners Property Trust, Inc. Common Stock
 FCRS - FutureCrest Acquisition Corp. Class A Ordinary Shares
-FCRX - Crescent Capital BDC, Inc. 5.00% Notes due 2026
 FCSH - Federated Hermes Short Duration Corporate ETF
 FCT - First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest
 FCTE - SMI 3Fourteen Full-Cycle Trend ETF
@@ -4477,10 +4475,7 @@ GIC - Global Industrial Company Common Stock
 GIEQ - Goldman Sachs Data Enhanced International Equity ETF
 GIF - REX Growth & Income Universe ETF
 GIFT - Giftify, Inc. - Common Stock
-GIG - GigCapital7 Corp. - Class A Ordinary Share
 GIGB - Goldman Sachs Access Investment Grade Corporate Bond ETF
-GIGGU - GigCapital7 Corp. - Unit
-GIGGW - GigCapital7 Corp. - Warrant
 GIGL - Goldman Sachs Corporate Bond ETF
 GIGM - GigaMedia Limited - Ordinary Shares
 GII - State Street SPDR S&P Global Infrastructure ETF
@@ -4531,8 +4526,8 @@ GLDY - Defiance Gold Enhanced Options Income ETF
 GLE - Global Engine Group Holding Limited - Class A Ordinary Shares
 GLED - GalaxyEdge Acquisition Corporation Ordinary Shares
 GLGG - Leverage Shares 2X Long GLXY Daily ETF
-GLIBA - GCI Liberty, Inc. - Series A GCI Group Common Stock
-GLIBK - GCI Liberty, Inc. - Series C GCI Group Common Stock
+GLIBA - Liberty Capital Corporation - Series A GCI Group Common Stock
+GLIBK - Liberty Capital Corporation - Series C GCI Group Common Stock
 GLIN - VanEck India Growth Leaders ETF
 GLIX - Lazard Listed Infrastructure ETF
 GLL - ProShares UltraShort Gold
@@ -4900,6 +4895,8 @@ HDGE - Ranger Equity Bear Bear ETF
 HDL - SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares
 HDLB - ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Series B due September 30, 2044
 HDMV - First Trust Horizon Managed Volatility Developed International ETF
+HDRN - Hadron Energy, Inc. - Common Stock
+HDRNW - Hadron Energy, Inc. - Warrant
 HDSN - Hudson Technologies, Inc. - Common Stock
 HDUS - Hartford Disciplined US Equity ETF
 HDV - iShares Core High Dividend ETF
@@ -5608,9 +5605,6 @@ IPI - Intrepid Potash, Inc Common Stock
 IPKW - Invesco International BuyBack Achievers ETF
 IPM - Intelligent Protection Management Corp.  - Common Stock
 IPO - Renaissance IPO ETF
-IPOD - Dune Acquisition Corporation II - Class A ordinary shares
-IPODU - Dune Acquisition Corporation II - Units
-IPODW - Dune Acquisition Corporation II - Warrants
 IPOS - Renaissance Capital Greenwich Fund
 IPSC - Century Therapeutics, Inc. - Common Stock
 IPST - IP Strategy Holdings, Inc. - Common Stock
@@ -7571,7 +7565,6 @@ NRSNW - NeuroSense Therapeutics Ltd. - Warrant
 NRT - North European Oil Royality Trust Common Stock
 NRUC - National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)
 NRXP - NRX Pharmaceuticals, Inc. - Common Stock
-NRXPW - NRX Pharmaceuticals, Inc. - Warrant
 NRXS - Neuraxis, Inc. Common Stock
 NSA - National Storage Affiliates Trust Common Shares of Beneficial Interest
 NSC - Norfolk Southern Corporation Common Stock
@@ -11091,7 +11084,6 @@ USFR - WisdomTree Floating Rate Treasury Fund
 USG - USCF Gold Strategy Plus Income Fund
 USGG - Leverage Shares 2X Long USAR Daily ETF
 USGO - U.S. GoldMining Inc. - Common stock
-USGOW - U.S. GoldMining Inc. - Warrant
 USHY - iShares Broad USD High Yield Corporate Bond ETF
 USIG - iShares Broad USD Investment Grade Corporate Bond ETF
 USIN - WisdomTree 7-10 Year Laddered Treasury Fund
