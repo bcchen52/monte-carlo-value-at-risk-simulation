@@ -311,6 +311,7 @@ AIBD - Direxion Daily AI and Big Data Bear 2X ETF
 AIBU - Direxion Daily AI and Big Data Bull 2X ETF
 AIDX - 20/20 Biolabs, Inc. - Common Stock
 AIEQ - Amplify AI Powered Equity ETF
+AIFA - All In FutureTech Alliance, Inc. - Common Stock
 AIFC - AI Financial Corporation - Common Stock
 AIFD - TCW Artificial Intelligence ETF
 AIFF - Firefly Neuroscience, Inc.  - Common Stock
@@ -354,7 +355,7 @@ AISPW - Airship AI Holdings, Inc - Warrants
 AIT - Applied Industrial Technologies, Inc. Common Stock
 AIUP - FINQ FIRST U.S. Large Cap AI-Managed Equity ETF
 AIV - Apartment Investment and Management Company Common Stock
-AIVC - Amplify Bloomberg AI Value Chain ETF
+AIVC - Amplify Bloomberg AI Equal Weight ETF
 AIVI - WisdomTree International AI Enhanced Value Fund
 AIVL - WisdomTree U.S. AI Enhanced Value Fund
 AIXC - AIxCrypto Holdings, Inc. - Common Stock
@@ -1525,6 +1526,7 @@ BRN - Barnwell Industries, Inc. Common Stock
 BRNS - Barinthus Biotherapeutics plc - American Depositary Shares
 BRNY - Burney U.S. Factor Rotation ETF
 BRO - Brown & Brown, Inc. Common Stock
+BROL - Baron Risk Optimized Large Cap ETF
 BROS - Dutch Bros Inc. Class A Common Stock
 BRR - ProCap Financial, Inc. - Common Stock
 BRRR - Coinshares Bitcoin ETF
@@ -1602,6 +1604,7 @@ BTCL - T-Rex 2X Long Bitcoin Daily Target ETF
 BTCO - Invesco Galaxy Bitcoin ETF 
 BTCS - BTCS Inc. - Common Stock
 BTCT - BTC Digital Ltd. - Ordinary Shares
+BTCU - Direxion Daily Bitcoin Bull 2X ETF
 BTCW - WisdomTree Bitcoin Fund 
 BTCZ - T-Rex 2X Inverse Bitcoin Daily Target ETF
 BTDR - Bitdeer Technologies Group - Ordinary Shares
@@ -1841,6 +1844,9 @@ CBXY - Calamos Bitcoin 90 Series Structured Alt Protection ETF - July
 CBZ - CBIZ, Inc. Common Stock
 CC - Chemours Company (The) Common Stock
 CCAP - Crescent Capital BDC, Inc. - Common Stock
+CCAQ - Collective Acquisition Corp. - Class A ordinary shares
+CCAQU - Collective Acquisition Corp. - Units
+CCAQW - Collective Acquisition Corp. - Warrants
 CCB - Coastal Financial Corporation - Common Stock
 CCBG - Capital City Bank Group - Common Stock
 CCC - CCC Intelligent Solutions Holdings Inc. - Common Stock
@@ -3573,6 +3579,7 @@ EVLVW - Evolv Technologies Holdings, Inc. - Warrant
 EVMN - Evommune, Inc. Common Stock
 EVMO - Eaton Vance Mortgage Opportunities ETF
 EVMT - Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF
+EVMU - Direxion Daily Ether Bull 2X ETF
 EVN - Eaton Vance Municipal Income Trust Common Stock
 EVNT - AltShares Event-Driven ETF
 EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
@@ -4396,7 +4403,6 @@ GECC - Great Elm Capital Corp. - Closed End Fund
 GECCG - Great Elm Capital Corp. - 7.75% Notes Due 2030
 GECCH - Great Elm Capital Corp. - 8.125% Notes Due 2029
 GECCI - Great Elm Capital Corp. - 8.50% NOTES DUE 2029
-GECCO - Great Elm Capital Corp. - 5.875% Notes due 2026
 GEF - Greif Inc. Class A Common Stock
 GEG - Great Elm Group, Inc.  - Common Stock
 GEGGL - Great Elm Group, Inc.  - 7.25% Notes due 2027
@@ -5029,7 +5035,6 @@ HOOX - Defiance Daily Target 2X Long HOOD ETF
 HOOY - YieldMax HOOD Option Income Strategy ETF
 HOOZ - Defiance Daily Target 2X Short HOOD ETF
 HOPE - Hope Bancorp, Inc. - Common Stock
-HOTH - Hoth Therapeutics, Inc. - Common Stock
 HOUR - Hour Loop, Inc. - common stock
 HOV - Hovnanian Enterprises, Inc. Class A Common Stock
 HOVNP - Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock
@@ -6830,7 +6835,6 @@ MFSB - MFS Active Core Plus Bond ETF
 MFSG - MFS Active Growth ETF
 MFSI - MFS Active International ETF
 MFSM - MFS Active Intermediate Muni Bond ETF
-MFSV - MFS Active Value ETF
 MFUL - Mindful Conservative ETF
 MFUS - PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF
 MFUT - Cambria Chesapeake Pure Trend ETF
@@ -7045,6 +7049,7 @@ MPWX - Tradr 2X Long MPWR Daily ETF
 MQ - Marqeta, Inc. - Class A Common Stock
 MQQQ - Tradr 2X Long Innovation 100 Monthly ETF
 MQY - Blackrock MuniYield Quality Fund, Inc. Common Stock
+MRA - GraniteShares Autocallable MARA ETF
 MRAL - GraniteShares 2x Long MARA Daily ETF
 MRAM - Everspin Technologies, Inc. - Common Stock
 MRBK - Meridian Corporation - Common Stock
@@ -7060,7 +7065,6 @@ MRM - MEDIROM Healthcare Technologies Inc. - American Depositary Share
 MRNA - Moderna, Inc. - Common Stock
 MRNO - Murano Global Investments PLC - Ordinary Shares
 MRNOW - Murano Global Investments PLC - Warrants
-MRNX - Defiance Daily Target 2X Long MRNA ETF
 MRNY - YieldMax MRNA Option Income Strategy ETF
 MRP - Millrose Properties, Inc. Class A Common Stock
 MRSH - Marsh Common Stock
@@ -7462,7 +7466,7 @@ NKSH - National Bankshares, Inc. - Common Stock
 NKTR - Nektar Therapeutics - Common Stock
 NKTX - Nkarta, Inc. - Common Stock
 NKX - Nuveen California AMT-Free Quality Municipal Income Fund
-NL - NL Industries, Inc. Common Stock
+NL - NLI Holdings, Inc. Common Stock
 NLOP - Net Lease Office Properties Common Shares of Beneficial Interest
 NLR - VanEck Uranium and Nuclear ETF
 NLSI - NEOS Long/Short Equity Income ETF
@@ -7781,7 +7785,6 @@ OCTM - FT Vest U.S. Equity Max Buffer ETF - October
 OCTP - PGIM S&P 500 Buffer 12 ETF - October
 OCTT - AllianzIM U.S. Large Cap Buffer10 Oct ETF
 OCTU - AllianzIM U.S. Equity Buffer15 Uncapped Oct ETF
-OCTVV - Octave Intelligence plc - Class B Ordinary Shares When Issued
 OCTW - AllianzIM U.S. Large Cap Buffer20 Oct ETF
 OCTZ - TrueShares Structured Outcome (October) ETF
 OCUL - Ocular Therapeutix, Inc. - Common Stock
@@ -7970,6 +7973,7 @@ OSPN - OneSpan Inc. - Common Stock
 OSRH - OSR Holdings, Inc. - Common Stock
 OSRHW - OSR Holdings, Inc. - Warrant
 OSS - One Stop Systems, Inc. - Common Stock
+OSSL - Defiance Daily Target 2X Long OSS ETF
 OST - Ostin Technology Group Co., Ltd. - Class A Ordinary Shares
 OSTX - OS Therapies Incorporated Common Stock
 OSUR - OraSure Technologies, Inc. - Common Stock
@@ -8513,7 +8517,6 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
-PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - State Street IG Public & Private Credit ETF
@@ -8663,6 +8666,7 @@ PWER - Nomura Energy Transition ETF
 PWP - Perella Weinberg Partners - Class A Common Stock
 PWR - Quanta Services, Inc. Common Stock
 PWRD - TCW Transform Systems ETF
+PWRL - Powerlaw Corp. - Common Stock
 PWS - Pacer WealthShield ETF
 PWV - Invesco Large Cap Value ETF
 PWZ - Invesco California AMT-Free Municipal Bond Portfolio
@@ -9426,6 +9430,7 @@ SBU - Leverage Shares 2X Long SBUX Daily ETF
 SBUX - Starbucks Corporation - Common Stock
 SBXD - SilverBox Corp IV Class A Ordinary Shares
 SBXE - SilverBox Corp V Class A Ordinary Shares
+SCA - GraniteShares Autocallable SMCI ETF
 SCAG - Scage Future - American Depositary Shares
 SCAGW - Scage Future - Warrants
 SCAP - Infrastructure Capital Small Cap Income ETF
@@ -10133,7 +10138,7 @@ STAK - STAK Inc. - Class A Ordinary Shares
 STAX - Nomura Tax-Free USA Short Term ETF
 STBA - S&T Bancorp, Inc. - Common Stock
 STBF - Performance Trust Short Term Bond ETF
-STBQ - Amplify Stablecoin Technology ETF
+STBQ - Amplify Stablecoin Technology Leaders ETF
 STC - Stewart Information Services Corporation Common Stock
 STCE - Schwab Crypto Thematic ETF
 STE - STERIS plc (Ireland) Ordinary Shares
@@ -10184,8 +10189,6 @@ STRV - Strive 500 ETF
 STRW - Strawberry Fields REIT, Inc. Common Stock
 STRZ - Starz Entertainment Corp. - Common Shares
 STSM - Defiance Daily Target 2X Short TSM ETF
-STSS - Sharps Technology Inc. - Common Stock
-STSSW - Sharps Technology Inc. - Warrant
 STT - State Street Corporation Common Stock
 STTK - Shattuck Labs, Inc. - Common Stock
 STUB - StubHub Holdings, Inc. Class A Common Stock
@@ -10558,7 +10561,7 @@ TK - Teekay Corporation Ltd. Common Stock
 TKC - Turkcell Iletisim Hizmetleri AS Common Stock
 TKLF - Tokyo Lifestyle Co., Ltd. - American Depositary Shares
 TKNO - Alpha Teknova, Inc. - Common Stock
-TKNQ - Amplify Tokenization Technology ETF
+TKNQ - Amplify Tokenization Technology Leaders ETF
 TKNS - 21Shares Active Crypto ETF
 TKO - TKO Group Holdings, Inc. Class A Common Stock
 TKR - Timken Company (The) Common Stock
@@ -11091,6 +11094,7 @@ USIO - Usio, Inc. - Common Stock
 USL - United States 12 Month Oil
 USLM - United States Lime & Minerals, Inc. - Common Stock
 USLN - iShares Broad USD Floating Rate Loan ETF
+USLV - Direxion Daily Silver Bull 2X ETF
 USMC - Principal U.S. Mega-Cap ETF
 USMD - CoreValues America First Technology ETF
 USMF - WisdomTree U.S. Multifactor Fund
@@ -11385,7 +11389,6 @@ VRAI - Virtus Real Asset Income ETF
 VRAX - Virax Biolabs Group Limited - Ordinary Shares
 VRCA - Verrica Pharmaceuticals Inc. - Common Stock
 VRDN - Viridian Therapeutics, Inc.  - Common Stock
-VRE - Veris Residential, Inc. Common Stock
 VREX - Varex Imaging Corporation - Common Stock
 VRIG - Invesco Variable Rate Investment Grade ETF
 VRM - Vroom, Inc. - Common Stock
