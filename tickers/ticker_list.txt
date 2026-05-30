@@ -652,7 +652,10 @@ ARCC - Ares Capital Corporation - Closed End Fund
 ARCI - Archimedes Tech SPAC Partners III Co. - Ordinary Share
 ARCIU - Archimedes Tech SPAC Partners III Co. - Unit
 ARCIW - Archimedes Tech SPAC Partners III Co. - Warrant
+ARCL - ARC Group Acquisition I Corp - Class A Ordinary Shares
+ARCLR - ARC Group Acquisition I Corp - Right
 ARCLU - ARC Group Acquisition I Corp - Unit
+ARCLW - ARC Group Acquisition I Corp - Warrants
 ARCM - Arrow Reserve Capital Management ETF
 ARCO - Arcos Dorados Holdings Inc. Class A Shares
 ARCT - Arcturus Therapeutics Holdings Inc. - Common Stock
@@ -1254,6 +1257,7 @@ BIBL - Inspire 100 ETF
 BIDD - iShares International Dividend Active ETF
 BIDG - Leverage Shares 2X Long BIDU Daily ETF
 BIDU - Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share
+BIDWU - Tribeca Strategic Acquisition Corp. - Unit
 BIGY - YieldMax Target 12 Big 50 Option Income ETF
 BIIB - Biogen Inc. - Common Stock
 BIII - Black Spade Acquisition III Co Class A Ordinary Shares
@@ -1832,6 +1836,8 @@ CBRE - CBRE Group Inc Common Stock Class A
 CBRG - Leverage Shares 2X Long CBRS Daily ETF
 CBRL - Cracker Barrel Old Country Store, Inc. - Common Stock
 CBRS - Cerebras Systems Inc. - Class A Common Stock
+CBRX - Tradr 2X Long CBRS Daily ETF
+CBRZ - Tradr 2X Short CBRS Daily ETF
 CBSE - Clough Select Equity ETF
 CBSH - Commerce Bancshares, Inc. - Common Stock
 CBT - Cabot Corporation Common Stock
@@ -4106,6 +4112,7 @@ FORM - FormFactor, Inc. - Common Stock
 FORR - Forrester Research, Inc. - Common Stock
 FORTY - Formula Systems (1985) Ltd. - American Depositary Shares
 FOSL - Fossil Group, Inc. - Common Stock
+FOTO - Tuttle Capital Pure Play Photonics ETF
 FOUR - Shift4 Payments, Inc. Class A Common Stock
 FOWF - Pacer Solactive Whitney Future of Warfare ETF
 FOX - Fox Corporation - Class B Common Stock
@@ -5416,6 +5423,7 @@ IGV - iShares Expanded Tech-Software Sector ETF
 IH - iHuman Inc. American depositary shares, each representing five Class A ordinary shares
 IHAK - iShares Cybersecurity and Tech ETF
 IHD - Voya Emerging Markets High Income Dividend Equity Fund Common Shares
+IHDG - WisdomTree International Hedged Quality Dividend Growth Fund
 IHE - iShares U.S. Pharmaceutical ETF
 IHF - iShares U.S. Health Care Providers ETF
 IHG - Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)
@@ -5683,6 +5691,7 @@ ISRG - Intuitive Surgical, Inc. - Common Stock
 ISSB - IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF
 ISSC - Innovative Solutions and Support, Inc. - Common Stock
 ISTB - iShares Core 1-5 Year USD Bond ETF
+ISTM - iShares Strategic Metals ETF
 ISTR - Investar Holding Corporation - Common Stock
 ISUL - GraniteShares 2x Long ISRG Daily ETF
 ISVL - iShares International Developed Small Cap Value Factor ETF
@@ -6361,6 +6370,7 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LFAC - Leapfrog Acquisition Corporation - Class A Ordinary Shares
 LFACU - Leapfrog Acquisition Corporation - Units
+LFACW - Leapfrog Acquisition Corporation - Warrants
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
@@ -7713,6 +7723,7 @@ NWS - News Corporation - Class B Common Stock
 NWSA - News Corporation - Class A Common Stock
 NWTG - Newton Golf Company, Inc. - Common Stock
 NX - Quanex Building Products Corporation Common Stock
+NXB - NextBoat Inc. Common Stcok
 NXDR - Nextdoor Holdings, Inc. Class A Common Stock
 NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
@@ -8645,6 +8656,7 @@ PTLC - Pacer Trendpilot US Large Cap ETF
 PTLE - PTL LTD - Class A Ordinary Shares
 PTLO - Portillo's Inc. - Class A Common Stock
 PTMC - Pacer Trendpilot US Mid Cap ETF
+PTN - Palatin Technologies, Inc. - Common Stock
 PTNM - Pitanium Limited - Class A Ordinary Shares
 PTNQ - Pacer Trendpilot 100 ETF
 PTNT - Corgi IP Licensing & Royalties ETF
@@ -8768,6 +8780,7 @@ QGEN - Qiagen N.V. Common Shares
 QGRD - Horizon Nasdaq-100 Defined Risk ETF
 QGRO - American Century U.S. Quality Growth ETF
 QGRW - WisdomTree U.S. Quality Growth Fund
+QH - Quhuo Limited - American Depository Shares
 QHDG - Innovator Hedged Nasdaq-100 ETF
 QHY - WisdomTree U.S. High Yield Corporate Bond Fund
 QID - ProShares UltraShort QQQ
@@ -9330,6 +9343,7 @@ RWTN - Redwood Trust, Inc. 9.125% Senior Notes Due 2029
 RWTO - Redwood Trust, Inc. 9.00% Senior Notes Due 2029
 RWTP - Redwood Trust, Inc. 9.125% Senior Notes Due 2030
 RWTQ - Redwood Trust, Inc. 9.500% Senior Notes Due 2030
+RWTS - Redwood Trust, Inc. 9.75% Senior Notes Due 2031
 RWX - State Street SPDR Dow Jones International Real Estate ETF
 RXD - ProShares UltraShort Health Care
 RXI - iShares Global Consumer Discretionary ETF
@@ -10122,7 +10136,6 @@ SSBI - Summit State Bank - Common Stock
 SSCP - SMART Small Cap ETF
 SSD - Simpson Manufacturing Company, Inc. Common Stock
 SSEA - Starry Sea Acquisition Corp - Ordinary Shares
-SSEAR - Starry Sea Acquisition Corp - Rights
 SSEAU - Starry Sea Acquisition Corp - Unit
 SSFI - Day Hagan Smart Sector Fixed Income ETF
 SSG - ProShares UltraShort Semiconductors
@@ -10480,6 +10493,7 @@ TERG - Leverage Shares 2X Long TER Daily ETF
 TESL - Simplify Volt TSLA Revolution ETF
 TEST - YieldMax TSLA Performance & Distribution Target 25 ETF
 TETH - 21Shares Ethereum ETF
+TEUP - T-REX 2X Long TE Daily Target ETF
 TEVA - Teva Pharmaceutical Industries Limited American Depositary Shares
 TEX - Terex Corporation Common Stock
 TEXN - iShares Texas Equity ETF
