@@ -272,7 +272,7 @@ AGI - Alamos Gold Inc. Class A Common Shares
 AGIG - Abundia Global Impact Group Inc. Common stock
 AGIO - Agios Pharmaceuticals, Inc. - Common Stock
 AGIQ - SoFi Agentic AI ETF
-AGIX - KraneShares Artificial Intelligence & Technology ETF
+AGIX - KraneShares Public-Private AI & Technology ETF
 AGL - agilon health, inc. Common Stock
 AGM - Federal Agricultural Mortgage Corporation Common Stock
 AGMB - AgomAb Therapeutics NV - ADRs representing one common share.
@@ -952,6 +952,7 @@ AZO - AutoZone, Inc. Common Stock
 AZTA - Azenta, Inc. - Common Stock
 AZTD - Aztlan Global Stock Selection DM SMID ETF
 AZTR - Azitra Inc Common Stock
+AZUL - Azul S.A. American Depositary Shares, each representing two (2) Common Shares
 AZYY - GraniteShares YieldBoost AMZN ETF
 AZZ - AZZ Inc.
 B - Barrick Mining Corporation Common Shares
@@ -2703,6 +2704,7 @@ DDFN - Innovator Equity Dual Directional 15 Buffer ETF - November
 DDFO - Innovator Equity Dual Directional 15 Buffer ETF - October
 DDFS - Innovator Equity Dual Directional 15 Buffer ETF - September
 DDFY - Innovator Equity Dual Directional 15 Buffer ETF - May
+DDFZ - Innovator Equity Dual Directional 15 Buffer ETF - June
 DDI - DoubleDown Interactive Co., Ltd. - American Depository Shares
 DDIV - First Trust Dorsey Wright Momentum & Dividend ETF
 DDL - Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)
@@ -2723,6 +2725,7 @@ DDTN - Innovator Equity Dual Directional 10 Buffer ETF - November
 DDTO - Innovator Equity Dual Directional 10 Buffer ETF - October
 DDTS - Innovator Equity Dual Directional 10 Buffer ETF - September
 DDTY - Innovator Equity Dual Directional 10 Buffer ETF - May
+DDTZ - Innovator Equity Dual Directional 10 Buffer ETF - June
 DDV - Defined Duration 5 ETF
 DDWM - WisdomTree Dynamic International Equity Fund
 DDX - Defined Duration 10 ETF
@@ -3189,7 +3192,6 @@ ECVT - Ecovyst Inc. Common Stock
 ECX - ECARX Holdings Inc. - Class A Ordinary shares
 ECXWW - ECARX Holdings Inc. - Warrants
 ED - Consolidated Edison, Inc. Common Stock
-EDAP - EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share
 EDBL - Edible Garden AG Incorporated - Common Stock
 EDBLW - Edible Garden AG Incorporated - Warrant
 EDC - Direxion Emerging Markets Bull 3X ETF
@@ -3344,7 +3346,7 @@ EMBX - VanEck Emerging Markets Bond ETF
 EMC - Global X Emerging Markets Great Consumer ETF
 EMCB - WisdomTree Emerging Markets Corporate Bond Fund
 EMCR - Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF
-EMCS - Xtrackers MSCI Emerging Markets Climate Selection ETF
+EMCS - Xtrackers MSCI Emerging Markets Select ETF
 EMD - Western Asset Emerging Markets Debt Fund Inc Common Stock
 EMDM - First Trust Bloomberg Emerging Market Democracies ETF
 EMDV - ProShares MSCI Emerging Markets Dividend Growers ETF
@@ -3352,7 +3354,7 @@ EME - EMCOR Group, Inc. Common Stock
 EMEM - Sophus Capital Emerging Market ETF
 EMEQ - Nomura Focused Emerging Markets Equity ETF
 EMES - Harbor Emerging Markets Select ETF
-EMET - VanEck Copper and Green Metals ETF
+EMET - VanEck Copper and Electrification Metals ETF
 EMF - Templeton Emerging Markets Fund Common Stock
 EMFI - Pictet Emerging Markets Debt ETF
 EMGF - iShares Emerging Markets Equity Factor ETF
@@ -3801,6 +3803,7 @@ FDUS - Fidus Investment Corporation - Closed End Fund
 FDV - Federated Hermes U.S. Strategic Dividend ETF
 FDVV - Fidelity High Dividend ETF
 FDX - FedEx Corporation Common Stock
+FDXF - FedEx Freight Holding Company, Inc. Common Stock
 FE - FirstEnergy Corp. Common Stock
 FEAC - Fidelity Enhanced U.S. All-Cap Equity ETF
 FEAM - 5E Advanced Materials, Inc. - Common Stock
@@ -4101,6 +4104,7 @@ FNWD - Finward Bancorp - common stock
 FNX - First Trust Mid Cap Core AlphaDEX Fund
 FNY - First Trust Mid Cap Growth AlphaDEX Fund
 FOA - Finance of America Companies Inc. Class A Common Stock
+FOCL - EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share
 FOCT - FT Vest U.S. Equity Buffer ETF - October
 FOF - Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock
 FOFO - Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares
@@ -6180,7 +6184,7 @@ KOYNU - CSLM Digital Asset Acquisition Corp III - Units
 KOYNW - CSLM Digital Asset Acquisition Corp III - Warrants
 KPDD - KraneShares 2x Long PDD Daily ETF
 KPET - KPET Ultra Paceline Corporation Class A Ordinary Shares
-KPHO - KraneShares Dragon Capital Vietnam Growth Index ETF
+KPHO - KraneShares Dragon Capital Growth of Vietnam Index ETF
 KPLT - Katapult Holdings, Inc. - Common Stock
 KPLTW - Katapult Holdings, Inc. - Warrant
 KPRO - KraneShares 100% KWEB Defined Outcome January 2027 ETF
@@ -7701,7 +7705,6 @@ NVO - Novo Nordisk A/S Common Stock
 NVOH - Novo Nordisk A/S B Shares ADRhedged
 NVOX - Defiance Daily Target 2X Long NVO ETF
 NVR - NVR, Inc. Common Stock
-NVRI - Enviri Corporation Common Stock
 NVS - Novartis AG Common Stock
 NVST - Envista Holdings Corporation Common Stock
 NVT - nVent Electric plc Ordinary Shares 
@@ -8041,7 +8044,6 @@ OXLCL - Oxford Lane Capital Corp. - 6.75% Notes due 2031
 OXLCM - Oxford Lane Capital Corp. - Preferred Stock Shares, 8.25% Series 2031
 OXLCN - Oxford Lane Capital Corp. - 7.125% Series 2029 Term Preferred Stock
 OXLCO - Oxford Lane Capital Corp. - Preferred Stock Shares, 6.00% Series 2029
-OXLCP - Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares
 OXLCZ - Oxford Lane Capital Corp. - 5.00% Notes due 2027
 OXM - Oxford Industries, Inc. Common Stock
 OXSQ - Oxford Square Capital Corp. - Closed End Fund
@@ -9109,7 +9111,7 @@ RIET - Hoya Capital High Dividend Yield ETF
 RIFR - Russell Investments Global Infrastructure ETF
 RIG - Transocean Ltd (Switzerland) Common Stock
 RIGL - Rigel Pharmaceuticals, Inc. - Common Stock
-RIGS - RiverFront Strategic Income Fund
+RIGS - ALPS Strategic Income Fund
 RILA - Indexperts Gorilla Aggressive Growth ETF
 RILY - BRC Group Holdings, Inc. - Common Stock
 RILYG - BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026
@@ -9261,7 +9263,7 @@ RSDE - FT Vest U.S. Equity Equal Weight Buffer ETF - December
 RSEE - Rareview Systematic Equity ETF
 RSF - RiverNorth Capital and Income Fund Common Stock
 RSG - Republic Services, Inc. Common Stock
-RSHO - Tema American Reshoring ETF
+RSHO - Tema U.S. Manufacturing & Reshoring ETF
 RSI - Rush Street Interactive, Inc. Class A Common Stock
 RSIT - Return Stacked International Stocks & Managed Futures ETF
 RSJN - FT Vest U.S. Equity Equal Weight Buffer ETF - June
@@ -10544,7 +10546,6 @@ THNQ - ROBO Global Artificial Intelligence ETF
 THNR - Amplify Weight Loss Drug & Treatment ETF
 THO - Thor Industries, Inc. Common Stock
 THQ - abrdn Healthcare Opportunities Fund Shares of Beneficial Interest
-THR - Thermon Group Holdings, Inc. Common Stock
 THRM - Gentherm Inc - Common Stock
 THRO - iShares U.S. Thematic Rotation Active ETF
 THRV - Prospera Income ETF
