@@ -78,8 +78,6 @@ ABTS - Abits Group Inc - Ordinary Shares
 ABUF - Aptus Laddered Buffer ETF
 ABUS - Arbutus Biopharma Corporation - Common Stock
 ABVC - ABVC BioPharma, Inc. - Common Stock
-ABVE - Above Food Ingredients Inc. - Common Stock
-ABVEW - Above Food Ingredients Inc. - Warrant
 ABVX - Abivax SA - American Depositary Shares
 ABX - Abacus Global Management, Inc. Class A Common Stock
 ABXB - Abacus Flexible Bond Leaders ETF
@@ -1206,8 +1204,10 @@ BFXU - FT Vest Laddered U.S. Equity Uncapped Accelerator ETF
 BG - Bunge Limited Common Shares
 BGB - Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest
 BGC - BGC Group, Inc. - Class A Common Stock
+BGCG - Baillie Gifford International Concentrated Growth ETF
 BGDE - Big Digital Energy, Inc. - Common Stock
 BGDV - Bahl & Gaynor Dividend ETF
+BGGG - Baillie Gifford Long Term Global Growth ETF
 BGH - Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests
 BGI - Birks Group Inc. Common Stock
 BGIG - Bahl & Gaynor Income Growth ETF
@@ -2676,14 +2676,14 @@ DBRG - DigitalBridge Group, Inc.
 DBVT - DBV Technologies S.A. - American Depositary Shares
 DBX - Dropbox, Inc. - Class A Common Stock
 DC - Dakota Gold Corp. Common Stock
-DCBG - Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034
+DCBG - Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes
 DCBO - Docebo Inc. - Common Shares
 DCGO - DocGo Inc. - Common Stock
 DCH - Dauch Corporation Common Stock
 DCI - Donaldson Company, Inc. Common Stock
 DCMT - DoubleLine Commodity Strategy ETF
 DCO - Ducommun Incorporated Common Stock
-DCOM - Dime Community Bancshares, Inc. Common Stock
+DCOM - Dime Commercial Bancshares, Inc. Common Stock
 DCOR - Dimensional US Core Equity 1 ETF
 DCOY - Decoy Therapeutics Inc. - Common Stock
 DCRE - DoubleLine Commercial Real Estate Debt ETF
@@ -3863,7 +3863,6 @@ FFEB - FT Vest U.S. Equity Buffer ETF - February
 FFEM - Fidelity Fundamental Emerging Markets ETF
 FFF - Founders 100 ETF
 FFGX - Fidelity Fundamental Global ex-U.S. ETF
-FFIC - Flushing Financial Corporation - Common Stock
 FFIN - First Financial Bankshares, Inc. - Common Stock
 FFIU - UVA Unconstrained Medium-Term Fixed Income ETF
 FFIV - F5, Inc. - Common Stock
@@ -6429,6 +6428,9 @@ LIFT - LifeX 2028 Income Bucket ETF
 LII - Lennox International, Inc. Common Stock
 LILA - Liberty Latin America Ltd. - Class A Common Stock
 LILAK - Liberty Latin America Ltd. - Class C Common Stock
+LILAV - Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued
+LILKV - Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued
+LILPV - Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares
 LIMI - Themes Lithium & Battery Metal Miners ETF
 LIMN - Liminatus Pharma, Inc. - Class A Common Stock
 LIMNW - Liminatus Pharma, Inc. - Warrants
@@ -7705,6 +7707,7 @@ NVO - Novo Nordisk A/S Common Stock
 NVOH - Novo Nordisk A/S B Shares ADRhedged
 NVOX - Defiance Daily Target 2X Long NVO ETF
 NVR - NVR, Inc. Common Stock
+NVRI - Enviri Corporation Common Stock
 NVS - Novartis AG Common Stock
 NVST - Envista Holdings Corporation Common Stock
 NVT - nVent Electric plc Ordinary Shares 
@@ -11436,7 +11439,6 @@ VRTX - Vertex Pharmaceuticals Incorporated - Common Stock
 VS - Versus Systems Inc. - Common Stock
 VSA - VisionSys AI Inc. - American Depositary Shares
 VSAT - ViaSat, Inc. - Common Stock
-VSCO - Victorias Secret & Co. Common Stock 
 VSDA - VictoryShares Dividend Accelerator ETF
 VSDB - Vanguard Short Duration Bond ETF
 VSDM - Vanguard Short Duration Tax-Exempt Bond ETF
