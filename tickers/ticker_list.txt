@@ -342,6 +342,8 @@ AIP - Arteris, Inc.  - Common Stock
 AIPI - REX AI Equity Premium Income ETF
 AIPO - Defiance AI & Power Infrastructure ETF
 AIQ - Global X Artificial Intelligence & Technology ETF
+AIQD - MicroSectors -3? Short Artificial Intelligence (AI) ETNs
+AIQU - MicroSectors 3? Long Artificial Intelligence (AI) ETNs
 AIR - AAR Corp. Common Stock
 AIRE - reAlpha Tech Corp. - Common Stock
 AIRG - Airgain, Inc. - Common Stock
@@ -728,6 +730,7 @@ ASBPW - Aspire Biopharma Holdings, Inc.  - Warrant
 ASC - Ardmore Shipping Corporation Common Stock
 ASCE - Allspring SMID Core ETF
 ASCI - abrdn International Small Cap Active ETF
+ASD - Defiance Autism Impact ETF
 ASEA - Global X FTSE Southeast Asia ETF
 ASEC - American Century Securitized Credit ETF
 ASG - Liberty All-Star Growth Fund, Inc.
@@ -1210,6 +1213,7 @@ BGDV - Bahl & Gaynor Dividend ETF
 BGGG - Baillie Gifford Long Term Global Growth ETF
 BGH - Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests
 BGI - Birks Group Inc. Common Stock
+BGIA - Baillie Gifford International Alpha ETF
 BGIG - Bahl & Gaynor Income Growth ETF
 BGIN - Bgin Blockchain Limited - Class A Ordinary Shares
 BGL - Blue Gold Limited - Class A ordinary shares
@@ -2108,6 +2112,7 @@ CITR - CitroTech Inc. Common Stock
 CIVB - Civista Bancshares, Inc.  - Common Stock
 CIX - CompX International Inc. Common Stock
 CJMB - Callan JMB Inc. - Common Stock
+CJUN - Corgi U.S. Equities 15% Structured Buffer ETF - June Series
 CKX - CKX Lands, Inc. Common Stock
 CL - Colgate-Palmolive Company Common Stock
 CLAR - Clarus Corporation - Common Stock
@@ -2506,6 +2511,7 @@ CTEV - Claritev Corporation Class A Common Stock
 CTEX - ProShares S&P Kensho Cleantech ETF
 CTGO - Contango Silver & Gold Inc. Common Stock
 CTIF - Castellan Targeted Income ETF
+CTJN - Corgi U.S. Equities 30% Structured Buffer ETF - June Series
 CTKB - Cytek Biosciences, Inc. - Common Stock
 CTM - Castellum, Inc. Common Stock
 CTMA - Corgi U.S. Equities 30% Structured Buffer ETF - May Series
@@ -3363,6 +3369,7 @@ EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
 EMISR - Emmis Acquisition Corp. - Rights
+EMJN - Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series
 EMKT - Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
 EMLC - VanEck J. P. Morgan EM Local Currency Bond ET
@@ -4878,6 +4885,7 @@ HBCP - Home Bancorp, Inc. - Common Stock
 HBDC - Hilton BDC Corporate Bond ETF
 HBIO - Harvard Bioscience, Inc. - Common Stock
 HBM - Hudbay Minerals Inc. Ordinary Shares (Canada)
+HBMX - Tuttle Capital Concentrated Memory Stack ETF
 HBNB - Hotel101 Global Holdings Corp. - Class A Ordinary Shares
 HBNC - Horizon Bancorp, Inc. - Common Stock
 HBR - Canary HBAR ETF
@@ -4998,6 +5006,7 @@ HIVE - HIVE Digital Technologies Ltd - Common Shares
 HIW - Highwoods Properties, Inc. Common Stock
 HIX - Western Asset High Income Fund II Inc. Common Stock
 HIYY - YieldMax HIMS Option Income Strategy ETF
+HJUN - Corgi U.S. Equities 100% Structured Buffer ETF - June Series
 HKD - AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)
 HKIT - Hitek Global Inc. - Class A Ordinary Share
 HKPD - Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares
@@ -5344,6 +5353,7 @@ IDEQ - Lazard International Dynamic Equity ETF
 IDEV - iShares Core MSCI International Developed Markets ETF
 IDGT - iShares U.S. Digital Infrastructure and Real Estate ETF
 IDHQ - Invesco S&P International Developed Quality ETF
+IDJN - Corgi International Developed Equities 15% Structured Buffer ETF - June Series
 IDLV - Invesco S&P International Developed Low Volatility ETF
 IDMO - Invesco S&P International Developed Momentum ETF
 IDMY - Corgi International Developed Equities 15% Structured Buffer ETF - May Series
@@ -6004,6 +6014,7 @@ JULT - AllianzIM U.S. Large Cap Buffer10 Jul ETF
 JULU - AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF
 JULW - AllianzIM U.S. Large Cap Buffer20 Jul ETF
 JULZ - TrueShares Structured Outcome (July) ETF
+JUNC - Corgi U.S. Equities 10% Structured Buffer ETF - June Series
 JUNM - FT Vest U.S. Equity Max Buffer ETF - June
 JUNP - PGIM S&P 500 Buffer 12 ETF - June
 JUNS - Jupiter Neurosciences, Inc. - Common Stock
@@ -6101,8 +6112,8 @@ KHC - The Kraft Heinz Company - Common Stock
 KHPI - Kensington Hedged Premium Income ETF
 KHYB - KraneShares Asia Pacific High Income USD Bond ETF
 KIDS - OrthoPediatrics Corp. - Common Stock
-KIDZ - Classover Holdings, Inc. - Class B Common Stock
-KIDZW - Classover Holdings, Inc. - Warrants
+KIDZ - KIDZ AI Inc. - Class B Common Stock
+KIDZW - KIDZ AI Inc. - Warrants
 KIE - State Street SPDR S&P Insurance ETF
 KIM - Kimco Realty Corporation (HC) Common Stock
 KINS - Kingstone Companies, Inc - Common Stock
@@ -6717,7 +6728,6 @@ MBBA - iShares Mortgage-Backed Securities Active ETF
 MBBB - VanEck Moody's Analytics BBB Corporate Bond ETF
 MBBC - Marathon Bancorp, Inc. - Common Stock
 MBC - MasterBrand, Inc. Common Stock
-MBCC - Monarch Blue Chips Core Index ETF
 MBI - MBIA Inc. Common Stock
 MBIN - Merchants Bancorp - Common Stock
 MBINL - Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value
@@ -7738,9 +7748,9 @@ NXGL - NexGel, Inc - Common Stock
 NXGLW - NexGel, Inc - Warrant
 NXL - Nexalin Technology, Inc. - Common Stock
 NXP - Nuveen Select Tax Free Income Portfolio Common Stock
+NXPG - Leverage Shares 2X Long NXPI Daily ETF
 NXPI - NXP Semiconductors N.V. - Common Stock
 NXPL - NextPlat Corp - Common Stock
-NXPLW - NextPlat Corp - Warrants
 NXPX - Tradr 2X Long NXPI Daily ETF
 NXRT - NexPoint Residential Trust, Inc. Common Stock
 NXST - Nexstar Media Group, Inc. - Common Stock
@@ -7919,6 +7929,7 @@ ONEY - State Street SPDR Russell 1000 Yield Focus ETF
 ONEZ - TrueShares Seasonality Laddered Buffered ETF
 ONFO - Onfolio Holdings Inc. - Common Stock
 ONFOW - Onfolio Holdings Inc. - Warrant
+ONG - Leverage Shares 2X Long ON Daily ETF
 ONIT - Onity Group Inc. Common Stock
 ONL - Orion Properties Inc. Common Stock
 ONLN - ProShares Online Retail ETF
@@ -8280,6 +8291,7 @@ PFIG - Invesco Fundamental Investment Grade Corporate Bond  ETF
 PFIS - Peoples Financial Services Corp.  - Common Stock
 PFIX - Simplify Interest Rate Hedge ETF
 PFL - PIMCO Income Strategy Fund Shares of Beneficial Interest
+PFLA - PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031
 PFLD - AAM Low Duration Preferred and Income Securities ETF
 PFLT - PennantPark Floating Rate Capital Ltd. Common Stock
 PFM - Invesco Dividend Achievers ETF
@@ -8548,6 +8560,7 @@ PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - State Street IG Public & Private Credit ETF
+PRIZ - Zacks Preferred Income ETF
 PRK - Park National Corporation Common Stock
 PRKS - United Parks & Resorts Inc. Common Stock
 PRLB - Proto Labs, Inc. Common stock
@@ -8793,6 +8806,7 @@ QIDX - Indexperts Quality Earnings Focused ETF
 QIG - WisdomTree U.S. Corporate Bond Fund
 QINT - American Century Quality Diversified International ETF
 QIS - Simplify Multi-QIS Alternative ETF
+QJN - Corgi Growth & Technology 10% Structured Buffer ETF - June Series
 QJUN - FT Vest Nasdaq-100 Buffer ETF - June
 QLC - FlexShares US Quality Large Cap Index Fund
 QLD - ProShares Ultra QQQ
@@ -8828,6 +8842,7 @@ QQDN - ProShares UltraShort QQQ Mega
 QQEW - First Trust Nasdaq-100 Select Equal Weight ETF
 QQH - HCM Defender 100 Index ETF
 QQHG - Invesco QQQ Hedged Advantage ETF
+QQJN - Corgi Growth & Technology 15% Structured Buffer ETF - June Series
 QQLV - Invesco QQQ Low Volatility ETF
 QQMG - Invesco ESG NASDAQ 100 ETF
 QQMY - Corgi Growth & Technology 15% Structured Buffer ETF - May Series
@@ -8924,6 +8939,7 @@ RAAY - Reckoner Yield Enhanced AAA CLO Annual ETF
 RAC - Rithm Acquisition Corp. Class A Ordinary Shares
 RACC - Research Alliance Corporation III - Class A Ordinary Shares
 RACE - Ferrari N.V. Common Shares
+RACK - VanEck Data Center Supply Chain ETF
 RADX - Radiopharm Theranostics Limited - American Depositary Shares
 RAFE - PIMCO RAFI ESG U.S. ETF
 RAIL - Freightcar America, Inc. - Common Stock
@@ -9506,6 +9522,7 @@ SCIIR - SC II Acquisition Corp. - Rights
 SCIIU - SC II Acquisition Corp. - Units
 SCIO - First Trust Structured Credit Income Opportunities ETF
 SCJ - iShares MSCI Japan Sm Cap
+SCJN - Corgi U.S. Small-Cap 15% Structured Buffer ETF - June Series
 SCKT - Socket Mobile, Inc. - Common Stock
 SCL - Stepan Company Common Stock
 SCLS - Stoneport Advisors Commodity Long Short ETF
@@ -10267,7 +10284,6 @@ SUSA - iShares ESG Optimized MSCI USA ETF
 SUSB - iShares ESG Aware 1-5 Year USD Corporate Bond ETF
 SUSC - iShares ESG Aware USD Corporate Bond ETF
 SUSL - iShares ESG MSCI USA Leaders ETF
-SUUN - PowerBank Corporation - Common Stock
 SUZ - Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
 SVA - Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
 SVAC - Spring Valley Acquisition Corp. III - Class A Ordinary Shares
@@ -11460,6 +11476,7 @@ VSTD - Vestand Inc.  - Class A Common Stock
 VSTL - Defiance Daily Target 2X Long VST ETF
 VSTM - Verastem, Inc. - Common Stock
 VSTS - Vestis Corporation Common Stock
+VSXY - Victorias Secret & Co. Common Stock 
 VT - Vanguard Total World Stock Index ETF
 VTAK - Catheter Precision, Inc. Common Stock
 VTC - Vanguard Total Corporate Bond ETF
@@ -12083,6 +12100,7 @@ ZHDG - ZEGA Buy and Hedge ETF
 ZHOG - F/m Opportunistic Income ETF
 ZIG - The Acquirers Fund
 ZIM - ZIM Integrated Shipping Services Ltd. Ordinary Shares
+ZINC - Zacks Income ETF
 ZION - Zions Bancorporation N.A. - Common Stock
 ZIONP - Zions Bancorporation N.A. - Depositary Shares each representing a 1/40th ownership interest in a share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock
 ZIP - ZipRecruiter, Inc. Class A Common Stock
