@@ -157,7 +157,6 @@ ACYS - FT Vest Laddered Autocallable Barrier & Resilient Income ETF
 AD - Array Digital Infrastructure, Inc. Common Shares
 ADAC - American Drive Acquisition Company - Class A Ordinary Shares
 ADACU - American Drive Acquisition Company - Units
-ADACW - American Drive Acquisition Company - Warrant
 ADAG - Adagene Inc. - ADS, each representing 1.25 ordinary shares
 ADAM - Adamas Trust, Inc. - Common Stock
 ADAMG - Adamas Trust, Inc. - 9.125% Senior Notes Due 2030
@@ -582,7 +581,6 @@ AOUT - American Outdoor Brands, Inc. - Common Stock
 AP - Ampco-Pittsburgh Corporation Common Stock
 APA - APA Corporation - Common Stock
 APAC - StoneBridge Acquisition II Corporation - Class A Ordinary Shares
-APACR - StoneBridge Acquisition II Corporation - Rights
 APACU - StoneBridge Acquisition II Corporation - Units
 APAM - Artisan Partners Asset Management Inc. Class A Common Stock
 APC - ARKO Petroleum Corp. - Class A Common Stock
@@ -4314,7 +4312,6 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
-FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4680,7 +4677,6 @@ GOVZ - iShares 25  Year Treasury STRIPS Bond ETF
 GP - GreenPower Motor Company Inc. - Common Shares
 GPAC - General Purpose Acquisition Corp. - Class A Ordinary Shares
 GPACU - General Purpose Acquisition Corp. - Units
-GPACW - General Purpose Acquisition Corp. - Warrant
 GPAT - GP-Act III Acquisition Corp. - Class A Ordinary Share
 GPATU - GP-Act III Acquisition Corp. - Units
 GPATW - GP-Act III Acquisition Corp. - Warrants
@@ -5562,6 +5558,7 @@ INDY - iShares India 50 ETF
 INDZ - VanEck India Select ETF
 INEO - INNEOVA Holdings Limited - Class A Ordinary Shares
 INEQ - Columbia International Equity Income ETF
+INFH - Defiance Daily Target 2X Long INFQ ETF
 INFL - Horizon Kinetics Inflation Beneficiaries ETF
 INFO - Harbor PanAgora Dynamic Large Cap Core ETF
 INFQ - Infleqtion, Inc. Common Stock
@@ -6564,7 +6561,6 @@ LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
 LPCV - Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
 LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
-LPCVW - Launchpad Cadenza Acquisition Corp I - Warrant
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -7313,7 +7309,6 @@ MYSZ - My Size, Inc. - Common Stock
 MYX - Maywood Acquisition Corp. 2 - Class A Ordinary Share
 MYXXR - Maywood Acquisition Corp. 2 - Rights
 MYXXU - Maywood Acquisition Corp. 2 - Units
-MYXXW - Maywood Acquisition Corp. 2 - Warrants
 MYY - ProShares Short MidCap400
 MZTI - The Marzetti Company - Common Stock
 MZYX - MOZAYYX Acquisition Corp. Class A Ordinary Shares
@@ -7884,6 +7879,8 @@ OGIG - ALPS O'Shares Global Internet Giants ETF
 OGN - Organon & Co. Common Stock 
 OGS - ONE Gas, Inc. Common Stock
 OGSP - Obra High Grade Structured Products ETF
+OHAC - Oceanhawk Acquisition Corp. - Class A Ordinary Shares
+OHACR - Oceanhawk Acquisition Corp. - Rights
 OHACU - Oceanhawk Acquisition Corp. - Units
 OHI - Omega Healthcare Investors, Inc. Common Stock
 OI - O-I Glass, Inc. Common Stock
@@ -7898,7 +7895,6 @@ OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
 OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
-OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
 OKE - ONEOK, Inc. Common Stock
 OKLL - Defiance Daily Target 2x Long OKLO ETF
@@ -8232,6 +8228,7 @@ PCMM - BondBloxx Private Credit CLO ETF
 PCN - Pimco Corporate & Income Strategy Fund Common Stock
 PCOR - Procore Technologies, Inc. Common Stock
 PCPI - PIMCO Inflation PLUS Active Exchange-Traded Fund
+PCPP - Porter & Company Porter Portfolio Index ETF
 PCQ - PIMCO California Municipal Income Fund Common Stock
 PCR - Simplify VettaFi Private Credit Strategy ETF
 PCRB - Putnam ESG Core Bond ETF
@@ -8587,7 +8584,6 @@ PRGO - Perrigo Company plc Ordinary Shares
 PRGS - Progress Software Corporation - Common Stock
 PRH - Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062
 PRHI - Presurance Holdings, Inc. - Common Stock
-PRHIZ - Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028
 PRI - Primerica, Inc. Common Stock
 PRIM - Primoris Services Corporation Common Stock
 PRIV - State Street IG Public & Private Credit ETF
@@ -9574,7 +9570,6 @@ SCOR - comScore, Inc. - Common Stock
 SCOW - Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
 SCPQ - Social Commerce Partners Corporation - Class A Ordinary Shares
 SCPQU - Social Commerce Partners Corporation - Unit
-SCPQW - Social Commerce Partners Corporation - Warrant
 SCSB - Sterling Capital Short Duration Bond ETF
 SCSC - ScanSource, Inc. - Common Stock
 SCUB - Sterling Capital Ultra Short Bond ETF
@@ -11241,7 +11236,6 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
-UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -11322,6 +11316,7 @@ VEGA - AdvisorShares STAR Global Buy-Write ETF
 VEGI - iShares MSCI Agriculture Producers ETF
 VEGN - US Vegan Climate ETF
 VEL - Velocity Financial, Inc. Common Stock
+VELL - Defiance Daily Target 2X Long VELO ETF
 VELO - Velo3D, Inc. - Common stock
 VEM - Virtus Emerging Markets Dividend ETF
 VEMY - Virtus Stone Harbor Emerging Markets High Yield Bond ETF
@@ -12069,6 +12064,7 @@ YBTC - Roundhill Bitcoin Covered Call Strategy ETF
 YBTY - GraniteShares YieldBoost TopYielders ETF
 YCBD - cbdMD, Inc. Common Stock
 YCL - ProShares Ultra Yen
+YCLO - Franklin BSP CLO ETF
 YCS - ProShares UltraShort Yen New
 YCY - AA Mission Acquisition Corp. II Class A Ordinary Shares
 YDDL - One and One Green Technologies. INC - Class A Ordinary Shares
