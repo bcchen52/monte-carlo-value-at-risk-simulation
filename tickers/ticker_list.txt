@@ -1999,9 +1999,6 @@ CGBL - Capital Group Core Balanced ETF
 CGC - Canopy Growth Corporation - Common Shares
 CGCB - Capital Group Core Bond ETF
 CGCP - Capital Group Core Plus Income ETF
-CGCT - Cartesian Growth Corporation III - Class A Ordinary Shares
-CGCTU - Cartesian Growth Corporation III - unit
-CGCTW - Cartesian Growth Corporation III - Warrant
 CGCV - Capital Group Conservative Equity ETF
 CGDG - Capital Group Dividend Growers ETF
 CGDV - Capital Group Dividend Value ETF
@@ -2223,7 +2220,6 @@ CMT - Core Molding Technologies Inc Common Stock
 CMTG - Claros Mortgage Trust, Inc. Common Stock
 CMTL - Comtech Telecommunications Corp. - Common Stock
 CMTV - Community Bancorp.  - Common stock
-CMU - MFS Municipal Income Trust Common Stock
 CNA - CNA Financial Corporation Common Stock
 CNAV - Mohr Company Nav ETF
 CNBS - Amplify Seymour Cannabis ETF
@@ -2616,8 +2612,6 @@ CX - Cemex, S.A.B. de C.V. Sponsored ADR
 CXAI - CXApp Inc. - Class A Common Stock
 CXAIW - CXApp Inc. - Warrant
 CXDO - Crexendo, Inc. - Common Stock
-CXE - MFS High Income Municipal Trust Common Stock
-CXH - MFS Investment Grade Municipal Trust Common Stock
 CXIIU - Churchill Capital Corp XII - Units
 CXM - Sprinklr, Inc. Class A Common Stock
 CXRN - Teucrium 2x Daily Corn ETF
@@ -6458,8 +6452,8 @@ LIFT - LifeX 2028 Income Bucket ETF
 LII - Lennox International, Inc. Common Stock
 LILA - Liberty Latin America Ltd. - Class A Common Stock
 LILAK - Liberty Latin America Ltd. - Class C Common Stock
-LILAV - Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued
-LILKV - Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued
+LILAV - Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued
+LILKV - Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued
 LILPV - Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares
 LIMI - Themes Lithium & Battery Metal Miners ETF
 LIMN - Liminatus Pharma, Inc. - Class A Common Stock
@@ -6882,7 +6876,7 @@ MFICL - MidCap Financial Investment Corporation - 8.00% Notes due 2028
 MFIG - Motley Fool Innovative Growth ETF
 MFIN - Medallion Financial Corp. - Common Stock
 MFLX - First Trust Flexible Municipal High Income ETF
-MFM - MFS Municipal Income Trust Common Stock
+MFM - Aberdeen Municipal Income Fund Common Shares of Beneficial Interest
 MFMO - Motley Fool Momentum Factor ETF
 MFSB - MFS Active Core Plus Bond ETF
 MFSG - MFS Active Growth ETF
@@ -7022,7 +7016,6 @@ MMIN - NYLI MacKay Muni Insured ETF
 MMIT - NYLI MacKay Muni Intermediate ETF
 MMK - State Street Prime Money Market ETF
 MMKT - Texas Capital Government Money Market ETF
-MMLG - First Trust Multi-Manager Large Growth ETF
 MMLP - Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests
 MMM - 3M Company Common Stock
 MMMA - NYLI MacKay Muni Allocation ETF
@@ -9637,7 +9630,6 @@ SEIV - SEI Enhanced U.S. Large Cap Value Factor ETF
 SEIX - Virtus Seix Senior Loan ETF
 SELF - Global Self Storage, Inc. - Common Stock
 SELV - SEI Enhanced Low Volatility U.S. Large Cap ETF
-SELX - Semilux International Ltd. - Ordinary Shares
 SEM - Select Medical Holdings Corporation Common Stock
 SEMG - Suncoast Select Growth ETF
 SEMI - Columbia Select Technology ETF
@@ -9858,6 +9850,7 @@ SLVO - ETRACS Silver Shares Covered Call ETNs due April 21, 2033
 SLVP - iShares MSCI Global Silver and Metals Miners ETF
 SLVR - Sprott Silver Miners & Physical Silver ETF
 SLVX - Nicholas Silver Income ETF
+SLWS - Wisdom Short Duration Income ETF
 SLX - VanEck Steel ETF
 SLXN - Silexion Therapeutics Corp - Ordinary Shares
 SLXNW - Silexion Therapeutics Corp - Warrant
@@ -10261,7 +10254,6 @@ STRR - Star Equity Holdings, Inc. - Common Stock
 STRRP - Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock
 STRS - Stratus Properties Inc. - Common Stock
 STRT - STRATTEC SECURITY CORPORATION - Common Stock
-STRV - Strive 500 ETF
 STRW - Strawberry Fields REIT, Inc. Common Stock
 STRZ - Starz Entertainment Corp. - Common Shares
 STSM - Defiance Daily Target 2X Short TSM ETF
@@ -10273,6 +10265,7 @@ STWD - STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.
 STX - Seagate Technology Holdings PLC - Ordinary Shares (Ireland)
 STXD - Strive 1000 Dividend Growth ETF
 STXE - Strive Emerging Markets Ex-China ETF
+STXF - Strive 500 ETF
 STXG - Strive 1000 Growth ETF
 STXK - Strive Small-Cap ETF
 STXL - Defiance Daily Target 2x Long STX ETF
@@ -11155,7 +11148,6 @@ USDU - WisdomTree Bloomberg U.S. Dollar Bullish Fund
 USDX - SGI Enhanced Core ETF
 USE - USCF Energy Commodity Strategy Absolute Return Fund
 USEA - United Maritime Corporation - Common Stock
-USEG - U.S. Energy Corp. - Common Stock
 USEP - Innovator U.S. Equity Ultra Buffer ETF - September
 USEW - Cambria US EW ETF
 USFD - US Foods Holding Corp. Common Stock
@@ -11685,7 +11677,6 @@ WINA - Winmark Corporation - Common Stock
 WING - Wingstop Inc. - Common Stock
 WINN - Harbor Long-Term Growers ETF
 WIP - State Street SPDR FTSE International Government Inflation-Protected Bond ETF
-WISD - Wisdom Short Duration Income ETF
 WISE - Themes Generative Artificial Intelligence ETF
 WIT - Wipro Limited Common Stock
 WIW - Western Asset Inflation-Linked Opportunities & Income Fund
