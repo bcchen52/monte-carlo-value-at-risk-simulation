@@ -240,6 +240,7 @@ AFGB - American Financial Group, Inc. 5.875% Subordinated Debentures due 2059
 AFGC - American Financial Group, Inc. 5.125% Subordinated Debentures due 2059
 AFGD - American Financial Group, Inc. 5.625% Subordinated Debentures due 2060
 AFGE - American Financial Group, Inc. 4.500% Subordinated Debentures due 2060
+AFGR - First Trust Multi-Manager Large Growth ETF
 AFIF - Anfield Universal Fixed Income ETF
 AFIX - Allspring Broad Market Core Bond ETF
 AFJK - Aimei Health Technology Co., Ltd - Ordinary Share
@@ -581,6 +582,7 @@ AOUT - American Outdoor Brands, Inc. - Common Stock
 AP - Ampco-Pittsburgh Corporation Common Stock
 APA - APA Corporation - Common Stock
 APAC - StoneBridge Acquisition II Corporation - Class A Ordinary Shares
+APACR - StoneBridge Acquisition II Corporation - Rights
 APACU - StoneBridge Acquisition II Corporation - Units
 APAM - Artisan Partners Asset Management Inc. Class A Common Stock
 APC - ARKO Petroleum Corp. - Class A Common Stock
@@ -636,6 +638,7 @@ APXTW - Apex Treasury Corporation - Warrants
 APYX - Apyx Medical Corporation - Common Stock
 AQB - AquaBounty Technologies, Inc. - Common Stock
 AQEC - AQE Core ETF
+AQLG - HCM Large Cap Growth ETF
 AQLT - iShares MSCI Global Quality Factor ETF
 AQMS - Aqua Metals, Inc. - Common Stock
 AQN - Algonquin Power & Utilities Corp. Common Shares
@@ -1581,6 +1584,7 @@ BSCY - Invesco BulletShares 2034 Corporate Bond ETF
 BSCZ - Invesco BulletShares 2035 Corporate Bond ETF
 BSEP - Innovator U.S. Equity Buffer ETF - September
 BSET - Bassett Furniture Industries, Incorporated - Common Stock
+BSIN - Big Sky Industrial Inc. - Common Stock
 BSJQ - Invesco BulletShares 2026 High Yield Corporate Bond ETF
 BSJR - Invesco BulletShares 2027 High Yield Corporate Bond ETF
 BSJS - Invesco BulletShares 2028 High Yield Corporate Bond ETF
@@ -1652,7 +1656,6 @@ BTU - Peabody Energy Corporation Common Stock
 BTX - BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest
 BTYB - VistaShares BitBonds 5 Yr Enhanced Weekly Distribution ETF
 BTZ - BlackRock Credit Allocation Income Trust
-BU - Defiance Daily Target 2X Long BU ETF
 BUCK - Simplify Treasury Option Income ETF
 BUD - Anheuser-Busch Inbev SA Sponsored ADR (Belgium)
 BUDA - Buda Juice, Inc. Common Stock
@@ -2577,7 +2580,6 @@ CVLT - Commvault Systems, Inc. - Common Stock
 CVM - Cel-Sci Corporation Common Stock
 CVMC - Calvert US Mid-Cap Core Responsible Index ETF
 CVNA - Carvana Co. Class A Common Stock
-CVNX - Defiance Daily Target 2X Long CVNA ETF
 CVNY - YieldMax CVNA Option Income Strategy ETF
 CVR - Chicago Rivet & Machine Co. Common Stock
 CVRD - Madison Covered Call ETF
@@ -3703,9 +3705,11 @@ FAAA - Fidelity AAA CLO ETF
 FAAR - First Trust Alternative Absolute Return Strategy ETF
 FAB - First Trust Multi Cap Value AlphaDEX Fund
 FABC - Fabric.AI, Inc. - Common Stock
+FAC - Factorial Energy Inc. - Class A Common Stock
 FACT - FACT II Acquisition Corp. - Class A Ordinary Shares
 FACTU - FACT II Acquisition Corp. - Unit
 FACTW - FACT II Acquisition Corp. - Warrant
+FACWW - Factorial Energy Inc. - Warrant
 FAD - First Trust Multi Cap Growth AlphaDEX Fund
 FAF - First American Corporation (New) Common Stock
 FAI - First Trust Bloomberg Artificial Intelligence ETF
@@ -3807,7 +3811,7 @@ FDMT - 4D Molecular Therapeutics, Inc. - Common Stock
 FDN - First Trust DJ Internet Index Fund
 FDND - FT Vest Dow Jones Internet & Target Income ETF
 FDNI - First Trust Dow Jones International Internet ETF
-FDP - Fresh Del Monte Produce, Inc. Common Stock
+FDP - Del Monte Corporation Ordinary Shares
 FDRR - Fidelity Dividend ETF for Rising Rates
 FDRS - Founder-Led ETF
 FDRV - Fidelity Electric Vehicles and Future Transportation ETF
@@ -4142,6 +4146,7 @@ FOXX - Foxx Development Holdings Inc. - Common Stock
 FOXXW - Foxx Development Holdings Inc. - Warrant
 FOXY - Simplify Currency Strategy ETF
 FPA - First Trust Asia Pacific Ex-Japan AlphaDEX Fund
+FPAA - FPA Global Allocation ETF
 FPAG - FPA Global Equity ETF
 FPAS - FPA Short Duration Government ETF
 FPE - First Trust Preferred Securities and Income ETF ETF
@@ -4182,6 +4187,7 @@ FRSH - Freshworks Inc. - Class A Common Stock
 FRST - Primis Financial Corp. - Common Stock
 FRSX - Foresight Autonomous Holdings Ltd. - American Depositary Shares
 FRT - Federal Realty Investment Trust Common Stock
+FRTT - Fort Technology Inc. - Common Shares
 FRTY - Alger Mid Cap 40 ETF
 FRVO - Fervo Energy Company - Class A common stock
 FRWD - Nomura Transformational Technologies ETF
@@ -4306,6 +4312,7 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
+FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -4653,6 +4660,8 @@ GOODN - Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeemable
 GOODO - Gladstone Commercial Corporation - 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share
 GOOG - Alphabet Inc. - Class C Capital Stock
 GOOGL - Alphabet Inc. - Class A Common Stock
+GOOGM - Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock
+GOOGN - Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock
 GOOP - Kurv Yield Premium Strategy Google (GOOGL) ETF
 GOOS - Canada Goose Holdings Inc. Subordinate Voting Shares
 GOOW - Roundhill GOOGL WeeklyPay ETF
@@ -6207,7 +6216,6 @@ KPDD - KraneShares 2x Long PDD Daily ETF
 KPET - KPET Ultra Paceline Corporation Class A Ordinary Shares
 KPHO - KraneShares Dragon Capital Growth of Vietnam Index ETF
 KPLT - Katapult Holdings, Inc. - Common Stock
-KPLTW - Katapult Holdings, Inc. - Warrant
 KPRO - KraneShares 100% KWEB Defined Outcome January 2027 ETF
 KPRX - Kiora Pharmaceuticals, Inc.  - Common Stock
 KPTI - Karyopharm Therapeutics Inc. - Common Stock
@@ -7474,7 +7482,9 @@ NHI - National Health Investors, Inc. Common Stock
 NHIC - NewHold Investment Corp III - Class A Ordinary shares
 NHICU - NewHold Investment Corp III - Units
 NHICW - NewHold Investment Corp III - Warrants
+NHIV - NewHold Investment Corp IV - Class A Ordinary Shares
 NHIVU - NewHold Investment Corp IV - Units
+NHIVW - NewHold Investment Corp IV - Warrants
 NHP - National Healthcare Properties, Inc. - Class A Common Stock
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
@@ -8132,7 +8142,7 @@ PAR - PAR Technology Corporation Common Stock
 PARK - Park Dental Partners, Inc. - Common Stock
 PARR - Par Pacific Holdings, Inc.  Common Stock
 PASG - Passage Bio, Inc. - Common Stock
-PASW - Ping An Biomedical Co., Ltd. - Ordinary Shares
+PASW - Ping An Biomedical Co., Ltd. - Class A Ordinary Shares
 PATH - UiPath, Inc. Class A Common Stock
 PATK - Patrick Industries, Inc. - Common Stock
 PATN - Pacer Nasdaq International Patent Leaders ETF
@@ -10177,6 +10187,7 @@ SSBI - Summit State Bank - Common Stock
 SSCP - SMART Small Cap ETF
 SSD - Simpson Manufacturing Company, Inc. Common Stock
 SSEA - Starry Sea Acquisition Corp - Ordinary Shares
+SSEAR - Starry Sea Acquisition Corp - Rights
 SSEAU - Starry Sea Acquisition Corp - Unit
 SSFI - Day Hagan Smart Sector Fixed Income ETF
 SSG - ProShares UltraShort Semiconductors
@@ -11228,6 +11239,7 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
+UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
@@ -11864,7 +11876,7 @@ XEY - GraniteShares YieldBOOST Ether ETF
 XFEB - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - February
 XFIV - BondBloxx Bloomberg Five Year Target Duration US Treasury ETF
 XFLH - XFLH Capital Corporation Ordinary Shares
-XFLT - XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest
+XFLT - XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest
 XFLX - FundX Flexible ETF
 XFOR - X4 Pharmaceuticals, Inc. - Common Stock
 XGN - Exagen Inc. - Common Stock
