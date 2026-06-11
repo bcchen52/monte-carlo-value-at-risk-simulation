@@ -628,6 +628,8 @@ APRZ - TrueShares Structured Outcome (April) ETF
 APT - Alpha Pro Tech, Ltd. Common Stock
 APTV - Aptiv PLC Ordinary Shares
 APUE - ActivePassive U.S. Equity ETF
+APUR - Aperture AC - Class A Ordinary Shares
+APURR - Aperture AC - Rights
 APUS - Apimeds Pharmaceuticals US, Inc. Common Stock
 APVO - Aptevo Therapeutics Inc. - Common Stock
 APWC - Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share
@@ -1524,7 +1526,6 @@ BREE - MFS Blended Research Emerging Markets Equity ETF
 BREM - iShares Emerging Markets Bond Active ETF
 BRES - Burney U.S. Equity Select ETF
 BREW - Corgi Coffee & Energy Drinks ETF
-BREZU - Breeze Acquisition Corp. II - Units
 BRF - VanEck Brazil Small-Cap ETF
 BRFH - Barfresh Food Group Inc. - Common Stock
 BRHY - iShares High Yield Active ETF
@@ -1571,6 +1572,7 @@ BSAAU - BEST SPAC I Acquisition Corp. - Unit
 BSAC - Banco Santander - Chile ADS
 BSBK - Bogota Financial Corp. - Common Stock
 BSBR - Banco Santander Brasil SA American Depositary Shares, each representing one unit
+BSCA - Invesco BulletShares 2036 Corporate Bond ETF
 BSCQ - Invesco BulletShares 2026 Corporate Bond ETF
 BSCR - Invesco BulletShares 2027 Corporate Bond ETF
 BSCS - Invesco BulletShares 2028 Corporate Bond ETF
@@ -1583,6 +1585,8 @@ BSCY - Invesco BulletShares 2034 Corporate Bond ETF
 BSCZ - Invesco BulletShares 2035 Corporate Bond ETF
 BSEP - Innovator U.S. Equity Buffer ETF - September
 BSET - Bassett Furniture Industries, Incorporated - Common Stock
+BSGR - Invesco BulletShares 2027 Treasury Bond ETF
+BSGT - Invesco BulletShares 2029 Treasury Bond ETF
 BSIN - Big Sky Industrial Inc. - Common Stock
 BSJQ - Invesco BulletShares 2026 High Yield Corporate Bond ETF
 BSJR - Invesco BulletShares 2027 High Yield Corporate Bond ETF
@@ -1592,6 +1596,7 @@ BSJU - Invesco BulletShares 2030 High Yield Corporate Bond ETF
 BSJV - Invesco BulletShares 2031 High Yield Corporate Bond ETF
 BSJW - Invesco BulletShares 2032 High Yield Corporate Bond ETF
 BSJX - Invesco BulletShares 2033 High Yield Corporate Bond ETF
+BSJY - Invesco BulletShares 2034 High Yield Corporate Bond ETF
 BSL - Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest
 BSM - Black Stone Minerals, L.P. Common units representing limited partner interests
 BSMC - Brandes U.S. Small-Mid Cap Value ETF
@@ -1610,6 +1615,9 @@ BSRR - Sierra Bancorp - Common Stock
 BSSX - Invesco BulletShares 2033 Municipal Bond ETF
 BST - BlackRock Science and Technology Trust Common Shares of Beneficial Interest
 BSTP - Innovator Buffer Step-Up Strategy ETF
+BSTS - Invesco BulletShares 2028 Treasury Bond ETF
+BSTU - Invesco BulletShares 2030 Treasury Bond ETF
+BSTV - Invesco BulletShares 2031 Treasury Bond ETF
 BSTZ - BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest
 BSV - Vanguard Short-Term Bond ETF
 BSVN - Bank7 Corp. - Common stock
@@ -2320,7 +2328,6 @@ COPZ - Defiance Daily Target 2X Long Copper Miners ETF
 COR - Cencora, Inc. Common Stock
 CORB - AB Core Bond ETF
 CORD - T-REX 2X Inverse CRWV Daily Target ETF
-CORN - Teucrium Corn Fund ETV
 CORO - iShares International Country Rotation Active ETF
 CORP - PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund
 CORT - Corcept Therapeutics Incorporated - Common Stock
@@ -3421,6 +3428,8 @@ ENOR - iShares MSCI Norway ETF
 ENOV - Enovis Corporation Common Stock
 ENPH - Enphase Energy, Inc. - Common Stock
 ENR - Energizer Holdings, Inc. Common Stock
+ENRD - Einride AB - American Depositary Shares
+ENRDW - Einride AB - Warrants
 ENS - EnerSys Common Stock
 ENSC - Ensysce Biosciences, Inc. - Common Stock
 ENSG - The Ensign Group, Inc. - Common Stock
@@ -3495,6 +3504,7 @@ ERII - Energy Recovery, Inc. - Common Stock
 ERNA - Ernexa Therapeutics Inc. - Common Stock
 ERNAW - Ernexa Therapeutics Inc. - Warrants
 ERO - Ero Copper Corp. Common Shares
+EROC - ERock, Inc. Class A Common Stock
 EROK - EagleRock Land, LLC Class A shares representing limited liability company interests
 ERTH - Invesco MSCI Sustainable Future ETF
 ERX - Direxion Energy Bull 2X ETF
@@ -4634,7 +4644,6 @@ GNOM - Global X Genomics & Biotechnology ETF
 GNOV - FT Vest U.S. Equity Moderate Buffer ETF - November
 GNPX - Genprex, Inc. - Common Stock
 GNR - State Street SPDR S&P Global Natural Resources ETF
-GNRC - Generac Holdlings Inc. Common Stock
 GNS - Genius Group Limited Ordinary Shares
 GNSS - Genasys Inc. - Common Stock
 GNT - GAMCO Natural Resources, Gold & Income Trust
@@ -5485,7 +5494,6 @@ ILLR - Triller Group Inc. - Common Stock
 ILLRW - Triller Group Inc. - Warrant
 ILLU - Illumination Acquisition Corp I - Class A Ordinary Shares
 ILLUU - Illumination Acquisition Corp I - Units
-ILLUW - Illumination Acquisition Corp I - Warrant
 ILMN - Illumina, Inc. - Common Stock
 ILOW - AB International Low Volatility Equity ETF
 ILPT - Industrial Logistics Properties Trust - Common Shares of Beneficial Interest
@@ -5836,6 +5844,7 @@ IZRL - ARK Israel Innovative Technology ETF
 J - Jacobs Solutions Inc. Common Stock
 JA - Janus Henderson AA-A CLO ETF
 JAAA - Janus Henderson AAA CLO ETF
+JABRU - JAB Acquisition Corp I - Units
 JABS - Janus Henderson Asset-Backed Securities ETF
 JACK - Jack In The Box Inc. - Common Stock
 JACS - Jackson Acquisition Company II Class A Ordinary Shares
@@ -6400,7 +6409,6 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LFAC - Leapfrog Acquisition Corporation - Class A Ordinary Shares
 LFACU - Leapfrog Acquisition Corporation - Units
-LFACW - Leapfrog Acquisition Corporation - Warrants
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
@@ -6711,7 +6719,6 @@ MARU - AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF
 MARW - AllianzIM U.S. Large Cap Buffer20 Mar ETF
 MARZ - TrueShares Structured Outcome (March) ETF
 MAS - Masco Corporation Common Stock
-MASI - Masimo Corporation - Common Stock
 MASK - 3 E Network Technology Group Ltd - Class A Ordinary Shares
 MASS - 908 Devices Inc. - Common Stock
 MAT - Mattel, Inc. - Common Stock
@@ -6982,9 +6989,6 @@ MLAA - Mountain Lake Acquisition Corp. II - Class A Ordinary Shares
 MLAAU - Mountain Lake Acquisition Corp. II - Units
 MLAAW - Mountain Lake Acquisition Corp. II - Warrants
 MLAB - Mesa Laboratories, Inc. - Common Stock
-MLAC - Mountain Lake Acquisition Corp. - Class A Ordinary Shares
-MLACR - Mountain Lake Acquisition Corp. - Right
-MLACU - Mountain Lake Acquisition Corp. - Units
 MLCI - Mount Logan Capital Inc. - Common Stock
 MLCIL - Mount Logan Capital Inc. - 8.00% Notes Due 2031
 MLCO - Melco Resorts & Entertainment Limited - American Depositary Shares 
@@ -7030,7 +7034,6 @@ MMT - MFS Multimarket Income Trust Common Stock
 MMTM - State Street SPDR S&P 1500 Momentum Tilt ETF
 MMTX - Miluna Acquisition Corp - Class A Ordinary Shares
 MMTXU - Miluna Acquisition Corp - Units
-MMTXW - Miluna Acquisition Corp - Warrant
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MNA - NYLI Merger Arbitrage ETF
@@ -7579,7 +7582,6 @@ NOK - Nokia Corporation Sponsored American Depositary Shares
 NOMA - NOMADAR Corp. - Class A Common Stock
 NOMD - Nomad Foods Limited Ordinary Shares
 NORW - Global X MSCI Norway ETF
-NOTV - Inotiv, Inc. - Common Stock
 NOV - NOV Inc. Common Stock
 NOVM - FT Vest U.S. Equity Max Buffer ETF - November
 NOVP - PGIM S&P 500 Buffer 12 ETF - November
@@ -8182,6 +8184,7 @@ PBJL - PGIM S&P 500 Buffer 20 ETF - July
 PBJN - PGIM S&P 500 Buffer 20 ETF - June
 PBK - PowerBank Corporation - Common Stock
 PBL - PGIM Portfolio Ballast ETF
+PBLS - Parabilis Medicines, Inc. - Common Stock
 PBM - Psyence Biomedical Ltd. - Common Shares
 PBMR - PGIM S&P 500 Buffer 20 ETF - March
 PBMWW - Psyence Biomedical Ltd. - Warrant
@@ -8895,7 +8898,6 @@ QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
 QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSI - Quantum-Si Incorporated - Class A Common Stock
-QSIAW - Quantum-Si Incorporated - Warrant
 QSIG - WisdomTree U.S. Short Term Corporate Bond Fund
 QSIX - Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF
 QSML - WisdomTree U.S. SmallCap Quality Growth Fund
@@ -9722,6 +9724,7 @@ SHO - Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Share
 SHOC - Strive U.S. Semiconductor ETF
 SHOO - Steven Madden, Ltd. - Common Stock
 SHOP - Shopify Inc. - Class A Subordinate Voting Shares
+SHOTU - RMG ML Sports Holdings - Unit
 SHPH - Shuttle Pharmaceuticals Holdings, Inc. - common stock
 SHPP - Pacer Industrials and Logistics ETF
 SHPU - Direxion Daily SHOP Bull 2X ETF
@@ -10799,6 +10802,7 @@ TRINI - Trinity Capital Inc. - 7.875% Notes Due 2029
 TRINZ - Trinity Capital Inc. - 7.875% Notes due 2029
 TRIO - MC Trio Equity Buffered ETF
 TRIP - TripAdvisor, Inc. - Common Stock
+TRLV - Trulieve Cannabis Corp. Subordinate Voting Shares
 TRMB - Trimble Inc. - Common Stock
 TRMD - TORM plc - Class A Common Stock
 TRMK - Trustmark Corporation - Common Stock
@@ -11240,9 +11244,6 @@ V - Visa Inc.
 VABK - Virginia National Bankshares Corporation - Common Stock
 VABS - Virtus Newfleet ABS/MBS ETF
 VAC - Marriott Vacations Worldwide Corporation Common Stock
-VACH - Voyager Acquisition Corp - Class A Ordinary Shares
-VACHU - Voyager Acquisition Corp - Unit
-VACHW - Voyager Acquisition Corp - Warrants
 VACI - Viking Acquisition Corp. I Class A Ordinary Shares
 VAIE - VegaShares US Equity Autocallable Income ETF
 VAL - Valaris Limited Common Shares
