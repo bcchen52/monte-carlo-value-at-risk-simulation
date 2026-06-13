@@ -13,7 +13,6 @@ AACI - Armada Acquisition Corp. III - Class A Ordinary Share
 AACIU - Armada Acquisition Corp. III - Units
 AACIW - Armada Acquisition Corp. III - Warrant
 AACO - Abony Acquisition Corp. I - Class A Ordinary Share
-AACOU - Abony Acquisition Corp. I - Units
 AACOW - Abony Acquisition Corp. I - Warrants
 AACP - Apogee Acquisition Corp - Class A Ordinary Shares
 AACPR - Apogee Acquisition Corp - Rights
@@ -157,6 +156,7 @@ ACYS - FT Vest Laddered Autocallable Barrier & Resilient Income ETF
 AD - Array Digital Infrastructure, Inc. Common Shares
 ADAC - American Drive Acquisition Company - Class A Ordinary Shares
 ADACU - American Drive Acquisition Company - Units
+ADACW - American Drive Acquisition Company - Warrant
 ADAG - Adagene Inc. - ADS, each representing 1.25 ordinary shares
 ADAM - Adamas Trust, Inc. - Common Stock
 ADAMG - Adamas Trust, Inc. - 9.125% Senior Notes Due 2030
@@ -3579,6 +3579,7 @@ ETSY - Etsy, Inc. Common Stock
 ETTY - Amplify Ethereum 3% Monthly Option Income ETF
 ETU - T-Rex 2X Long Ether Daily Target ETF
 ETV - Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest
+ETW - Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest
 ETX - Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest
 ETY - Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,
 EU - enCore Energy Corp. - Common Stock
@@ -6406,6 +6407,7 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LFAC - Leapfrog Acquisition Corporation - Class A Ordinary Shares
 LFACU - Leapfrog Acquisition Corporation - Units
+LFACW - Leapfrog Acquisition Corporation - Warrants
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
@@ -7891,7 +7893,6 @@ OILT - Texas Capital Texas Oil Index ETF
 OILU - MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN
 OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
-OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
 OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
@@ -8381,6 +8382,7 @@ PIII - P3 Health Partners Inc. - Class A Common Stock
 PIIIW - P3 Health Partners Inc. - Warrant
 PILL - Direxion Daily Pharmaceutical & Medical Bull 3X ETF
 PIM - Putnam Master Intermediate Income Trust Common Stock
+PINC - PGIM Securitized Income ETF
 PINE - Alpine Income Property Trust, Inc. Common Stock
 PINK - Simplify Health Care ETF
 PINS - Pinterest, Inc. Class A Common Stock
@@ -8804,7 +8806,6 @@ QDVO - Amplify CWP Growth & Income ETF
 QEFA - State Street SPDR MSCI EAFE StrategicFactors ETF
 QEMM - State Street SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
-QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
 QEW - Invesco QQQ Equal Weight ETF
@@ -9718,12 +9719,14 @@ SHMDW - SCHMID Group N.V. - Warrants
 SHNY - MicroSectors Gold 3X Leveraged ETNs due January 29, 2043
 SHO - Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares
 SHOC - Strive U.S. Semiconductor ETF
+SHOE - Shoe Station Group, Inc. - Common Stock
 SHOO - Steven Madden, Ltd. - Common Stock
 SHOP - Shopify Inc. - Class A Subordinate Voting Shares
 SHOTU - RMG ML Sports Holdings - Unit
 SHPH - Shuttle Pharmaceuticals Holdings, Inc. - common stock
 SHPP - Pacer Industrials and Logistics ETF
 SHPU - Direxion Daily SHOP Bull 2X ETF
+SHRD - Arimathea Catholic Core Bond ETF
 SHRT - Gotham Short Strategies ETF
 SHRY - First Trust Bloomberg Shareholder Yield ETF
 SHUS - Stratified LargeCap Hedged ETF
@@ -10028,6 +10031,7 @@ SPCI - Tuttle Capital Space Industry Income Blast ETF
 SPCK - SPAC and New Issue ETF
 SPCL - Defiance Pure Space Daily 2X Strategy ETF
 SPCT - Liberty One Spectrum ETF
+SPCX - Space Exploration Technologies Corp. - Class A Common Stock
 SPCZ - RiverNorth Enhanced Pre-Merger SPAC ETF
 SPD - Simplify US Equity PLUS Downside Convexity ETF
 SPDF - Defender Risk Adaptive 500 ETF
