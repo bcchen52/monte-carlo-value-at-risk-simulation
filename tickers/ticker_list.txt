@@ -13,6 +13,7 @@ AACI - Armada Acquisition Corp. III - Class A Ordinary Share
 AACIU - Armada Acquisition Corp. III - Units
 AACIW - Armada Acquisition Corp. III - Warrant
 AACO - Abony Acquisition Corp. I - Class A Ordinary Share
+AACOU - Abony Acquisition Corp. I - Units
 AACOW - Abony Acquisition Corp. I - Warrants
 AACP - Apogee Acquisition Corp - Class A Ordinary Shares
 AACPR - Apogee Acquisition Corp - Rights
@@ -6811,6 +6812,7 @@ MDAI - Spectral AI, Inc. - Class A Common Stock
 MDAIW - Spectral AI, Inc. - Warrants
 MDB - MongoDB, Inc. - Class A Common Stock
 MDBH - MDB Capital Holdings, LLC - Class A common 
+MDCR - Pacer Swan SOS Moderate December ETF
 MDCX - Medicus Pharma Ltd. - Common Stock
 MDCXW - Medicus Pharma Ltd. - Warrant
 MDEV - First Trust Indxx Medical Devices ETF
@@ -7143,6 +7145,7 @@ MSCI - MSCI Inc. Common Stock
 MSD - Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock
 MSDD - GraniteShares 2x Short MSTR Daily ETF
 MSDL - Morgan Stanley Direct Lending Fund Common Stock
+MSEP - Pacer Swan SOS Moderate September ETF
 MSEX - Middlesex Water Company - Common Stock
 MSFD - Direxion Daily MSFT Bear 1X ETF
 MSFL - GraniteShares 2x Long MSFT Daily ETF
