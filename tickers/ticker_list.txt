@@ -2493,6 +2493,7 @@ CSCL - Direxion Daily CSCO Bull 2X ETF
 CSCO - Cisco Systems, Inc. - Common Stock
 CSCS - Direxion Daily CSCO Bear 1X ETF
 CSD - Invesco S&P Spin-Off ETF
+CSEN - Cohen & Steers Future of Energy Active ETF
 CSEX - Tradr 2X Long CLS Daily ETF
 CSGP - CoStar Group, Inc. - Common Stock
 CSHI - NEOS Enhanced Income 1-3 Month T-Bill ETF
@@ -4237,7 +4238,6 @@ FTA - First Trust Large Cap Value AlphaDEX Fund
 FTAG - First Trust Indxx Global Agriculture ETF
 FTAI - FTAI Aviation Ltd. - Common Stock
 FTAIM - FTAI Aviation Ltd. - 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares
-FTAIN - FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares
 FTBD - Fidelity Tactical Bond ETF
 FTBI - First Trust Balanced Income ETF
 FTC - First Trust Large Cap Growth AlphaDEX Fund
@@ -4413,6 +4413,7 @@ GCMG - GCM Grosvenor Inc. - Class A Common Stock
 GCO - Genesco Inc. Common Stock
 GCOR - Goldman Sachs Access U.S. Aggregate Bond ETF
 GCOW - Pacer Global Cash Cows Dividend ETF
+GCSH - Guggenheim Ultra Short Income ETF
 GCT - GigaCloud Technology Inc - Class A Ordinary Shares
 GCTK - GlucoTrack, Inc. - Common Stock
 GCTS - GCT Semiconductor Holding, Inc. Common Stock
@@ -4543,6 +4544,7 @@ GINX - SGI Enhanced Global Income ETF
 GIPR - Generation Income Properties Inc. - Common stock
 GIPRW - Generation Income Properties Inc. - Warrant
 GIS - General Mills, Inc. Common Stock
+GISC - Guggenheim Securitized Income ETF
 GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
 GIW - GigCapital8 Corp. - Class A Ordinary Shares
 GIWWR - GigCapital8 Corp. - Rights
@@ -5074,7 +5076,9 @@ HOLOW - MicroCloud Hologram Inc. - Warrant
 HOMB - Home BancShares, Inc. Common Stock
 HOMZ - Hoya Capital Housing ETF
 HON - Honeywell International Inc. - Common Stock
+HONAV - Honeywell Aerospace Inc. - Common Stock
 HONG - Leverage Shares 2X Long HON Daily ETF
+HONIV - Honeywell International Inc. - Common Stock Ex Distribution When Issued
 HOOD - Robinhood Markets, Inc. - Class A Common Stock
 HOOG - Leverage Shares 2X Long HOOD Daily ETF
 HOOW - Roundhill HOOD WeeklyPay ETF
@@ -5112,6 +5116,7 @@ HRI - Herc Holdings Inc. Common Stock
 HRL - Hormel Foods Corporation Common Stock
 HRMY - Harmony Biosciences Holdings, Inc. - Common Stock
 HROW - Harrow, Inc. - Common Stock
+HRSK - Toews Agility Shares Hedged Risk ETF
 HRTG - Heritage Insurance Holdings, Inc. Common Stock
 HRTS - Tema Heart & Health ETF
 HRTX - Heron Therapeutics, Inc.   - Common Stock
@@ -5127,9 +5132,6 @@ HSHP - Himalaya Shipping Ltd. Common Shares
 HSIC - Henry Schein, Inc. - Common Stock
 HSLV - Highlander Silver Corp. Common Shares
 HSMV - First Trust Horizon Managed Volatility Small/Mid ETF
-HSPT - Horizon Space Acquisition II Corp. - Ordinary share
-HSPTR - Horizon Space Acquisition II Corp. - Right
-HSPTU - Horizon Space Acquisition II Corp. - Units
 HST - Host Hotels & Resorts, Inc. - Common Stock
 HSTM - HealthStream, Inc. - Common Stock
 HSY - The Hershey Company Common Stock
@@ -5962,7 +5964,6 @@ JLQD - Janus Henderson Corporate Bond ETF
 JLS - Nuveen Mortgage and Income Fund
 JMBS - Janus Henderson Mortgage-Backed Securities ETF
 JMEE - JPMorgan Small & Mid Cap Enhanced Equity ETF
-JMG - JM Group Limited Ordinary Shares
 JMHI - JPMorgan High Yield Municipal ETF
 JMIA - Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares
 JMID - Janus Henderson Mid Cap Growth Alpha ETF
@@ -6537,6 +6538,7 @@ LOCO - El Pollo Loco Holdings, Inc. - Common Stock
 LOCT - Innovator Premium Income 15 Buffer ETF - October
 LODE - Comstock Inc. Common Stock
 LODI - AAM SLC Low Duration Income ETF
+LOFF - Direxion Daily SpaceX Bull 2X ETF
 LOGI - Logitech International S.A. - Registered Shares
 LOGO - Alpha Brands Consumption Leaders ETF
 LOHA - Roundhill HALO ETF
@@ -6972,6 +6974,7 @@ MIVL - MFS Active International Value ETF
 MIY - Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock
 MJ - Amplify Alternative Harvest ETF
 MJSC - MUFG Japan Small Cap Active ETF
+MJUN - Pacer Swan SOS Moderate June ETF
 MKAM - MKAM ETF
 MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
@@ -7013,6 +7016,7 @@ MLSS - Milestone Scientific, Inc. Common Stock
 MLTX - MoonLake Immunotherapeutics - Class A Ordinary Shares
 MLYS - Mineralys Therapeutics, Inc. - Common Stock
 MMA - Mixed Martial Arts Group Limited Ordinary Shares
+MMAR - Pacer Swan SOS Moderate March ETF
 MMAX - iShares Large Cap Max Buffer Mar ETF
 MMAY - Pacer Swan SOS Moderate (May) ETF
 MMCA - NYLI MacKay California Muni Intermediate ETF
@@ -9409,7 +9413,6 @@ RYN - Rayonier Inc. REIT Common Stock
 RYOJ - rYojbaba Co., Ltd. - Common Shares
 RYTM - Rhythm Pharmaceuticals, Inc. - Common Stock
 RYZ - Ryerson Holding Corporation Common Stock
-RZB - Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056
 RZC - Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052
 RZG - Invesco S&P SmallCap 600 Pure Growth ETF
 RZLT - Rezolute, Inc. - Common Stock (NV)
@@ -9819,6 +9822,7 @@ SKYY - First Trust Cloud Computing ETF
 SLAB - Silicon Laboratories, Inc. - Common Stock
 SLAI - SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)
 SLB - SLB Limited Common Shares
+SLBT - SL Science Holding Limited - Ordinary Shares
 SLDB - Solid Biosciences Inc. - Common Stock
 SLDE - Slide Insurance Holdings, Inc. - Common Stock
 SLDP - Solid Power, Inc. - Class A Common Stock
@@ -9945,6 +9949,7 @@ SNES - SenesTech, Inc. - Common Stock
 SNEX - StoneX Group Inc. - Common Stock
 SNFCA - Security National Financial Corporation - Class A Common Stock
 SNGX - Soligenix, Inc. - Common Stock
+SNK - GraniteShares 2x Short SpaceX Daily ETF
 SNN - Smith & Nephew SNATS, Inc. Common Stock
 SNOA - Sonoma Pharmaceuticals, Inc. - Common Stock
 SNOU - T-REX 2X Long SNOW Daily Target ETF
@@ -10020,8 +10025,10 @@ SOXY - YieldMax Target 12 Semiconductor Option Income ETF
 SOYB - Teucrium Soybean Fund ETV
 SPAB - State Street SPDR Portfolio Aggregate Bond ETF
 SPAI - Safe Pro Group Inc. - Common Stock
+SPAL - GraniteShares 2x Long SpaceX Daily ETF
 SPAM - Themes Cybersecurity ETF
 SPAQ - Horizon Kinetics SPAC Active ETF
+SPAX - T-REX 2X Long SpaceX Daily Target ETF
 SPB - Spectrum Brands Holdings, Inc. Common Stock
 SPBC - Simplify US Equity PLUS Bitcoin Strategy ETF
 SPBO - State Street SPDR Portfolio Corporate Bond ETF
@@ -10030,10 +10037,16 @@ SPBW - AllianzIM Buffer20 Allocation ETF
 SPBX - AllianzIM 6 Month Buffer10 Allocation ETF
 SPCB - SuperCom, Ltd. - Ordinary Shares
 SPCE - Virgin Galactic Holdings, Inc. Common Stock
+SPCF - ProShares Ultra SpaceX
+SPCG - Tradr 2X Short SpaceX Daily ETF
+SPCH - Leverage Shares 2X Long SPCX Daily ETF
 SPCI - Tuttle Capital Space Industry Income Blast ETF
 SPCK - SPAC and New Issue ETF
 SPCL - Defiance Pure Space Daily 2X Strategy ETF
+SPCM - Tradr 2X Long SpaceX Daily ETF
+SPCQ - Defiance Daily Target 2X Short SpaceX ETF
 SPCT - Liberty One Spectrum ETF
+SPCU - Defiance Daily Target 2X Long SpaceX ETF
 SPCX - Space Exploration Technologies Corp. - Class A Common Stock
 SPCZ - RiverNorth Enhanced Pre-Merger SPAC ETF
 SPD - Simplify US Equity PLUS Downside Convexity ETF
@@ -10195,6 +10208,7 @@ SSMR - Sunshine Silver Mining & Refining Company Common Stock
 SSNC - SS&C Technologies Holdings, Inc. - Common Stock
 SSO - ProShares Ultra S&P500
 SSP - E.W. Scripps Company (The) - Class A Common Stock
+SSPC - Leverage Shares 2X Short SPCX Daily ETF
 SSPY - Stratified LargeCap Index ETF
 SSRM - SSR Mining Inc. - Common Stock
 SSS - CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF
@@ -10460,7 +10474,6 @@ TCBIO - Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-
 TCBK - TriCo Bancshares - Common Stock
 TCBS - Texas Community Bancshares, Inc. - Common Stock
 TCBX - Third Coast Bancshares, Inc. Common Stock
-TCGL - TechCreate Group Ltd. Class A Ordinary Shares
 TCHI - iShares MSCI China Multisector Tech ETF
 TCHP - T. Rowe Price Blue Chip Growth ETF
 TCI - Transcontinental Realty Investors, Inc. Common Stock
@@ -12076,7 +12089,7 @@ YETI - YETI Holdings, Inc. Common Stock
 YEXT - Yext, Inc. Common Stock
 YFFI - Indexperts Yield Focused Fixed Income ETF
 YFYA - Yields for You Income Strategy A ETF
-YGLD - Simplify Gold Strategy PLUS Income ETF
+YGLD - Simplify Gold Strategy ETF
 YHC - LQR House Inc. - Common Stock
 YHGJ - Yunhong Green CTI Ltd. - Common Stock
 YHNA - YHN Acquisition I Limited - Ordinary Shares
