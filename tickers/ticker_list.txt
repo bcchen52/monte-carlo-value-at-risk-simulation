@@ -69,7 +69,6 @@ ABLVW - Able View Global Inc. - Warrant
 ABM - ABM Industries Incorporated Common Stock
 ABNB - Airbnb, Inc. - Class A Common Stock
 ABNG - Leverage Shares 2x Long ABNB Daily ETF
-ABNY - YieldMax ABNB Option Income Strategy ETF
 ABOS - Acumen Pharmaceuticals, Inc. - Common Stock
 ABOT - Abacus FCF Innovation Leaders ETF
 ABR - Arbor Realty Trust Common Stock
@@ -1418,6 +1417,7 @@ BMI - Badger Meter, Inc. Common Stock
 BMM - Blue Moon Metals Inc. - Common Shares
 BMN - BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest
 BMNG - Leverage Shares 2X Long BMNR Daily ETF
+BMNP - BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock
 BMNR - BitMine Immersion Technologies, Inc. Common Stock
 BMNU - T-REX 2X Long BMNR Daily Target ETF
 BMNZ - Defiance Daily Target 2X Short BMNR ETF
@@ -2889,7 +2889,6 @@ DIOD - Diodes Incorporated - Common Stock
 DIPR - Corgi Space & Satellite Communications ETF
 DIPS - YieldMax Short NVDA Option Income Strategy ETF
 DIS - Walt Disney Company (The) Common Stock
-DISO - YieldMax DIS Option Income Strategy ETF
 DISV - Dimensional International Small Cap Value ETF
 DIT - AMCON Distributing Company Common Stock
 DIV - Global X Super Dividend ETF
@@ -3842,7 +3841,6 @@ FDXF - FedEx Freight Holding Company, Inc. Common Stock
 FE - FirstEnergy Corp. Common Stock
 FEAC - Fidelity Enhanced U.S. All-Cap Equity ETF
 FEAM - 5E Advanced Materials, Inc. - Common Stock
-FEAT - YieldMax Dorsey Wright Featured 5 Income ETF
 FEBM - FT Vest U.S. Equity Max Buffer ETF - February
 FEBO - Fenbo Holdings Limited - Class A Ordinary Shares
 FEBP - PGIM S&P 500 Buffer 12 ETF - February
@@ -3976,7 +3974,6 @@ FITZ - Fitz-Gerald Must Have Portfolio ETF
 FIVA - Fidelity International Value Factor ETF
 FIVE - Five Below, Inc. - Common Stock
 FIVN - Five9, Inc. - Common Stock
-FIVY - YieldMax Dorsey Wright Hybrid 5 Income ETF
 FIW - First Trust Water ETF
 FIX - Comfort Systems USA, Inc. Common Stock
 FIXD - First Trust Smith Opportunistic Fixed Income ETF
@@ -4115,6 +4112,7 @@ FNDE - Schwab Fundamental Emerging Markets Equity ETF
 FNDF - Schwab Fundamental International Equity ETF
 FNDX - Schwab Fundamental U.S. Large Company ETF
 FNF - Fidelity National Financial, Inc. Common Stock
+FNG - Leverage Shares 2X Long FN Daily ETF
 FNGD - MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038
 FNGG - Direxion Daily NYSE FANG+ Bull 2X ETF
 FNGO - MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038
@@ -4656,7 +4654,6 @@ GNW - Genworth Financial Inc Common Stock
 GO - Grocery Outlet Holding Corp. - Common Stock
 GOAI - Eva Live Inc. - Common Stock
 GOAU - US Global GO Gold and Precious Metal Miners ETF
-GOCO - GoHealth, Inc. - Class A Common Stock
 GOCT - FT Vest U.S. Equity Moderate Buffer ETF - October
 GOEX - Global X Gold Explorers ETF
 GOF - Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest
@@ -5885,6 +5882,7 @@ JBND - JPMorgan Active Bond ETF
 JBS - JBS N.V. Class A Common Shares
 JBSS - John B. Sanfilippo & Son, Inc. - Common Stock
 JBTM - JBT Marel Corporation Common Stock
+JCAL - JPMorgan California Tax Free Bond ETF
 JCAP - Jefferson Capital, Inc. - Common Stock
 JCE - Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest
 JCHI - JPMorgan Active China ETF
@@ -6028,6 +6026,7 @@ JSPRW - Jasper Therapeutics, Inc. - Warrant
 JSTC - Adasina Social Justice All Cap Global ETF
 JTAI - Jet.AI Inc. - Common Stock
 JTEK - JPMorgan U.S. Tech Leaders ETF
+JTNY - JPMorgan New York Tax Free Bond ETF
 JUCY - Aptus Enhanced Yield ETF
 JUDB - Aptus July Deep Buffer ETF
 JUDO - Janus Henderson U.S. Equity Enhanced Income ETF
@@ -6118,6 +6117,7 @@ KEP - Korea Electric Power Corporation Common Stock
 KEQU - Kewaunee Scientific Corporation - Common Stock
 KEX - Kirby Corporation Common Stock
 KEY - KeyCorp Common Stock
+KEYG - Leverage Shares 2X Long KEYS Daily ETF
 KEYS - Keysight Technologies Inc. Common Stock
 KEYYU - Keystone Acquisition Corp. - Unit
 KF - Korea Fund, Inc. (The) New Common Stock
@@ -6285,7 +6285,6 @@ KVHI - KVH Industries, Inc. - Common Stock
 KVLE - KraneShares Value Line Dynamic Dividend Equity Index ETF
 KVUE - Kenvue Inc. Common Stock
 KVYO - Klaviyo, Inc. Series A Common Stock
-KW - Kennedy-Wilson Holdings Inc. Common Stock
 KWEB - KraneShares CSI China Internet ETF
 KWIN - KraneShares Wahed Alternative Income Index ETF
 KWM - K Wave Media, Ltd. - Ordinary Shares
@@ -6788,6 +6787,7 @@ MCGAU - Yorkville Acquisition Corp. - Unit
 MCGAW - Yorkville Acquisition Corp. - Warrant
 MCH - Matthews China Active ETF
 MCHB - Mechanics Bancorp - Class A Common Stock
+MCHG - Leverage Shares 2X Long MCHP Daily ETF
 MCHI - iShares MSCI China ETF
 MCHP - Microchip Technology Incorporated - Common Stock
 MCHPP - Microchip Technology Incorporated - Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock
@@ -6844,7 +6844,6 @@ MEDP - Medpace Holdings, Inc. - Common Stock
 MEDX - Horizon Kinetics Medical ETF
 MEGI - NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares
 MEGL - Magic Empire Global Limited - Class A Ordinary Shares
-MEHA - Functional Brands, Inc. - Common Stock
 MEI - Methode Electronics, Inc. Common Stock
 MELI - MercadoLibre, Inc. - Common Stock
 MEM - Matthews Emerging Markets Equity Active ETF
@@ -8813,6 +8812,7 @@ QDVO - Amplify CWP Growth & Income ETF
 QEFA - State Street SPDR MSCI EAFE StrategicFactors ETF
 QEMM - State Street SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
+QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
 QEW - Invesco QQQ Equal Weight ETF
@@ -9877,6 +9877,7 @@ SMBS - Schwab Mortgage-Backed Securities ETF
 SMC - Summit Midstream Corporation Common Stock
 SMCF - Themes US Small Cap Cash Flow Champions ETF
 SMCI - Super Micro Computer, Inc. - Common Stock
+SMCIP - Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock 
 SMCL - GraniteShares 2x Long SMCI Daily ETF
 SMCO - Hilton Small-MidCap Opportunity ETF
 SMCP - SMART Mid Cap ETF
@@ -9960,7 +9961,6 @@ SNPD - Xtrackers S&P Dividend Aristocrats Screened ETF
 SNPE - Xtrackers S&P 500 Scored & Screened ETF
 SNPG - Xtrackers S&P 500 Growth Scored & Screened ETF
 SNPS - Synopsys, Inc. - Common Stock
-SNSE - Sensei Biotherapeutics, Inc. - Common Stock
 SNSR - Global X Internet of Things ETF
 SNT - Senstar Technologies Corporation - Common Shares
 SNTG - Sentage Holdings Inc. - Class A Ordinary Shares
@@ -10535,6 +10535,7 @@ TEKX - State Street Galaxy Transformative Tech Accelerators ETF
 TEKY - Lazard Next Gen Technologies ETF
 TEL - TE Connectivity plc Ordinary Shares
 TELA - TELA Bio, Inc. - Common stock
+TELG - Leverage Shares 2X Long TEL Daily ETF
 TELO - Telomir Pharmaceuticals, Inc. - Common Stock
 TEM - Tempus AI, Inc. - Class A Common Stock
 TEMD - Templeton Emerging Markets Debt ETF
@@ -10622,6 +10623,7 @@ TIGR - UP Fintech Holding Limited - American Depositary Shares representing fift
 TII - Titan Mining Corporation Common Shares
 TIIV - AAM Todd International Intrinsic Value ETF
 TIL - Instil Bio, Inc. - Common Stock
+TILC - Thrivent International Large Cap ETF
 TILE - Interface, Inc. - Common Stock
 TILL - Teucrium Agricultural Strategy No K-1 ETF
 TILT - FlexShares Mornigstar US Market Factors Tilt Index Fund ETF
@@ -10638,6 +10640,7 @@ TIPD - Northern Trust 2055 Inflation-Linked Distributing Ladder ETF
 TIPT - Tiptree Inc. - Common Stock
 TIPX - State Street SPDR Bloomberg 1a??10 Year TIPS ETF
 TIPZ - PIMCO Broad U.S. TIPS Index Exchange-Traded Fund
+TISC - Thrivent International Small Cap ETF
 TISI - Team, Inc. Common Stock
 TITN - Titan Machinery Inc. - Common Stock
 TJAN - Innovator Equity Defined Protection ETF - 2 Yr to January 2027
@@ -10862,6 +10865,7 @@ TSCO - Tractor Supply Company - Common Stock
 TSCV - Thrivent Small Cap Value ETF
 TSDD - GraniteShares 2x Short TSLA Daily ETF
 TSEC - Touchstone Securitized Income ETF
+TSEG - Leverage Shares 2X Long TSEM Daily ETF
 TSEL - Touchstone Sands Capital US Select Growth ETF
 TSEM - Tower Semiconductor Ltd. - Ordinary Shares
 TSEP - FT Vest Emerging Market Buffer ETF - September
@@ -11061,7 +11065,6 @@ UGI - UGI Corporation Common Stock
 UGL - ProShares Ultra Gold
 UGLD - Direxion Daily Gold Bull 2X ETF
 UGP - Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)
-UGRO - urban-gro, Inc. - Common Stock
 UHAL - U-Haul Holding Company Common Stock
 UHS - Universal Health Services, Inc. Common Stock
 UHT - Universal Health Realty Income Trust Common Stock
@@ -11686,6 +11689,7 @@ WHG - Westwood Holdings Group Inc Common Stock
 WHK - WhiteHawk Minerals Corp Class A Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
+WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
@@ -11853,6 +11857,7 @@ XBTY - GraniteShares YieldBOOST Bitcoin ETF
 XC - WisdomTree True Emerging Markets Fund
 XCBE - X3 Acquisition Corp. Ltd. - Class A Ordinary Shares
 XCBEU - X3 Acquisition Corp. Ltd. - Unit
+XCBEW - X3 Acquisition Corp. Ltd. - Warrant
 XCCC - BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
 XCEM - Columbia EM Core ex-China ETF
 XCH - XCHG Limited - ADS
