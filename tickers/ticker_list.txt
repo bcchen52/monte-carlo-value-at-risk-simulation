@@ -436,6 +436,7 @@ ALNY - Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOT - AstroNova, Inc. - Common Stock
 ALOV - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares
 ALOVU - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units
+ALOVW - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants
 ALOY - REalloys Inc. - Common Stock
 ALP - Alpha Compute Corp  - Common Stock
 ALPS - ALPS Group Inc - Ordinary Share
@@ -3774,6 +3775,7 @@ FCAL - First Trust California Municipal High income ETF
 FCAP - First Capital, Inc. - Common Stock
 FCBC - First Community Bankshares, Inc. - Common Stock
 FCBD - Frontier Asset Core Bond ETF
+FCBM - First Carolina Financial Services, Inc. Common Stock
 FCCO - First Community Corporation - Common Stock
 FCEF - First Trust Income Opportunities ETF
 FCEL - FuelCell Energy, Inc. - Common Stock
@@ -3962,6 +3964,7 @@ FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
 FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIIG - First Trust Intermediate Duration Investment Grade Corporate ETF
+FIMU - Fidelity Intermediate Municipal Income ETF
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
 FINT - Frontier Asset Total International Equity ETF
 FINV - FinVolution Group American Depositary Shares
@@ -3972,6 +3975,7 @@ FIP - FTAI Infrastructure Inc. - Common Stock
 FIS - Fidelity National Information Services, Inc. Common Stock
 FISI - Financial Institutions, Inc. - Common Stock
 FISK - Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests
+FISN - Deep Fission, Inc. - Common Stock
 FISR - State Street Fixed Income Sector Rotation ETF
 FISV - Fiserv, Inc. - Common Stock
 FITB - Fifth Third Bancorp Common Stock
@@ -4182,6 +4186,7 @@ FRBA - First Bank  - Common Stock
 FRBT - Forbright, Inc. - Class A Common Stock
 FRD - Friedman Industries Inc. - Common Stock
 FRDM - Freedom 100 Emerging Markets ETF
+FREI - Fidelity Real Estate Income ETF
 FREL - Fidelity MSCI Real Estate Index ETF
 FRGN - Horizon International Equity ETF
 FRGT - Freight Technologies, Inc. - Ordinary Shares
@@ -4233,6 +4238,7 @@ FSP - Franklin Street Properties Corp. Common Stock
 FSS - Federal Signal Corporation Common Stock
 FSSL - FS Specialty Lending Fund Common Shares of Beneficial Interest
 FSTA - Fidelity MSCI Consumer Staples Index ETF
+FSTB - Fidelity Short-Term Bond ETF
 FSTR - L.B. Foster Company - Common Stock
 FSUN - FirstSun Capital Bancorp - Common Stock
 FSV - FirstService Corporation - Common Shares
@@ -5245,7 +5251,9 @@ HZO - MarineMax, Inc.  (FL) Common Stock
 IACO - Idea Acquisition Corp. - Class A Ordinary Shares
 IACOU - Idea Acquisition Corp. - Units
 IACOW - Idea Acquisition Corp. - Warrants
+IACQ - Irenic Acquisition Corp. - Class A Ordinary Shares
 IACQU - Irenic Acquisition Corp. - Unit
+IACQW - Irenic Acquisition Corp. - Warrants
 IAE - Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IAF - abrdn Australia Equity Fund, Inc. Common Stock
 IAG - Iamgold Corporation Ordinary Shares
@@ -6075,6 +6083,7 @@ KALU - Kaiser Aluminum Corporation - Common Stock
 KAMO - Kensington Credit Opportunities ETF
 KAPA - Kairos Pharma, Ltd. Common Stock
 KAPR - Innovator U.S. Small Cap Power Buffer ETF - April
+KARD - Kardigan, Inc. - Common Stock
 KARO - Karooooo Ltd. - Ordinary shares
 KARS - KraneShares Electric Vehicles and Future Mobility Index ETF
 KAT - Scharf ETF
@@ -7698,6 +7707,7 @@ NUGO - Nuveen Growth Opportunities ETF
 NUGT - Direxion Daily Gold Miners Index Bull 2X ETF
 NUGY - GraniteShares YieldBOOST Gold Miners ETF
 NUHY - Nuveen ESG High Yield Corporate Bond ETF
+NUIF - Nuveen US Infrastructure ETF
 NUKX - Nicholas Nuclear Income ETF
 NUKZ - Range Nuclear Renaissance Index ETF
 NULC - Nuveen ESG Large-Cap ETF
@@ -7750,6 +7760,7 @@ NVNO - enVVeno Medical Corporation - Common Stock
 NVO - Novo Nordisk A/S Common Stock
 NVOH - Novo Nordisk A/S B Shares ADRhedged
 NVOX - Defiance Daily Target 2X Long NVO ETF
+NVPS - PurePlay Nvidia Ecosystem Picks & Shovels Index ETF
 NVR - NVR, Inc. Common Stock
 NVRI - Enviri Corporation Common Stock
 NVS - Novartis AG Common Stock
@@ -8462,6 +8473,7 @@ PLTZ - Defiance Daily Target 2x Short PLTR ETF
 PLU - Defiance Daily Target 2x Long PL ETF
 PLUG - Plug Power, Inc. - Common Stock
 PLUL - Leverage Shares 2X Long PLUG Daily ETF
+PLUN - Plutonian Acquisition Corp II Class A Ordinary Shares
 PLUR - Pluri Inc. - Common Stock
 PLUS - ePlus inc. - Common Stock
 PLUT - Plutus Financial Group Limited - Ordinary Shares
@@ -9157,6 +9169,7 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
+RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -10956,6 +10969,7 @@ TVC - Tennessee Valley Authority Common Stock
 TVE - Tennessee Valley Authority
 TVGN - Tevogen Bio Holdings Inc. - Common Stock
 TVGNW - Tevogen Bio Holdings Inc. - Warrant
+TVIVU - Texas Ventures Acquisition IV Corp - Units
 TVRD - Tvardi Therapeutics, Inc. - Common Stock
 TVTX - Travere Therapeutics, Inc. - Common Stock
 TW - Tradeweb Markets Inc. - Class A Common Stock
@@ -11090,6 +11104,7 @@ ULTI - REX IncomeMax Option Strategy ETF
 ULTY - YieldMax Ultra Option Income Strategy ETF
 ULVM - VictoryShares US Value Momentum ETF
 UMAC - Unusual Machines, Inc. Common Stock
+UMAL - Defiance Daily Target 2X Long UMAC ETF
 UMAR - Innovator U.S. Equity Ultra Buffer ETF - March
 UMAY - Innovator U.S. Equity Ultra Buffer ETF - May
 UMBF - UMB Financial Corporation - Common Stock
@@ -11710,6 +11725,7 @@ WKC - World Kinect Corporation Common Stock
 WKEY - WISeKey International Holding Ltd - American Depositary Shares
 WKHS - Workhorse Group, Inc. - Common Stock
 WKSP - Worksport, Ltd. - Common Stock
+WLCOU - Wilco 63 Corporation - Units
 WLDN - Willdan Group, Inc. - Common Stock
 WLDR - Simplify Affinity World Leaders Equity ETF
 WLDS - Wearable Devices Ltd. - Ordinary Share
