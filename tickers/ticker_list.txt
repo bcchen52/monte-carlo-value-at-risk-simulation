@@ -1502,6 +1502,7 @@ BOXL - Boxlight Corporation - Class A Common Stock
 BOXX - Alpha Architect 1-3 Month Box ETF
 BP - BP p.l.c. Common Stock
 BPAC - Blueport Acquisition Ltd - Class A Ordinary Shares
+BPACR - Blueport Acquisition Ltd - Rights
 BPACU - Blueport Acquisition Ltd - Units
 BPAY - iShares FinTech Active ETF
 BPH - BP plc ADRhedged
@@ -1783,7 +1784,9 @@ CAGE - Calamos Autocallable Growth ETF
 CAH - Cardinal Health, Inc. Common Stock
 CAI - Caris Life Sciences, Inc. - Common Stock
 CAIE - Calamos Autocallable Income ETF
+CAII - Collective Acquisition Corp. II - Class A Ordinary Shares
 CAIIU - Collective Acquisition Corp. II - Units
+CAIIW - Collective Acquisition Corp. II - Warrants
 CAIQ - Calamos Nasdaq Autocallable Income ETF
 CAKE - The Cheesecake Factory Incorporated - Common Stock
 CAL - Caleres, Inc. Common Stock
@@ -2497,7 +2500,7 @@ CSEN - Cohen & Steers Future of Energy Active ETF
 CSEX - Tradr 2X Long CLS Daily ETF
 CSGP - CoStar Group, Inc. - Common Stock
 CSHI - NEOS Enhanced Income 1-3 Month T-Bill ETF
-CSHP - iShares Enhanced Short-Term Bond Active ETF
+CSHP - iShares Dynamic Short-Term Active ETF
 CSHR - CoinShares PLC - Ordinary Shares
 CSHRW - CoinShares PLC - Warrants
 CSIO - Cohen & Steers Infrastructure Opportunities Active ETF
@@ -3003,6 +3006,7 @@ DPRO - Draganfly Inc. - Common Shares
 DPST - Direxion Daily Regional Banks Bull 3X ETF
 DPZ - Domino's Pizza Inc - Common Stock
 DQ - DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares
+DQJN - FT Vest Nasdaq-100 Dual Directional Buffer ETF - June
 DRAI - Draco Evolution AI ETF
 DRAM - Roundhill Memory ETF
 DRAY - YieldMax DKNG Option Income Strategy ETF
@@ -4264,7 +4268,9 @@ FTFT - Future FinTech Group Inc. - Common Stock
 FTGC - First Trust Global Tactical Commodity Strategy Fund
 FTGS - First Trust Growth Strength ETF
 FTH - Faeth Therapeutics, Inc.  - Common Stock
+FTHA - Forefront Tech Holdings Acquisition Corp - Class A Ordinary Shares
 FTHAU - Forefront Tech Holdings Acquisition Corp - Unit
+FTHAW - Forefront Tech Holdings Acquisition Corp - Warrant
 FTHB - FIS Faith Income ETF
 FTHF - First Trust Emerging Markets Human Flourishing ETF
 FTHI - First Trust BuyWrite Income ETF
@@ -4416,6 +4422,7 @@ GCAL - Goldman Sachs Dynamic California Municipal Income ETF
 GCBC - Greene County Bancorp, Inc. - Common Stock
 GCC - WisdomTree EnhancedContinuous Commodity Index Fund
 GCDT - Green Circle Decarbonize Technology Limited Ordinary Shares
+GCGR - General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares
 GCGRU - General Catalyst Global Resilience Merger Corp. - Units
 GCL - GCL Global Holdings Ltd - Ordinary Shares
 GCLWW - GCL Global Holdings Ltd - Warrants
@@ -4905,6 +4912,7 @@ HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
 HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
+HAVAR - Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares
 HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWK - HawkEye 360, Inc. Common Stock
 HAWX - iShares Currency Hedged MSCI ACWI ex U.S. ETF
@@ -6137,7 +6145,9 @@ KEX - Kirby Corporation Common Stock
 KEY - KeyCorp Common Stock
 KEYG - Leverage Shares 2X Long KEYS Daily ETF
 KEYS - Keysight Technologies Inc. Common Stock
+KEYY - Keystone Acquisition Corp. - Class A Ordinary Shares
 KEYYU - Keystone Acquisition Corp. - Unit
+KEYYW - Keystone Acquisition Corp. - Warrants
 KF - Korea Fund, Inc. (The) New Common Stock
 KFEB - Innovator U.S. Small Cap Power Buffer ETF - February
 KFFB - Kentucky First Federal Bancorp - Common Stock
@@ -6555,9 +6565,6 @@ LOFF - Direxion Daily SpaceX Bull 2X ETF
 LOGI - Logitech International S.A. - Registered Shares
 LOGO - Alpha Brands Consumption Leaders ETF
 LOHA - Roundhill HALO ETF
-LOKV - Live Oak Acquisition Corp. V - Class A Ordinary Shares
-LOKVU - Live Oak Acquisition Corp. V - Units
-LOKVW - Live Oak Acquisition Corp. V - Warrants
 LOMA - Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
 LONA - LeonaBio, Inc. - Common Stock
 LONZ - PIMCO Senior Loan Active Exchange-Traded Fund
@@ -6581,6 +6588,7 @@ LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
 LPCV - Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
 LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
+LPCVW - Launchpad Cadenza Acquisition Corp I - Warrant
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -6791,6 +6799,7 @@ MBWM - Mercantile Bank Corporation - Common Stock
 MBX - MBX Biosciences, Inc. - Common Stock
 MC - Moelis & Company Class A Common Stock
 MCAH - Mountain Crest Acquisition 6 Corp. - Ordinary Shares
+MCAHR - Mountain Crest Acquisition 6 Corp. - Rights
 MCAHU - Mountain Crest Acquisition 6 Corp. - Units
 MCB - Metropolitan Bank Holding Corp. Common Stock
 MCBS - MetroCity Bankshares, Inc. - Common Stock
@@ -8054,8 +8063,8 @@ OSG - Octave Specialty Group, Inc. Common Stock
 OSIS - OSI Systems, Inc. - Common Stock
 OSK - Oshkosh Corporation (Holding Company)Common Stock
 OSPN - OneSpan Inc. - Common Stock
-OSRH - OSR Holdings, Inc. - Common Stock
-OSRHW - OSR Holdings, Inc. - Warrant
+OSRH - OSR Health, Inc. - Common Stock
+OSRHW - OSR Health, Inc. - Warrant
 OSS - One Stop Systems, Inc. - Common Stock
 OSSL - Defiance Daily Target 2X Long OSS ETF
 OST - Ostin Technology Group Co., Ltd. - Class A Ordinary Shares
@@ -9947,7 +9956,6 @@ SNAG - Leverage Shares 2x Long SNAP Daily ETF
 SNAL - Snail, Inc. - Class A Common Stock
 SNAP - Snap Inc. Class A Common Stock
 SNAV - Mohr Sector Nav ETF
-SNBR - Sleep Number Corporation - Common Stock
 SND - Smart Sand, Inc. - Common Stock
 SNDA - Sonida Senior Living, Inc. Common Stock
 SNDG - Leverage Shares 2X Long SNDK Daily ETF
@@ -10055,9 +10063,9 @@ SPCI - Tuttle Capital Space Industry Income Blast ETF
 SPCK - SPAC and New Issue ETF
 SPCL - Defiance Pure Space Daily 2X Strategy ETF
 SPCM - Tradr 2X Long SpaceX Daily ETF
-SPCQ - Defiance Daily Target 2X Short SpaceX ETF
+SPCQ - Defiance Daily Target 2X Short SPCX ETF
 SPCT - Liberty One Spectrum ETF
-SPCU - Defiance Daily Target 2X Long SpaceX ETF
+SPCU - Defiance Daily Target 2X Long SPCX ETF
 SPCX - Space Exploration Technologies Corp. - Class A Common Stock
 SPCZ - RiverNorth Enhanced Pre-Merger SPAC ETF
 SPD - Simplify US Equity PLUS Downside Convexity ETF
@@ -10423,7 +10431,6 @@ TAJX - Corgi India 2x Daily ETF
 TAK - Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)
 TAL - TAL Education Group American Depositary Shares
 TALK - Talkspace, Inc. - Common Stock
-TALKW - Talkspace, Inc. - Warrant
 TALO - Talos Energy, Inc. Common Stock
 TALV - Transamerica Large Value Active ETF
 TAN - Invesco Solar ETF
@@ -11787,6 +11794,7 @@ WSO - Watsco, Inc. Common Stock
 WSR - Whitestone REIT Common Shares
 WST - West Pharmaceutical Services, Inc. Common Stock
 WSTN - Westin Acquisition Corp - Class A Ordinary Share
+WSTNR - Westin Acquisition Corp - Right
 WSTNU - Westin Acquisition Corp - Units
 WT - WisdomTree, Inc. Common Stock
 WTAI - WisdomTree Artificial Intelligence and Innovation Fund
