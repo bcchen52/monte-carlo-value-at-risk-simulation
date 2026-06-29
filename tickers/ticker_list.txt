@@ -3856,7 +3856,6 @@ FDMT - 4D Molecular Therapeutics, Inc. - Common Stock
 FDN - First Trust DJ Internet Index Fund
 FDND - FT Vest Dow Jones Internet & Target Income ETF
 FDNI - First Trust Dow Jones International Internet ETF
-FDP - Del Monte Corporation Ordinary Shares
 FDRR - Fidelity Dividend ETF for Rising Rates
 FDRS - Founder-Led ETF
 FDRV - Fidelity Electric Vehicles and Future Transportation ETF
@@ -4407,7 +4406,6 @@ GABC - German American Bancorp, Inc. - Common Stock
 GABF - Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF
 GAEM - Simplify Gamma Emerging Market Bond ETF
 GAIA - Gaia, Inc. - Class A Common Stock
-GAID - Guinness Atkinson International Dividend Builder ETF
 GAIN - Gladstone Investment Corporation - Business Development Company
 GAING - Gladstone Investment Corporation - 7.125% Notes due 2031
 GAINI - Gladstone Investment Corporation - 7.875% Notes due 2030
@@ -4428,7 +4426,6 @@ GASS - StealthGas, Inc. - common stock
 GASZ - Corgi Natural Gas Power & Turbines ETF
 GATX - GATX Corporation Common Stock
 GAU - Galiano Gold Inc.
-GAUD - Guinness Atkinson US Dividend Builder ETF
 GAUG - FT Vest U.S. Equity Moderate Buffer ETF - August
 GAUZ - Gauzy Ltd. - Ordinary Shares
 GAVA - Grayscale Avalanche Staking ETF
@@ -5126,9 +5123,7 @@ HOLOW - MicroCloud Hologram Inc. - Warrant
 HOMB - Home BancShares, Inc. Common Stock
 HOMZ - Hoya Capital Housing ETF
 HON - Honeywell International Inc. - Common Stock
-HONAV - Honeywell Aerospace Inc. - Common Stock
 HONG - Leverage Shares 2X Long HON Daily ETF
-HONIV - Honeywell International Inc. - Common Stock Ex Distribution When Issued
 HOOD - Robinhood Markets, Inc. - Class A Common Stock
 HOOG - Leverage Shares 2X Long HOOD Daily ETF
 HOOW - Roundhill HOOD WeeklyPay ETF
@@ -6375,6 +6370,7 @@ LABX - Tradr 2X Long ALAB Daily ETF
 LAC - Lithium Americas Corp. Common Shares
 LACG - Leverage Shares 2X Long LAC Daily ETF
 LAD - Lithia Motors, Inc. Common Stock
+LADM - Pacer Swan SOS Laddered Moderate ETF
 LADR - Ladder Capital Corp Class A Common Stock
 LAES - SEALSQ Corp - Ordinary Shares
 LAFA - LaFayette Acquisition Corp. - Ordinary Share
@@ -7626,7 +7622,6 @@ NMT - Nuveen Massachusetts Quality Municipal Income Fund Common Stock
 NMTC - NeuroOne Medical Technologies Corporation - Common Stock
 NMZ - Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share
 NN - NextNav Inc. - Common stock
-NNAVW - NextNav Inc. - Warrant
 NNBR - NN, Inc. - Common Stock
 NNDM - Nano Dimension Ltd. - American Depositary Shares
 NNE - Nano Nuclear Energy Inc. - common stock
@@ -9599,7 +9594,6 @@ SCHA - Schwab U.S. Small-Cap ETF
 SCHB - Schwab U.S. Broad Market ETF
 SCHC - Schwab International Small-Cap Equity ETF
 SCHD - Schwab US Dividend Equity ETF
-SCHE - Schwab Emerging Markets Equity ETF
 SCHF - Schwab International Equity ETF
 SCHG - Schwab U.S. Large-Cap Growth ETF
 SCHH - Schwab U.S. REIT ETF
@@ -10068,7 +10062,6 @@ SOJE - Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due O
 SOJF - Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085
 SOLC - Canary Marinade Solana ETF
 SOLM - Amplify Solana 3% Monthly Option Income ETF
-SOLR - Guinness Atkinson Sustainable Energy ETF
 SOLS - Solstice Advanced Materials Inc. - Common Stock
 SOLT - 2x Solana ETF
 SOLV - Solventum Corporation Common Stock
@@ -10191,7 +10184,7 @@ SPTM - State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF
 SPTS - State Street SPDR Portfolio Short Term Treasury ETF
 SPTU - State Street SPDR Portfolio Ultra Short T-Bill ETF
 SPTX - Seaport Therapeutics, Inc. - Common Stock
-SPUC - Simplify US Equity PLUS Upside Convexity ETF
+SPUC - Simplify US Equity Income ETF
 SPUS - SP Funds S&P 500 Sharia Industry Exclusions ETF
 SPUT - Innovator Equity Premium Income - Daily PutWrite ETF
 SPUU - Direxion Daily S&P 500 Bull 2X ETF
@@ -10257,7 +10250,7 @@ SRTS - Sensus Healthcare, Inc. - Common Stock
 SRTY - ProShares UltraPro Short Russell2000
 SRV - NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest
 SRVR - Pacer Data & Infrastructure Real Estate ETF
-SRXH - SRX Health Solutions, Inc. Common Stock
+SRXH - SRX Global Inc. Common Stock
 SRZN - Surrozen, Inc. - Common Stock
 SRZNW - Surrozen, Inc. - Warrant
 SSAC - SPACSphere Acquisition Corp. - Class A Ordinary Shares
@@ -10649,7 +10642,7 @@ TFPN - Blueprint Chesapeake Multi-Asset Trend ETF
 TFSL - TFS Financial Corporation - Common Stock
 TFX - Teleflex Incorporated Common Stock
 TG - Tredegar Corporation Common Stock
-TGB - Taseko Mines, Ltd. Common Stock
+TGB - Trekor Metals Limited Common Shares
 TGE - The Generation Essentials Group Class A Ordinary Shares
 TGEN - Tecogen Inc. Common Stock
 TGHL - The GrowHub Limited - Class A Ordinary Shares
@@ -11135,7 +11128,7 @@ UFI - Unifi, Inc. New Common Stock
 UFIV - US Treasury 5 Year Note ETF
 UFO - Procure Space ETF
 UFOD - Tuttle Capital UFO Disclosure ETF
-UFOX - Defiance Connective Technologies ETF
+UFOX - Defiance Space and Connective Tech ETF
 UFPI - UFP Industries, Inc. - Common Stock
 UFPT - UFP Technologies, Inc. - Common Stock
 UG - United-Guardian, Inc. - Common Stock
