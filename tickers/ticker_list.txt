@@ -2165,6 +2165,7 @@ CING - Cingulate Inc. - Common Stock
 CINGW - Cingulate Inc. - Warrants
 CINT - CI&T Inc Class A Common Shares
 CION - CION Investment Corporation Common Stock
+CIRC - Circle8 Group, Inc. - Common Stock
 CISO - CISO Global, Inc. - Common Stock
 CISS - C3is Inc. - Common Stock
 CITR - CitroTech Inc. Common Stock
@@ -2172,6 +2173,7 @@ CIVB - Civista Bancshares, Inc.  - Common Stock
 CIVG - Corgi 1-5 Year Investment Grade Corporate Bond ETF
 CIX - CompX International Inc. Common Stock
 CJMB - Callan JMB Inc. - Common Stock
+CJUL - Corgi U.S. Equities 15% Structured Buffer ETF - July Series
 CJUN - Corgi U.S. Equities 15% Structured Buffer ETF - June Series
 CKX - CKX Lands, Inc. Common Stock
 CL - Colgate-Palmolive Company Common Stock
@@ -2573,6 +2575,7 @@ CTGG - Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)
 CTGO - Contango Silver & Gold Inc. Common Stock
 CTHH - Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)
 CTIF - Castellan Targeted Income ETF
+CTJL - Corgi U.S. Equities 30% Structured Buffer ETF - July Series
 CTJN - Corgi U.S. Equities 30% Structured Buffer ETF - June Series
 CTKB - Cytek Biosciences, Inc. - Common Stock
 CTM - Castellum, Inc. Common Stock
@@ -3437,6 +3440,8 @@ EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
+EMISR - Emmis Acquisition Corp. - Rights
+EMJL - Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series
 EMJN - Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series
 EMKT - Lazard Emerging Markets Opportunities ETF
 EML - Eastern Company (The) - Common Stock
@@ -3896,6 +3901,7 @@ FEBT - AllianzIM U.S. Large Cap Buffer10 Feb ETF
 FEBU - AllianzIM U.S. Equity Buffer15 Uncapped Feb ETF
 FEBW - AllianzIM U.S. Large Cap Buffer20 Feb ETF
 FEBZ - TrueShares Structured Outcome (February) ETF
+FECM - First Eagle Core Municipal ETF
 FEDM - FlexShares ESG & Climate Developed Markets ex-US Core Index Fund
 FEDU - Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares
 FEED - ENvue Medical, Inc. - Common Stock
@@ -3926,6 +3932,7 @@ FERA - Fifth Era Acquisition Corp I - Class A Ordinary Shares
 FERAR - Fifth Era Acquisition Corp I - Rights
 FERAU - Fifth Era Acquisition Corp I - Units
 FERG - Ferguson Enterprises Inc. Common Stock
+FESC - First Eagle Small Cap Equity ETF
 FESM - Fidelity Enhanced Small Cap Core ETF
 FET - Forum Energy Technologies, Inc. Common Stock
 FETH - Fidelity Ethereum Fund
@@ -4401,6 +4408,7 @@ FXED - Sound Enhanced Fixed Income ETF
 FXF - Invesco CurrencyShares Swiss Franc Trust
 FXG - First Trust Cons. Staples AlphaDEX
 FXH - First Trust Health Care AlphaDEX
+FXHO - UTime Limited - Class A Ordinary Shares
 FXI - iShares China Large-Cap ETF
 FXL - First Trust Technology AlphaDEX
 FXN - First Trust Energy AlphaDEX Fund
@@ -4756,6 +4764,7 @@ GOVZ - iShares 25  Year Treasury STRIPS Bond ETF
 GP - GreenPower Motor Company Inc. - Common Shares
 GPAC - General Purpose Acquisition Corp. - Class A Ordinary Shares
 GPACU - General Purpose Acquisition Corp. - Units
+GPACW - General Purpose Acquisition Corp. - Warrant
 GPAT - GP-Act III Acquisition Corp. - Class A Ordinary Share
 GPATU - GP-Act III Acquisition Corp. - Units
 GPATW - GP-Act III Acquisition Corp. - Warrants
@@ -4857,6 +4866,7 @@ GSPY - Gotham Enhanced 500 ETF
 GSRF - GSR IV Acquisition Corp. - Class A ordinary share
 GSRFR - GSR IV Acquisition Corp. - Rights
 GSRFU - GSR IV Acquisition Corp. - Units
+GSRV - GSR V Acquisition Corp. - Class A ordinary shares
 GSRVU - GSR V Acquisition Corp. - Units
 GSSC - GS ActiveBeta U.S. Small Cap Equity ETF
 GSST - Goldman Sachs Ultra Short Bond ETF
@@ -5097,6 +5107,7 @@ HIVE - HIVE Digital Technologies Ltd - Common Shares
 HIW - Highwoods Properties, Inc. Common Stock
 HIX - Western Asset High Income Fund II Inc. Common Stock
 HIYY - YieldMax HIMS Option Income Strategy ETF
+HJLY - Corgi U.S. Equities 100% Structured Buffer ETF - July Series
 HJUN - Corgi U.S. Equities 100% Structured Buffer ETF - June Series
 HKD - AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)
 HKIT - Hitek Global Inc. - Class A Ordinary Share
@@ -5444,6 +5455,7 @@ IDEQ - Lazard International Dynamic Equity ETF
 IDEV - iShares Core MSCI International Developed Markets ETF
 IDGT - iShares U.S. Digital Infrastructure and Real Estate ETF
 IDHQ - Invesco S&P International Developed Quality ETF
+IDJL - Corgi International Developed Equities 15% Structured Buffer ETF - July Series
 IDJN - Corgi International Developed Equities 15% Structured Buffer ETF - June Series
 IDLV - Invesco S&P International Developed Low Volatility ETF
 IDMO - Invesco S&P International Developed Momentum ETF
@@ -5750,6 +5762,8 @@ IQI - Invesco Quality Municipal Income Trust Common Stock
 IQLT - iShares MSCI Intl Quality Factor ETF
 IQM - Franklin Intelligent Machines ETF
 IQMM - ProShares GENIUS Money Market ETF
+IQMX - IQM Quantum Computers Oyj - American Depositary Shares
+IQMXW - IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares
 IQQQ - ProShares Nasdaq-100 High Income ETF
 IQRA - NYLI CBRE Real Assets ETF
 IQSI - NYLI Candriam International Equity ETF
@@ -6107,6 +6121,7 @@ JUCY - Aptus Enhanced Yield ETF
 JUDB - Aptus July Deep Buffer ETF
 JUDO - Janus Henderson U.S. Equity Enhanced Income ETF
 JULB - Aptus July Buffer ETF
+JULC - Corgi U.S. Equities 10% Structured Buffer ETF - July Series
 JULH - Innovator Premium Income 20 Barrier ETF - July
 JULI - AllianzIM International Equity Buffer15 Uncapped Jul ETF
 JULJ - Innovator Premium Income 30 Barrier ETF - July
@@ -7027,6 +7042,7 @@ MHNC - Maiden Holdings North America, Ltd. 7.75% Notes due 2043
 MHO - M/I Homes, Inc. Common Stock
 MHY - Man Active High Yield ETF
 MI - NFT Limited Class A Ordinary Share
+MIACU - Meridian3 Industrials Acquisition Corp - Units
 MIAX - Miami International Holdings, Inc. Common Stock
 MIC - Corgi MU 2x Daily ETF
 MICC - The Magnum Ice Cream Company N.V. Ordinary Shares
@@ -8663,7 +8679,10 @@ PQJL - PGIM Nasdaq-100 Buffer 12 ETF - July
 PQNT - Pictet AI Enhanced International Equity ETF
 PQOC - PGIM Nasdaq-100 Buffer 12 ETF - October
 PQUS - Pictet AI Enhanced US Equity ETF
+PQV - PGIM S&P 500 Quarterly Buffer 5 ETF
 PQX - PGIM S&P 500 Quarterly Buffer 10 ETF
+PQXV - PGIM S&P 500 Quarterly Buffer 15 ETF
+PQXX - PGIM S&P 500 Quarterly Buffer 20 ETF
 PR - Permian Resources Corporation Class A Common Stock
 PRAA - PRA Group, Inc. - Common Stock
 PRAB - State Street IG Public & Private ABS ETF
@@ -8916,7 +8935,6 @@ QDVO - Amplify CWP Growth & Income ETF
 QEFA - State Street SPDR MSCI EAFE StrategicFactors ETF
 QEMM - State Street SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
-QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
 QEW - Invesco QQQ Equal Weight ETF
@@ -8936,6 +8954,7 @@ QIDX - Indexperts Quality Earnings Focused ETF
 QIG - WisdomTree U.S. Corporate Bond Fund
 QINT - American Century Quality Diversified International ETF
 QIS - Simplify Multi-QIS Alternative ETF
+QJL - Corgi Growth & Technology 10% Structured Buffer ETF - July Series
 QJN - Corgi Growth & Technology 10% Structured Buffer ETF - June Series
 QJUN - FT Vest Nasdaq-100 Buffer ETF - June
 QLC - FlexShares US Quality Large Cap Index Fund
@@ -8976,6 +8995,7 @@ QQDN - ProShares UltraShort QQQ Mega
 QQEW - First Trust Nasdaq-100 Select Equal Weight ETF
 QQH - HCM Defender 100 Index ETF
 QQHG - Invesco QQQ Hedged Advantage ETF
+QQJL - Corgi Growth & Technology 15% Structured Buffer ETF - July Series
 QQJN - Corgi Growth & Technology 15% Structured Buffer ETF - June Series
 QQLV - Invesco QQQ Low Volatility ETF
 QQMG - Invesco ESG NASDAQ 100 ETF
@@ -9655,6 +9675,7 @@ SCIIR - SC II Acquisition Corp. - Rights
 SCIIU - SC II Acquisition Corp. - Units
 SCIO - First Trust Structured Credit Income Opportunities ETF
 SCJ - iShares MSCI Japan Sm Cap
+SCJL - Corgi U.S. Small-Cap 15% Structured Buffer ETF - July Series
 SCJN - Corgi U.S. Small-Cap 15% Structured Buffer ETF - June Series
 SCKT - Socket Mobile, Inc. - Common Stock
 SCL - Stepan Company Common Stock
@@ -9723,6 +9744,7 @@ SEB - Seaboard Corporation Common Stock
 SECR - NYLI MacKay Securitized Income ETF
 SECT - Main Sector Rotation ETF
 SECU - iShares Securitized Income Active ETF
+SECZ - Securitize Corp. Common Stock
 SEDG - SolarEdge Technologies, Inc. - Common Stock
 SEED - Origin Agritech Limited - Ordinary Shares
 SEEM - SEI Select Emerging Markets Equity ETF
@@ -10162,6 +10184,7 @@ SPDV - AAM S&P 500 High Dividend Value ETF
 SPDW - State Street SPDR Portfolio Developed World ex-US ETF
 SPE - Special Opportunities Fund, Inc Common Stock
 SPEG - Silver Pegasus Acquisition Corp - Class A Ordinary Shares
+SPEGR - Silver Pegasus Acquisition Corp - Rights
 SPEGU - Silver Pegasus Acquisition Corp - Unit
 SPEM - State Street SPDR Portfolio Emerging Markets ETF
 SPEU - State Street SPDR Portfolio Europe ETF
@@ -11070,7 +11093,6 @@ TWI - Titan International, Inc. (DE) Common Stock
 TWIN - Twin Disc, Incorporated - Common Stock
 TWLO - Twilio Inc. Class A Common Stock
 TWLV - Twelve Seas Investment Company III - Class A Ordinary Shares
-TWLVR - Twelve Seas Investment Company III - Rights
 TWLVU - Twelve Seas Investment Company III - Units
 TWM - ProShares UltraShort Russell2000
 TWN - Taiwan Fund, Inc. (The) Common Stock
@@ -11363,6 +11385,7 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
+UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
