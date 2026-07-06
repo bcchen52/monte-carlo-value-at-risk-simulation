@@ -45,7 +45,6 @@ AARD - Aardvark Therapeutics, Inc. - Common Stock
 AAT - American Assets Trust, Inc. Common Stock
 AAUA - Alpha Architect US Equity 3 ETF
 AAUC - Allied Gold Corporation Common Shares
-AAUM - Tema Alternative Asset Managers ETF
 AAUS - Alpha Architect US Equity ETF
 AAVM - Alpha Architect Global Factor Equity ETF
 AAXJ - iShares MSCI All Country Asia ex Japan ETF
@@ -6588,7 +6587,6 @@ LITX - Tradr 2X Long LITE Daily ETF
 LITZ - Tradr 2X Short LITE Daily ETF
 LIVE - Live Ventures Incorporated - Common Stock
 LIVN - LivaNova PLC - Ordinary Shares
-LIXT - Lixte Biotechnology Holdings, Inc. - Common Stock
 LJAN - Innovator Premium Income 15 Buffer ETF - January
 LJUL - Innovator Premium Income 15 Buffer ETF - July
 LKFN - Lakeland Financial Corporation - Common Stock
@@ -7005,7 +7003,7 @@ MG - Mistras Group Inc Common Stock
 MGA - Magna International, Inc. Common Stock
 MGC - Vanguard Mega Cap ETF
 MGEE - MGE Energy Inc. - Common Stock
-MGF - MFS Government Markets Income Trust Common Stock
+MGF - Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest
 MGIH - Millennium Group International Holdings Limited - Ordinary Shares
 MGK - Vanguard Mega Cap Growth ETF
 MGKX - Corgi U.S. Mega-Cap Growth 2x Daily ETF
@@ -7048,7 +7046,7 @@ MIC - Corgi MU 2x Daily ETF
 MICC - The Magnum Ice Cream Company N.V. Ordinary Shares
 MID - American Century Mid Cap Growth Impact ETF
 MIDD - The Middleby Corporation - Common Stock
-MIDDV - Middleby Corp. - Common Stock Ex-Distribution When Issued
+MIDDV - The Middleby Corporation - Common Stock Ex-Distribution When Issued
 MIDE - Xtrackers S&P MidCap 400 Scored & Screened ETF
 MIDU - Direxion Mid Cap Bull 3X ETF
 MIG - VanEck Moody's Analytics IG Corporate Bond ETF
@@ -7056,7 +7054,7 @@ MIGO - MIG Core ETF
 MILK - Pacer US Cash Cows Bond ETF
 MILN - Global X Millennial Consumer ETF
 MIMI - Mint Incorporation Limited - Class A Ordinary Shares
-MIN - MFS Intermediate Income Trust Common Stock
+MIN - Aberdeen Intermediate Income Fund Common Shares of Beneficial Interest
 MIND - MIND Technology, Inc. - Common Stock
 MINE - Mayfair Gold Corp. Common Shares
 MINN - Mairs & Power Minnesota Municipal Bond ETF
@@ -8739,6 +8737,7 @@ PRTS - CarParts.com, Inc. - Common Stock
 PRU - Prudential Financial, Inc. Common Stock
 PRVA - Privia Health Group, Inc. - Common Stock
 PRVS - Parnassus Value Select ETF
+PRVT - Tema Alternative Asset Managers ETF
 PRXG - Praxis Impact Large Cap Growth ETF
 PRXI - Praxis Impact International ETF
 PRXV - Praxis Impact Large Cap Value ETF
@@ -9945,7 +9944,7 @@ SKYW - SkyWest, Inc. - Common Stock
 SKYX - SKYX Platforms Corp. - Common Stock
 SKYY - First Trust Cloud Computing ETF
 SLAB - Silicon Laboratories, Inc. - Common Stock
-SLAI - SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)
+SLAI - SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares)
 SLB - SLB Limited Common Shares
 SLBT - SL Science Holding Limited - Ordinary Shares
 SLDB - Solid Biosciences Inc. - Common Stock
@@ -10457,7 +10456,7 @@ SVAL - iShares US Small Cap Value Factor ETF
 SVAQ - Silicon Valley Acquisition Corp. - Class A Ordinary Shares
 SVAQU - Silicon Valley Acquisition Corp. - Units
 SVAQW - Silicon Valley Acquisition Corp. - Warrants
-SVC - Service Properties Trust - Shares of Beneficial Interest
+SVC - Service Properties Trust - Common Shares of Beneficial Interest
 SVCC - Stellar V Capital Corp. - Class A Ordinary Shares
 SVCCU - Stellar V Capital Corp. - Unit
 SVCCW - Stellar V Capital Corp. - Warrant
