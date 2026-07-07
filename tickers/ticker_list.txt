@@ -600,6 +600,7 @@ AOUT - American Outdoor Brands, Inc. - Common Stock
 AP - Ampco-Pittsburgh Corporation Common Stock
 APA - APA Corporation - Common Stock
 APAC - StoneBridge Acquisition II Corporation - Class A Ordinary Shares
+APACR - StoneBridge Acquisition II Corporation - Rights
 APACU - StoneBridge Acquisition II Corporation - Units
 APAM - Artisan Partners Asset Management Inc. Class A Common Stock
 APC - ARKO Petroleum Corp. - Class A Common Stock
@@ -683,7 +684,6 @@ ARCIW - Archimedes Tech SPAC Partners III Co. - Warrant
 ARCL - ARC Group Acquisition I Corp - Class A Ordinary Shares
 ARCLR - ARC Group Acquisition I Corp - Right
 ARCLU - ARC Group Acquisition I Corp - Unit
-ARCLW - ARC Group Acquisition I Corp - Warrants
 ARCM - Arrow Reserve Capital Management ETF
 ARCO - Arcos Dorados Holdings Inc. Class A Shares
 ARCT - Arcturus Therapeutics Holdings Inc. - Common Stock
@@ -1048,9 +1048,6 @@ BAUG - Innovator U.S. Equity Buffer ETF - August
 BAVA - Common Shares of Beneficial Interest of Bitwise Avalanche ETF
 BAX - Baxter International Inc. Common Stock
 BAY - Corgi Bay Area Based ETF
-BAYA - Bayview Acquisition Corp - Ordinary Share
-BAYAR - Bayview Acquisition Corp - Right
-BAYAU - Bayview Acquisition Corp - Unit
 BB - BlackBerry Limited Common Stock
 BBAG - JPMorgan BetaBuilders U.S. Aggregate Bond ETF
 BBAI - BigBear.ai, Inc. Common Stock
@@ -2111,7 +2108,6 @@ CHNR - China Natural Resources, Inc. - Common Shares
 CHNU - 2x Chainlink ETF
 CHOW - ChowChow Cloud International Holdings Limited Ordinary Shares
 CHPG - ChampionsGate Acquisition Corporation - Class A Ordinary Share
-CHPGR - ChampionsGate Acquisition Corporation - Rights
 CHPGU - ChampionsGate Acquisition Corporation - Unit
 CHPS - Xtrackers Semiconductor Select Equity ETF
 CHPT - ChargePoint Holdings, Inc. Common Stock
@@ -3507,6 +3503,7 @@ EOLS - Evolus, Inc. - Common Stock
 EONR - EON Resources Inc. Class A Common Stock
 EOS - Eaton Vance Enhance Equity Income Fund II Common Stock
 EOSE - Eos Energy Enterprises, Inc. - Common Stock
+EOSER - Eos Energy Enterprises, Inc. - Right
 EOSU - T-REX 2X Long EOSE Daily Target ETF
 EOT - Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST
 EP - Empire Petroleum Corporation Common Stock
@@ -4904,7 +4901,9 @@ GTPE - Goldman Sachs MSCI World Private Equity Return Tracker ETF
 GTR - WisdomTree Target Range Fund
 GTX - Garrett Motion Inc. - Common Stock
 GTY - Getty Realty Corporation Common Stock
+GUAC - Berto Acquisition Corp. II - Ordinary Shares
 GUACU - Berto Acquisition Corp. II - Units
+GUACW - Berto Acquisition Corp. II - Warrants
 GUG - Guggenheim Active Allocation Fund Common Shares of Beneficial Interest
 GUMI - Goldman Sachs Ultra Short Municipal Income ETF
 GUNR - FlexShares Global Upstream Natural Resources Index Fund ETF
@@ -5444,7 +5443,9 @@ ICUCW - SeaStar Medical Holding Corporation - Warrant
 ICUI - ICU Medical, Inc. - Common Stock
 ICVT - iShares Convertible Bond ETF
 IDA - IDACORP, Inc. Common Stock
+IDAC - Iron Dome Acquisition I Corp. - Class A Ordinary Shares
 IDACU - Iron Dome Acquisition I Corp. - Units
+IDACW - Iron Dome Acquisition I Corp. - Warrant
 IDAI - T Stamp Inc. - Class A Common Stock
 IDCC - InterDigital, Inc. - Common Stock
 IDE - Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest
@@ -6467,6 +6468,7 @@ LCO - LOGIQ Contrarian Opportunities ETF
 LCOW - Pacer S&P 500 Quality FCF Aristocrats ETF
 LCR - Leuthold Core ETF
 LCTD - iShares World ex U.S. Carbon Transition Readiness Aware Active ETF
+LCTO - Kurv U.S. Large Cap TaxOptimized ETF
 LCTU - iShares U.S. Carbon Transition Readiness Aware Active ETF
 LCTX - Lineage Cell Therapeutics, Inc. Common Stock
 LCUT - Lifetime Brands, Inc. - Common Stock
@@ -6989,7 +6991,6 @@ MFIN - Medallion Financial Corp. - Common Stock
 MFLX - First Trust Flexible Municipal High Income ETF
 MFM - Aberdeen Municipal Income Fund Common Shares of Beneficial Interest
 MFMO - Motley Fool Momentum Factor ETF
-MFPVV - Midera Food Processing, Inc. - Common Stock When Issued
 MFSB - MFS Active Core Plus Bond ETF
 MFSG - MFS Active Growth ETF
 MFSI - MFS Active International ETF
@@ -7046,7 +7047,6 @@ MIC - Corgi MU 2x Daily ETF
 MICC - The Magnum Ice Cream Company N.V. Ordinary Shares
 MID - American Century Mid Cap Growth Impact ETF
 MIDD - The Middleby Corporation - Common Stock
-MIDDV - The Middleby Corporation - Common Stock Ex-Distribution When Issued
 MIDE - Xtrackers S&P MidCap 400 Scored & Screened ETF
 MIDU - Direxion Mid Cap Bull 3X ETF
 MIG - VanEck Moody's Analytics IG Corporate Bond ETF
@@ -7141,6 +7141,7 @@ MMT - Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest
 MMTM - State Street SPDR S&P 1500 Momentum Tilt ETF
 MMTX - Miluna Acquisition Corp - Class A Ordinary Shares
 MMTXU - Miluna Acquisition Corp - Units
+MMTXW - Miluna Acquisition Corp - Warrant
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MNA - NYLI Merger Arbitrage ETF
@@ -7641,6 +7642,7 @@ NLOP - Net Lease Office Properties Common Shares of Beneficial Interest
 NLR - VanEck Uranium and Nuclear ETF
 NLSI - NEOS Long/Short Equity Income ETF
 NLY - Annaly Capital Management Inc. Common Stock
+NMAD - Nomad Power Solutions, Inc. - Common Stock
 NMAI - Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest
 NMAR - Innovator Growth-100 Power Buffer ETF - March
 NMAX - Newsmax, Inc. Class B Common Stock
@@ -8806,6 +8808,7 @@ PSUS - Pershing Square USA, Ltd. Common Shares
 PSWD - Xtrackers Cybersecurity Select Equity ETF
 PSX - Phillips 66 Common Stock
 PTA - Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest
+PTAC - Patriot Acquisition Corp. - Class A Ordinary Shares
 PTACU - Patriot Acquisition Corp. - Units
 PTBD - Pacer Trendpilot US Bond ETF
 PTC - PTC Inc. - Common Stock
@@ -9186,7 +9189,6 @@ REAX - The Real Brokerage, Inc. - Common Shares
 REBN - Reborn Coffee, Inc. - Common Stock
 RECS - Columbia Research Enhanced Core ETF
 RECT - Rectitude Holdings Ltd - Ordinary Shares
-REE - REE Automotive Ltd. - Class A Ordinary Shares
 REED - Reed's, Inc. Common Stock
 REET - iShares Global REIT ETF
 REFA - Columbia Research Enhanced International Equity ETF
@@ -10448,7 +10450,6 @@ SUSB - iShares ESG Aware 1-5 Year USD Corporate Bond ETF
 SUSC - iShares ESG Aware USD Corporate Bond ETF
 SUSL - iShares ESG MSCI USA Leaders ETF
 SUZ - Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
-SVA - Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
 SVAC - Spring Valley Acquisition Corp. III - Class A Ordinary Shares
 SVACU - Spring Valley Acquisition Corp. III - Unit
 SVACW - Spring Valley Acquisition Corp. III - Warrant
@@ -11438,6 +11439,7 @@ VCLT - Vanguard Long-Term Corporate Bond ETF
 VCOB - Voya Core Bond ETF
 VCR - Vanguard Consumer Discretion ETF
 VCRB - Vanguard Core Bond ETF
+VCRE - Vicore Pharma Holding AB - American Depositary Shares
 VCRM - Vanguard Core Tax-Exempt Bond ETF
 VCSH - Vanguard Short-Term Corporate Bond ETF
 VCTR - Victory Capital Holdings, Inc. - Common Stock
@@ -11822,6 +11824,7 @@ WHG - Westwood Holdings Group Inc Common Stock
 WHK - WhiteHawk Minerals Corp Class A Common Stock
 WHLR - Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD - Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
+WHLRL - Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP - Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WHR - Whirlpool Corporation Common Stock
 WHWK - Whitehawk Therapeutics, Inc. - Common Stock
