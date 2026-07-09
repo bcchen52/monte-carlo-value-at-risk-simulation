@@ -1392,6 +1392,7 @@ BKTI - BK Technologies Corporation Common Stock
 BKU - BankUnited, Inc. Common Stock
 BKUI - BNY Mellon Ultra Short Income ETF
 BKV - BKV Corporation Common Stock
+BKYI - BIO-key International, Inc. - Common Stock
 BL - BlackLine, Inc. - Common Stock
 BLBD - Blue Bird Corporation - Common Stock
 BLCK - Corgi Crypto Infrastructure ETF
@@ -2023,6 +2024,7 @@ CENTA - Central Garden & Pet Company - Class A Common Stock Nonvoting
 CENX - Century Aluminum Company - Common Stock
 CEPF - Cantor Equity Partners IV, Inc. - Class A Ordinary Shares
 CEPI - REX Crypto Equity Premium Income ETF
+CEPL - Capstone Energy Plus, Inc. - Common Stock
 CEPO - Cantor Equity Partners I, Inc. - Class A Ordinary Shares
 CEPS - Cantor Equity Partners VI, Inc. - Class A Ordinary Shares
 CEPU - Central Puerto S.A. American Depositary Shares (each represents ten Common Shares)
@@ -3660,6 +3662,7 @@ EUIG - iShares Euro Investment Grade Corporate Bond USD Hedged ETF
 EUM - ProShares Short MSCI Emerging Markets
 EUO - ProShares UltraShort Euro
 EURK - Eureka Acquisition Corp - Class A Ordinary Share
+EURKR - Eureka Acquisition Corp - Right
 EURKU - Eureka Acquisition Corp - Unit
 EURL - Direxion Daily FTSE Europe Bull 3X ETF
 EUSA - iShares MSCI USA Equal Weighted ETF
@@ -3883,6 +3886,7 @@ FDL - First Trust Morningstar ETF
 FDLO - Fidelity Low Volatility Factor ETF
 FDLS - Inspire Fidelis Multi Factor ETF
 FDM - First Trust DJ Select MicroCap ETF
+FDMMU - Freedom Metals Acquisition Corp. - Units
 FDMO - Fidelity Momentum Factor ETF
 FDMT - 4D Molecular Therapeutics, Inc. - Common Stock
 FDN - First Trust DJ Internet Index Fund
@@ -4078,7 +4082,7 @@ FLD - Fold Holdings, Inc. - Class A Common Stock
 FLDB - Fidelity Low Duration Bond ETF
 FLDDW - Fold Holdings, Inc. - Warrant
 FLDR - Fidelity Low Duration Bond Factor ETF
-FLDZ - RiverNorth Patriot ETF
+FLDZ - TrueShares Patriot Defense ETF
 FLEE - Franklin FTSE Europe ETF
 FLEU - Franklin FTSE Eurozone ETF
 FLEX - Flex Ltd. - Ordinary Shares
@@ -4881,6 +4885,7 @@ GSRF - GSR IV Acquisition Corp. - Class A ordinary share
 GSRFR - GSR IV Acquisition Corp. - Rights
 GSRFU - GSR IV Acquisition Corp. - Units
 GSRV - GSR V Acquisition Corp. - Class A ordinary shares
+GSRVR - GSR V Acquisition Corp. - Rights
 GSRVU - GSR V Acquisition Corp. - Units
 GSSC - GS ActiveBeta U.S. Small Cap Equity ETF
 GSST - Goldman Sachs Ultra Short Bond ETF
@@ -7318,7 +7323,6 @@ MSTW - Roundhill MSTR WeeklyPay ETF
 MSTX - Defiance Daily Target 2x Long MSTR ETF
 MSTY - YieldMax MSTR Option Income Strategy ETF
 MSTZ - T-Rex 2X Inverse MSTR Daily Target ETF
-MSW - Ming Shing Group Holdings Limited - Ordinary Shares
 MT - Arcelor Mittal NY Registry Shares NEW
 MTA - Metalla Royalty & Streaming Ltd. Common Shares
 MTAL - Metals Acquisition Corp. II Class A Ordinary Shares
@@ -8871,6 +8875,7 @@ PUL - GraniteShares 2x Long P Daily ETF
 PULM - Pulmatrix, Inc. - Common Stock
 PULS - PGIM Ultra Short Bond ETF
 PUMP - ProPetro Holding Corp. Common Stock
+PUR - Defiance Daily Target 2X Long PURR ETF
 PURR - Hyperliquid Strategies Inc - Common Stock
 PUSA - Aureus Greenway Holdings Inc. - Common Stock
 PUSH - PGIM Ultra Short Municipal Bond ETF
@@ -9401,6 +9406,7 @@ RNGT - Range Capital Acquisition Corp II - Class A Ordinary Shares
 RNGTU - Range Capital Acquisition Corp II - Units
 RNGTW - Range Capital Acquisition Corp II - Warrants
 RNIN - Bushido Capital US SMID Cap Equity ETF
+RNMN - RiverNorth Market Neutral ETF
 RNP - Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares
 RNR - RenaissanceRe Holdings Ltd. Common Stock
 RNRG - Global X Renewable Energy Producers ETF
@@ -9409,7 +9415,6 @@ RNTX - Rein Therapeutics, Inc. - Common Stock
 RNTY - YieldMax Target 12 Real Estate Option Income ETF
 RNW - ReNew Energy Global plc - Class A Shares
 RNWWW - ReNew Energy Global plc - Warrant
-RNWZ - TrueShares Eagle Global Renewable Energy Income ETF
 RNXT - RenovoRx, Inc. - Common Stock
 ROAD - Construction Partners, Inc. - Common Stock
 ROAM - Hartford Multifactor Emerging Markets ETF
@@ -10125,6 +10130,7 @@ SNT - Senstar Technologies Corporation - Common Shares
 SNTG - Sentage Holdings Inc. - Class A Ordinary Shares
 SNTH - MRP SynthEquity ETF
 SNTI - Senti Biosciences Holdings, Inc. - Common Stock
+SNTQ - MRP SynthEquity Nasdaq 100 ETF
 SNWV - SANUWAVE Health, Inc. - Common Stock
 SNX - TD SYNNEX Corporation Common Stock
 SNXX - Tradr 2X Long SNDK Daily ETF
@@ -10206,7 +10212,6 @@ SPCQ - Defiance Daily Target 2X Short SPCX ETF
 SPCT - Liberty One Spectrum ETF
 SPCU - Defiance Daily Target 2X Long SPCX ETF
 SPCX - Space Exploration Technologies Corp. - Class A Common Stock
-SPCZ - RiverNorth Enhanced Pre-Merger SPAC ETF
 SPD - Simplify US Equity PLUS Downside Convexity ETF
 SPDF - Defender Risk Adaptive 500 ETF
 SPDG - State Street SPDR Portfolio S&P Sector Neutral Dividend ETF
@@ -10480,6 +10485,7 @@ SUSB - iShares ESG Aware 1-5 Year USD Corporate Bond ETF
 SUSC - iShares ESG Aware USD Corporate Bond ETF
 SUSL - iShares ESG MSCI USA Leaders ETF
 SUZ - Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
+SVA - Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
 SVAC - Spring Valley Acquisition Corp. III - Class A Ordinary Shares
 SVACU - Spring Valley Acquisition Corp. III - Unit
 SVACW - Spring Valley Acquisition Corp. III - Warrant
@@ -11007,9 +11013,13 @@ TRUF - VanEck Financials TruSector ETF
 TRUG - TruGolf Holdings, Inc. - Class A Common Stock
 TRUH - VanEck Healthcare TruSector ETF
 TRUI - VanEck Industrials TruSector ETF
+TRUM - VanEck Materials TruSector ETF
+TRUN - VanEck Energy TruSector ETF
 TRUO - VanEck Consumer Staples TruSector ETF
 TRUP - Trupanion, Inc. - Common Stock
+TRUR - VanEck Real Estate TruSector ETF
 TRUT - VanEck Technology TruSector ETF
+TRUU - VanEck Utilities TruSector ETF
 TRV - The Travelers Companies, Inc. Common Stock
 TRVG - trivago N.V. - American Depositary Shares
 TRVI - Trevi Therapeutics, Inc. - Common Stock
@@ -11124,6 +11134,7 @@ TWI - Titan International, Inc. (DE) Common Stock
 TWIN - Twin Disc, Incorporated - Common Stock
 TWLO - Twilio Inc. Class A Common Stock
 TWLV - Twelve Seas Investment Company III - Class A Ordinary Shares
+TWLVR - Twelve Seas Investment Company III - Rights
 TWLVU - Twelve Seas Investment Company III - Units
 TWM - ProShares UltraShort Russell2000
 TWN - Taiwan Fund, Inc. (The) Common Stock
