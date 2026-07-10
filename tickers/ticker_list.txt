@@ -1768,6 +1768,7 @@ BWMN - Bowman Consulting Group Ltd. - Common Stock
 BWMX - Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares
 BWNB - Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026
 BWOW - Bitwise Dogecoin ETF
+BWQG - BWM Quality Growth ETF
 BWTG - Brendan Wood TopGun Index ETF
 BWX - State Street SPDR Bloomberg International Treasury Bond ETF
 BWXT - BWX Technologies, Inc. Common Stock
@@ -1932,6 +1933,7 @@ CCB - Coastal Financial Corporation - Common Stock
 CCBG - Capital City Bank Group - Common Stock
 CCC - CCC Intelligent Solutions Holdings Inc. - Common Stock
 CCCC - C4 Therapeutics, Inc. - Common Stock
+CCCTU - Columbus Circle Capital Corp III - Units
 CCD - Calamos Dynamic Convertible & Income Fund - Closed End Fund
 CCEC - Capital Clean Energy Carriers Corp. - Common Share
 CCEF - Calamos CEF Income & Arbitrage ETF
@@ -3091,6 +3093,7 @@ DRUG - Bright Minds Biosciences Inc. - common stock
 DRUP - GraniteShares Nasdaq Select Disruptors ETF
 DRV - Direxion Daily Real Estate Bear 3X ETF
 DRVN - Driven Brands Holdings Inc. - Common Stock
+DRVR - Amplify S&P 500 Dividend Drivers ETF
 DSAC - Daedalus Special Acquisition Corp. - Class A Ordinary Shares
 DSACU - Daedalus Special Acquisition Corp. - Unit
 DSACW - Daedalus Special Acquisition Corp. - Warrant
@@ -3707,7 +3710,7 @@ EVT - Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficia
 EVTC - Evertec, Inc. Common Stock
 EVTL - Vertical Aerospace Ltd. Ordinary Shares
 EVTR - Eaton Vance Total Return Bond ETF
-EVTV - Envirotech Vehicles, Inc. - Common stock
+EVTV - Azio AI Holdings, Inc. - Common stock
 EVUS - iShares ESG Aware MSCI USA Value ETF
 EVV - Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest
 EVX - VanEck Environmental Services ETF
@@ -4029,6 +4032,7 @@ FIGXU - FIGX Capital Acquisition Corp. - Units
 FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIIG - First Trust Intermediate Duration Investment Grade Corporate ETF
 FIMU - Fidelity Intermediate Municipal Income ETF
+FINA - Fidelity MSCI North American Subset Index ETF
 FINS - Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
 FINT - Frontier Asset Total International Equity ETF
 FINV - FinVolution Group American Depositary Shares
@@ -4302,6 +4306,7 @@ FSMD - Fidelity Small-Mid Multifactor ETF
 FSML - Franklin Small Cap Enhanced ETF
 FSOL - Fidelity Solana Fund
 FSP - Franklin Street Properties Corp. Common Stock
+FSPC - First Trust Bloomberg Space Economy ETF
 FSS - Federal Signal Corporation Common Stock
 FSSL - FS Specialty Lending Fund Common Shares of Beneficial Interest
 FSTA - Fidelity MSCI Consumer Staples Index ETF
@@ -5220,7 +5225,7 @@ HRTG - Heritage Insurance Holdings, Inc. Common Stock
 HRTS - Tema Heart & Health ETF
 HRTX - Heron Therapeutics, Inc.   - Common Stock
 HRZN - Horizon Technology Finance Corporation - Common Stock
-HSAI - Hesai Group - American Depositary Share, each ADS represents one Class B ordinary share
+HSAI - Hesai Group - American Depositary Share
 HSBC - HSBC Holdings, plc. Common Stock
 HSBH - HSBC Holdings plc ADRhedged
 HSCS - HeartSciences Inc. - Common Stock
@@ -5788,6 +5793,7 @@ IQM - Franklin Intelligent Machines ETF
 IQMM - ProShares GENIUS Money Market ETF
 IQMX - IQM Quantum Computers Oyj - American Depositary Shares
 IQMXW - IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares
+IQQ - iShares Nasdaq 100 ETF
 IQQQ - ProShares Nasdaq-100 High Income ETF
 IQRA - NYLI CBRE Real Assets ETF
 IQSI - NYLI Candriam International Equity ETF
@@ -7246,6 +7252,7 @@ MRA - GraniteShares Autocallable MARA ETF
 MRAL - GraniteShares 2x Long MARA Daily ETF
 MRAM - Everspin Technologies, Inc. - Common Stock
 MRBK - Meridian Corporation - Common Stock
+MRCOU - Mercator Acquisition Corp. - Units
 MRCP - PGIM S&P 500 Buffer 12 ETF - March
 MRCY - Mercury Systems Inc - Common Stock
 MRDN - Meridian Holdings Inc. - Common Stock
@@ -7774,7 +7781,9 @@ NSC - Norfolk Southern Corporation Common Stock
 NSCI - Nuveen Securitized Income ETF
 NSEP - Innovator Growth-100 Power Buffer ETF - September
 NSI - National Security Emerging Markets Index ETF
+NSIG - North Square Growth Opportunities ETF
 NSIT - Insight Enterprises, Inc. - Common Stock
+NSIV - North Square Disciplined Value ETF
 NSLR - Neostellar Capital Corp. - Closed End Fund
 NSLRL - Neostellar Capital Corp. - 6.00% Notes due 2026
 NSP - Insperity, Inc. Common Stock
@@ -8613,6 +8622,7 @@ PLXS - Plexus Corp. - Common Stock
 PLYX - Polaryx Therapeutics, Inc. - Common Stock
 PLYY - GraniteShares YieldBOOST PLTR ETF
 PM - Philip Morris International Inc Common Stock
+PMA - Ming Shing Group Holdings Limited - Ordinary Shares
 PMAP - PGIM S&P 500 Max Buffer ETF - April
 PMAR - Innovator U.S. Equity Power Buffer ETF - March
 PMAU - PGIM S&P 500 Max Buffer ETF - August
@@ -8892,6 +8902,7 @@ PWP - Perella Weinberg Partners - Class A Common Stock
 PWR - Quanta Services, Inc. Common Stock
 PWRD - TCW Transform Systems ETF
 PWRL - Powerlaw Corp. - Common Stock
+PWRZ - TrueShares Eagle Global Renewable Energy Income ETF
 PWS - Pacer WealthShield ETF
 PWV - Invesco Large Cap Value ETF
 PWZ - Invesco California AMT-Free Municipal Bond Portfolio
@@ -9992,7 +10003,7 @@ SLDR - Global X Short-Term Treasury Ladder ETF
 SLE - Super League Enterprise, Inc. - Common Stock
 SLF - Sun Life Financial Inc. Common Stock
 SLG - SL Green Realty Corp Common Stock
-SLGB - Smart Logistics Global Limited - Ordinary Shares
+SLGB - Smart Logistics Global Limited - Class A Ordinary Shares
 SLGL - Sol-Gel Technologies Ltd. - Ordinary Shares
 SLGN - Silgan Holdings Inc. Common Stock
 SLI - Standard Lithium Ltd. Common Shares
@@ -10021,6 +10032,7 @@ SLVO - ETRACS Silver Shares Covered Call ETNs due April 21, 2033
 SLVP - iShares MSCI Global Silver and Metals Miners ETF
 SLVR - Sprott Silver Miners & Physical Silver ETF
 SLVX - Nicholas Silver Income ETF
+SLVY - FT Vest Silver Strategy & Target Income ETF
 SLWS - Wisdom Short Duration Income ETF
 SLX - VanEck Steel ETF
 SLXN - Silexion Therapeutics Corp - Ordinary Shares
@@ -10616,7 +10628,6 @@ TBLL - Invesco Short Term Treasury ETF
 TBLU - Tortoise Global Water ETF
 TBN - Tamboran Resources Corporation Common stock
 TBPH - Theravance Biopharma, Inc. - Ordinary Shares
-TBRG - TruBridge, Inc. - Common Stock
 TBT - ProShares UltraShort Lehman 20  Year Treasury
 TBUX - T. Rowe Price Ultra Short-Term Bond ETF
 TBX - ProShares Short 7 10 Year Treasury
@@ -11953,6 +11964,7 @@ WSHP - WeShop Holdings Limited - Class A Ordinary Shares
 WSM - Williams-Sonoma, Inc. Common Stock (DE)
 WSML - iShares MSCI World Small-Cap ETF
 WSO - Watsco, Inc. Common Stock
+WSPC - WisdomTree Space Economy Fund
 WSR - Whitestone REIT Common Shares
 WST - West Pharmaceutical Services, Inc. Common Stock
 WSTN - Westin Acquisition Corp - Class A Ordinary Share
