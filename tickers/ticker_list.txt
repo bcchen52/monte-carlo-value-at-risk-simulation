@@ -344,6 +344,7 @@ AIIOW - Robo.ai Inc. - Warrant
 AIIR - Air Global PLC - Ordinary shares
 AIM - AIM ImmunoTech Inc. Common Stock
 AIMD - Ainos, Inc. - Common Stock
+AIMDW - Ainos, Inc. - warrants
 AIMS - Acuitas Small Cap Active ETF
 AIN - Albany International Corporation Common Stock
 AINP - Allspring Income Plus ETF
@@ -408,10 +409,12 @@ ALCO - Alico, Inc. - Common Stock
 ALDB - Aptus Laddered Deep Buffer ETF
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
+ALDFW - Aldel Financial II Inc. - Warrants
 ALDX - Aldeyra Therapeutics, Inc. - Common Stock
 ALEC - Alector, Inc. - Common Stock
 ALF - Centurion Acquisition Corp. - Class A Ordinary Shares
 ALFUU - Centurion Acquisition Corp. - Unit
+ALFUW - Centurion Acquisition Corp. - Warrant
 ALG - Alamo Group, Inc. Common Stock
 ALGM - Allegro MicroSystems, Inc. - Common Stock
 ALGN - Align Technology, Inc. - Common Stock
@@ -1171,6 +1174,7 @@ BDIV - AAM Brentview Dividend Growth ETF
 BDJ - Blackrock Enhanced Equity Dividend Trust
 BDL - Flanigan's Enterprises, Inc. Common Stock
 BDMD - Baird Medical Investment Holdings Ltd - Ordinary Share
+BDMDW - Baird Medical Investment Holdings Ltd - Warrant
 BDN - Brandywine Realty Trust Common Stock
 BDRX - Biodexa Pharmaceuticals plc - American Depositary Shares
 BDRY - Breakwave Dry Bulk Shipping ETF
@@ -3281,6 +3285,7 @@ ECOW - Pacer Emerging Markets Cash Cows 100 ETF
 ECPG - Encore Capital Group Inc - Common Stock
 ECVT - Ecovyst Inc. Common Stock
 ECX - ECARX Holdings Inc. - Class A Ordinary shares
+ECXWW - ECARX Holdings Inc. - Warrants
 ED - Consolidated Edison, Inc. Common Stock
 EDBL - Edible Garden AG Incorporated - Common Stock
 EDBLW - Edible Garden AG Incorporated - Warrant
@@ -3485,6 +3490,7 @@ ENB - Enbridge Inc Common Stock
 ENDW - Cambria Endowment Style ETF
 ENFR - Alerian Energy Infrastructure ETF
 ENGN - enGene Therapeutics Inc. - Common Stock
+ENGNW - enGene Therapeutics Inc. - Warrants
 ENGS - Energys Group Limited - Ordinary Shares
 ENHA - Enhanced Group Inc. Class A Common Stock
 ENHI - iShares Enhanced International Active ETF
@@ -4633,6 +4639,7 @@ GIND - Goldman Sachs India Equity ETF
 GINN - Goldman Sachs Innovate Equity ETF
 GINX - SGI Enhanced Global Income ETF
 GIPR - Generation Income Properties Inc. - Common stock
+GIPRW - Generation Income Properties Inc. - Warrant
 GIS - General Mills, Inc. Common Stock
 GISC - Guggenheim Securitized Income ETF
 GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
@@ -4787,6 +4794,7 @@ GPACU - General Purpose Acquisition Corp. - Units
 GPACW - General Purpose Acquisition Corp. - Warrant
 GPAT - GP-Act III Acquisition Corp. - Class A Ordinary Share
 GPATU - GP-Act III Acquisition Corp. - Units
+GPATW - GP-Act III Acquisition Corp. - Warrants
 GPC - Genuine Parts Company Common Stock
 GPCR - Structure Therapeutics Inc. - American Depositary Shares
 GPGI - GPGI, Inc. Class A Common Stock
@@ -4902,6 +4910,7 @@ GTEC - Greenland Technologies Holding Corporation - Class A Ordinary Shares
 GTEK - Goldman Sachs Future Tech Leaders Equity ETF
 GTEN - Gores Holdings X, Inc. - Class A ordinary shares
 GTENU - Gores Holdings X, Inc. - Units
+GTENW - Gores Holdings X, Inc. - Warrants
 GTERA - Globa Terra Acquisition Corporation - Class A Ordinary Shares
 GTERR - Globa Terra Acquisition Corporation - Rights
 GTERU - Globa Terra Acquisition Corporation - Units
@@ -5194,6 +5203,7 @@ HOWL - Werewolf Therapeutics, Inc. - Common Stock
 HOYY - GraniteShares YieldBOOST HOOD ETF
 HP - Helmerich & Payne, Inc. Common Stock
 HPAI - Helport AI Limited - Ordinary Shares
+HPAIW - Helport AI Limited - Warrants
 HPE - Hewlett Packard Enterprise Company Common Stock
 HPEL - Leverage Shares 2X Long HPE Daily ETF
 HPF - John Hancock Pfd Income Fund II Pfd Income Fund II
@@ -5258,6 +5268,7 @@ HTZWW - Hertz Global Holdings, Inc - Warrant
 HUBB - Hubbell Inc Common Stock
 HUBC - Hub Cyber Security Ltd. - Ordinary Shares
 HUBCW - Hub Cyber Security Ltd. - Warrant expiring 2/27/28
+HUBCZ - Hub Cyber Security Ltd. - Warrant
 HUBG - Hub Group, Inc. - Class A Common Stock
 HUBS - HubSpot, Inc. Common Stock
 HUDI - Huadi International Group Co., Ltd. - Ordinary Shares
@@ -6342,6 +6353,7 @@ KOS - Kosmos Energy Ltd. Common Shares (DE)
 KOSS - Koss Corporation - Common Stock
 KOYN - CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares
 KOYNU - CSLM Digital Asset Acquisition Corp III - Units
+KOYNW - CSLM Digital Asset Acquisition Corp III - Warrants
 KPDD - KraneShares 2x Long PDD Daily ETF
 KPET - KPET Ultra Paceline Corporation Class A Ordinary Shares
 KPHO - KraneShares Dragon Capital Growth of Vietnam Index ETF
@@ -6484,6 +6496,7 @@ LCDL - GraniteShares 2x Long LCID Daily ETF
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
+LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCLG - Logan Capital Broad Innovative Growth ETF
@@ -6673,6 +6686,7 @@ LOPE - Grand Canyon Education, Inc. - Common Stock
 LOPP - Gabelli Love Our Planet & People ETF Gabelli Love Our Planet & People ETF
 LOT - Lotus Technology Inc. - American Depositary Shares
 LOTI - Liberty One Tactical Income ETF
+LOTWW - Lotus Technology Inc. - Warrants
 LOUP - Innovator Deepwater Frontier Tech ETF
 LOVE - The Lovesac Company - Common Stock
 LOW - Lowe's Companies, Inc. Common Stock
@@ -6807,6 +6821,7 @@ MAAY - GraniteShares YieldBOOST MARA ETF
 MAC - Macerich Company (The) Common Stock
 MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
+MACIW - Melar Acquisition Corp. I - Warrant
 MADE - iShares U.S. Manufacturing ETF
 MAGA - Point Bridge America First ETF
 MAGC - Roundhill China Magnificent Seven ETF
@@ -6869,6 +6884,7 @@ MB - MasterBeef Group - Ordinary Shares
 MBAI - Check-Cap Ltd. - Ordinary Share
 MBAV - M3-Brigade Acquisition V Corp. - Class A Ordinary shares
 MBAVU - M3-Brigade Acquisition V Corp. - Units
+MBAVW - M3-Brigade Acquisition V Corp. - Warrant
 MBB - iShares MBS ETF
 MBBA - iShares Mortgage-Backed Securities Active ETF
 MBBB - VanEck Moody's Analytics BBB Corporate Bond ETF
@@ -7530,6 +7546,7 @@ NCNA - NuCana plc - American Depositary Shares
 NCNO - nCino, Inc. - Common Stock
 NCPB - Nuveen Core Plus Bond ETF
 NCPL - Netcapital Inc. - Common Stock
+NCPLW - Netcapital Inc. - warrants
 NCRA - Nocera, Inc. - common stock
 NCSM - NCS Multistage Holdings, Inc. - Common Stock
 NCT - Intercont (Cayman) Limited - Class A Ordinary shares
@@ -7761,6 +7778,7 @@ NRO - Neuberger Real Estate Securities Income Fund Inc. Common Stock
 NRP - Natural Resource Partners LP Limited Partnership
 NRSH - Aztlan North America Nearshoring Stock Selection ETF
 NRSN - NeuroSense Therapeutics Ltd. - Ordinary Shares
+NRSNW - NeuroSense Therapeutics Ltd. - Warrant
 NRT - North European Oil Royality Trust Common Stock
 NRUC - National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)
 NRXP - NRX Pharmaceuticals, Inc. - Common Stock
@@ -7944,6 +7962,7 @@ NZAC - State Street SPDR MSCI ACWI Climate Paris Aligned ETF
 NZF - Nuveen Municipal Credit Income Fund 
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -9190,6 +9209,7 @@ RDACR - Rising Dragon Acquisition Corp. - Rights
 RDACU - Rising Dragon Acquisition Corp. - Unit
 RDAG - Republic Digital Acquisition Company - Class A Ordinary Shares
 RDAGU - Republic Digital Acquisition Company - Unit
+RDAGW - Republic Digital Acquisition Company - Warrants
 RDCM - Radcom Ltd. - Ordinary Shares
 RDDT - Reddit, Inc. Class A Common Stock
 RDFI - Rareview Dynamic Fixed Income ETF
@@ -9376,6 +9396,7 @@ RMBX - Tradr 2X Long RMBS Daily ETF
 RMCA - Rockefeller California Municipal Bond ETF
 RMCF - Rocky Mountain Chocolate Factory, Inc. - Common Stock
 RMCO - Royalty Management Holding Corporation - Class A Common Stock
+RMCOW - Royalty Management Holding Corporation - Warrant
 RMD - ResMed Inc. Common Stock
 RMHY - Global X Adaptive Risk Managed Yield ETF
 RMI - RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock
@@ -9603,6 +9624,7 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
+SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SAM - Boston Beer Company, Inc. (The) Common Stock
@@ -9870,6 +9892,7 @@ SHEH - Shell plc ADRhedged
 SHEL - Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) 
 SHEN - Shenandoah Telecommunications Co - Common Stock
 SHFS - SHF Holdings, Inc. - Class A Common Stock
+SHFSW - SHF Holdings, Inc. - Warrants
 SHG - Shinhan Financial Group Co Ltd American Depositary Shares
 SHIM - Shimmick Corporation - Common Stock
 SHIP - Seanergy Maritime Holdings Corp. - Common Stock
@@ -9921,6 +9944,7 @@ SILO - Silo Pharma, Inc. - Common Stock
 SIM - Grupo Simec, S.A.B. de C.V. American Depositary Shares
 SIMA - SIM Acquisition Corp. I - Class A Ordinary Shares
 SIMAU - SIM Acquisition Corp. I - Unit
+SIMAW - SIM Acquisition Corp. I - Warrant
 SIMO - Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares
 SIMS - State Street SPDR S&P Kensho Intelligent Structures ETF
 SIMX - Corgi SIMO 2x Daily ETF
@@ -10285,6 +10309,7 @@ SPVM - Invesco S&P 500 Value with Momentum ETF
 SPWH - Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWO - SP Funds S&P World (ex-US) ETF
 SPWR - SunPower Inc. - Common Stock
+SPWRW - SunPower Inc. - Warrant
 SPXC - SPX Technologies, Inc. Common Stock
 SPXD - Xtrackers S&P 500 Diversified Sector Weight ETF
 SPXE - ProShares S&P 500 Ex-Energy ETF
@@ -10481,7 +10506,6 @@ SUSB - iShares ESG Aware 1-5 Year USD Corporate Bond ETF
 SUSC - iShares ESG Aware USD Corporate Bond ETF
 SUSL - iShares ESG MSCI USA Leaders ETF
 SUZ - Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
-SVA - Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
 SVAC - Spring Valley Acquisition Corp. III - Class A Ordinary Shares
 SVACU - Spring Valley Acquisition Corp. III - Unit
 SVACW - Spring Valley Acquisition Corp. III - Warrant
@@ -10502,6 +10526,7 @@ SVM - Silvercorp Metals Inc. Common Shares
 SVOL - Simplify Volatility Premium ETF
 SVRA - Savara, Inc. - Common Stock
 SVRE - SaverOne 2014 Ltd. - American Depositary Shares
+SVREW - SaverOne 2014 Ltd. - Warrant
 SVRN - OceanPal Inc. - Common Stock
 SVV - Savers Value Village, Inc. Common Stock
 SVXY - ProShares Short VIX Short Term Futures ETF
@@ -10890,6 +10915,7 @@ TNK - Teekay Tankers Ltd.
 TNL - Travel   Leisure Co. Common  Stock
 TNMG - TNL Mediagene - Ordinary Shares
 TNON - Tenon Medical, Inc. - Common Stock
+TNONW - Tenon Medical, Inc. - Warrant
 TNUK - Tortoise Nuclear Renaissance ETF
 TNXP - Tonix Pharmaceuticals Holding Corp. - Common Stock
 TNXT - T. Rowe Price Innovation Leaders ETF
@@ -11684,6 +11710,7 @@ VSDM - Vanguard Short Duration Tax-Exempt Bond ETF
 VSEC - VSE Corporation - Common Stock
 VSECU - VSE Corporation - Tangible Equity Units
 VSEE - VSee Health, Inc. - Common Stock
+VSEEW - VSee Health, Inc. - Warrant
 VSGX - Vanguard ESG International Stock ETF
 VSH - Vishay Intertechnology, Inc. Common Stock
 VSHY - Virtus Newfleet Short Duration High Yield Bond ETF
@@ -11889,6 +11916,7 @@ WLCOU - Wilco 63 Corporation - Units
 WLDN - Willdan Group, Inc. - Common Stock
 WLDR - Simplify Affinity World Leaders Equity ETF
 WLDS - Wearable Devices Ltd. - Ordinary Share
+WLDSW - Wearable Devices Ltd. - Warrant
 WLDU - Leverage Shares 2x Long World Stock Daily ETF
 WLFC - Willis Lease Finance Corporation - Common Stock
 WLII - Willow Lane Acquisition Corp. II - Class A Ordinary Shares
@@ -12027,6 +12055,7 @@ XBNB - Teucrium xETFs 2x Long Daily BNB ETF
 XBOC - Innovator U.S. Equity Accelerated 9 Buffer ETF - October
 XBOX - Roundhill Ultra Short Duration No Dividend Target ETF
 XBP - XBP Global Holdings, Inc. - Common Stock
+XBPEW - XBP Global Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
 XC - WisdomTree True Emerging Markets Fund
 XCBE - X3 Acquisition Corp. Ltd. - Class A Ordinary Shares
