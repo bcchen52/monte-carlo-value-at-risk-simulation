@@ -221,7 +221,6 @@ AEI - Alset Inc. - Common Stock
 AEIS - Advanced Energy Industries, Inc. - Common Stock
 AEM - Agnico Eagle Mines Limited Common Stock
 AEMD - Aethlon Medical, Inc. - Common Stock
-AEMS - Anfield Enhanced Market ETF
 AENT - Alliance Entertainment Holding Corporation - common stock
 AENTW - Alliance Entertainment Holding Corporation - Warrants
 AEO - American Eagle Outfitters, Inc. Common Stock
@@ -1339,7 +1338,6 @@ BITA - iShares Bitcoin Premium Income ETF
 BITB - Bitwise Bitcoin ETF 
 BITC - Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF
 BITI - ProShares Short Bitcoin ETF
-BITK - Tuttle Capital IBIT 0DTE Covered Call ETF
 BITO - ProShares Bitcoin ETF
 BITQ - Bitwise Crypto Industry Innovators ETF
 BITS - Global X Blockchain & Bitcoin Strategy ETF
@@ -3713,7 +3711,6 @@ EVT - Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficia
 EVTC - Evertec, Inc. Common Stock
 EVTL - Vertical Aerospace Ltd. Ordinary Shares
 EVTR - Eaton Vance Total Return Bond ETF
-EVTV - Azio AI Holdings, Inc. - Common stock
 EVUS - iShares ESG Aware MSCI USA Value ETF
 EVV - Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest
 EVX - VanEck Environmental Services ETF
@@ -5568,7 +5565,6 @@ IGPT - Invesco AI and Next Gen Software ETF
 IGR - CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest
 IGRO - iShares International Dividend Growth ETF
 IGSB - iShares 1-5 Year Investment Grade Corporate Bond ETF
-IGTR - Innovator Gradient Tactical Rotation Strategy ETF
 IGV - iShares Expanded Tech-Software Sector ETF
 IH - iHuman Inc. American depositary shares, each representing five Class A ordinary shares
 IHAK - iShares Cybersecurity and Tech ETF
@@ -6828,7 +6824,6 @@ MAGC - Roundhill China Magnificent Seven ETF
 MAGG - Madison Aggregate Bond ETF
 MAGH - Magnitude International Ltd - Ordinary Shares
 MAGN - Magnera Corporation Common Stock
-MAGO - Tuttle Capital Magnificent 7 Income Blast ETF
 MAGS - Roundhill Magnificent Seven ETF
 MAGX - Roundhill Daily 2X Long Magnificent Seven ETF
 MAGY - Roundhill Magnificent Seven Covered Call ETF
@@ -8269,7 +8264,6 @@ PAAC - Proem Acquisition Corp I - Ordinary Shares
 PAACU - Proem Acquisition Corp I - Units
 PAACW - Proem Acquisition Corp I - Warrants
 PAAS - Pan American Silver Corp. Common Stock
-PAAU - T-REX 2X Long PAAS Daily Target ETF
 PAB - PGIM Active Aggregate Bond ETF
 PABD - iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF
 PABU - iShares Paris-Aligned Climate Optimized MSCI USA ETF
@@ -9001,7 +8995,6 @@ QGRD - Horizon Nasdaq-100 Defined Risk ETF
 QGRO - American Century U.S. Quality Growth ETF
 QGRW - WisdomTree U.S. Quality Growth Fund
 QH - Quhuo Limited - American Depository Shares
-QHDG - Innovator Hedged Nasdaq-100 ETF
 QHY - WisdomTree U.S. High Yield Corporate Bond Fund
 QID - ProShares UltraShort QQQ
 QIDX - Indexperts Quality Earnings Focused ETF
@@ -9469,7 +9462,6 @@ RPC - Ridgepost Capital, Inc. Class A Common Stock
 RPD - Rapid7, Inc. - Common Stock
 RPG - Invesco S&P 500 Pure Growth ETF
 RPGL - Republic Power Group Limited - Class A Ordinary Shares
-RPHS - Regents Park Hedged Market Strategy ETF
 RPID - Rapid Micro Biosystems, Inc. - Class A Common Stock
 RPM - RPM International Inc. Common Stock
 RPRX - Royalty Pharma plc - Class A Ordinary Shares
@@ -9978,7 +9970,7 @@ SJNK - State Street SPDR Bloomberg Short Term High Yield Bond ETF
 SJT - San Juan Basin Royalty Trust Common Stock
 SKE - Skeena Resources Limited Common Shares
 SKF - ProShares UltraShort Financials
-SKHYV - SK hynix Inc. - American Depository Shares
+SKHY - SK hynix Inc. - American Depositary Shares
 SKIL - Skillsoft Corp. Class A Common Stock
 SKIN - SkinHealth Systems Inc. - Class A Common Stock
 SKK - SKK Holdings Limited - Class A Ordinary Shares
@@ -10506,9 +10498,6 @@ SUSB - iShares ESG Aware 1-5 Year USD Corporate Bond ETF
 SUSC - iShares ESG Aware USD Corporate Bond ETF
 SUSL - iShares ESG MSCI USA Leaders ETF
 SUZ - Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
-SVAC - Spring Valley Acquisition Corp. III - Class A Ordinary Shares
-SVACU - Spring Valley Acquisition Corp. III - Unit
-SVACW - Spring Valley Acquisition Corp. III - Warrant
 SVAL - iShares US Small Cap Value Factor ETF
 SVAQ - Silicon Valley Acquisition Corp. - Class A Ordinary Shares
 SVAQU - Silicon Valley Acquisition Corp. - Units
@@ -11547,7 +11536,6 @@ VEXC - Vanguard Emerging Markets Ex-China ETF
 VFC - V.F. Corporation Common Stock
 VFF - Village Farms International, Inc. - Common Shares
 VFH - Vanguard Financials ETF
-VFL - abrdn National Municipal Income Fund Common Stock
 VFLO - VictoryShares Free Cash Flow ETF
 VFMF - Vanguard U.S. Multifactor ETF
 VFMO - Vanguard U.S. Momentum Factor ETF
