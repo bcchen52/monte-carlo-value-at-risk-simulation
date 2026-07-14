@@ -990,6 +990,7 @@ AYI - Acuity Inc. Common Stock
 AYTU - Aytu BioPharma, Inc.  - Common Stock
 AZ - A2Z Cust2Mate Solutions Corp. - Common Shares
 AZI - Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares
+AZIO - Azio AI Holdings, Inc. - Common stock
 AZN - AstraZeneca PLC Ordinary Shares
 AZO - AutoZone, Inc. Common Stock
 AZTA - Azenta, Inc. - Common Stock
@@ -1469,7 +1470,6 @@ BMY - Bristol-Myers Squibb Company Common Stock
 BN - Brookfield Corporation Class A Limited Voting Shares
 BNAI - Brand Engagement Network Inc. - Common Stock
 BNAIW - Brand Engagement Network Inc. - Warrant
-BNBX - BNB Plus Corp. - Common Stock
 BNC - CEA Industries Inc. - Common Stock
 BNCWW - CEA Industries Inc. - Warrant
 BNCWZ - CEA Industries Inc. - Warrants
@@ -2627,7 +2627,6 @@ CURI - CuriosityStream Inc.  - Class A Common Stock
 CURR - Currenc Group Inc. - Ordinary Shares
 CURV - Torrid Holdings Inc. Common Stock
 CURX - Curanex Pharmaceuticals Inc - Common Stock
-CUSD - CrossingBridge Ultra-Short Duration ETF
 CUST - Corgi 1-3 Year Treasury Bond ETF
 CUT - Invesco MSCI Global Timber ETF
 CUZ - Cousins Properties Incorporated Common Stock
@@ -3327,7 +3326,6 @@ EES - WisdomTree U.S. SmallCap Fund
 EET - ProShares Ultra MSCI Emerging Markets
 EETH - ProShares Ether ETF
 EEV - ProShares UltraShort MSCI Emerging Markets
-EEX - Emerald Holding, Inc. Common Stock
 EFA - iShares MSCI EAFE ETF
 EFAA - Invesco MSCI EAFE Income Advantage ETF
 EFAD - ProShares MSCI EAFE Dividend Growers ETF
@@ -3613,7 +3611,6 @@ ESNT - Essent Group Ltd. Common Shares
 ESOA - Energy Services of America Corporation - Common Stock
 ESP - Espey Mfg. & Electronics Corp. Common Stock
 ESPO - VanEck Video Gaming and eSports ETF
-ESPR - Esperion Therapeutics, Inc. - Common Stock
 ESQ - Esquire Financial Holdings, Inc. - Common Stock
 ESRT - Empire State Realty Trust, Inc. Class A Common Stock
 ESS - Essex Property Trust, Inc. Common Stock
@@ -4589,6 +4586,8 @@ GFLW - VictoryShares Free Cash Flow Growth ETF
 GFR - Greenfire Resources Ltd. Common Shares
 GFS - GlobalFoundries Inc. - Ordinary Share
 GFSG - Leverage Shares 2X Long GFS Daily ETF
+GFUZ - General Fusion Group Ltd. - Common Shares
+GFUZW - General Fusion Group Ltd. - Warrant
 GGAL - Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying
 GGB - Gerdau S.A. Common Stock
 GGG - Graco Inc. Common Stock
@@ -6127,6 +6126,7 @@ JPMB - JPMorgan USD Emerging Markets Sovereign Bond ETF
 JPME - JPMorgan Diversified Return U.S. Mid Cap Equity ETF
 JPO - YieldMax JP Option Income Strategy ETF
 JPRE - JPMorgan Realty Income ETF
+JPRF - JPMorgan Preferred and Income Securities ETF
 JPSE - JPMorgan Diversified Return U.S. Small Cap Equity ETF
 JPST - JPMorgan Ultra-Short Income ETF
 JPSV - JPMorgan Active Small Cap Value ETF
@@ -6543,6 +6543,7 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LFAC - Leapfrog Acquisition Corporation - Class A Ordinary Shares
 LFACU - Leapfrog Acquisition Corporation - Units
+LFACW - Leapfrog Acquisition Corporation - Warrants
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
@@ -6564,6 +6565,7 @@ LFWD - Lifeward Ltd. - Ordinary Shares
 LGCF - Themes US Cash Flow Champions ETF
 LGCL - Lucas GC Limited - Class A Ordinary Shares
 LGCY - Legacy Education Inc. Common Stock
+LGDS - JPMorgan Fundamental Data Science Large Growth ETF
 LGDX - Intech S&P Large Cap Diversified Alpha ETF
 LGH - HCM Defender 500 Index ETF
 LGHL - Lion Group Holding Ltd. - American Depositary Share
@@ -7277,7 +7279,7 @@ MRTN - Marten Transport, Ltd. - Common Stock
 MRVI - Maravai LifeSciences Holdings, Inc. - Class A common stock
 MRVL - Marvell Technology, Inc. - Common Stock
 MRVU - Direxion Daily MRVL Bull 2X ETF
-MRX - Marex Group plc - Ordinary Shares
+MRX - Marex Group Limited - Ordinary Shares
 MS - Morgan Stanley Common Stock
 MSA - MSA Safety Incorporated Common Stock
 MSAI - MultiSensor AI Holdings, Inc. - Common Stock
@@ -8557,7 +8559,6 @@ PIPR - Piper Sandler Companies Common Stock
 PIT - VanEck Commodity Strategy ETF
 PIZ - Invesco Dorsey Wright Developed Markets Momentum ETF
 PJAN - Innovator U.S. Equity Power Buffer ETF - January
-PJBF - PGIM Jennison Better Future ETF
 PJFG - PGIM Jennison Focused Growth ETF
 PJFM - PGIM Jennison Focused Mid-Cap ETF
 PJFV - PGIM Jennison Focused Value ETF
@@ -9137,6 +9138,7 @@ RAAX - VanEck Real Assets ETF
 RAAY - Reckoner Yield Enhanced AAA CLO Annual ETF
 RAC - Rithm Acquisition Corp. Class A Ordinary Shares
 RACC - Research Alliance Corporation III - Class A Ordinary Shares
+RACD - Research Alliance Corporation IV - Class A Ordinary Shares
 RACE - Ferrari N.V. Common Shares
 RACK - VanEck Data Center Supply Chain ETF
 RADX - Radiopharm Theranostics Limited - American Depositary Shares
@@ -11132,7 +11134,9 @@ TVC - Tennessee Valley Authority Common Stock
 TVE - Tennessee Valley Authority
 TVGN - Tevogen Bio Holdings Inc. - Common Stock
 TVGNW - Tevogen Bio Holdings Inc. - Warrant
+TVIV - Texas Ventures Acquisition IV Corp - Class A Ordinary Shares
 TVIVU - Texas Ventures Acquisition IV Corp - Units
+TVIVW - Texas Ventures Acquisition IV Corp - Warrant
 TVRD - Tvardi Therapeutics, Inc. - Common Stock
 TVTX - Travere Therapeutics, Inc. - Common Stock
 TW - Tradeweb Markets Inc. - Class A Common Stock
@@ -11965,7 +11969,6 @@ WSM - Williams-Sonoma, Inc. Common Stock (DE)
 WSML - iShares MSCI World Small-Cap ETF
 WSO - Watsco, Inc. Common Stock
 WSPC - WisdomTree Space Economy Fund
-WSR - Whitestone REIT Common Shares
 WST - West Pharmaceutical Services, Inc. Common Stock
 WSTN - Westin Acquisition Corp - Class A Ordinary Share
 WSTNR - Westin Acquisition Corp - Right
@@ -12186,7 +12189,7 @@ XPO - XPO, Inc. Common Stock
 XPOF - Xponential Fitness, Inc. Class A Common Stock
 XPON - Expion360 Inc. - Common Stock
 XPP - ProShares Ultra FTSE China 50
-XPRO - Expro Group Holdings N.V. Common Stock
+XPRO - Expro Ltd Ordinary Shares
 XQQI - NEOS Boosted Nasdaq-100 High Income ETF
 XQTM - Corgi Quantum Computing 2x Daily ETF
 XRAY - DENTSPLY SIRONA Inc. - Common Stock
@@ -12296,6 +12299,7 @@ YHNAR - YHN Acquisition I Limited - Right
 YHNAU - YHN Acquisition I Limited - Unit
 YI - 111, Inc. - American Depositary Shares
 YIBO - Planet Image International Limited - Class A Ordinary Shares
+YICC - Yorkville International Capital Corp. - Class A Ordinary Shares
 YICCU - Yorkville International Capital Corp. - Units
 YINN - Direxion Daily FTSE China Bull 3X ETF
 YJ - Yunji Inc. - American Depository Shares
