@@ -632,7 +632,6 @@ APLU - Allspring Core Plus ETF
 APLX - Tradr 2X Long APLD Daily ETF
 APLY - YieldMax AAPL Option Income Strategy ETF
 APLZ - Tradr 2X Short APLD Daily ETF
-APM - Aptorum Group Limited - Common Stock
 APMC - AmperCap Acquisition Company - Ordinary Shares
 APMCR - AmperCap Acquisition Company - Right
 APMCU - AmperCap Acquisition Company - Unit
@@ -1740,7 +1739,6 @@ BULLW - Webull Corporation - Warrants
 BULZ - MicroSectors FANG & Innovation 3x Leveraged ETN
 BUR - Burford Capital Limited Ordinary Shares
 BURL - Burlington Stores, Inc. Common Stock
-BURU - Nuburu, Inc. Common Stock
 BUSA - Brandes U.S. Value ETF
 BUSE - First Busey Corporation - Common Stock
 BUSEP - First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value
@@ -3022,7 +3020,7 @@ DMIIR - Drugs Made In America Acquisition II Corp. - Right
 DMIIU - Drugs Made In America Acquisition II Corp. - Unit
 DMLP - Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests
 DMO - Western Asset Mortgage Opportunity Fund Inc. Common Stock
-DMRA - Damora Therapeutics, Inc. - Common Stock
+DMRA - Damora Therapeutics, Inc. - Ordinary Shares
 DMRC - Digimarc Corporation - Common Stock
 DMX - DoubleLine Multi-Sector Income ETF
 DMXF - iShares ESG Advanced MSCI EAFE ETF
@@ -3997,9 +3995,6 @@ FGIIW - FG Imperii Acquisition Corp. - Warrants
 FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
-FGMC - FG Merger II Corp. - Common stock
-FGMCR - FG Merger II Corp. - Rights
-FGMCU - FG Merger II Corp. - Unit
 FGN - F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053
 FGNX - FG Nexus Inc. - Common Stock
 FGNXP - FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock
@@ -4781,7 +4776,7 @@ GOOW - Roundhill GOOGL WeeklyPay ETF
 GOOX - T-Rex 2X Long Alphabet Daily Target ETF
 GOOY - YieldMax GOOGL Option Income Strategy ETF
 GOP - Unusual Whales Subversive Republican Trading ETF
-GORO - Gold Resource Corporation Common Stock
+GORO - Goldgroup Mining Inc. Common Shares
 GOSS - Gossamer Bio, Inc. - Common Stock
 GOTU - Gaotu Techedu Inc. American Depositary Shares
 GOU - GraniteShares 2x Long GOOGL Daily ETF
@@ -4917,7 +4912,7 @@ GTERA - Globa Terra Acquisition Corporation - Class A Ordinary Shares
 GTERR - Globa Terra Acquisition Corporation - Rights
 GTERU - Globa Terra Acquisition Corporation - Units
 GTERW - Globa Terra Acquisition Corporation - Warrants
-GTES - Gates Industrial Corporation plc Ordinary Shares
+GTES - Gates Industrial Corporation Ltd. Common Shares
 GTIM - Good Times Restaurants Inc. - Common Stock
 GTIP - Goldman Sachs Access Inflation Protected USD Bond ETF
 GTLB - GitLab Inc. - Class A Common Stock
@@ -6399,7 +6394,7 @@ KSLV - Kurv Silver Enhanced Income ETF
 KSPI - Joint Stock Company Kaspi.kz - American Depository Shares
 KSPY - KraneShares Hedgeye Hedged Equity Index ETF
 KSS - Kohl's Corporation Common Stock
-KSTR - KraneShares SSE STAR Market 50 Index ETF
+KSTR - KraneShares China Technology & Semiconductor STAR 50 Index ETF
 KT - KT Corporation Common Stock
 KTB - Kontoor Brands, Inc. Common Stock 
 KTCC - Key Tronic Corporation - Common Stock
@@ -8029,8 +8024,6 @@ ODFL - Old Dominion Freight Line, Inc. - Common Stock
 ODHY - Obra Defensive High Yield ETF
 ODTE - VegaShares SPX NDX RTY Premium Income ETF
 ODTX - Odyssey Therapeutics, Inc. - Common Stock
-ODV - Osisko Development Corp. Common Shares
-ODVWZ - Osisko Development Corp. - Warrant
 ODYS - Odysight.ai Inc. - Common Stock
 OEC - Orion S.A. Common Shares
 OEF - iShares S&P 100 Fund
@@ -9623,7 +9616,6 @@ SABS - SAB Biotherapeutics, Inc. - Common Stock
 SABSW - SAB Biotherapeutics, Inc. - Warrant
 SAC - Safeguard Acquisition Corp. Class A Ordinary Shares
 SACH - Sachem Capital Corp. Common Shares
-SAEF - Schwab Ariel Opportunities ETF
 SAFE - Safehold Inc. New Common Stock 
 SAFT - Safety Insurance Group, Inc. - Common Stock
 SAFX - XCF Global, Inc. - Class A Common Stock
@@ -11234,7 +11226,6 @@ UBRL - GraniteShares 2x Long UBER Daily ETF
 UBS - UBS Group AG Registered Ordinary Shares
 UBSI - United Bankshares, Inc. - Common Stock
 UBT - ProShares Ultra 20+ Year Treasury
-UBXG - U-BX Technology Ltd. - Class A Ordinary Shares
 UCAR - U Power Limited - Class A Ordinary Shares
 UCB - United Community Banks, Inc. Common Stock
 UCC - ProShares Ultra Consumer Discretionary
