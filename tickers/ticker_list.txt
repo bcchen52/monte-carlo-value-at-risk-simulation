@@ -163,6 +163,7 @@ ACYS - FT Vest Laddered Autocallable Barrier & Resilient Income ETF
 AD - Array Digital Infrastructure, Inc. Common Shares
 ADAC - American Drive Acquisition Company - Class A Ordinary Shares
 ADACU - American Drive Acquisition Company - Units
+ADACW - American Drive Acquisition Company - Warrant
 ADAG - Adagene Inc. - ADS, each representing 1.25 ordinary shares
 ADAM - Adamas Trust, Inc. - Common Stock
 ADAMG - Adamas Trust, Inc. - 9.125% Senior Notes Due 2030
@@ -1816,7 +1817,6 @@ CAC - Camden National Corporation - Common Stock
 CACC - Credit Acceptance Corporation - Common Stock
 CACI - CACI International, Inc. Class A Common Stock
 CADL - Candel Therapeutics, Inc. - Common Stock
-CAE - CAE Inc. Ordinary Shares
 CAES - Cantor Equity Partners VII, Inc. - Class A Ordinary Shares
 CAF - Morgan Stanley China A Share Fund Inc. Common Stock
 CAFG - Pacer US Small Cap Cash Cows Growth Leaders ETF
@@ -2024,7 +2024,6 @@ CEGX - Tradr 2X Long CEG Daily ETF
 CELC - Celcuity Inc. - Common Stock
 CELH - Celsius Holdings, Inc. - Common Stock
 CELU - Celularity Inc. - Class A Common Stock
-CELUW - Celularity Inc. - Warrant
 CELZ - Creative Medical Technology Holdings, Inc. - Common Stock
 CEMB - iShares J.P. Morgan EM Corporate Bond ETF
 CENN - Cenntro Inc. - Common Stock
@@ -2117,6 +2116,7 @@ CHEC - Chenghe Acquisition III Co. - Class A Ordinary Shares
 CHECU - Chenghe Acquisition III Co. - Units
 CHECW - Chenghe Acquisition III Co. - Warrants
 CHEF - The Chefs' Warehouse, Inc. - Common Stock
+CHGA - Change Agents Corporation  - Common Stock
 CHGG - Chegg, Inc. Common Stock
 CHGX - Stance Sustainable Beta ETF
 CHH - Choice Hotels International, Inc. Common Stock
@@ -2458,6 +2458,7 @@ CPST - Calamos S&P 500 Structured Alt Protection ETF  September
 CPSU - Calamos S&P 500 Structured Alt Protection ETF June
 CPSY - Calamos S&P 500 Structured Alt Protection ETF January
 CPT - Camden Property Trust Common Stock
+CPTL - Global X Morningstar Capital Allocation Leaders ETF
 CPXR - USCF Daily Target 2X Copper Index ETF
 CPZ - Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund
 CQP - Cheniere Energy Partners, LP Common Units
@@ -3236,6 +3237,7 @@ DYN - Dyne Therapeutics, Inc. - Common Stock
 DYNB - Hartford Dynamic Bond ETF
 DYNC - Dynamix Corporation - Class A Ordinary Share
 DYNCU - Dynamix Corporation - Unit
+DYNCW - Dynamix Corporation - Warrant
 DYNF - iShares U.S. Equity Factor Rotation Active ETF
 DYOR - Insight Digital Partners II - Class A Ordinary Shares
 DYORU - Insight Digital Partners II - Units
@@ -4463,7 +4465,6 @@ GAL - State Street Global Allocation ETF
 GALT - Galectin Therapeutics Inc. - Common Stock
 GALX - VistaShares Space Supercycle ETF
 GAM - General American Investors, Inc. Common Stock
-GAMB - Gambling.com Group Limited - Ordinary Shares
 GAME - GameSquare Holdings, Inc. - Common stock
 GAMR - Amplify Video Game Leaders ETF
 GANX - Gain Therapeutics, Inc. - Common Stock
@@ -5003,6 +5004,7 @@ HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
 HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
+HAVAR - Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares
 HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWK - HawkEye 360, Inc. Common Stock
 HAWX - iShares Currency Hedged MSCI ACWI ex U.S. ETF
@@ -5302,8 +5304,10 @@ HWBK - Hawthorn Bancshares, Inc. - Common Stock
 HWC - Hancock Whitney Corporation - Common Stock
 HWCPZ - Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060
 HWH - HWH International Inc. - Common Stock
+HWIV - Hotchkis & Wiley International Value Fund
 HWKN - Hawkins, Inc. - Common Stock
 HWM - Howmet Aerospace Inc. Common Stock
+HWO - Hotchkis & Wiley Opportunities Fund
 HWSM - Hotchkis & Wiley SMID Cap Diversified Value Fund
 HXHX - Haoxin Holdings Limited - Class A Ordinary Shares
 HXL - Hexcel Corporation Common Stock
@@ -6887,9 +6891,6 @@ MAYZ - TrueShares Structured Outcome (May) ETF
 MAZE - Maze Therapeutics, Inc. - Common Stock
 MB - MasterBeef Group - Ordinary Shares
 MBAI - Check-Cap Ltd. - Ordinary Share
-MBAV - M3-Brigade Acquisition V Corp. - Class A Ordinary shares
-MBAVU - M3-Brigade Acquisition V Corp. - Units
-MBAVW - M3-Brigade Acquisition V Corp. - Warrant
 MBB - iShares MBS ETF
 MBBA - iShares Mortgage-Backed Securities Active ETF
 MBBB - VanEck Moody's Analytics BBB Corporate Bond ETF
@@ -6986,6 +6987,7 @@ MEC - Mayville Engineering Company, Inc. Common Stock
 MED - MEDIFAST INC Common Stock
 MEDI - Harbor Health Care ETF
 MEDP - Medpace Holdings, Inc. - Common Stock
+MEDS - DataMeds AI, Inc. - Common Stock
 MEDX - Horizon Kinetics Medical ETF
 MEGI - NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares
 MEGL - Magic Empire Global Limited - Class A Ordinary Shares
@@ -7417,7 +7419,6 @@ MVPA - Miller Value Partners Appreciation ETF
 MVPL - Miller Value Partners Leverage ETF
 MVRL - ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN
 MVST - Microvast Holdings, Inc. - Common Stock
-MVSTW - Microvast Holdings, Inc. - Warrant
 MVV - ProShares Ultra MidCap400
 MWA - MUELLER WATER PRODUCTS Common Stock
 MWC - Micware Co., Ltd. - American Depositary Shares
@@ -8068,7 +8069,6 @@ OILT - Texas Capital Texas Oil Index ETF
 OILU - MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN
 OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
-OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
 OIS - Oil States International, Inc. Common Stock
 OKE - ONEOK, Inc. Common Stock
@@ -8911,6 +8911,7 @@ PVL - Permianville Royalty Trust Units of Beneficial Interest
 PVLA - Palvella Therapeutics, Inc. - Common Stock
 PW - Power REIT (MD) Common Stock
 PWB - Invesco Large Cap Growth ETF
+PWCM - PowerCompute, Inc. - Common Stock
 PWER - Nomura Energy Transition ETF
 PWP - Perella Weinberg Partners - Class A Common Stock
 PWR - Quanta Services, Inc. Common Stock
@@ -9757,6 +9758,7 @@ SCOR - comScore, Inc. - Common Stock
 SCOW - Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
 SCPQ - Social Commerce Partners Corporation - Class A Ordinary Shares
 SCPQU - Social Commerce Partners Corporation - Unit
+SCPQW - Social Commerce Partners Corporation - Warrant
 SCSB - Sterling Capital Short Duration Bond ETF
 SCSC - ScanSource, Inc. - Common Stock
 SCUB - Sterling Capital Ultra Short Bond ETF
@@ -9883,7 +9885,6 @@ SGMT - Sagimet Biosciences Inc. - Series A Common Stock
 SGOL - abrdn Physical Gold Shares ETF
 SGOV - iShares 0-3 Month Treasury Bond ETF
 SGP - SpyGlass Pharma, Inc. - Common Stock
-SGRP - SPAR Group, Inc. - Common Stock
 SGRT - SMART Earnings Growth 30 ETF
 SGRW - Harbor Active Small Cap Growth ETF
 SGRY - Surgery Partners, Inc. - Common Stock
