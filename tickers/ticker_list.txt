@@ -46,6 +46,7 @@ AAPY - Kurv Yield Premium Strategy Apple (AAPL) ETF
 AARD - Aardvark Therapeutics, Inc. - Common Stock
 AAT - American Assets Trust, Inc. Common Stock
 AAUA - Alpha Architect US Equity 3 ETF
+AAUB - Alpha Architect US Equity 4 ETF
 AAUC - Allied Gold Corporation Common Shares
 AAUS - Alpha Architect US Equity ETF
 AAVM - Alpha Architect Global Factor Equity ETF
@@ -181,7 +182,6 @@ ADC - Agree Realty Corporation Common Stock
 ADCT - ADC Therapeutics SA Common Shares
 ADDS - Hedgeye Index Adds ETF
 ADEA - Adeia Inc.  - Common Stock
-ADFI - Anfield Dynamic Fixed Income ETF
 ADGM - Adagio Medical Holdings, Inc - Common Stock
 ADI - Analog Devices, Inc. - Common Stock
 ADIL - Adial Pharmaceuticals, Inc - Common Stock
@@ -454,7 +454,6 @@ ALPX - Alpex Acquisition Corporation - Class A Ordinary Shares
 ALPXR - Alpex Acquisition Corporation - Rights
 ALPXU - Alpex Acquisition Corporation - Units
 ALPXW - Alpex Acquisition Corporation - Warrants
-ALRG - Allspring LT Large Core ETF
 ALRM - Alarm.com Holdings, Inc. - Common Stock
 ALRS - Alerus Financial Corporation - Common Stock
 ALSN - Allison Transmission Holdings, Inc. Common Stock
@@ -1817,6 +1816,7 @@ CAC - Camden National Corporation - Common Stock
 CACC - Credit Acceptance Corporation - Common Stock
 CACI - CACI International, Inc. Class A Common Stock
 CADL - Candel Therapeutics, Inc. - Common Stock
+CAE - CAE Inc - Common Shares
 CAES - Cantor Equity Partners VII, Inc. - Class A Ordinary Shares
 CAF - Morgan Stanley China A Share Fund Inc. Common Stock
 CAFG - Pacer US Small Cap Cash Cows Growth Leaders ETF
@@ -3468,6 +3468,7 @@ EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
+EMISR - Emmis Acquisition Corp. - Rights
 EMJL - Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series
 EMJN - Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series
 EMKT - Lazard Emerging Markets Opportunities ETF
@@ -3573,6 +3574,7 @@ EQL - ALPS Equal Sector Weight ETF
 EQLT - iShares MSCI Emerging Markets Quality Factor ETF
 EQNR - Equinor ASA
 EQPT - EquipmentShare.com Inc - Class A Common Stock
+EQQQ - ProShares Ultra QQQ Equal Weight
 EQR - Equity Residential Common Shares of Beneficial Interest
 EQRR - ProShares Equities for Rising Rates ETF
 EQS - Equus Total Return, Inc. Common Stock
@@ -4832,7 +4834,6 @@ GRC - Gorman-Rupp Company (The) Common Stock
 GRCE - Grace Therapeutics, Inc. - Common Stock
 GRDN - Guardian Pharmacy Services, Inc. Class A Common Stock
 GRDX - GridAI Technologies Corp.  - Common Stock
-GREE - Vulcan Infrastructure and Power Inc. - Class A Common Stock
 GREEL - Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026
 GREK - Global X MSCI Greece ETF
 GRF - Eagle Capital Growth Fund, Inc. Common Stock
@@ -4861,6 +4862,7 @@ GRPN - Groupon, Inc. - Common Stock
 GRPZ - Invesco S&P SmallCap 600 GARP ETF
 GRRR - Gorilla Technology Group Inc. - Ordinary shares
 GRRRW - Gorilla Technology Group Inc. - Warrant
+GRSD - Grandstand Limited - Ordinary Shares
 GRVY - GRAVITY Co., Ltd. - American depositary shares, each representing one common share.
 GRW - TCW Durable Growth ETF
 GRWG - GrowGeneration Corp. - Common Stock
@@ -7647,7 +7649,6 @@ NHICU - NewHold Investment Corp III - Units
 NHICW - NewHold Investment Corp III - Warrants
 NHIV - NewHold Investment Corp IV - Class A Ordinary Shares
 NHIVU - NewHold Investment Corp IV - Units
-NHIVW - NewHold Investment Corp IV - Warrants
 NHP - National Healthcare Properties, Inc. - Class A Common Stock
 NHPAP - National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock
 NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
@@ -7919,7 +7920,6 @@ NVT - nVent Electric plc Ordinary Shares
 NVTC - Corgi NVTS 2x Daily ETF
 NVTS - Navitas Semiconductor Corporation - Common Stock
 NVTX - Tradr 2X Long NVTS Daily ETF
-NVVE - Nuvve Holding Corp. - Common Stock
 NVX - NOVONIX Limited - American Depository Shares
 NVYY - GraniteShares YieldBOOST NVDA ETF
 NWAX - New America Acquisition I Corp. Class A Common Stock
@@ -8663,6 +8663,7 @@ PMO - Franklin Municipal Opportunities Trust Shares of Beneficial Interest
 PMOC - PGIM S&P 500 Max Buffer ETF - October
 PMSE - PGIM S&P 500 Max Buffer ETF - September
 PMT - PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest
+PMTL - First Trust Indxx Quality Precious Metals Miners ETF
 PMTR - Perimeter Acquisition Corp. I - Class A Ordinary Shares
 PMTRU - Perimeter Acquisition Corp. I - Unit
 PMTRW - Perimeter Acquisition Corp. I - Warrant
@@ -9161,6 +9162,7 @@ RAIN - Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock
 RAINW - Rain Enhancement Technologies Holdco, Inc. - Warrants
 RAL - Ralliant Corporation Common Stock
 RAM - Roundhill T-REX 2X Long DRAM Daily Target ETF
+RAML - Leverage Shares 2X Long Memory Daily ETF
 RAMP - LiveRamp Holdings, Inc. Common Stock
 RAND - Rand Capital Corporation - Closed End Fund
 RANG - Range Capital Acquisition Corp. - Ordinary Shares
@@ -9341,6 +9343,7 @@ RHP - Ryman Hospitality Properties, Inc. (REIT)
 RHRX - RH Tactical Rotation ETF
 RHTX - RH Tactical Outlook ETF
 RIBB - Ribbon Acquisition Corp - Class A Ordinary Shares
+RIBBR - Ribbon Acquisition Corp - Rights
 RIBBU - Ribbon Acquisition Corp - Unit
 RICK - RCI Hospitality Holdings, Inc. - Common Stock
 RIET - Hoya Capital High Dividend Yield ETF
@@ -10260,6 +10263,7 @@ SPDV - AAM S&P 500 High Dividend Value ETF
 SPDW - State Street SPDR Portfolio Developed World ex-US ETF
 SPE - Special Opportunities Fund, Inc Common Stock
 SPEG - Silver Pegasus Acquisition Corp - Class A Ordinary Shares
+SPEGR - Silver Pegasus Acquisition Corp - Rights
 SPEGU - Silver Pegasus Acquisition Corp - Unit
 SPEM - State Street SPDR Portfolio Emerging Markets ETF
 SPEU - State Street SPDR Portfolio Europe ETF
@@ -10902,7 +10906,6 @@ TMFS - Motley Fool Small-Cap Growth ETF
 TMFX - Motley Fool Next Index ETF
 TMGN - TappAlpha Cboe Magnificent 10 Growth & Daily Income ETF
 TMH - Toyota Motor Corporation ADRhedged
-TMHC - Taylor Morrison Home Corporation Common Stock
 TMLP - Tortoise MLP ETF
 TMNL - T. Rowe Price Long Municipal Income ETF
 TMNS - T. Rowe Price Short Municipal Income ETF
@@ -11174,7 +11177,6 @@ TWI - Titan International, Inc. (DE) Common Stock
 TWIN - Twin Disc, Incorporated - Common Stock
 TWLO - Twilio Inc. Class A Common Stock
 TWLV - Twelve Seas Investment Company III - Class A Ordinary Shares
-TWLVR - Twelve Seas Investment Company III - Rights
 TWLVU - Twelve Seas Investment Company III - Units
 TWM - ProShares UltraShort Russell2000
 TWN - Taiwan Fund, Inc. (The) Common Stock
@@ -11636,6 +11638,9 @@ VLGEA - Village Super Market, Inc. - Class A Common Stock
 VLLU - Harbor AlphaEdge Large Cap Value ETF
 VLN - Valens Semiconductor Ltd. Ordinary Shares
 VLO - Valero Energy Corporation Common Stock
+VLOS - Velos Acquisition I Corp. - Class A Ordinary shares
+VLOSU - Velos Acquisition I Corp. - Units
+VLOSW - Velos Acquisition I Corp. - Warrant
 VLRS - Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates
 VLT - Invesco High Income Trust II
 VLTO - Veralto Corp Common Stock 
