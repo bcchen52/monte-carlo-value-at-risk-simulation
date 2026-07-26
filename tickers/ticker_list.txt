@@ -548,7 +548,6 @@ AMX - America Movil, S.A.B. de C.V. American Depositary Shares (each representin
 AMYY - GraniteShares YieldBOOST AMD ETF
 AMZA - InfraCap MLP ETF
 AMZD - Direxion Daily AMZN Bear 1X ETF
-AMZE - Amaze Holdings, Inc. Common Stock
 AMZG - Leverage Shares 2X Long AMZN Daily ETF
 AMZN - Amazon.com, Inc. - Common Stock
 AMZO - Tradr 2X Short AMZN Daily ETF
@@ -9669,7 +9668,6 @@ SBC - SBC Medical Group Holdings Incorporated - Common Stock
 SBCF - Seacoast Banking Corporation of Florida - Common Stock
 SBCWW - SBC Medical Group Holdings Incorporated - Warrants
 SBET - Sharplink, Inc. - Common Stock
-SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
 SBFMW - Sunshine Biopharma Inc. - Warrant
