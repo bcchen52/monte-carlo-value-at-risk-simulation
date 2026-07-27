@@ -930,7 +930,6 @@ AVMC - Avantis U.S. Mid Cap Equity ETF
 AVMU - Avantis Core Municipal Fixed Income ETF
 AVMV - Avantis U.S. Mid Cap Value ETF
 AVNM - Avantis All International Markets Equity ETF
-AVNS - Avanos Medical, Inc. Common Stock
 AVNT - Avient Corporation Common Stock
 AVNV - Avantis All International Markets Value ETF
 AVNW - Aviat Networks, Inc. - Common Stock
@@ -2495,7 +2494,6 @@ CRDT - Simplify Opportunistic Income ETF
 CRDU - Tradr 2X Long CRDO Daily ETF
 CRDX - 2x Cardano ETF
 CRE - Cre8 Enterprise Limited - Class A Ordinary Shares
-CRED - Columbia Research Enhanced Real Estate ETF
 CRESY - Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock
 CREX - Creative Realities, Inc. - Common Stock
 CRF - Cornerstone Total Return Fund, Inc. (The) Common Stock
@@ -3483,7 +3481,6 @@ EMOT - First Trust S&P 500 Economic Moat ETF
 EMP - Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066
 EMPB - Efficient Market Portfolio Plus ETF
 EMPD - Empery Digital Inc. - Common stock
-EMPG - Empro Group Inc. - Ordinary shares
 EMQQ - EMQQ The Emerging Markets Internet ETF
 EMR - Emerson Electric Company Common Stock
 EMSC - Sophus Capital Emerging Market Small Cap ETF
@@ -4821,7 +4818,6 @@ GQQQ - Astoria US Quality Growth Kings ETF
 GQRE - FlexShares Global Quality Real Estate Index Fund
 GRAB - Grab Holdings Limited - Class A Ordinary Shares
 GRABW - Grab Holdings Limited - Warrant
-GRAF - Graf Global Corp. Class A ordinary shares
 GRAG - Leverage Shares 2X Long GRAB Daily ETF
 GRAL - GRAIL, Inc. - Common Stock
 GRAN - Grande Group Limited - Class A Ordinary Shares
@@ -6827,7 +6823,7 @@ MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
 MACIW - Melar Acquisition Corp. I - Warrant
 MADE - iShares U.S. Manufacturing ETF
-MAGA - Point Bridge America First ETF
+MAGA - Truth Social America First ETF
 MAGC - Roundhill China Magnificent Seven ETF
 MAGG - Madison Aggregate Bond ETF
 MAGH - Magnitude International Ltd - Ordinary Shares
@@ -7409,7 +7405,6 @@ MVFD - Monarch Volume Factor Dividend Tree Index ETF
 MVFG - Monarch Volume Factor Global Unconstrained Index ETF
 MVIS - MicroVision, Inc. - Common Stock
 MVLL - GraniteShares 2x Long MRVL Daily ETF
-MVO - MV Oil Trust Units of Beneficial Interests
 MVPA - Miller Value Partners Appreciation ETF
 MVPL - Miller Value Partners Leverage ETF
 MVRL - ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN
@@ -8961,7 +8956,6 @@ QBQF - AllianzIM Growth-100 Buffer15 ETF
 QBQV - AllianzIM Growth-100 Buffer5 ETF
 QBSF - AllianzIM U.S. Equity Buffer15 ETF
 QBSV - AllianzIM U.S Equity Buffer5 ETF
-QBTS - D-Wave Quantum Inc. Common Shares
 QBTX - Tradr 2X Long QBTS Daily ETF
 QBTZ - Defiance Daily Target 2x Short QBTS ETF
 QBUF - Innovator Nasdaq-100 10 Buffer ETF Quarterly
@@ -11012,9 +11006,7 @@ TRGSR - TRG Latin America Acquisitions Corp. - Rights
 TRGSU - TRG Latin America Acquisitions Corp. - Units
 TRI - Thomson Reuters Corp - Common Shares
 TRIB - Trinity Biotech plc - American Depositary Shares
-TRIN - Trinity Capital Inc. - Common Stock
-TRINI - Trinity Capital Inc. - 7.875% Notes Due 2029
-TRINZ - Trinity Capital Inc. - 7.875% Notes due 2029
+TRIN - Trinity Capital Inc. Common Stock
 TRIO - MC Trio Equity Buffered ETF
 TRIP - TripAdvisor, Inc. - Common Stock
 TRLV - Trulieve Cannabis Corp. Subordinate Voting Shares
@@ -11741,7 +11733,6 @@ VSNT - Versant Media Group, Inc. - Class A Common Stock
 VSOL - VanEck Solana ETF
 VSS - Vanguard FTSE All-Wld ex-US SmCp Idx ETF
 VST - Vistra Corp. Common Stock
-VSTD - Vestand Inc.  - Class A Common Stock
 VSTL - Defiance Daily Target 2X Long VST ETF
 VSTM - Verastem, Inc. - Common Stock
 VSTS - Vestis Corporation Common Stock
