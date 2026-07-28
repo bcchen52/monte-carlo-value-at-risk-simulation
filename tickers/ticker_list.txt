@@ -548,6 +548,7 @@ AMX - America Movil, S.A.B. de C.V. American Depositary Shares (each representin
 AMYY - GraniteShares YieldBOOST AMD ETF
 AMZA - InfraCap MLP ETF
 AMZD - Direxion Daily AMZN Bear 1X ETF
+AMZE - Amaze Holdings, Inc. Common Stock
 AMZG - Leverage Shares 2X Long AMZN Daily ETF
 AMZN - Amazon.com, Inc. - Common Stock
 AMZO - Tradr 2X Short AMZN Daily ETF
@@ -1016,6 +1017,7 @@ BAER - Bridger Aerospace Group Holdings, Inc. - Common Stock
 BAERW - Bridger Aerospace Group Holdings, Inc. - Warrant
 BAFE - Brown Advisory Flexible Equity ETF
 BAFN - BayFirst Financial Corp. - Common Stock
+BAGX - EA Bridgeway Aggressive Investors ETF
 BAGY - Amplify Bitcoin Max Income Covered Call ETF
 BAH - Booz Allen Hamilton Holding Corporation Common Stock
 BAI - iShares A.I. Innovation and Tech Active ETF
@@ -1602,6 +1604,7 @@ BRRWW - ProCap Financial, Inc. - Warrant.
 BRSL - Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares
 BRSM - MFS Blended Research Small-Mid Cap ETF
 BRSP - BrightSpire Capital, Inc. Class A Common Stock
+BRSV - EA Bridgeway Select Small-Cap Value ETF
 BRT - BRT Apartments Corp. (MD) Common Stock
 BRTMU - B&R Technology Merger Corp. - Units
 BRTR - iShares Total Return Active ETF
@@ -1743,6 +1746,7 @@ BURL - Burlington Stores, Inc. Common Stock
 BUSA - Brandes U.S. Value ETF
 BUSE - First Busey Corporation - Common Stock
 BUSEP - First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value
+BUSM - EA Bridgeway Ultra-Small Company Market ETF
 BUUU - BUUU Group Limited - Class A Ordinary Share
 BUXX - Strive Enhanced Income Short Maturity ETF
 BUYB - ProShares S&P 500 Buyback Aristocrats ETF
@@ -1954,9 +1958,6 @@ CCIF - Carlyle Credit Income Fund Shares of Beneficial Interest
 CCII - Cohen Circle Acquisition Corp. II - Class A Ordinary Shares
 CCIIU - Cohen Circle Acquisition Corp. II - Unit
 CCIIW - Cohen Circle Acquisition Corp. II - Warrant
-CCIX - Churchill Capital Corp IX - Ordinary Shares
-CCIXU - Churchill Capital Corp IX - Unit
-CCIXW - Churchill Capital Corp IX - Warrant
 CCJ - Cameco Corporation Common Stock
 CCK - Crown Holdings, Inc.
 CCL - Carnival Corporation Ltd. Common Shares
@@ -4363,6 +4364,7 @@ FTNY - Franklin New York Municipal Income ETF
 FTOH - Franklin Ohio Municipal Income ETF
 FTPA - Franklin Pennsylvania Municipal Income ETF
 FTQI - First Trust Nasdaq BuyWrite Income ETF
+FTRA - FutureCorp Space Acquisition 1 Class A Ordinary Shares
 FTRB - Federated Hermes Total Return Bond ETF
 FTRE - Fortrea Holdings Inc. - Common Stock
 FTRI - First Trust Indxx Global Natural Resources Income ETF
@@ -5232,6 +5234,7 @@ HSAI - Hesai Group - American Depositary Share
 HSBC - HSBC Holdings, plc. Common Stock
 HSBH - HSBC Holdings plc ADRhedged
 HSCS - HeartSciences Inc. - Common Stock
+HSCSW - HeartSciences Inc. - Warrant
 HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
@@ -5782,6 +5785,7 @@ IPO - Renaissance IPO ETF
 IPOS - Renaissance Capital Greenwich Fund
 IPSC - Century Therapeutics, Inc. - Common Stock
 IPST - IP Strategy Holdings, Inc. - Common Stock
+IPVV - InterPrivate Investment Partners V, Inc. - Class A Ordinary Shares
 IPVVU - InterPrivate Investment Partners V, Inc. - Units
 IPW - iPower Inc. - Common Stock
 IPWR - Ideal Power Inc. - Common Stock
@@ -6256,6 +6260,7 @@ KEYS - Keysight Technologies Inc. Common Stock
 KEYX - Corgi KEYS 2x Daily ETF
 KEYY - Keystone Acquisition Corp. - Class A Ordinary Shares
 KEYYU - Keystone Acquisition Corp. - Unit
+KEYYW - Keystone Acquisition Corp. - Warrants
 KF - Korea Fund, Inc. (The) New Common Stock
 KFEB - Innovator U.S. Small Cap Power Buffer ETF - February
 KFFB - Kentucky First Federal Bancorp - Common Stock
@@ -6756,7 +6761,9 @@ LTAX - Nomura Tax-Free USA ETF
 LTBR - Lightbridge Corporation - Common Stock
 LTC - LTC Properties, Inc. Common Stock
 LTCC - Canary Litecoin ETF
+LTGR - Long Table Growth Corp. - Class A Ordinary Shares
 LTGRU - Long Table Growth Corp. - Units
+LTGRW - Long Table Growth Corp. - Warrants
 LTH - Life Time Group Holdings, Inc. Common Stock
 LTL - ProShares Ultra Communication Services
 LTM - LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)
@@ -7827,6 +7834,7 @@ NTSX - WisdomTree U.S. Efficient Core Fund
 NTWK - NETSOL Technologies Inc. - Common Stock
 NTWO - Newbury Street II Acquisition Corp - Class A Ordinary Shares
 NTWOU - Newbury Street II Acquisition Corp - Unit
+NTWOW - Newbury Street II Acquisition Corp - Warrant
 NTZ - Natuzzi, S.p.A.
 NU - Nu Holdings Ltd. Class A Ordinary Shares
 NUAG - Nuveen Enhanced Yield U.S. Aggregate Bond ETF
@@ -8956,6 +8964,7 @@ QBQF - AllianzIM Growth-100 Buffer15 ETF
 QBQV - AllianzIM Growth-100 Buffer5 ETF
 QBSF - AllianzIM U.S. Equity Buffer15 ETF
 QBSV - AllianzIM U.S Equity Buffer5 ETF
+QBTS - D-Wave Quantum Inc. - Common Stock
 QBTX - Tradr 2X Long QBTS Daily ETF
 QBTZ - Defiance Daily Target 2x Short QBTS ETF
 QBUF - Innovator Nasdaq-100 10 Buffer ETF Quarterly
@@ -9402,7 +9411,6 @@ RMCOW - Royalty Management Holding Corporation - Warrant
 RMD - ResMed Inc. Common Stock
 RMHY - Global X Adaptive Risk Managed Yield ETF
 RMI - RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock
-RMIF - LHA Risk-Managed Income ETF
 RMIX - Suncrete, Inc. - Class A Common Stock
 RMM - RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock
 RMME - Rareview Government Money Market ETF
@@ -9523,7 +9531,6 @@ RSST - Return Stacked U.S. Stocks & Managed Futures ETF
 RSSX - Return Stacked U.S. Stocks & Gold/Bitcoin ETF
 RSSY - Return Stacked U.S. Stocks & Futures Yield ETF
 RSVR - Reservoir Media, Inc.. - Common Stock
-RSVRW - Reservoir Media, Inc.. - Warrant
 RTAC - Renatus Tactical Acquisition Corp I - Class A Ordinary Shares
 RTACU - Renatus Tactical Acquisition Corp I - Unit
 RTACW - Renatus Tactical Acquisition Corp I - Warrant
@@ -9662,6 +9669,7 @@ SBC - SBC Medical Group Holdings Incorporated - Common Stock
 SBCF - Seacoast Banking Corporation of Florida - Common Stock
 SBCWW - SBC Medical Group Holdings Incorporated - Warrants
 SBET - Sharplink, Inc. - Common Stock
+SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
 SBFMW - Sunshine Biopharma Inc. - Warrant
@@ -10379,6 +10387,7 @@ SRV - NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest
 SRVR - Pacer Data & Infrastructure Real Estate ETF
 SRXH - SRX Global Inc. Common Stock
 SRZN - Surrozen, Inc. - Common Stock
+SRZNW - Surrozen, Inc. - Warrant
 SSAC - SPACSphere Acquisition Corp. - Class A Ordinary Shares
 SSACR - SPACSphere Acquisition Corp. - Rights
 SSACU - SPACSphere Acquisition Corp. - Unit
@@ -10419,7 +10428,7 @@ STBA - S&T Bancorp, Inc. - Common Stock
 STBF - Performance Trust Short Term Bond ETF
 STBQ - Amplify Stablecoin Technology Leaders ETF
 STC - Stewart Information Services Corporation Common Stock
-STCE - Schwab Crypto Thematic ETF
+STCE - Schwab Crypto Thematic Natural Language Processing ETF
 STDN - Standard Nuclear, Inc. Class A Common Stock
 STE - STERIS plc (Ireland) Ordinary Shares
 STEM - Stem, Inc. Class A Common Stock
@@ -10939,6 +10948,7 @@ TOL - Toll Brothers, Inc. Common Stock
 TOLL - Tema Monopolies and Oligopolies ETF
 TOLZ - ProShares DJ Brookfield Global Infrastructure ETF
 TOMZ - TOMI Environmental Solutions, Inc. - Common Stock
+TONT - Graf Global Corp. Class A ordinary shares
 TONX - TON Strategy Company - Common Stock
 TOON - Kartoon Studios, Inc. Common Stock
 TOP - TOP Financial Group Limited - Class A Ordinary Shares
@@ -11015,9 +11025,11 @@ TRMD - TORM plc - Class A Common Stock
 TRMK - Trustmark Corporation - Common Stock
 TRN - Trinity Industries, Inc. Common Stock
 TRND - Pacer Trendpilot Fund of Funds ETF
+TRNI - Trinity Capital Inc. 7.875% Notes Due 2029
 TRNO - Terreno Realty Corporation Common Stock
 TRNR - Interactive Strength Inc. - Common Stock
 TRNS - Transcat, Inc. - Common Stock
+TRNZ - Trinity Capital Inc. 7.875% Notes due 2029
 TRON - Tron Inc. - Common Stock
 TROO - TROOPS, Inc.  - Ordinary Shares
 TROT - Invesco MSCI Treasury Duration Rotation ETF
@@ -11790,7 +11802,6 @@ VYGR - Voyager Therapeutics, Inc. - Common Stock
 VYLD - Inverse VIX Short-Term Futures ETNs due March 22, 2045
 VYM - Vanguard High Dividend Yield ETF
 VYMI - Vanguard International High Dividend Yield ETF
-VYNE - VYNE Therapeutics Inc. - Common Stock
 VYX - NCR Voyix Corporation Common Stock
 VZ - Verizon Communications Inc. Common Stock
 VZLA - Vizsla Silver Corp. Common Shares
