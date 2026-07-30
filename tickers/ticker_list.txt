@@ -207,7 +207,6 @@ ADX - Adams Diversified Equity Fund Inc.
 ADXN - Addex Therapeutics Ltd - American Depositary Shares
 AEAQ - Activate Energy Acquisition Corp. - Class A Ordinary Share
 AEAQU - Activate Energy Acquisition Corp. - Unit
-AEAQW - Activate Energy Acquisition Corp. - Warrant
 AEBI - Aebi Schmidt Holding AG - Common Stock
 AEC - Anfield Energy Inc. - Common Shares
 AEE - Ameren Corporation Common Stock
@@ -691,7 +690,6 @@ ARCIW - Archimedes Tech SPAC Partners III Co. - Warrant
 ARCL - ARC Group Acquisition I Corp - Class A Ordinary Shares
 ARCLR - ARC Group Acquisition I Corp - Right
 ARCLU - ARC Group Acquisition I Corp - Unit
-ARCLW - ARC Group Acquisition I Corp - Warrants
 ARCM - Arrow Reserve Capital Management ETF
 ARCO - Arcos Dorados Holdings Inc. Class A Shares
 ARCT - Arcturus Therapeutics Holdings Inc. - Common Stock
@@ -1173,6 +1171,7 @@ BDIV - AAM Brentview Dividend Growth ETF
 BDJ - Blackrock Enhanced Equity Dividend Trust
 BDL - Flanigan's Enterprises, Inc. Common Stock
 BDMD - Baird Medical Investment Holdings Ltd - Ordinary Share
+BDMDW - Baird Medical Investment Holdings Ltd - Warrant
 BDN - Brandywine Realty Trust Common Stock
 BDRX - Biodexa Pharmaceuticals plc - American Depositary Shares
 BDRY - Breakwave Dry Bulk Shipping ETF
@@ -1472,6 +1471,7 @@ BMY - Bristol-Myers Squibb Company Common Stock
 BN - Brookfield Corporation Class A Limited Voting Shares
 BNAI - Brand Engagement Network Inc. - Common Stock
 BNAIW - Brand Engagement Network Inc. - Warrant
+BNAV - Amplify Fairlead Tactical Bitcoin ETF
 BNC - CEA Industries Inc. - Common Stock
 BNCWW - CEA Industries Inc. - Warrant
 BNCWZ - CEA Industries Inc. - Warrants
@@ -2466,6 +2466,7 @@ CR - Crane Company Common Stock
 CRAC - Crown Reserve Acquisition Corp. I - Class A Ordinary Shares
 CRACR - Crown Reserve Acquisition Corp. I - Rights
 CRACU - Crown Reserve Acquisition Corp. I - Unit
+CRACW - Crown Reserve Acquisition Corp. I - Warrant
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAN - Crane Harbor Acquisition Corp. II - Class A Ordinary Shares
@@ -4579,6 +4580,7 @@ GEVX - Tradr 2X Long GEV Daily ETF
 GEW - Cambria Global EW ETF
 GF - New Germany Fund, Inc. (The) Common Stock
 GFAI - Guardforce AI Co., Limited - Ordinary Shares
+GFAIW - Guardforce AI Co., Limited - Warrant
 GFEB - FT Vest U.S. Equity Moderate Buffer ETF - February
 GFF - Griffon Corporation Common Stock
 GFGF - Guru Favorite Stocks ETF
@@ -4758,6 +4760,7 @@ GOEX - Global X Gold Explorers ETF
 GOF - Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest
 GOGL - Corgi GOOGL 2x Daily ETF
 GOGO - Gogo Inc. - Common Stock
+GOIB - Direxion GOOGL Defined Income Boost ETF
 GOLD - Gold.com, Inc. Common Stock
 GOLF - Acushnet Holdings Corp. Common Stock
 GOLI - Defiance Gold Enhanced Options Income ETF
@@ -5351,6 +5354,7 @@ IACOU - Idea Acquisition Corp. - Units
 IACOW - Idea Acquisition Corp. - Warrants
 IACQ - Irenic Acquisition Corp. - Class A Ordinary Shares
 IACQU - Irenic Acquisition Corp. - Unit
+IACQW - Irenic Acquisition Corp. - Warrants
 IAE - Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IAF - abrdn Australia Equity Fund, Inc. Common Stock
 IAG - Iamgold Corporation Ordinary Shares
@@ -5457,6 +5461,7 @@ ICE - Intercontinental Exchange Inc. Common Stock
 ICF - iShares Select U.S. REIT ETF
 ICFI - ICF International, Inc. - Common Stock
 ICG - Intchains Group Limited - American Depositary Shares
+ICHR - Ichor Holdings - Ordinary Shares
 ICL - ICL Group Ltd. Ordinary Shares
 ICLN - iShares Global Clean Energy ETF
 ICLO - Invesco AAA CLO Floating Rate Note ETF
@@ -5618,6 +5623,7 @@ IMA - ImageneBio, Inc. - Common Stock
 IMAR - Innovator International Developed Power Buffer ETF  March
 IMAX - Imax Corporation Common Stock
 IMAY - Innovator International Developed Power Buffer ETF - May
+IMC - IMC Rare Earths Ltd Ordinary Shares
 IMCB - iShares Morningstar Mid-Cap ETF
 IMCC - IM Cannabis Corp. - Common Shares
 IMCG - iShares Morningstar Mid-Cap Growth ETF
@@ -5784,6 +5790,7 @@ IPSC - Century Therapeutics, Inc. - Common Stock
 IPST - IP Strategy Holdings, Inc. - Common Stock
 IPVV - InterPrivate Investment Partners V, Inc. - Class A Ordinary Shares
 IPVVU - InterPrivate Investment Partners V, Inc. - Units
+IPVVW - InterPrivate Investment Partners V, Inc. - Warrants
 IPW - iPower Inc. - Common Stock
 IPWR - Ideal Power Inc. - Common Stock
 IPX - IperionX Limited - American Depositary Share
@@ -5876,7 +5883,6 @@ ITG - ITG, Inc. - Class A Common Stock
 ITGR - Integer Holdings Corporation Common Stock
 ITHA - ITHAX Acquisition Corp III - Class A Ordinary Shares
 ITHAU - ITHAX Acquisition Corp III - Units
-ITHAW - ITHAX Acquisition Corp III - Warrants
 ITIC - Investors Title Company - Common Stock
 ITM - VanEck Intermediate Muni ETF
 ITOC - iTonic Holdings Ltd - Class A Ordinary Shares
@@ -6702,7 +6708,6 @@ LPBBW - Launch Two Acquisition Corp. - Warrant
 LPCN - Lipocine Inc. - Common Stock
 LPCV - Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
 LPCVU - Launchpad Cadenza Acquisition Corp I - Unit
-LPCVW - Launchpad Cadenza Acquisition Corp I - Warrant
 LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
@@ -7465,7 +7470,6 @@ MYSE - Myseum.AI, Inc. - Common Stock
 MYSEW - Myseum.AI, Inc. - Series A Warrant
 MYSZ - My Size, Inc. - Common Stock
 MYX - Maywood Acquisition Corp. 2 - Class A Ordinary Share
-MYXXR - Maywood Acquisition Corp. 2 - Rights
 MYXXU - Maywood Acquisition Corp. 2 - Units
 MYXXW - Maywood Acquisition Corp. 2 - Warrants
 MYY - ProShares Short MidCap400
@@ -8273,7 +8277,6 @@ PAA - Plains All American Pipeline, L.P. - Common Units representing Limited Par
 PAAA - PGIM AAA CLO ETF
 PAAC - Proem Acquisition Corp I - Ordinary Shares
 PAACU - Proem Acquisition Corp I - Units
-PAACW - Proem Acquisition Corp I - Warrants
 PAAS - Pan American Silver Corp. Common Stock
 PAB - PGIM Active Aggregate Bond ETF
 PABD - iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF
@@ -11161,8 +11164,8 @@ TVAIU - Thayer Ventures Acquisition Corporation II - Unit
 TVAL - T. Rowe Price Value ETF
 TVC - Tennessee Valley Authority Common Stock
 TVE - Tennessee Valley Authority
-TVGN - Tevogen Bio Holdings Inc. - Common Stock
-TVGNW - Tevogen Bio Holdings Inc. - Warrant
+TVGN - Tevogen Inc. - Common Stock
+TVGNW - Tevogen Inc. - Warrant
 TVIV - Texas Ventures Acquisition IV Corp - Class A Ordinary Shares
 TVIVU - Texas Ventures Acquisition IV Corp - Units
 TVIVW - Texas Ventures Acquisition IV Corp - Warrant
@@ -11992,6 +11995,7 @@ WSFS - WSFS Financial Corporation - Common Stock
 WSGE - Warren Street Global Equity ETF
 WSHP - WeShop Holdings Limited - Class A Ordinary Shares
 WSM - Williams-Sonoma, Inc. Common Stock (DE)
+WSMD - Wasatch Small/Mid Cap ETF
 WSML - iShares MSCI World Small-Cap ETF
 WSO - Watsco, Inc. Common Stock
 WSPC - WisdomTree Space Economy Fund
@@ -12242,7 +12246,6 @@ XSHP - Kurv SpaceX Enhanced Income ETF
 XSHQ - Invesco S&P SmallCap Quality ETF
 XSLL - Xsolla SPAC 1 - Class A Ordinary Shares
 XSLLU - Xsolla SPAC 1 - Units
-XSLLW - Xsolla SPAC 1 - Warrants
 XSLV - Invesco S&P SmallCap Low Volatility ETF
 XSMO - Invesco S&P SmallCap Momentum ETF
 XSOE - WisdomTree Emerging Markets Ex-State Owned Enterprises Fund
