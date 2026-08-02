@@ -8656,7 +8656,6 @@ PMCB - PharmaCyte  Biotech, Inc. - Common Stock
 PMDE - PGIM S&P 500 Max Buffer ETF - December
 PMEC - Primech Holdings Ltd. - Ordinary Shares
 PMFB - PGIM S&P 500 Max Buffer ETF - February
-PMI - Picard Medical, Inc. Common Stock
 PMIO - PGIM Municipal Income Opportunities ETF
 PMJA - PGIM S&P 500 Max Buffer ETF - January
 PMJL - PGIM S&P 500 Max Buffer ETF - July
