@@ -241,7 +241,6 @@ AEVA - Aeva Technologies, Inc. - Common Stock
 AEXA - American Exceptionalism Acquisition Corp. A Class A Ordinary Shares
 AEYE - AudioEye, Inc. - Common Stock
 AFB - AllianceBernstein National Municipal Income Fund Inc
-AFBI - Affinity Bancshares, Inc. - Common Stock
 AFCG - Advanced Flower Capital Inc. - Common Stock
 AFG - American Financial Group, Inc. Common Stock
 AFGB - American Financial Group, Inc. 5.875% Subordinated Debentures due 2059
@@ -3431,7 +3430,6 @@ ELOX - Eloxx Pharmaceuticals, Inc. - Common Stock
 ELPC - Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
 ELPW - Elong Power Holding Limited - Class A Ordinary Shares
 ELS - Equity Lifestyle Properties, Inc. Common Stock
-ELSE - Electro-Sensors, Inc. - Common Stock
 ELTK - Eltek Ltd. - Ordinary Shares
 ELTX - Elicio Therapeutics, Inc. - Common Stock
 ELUT - Elutia, Inc. - Class A Common Stock
@@ -4571,7 +4569,6 @@ GENVR - Gen Digital Inc. - Contingent Value Rights
 GENW - Genter Capital International Dividend ETF
 GENZ - VanEck Digital Native Economy ETF
 GEO - Geo Group Inc (The) REIT
-GEOA - WisdomTree GeoAlpha Opportunities Fund
 GEOS - Geospace Technologies Corporation - Common Stock
 GEQ - Cambria Global EW 2 ETF
 GERN - Geron Corporation - Common Stock
@@ -5470,13 +5467,11 @@ ICLN - iShares Global Clean Energy ETF
 ICLO - Invesco AAA CLO Floating Rate Note ETF
 ICLR - ICON plc - Ordinary Shares
 ICMB - Investcorp Credit Management BDC, Inc. - Common Stock
-ICOI - Bitwise COIN Option Income Strategy ETF
 ICON - Icon Energy Corp. - Common stock
 ICOP - iShares Copper and Metals Mining ETF
 ICOW - Pacer Developed Markets International Cash Cows 100 ETF
 ICPI - iShares 0-1 Year TIPS Bond ETF
 ICPY - Tweedy, Browne International Insider + Value ETF
-ICRC - Bitwise CRCL Option Income Strategy ETF
 ICSH - iShares Ultra Short Duration Bond Active ETF
 ICU - SeaStar Medical Holding Corporation - Common Stock
 ICUCW - SeaStar Medical Holding Corporation - Warrant
@@ -5529,7 +5524,6 @@ IEO - iShares U.S. Oil & Gas Exploration & Production ETF
 IEP - Icahn Enterprises L.P. - Depositary Units representing Limited Partner Interests
 IESC - IES Holdings, Inc. - Common Stock
 IETC - iShares U.S. Tech Independence Focused ETF
-IETH - Bitwise Ethereum Option Income Strategy ETF
 IEUR - iShares Core MSCI Europe ETF
 IEUS - iShares MSCI Europe Small-Cap ETF
 IEV - iShares Europe ETF
@@ -5568,7 +5562,6 @@ IGIC - International General Insurance Holdings Ltd. - Ordinary Shares
 IGLB - iShares 10  Year Investment Grade Corporate Bond ETF
 IGLD - FT Vest Gold Strategy Target Income ETF
 IGM - iShares Expanded Tech Sector ETF
-IGME - Bitwise GME Option Income Strategy ETF
 IGOV - iShares International Treasury Bond ETF
 IGPT - Invesco AI and Next Gen Software ETF
 IGR - CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest
@@ -5646,12 +5639,10 @@ IMOM - Alpha Architect International Quantitative Momentum ETF
 IMOS - ChipMOS TECHNOLOGIES INC. - American Depositary Shares
 IMPP - Imperial Petroleum Inc. - Common Shares
 IMPPP - Imperial Petroleum Inc. - 8.75% Series A Cumulative Redeemable Perpetual Preferred Shares
-IMRA - Bitwise MARA Option Income Strategy ETF
 IMRN - Immuron Limited - American Depositary Shares
 IMRX - Immuneering Corporation - Class A Common Stock
 IMSR - Terrestrial Energy Inc. - Common Stock
 IMSRW - Terrestrial Energy Inc. - Warrant
-IMST - Bitwise MSTR Option Income Strategy ETF
 IMTB - iShares Core 5-10 Year USD Bond ETF
 IMTE - Integrated Media Technology Limited - Ordinary Shares
 IMTG - Invesco Agency MBS ETF
@@ -6259,7 +6250,7 @@ KEEL - Keel Infrastructure Corp. - Common Stock
 KEEX - Defiance Daily Target 2x Long KEEL ETF
 KELYA - Kelly Services, Inc. - Class A Common Stock
 KELYB - Kelly Services, Inc. - Class B Common Stock
-KEMQ - KraneShares Emerging Markets Consumer Technology Index ETF
+KEMQ - KraneShares Public-Private Emerging Markets Internet and Technology ETF
 KEMX - KraneShares MSCI Emerging Markets ex China Index ETF
 KEN - Kenon Holdings Ltd. Ordinary Shares
 KEP - Korea Electric Power Corporation Common Stock
@@ -6429,9 +6420,6 @@ KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
 KURE - KraneShares MSCI All China Health Care Index ETF
 KUST - Kustom Entertainment, Inc. - Common Stock
-KVAC - Keen Vision Acquisition Corporation - Ordinary Shares
-KVACU - Keen Vision Acquisition Corporation - Units
-KVACW - Keen Vision Acquisition Corporation - Warrant
 KVHI - KVH Industries, Inc. - Common Stock
 KVLE - KraneShares Value Line Dynamic Dividend Equity Index ETF
 KVUE - Kenvue Inc. Common Stock
@@ -8581,7 +8569,7 @@ PJAN - Innovator U.S. Equity Power Buffer ETF - January
 PJFG - PGIM Jennison Focused Growth ETF
 PJFM - PGIM Jennison Focused Mid-Cap ETF
 PJFV - PGIM Jennison Focused Value ETF
-PJIO - PGIM Jennison International Opportunities ETF
+PJIO - PGIM Jennison Focused International Equity ETF
 PJP - Invesco Pharmaceuticals ETF
 PJT - PJT Partners Inc. Class A Common Stock
 PJUL - Innovator U.S. Equity Power Buffer ETF - July
@@ -8866,7 +8854,6 @@ PST - ProShares UltraShort Lehman 7-10 Year Treasury
 PSTL - Postal Realty Trust, Inc. Class A Common Stock
 PSTP - Innovator Power Buffer Step-Up Strategy ETF
 PSTR - PeakShares Sector Rotation ETF
-PSTV - PLUS THERAPEUTICS, Inc. - Common Stock
 PSUS - Pershing Square USA, Ltd. Common Shares
 PSWD - Xtrackers Cybersecurity Select Equity ETF
 PSX - Phillips 66 Common Stock
@@ -10021,7 +10008,6 @@ SKYAW - SkyAI, Inc. - Warrant
 SKYE - Skye Bioscience, Inc. - Common Stock
 SKYH - Sky Harbour Group Corporation Class A Common Stock
 SKYQ - Sky Quarry Inc. - Common Stock
-SKYT - SkyWater Technology, Inc. - Common Stock
 SKYU - ProShares Ultra Cloud Computing
 SKYW - SkyWest, Inc. - Common Stock
 SKYX - SKYX Platforms Corp. - Common Stock
@@ -11188,7 +11174,6 @@ TWLVR - Twelve Seas Investment Company III - Rights
 TWLVU - Twelve Seas Investment Company III - Units
 TWM - ProShares UltraShort Russell2000
 TWN - Taiwan Fund, Inc. (The) Common Stock
-TWO - Two Harbors Investment Corp
 TWOD - Two Harbors Investments Corp 9.375% Senior Notes due 2030
 TWOX - iShares Large Cap Accelerated Outcome ETF
 TWSC - Corgi TSM 2x Daily ETF
