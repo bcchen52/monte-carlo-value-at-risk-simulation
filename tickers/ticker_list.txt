@@ -183,6 +183,7 @@ ADDS - Hedgeye Index Adds ETF
 ADEA - Adeia Inc.  - Common Stock
 ADGM - Adagio Medical Holdings, Inc - Common Stock
 ADI - Analog Devices, Inc. - Common Stock
+ADIG - ADI Global Distribution Inc. Common Stock
 ADIL - Adial Pharmaceuticals, Inc - Common Stock
 ADIU - Leverage Shares 2X Long ADI Daily ETF
 ADIV - Guinness Atkinson Asia Pacific Dividend Builder ETF
@@ -869,6 +870,7 @@ AUB - Atlantic Union Bankshares Corporation Common Stock
 AUBN - Auburn National Bancorporation, Inc. - Common Stock
 AUC - ATIF Holdings Limited - Ordinary Shares
 AUDC - AudioCodes Ltd. - Ordinary Shares
+AUGC - Corgi U.S. Equities 10% Structured Buffer ETF - August Series
 AUGM - FT Vest U.S. Equity Max Buffer ETF - August
 AUGO - Aura Minerals Inc. - Common Shares
 AUGP - PGIM S&P 500 Buffer 12 ETF - August
@@ -1894,6 +1896,7 @@ CATLU - Catalyst Acquisition Corp. - Units
 CATO - Cato Corporation (The) Class A Common Stock
 CATX - Perspective Therapeutics, Inc. Common Stock
 CATY - Cathay General Bancorp - Common Stock
+CAUG - Corgi U.S. Equities 15% Structured Buffer ETF - August Series
 CAVA - CAVA Group, Inc. Common Stock
 CB - Chubb Limited  Common Stock
 CBAN - Colony Bankcorp, Inc. Common Stock
@@ -2117,6 +2120,7 @@ CHCI - Comstock Holding Companies, Inc. - Class A Common Stock
 CHCO - City Holding Company - Common Stock
 CHCT - Community Healthcare Trust Incorporated Common Stock
 CHD - Church & Dwight Company, Inc. Common Stock
+CHDG - Calamos Active Hedged Equity ETF
 CHDN - Churchill Downs, Incorporated - Common Stock
 CHE - Chemed Corp
 CHEC - Chenghe Acquisition III Co. - Class A Ordinary Shares
@@ -2595,6 +2599,7 @@ CTAAR - ClearThink 1 Acquisition Corp. - Rights
 CTAAU - ClearThink 1 Acquisition Corp. - Units
 CTAP - Simplify US Equity PLUS Managed Futures Strategy ETF
 CTAS - Cintas Corporation - Common Stock
+CTAU - Corgi U.S. Equities 30% Structured Buffer ETF - August Series
 CTBI - Community Trust Bancorp, Inc. - Common Stock
 CTEC - Global X ClimateTech ETF
 CTEF - Castellan Targeted Equity ETF
@@ -3087,6 +3092,7 @@ DRCT - Direct Digital Holdings, Inc. - Class A Common Stock
 DRD - DRDGOLD Limited American Depositary Shares
 DRDB - Roman DBDR Acquisition Corp. II - Ordinary shares
 DRDBU - Roman DBDR Acquisition Corp. II - Unit
+DRDBW - Roman DBDR Acquisition Corp. II - Warrants
 DRES - GMO Domestic Resilience ETF
 DRGN - Themes China Generative Artificial Intelligence ETF
 DRH - Diamondrock Hospitality Company - Common Stock
@@ -3249,7 +3255,6 @@ DYORW - Insight Digital Partners II - Warrants
 DYTA - SGI Dynamic Tactical ETF
 DZZ - DB Gold Double Short ETN due February 15, 2038
 E - ENI S.p.A. Common Stock
-EA - Electronic Arts Inc. - Common Stock
 EAD - Allspring Income Opportunities Fund Common Shares
 EAF - GrafTech International Ltd. Common Stock
 EAFG - Pacer Developed Markets Cash Cows Growth Leaders ETF
@@ -3300,6 +3305,7 @@ ECOW - Pacer Emerging Markets Cash Cows 100 ETF
 ECPG - Encore Capital Group Inc - Common Stock
 ECVT - Ecovyst Inc. Common Stock
 ECX - ECARX Holdings Inc. - Class A Ordinary shares
+ECXWW - ECARX Holdings Inc. - Warrants
 ED - Consolidated Edison, Inc. Common Stock
 EDBL - Edible Garden AG Incorporated - Common Stock
 EDBLW - Edible Garden AG Incorporated - Warrant
@@ -3447,6 +3453,7 @@ ELVR - Elevra Lithium Limited - American Depository Shares
 ELWT - Elauwit Connection, Inc. - Common Stock
 EMA - Emera Incorporated Common Shares
 EMAT - Evolution Metals & Technologies Corp. - Common Stock
+EMAU - Corgi Emerging Markets Equities 15% Structured Buffer ETF - August Series
 EMB - iShares J.P. Morgan USD Emerging Markets Bond ETF
 EMBC - Embecta Corp. - Common Stock
 EMBD - Global X Emerging Markets Bond ETF
@@ -3537,6 +3544,7 @@ EOLS - Evolus, Inc. - Common Stock
 EONR - EON Resources Inc. Class A Common Stock
 EOS - Eaton Vance Enhance Equity Income Fund II Common Stock
 EOSE - Eos Energy Enterprises, Inc. - Common Stock
+EOSEW - Eos Energy Enterprises, Inc. - Warrant
 EOSU - T-REX 2X Long EOSE Daily Target ETF
 EOT - Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST
 EP - Empire Petroleum Corporation Common Stock
@@ -3901,6 +3909,7 @@ FDL - First Trust Morningstar ETF
 FDLO - Fidelity Low Volatility Factor ETF
 FDLS - Inspire Fidelis Multi Factor ETF
 FDM - First Trust DJ Select MicroCap ETF
+FDMM - Freedom Metals Acquisition Corp. - Class A Ordinary Shares
 FDMMU - Freedom Metals Acquisition Corp. - Units
 FDMO - Fidelity Momentum Factor ETF
 FDMT - 4D Molecular Therapeutics, Inc. - Common Stock
@@ -4067,8 +4076,10 @@ FIXD - First Trust Smith Opportunistic Fixed Income ETF
 FIXP - FolioBeyond Enhanced Fixed Income Premium ETF
 FIXT - TCW Core Plus Bond ETF
 FIYY - GraniteShares YieldBOOST 20Y Treasuries ETF
+FIZY - Fitz-Gerald Must Have Portfolio and Options Overlay ETF
 FIZZ - National Beverage Corp. - Common Stock
 FJAN - FT Vest U.S. Equity Buffer ETF - January
+FJDIU - ARC Group Securities Acquisition I - Units
 FJET - Starfighters Space, Inc. Common Stock
 FJP - First Trust Japan AlphaDEX Fund
 FJUL - FT Vest U.S. Equity Buffer ETF - July
@@ -5007,6 +5018,7 @@ HAPS - Harbor Human Capital Factor US Small Cap ETF
 HARD - Simplify Commodities Strategy No K-1 ETF
 HAS - Hasbro, Inc. - Common Stock
 HASI - HA Sustainable Infrastructure Capital, Inc. Common Stock
+HAUG - Corgi U.S. Equities 100% Structured Buffer ETF - August Series
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
 HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
@@ -5491,6 +5503,7 @@ IDAC - Iron Dome Acquisition I Corp. - Class A Ordinary Shares
 IDACU - Iron Dome Acquisition I Corp. - Units
 IDACW - Iron Dome Acquisition I Corp. - Warrant
 IDAI - T Stamp Inc. - Class A Common Stock
+IDAU - Corgi International Developed Equities 15% Structured Buffer ETF - August Series
 IDCC - InterDigital, Inc. - Common Stock
 IDE - Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest
 IDEC - Innovator International Developed Power Buffer ETF  December
@@ -6646,7 +6659,6 @@ LKFT - Lakefront Biotherapeutics - American Depositary Shares
 LKOR - FlexShares Credit-Scored US Long Corporate Bond Index Fund
 LKQ - LKQ Corporation - Common Stock
 LKSP - Lake Superior Acquisition Corp. - Class A Ordinary Shares
-LKSPR - Lake Superior Acquisition Corp. - Rights
 LKSPU - Lake Superior Acquisition Corp. - Units
 LLDR - Global X Long-Term Treasury Ladder ETF
 LLY - Eli Lilly and Company Common Stock
@@ -7133,7 +7145,6 @@ MJUN - Pacer Swan SOS Moderate June ETF
 MKAM - MKAM ETF
 MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
-MKDWW - MKDWELL Tech Inc. - Warrants
 MKL - Markel Group Inc. Common Stock
 MKLY - McKinley Acquisition Corporation - Class A Ordinary Shares
 MKLYR - McKinley Acquisition Corporation - Rights
@@ -8006,6 +8017,7 @@ OBND - State Street Loomis Sayles Opportunistic Bond ETF
 OBOR - KraneShares MSCI One Belt One Road Index ETF
 OBT - Orange County Bancorp, Inc. - Common Stock
 OBTC - Osprey Bitcoin Trust
+OBX - Obsidian Therapeutics, Inc. - Common Stock
 OC - Owens Corning Inc Common Stock New
 OCAC - Ocean Capital Acquisition Corporation Ordinary Shares
 OCC - Optical Cable Corporation - Common Stock
@@ -8704,6 +8716,7 @@ POET - POET Technologies Inc. - Common Shares
 POLA - Polar Power, Inc. - Common Stock
 POLE - Andretti Acquisition Corp. II - Class A Ordinary Shares
 POLEU - Andretti Acquisition Corp. II - Unit
+POLEW - Andretti Acquisition Corp. II - Warrant
 POM - POMDOCTOR LIMITED - American Depositary Shares
 PONO - Pono Capital Four, Inc. - Class A Ordinary Shares
 PONOR - Pono Capital Four, Inc. - Rights
@@ -8963,6 +8976,7 @@ QAI - NYLI Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
 QARP - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF
 QAT - iShares MSCI Qatar ETF
+QAU - Corgi Growth & Technology 10% Structured Buffer ETF - August Series
 QB - ProShares Nasdaq-100 Dynamic Buffer ETF
 QBER - TrueShares Quarterly Bear Hedge ETF
 QBF - Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly
@@ -9053,6 +9067,7 @@ QMY - Corgi Growth & Technology 10% Structured Buffer ETF - May Series
 QNC - Quantum eMotion Corp. Common Shares
 QNCX - Quince Therapeutics, Inc. - Common Stock
 QNDX - State Street SPDR Portfolio Nasdaq 100 ETF
+QNME - Quanome Technologies, Inc. - Common Stock
 QNRX - Quoin Pharmaceuticals, Ltd. - American Depositary Shares
 QNST - QuinStreet, Inc. - Common Stock
 QNT - Quantinuum Inc. - Class A Common Stock
@@ -9063,6 +9078,7 @@ QOWZ - Invesco Nasdaq Free Cash Flow Achievers ETF
 QPUX - Defiance 2X Daily Long Pure Quantum ETF
 QPX - AdvisorShares Q Dynamic Growth ETF
 QQA - Invesco QQQ Income Advantage ETF
+QQAU - Corgi Growth & Technology 15% Structured Buffer ETF - August Series
 QQDN - ProShares UltraShort QQQ Mega
 QQEW - First Trust Nasdaq-100 Select Equal Weight ETF
 QQH - HCM Defender 100 Index ETF
@@ -9708,6 +9724,7 @@ SCA - GraniteShares Autocallable SMCI ETF
 SCAG - Scage Future - American Depositary Shares
 SCAGW - Scage Future - Warrants
 SCAP - Infrastructure Capital Small Cap Income ETF
+SCAU - Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series
 SCC - ProShares UltraShort Consumer Discretionary
 SCCD - Sachem Capital Corp. 6.00% Notes due 2026
 SCCE - Sachem Capital Corp. 6.00% Notes due 2027
@@ -9915,6 +9932,7 @@ SHEH - Shell plc ADRhedged
 SHEL - Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) 
 SHEN - Shenandoah Telecommunications Co - Common Stock
 SHFS - SHF Holdings, Inc. - Class A Common Stock
+SHFSW - SHF Holdings, Inc. - Warrants
 SHG - Shinhan Financial Group Co Ltd American Depositary Shares
 SHIM - Shimmick Corporation - Common Stock
 SHIP - Seanergy Maritime Holdings Corp. - Common Stock
@@ -10104,7 +10122,9 @@ SMG - Scotts Miracle-Gro Company (The) Common Stock
 SMH - VanEck Semiconductor ETF
 SMHB - ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B
 SMHC - VanEck China Semiconductor ETF
+SMHD - MicroSectors -3x Short Semiconductor ETNs
 SMHI - SEACOR Marine Holdings Inc. Common Stock 
+SMHU - MicroSectors 3x Long Semiconductor ETNs
 SMHX - VanEck Fabless Semiconductor ETF
 SMID - Smith-Midland Corporation - Common Stock
 SMIG - Bahl & Gaynor Small/Mid Cap Income Growth ETF
@@ -10464,6 +10484,7 @@ STKH - Steakholder Foods Ltd. - American Depositary Shares
 STKS - The ONE Group Hospitality, Inc. - Common Stock
 STLA - Stellantis N.V. Common Shares
 STLD - Steel Dynamics, Inc. - Common Stock
+STLN - Starling Oncology, Inc. - Common Stock
 STLR - Stellar ETF
 STLU - 2x Stellar ETF
 STM - STMicroelectronics N.V. Common Stock
@@ -10561,7 +10582,6 @@ SVV - Savers Value Village, Inc. Common Stock
 SVXY - ProShares Short VIX Short Term Futures ETF
 SW - Smurfit WestRock plc Ordinary Shares
 SWAG - Stran & Company, Inc. - Common Stock
-SWAGW - Stran & Company, Inc. - Warrant
 SWAN - Amplify BlackSwan Growth & Treasury Core ETF
 SWBI - Smith & Wesson Brands, Inc. - Common Stock
 SWIM - Latham Group, Inc. - Common Stock
@@ -10802,6 +10822,7 @@ TH - Target Hospitality Corp. - Common Stock
 THC - Tenet Healthcare Corporation Common Stock
 THCH - TH International Limited - Ordinary shares
 THD - iShares MSCI Thailand ETF
+THEOU - BOA Acquisition Corp. II - Units
 THEQ - T. Rowe Price Hedged Equity ETF
 THFF - First Financial Corporation  - Common Stock
 THG - Hanover Insurance Group Inc
@@ -10946,7 +10967,6 @@ TNK - Teekay Tankers Ltd.
 TNL - Travel   Leisure Co. Common  Stock
 TNMG - TNL Mediagene - Ordinary Shares
 TNON - Tenon Medical, Inc. - Common Stock
-TNONW - Tenon Medical, Inc. - Warrant
 TNUK - Tortoise Nuclear Renaissance ETF
 TNXP - Tonix Pharmaceuticals Holding Corp. - Common Stock
 TNXT - T. Rowe Price Innovation Leaders ETF
@@ -11550,7 +11570,6 @@ VEA - Vanguard FTSE Developed Markets ETF
 VECA - Vernal Capital Acquisition Corp. Ordinary Shares
 VECO - Veeco Instruments Inc. - Common Stock
 VEEA - Veea Inc. - Common Stock
-VEEAW - Veea Inc. - Warrant
 VEEE - Twin Vee PowerCats Co. - Common Stock
 VEEV - Veeva Systems Inc. Class A Common Stock
 VEFA - VanEck MSCI EAFE Analyst Sentiment ETF
