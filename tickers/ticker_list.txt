@@ -861,6 +861,7 @@ ATRA - Atara Biotherapeutics, Inc. - Common Stock
 ATRC - AtriCure, Inc. - Common Stock
 ATRO - Astronics Corporation - Common Stock
 ATS - ATS Corporation Common Shares
+ATTO - Attovia Therapeutics, Inc. - Common Stock
 ATTR - Arin Tactical Tail Risk ETF
 ATXG - Addentax Group Corp. - Common Stock
 ATYR - aTyr Pharma, Inc. - Common Stock
@@ -1127,6 +1128,7 @@ BCC - Boise Cascade, L.L.C. Common Stock
 BCCC - Global X Bitcoin Covered Call ETF
 BCCQ - Bleichroeder Acquisition Corp. III - Class A Ordinary Shares
 BCCQU - Bleichroeder Acquisition Corp. III - Units
+BCCQW - Bleichroeder Acquisition Corp. III - Warrant
 BCD - abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF
 BCDA - BioCardia, Inc. - Common Stock
 BCDF - Horizon Kinetics Blockchain Development ETF
@@ -1383,7 +1385,6 @@ BKFI - BNY Mellon Active Core Bond ETF
 BKGI - BNY Mellon Global Infrastructure Income ETF
 BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
-BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
 BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
@@ -1547,6 +1548,7 @@ BOXL - Boxlight Corporation - Class A Common Stock
 BOXX - Alpha Architect 1-3 Month Box ETF
 BP - BP p.l.c. Common Stock
 BPAC - Blueport Acquisition Ltd - Class A Ordinary Shares
+BPACR - Blueport Acquisition Ltd - Rights
 BPACU - Blueport Acquisition Ltd - Units
 BPAY - iShares FinTech Active ETF
 BPH - BP plc ADRhedged
@@ -3004,6 +3006,7 @@ DKNX - Defiance Daily Target 2X Long DKNG ETF
 DKS - Dick's Sporting Goods Inc Common Stock
 DLAG - FT Vest U.S. Equity Dual Directional Buffer ETF - August
 DLB - Dolby Laboratories Common Stock
+DLCU - U.S. Large Company Portfolio: ETF Class Shares
 DLFE - FT Vest U.S. Equity Dual Directional Buffer ETF - February
 DLHC - DLH Holdings Corp. - Common Stock
 DLLL - GraniteShares 2x Long DELL Daily ETF
@@ -4659,7 +4662,6 @@ GIND - Goldman Sachs India Equity ETF
 GINN - Goldman Sachs Innovate Equity ETF
 GINX - SGI Enhanced Global Income ETF
 GIPR - Generation Income Properties Inc. - Common stock
-GIPRW - Generation Income Properties Inc. - Warrant
 GIS - General Mills, Inc. Common Stock
 GISC - Guggenheim Securitized Income ETF
 GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
@@ -4896,7 +4898,6 @@ GSGO - Goldman Sachs Growth Opportunities ETF
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
-GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -5256,7 +5257,6 @@ HSAI - Hesai Group - American Depositary Share
 HSBC - HSBC Holdings, plc. Common Stock
 HSBH - HSBC Holdings plc ADRhedged
 HSCS - HeartSciences Inc. - Common Stock
-HSCSW - HeartSciences Inc. - Warrant
 HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSHP - Himalaya Shipping Ltd. Common Shares
@@ -5995,7 +5995,10 @@ IZRL - ARK Israel Innovative Technology ETF
 J - Jacobs Solutions Inc. Common Stock
 JA - Janus Henderson AA-A CLO ETF
 JAAA - Janus Henderson AAA CLO ETF
+JAB - JAB Acquisition Corp I - Class A Ordinary Shares
+JABRR - JAB Acquisition Corp I - Rights
 JABRU - JAB Acquisition Corp I - Units
+JABRW - JAB Acquisition Corp I - Warrants
 JABS - Janus Henderson Asset-Backed Securities ETF
 JACK - Jack In The Box Inc. - Common Stock
 JACS - Jackson Acquisition Company II Class A Ordinary Shares
@@ -6275,6 +6278,7 @@ KELYB - Kelly Services, Inc. - Class B Common Stock
 KEMQ - KraneShares Public-Private Emerging Markets Internet and Technology ETF
 KEMX - KraneShares MSCI Emerging Markets ex China Index ETF
 KEN - Kenon Holdings Ltd. Ordinary Shares
+KEO - Kurv Equity Option Income ETF
 KEP - Korea Electric Power Corporation Common Stock
 KEQU - Kewaunee Scientific Corporation - Common Stock
 KEX - Kirby Corporation Common Stock
@@ -6515,7 +6519,6 @@ LBTYB - Liberty Global Ltd. - Class B Common Shares
 LBTYK - Liberty Global Ltd. - Class C Common Shares
 LCAP - Principal Capital Appreciation Select ETF
 LCCC - Lakeshore Acquisition III Corp. - Ordinary Shares
-LCCCR - Lakeshore Acquisition III Corp. - Rights
 LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
@@ -6659,6 +6662,7 @@ LKFT - Lakefront Biotherapeutics - American Depositary Shares
 LKOR - FlexShares Credit-Scored US Long Corporate Bond Index Fund
 LKQ - LKQ Corporation - Common Stock
 LKSP - Lake Superior Acquisition Corp. - Class A Ordinary Shares
+LKSPR - Lake Superior Acquisition Corp. - Rights
 LKSPU - Lake Superior Acquisition Corp. - Units
 LLDR - Global X Long-Term Treasury Ladder ETF
 LLY - Eli Lilly and Company Common Stock
@@ -7758,6 +7762,7 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
+NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
 NOEQ - Northern Trust US Equity ETF
@@ -7961,7 +7966,6 @@ NXDT - NexPoint Diversified Real Estate Trust Common Stock
 NXE - Nexgen Energy Ltd. Common Shares
 NXG - NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
 NXGL - NexGel, Inc - Common Stock
-NXGLW - NexGel, Inc - Warrant
 NXL - Nexalin Technology, Inc. - Common Stock
 NXP - Nuveen Select Tax Free Income Portfolio Common Stock
 NXPG - Leverage Shares 2X Long NXPI Daily ETF
@@ -7992,7 +7996,6 @@ NZAC - State Street SPDR MSCI ACWI Climate Paris Aligned ETF
 NZF - Nuveen Municipal Credit Income Fund 
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
-OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACP - OneAscent Core Plus Bond ETF
@@ -10485,6 +10488,7 @@ STKS - The ONE Group Hospitality, Inc. - Common Stock
 STLA - Stellantis N.V. Common Shares
 STLD - Steel Dynamics, Inc. - Common Stock
 STLN - Starling Oncology, Inc. - Common Stock
+STLNW - Starling Oncology, Inc. - Warrant
 STLR - Stellar ETF
 STLU - 2x Stellar ETF
 STM - STMicroelectronics N.V. Common Stock
@@ -10699,6 +10703,7 @@ TCBIO - Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-
 TCBK - TriCo Bancshares - Common Stock
 TCBS - Texas Community Bancshares, Inc. - Common Stock
 TCBX - Third Coast Bancshares, Inc. Common Stock
+TCGX - TCGX Acquisition Corp. - Class A Ordinary Shares
 TCHI - iShares MSCI China Multisector Tech ETF
 TCHP - T. Rowe Price Blue Chip Growth ETF
 TCI - Transcontinental Realty Investors, Inc. Common Stock
@@ -10967,6 +10972,7 @@ TNK - Teekay Tankers Ltd.
 TNL - Travel   Leisure Co. Common  Stock
 TNMG - TNL Mediagene - Ordinary Shares
 TNON - Tenon Medical, Inc. - Common Stock
+TNONW - Tenon Medical, Inc. - Warrant
 TNUK - Tortoise Nuclear Renaissance ETF
 TNXP - Tonix Pharmaceuticals Holding Corp. - Common Stock
 TNXT - T. Rowe Price Innovation Leaders ETF
@@ -11763,8 +11769,6 @@ VSDB - Vanguard Short Duration Bond ETF
 VSDM - Vanguard Short Duration Tax-Exempt Bond ETF
 VSEC - VSE Corporation - Common Stock
 VSECU - VSE Corporation - Tangible Equity Units
-VSEE - VSee Health, Inc. - Common Stock
-VSEEW - VSee Health, Inc. - Warrant
 VSGX - Vanguard ESG International Stock ETF
 VSH - Vishay Intertechnology, Inc. Common Stock
 VSHY - Virtus Newfleet Short Duration High Yield Bond ETF
