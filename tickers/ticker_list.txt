@@ -445,6 +445,7 @@ ALNY - Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOT - AstroNova, Inc. - Common Stock
 ALOV - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares
 ALOVU - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units
+ALOVW - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants
 ALOY - REalloys Inc. - Common Stock
 ALP - Alpha Compute Corp  - Common Stock
 ALPS - ALPS Group Inc - Ordinary Share
@@ -708,6 +709,7 @@ ARGT - Global X MSCI Argentina ETF
 ARGX - argenx SE - American Depositary Shares
 ARHS - Arhaus, Inc. - Class A Common Stock
 ARI - Apollo Commercial Real Estate Finance, Inc
+ARIA - ARIA Opportunities ETF
 ARIS - Aris Mining Corporation Common Shares
 ARKB - ARK 21Shares Bitcoin ETF 
 ARKD - ARK DIET Q1 Buffer ETF
@@ -2315,7 +2317,6 @@ CNF - CNFinance Holdings Limited American Depositary Shares, each representing t
 CNH - CNH Industrial N.V. Common Shares
 CNI - Canadian National Railway Company Common Stock
 CNK - Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock
-CNL - Collective Mining Ltd. Common Shares
 CNM - Core & Main, Inc. Class A Common Stock
 CNMD - CONMED Corporation Common Stock
 CNNE - Cannae Holdings, Inc. Common Stock
@@ -2482,6 +2483,7 @@ CRACW - Crown Reserve Acquisition Corp. I - Warrant
 CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAN - Crane Harbor Acquisition Corp. II - Class A Ordinary Shares
+CRANR - Crane Harbor Acquisition Corp. II - Rights
 CRANU - Crane Harbor Acquisition Corp. II - Units
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
 CRAQR - Cal Redwood Acquisition Corp. - Right
@@ -2904,6 +2906,7 @@ DFNSW - T3 Defense Inc. - Warrants
 DFP - Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock
 DFSB - Dimensional Global Sustainability Fixed Income ETF
 DFSC - DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering
+DFSCW - DEFSEC Technologies Inc. - warrant
 DFSD - Dimensional Short-Duration Fixed Income ETF
 DFSE - Dimensional Emerging Markets Sustainability Core 1 ETF
 DFSI - Dimensional International Sustainability Core 1 ETF
@@ -3993,6 +3996,7 @@ FFLC - Fidelity Fundamental Large Cap Core ETF
 FFLG - Fidelity Fundamental Large Cap Growth ETF
 FFLS - The Future Fund Long/Short ETF
 FFLV - Fidelity Fundamental Large Cap Value ETF
+FFLX - First Trust Flexible Income ETF
 FFND - One Global ETF
 FFOG - Franklin Focused Growth ETF
 FFOX - FundX Future Fund Opportunities ETF
@@ -4518,11 +4522,13 @@ GCC - WisdomTree EnhancedContinuous Commodity Index Fund
 GCDT - Green Circle Decarbonize Technology Limited Ordinary Shares
 GCGR - General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares
 GCGRU - General Catalyst Global Resilience Merger Corp. - Units
+GCGRW - General Catalyst Global Resilience Merger Corp. - Warrants
 GCL - GCL Global Holdings Ltd - Ordinary Shares
 GCMG - GCM Grosvenor Inc. - Class A Common Stock
 GCO - Genesco Inc. Common Stock
 GCOR - Goldman Sachs Access U.S. Aggregate Bond ETF
 GCOW - Pacer Global Cash Cows Dividend ETF
+GCPB - Goldman Sachs Core Plus Bond ETF
 GCSH - Guggenheim Ultra Short Income ETF
 GCT - GigaCloud Technology Inc - Class A Ordinary Shares
 GCTK - GlucoTrack, Inc. - Common Stock
@@ -4651,6 +4657,7 @@ GIII - G-III Apparel Group, LTD. - Common Stock
 GIL - Gildan Activewear, Inc. Class A Sub. Vot. Common Stock
 GILD - Gilead Sciences, Inc. - Common Stock
 GILT - Gilat Satellite Networks Ltd. - Ordinary Shares
+GINC - Goldman Sachs Income ETF
 GIND - Goldman Sachs India Equity ETF
 GINN - Goldman Sachs Innovate Equity ETF
 GINX - SGI Enhanced Global Income ETF
@@ -5055,6 +5062,7 @@ HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
 HCMA - HCM III Acquisition Corp. - Class A Ordinary Share
 HCMAU - HCM III Acquisition Corp. - Units
+HCMAW - HCM III Acquisition Corp. - Warrants
 HCMT - Direxion HCM Tactical Enhanced US ETF
 HCOW - Amplify COWS Covered Call ETF
 HCRB - Hartford Core Bond ETF
@@ -6509,6 +6517,7 @@ LBTYB - Liberty Global Ltd. - Class B Common Shares
 LBTYK - Liberty Global Ltd. - Class C Common Shares
 LCAP - Principal Capital Appreciation Select ETF
 LCCC - Lakeshore Acquisition III Corp. - Ordinary Shares
+LCCCR - Lakeshore Acquisition III Corp. - Rights
 LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
@@ -8562,6 +8571,8 @@ PHK - Pimco High Income Fund
 PHM - PulteGroup, Inc. Common Stock
 PHO - Invesco Water Resources ETF
 PHOE - Phoenix Asia Holdings Limited - Ordinary Shares
+PHOS - First Phosphate Corp. - American Depositary Shares
+PHOX - Aura AI Photonics ETF
 PHR - Phreesia, Inc. Common Stock
 PHUN - Phunware, Inc. - Common Stock
 PHVS - Pharvaris N.V. - Ordinary Shares
@@ -9155,6 +9166,7 @@ QURE - uniQure N.V. - Ordinary Shares
 QUS - State Street SPDR MSCI USA StrategicFactors ETF
 QUSA - VistaShares Target 15 USA Quality Income ETF
 QVAL - Alpha Architect U.S. Quantitative Value ETF
+QVCG - QVC Group, Inc. - Common Stock
 QVML - Invesco S&P 500 QVM Multi-factor ETF
 QVMM - Invesco S&P MidCap 400 QVM Multi-factor ETF
 QVMS - Invesco S&P SmallCap 600 QVM Multi-factor ETF
@@ -9325,6 +9337,7 @@ RFAI - RF Acquisition Corp II - Ordinary Shares
 RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
 RFAM - RF Acquisition Corp III - Ordinary Shares
+RFAMR - RF Acquisition Corp III - Rights
 RFAMU - RF Acquisition Corp III - Units
 RFCI - ALPS Dynamic Core Income ETF
 RFDA - ALPS Dynamic US Dividend Advantage ETF
@@ -11960,6 +11973,7 @@ WKC - World Kinect Corporation Common Stock
 WKEY - WISeKey International Holding Ltd - American Depositary Shares
 WKHS - Workhorse Group, Inc. - Common Stock
 WKSP - Worksport, Ltd. - Common Stock
+WLCO - Wilco 63 Corporation - Class A Ordinary Shares
 WLCOU - Wilco 63 Corporation - Units
 WLDN - Willdan Group, Inc. - Common Stock
 WLDR - Simplify Affinity World Leaders Equity ETF
