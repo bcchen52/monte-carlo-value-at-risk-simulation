@@ -896,7 +896,6 @@ AVAL - Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred sh
 AVAT - Avalanche Treasury Corporation - Class A Common Stock
 AVAV - AeroVironment, Inc. - Common Stock
 AVAZ - 2x Avalanche ETF
-AVB - AvalonBay Communities, Inc. Common Stock
 AVBC - Avidia Bancorp, Inc. Common Stock
 AVBH - Avidbank Holdings, Inc. - Common Stock
 AVBP - ArriVent BioPharma, Inc. - Common Stock
@@ -1067,7 +1066,6 @@ BBB - CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF
 BBBI - BondBloxx BBB Rated 5-10 Year Corporate Bond ETF
 BBBL - BondBloxx BBB Rated 10+ Year Corporate Bond ETF
 BBBS - BondBloxx BBB Rated 1-5 Year Corporate Bond ETF
-BBBY - Bed Bath & Beyond, Inc. Common Stock
 BBC - Virtus Biotech Clinical Trials ETF
 BBCA - JPMorgan BetaBuilders Canada ETF
 BBCB - JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF
@@ -1136,7 +1134,6 @@ BCGD - Baron Global Durable Advantage ETF
 BCGS - Bancreek Global Select ETF
 BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
-BCHI - GMO Beyond China ETF
 BCHP - Principal Focused Blue Chip ETF
 BCHT - Birchtech Corp. Common Stock
 BCI - abrdn Bloomberg All Commodity Strategy K-1 Free ETF
@@ -1205,7 +1202,7 @@ BEKE - KE Holdings Inc American Depositary Shares (each representing three Class
 BELFA - Bel Fuse Inc. - Class A Common Stock
 BELFB - Bel Fuse Inc. - Class B Common Stock
 BEMB - iShares J.P. Morgan Broad USD Emerging Markets Bond ETF
-BEN - Franklin Resources, Inc. Common Stock
+BEN - Franklin Templeton, Inc. Common Stock
 BENF - Beneficient - Class A Common Stock
 BENFW - Beneficient - Warrant
 BENJ - Horizon Landmark ETF
@@ -1480,7 +1477,7 @@ BNC - CEA Industries Inc. - Common Stock
 BNCWW - CEA Industries Inc. - Warrant
 BNCWZ - CEA Industries Inc. - Warrants
 BND - Vanguard Total Bond Market ETF
-BNDC - FlexShares Core Select Bond Fund
+BNDC - Northern Trust Core Bond ETF
 BNDD - Quadratic Deflation ETF
 BNDI - NEOS Enhanced Income Aggregate Bond ETF
 BNDP - Vanguard Core-Plus Bond Index ETF
@@ -2022,7 +2019,7 @@ CEE - The Central and Eastern Europe Fund, Inc. (The) Common Stock
 CEF - Sprott Physical Gold and Silver Trust Units
 CEFA - Global X S&P Catholic Values Developed ex-U.S. ETF
 CEFD - ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN
-CEFS - Saba Closed-End Funds ETF
+CEFS - Saba Opportunistic Hedged Closed-End Funds ETF
 CEFZ - RiverNorth Active Income ETF
 CEG - Constellation Energy Corporation - Common Stock When-Issued
 CEGX - Tradr 2X Long CEG Daily ETF
@@ -3609,10 +3606,10 @@ ESBG - First Trust Enhanced Stocks, Bonds & Gold ETF
 ESCA - Escalade, Incorporated - Common Stock
 ESE - ESCO Technologies Inc. Common Stock
 ESEA - Euroseas Ltd. - Common Stock
-ESG - FlexShares STOXX US ESG Select Index Fund
+ESG - Northern Trust STOXX US ESG Select ETF
 ESGD - iShares ESG Aware MSCI EAFE ETF
 ESGE - iShares ESG Aware MSCI EM ETF
-ESGG - FlexShares STOXX Global ESG Select Index Fund
+ESGG - Northern Trust STOXX Global ESG Select ETF
 ESGU - iShares ESG Aware MSCI USA ETF
 ESGV - Vanguard ESG U.S. Stock ETF
 ESI - Element Solutions Inc. Common Stock
@@ -3938,11 +3935,11 @@ FEBU - AllianzIM U.S. Equity Buffer15 Uncapped Feb ETF
 FEBW - AllianzIM U.S. Large Cap Buffer20 Feb ETF
 FEBZ - TrueShares Structured Outcome (February) ETF
 FECM - First Eagle Core Municipal ETF
-FEDM - FlexShares ESG & Climate Developed Markets ex-US Core Index Fund
+FEDM - Northern Trust ESG & Climate Developed Markets ex-US Core ETF
 FEDU - Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares
 FEED - ENvue Medical, Inc. - Common Stock
 FEGE - First Eagle Global Equity ETF
-FEIG - FlexShares ESG & Climate Investment Grade Corporate Core Index Fund
+FEIG - Northern Trust ESG & Climate Investment Grade Corporate Core ETF
 FEIM - Frequency Electronics, Inc. - Common Stock
 FELC - Fidelity Enhanced Large Cap Core ETF
 FELE - Franklin Electric Co., Inc. - Common Stock
@@ -3972,7 +3969,7 @@ FESC - First Eagle Small Cap Equity ETF
 FESM - Fidelity Enhanced Small Cap Core ETF
 FET - Forum Energy Technologies, Inc. Common Stock
 FETH - Fidelity Ethereum Fund
-FEUS - FlexShares ESG & Climate US Large Cap Core Index Fund
+FEUS - Northern Trust ESG & Climate US Large Cap Core ETF
 FEUZ - First Trust Eurozone AlphaDEX ETF
 FEX - First Trust Large Cap Core AlphaDEX Fund
 FEZ - State Street SPDR EURO STOXX 50 ETF
@@ -4839,7 +4836,7 @@ GPZ - VanEck Alternative Asset Manager ETF
 GQGU - GQG US Equity ETF
 GQI - Natixis Gateway Quality Income ETF
 GQQQ - Astoria US Quality Growth Kings ETF
-GQRE - FlexShares Global Quality Real Estate Index Fund
+GQRE - Northern Trust Global Quality Real Estate ETF
 GRAB - Grab Holdings Limited - Class A Ordinary Shares
 GRABW - Grab Holdings Limited - Warrant
 GRAG - Leverage Shares 2X Long GRAB Daily ETF
@@ -4957,7 +4954,7 @@ GUACU - Berto Acquisition Corp. II - Units
 GUACW - Berto Acquisition Corp. II - Warrants
 GUG - Guggenheim Active Allocation Fund Common Shares of Beneficial Interest
 GUMI - Goldman Sachs Ultra Short Municipal Income ETF
-GUNR - FlexShares Global Upstream Natural Resources Index Fund ETF
+GUNR - Northern Trust Morningstar Global Upstream Natural Resources ETF
 GURE - Gulf Resources, Inc. - Common Stock
 GURU - Global X Guru Index ETF
 GUSA - Goldman Sachs MarketBeta U.S. 1000 Equity ETF
@@ -5343,7 +5340,7 @@ HYGD - MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs
 HYGH - iShares Interest Rate Hedged High Yield Bond ETF
 HYGM - Amplify HYG High Yield 10% Target Income ETF
 HYGU - MicroSectors 3x Long High Yield Corporate Bond (HYG) ETNs
-HYGV - FlexShares High Yield Value-Scored Bond Index Fund
+HYGV - Northern Trust High Yield Value-Scored Bond ETF
 HYGW - iShares High Yield Corporate Bond BuyWrite Strategy ETF
 HYHG - ProShares High Yield Interest Rate Hedged
 HYI - Western Asset High Yield Opportunity Fund Inc. Common Stock
@@ -5783,9 +5780,6 @@ IPAR - Interparfums, Inc. - Common Stock
 IPAV - Global X Infrastructure Development ex-U.S. ETF
 IPAY - Amplify Digital Payments ETF
 IPB - Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1
-IPCX - Inflection Point Acquisition Corp. III - Class A ordinary shares
-IPCXR - Inflection Point Acquisition Corp. III - Rights
-IPCXU - Inflection Point Acquisition Corp. III - Units
 IPDN - Professional Diversity Network, Inc. - Common Stock
 IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
 IPEXR - Inflection Point Acquisition Corp. - Right
@@ -5808,9 +5802,9 @@ IPW - iPower Inc. - Common Stock
 IPWR - Ideal Power Inc. - Common Stock
 IPX - IperionX Limited - American Depositary Share
 IQ - iQIYI, Inc. - American Depositary Shares
-IQDF - FlexShares International Quality Dividend Index Fund
+IQDF - Northern Trust International Quality Dividend ETF
 IQDG - WisdomTree International Quality Dividend Growth Fund
-IQDY - FlexShares International Quality Dividend Dynamic Index Fund
+IQDY - Northern Trust International Quality Dividend Dynamic ETF
 IQHI - NYLI MacKay High Income ETF
 IQI - Invesco Quality Municipal Income Trust Common Stock
 IQLT - iShares MSCI Intl Quality Factor ETF
@@ -6651,7 +6645,7 @@ LJAN - Innovator Premium Income 15 Buffer ETF - January
 LJUL - Innovator Premium Income 15 Buffer ETF - July
 LKFN - Lakeland Financial Corporation - Common Stock
 LKFT - Lakefront Biotherapeutics - American Depositary Shares
-LKOR - FlexShares Credit-Scored US Long Corporate Bond Index Fund
+LKOR - Northern Trust Credit-Scored US Long Corporate Bond ETF
 LKQ - LKQ Corporation - Common Stock
 LKSP - Lake Superior Acquisition Corp. - Class A Ordinary Shares
 LKSPR - Lake Superior Acquisition Corp. - Rights
@@ -6924,7 +6918,7 @@ MBOT - Microbot Medical Inc.  - Common Stock
 MBOX - Freedom Day Dividend ETF
 MBRX - Moleculin Biotech, Inc. - Common Stock
 MBS - Angel Oak Mortgage-Backed Securities ETF
-MBSD - FlexShares Disciplined Duration MBS Index Fund
+MBSD - Northern Trust Disciplined Duration MBS ETF
 MBSF - Regan Floating Rate MBS ETF
 MBSX - Regan Fixed Rate MBS ETF
 MBUU - Malibu Boats, Inc. - Common Stock
@@ -7483,7 +7477,6 @@ MYO - Myomo Inc. Common Stock
 MYPS - PLAYSTUDIOS, Inc.  - Class A Common Stock
 MYRG - MYR Group, Inc. - Common Stock
 MYSE - Myseum.AI, Inc. - Common Stock
-MYSEW - Myseum.AI, Inc. - Series A Warrant
 MYSZ - My Size, Inc. - Common Stock
 MYX - Maywood Acquisition Corp. 2 - Class A Ordinary Share
 MYXXR - Maywood Acquisition Corp. 2 - Rights
@@ -7646,7 +7639,7 @@ NFLU - T-Rex 2X Long NFLX Daily Target ETF
 NFLW - Roundhill NFLX WeeklyPay ETF
 NFLX - Netflix, Inc. - Common Stock
 NFLY - YieldMax NFLX Option Income Strategy ETF
-NFRA - FlexShares STOXX Global Broad Infrastructure Index Fund
+NFRA - Northern Trust STOXX Global Broad Infrastructure ETF
 NFRX - Harrison Street Infrastructure Active ETF
 NFTY - First Trust India Nifty 50 Equal Weight ETF
 NFX - Corgi NFLX 2x Daily ETF
@@ -8410,16 +8403,13 @@ PCAPU - ProCap Acquisition Corp - Unit
 PCAPW - ProCap Acquisition Corp - Warrant
 PCAR - PACCAR Inc. - Common Stock
 PCB - PCB Bancorp - Common Stock
-PCCE - Polen Capital China Growth ETF
 PCEB - Polen Euro High Yield Bond ETF
 PCEF - Invesco CEF Income Composite ETF
 PCF - High Income Securities Fund Common Stock
 PCFI - Polen Floating Rate Income ETF
 PCG - Pacific Gas & Electric Co. Common Stock
-PCGG - Polen Capital Global Growth ETF
 PCHI - Polen High Income ETF
 PCI - PGIM Corporate Bond 5-10 Year ETF
-PCIG - Polen Capital International Growth ETF
 PCL - PGIM Corporate Bond 10+ Year ETF
 PCLA - PicoCELA Inc. - American Depositary Shares
 PCLC - Polen 5Perspectives Large Growth ETF
@@ -9014,9 +9004,9 @@ QCOC - FT Vest Nasdaq-100 Conservative Buffer ETF - October
 QCOM - QUALCOMM Incorporated - Common Stock
 QCRH - QCR Holdings, Inc. - Common Stock
 QDEC - FT Vest Nasdaq-100 Buffer ETF - December
-QDEF - FlexShares Quality Dividend Defensive Index Fund
+QDEF - Northern Trust Quality Dividend Defensive ETF
 QDEL - QuidelOrtho Corporation - Common Stock
-QDF - FlexShares Quality Dividend Index Fund
+QDF - Northern Trust Quality Dividend ETF
 QDIV - Global X S&P 500 Quality Dividend ETF
 QDPL - Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF
 QDTE - Roundhill Innovation-100 0DTE Covered Call Strategy ETF
@@ -9048,16 +9038,16 @@ QIS - Simplify Multi-QIS Alternative ETF
 QJL - Corgi Growth & Technology 10% Structured Buffer ETF - July Series
 QJN - Corgi Growth & Technology 10% Structured Buffer ETF - June Series
 QJUN - FT Vest Nasdaq-100 Buffer ETF - June
-QLC - FlexShares US Quality Large Cap Index Fund
+QLC - Northern Trust US Quality Large Cap ETF
 QLD - ProShares Ultra QQQ
 QLDY - Defiance Nasdaq 100 LightningSpread Income ETF
 QLEP - Quantum Leap Acquisition Corp Class A Ordinary Shares
 QLTA - iShares Aaa A Rated Corporate Bond ETF
 QLTI - GMO International Quality ETF
 QLTY - GMO U.S. Quality ETF
-QLV - FlexShares US Quality Low Volatility Index Fund
-QLVD - FlexShares Developed Markets ex-US Quality Low Volatility Index Fund
-QLVE - FlexShares Emerging Markets  Quality Low Volatility Index Fund
+QLV - Northern Trust US Quality Low Volatility ETF
+QLVD - Northern Trust Developed Markets ex-US Quality Low Volatility ETF
+QLVE - Northern Trust Emerging Markets Quality Low Volatility ETF
 QLYS - Qualys, Inc. - Common Stock
 QMAG - FT Vest Nasdaq-100 Moderate Buffer ETF - August
 QMAR - FT Vest Nasdaq-100 Buffer ETF - March
@@ -9204,7 +9194,7 @@ RAPP - Rapport Therapeutics, Inc. - Common Stock
 RARE - Ultragenyx Pharmaceutical Inc. - Common Stock
 RAUS - RACWI US ETF
 RAVE - Rave Restaurant Group, Inc. - Common Stock
-RAVI - FlexShares Ultra-Short Income Fund
+RAVI - Northern Trust Ultra-Short Fixed Income ETF
 RAY - Raytech Holding Limited - Ordinary Shares
 RAYA - Erayak Power Solution Group Inc. - Class A Ordinary Shares
 RB - ProShares Russell 2000 Dynamic Buffer ETF
@@ -10039,7 +10029,7 @@ SKIL - Skillsoft Corp. Class A Common Stock
 SKIN - SkinHealth Systems Inc. - Class A Common Stock
 SKK - SKK Holdings Limited - Class A Ordinary Shares
 SKM - SK Telecom Co., Ltd. Common Stock
-SKOR - FlexShares Credit-Scored US Corporate Bond Index Fund
+SKOR - Northern Trust Credit-Scored US Corporate Bond ETF
 SKRE - Tuttle Capital Daily 2X Inverse Regional Banks ETF
 SKT - Tanger Inc. Common Stock
 SKUU - GraniteShares 2x Long SK Hynix Daily ETF
@@ -10737,9 +10727,9 @@ TDOT - 21shares Polkadot ETF
 TDS - Telephone and Data Systems, Inc. Common Shares
 TDSB - ETC Cabana Target Beta ETF
 TDSC - ETC Cabana Target Drawdown 10 ETF
-TDTF - FlexShares iBoxx 5 Year Target Duration TIPS Index Fund
+TDTF - Northern Trust iBoxx 5-Year Target Duration TIPS ETF
 TDTH - Trident Digital Tech Holdings Ltd - Class B Ordinary Shares
-TDTT - FlexShares iBoxx 3 Year Target Duration TIPS Index Fund
+TDTT - Northern Trust iBoxx 3-Year Target Duration TIPS ETF
 TDUP - ThredUp Inc. - Class A Common Stock
 TDV - ProShares S&P Technology Dividend Aristocrats ETF
 TDVG - T. Rowe Price Dividend Growth ETF
@@ -10864,7 +10854,7 @@ TIL - Instil Bio, Inc. - Common Stock
 TILC - Thrivent International Large Cap ETF
 TILE - Interface, Inc. - Common Stock
 TILL - Teucrium Agricultural Strategy No K-1 ETF
-TILT - FlexShares Mornigstar US Market Factors Tilt Index Fund ETF
+TILT - Northern Trust Morningstar US Market Factor Tilt ETF
 TIMB - TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
 TIME - Clockwise U.S. Core Equity ETF
 TINS - Templeton International Insights ETF
@@ -10913,8 +10903,8 @@ TLSA - Tiziana Life Sciences Ltd - Common Shares
 TLSI - TriSalus Life Sciences, Inc. - Common Stock
 TLSIW - TriSalus Life Sciences, Inc. - Warrant
 TLT - iShares 20+ Year Treasury Bond ETF
-TLTD - FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund
-TLTE - FlexShares Morningstar Emerging Markets Factor Tilt Index Fund
+TLTD - Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF
+TLTE - Northern Trust Morningstar Emerging Markets Factor Tilt ETF
 TLTI - NEOS Enhanced Income 20+ Year Treasury Bond ETF
 TLTP - Amplify TLT U.S. Treasury 12% Option Income ETF
 TLTW - iShares 20+ Year Treasury Bond BuyWrite Strategy ETF
