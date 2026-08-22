@@ -1171,6 +1171,7 @@ BDBT - Bluemonte Core Bond ETF
 BDC - Belden Inc Common Stock
 BDCI - BTC Development Corp. - Class A Ordinary Shares
 BDCIU - BTC Development Corp. - Unit
+BDCIW - BTC Development Corp. - Warrant
 BDCX - ETRACS Quarterly Pay 1.5x Leveraged MarketVector BDC Liquid Index ETN due June 10, 2050
 BDCZ - ETRACS MarketVector Business Development Companies Liquid Index ETN due April 26, 2041
 BDEC - Innovator U.S. Equity Buffer ETF - December
@@ -1875,7 +1876,6 @@ CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
 CAQ - Cambridge Acquisition Corp. - Class A Ordinary Shares
 CAQUU - Cambridge Acquisition Corp. - Unit
-CAQUW - Cambridge Acquisition Corp. - Warrants
 CAR - Avis Budget Group, Inc. - Common Stock
 CARD - MAX Auto Industry -3x Inverse Leveraged ETN
 CARE - Carter Bankshares, Inc. - Common Stock
@@ -2354,6 +2354,7 @@ CNYA - iShares MSCI China A ETF
 COAG - Hemab Therapeutics Holdings, Inc. - Common Stock
 COAL - Range Global Coal Index ETF
 COCH - Envoy Medical, Inc. - Class A Common Stock
+COCHW - Envoy Medical, Inc. - Warrant
 COCO - The Vita Coco Company, Inc. - Common Stock
 COCP - Cocrystal Pharma, Inc. - Common Stock
 CODA - Coda Octopus Group, Inc. - Common stock
@@ -2487,7 +2488,6 @@ CQQQ - Invesco China Technology ETF
 CQTM - Corgi Quantum Computing ETF
 CR - Crane Company Common Stock
 CRAC - Crown Reserve Acquisition Corp. I - Class A Ordinary Shares
-CRACR - Crown Reserve Acquisition Corp. I - Rights
 CRACU - Crown Reserve Acquisition Corp. I - Unit
 CRACW - Crown Reserve Acquisition Corp. I - Warrant
 CRAI - CRA International,Inc. - Common Stock
@@ -3727,7 +3727,6 @@ EVNT - AltShares Event-Driven ETF
 EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
 EVOX - Evolution Global Acquisition Corp - Class A Ordinary Shares
 EVOXU - Evolution Global Acquisition Corp - Units
-EVOXW - Evolution Global Acquisition Corp - Warrants
 EVPF - Eaton Vance Preferred Securities and Income ETF
 EVR - Evercore Inc. Class A Common Stock
 EVRG - Evergy, Inc. - Common Stock
@@ -4182,7 +4181,6 @@ FLYW - Flywire Corporation - Voting Common Stock
 FLYX - flyExclusive, Inc. Class A Common Stock
 FLZH - Flash Sports & Media Holdings, Inc. - Common Stock
 FMAC - Future Money Acquisition Corporation - Ordinary Shares
-FMACR - Future Money Acquisition Corporation - Rights
 FMACU - Future Money Acquisition Corporation - Units
 FMAG - Fidelity Magellan ETF
 FMAO - Farmers & Merchants Bancorp, Inc. - Common Stock
@@ -4460,6 +4458,7 @@ FWRG - First Watch Restaurant Group, Inc. - Common Stock
 FXA - Invesco CurrencyShares Australian Dollar Trust
 FXAC - FortuneX Acquisition Corporation - Ordinary shares
 FXACU - FortuneX Acquisition Corporation - Units
+FXACW - FortuneX Acquisition Corporation - Warrant
 FXB - Invesco CurrencyShares British Pound Sterling Trust
 FXC - Invesco CurrencyShares Canadian Dollar Trust
 FXD - First Trust Cons. Discret. AlphaDEX
@@ -5153,6 +5152,7 @@ HGTY - Hagerty, Inc. Class A Common Stock
 HGV - Hilton Grand Vacations Inc. Common Stock 
 HHH - Howard Hughes Holdings Inc. Common Stock
 HHS - Harte Hanks, Inc. - Common Stock
+HIAI - Ai Funds High Conviction US Equity AI-Managed ETF
 HIBL - Direxion Daily S&P 500 High Beta Bull 3X ETF
 HIBS - Direxion Daily S&P 500 High Beta Bear 3X ETF
 HIDE - Alpha Architect High Inflation and Deflation ETF
@@ -5346,6 +5346,9 @@ HWKN - Hawkins, Inc. - Common Stock
 HWM - Howmet Aerospace Inc. Common Stock
 HWO - Hotchkis & Wiley Opportunities Fund
 HWSM - Hotchkis & Wiley SMID Cap Diversified Value Fund
+HXA - Mast HedgeIndex Corporate Arbitrage ETF
+HXC - Mast HedgeIndex Strategic Commodities ETF
+HXE - Mast HedgeIndex Adaptive Equities ETF
 HXHX - Haoxin Holdings Limited - Class A Ordinary Shares
 HXL - Hexcel Corporation Common Stock
 HY - Hyster-Yale, Inc. Class A common stock
@@ -6479,7 +6482,6 @@ KXI - iShares Global Consumer Staples ETF
 KXIN - Kaixin Holdings - Ordinary Shares
 KYC - Corgi Digital Banking & Fintech Infrastructure ETF
 KYIV - Kyivstar Group Ltd. - Common Shares
-KYIVW - Kyivstar Group Ltd. - Warrant
 KYLD - Kurv High Income ETF
 KYMR - Kymera Therapeutics, Inc. - Common Stock
 KYN - Kayne Anderson Energy Infrastructure Fund, Inc.
@@ -7028,6 +7030,7 @@ MEDS - DataMeds AI, Inc. - Common Stock
 MEDX - Horizon Kinetics Medical ETF
 MEGI - NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares
 MEGL - Magic Empire Global Limited - Class A Ordinary Shares
+MEGX - Corgi U.S. Mega-Cap Growth 2x Daily ETF
 MEI - Methode Electronics, Inc. Common Stock
 MEIB - Direxion META Defined Income Boost ETF
 MELI - MercadoLibre, Inc. - Common Stock
@@ -7580,7 +7583,6 @@ NBOS - Neuberger Option Strategy ETF
 NBP - NovaBridge Biosciences - American Depositary Shares
 NBR - Nabors Industries Ltd.
 NBRG - Newbridge Acquisition Limited - Class A Ordinary Share
-NBRGR - Newbridge Acquisition Limited - Rights
 NBRGU - Newbridge Acquisition Limited - Unit
 NBSD - Neuberger Short Duration Income ETF
 NBSM - Neuberger Small-Mid Cap ETF
@@ -7603,7 +7605,6 @@ NCMI - National CineMedia, Inc. - Common Stock
 NCNA - NuCana plc - American Depositary Shares
 NCNO - nCino, Inc. - Common Stock
 NCO - Southern Cross Acquisition I Corp. - Ordinary Shares
-NCOOR - Southern Cross Acquisition I Corp. - Rights
 NCOOU - Southern Cross Acquisition I Corp. - Units
 NCOOW - Southern Cross Acquisition I Corp. - Warrants
 NCPB - Nuveen Core Plus Bond ETF
@@ -7728,7 +7729,6 @@ NISM - NYLI International Small-Mid Cap Equity ETF
 NITE - The Nightview Fund NITE
 NIU - Niu Technologies - American Depositary Shares
 NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
-NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
 NJAN - Innovator Growth-100 Power Buffer ETF - January
@@ -8268,7 +8268,9 @@ OSG - Octave Specialty Group, Inc. Common Stock
 OSIS - OSI Systems, Inc. - Common Stock
 OSK - Oshkosh Corporation (Holding Company)Common Stock
 OSPN - OneSpan Inc. - Common Stock
+OSPR - Osprey Acquisition Corp. III - Class A Ordinary Shares
 OSPRU - Osprey Acquisition Corp. III - Units
+OSPRW - Osprey Acquisition Corp. III - Warrants
 OSRH - OSR Health, Inc. - Common Stock
 OSRHW - OSR Health, Inc. - Warrant
 OSS - One Stop Systems, Inc. - Common Stock
@@ -9017,7 +9019,6 @@ Q - Qnity Electronics, Inc. Common Stock
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
 QADR - QDRO Acquisition Corp. - Class A Ordinary Shares
 QADRU - QDRO Acquisition Corp. - Units
-QADRW - QDRO Acquisition Corp. - Warrant
 QAI - NYLI Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
 QARP - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF
@@ -9913,6 +9914,7 @@ SEPI - Shelton Equity Premium Income ETF
 SEPM - FT Vest U.S. Equity Max Buffer ETF - September
 SEPN - Septerna, Inc. - Common Stock
 SEPP - PGIM S&P 500 Buffer 12 ETF - September
+SEPQ - STF Tactical Growth & Income ETF
 SEPT - AllianzIM U.S. Large Cap Buffer10 Sep ETF
 SEPU - AllianzIM U.S. Equity Buffer15 Uncapped Sep ETF
 SEPW - AllianzIM U.S. Large Cap Buffer20 Sep ETF
@@ -10481,7 +10483,6 @@ SSBI - Summit State Bank - Common Stock
 SSCP - SMART Small Cap ETF
 SSD - Simpson Manufacturing Company, Inc. Common Stock
 SSEA - Starry Sea Acquisition Corp - Ordinary Shares
-SSEAR - Starry Sea Acquisition Corp - Rights
 SSEAU - Starry Sea Acquisition Corp - Unit
 SSFI - Day Hagan Smart Sector Fixed Income ETF
 SSG - ProShares UltraShort Semiconductors
@@ -11499,6 +11500,7 @@ USL - United States 12 Month Oil
 USLM - United States Lime & Minerals, Inc. - Common Stock
 USLN - iShares Broad USD Floating Rate Loan ETF
 USLV - Direxion Daily Silver Bull 2X ETF
+USLX - Corgi U.S. Large-Cap 2x Daily ETF
 USMC - Principal U.S. Mega-Cap ETF
 USMD - CoreValues America First Technology ETF
 USMF - WisdomTree U.S. Multifactor Fund
@@ -11631,7 +11633,6 @@ VEA - Vanguard FTSE Developed Markets ETF
 VECA - Vernal Capital Acquisition Corp. Ordinary Shares
 VECO - Veeco Instruments Inc. - Common Stock
 VEEA - Veea Inc. - Common Stock
-VEEAW - Veea Inc. - Warrant
 VEEE - Twin Vee PowerCats Co. - Common Stock
 VEEV - Veeva Systems Inc. Class A Common Stock
 VEFA - VanEck MSCI EAFE Analyst Sentiment ETF
@@ -12099,7 +12100,6 @@ WTF - Waton Financial Limited - Ordinary Shares
 WTFC - Wintrust Financial Corporation - Common Stock
 WTFCN - Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share
 WTG - Wintergreen Acquisition Corp. - Ordinary Shares
-WTGUR - Wintergreen Acquisition Corp. - Rights
 WTGUU - Wintergreen Acquisition Corp. - Unit
 WTI - W&T Offshore, Inc. Common Stock
 WTIB - USCF Oil Plus Bitcoin Strategy Fund
@@ -12524,7 +12524,6 @@ ZNTL - Zentalis Pharmaceuticals, Inc. - common stock
 ZOCT - Innovator Equity Defined Protection ETF - 1 Yr October
 ZONE - CleanCore Solutions Inc. Class B Common Stock
 ZOOZ - ZOOZ Strategy Ltd. - Ordinary Shares
-ZOOZW - ZOOZ Strategy Ltd. - Warrant
 ZROZ - PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund
 ZS - Zscaler, Inc. - Common Stock
 ZSB - USCF Sustainable Battery Metals Strategy Fund
