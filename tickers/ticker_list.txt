@@ -1200,7 +1200,6 @@ BEATW - Heartbeam, Inc. - Warrant
 BEBE - TGE Value Creative Solutions Corp Class A Ordinary Shares
 BEC - Corgi BE 2x Daily ETF
 BEDY - BNY Mellon Enhanced Dividend and Income ETF
-BEDZ - AdvisorShares Hotel ETF
 BEEM - Beam Global - Common Stock
 BEEP - Mobile Infrastructure Corporation - Common Stock
 BEEX - The Beehive ETF
@@ -3411,8 +3410,8 @@ EHLD - Euroholdings Ltd. - Common Stock
 EHLS - Even Herd Long Short ETF
 EHTH - eHealth, Inc. - Common Stock
 EHY - Amplify Ethereum Max Income Covered Call ETF
-EIC - Eagle Point Income Company Inc. Common Stock
-EICA - Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026
+EIC - Eagle Point Income Company Common Shares of Beneficial Interest
+EICA - Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026
 EIDO - iShares MSCI Indonesia ETF
 EIG - Employers Holdings Inc Common Stock
 EIIA - Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029
@@ -4854,7 +4853,6 @@ GPRK - Geopark Ltd Common Shares
 GPRO - GoPro, Inc. - Class A Common Stock
 GPT - Intelligent Alpha Atlas ETF
 GPTY - YieldMax AI & Tech Portfolio Option Income ETF
-GPUS - Hyperscale Data, Inc. Common Stock
 GPZ - VanEck Alternative Asset Manager ETF
 GQGU - GQG US Equity ETF
 GQI - Natixis Gateway Quality Income ETF
@@ -7597,7 +7595,6 @@ NCEL - NewcelX Ltd. - Ordinary Shares
 NCEW - New Century Logistics (BVI) Limited - Ordinary Shares
 NCI - Neo-Concept International Group Holdings Limited - Class A Ordinary Shares
 NCIQ - Hashdex Nasdaq CME Crypto Index ETF
-NCL - Northann Corp. Common Stock
 NCLD - Roundhill Neocloud ETF
 NCLH - Norwegian Cruise Line Holdings Ltd. Ordinary Shares
 NCLO - Nuveen AA-BBB CLO ETF
@@ -9321,7 +9318,7 @@ RDZNW - Roadzen, Inc. - Warrants
 REA - Rare Earths Americas, Inc. Common Stock
 REAI - Intelligent Real Estate ETF
 REAL - The RealReal, Inc. - Common Stock
-REAX - The Real Brokerage, Inc. - Common Shares
+REAX - The Real Brokerage, Inc. - Common Stock
 REBN - Reborn Coffee, Inc. - Common Stock
 RECI - Columbia Research Enhanced Core Premium Income ETF
 RECS - Columbia Research Enhanced Core ETF
@@ -9520,7 +9517,6 @@ RNST - Renasant Corporation Common Stock
 RNTX - Rein Therapeutics, Inc. - Common Stock
 RNTY - YieldMax Target 12 Real Estate Option Income ETF
 RNW - ReNew Energy Global plc - Class A Shares
-RNWWW - ReNew Energy Global plc - Warrant
 RNXT - RenovoRx, Inc. - Common Stock
 ROAD - Construction Partners, Inc. - Common Stock
 ROAM - Hartford Multifactor Emerging Markets ETF
@@ -9748,7 +9744,6 @@ SBC - SBC Medical Group Holdings Incorporated - Common Stock
 SBCF - Seacoast Banking Corporation of Florida - Common Stock
 SBCWW - SBC Medical Group Holdings Incorporated - Warrants
 SBET - Sharplink, Inc. - Common Stock
-SBEV - Splash Beverage Group, Inc. (NV) Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
 SBFMW - Sunshine Biopharma Inc. - Warrant
@@ -11694,7 +11689,6 @@ VHUB - VenHub Global, Inc. - Common Stock
 VIA - Via Transportation, Inc. Class A Common Stock
 VIAG - Leverage Shares 2X Long VIAV Daily ETF
 VIAV - Viavi Solutions Inc. - Common Stock
-VICE - AdvisorShares Vice ETF
 VICI - VICI Properties Inc. Common Stock
 VICR - Vicor Corporation - Common Stock
 VIDA - VIDA Global Inc. Class A Common Stock
