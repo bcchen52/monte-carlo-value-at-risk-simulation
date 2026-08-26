@@ -176,6 +176,7 @@ ADAMO - Adamas Trust, Inc. - 9.250% Senior Notes Due 2031
 ADAMZ - Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share
 ADBE - Adobe Inc. - Common Stock
 ADBG - Leverage Shares 2X Long ADBE Daily ETF
+ADBT - Advasa Holdings, Inc. - Common stock
 ADBU - Direxion Daily ADBE Bull 2X ETF
 ADC - Agree Realty Corporation Common Stock
 ADCT - ADC Therapeutics SA Common Shares
@@ -1619,7 +1620,6 @@ BRTMU - B&R Technology Merger Corp. - Units
 BRTR - iShares Total Return Active ETF
 BRTX - BioRestorative Therapies, Inc. - Common Stock
 BRUN - Boost Run Inc. - Class A Common Stock
-BRUNW - Boost Run Inc. - Warrant
 BRVE - Braveheart Bio, Inc. - Common Stock
 BRW - Saba Capital Income & Opportunities Fund SBI
 BRX - Brixmor Property Group Inc. Common Stock
@@ -1688,6 +1688,7 @@ BSVN - Bank7 Corp. - Common stock
 BSVO - EA Bridgeway Omni Small-Cap Value ETF
 BSX - Boston Scientific Corporation Common Stock
 BSY - Bentley Systems, Incorporated - Class B Common Stock
+BTA - Beacon Tactical Alternatives Risk ETF
 BTAI - BioXcel Therapeutics, Inc. - Common Stock
 BTAL - AGF U.S. Market Neutral Anti-Beta Fund
 BTBD - BT Brands, Inc. - Common Stock
@@ -4184,7 +4185,6 @@ FLYT - Tradr 2X Long FLY Daily ETF
 FLYU - MicroSectors Travel 3x Leveraged ETN
 FLYW - Flywire Corporation - Voting Common Stock
 FLYX - flyExclusive, Inc. Class A Common Stock
-FLZH - Flash Sports & Media Holdings, Inc. - Common Stock
 FMAC - Future Money Acquisition Corporation - Ordinary Shares
 FMACR - Future Money Acquisition Corporation - Rights
 FMACU - Future Money Acquisition Corporation - Units
@@ -4561,7 +4561,6 @@ GDDY - GoDaddy Inc. Class A Common Stock
 GDE - WisdomTree Efficient Gold Plus Equity Strategy Fund
 GDEC - FT Vest U.S. Equity Moderate Buffer ETF - December
 GDEV - GDEV Inc. - Ordinary Shares
-GDEVW - GDEV Inc. - Warrant
 GDHG - Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares
 GDIV - Harbor Dividend Growth Leaders ETF
 GDL - GDL Fund, The Common Shares of Beneficial Interest
@@ -5026,6 +5025,7 @@ H - Hyatt Hotels Corporation Class A Common Stock
 HACK - Amplify Cybersecurity ETF
 HACQ - HCM IV Acquisition Corp. - Class A Ordinary Share
 HACQU - HCM IV Acquisition Corp. - Unit
+HACQW - HCM IV Acquisition Corp. - Warrants
 HAE - Haemonetics Corporation Common Stock
 HAFC - Hanmi Financial Corporation - Common Stock
 HAFN - Hafnia Limited Common Shares
@@ -5326,7 +5326,6 @@ HUIZ - Huize Holding Limited - American Depositary Shares
 HULL - Corgi Shipping & Global Logistics ETF
 HUM - Humana Inc. Common Stock
 HUMA - Humacyte, Inc. - Common Stock
-HUMAW - Humacyte, Inc. - Warrant
 HUMN - Roundhill Humanoid Robotics ETF
 HUN - Huntsman Corporation Common Stock
 HURA - TuHURA Biosciences, Inc. - Common Stock
@@ -6225,6 +6224,7 @@ JULM - FT Vest U.S. Equity Max Buffer ETF - July
 JULP - PGIM S&P 500 Buffer 12 ETF - July
 JULT - AllianzIM U.S. Large Cap Buffer10 Jul ETF
 JULU - AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF
+JULV - VanEck U.S. Equity Buffer ETF - July
 JULW - AllianzIM U.S. Large Cap Buffer20 Jul ETF
 JULZ - TrueShares Structured Outcome (July) ETF
 JUNC - Corgi U.S. Equities 10% Structured Buffer ETF - June Series
@@ -6361,6 +6361,7 @@ KLRA - Kailera Therapeutics, Inc. - Common stock
 KLRS - Kalaris Therapeutics, Inc.  - Common Stock
 KLTR - Kaltura, Inc. - Common Stock
 KLXE - KLX Energy Services Holdings, Inc.  - Common Stock
+KLXER - KLX Energy Services Holdings, Inc.  - Rights
 KMAR - Innovator U.S. Small Cap Power Buffer ETF - March
 KMAY - Innovator U.S. Small Cap Power Buffer ETF - May
 KMB - Kimberly-Clark Corporation - Common Stock
@@ -6535,6 +6536,7 @@ LB - LandBridge Company LLC Class A Shares Representing Limited Liability Compan
 LBAY - Leatherback Long/Short Alternative Yield ETF
 LBGJ - Li Bang International Corporation Inc. - Class A Ordinary Shares
 LBO - WHITEWOLF Publicly Listed Private Equity ETF
+LBOX - GraniteShares Short Term Box ETF
 LBRT - Liberty Energy Inc. Class A common stock
 LBRX - LB Pharmaceuticals Inc - Common Stock
 LBTYA - Liberty Global Ltd. - Class A Common Shares
@@ -7531,9 +7533,7 @@ MYRG - MYR Group, Inc. - Common Stock
 MYSE - Myseum.AI, Inc. - Common Stock
 MYSZ - My Size, Inc. - Common Stock
 MYX - Maywood Acquisition Corp. 2 - Class A Ordinary Share
-MYXXR - Maywood Acquisition Corp. 2 - Rights
 MYXXU - Maywood Acquisition Corp. 2 - Units
-MYXXW - Maywood Acquisition Corp. 2 - Warrants
 MYY - ProShares Short MidCap400
 MZTI - The Marzetti Company - Common Stock
 MZYX - MOZAYYX Acquisition Corp. Class A Ordinary Shares
@@ -7594,6 +7594,7 @@ NBOS - Neuberger Option Strategy ETF
 NBP - NovaBridge Biosciences - American Depositary Shares
 NBR - Nabors Industries Ltd.
 NBRG - Newbridge Acquisition Limited - Class A Ordinary Share
+NBRGR - Newbridge Acquisition Limited - Rights
 NBRGU - Newbridge Acquisition Limited - Unit
 NBSD - Neuberger Short Duration Income ETF
 NBSM - Neuberger Small-Mid Cap ETF
@@ -8127,7 +8128,6 @@ OGN - Organon & Co. Common Stock
 OGS - ONE Gas, Inc. Common Stock
 OGSP - Obra High Grade Structured Products ETF
 OHAC - Oceanhawk Acquisition Corp. - Class A Ordinary Shares
-OHACR - Oceanhawk Acquisition Corp. - Rights
 OHACU - Oceanhawk Acquisition Corp. - Units
 OHI - Omega Healthcare Investors, Inc. Common Stock
 OI - O-I Glass, Inc. Common Stock
@@ -8281,8 +8281,6 @@ OSPN - OneSpan Inc. - Common Stock
 OSPR - Osprey Acquisition Corp. III - Class A Ordinary Shares
 OSPRU - Osprey Acquisition Corp. III - Units
 OSPRW - Osprey Acquisition Corp. III - Warrants
-OSRH - OSR Health, Inc. - Common Stock
-OSRHW - OSR Health, Inc. - Warrant
 OSS - One Stop Systems, Inc. - Common Stock
 OSSL - Defiance Daily Target 2X Long OSS ETF
 OST - Ostin Technology Group Co., Ltd. - Class A Ordinary Shares
@@ -8490,7 +8488,6 @@ PCSA - Processa Pharmaceuticals, Inc. - Common Stock
 PCSG - Polen 5Perspectives Small-Mid Growth ETF
 PCT - PureCycle Technologies, Inc. - Common stock
 PCTTU - PureCycle Technologies, Inc. - Unit
-PCTTW - PureCycle Technologies, Inc. - Warrant
 PCTY - Paylocity Holding Corporation - Common Stock
 PCVX - Vaxcyte, Inc. - Common Stock
 PCY - Invesco Emerging Markets Sovereign Debt ETF
@@ -8586,7 +8583,6 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
-PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -9842,7 +9838,6 @@ SCOR - comScore, Inc. - Common Stock
 SCOW - Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
 SCPQ - Social Commerce Partners Corporation - Class A Ordinary Shares
 SCPQU - Social Commerce Partners Corporation - Unit
-SCPQW - Social Commerce Partners Corporation - Warrant
 SCSB - Sterling Capital Short Duration Bond ETF
 SCSC - ScanSource, Inc. - Common Stock
 SCTX - Scribe Therapeutics Inc. - Common Stock
@@ -10024,7 +10019,6 @@ SHYL - Xtrackers Short Duration High Yield Bond ETF
 SHYM - iShares Short Duration High Yield Muni Active ETF
 SI - Shoulder Innovations, Inc. Common Stock
 SIBN - SI-BONE, Inc. - Common Stock
-SIC - Tema Power Semiconductor ETF
 SID - Companhia Siderurgica Nacional S.A. Common Stock
 SIDU - Sidus Space, Inc. - Class A Common Stock
 SIEB - Siebert Financial Corp. - Common Stock
@@ -10445,6 +10439,7 @@ SPYT - Defiance S&P 500 Target Income ETF
 SPYU - MAX S&P 500 4X Leveraged ETNs due October 30, 2043
 SPYV - State Street SPDR Portfolio S&P 500 Value ETF
 SPYX - State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF
+SQBA - FT Vest U.S. Equity Quarterly 15 Buffer ETF
 SQFT - Presidio Property Trust, Inc. - Class A Common Stock
 SQFTP - Presidio Property Trust, Inc. - 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share
 SQFTW - Presidio Property Trust, Inc. - Series A Common Stock Purchase Warrants
@@ -12454,6 +12449,7 @@ YOUL - Youlife Group Inc. - American Depositary Shares
 YPF - YPF Sociedad Anonima American Depositary Shares
 YQ - 17 Education & Technology Group Inc. - American Depositary Shares
 YQQQ - YieldMax Short N100 Option Income Strategy ETF
+YRAM - YieldMax Memory and Storage Portfolio Option Income ETF
 YRD - Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares
 YSAG - Y'all Street Physical Silver ETF
 YSAU - Y'all Street Physical Gold ETF
