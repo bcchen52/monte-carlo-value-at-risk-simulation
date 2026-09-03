@@ -354,6 +354,7 @@ AIIOW - Robo.ai Inc. - Warrant
 AIIR - Air Global PLC - Ordinary shares
 AIM - AIM ImmunoTech Inc. Common Stock
 AIMD - Ainos, Inc. - Common Stock
+AIMDW - Ainos, Inc. - warrants
 AIMS - Acuitas Small Cap Active ETF
 AIN - Albany International Corporation Common Stock
 AINF - Defiance Inference AI Chip ETF
@@ -473,7 +474,6 @@ ALTY - Global X Alternative Income ETF
 ALUB - Alussa Energy Acquisition Corp. II Class A Ordinary Shares
 ALV - Autoliv, Inc. Common Stock
 ALVO - Alvotech - Ordinary Shares
-ALVOW - Alvotech - Warrant
 ALX - Alexander's, Inc. Common Stock
 ALXO - ALX Oncology Holdings Inc. - Common Stock
 ALZN - Alzamend Neuro, Inc. - Common Stock
@@ -748,7 +748,6 @@ AROW - Arrow Financial Corporation - Common Stock
 ARP - PMV Adaptive Risk Parity ETF
 ARQ - Arq, Inc. - Common Stock
 ARQQ - Arqit Quantum Inc. - Ordinary Shares
-ARQQW - Arqit Quantum Inc. - Warrants
 ARQT - Arcutis Biotherapeutics, Inc. - Common stock
 ARR - ARMOUR Residential REIT, Inc.
 ARRY - Array Technologies, Inc. - Common Stock
@@ -2989,6 +2988,7 @@ DIVB - iShares Core Dividend ETF
 DIVD - Altrius Global Dividend ETF
 DIVE - Dana Concentrated Dividend ETF
 DIVG - Invesco S&P 500 High Dividend Growers ETF
+DIVH - Integrity Dividend Harvest ETF
 DIVI - Franklin International Core Dividend Tilt Index ETF
 DIVL - Madison Dividend Value ETF
 DIVN - Horizon Dividend Income ETF
@@ -3714,6 +3714,7 @@ EVNT - AltShares Event-Driven ETF
 EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
 EVOX - Evolution Global Acquisition Corp - Class A Ordinary Shares
 EVOXU - Evolution Global Acquisition Corp - Units
+EVOXW - Evolution Global Acquisition Corp - Warrants
 EVPF - Eaton Vance Preferred Securities and Income ETF
 EVR - Evercore Inc. Class A Common Stock
 EVRG - Evergy, Inc. - Common Stock
@@ -3806,6 +3807,7 @@ FABC - Fabric.AI, Inc. - Common Stock
 FAC - Factorial Energy Inc. - Class A Common Stock
 FACT - FACT II Acquisition Corp. - Class A Ordinary Shares
 FACTU - FACT II Acquisition Corp. - Unit
+FACTW - FACT II Acquisition Corp. - Warrant
 FACWW - Factorial Energy Inc. - Warrant
 FAD - First Trust Multi Cap Growth AlphaDEX Fund
 FAF - First American Corporation (New) Common Stock
@@ -4672,6 +4674,7 @@ GIW - GigCapital8 Corp. - Class A Ordinary Shares
 GIWWR - GigCapital8 Corp. - Rights
 GIWWU - GigCapital8 Corp. - Units
 GIX - GigCapital9 Corp. - Class A Ordinary Share
+GIXI - Gix Internet Ltd. - Ordinary Shares
 GIXXR - GigCapital9 Corp. - Rights
 GIXXU - GigCapital9 Corp. - Units
 GJAN - FT Vest U.S. Equity Moderate Buffer ETF - January
@@ -4938,6 +4941,7 @@ GTENW - Gores Holdings X, Inc. - Warrants
 GTERA - Globa Terra Acquisition Corporation - Class A Ordinary Shares
 GTERR - Globa Terra Acquisition Corporation - Rights
 GTERU - Globa Terra Acquisition Corporation - Units
+GTERW - Globa Terra Acquisition Corporation - Warrants
 GTES - Gates Industrial Corporation Ltd. Common Shares
 GTIM - Good Times Restaurants Inc. - Common Stock
 GTIP - Goldman Sachs Access Inflation Protected USD Bond ETF
@@ -5334,6 +5338,7 @@ HWSM - Hotchkis & Wiley SMID Cap Diversified Value Fund
 HXA - Mast HedgeIndex Corporate Arbitrage ETF
 HXC - Mast HedgeIndex Strategic Commodities ETF
 HXE - Mast HedgeIndex Adaptive Equities ETF
+HXF - Mast HedgeIndex Managed Futures Strategy ETF
 HXHX - Haoxin Holdings Limited - Class A Ordinary Shares
 HXL - Hexcel Corporation Common Stock
 HY - Hyster-Yale, Inc. Class A common stock
@@ -6471,6 +6476,7 @@ KXI - iShares Global Consumer Staples ETF
 KXIN - Kaixin Holdings - Ordinary Shares
 KYC - Corgi Digital Banking & Fintech Infrastructure ETF
 KYIV - Kyivstar Group Ltd. - Common Shares
+KYIVW - Kyivstar Group Ltd. - Warrant
 KYLD - Kurv High Income ETF
 KYMR - Kymera Therapeutics, Inc. - Common Stock
 KYN - Kayne Anderson Energy Infrastructure Fund, Inc.
@@ -7513,6 +7519,7 @@ MYRG - MYR Group, Inc. - Common Stock
 MYSE - Myseum.AI, Inc. - Common Stock
 MYSZ - My Size, Inc. - Common Stock
 MYX - Maywood Acquisition Corp. 2 - Class A Ordinary Share
+MYXXR - Maywood Acquisition Corp. 2 - Rights
 MYXXU - Maywood Acquisition Corp. 2 - Units
 MYXXW - Maywood Acquisition Corp. 2 - Warrants
 MYY - ProShares Short MidCap400
@@ -7755,7 +7762,6 @@ NMIH - NMI Holdings Inc - Common Stock
 NML - Neuberger Energy Infrastructure and Income Fund Inc. Common Stock
 NMM - Navios Maritime Partners LP Common Units Representing Limited Partner Interests
 NMP - NMP Acquisition Corp. - Class A Ordinary Shares
-NMPAR - NMP Acquisition Corp. - Right
 NMPAU - NMP Acquisition Corp. - Units
 NMR - Nomura Holdings Inc ADR American Depositary Shares
 NMRA - Neumora Therapeutics, Inc. - Common Stock
@@ -7839,7 +7845,10 @@ NRT - North European Oil Royality Trust Common Stock
 NRUC - National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)
 NRXP - NRX Pharmaceuticals, Inc. - Common Stock
 NRXS - Neuraxis, Inc. Common Stock
+NSAI - NorthStrive Acquisition Corp I. - Class A Ordinary Shares
+NSAIR - NorthStrive Acquisition Corp I. - Rights
 NSAIU - NorthStrive Acquisition Corp I. - Units
+NSAIW - NorthStrive Acquisition Corp I. - Warrants
 NSC - Norfolk Southern Corporation Common Stock
 NSCI - Nuveen Securitized Income ETF
 NSEP - Innovator Growth-100 Power Buffer ETF - September
@@ -8855,7 +8864,6 @@ PRTS - CarParts.com, Inc. - Common Stock
 PRU - Prudential Financial, Inc. Common Stock
 PRVA - Privia Health Group, Inc. - Common Stock
 PRVS - Parnassus Value Select ETF
-PRVT - Tema Alternative Asset Managers ETF
 PRXG - Praxis Impact Large Cap Growth ETF
 PRXI - Praxis Impact International ETF
 PRXV - Praxis Impact Large Cap Value ETF
@@ -8928,7 +8936,6 @@ PSX - Phillips 66 Common Stock
 PTA - Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest
 PTAC - Patriot Acquisition Corp. - Class A Ordinary Shares
 PTACU - Patriot Acquisition Corp. - Units
-PTACW - Patriot Acquisition Corp. - Warrants
 PTBD - Pacer Trendpilot US Bond ETF
 PTC - PTC Inc. - Common Stock
 PTCT - PTC Therapeutics, Inc. - Common Stock
@@ -9267,7 +9274,6 @@ RCG - RENN Fund, Inc Common Stock
 RCGE - RockCreek Global Equality ETF
 RCI - Rogers Communication, Inc. Common Stock
 RCKT - Rocket Pharmaceuticals, Inc. - Common Stock
-RCKTW - Rocket Pharmaceuticals, Inc. - Warrant
 RCKY - Rocky Brands, Inc. - Common Stock
 RCL - Royal Caribbean Cruises Ltd. Common Stock
 RCLO - Reckoner BBB-B CLO ETF
@@ -11333,6 +11339,7 @@ UBSI - United Bankshares, Inc. - Common Stock
 UBT - ProShares Ultra 20+ Year Treasury
 UCAR - U Power Limited - Class A Ordinary Shares
 UCB - United Community Banks, Inc. Common Stock
+UCBG - State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF
 UCC - ProShares Ultra Consumer Discretionary
 UCFI - CN Healthy Food Tech Group Corp. - Common Stock
 UCIB - ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038
@@ -12169,6 +12176,7 @@ XBNB - Teucrium xETFs 2x Long Daily BNB ETF
 XBOC - Innovator U.S. Equity Accelerated 9 Buffer ETF - October
 XBOX - Roundhill Ultra Short Duration No Dividend Target ETF
 XBP - XBP Global Holdings, Inc. - Common Stock
+XBPEW - XBP Global Holdings, Inc. - Warrant
 XBTY - GraniteShares YieldBOOST Bitcoin ETF
 XC - WisdomTree True Emerging Markets Fund
 XCBE - X3 Acquisition Corp. Ltd. - Class A Ordinary Shares
