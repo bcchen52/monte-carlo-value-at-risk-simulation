@@ -457,7 +457,7 @@ ALNY - Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOV - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares
 ALOVU - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units
 ALOY - REalloys Inc. - Common Stock
-ALP - Alpha Compute Corp  - Common Stock
+ALP - Alpha Compute Corp  - Ordinary Shares
 ALPS - ALPS Group Inc - Ordinary Share
 ALPX - Alpex Acquisition Corporation - Class A Ordinary Shares
 ALPXR - Alpex Acquisition Corporation - Rights
@@ -1686,7 +1686,6 @@ BSVO - EA Bridgeway Omni Small-Cap Value ETF
 BSX - Boston Scientific Corporation Common Stock
 BSY - Bentley Systems, Incorporated - Class B Common Stock
 BTA - Beacon Tactical Alternatives Risk ETF
-BTAI - BioXcel Therapeutics, Inc. - Common Stock
 BTAL - AGF U.S. Market Neutral Anti-Beta Fund
 BTBD - BT Brands, Inc. - Common Stock
 BTBDW - BT Brands, Inc. - Warrant
@@ -4662,7 +4661,6 @@ GIND - Goldman Sachs India Equity ETF
 GINN - Goldman Sachs Innovate Equity ETF
 GINX - SGI Enhanced Global Income ETF
 GIPR - Generation Income Properties Inc. - Common stock
-GIPRW - Generation Income Properties Inc. - Warrant
 GIS - General Mills, Inc. Common Stock
 GISC - Guggenheim Securitized Income ETF
 GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
@@ -6737,7 +6735,6 @@ LPG - Dorian LPG Ltd. Common Stock
 LPL - LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPLA - LPL Financial Holdings Inc. - Common Stock
 LPRE - Long Pond Real Estate Select ETF
-LPSN - LivePerson, Inc. - Common Stock
 LPTH - LightPath Technologies, Inc. - Class A Common Stock
 LPX - Louisiana-Pacific Corporation Common Stock
 LQ - Simplify Tax Aware Alternatives ETF
