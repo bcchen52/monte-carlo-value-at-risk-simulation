@@ -672,6 +672,7 @@ APT - Alpha Pro Tech, Ltd. Common Stock
 APTV - Aptiv PLC Ordinary Shares
 APUE - ActivePassive U.S. Equity ETF
 APUR - Aperture AC - Class A Ordinary Shares
+APURR - Aperture AC - Rights
 APUS - Apimeds Pharmaceuticals US, Inc. Common Stock
 APVO - Aptevo Therapeutics Inc. - Common Stock
 APWC - Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share
@@ -3632,6 +3633,7 @@ ESGV - Vanguard ESG U.S. Stock ETF
 ESI - Element Solutions Inc. Common Stock
 ESIM - Eventide International ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
+ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLG - Eventide Large Cap Growth ETF
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESLV - Eventide Large Cap Value ETF
@@ -4022,6 +4024,7 @@ FGI - FGI Industries Ltd. - Ordinary Shares
 FGII - FG Imperii Acquisition Corp. - Class A Ordinary Shares
 FGIIU - FG Imperii Acquisition Corp. - Units
 FGIIW - FG Imperii Acquisition Corp. - Warrants
+FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
 FGN - F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053
@@ -4593,6 +4596,7 @@ GEMD - Goldman Sachs Access Emerging Markets USD Bond ETF
 GEME - Pacific North of South EM Equity Active ETF
 GEMG - Leverage Shares 2X Long GEMI Daily ETF
 GEMI - Gemini Space Station, Inc. - Class A Common Stock
+GEMQ - Goldman Sachs Data Enhanced Emerging Markets Equity ETF
 GEN - Gen Digital Inc. - Common Stock
 GENB - Generate Biomedicines, Inc. - Common Stock
 GENC - Gencor Industries, Inc. Common Stock
@@ -5194,6 +5198,7 @@ HLMN - Hillman Solutions Corp. - Common Stock
 HLN - Haleon plc American Depositary Shares (Each representing two Ordinary Shares)
 HLNE - Hamilton Lane Incorporated - Class A Common Stock
 HLP - Hongli Group Inc. - Class A Ordinary Shares
+HLSQ - Tessera Defense and Homeland Security Inc. Common Stock
 HLT - Hilton Worldwide Holdings Inc. Common Stock 
 HLTH - Tema Healthcare AI ETF
 HLXC - Helix Acquisition Corp. III - Class A Ordinary Shares
@@ -6877,6 +6882,7 @@ MAAY - GraniteShares YieldBOOST MARA ETF
 MAC - Macerich Company (The) Common Stock
 MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
+MACIW - Melar Acquisition Corp. I - Warrant
 MADE - iShares U.S. Manufacturing ETF
 MAGA - Truth Social America First ETF
 MAGC - Roundhill China Magnificent Seven ETF
@@ -7180,6 +7186,7 @@ MJUN - Pacer Swan SOS Moderate June ETF
 MKAM - MKAM ETF
 MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
+MKDWW - MKDWELL Tech Inc. - Warrants
 MKL - Markel Group Inc. Common Stock
 MKLY - McKinley Acquisition Corporation - Class A Ordinary Shares
 MKLYR - McKinley Acquisition Corporation - Rights
@@ -7194,6 +7201,7 @@ MLAA - Mountain Lake Acquisition Corp. II - Class A Ordinary Shares
 MLAAU - Mountain Lake Acquisition Corp. II - Units
 MLAAW - Mountain Lake Acquisition Corp. II - Warrants
 MLAB - Mesa Laboratories, Inc. - Common Stock
+MLCC - Global X MLCC & Electronic Components ETF
 MLCI - Mount Logan Capital Inc. - Common Stock
 MLCIL - Mount Logan Capital Inc. - 8.00% Notes Due 2031
 MLCO - Melco Resorts & Entertainment Limited - American Depositary Shares 
@@ -7855,7 +7863,6 @@ NRO - Neuberger Real Estate Securities Income Fund Inc. Common Stock
 NRP - Natural Resource Partners LP Limited Partnership
 NRSH - Aztlan North America Nearshoring Stock Selection ETF
 NRSN - NeuroSense Therapeutics Ltd. - Ordinary Shares
-NRSNW - NeuroSense Therapeutics Ltd. - Warrant
 NRT - North European Oil Royality Trust Common Stock
 NRUC - National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)
 NRXP - NRX Pharmaceuticals, Inc. - Common Stock
@@ -8048,7 +8055,6 @@ OABI - OmniAb, Inc. - Common Stock
 OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
-OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - OneAscent Core Plus Bond ETF
 OAEM - OneAscent Emerging Markets ETF
 OAIM - OneAscent International Equity ETF
@@ -8084,7 +8090,10 @@ OCFC - OceanFirst Financial Corp. - Common Stock
 OCG - Oriental Culture Holding LTD - Ordinary Shares
 OCGN - Ocugen, Inc. - Common Stock
 OCIO - ClearShares OCIO ETF
+OCLT - OceanLight Acquisition Corporation - Ordinary Shares
+OCLTR - OceanLight Acquisition Corporation - Rights
 OCLTU - OceanLight Acquisition Corporation - Units
+OCLTW - OceanLight Acquisition Corporation - Warrants
 OCNL - T-REX 2X Long DOCN Daily Target ETF
 OCS - Oculis Holding AG - Ordinary shares
 OCSAW - Oculis Holding AG - Warrants
@@ -9730,6 +9739,7 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
+SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SAM - Boston Beer Company, Inc. (The) Common Stock
@@ -10503,7 +10513,6 @@ SSBI - Summit State Bank - Common Stock
 SSCP - SMART Small Cap ETF
 SSD - Simpson Manufacturing Company, Inc. Common Stock
 SSEA - Starry Sea Acquisition Corp - Ordinary Shares
-SSEAR - Starry Sea Acquisition Corp - Rights
 SSEAU - Starry Sea Acquisition Corp - Unit
 SSFI - Day Hagan Smart Sector Fixed Income ETF
 SSG - ProShares UltraShort Semiconductors
@@ -10820,7 +10829,6 @@ TDVG - T. Rowe Price Dividend Growth ETF
 TDVI - FT Vest Technology Dividend Target Income ETF
 TDW - Tidewater Inc. Common Stock
 TDWD - Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares
-TDWDR - Tailwind 2.0 Acquisition Corp. - Rights
 TDWDU - Tailwind 2.0 Acquisition Corp. - Unit
 TDY - Teledyne Technologies Incorporated Common Stock
 TE - T1 Energy Inc. Common Stock
