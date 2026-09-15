@@ -69,6 +69,7 @@ ABLV - Able View Global Inc. - Class B Ordinary Shares
 ABLVW - Able View Global Inc. - Warrant
 ABM - ABM Industries Incorporated Common Stock
 ABNB - Airbnb, Inc. - Class A Common Stock
+ABND - American Century Core Plus Income ETF
 ABOS - Acumen Pharmaceuticals, Inc. - Common Stock
 ABOT - Abacus FCF Innovation Leaders ETF
 ABR - Arbor Realty Trust Common Stock
@@ -2406,6 +2407,7 @@ COO - The Cooper Companies, Inc.  - Common Stock
 COOK - Traeger, Inc. Common Stock
 COOL - VegaShares AI Thermal, Cooling & Power Management ETF
 COOT - Australian Oilseeds Holdings Limited - Ordinary Shares
+COOTW - Australian Oilseeds Holdings Limited - Warrant
 COP - ConocoPhillips Common Stock
 COPA - Themes Copper Miners ETF
 COPJ - Sprott Junior Copper Miners ETF
@@ -2500,6 +2502,7 @@ CRAI - CRA International,Inc. - Common Stock
 CRAK - VanEck Oil Refiners ETF
 CRAM - Defiance China Memory ETF
 CRAN - Crane Harbor Acquisition Corp. II - Class A Ordinary Shares
+CRANR - Crane Harbor Acquisition Corp. II - Rights
 CRANU - Crane Harbor Acquisition Corp. II - Units
 CRAQ - Cal Redwood Acquisition Corp. - Class A Ordinary Shares
 CRAQR - Cal Redwood Acquisition Corp. - Right
@@ -3858,6 +3861,7 @@ FBUF - Fidelity Dynamic Buffered Equity ETF
 FBX - Corgi META 2x Daily ETF
 FBY - YieldMax META Option Income Strategy ETF
 FBYD - Falcon's Beyond Global, Inc. - Class A Common Stock
+FBYDW - Falcon's Beyond Global, Inc. - Warrants
 FBYY - GraniteShares YieldBOOST META ETF
 FC - Franklin Covey Company Common Stock
 FCA - First Trust China AlphaDEX Fund
@@ -4926,6 +4930,7 @@ GSRF - GSR IV Acquisition Corp. - Class A ordinary share
 GSRFR - GSR IV Acquisition Corp. - Rights
 GSRFU - GSR IV Acquisition Corp. - Units
 GSRV - GSR V Acquisition Corp. - Class A ordinary shares
+GSRVR - GSR V Acquisition Corp. - Rights
 GSRVU - GSR V Acquisition Corp. - Units
 GSSC - GS ActiveBeta U.S. Small Cap Equity ETF
 GSST - Goldman Sachs Ultra Short Bond ETF
@@ -7853,6 +7858,7 @@ NRO - Neuberger Real Estate Securities Income Fund Inc. Common Stock
 NRP - Natural Resource Partners LP Limited Partnership
 NRSH - Aztlan North America Nearshoring Stock Selection ETF
 NRSN - NeuroSense Therapeutics Ltd. - Ordinary Shares
+NRSNW - NeuroSense Therapeutics Ltd. - Warrant
 NRT - North European Oil Royality Trust Common Stock
 NRUC - National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)
 NRXP - NRX Pharmaceuticals, Inc. - Common Stock
@@ -8484,6 +8490,7 @@ PCMM - BondBloxx Private Credit CLO ETF
 PCN - Pimco Corporate & Income Strategy Fund Common Stock
 PCOR - Procore Technologies, Inc. Common Stock
 PCOV - Principal Equity Premium Income ETF
+PCPC - Porter & Company Property & Casualty Index ETF
 PCPI - PIMCO Inflation PLUS Active Exchange-Traded Fund
 PCPP - Porter & Company Porter Portfolio Index ETF
 PCQ - PIMCO California Municipal Income Fund Common Stock
@@ -8781,6 +8788,7 @@ POLEU - Andretti Acquisition Corp. II - Unit
 POLEW - Andretti Acquisition Corp. II - Warrant
 POM - POMDOCTOR LIMITED - American Depositary Shares
 PONO - Pono Capital Four, Inc. - Class A Ordinary Shares
+PONOR - Pono Capital Four, Inc. - Rights
 PONOU - Pono Capital Four, Inc. - Units
 PONX - Tradr 2X Long PONY Daily ETF
 PONY - Pony AI Inc. - American Depositary Shares
@@ -9176,6 +9184,7 @@ QRMI - Global X NASDAQ 100 Risk Managed Income ETF
 QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation - Common Stock
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
+QSEAR - Quartzsea Acquisition Corporation - Rights
 QSEAU - Quartzsea Acquisition Corporation - Units
 QSI - Quantum-Si Incorporated - Class A Common Stock
 QSIG - WisdomTree U.S. Short Term Corporate Bond Fund
@@ -9513,6 +9522,7 @@ RMT - Royce Micro-Cap Trust, Inc. Common Stock
 RMTI - Rockwell Medical, Inc. - Common Stock
 RNA - Atrium Therapeutics, Inc. - Common Stock
 RNAC - Cartesian Therapeutics, Inc. - Common Stock
+RNAQ - Rainier Acquisition Corporation - Class A Ordinary Shares
 RNAQU - Rainier Acquisition Corporation - Units
 RNAZ - TransCode Therapeutics, Inc. - Common Stock
 RND - First Trust Bloomberg R&D Leaders ETF
@@ -9846,6 +9856,7 @@ SCOR - comScore, Inc. - Common Stock
 SCOW - Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF
 SCPQ - Social Commerce Partners Corporation - Class A Ordinary Shares
 SCPQU - Social Commerce Partners Corporation - Unit
+SCPQW - Social Commerce Partners Corporation - Warrant
 SCSB - Sterling Capital Short Duration Bond ETF
 SCSC - ScanSource, Inc. - Common Stock
 SCTX - Scribe Therapeutics Inc. - Common Stock
@@ -10812,6 +10823,7 @@ TDVG - T. Rowe Price Dividend Growth ETF
 TDVI - FT Vest Technology Dividend Target Income ETF
 TDW - Tidewater Inc. Common Stock
 TDWD - Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares
+TDWDR - Tailwind 2.0 Acquisition Corp. - Rights
 TDWDU - Tailwind 2.0 Acquisition Corp. - Unit
 TDY - Teledyne Technologies Incorporated Common Stock
 TE - T1 Energy Inc. Common Stock
@@ -11659,6 +11671,7 @@ VEA - Vanguard FTSE Developed Markets ETF
 VECA - Vernal Capital Acquisition Corp. Ordinary Shares
 VECO - Veeco Instruments Inc. - Common Stock
 VEEA - Veea Inc. - Common Stock
+VEEAW - Veea Inc. - Warrant
 VEEE - Twin Vee PowerCats Co. - Common Stock
 VEEM - VanEck MSCI EM Analyst Sentiment ETF
 VEEV - Veeva Systems Inc. Class A Common Stock
@@ -12059,6 +12072,7 @@ WLDU - Leverage Shares 2x Long World Stock Daily ETF
 WLFC - Willis Lease Finance Corporation - Common Stock
 WLII - Willow Lane Acquisition Corp. II - Class A Ordinary Shares
 WLIIU - Willow Lane Acquisition Corp. II - Unit
+WLIIW - Willow Lane Acquisition Corp. II - Warrants
 WLK - Westlake Corporation Common Stock
 WLKP - Westlake Chemical Partners LP Common Units representing limited partner interests
 WLTG - WealthTrust DBS Long Term Growth ETF
@@ -12399,6 +12413,7 @@ XTRE - BondBloxx Bloomberg Three Year Target Duration US Treasury ETF
 XTWO - BondBloxx Bloomberg Two Year Target Duration US Treasury ETF
 XTWY - BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF
 XUDV - Franklin U.S. Dividend Booster Index ETF
+XUSM - MarketDesk International Momentum ETF
 XUSP - Innovator Uncapped Accelerated U.S. Equity ETF
 XV - Simplify Target 15 Distribution ETF
 XVAP - FT Vest AAPL & Target Income ETF
