@@ -200,7 +200,6 @@ ADP - Automatic Data Processing, Inc. - Common Stock
 ADPT - Adaptive Biotechnologies Corporation - Common Stock
 ADPV - Adaptiv Select ETF
 ADSE - ADS-TEC ENERGY PLC - Ordinary Shares
-ADSEW - ADS-TEC ENERGY PLC - Warrant
 ADSK - Autodesk, Inc. - Common Stock
 ADT - ADT Inc. Common Stock
 ADTN - ADTRAN Holdings, Inc. - Common Stock
@@ -426,6 +425,7 @@ ALCO - Alico, Inc. - Common Stock
 ALDB - Aptus Laddered Deep Buffer ETF
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
+ALDFW - Aldel Financial II Inc. - Warrants
 ALDX - Aldeyra Therapeutics, Inc. - Common Stock
 ALEC - Alector, Inc. - Common Stock
 ALF - Centurion Acquisition Corp. - Class A Ordinary Shares
@@ -468,7 +468,6 @@ ALPS - ALPS Group Inc - Ordinary Share
 ALPX - Alpex Acquisition Corporation - Class A Ordinary Shares
 ALPXR - Alpex Acquisition Corporation - Rights
 ALPXU - Alpex Acquisition Corporation - Units
-ALPXW - Alpex Acquisition Corporation - Warrants
 ALRG - Allspring LT Large Core ETF
 ALRM - Alarm.com Holdings, Inc. - Common Stock
 ALRS - Alerus Financial Corporation - Common Stock
@@ -1911,6 +1910,8 @@ CAT - Caterpillar, Inc. Common Stock
 CATF - American Century California Municipal Bond ETF
 CATG - Leverage Shares 2X Long CAT Daily ETF
 CATH - Global X S&P 500 Catholic Values ETF
+CATL - Catalyst Acquisition Corp. - Class A Ordinary Share
+CATLR - Catalyst Acquisition Corp. - Rights
 CATLU - Catalyst Acquisition Corp. - Units
 CATO - Cato Corporation (The) Class A Common Stock
 CATX - Perspective Therapeutics, Inc. Common Stock
@@ -2933,6 +2934,7 @@ DFNSW - T3 Defense Inc. - Warrants
 DFP - Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock
 DFSB - Dimensional Global Sustainability Fixed Income ETF
 DFSC - DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering
+DFSCW - DEFSEC Technologies Inc. - warrant
 DFSD - Dimensional Short-Duration Fixed Income ETF
 DFSE - Dimensional Emerging Markets Sustainability Core 1 ETF
 DFSI - Dimensional International Sustainability Core 1 ETF
@@ -3320,6 +3322,7 @@ ECOW - Pacer Emerging Markets Cash Cows 100 ETF
 ECPG - Encore Capital Group Inc - Common Stock
 ECVT - Ecovyst Inc. Common Stock
 ECX - ECARX Holdings Inc. - Class A Ordinary shares
+ECXWW - ECARX Holdings Inc. - Warrants
 ED - Consolidated Edison, Inc. Common Stock
 EDBL - Edible Garden AG Incorporated - Common Stock
 EDBLW - Edible Garden AG Incorporated - Warrant
@@ -4456,8 +4459,8 @@ FWACR - Futurewave Acquisition Corporation - Rights
 FWACU - Futurewave Acquisition Corporation - Units
 FWD - AB Disruptors ETF
 FWDI - Forward Industries, Inc. - Common Stock
-FWONA - Liberty Media Corporation - Series A Liberty Formula One Common Stock
-FWONK - Liberty Media Corporation - Series C Liberty Formula One Common Stock
+FWONA - Liberty Media Corporation - Series A Common Stock
+FWONK - Liberty Media Corporation - Series C Common Stock
 FWRD - Forward Air Corporation - Common Stock
 FWRG - First Watch Restaurant Group, Inc. - Common Stock
 FXA - Invesco CurrencyShares Australian Dollar Trust
@@ -4687,6 +4690,7 @@ GIS - General Mills, Inc. Common Stock
 GISC - Guggenheim Securitized Income ETF
 GITS - Global Interactive Technologies, Inc. Common Stock - Common Stock
 GIW - GigCapital8 Corp. - Class A Ordinary Shares
+GIWWR - GigCapital8 Corp. - Rights
 GIWWU - GigCapital8 Corp. - Units
 GIX - GigCapital9 Corp. - Class A Ordinary Share
 GIXI - Gix Internet Ltd. - Ordinary Shares
@@ -5044,7 +5048,6 @@ HAUG - Corgi U.S. Equities 100% Structured Buffer ETF - August Series
 HAUS - Residential REIT ETF
 HAUZ - Xtrackers International Real Estate ETF
 HAVA - Harvard Ave Acquisition Corporation - Class A Ordinary Share
-HAVAR - Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares
 HAVAU - Harvard Ave Acquisition Corporation - Unit
 HAWG - HCM Hedged Equity ETF
 HAWK - HawkEye 360, Inc. Common Stock
@@ -5093,7 +5096,6 @@ HCRB - Hartford Core Bond ETF
 HCSG - Healthcare Services Group, Inc. - Common Stock
 HCTI - Healthcare Triangle, Inc. - Common Stock
 HCWB - HCW Biologics Inc. - Common Stock
-HCWC - Healthy Choice Wellness Corp. Class A Common Stock
 HCXY - Hercules Capital, Inc. 6.25% Notes due 2033
 HD - Home Depot, Inc. (The) Common Stock
 HDB - HDFC Bank Limited Common Stock
@@ -5242,6 +5244,7 @@ HOOX - Defiance Daily Target 2X Long HOOD ETF
 HOOY - YieldMax HOOD Option Income Strategy ETF
 HOPE - Hope Bancorp, Inc. - Common Stock
 HOS - Hornbeck Offshore Services, Inc. Common Stock
+HOST - Host Digital Inc. Class A Common Stock
 HOUR - Hour Loop, Inc. - common stock
 HOV - Hovnanian Enterprises, Inc. Class A Common Stock
 HOVNP - Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock
@@ -7262,6 +7265,7 @@ MNDO - MIND C.T.I. Ltd. - Ordinary Shares
 MNDR - Mobile-health Network Solutions - Class A Ordinary Shares
 MNDY - monday.com Ltd. - Ordinary Shares
 MNGU - MicroSectors 3x Long MANGOS+ ex Private Companies ETNs
+MNGZ - Yorkville America 2X Long MANGOS Plus Daily Target ETF
 MNKD - MannKind Corporation - Common Stock
 MNOV - MediciNova, Inc. - Common Stock
 MNPR - Monopar Therapeutics Inc. - Common Stock
@@ -9767,7 +9771,6 @@ SAR - Saratoga Investment Corp New
 SARK - Tradr 1X Short Innovation Daily ETF
 SARO - StandardAero, Inc. Common Stock
 SASS - M.D. Sass Concentrated Value ETF
-SAT - Saratoga Investment Corp 6.00% Notes due 2027
 SATA - Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock
 SATL - Satellogic Inc. - Class A Common Stock
 SATLW - Satellogic Inc. - Warrant
@@ -9789,6 +9792,7 @@ SBCWW - SBC Medical Group Holdings Incorporated - Warrants
 SBET - Sharplink, Inc. - Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
+SBFMW - Sunshine Biopharma Inc. - Warrant
 SBGI - Sinclair, Inc. - Class A Common Stock
 SBH - Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI - Western Asset Intermediate Muni Fund Inc Common Stock
@@ -10302,7 +10306,6 @@ SNWV - SANUWAVE Health, Inc. - Common Stock
 SNX - TD SYNNEX Corporation Common Stock
 SNXX - Tradr 2X Long SNDK Daily ETF
 SNY - Sanofi - American Depositary Shares
-SNYR - Synergy CHC Corp. - Common Stock
 SO - Southern Company (The) Common Stock
 SOAR - Volato Group, Inc. Class A Common Stock
 SOBO - South Bow Corporation Common Shares
