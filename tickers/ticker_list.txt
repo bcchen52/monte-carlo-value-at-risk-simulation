@@ -134,6 +134,7 @@ ACNT - Ascent Industries Co. - Common Stock
 ACOG - Alpha Cognition Inc. - Common Stock
 ACOM - Harbor Active Commodity ETF
 ACON - Aclarion, Inc. - Common Stock
+ACONW - Aclarion, Inc. - Warrant
 ACP - abrdn Income Credit Strategies Fund Common Shares
 ACQQ - ProShares Nasdaq-100 Autocallable Income ETF
 ACR - ACRES Commercial Realty Corp. Common Stock
@@ -246,6 +247,7 @@ AESL - Harbor AlphaEdge Small Cap Value ETF
 AESP - Aeon Acquisition I Corp. - Class A Ordinary Shares
 AESPR - Aeon Acquisition I Corp. - Rights
 AESPU - Aeon Acquisition I Corp. - Units
+AESPW - Aeon Acquisition I Corp. - Warrants
 AESR - Anfield U.S. Equity Sector Rotation ETF
 AETH - Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF
 AEVA - Aeva Technologies, Inc. - Common Stock
@@ -2580,7 +2582,6 @@ CRWX - Corgi CRWV 2x Daily ETF
 CRXP - Columbia Core Plus Bond ETF
 CRY - GraniteShares YieldBOOST CRCL ETF
 CSAI - Cloudastructure, Inc. - Class A Common Stock
-CSAN - Cosan S.A. ADS
 CSB - VictoryShares US Small Cap High Div Volatility Wtd ETF
 CSBR - Champions Oncology, Inc. - Common Stock
 CSCL - Direxion Daily CSCO Bull 2X ETF
@@ -2620,6 +2621,7 @@ CSX - CSX Corporation - Common Stock
 CTA - Simplify Managed Futures Strategy ETF
 CTAA - ClearThink 1 Acquisition Corp. - Class A Ordinary Shares
 CTAAU - ClearThink 1 Acquisition Corp. - Units
+CTAG - Calamos Timpani Active SMID Growth ETF
 CTAP - Simplify US Equity PLUS Managed Futures Strategy ETF
 CTAS - Cintas Corporation - Common Stock
 CTAU - Corgi U.S. Equities 30% Structured Buffer ETF - August Series
@@ -3111,6 +3113,7 @@ DPU - Top KingWin Ltd - Class A Ordinary Shares
 DPZ - Domino's Pizza Inc - Common Stock
 DQ - DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares
 DQJN - FT Vest Nasdaq-100 Dual Directional Buffer ETF - June
+DQSE - FT Vest Nasdaq-100 Dual Directional Buffer ETF - September
 DRAI - Draco Evolution AI ETF
 DRAL - Defiance Daily Target 2X Long DRAM ETF
 DRAM - Roundhill Memory ETF
@@ -6822,6 +6825,7 @@ LTM - LATAM Airlines Group S.A. American Depositary Shares (each representing tw
 LTPZ - Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund
 LTRN - Lantern Pharma Inc. - Common Stock
 LTRX - Lantronix, Inc. - Common Stock
+LTRYW - Sports Entertainment Gaming Global Corporation  - Warrant
 LTTI - FT Vest 20+ Year Treasury & Target Income ETF
 LU - Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares
 LUCD - Lucid Diagnostics Inc. - Common Stock
@@ -7660,6 +7664,7 @@ NEO - NeoGenomics, Inc. - Common Stock
 NEOG - Neogen Corporation - Common Stock
 NEON - Neonode Inc. - Common Stock
 NEOV - NeoVolta Inc. - Common Stock
+NEOVW - NeoVolta Inc. - Warrant
 NEPH - Nephros, Inc. - Common Stock
 NERD - Roundhill Video Games ETF
 NERV - Minerva Neurosciences, Inc - Common Stock
@@ -8272,6 +8277,7 @@ ORIC - Oric Pharmaceuticals, Inc. - Common Stock
 ORIO - Orion Digital Corp. - Common Shares
 ORIQ - Origin Investment Corp I - Ordinary Shares
 ORIQU - Origin Investment Corp I - Units
+ORIQW - Origin Investment Corp I - Redeemable Warrant
 ORKA - Oruka Therapeutics, Inc. - Common Stock
 ORKT - Orangekloud Technology Inc. - Class A Ordinary Shares
 ORLY - O'Reilly Automotive, Inc. - Common Stock
@@ -9152,6 +9158,7 @@ QPUX - Defiance 2X Daily Long Pure Quantum ETF
 QPX - AdvisorShares Q Dynamic Growth ETF
 QQA - Invesco QQQ Income Advantage ETF
 QQAU - Corgi Growth & Technology 15% Structured Buffer ETF - August Series
+QQBF - FT Vest Nasdaq-100 Quarterly 15 Buffer ETF
 QQDN - ProShares UltraShort QQQ Mega
 QQEW - First Trust Nasdaq-100 Select Equal Weight ETF
 QQH - HCM Defender 100 Index ETF
@@ -9400,6 +9407,7 @@ RFAI - RF Acquisition Corp II - Ordinary Shares
 RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
 RFAM - RF Acquisition Corp III - Ordinary Shares
+RFAMR - RF Acquisition Corp III - Rights
 RFAMU - RF Acquisition Corp III - Units
 RFCI - ALPS Dynamic Core Income ETF
 RFDA - ALPS Dynamic US Dividend Advantage ETF
@@ -9910,6 +9918,7 @@ SEA - U.S. Global Sea to Sky Cargo ETF
 SEAT - Vivid Seats Inc. - Class A common stock
 SEATW - Vivid Seats Inc. - Warrant
 SEB - Seaboard Corporation Common Stock
+SECA - Main Active Rotation ETF
 SECR - NYLIM MacKay Securitized Income ETF
 SECT - Main Sector Rotation ETF
 SECU - iShares Securitized Income Active ETF
@@ -12140,6 +12149,7 @@ WSO - Watsco, Inc. Common Stock
 WSPC - WisdomTree Space Economy Fund
 WST - West Pharmaceutical Services, Inc. Common Stock
 WSTN - Westin Acquisition Corp - Class A Ordinary Share
+WSTNR - Westin Acquisition Corp - Right
 WSTNU - Westin Acquisition Corp - Units
 WT - WisdomTree, Inc. Common Stock
 WTAI - WisdomTree Artificial Intelligence and Innovation Fund
