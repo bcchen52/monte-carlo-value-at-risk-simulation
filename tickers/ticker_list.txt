@@ -3936,7 +3936,6 @@ FDLS - Inspire Fidelis Multi Factor ETF
 FDM - First Trust DJ Select MicroCap ETF
 FDMM - Freedom Metals Acquisition Corp. - Class A Ordinary Shares
 FDMMU - Freedom Metals Acquisition Corp. - Units
-FDMMW - Freedom Metals Acquisition Corp. - Warrants
 FDMO - Fidelity Momentum Factor ETF
 FDMT - 4D Molecular Therapeutics, Inc. - Common Stock
 FDN - First Trust DJ Internet Index Fund
@@ -4037,7 +4036,6 @@ FGI - FGI Industries Ltd. - Ordinary Shares
 FGII - FG Imperii Acquisition Corp. - Class A Ordinary Shares
 FGIIU - FG Imperii Acquisition Corp. - Units
 FGIIW - FG Imperii Acquisition Corp. - Warrants
-FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
 FGN - F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053
@@ -4106,8 +4104,10 @@ FIYY - GraniteShares YieldBOOST 20Y Treasuries ETF
 FIZY - Fitz-Gerald Must Have Portfolio and Options Overlay ETF
 FIZZ - National Beverage Corp. - Common Stock
 FJAN - FT Vest U.S. Equity Buffer ETF - January
+FJDI - ARC Group Securities Acquisition I - Class A Ordinary Shares
 FJDIR - ARC Group Securities Acquisition I - Rights
 FJDIU - ARC Group Securities Acquisition I - Units
+FJDIW - ARC Group Securities Acquisition I - Warrants
 FJET - Starfighters Space, Inc. Common Stock
 FJP - First Trust Japan AlphaDEX Fund
 FJUL - FT Vest U.S. Equity Buffer ETF - July
@@ -4930,7 +4930,6 @@ GSGO - Goldman Sachs Growth Opportunities ETF
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
-GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -5095,7 +5094,6 @@ HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
 HCMA - HCM III Acquisition Corp. - Class A Ordinary Share
 HCMAU - HCM III Acquisition Corp. - Units
-HCMAW - HCM III Acquisition Corp. - Warrants
 HCMT - Direxion HCM Tactical Enhanced US ETF
 HCOW - Amplify COWS Covered Call ETF
 HCRB - Hartford Core Bond ETF
@@ -5359,6 +5357,7 @@ HWGV - Hotchkis & Wiley Global Value Fund
 HWIV - Hotchkis & Wiley International Value Fund
 HWKN - Hawkins, Inc. - Common Stock
 HWM - Howmet Aerospace Inc. Common Stock
+HWMV - Hotchkis & Wiley Mid-Cap Value Fund
 HWO - Hotchkis & Wiley Opportunities Fund
 HWSM - Hotchkis & Wiley SMID Cap Diversified Value Fund
 HXA - Mast HedgeIndex Corporate Arbitrage ETF
@@ -5538,7 +5537,6 @@ ICPI - iShares 0-1 Year TIPS Bond ETF
 ICPY - Tweedy, Browne International Insider + Value ETF
 ICSH - iShares Ultra Short Duration Bond Active ETF
 ICU - SeaStar Medical Holding Corporation - Common Stock
-ICUCW - SeaStar Medical Holding Corporation - Warrant
 ICUI - ICU Medical, Inc. - Common Stock
 ICVT - iShares Convertible Bond ETF
 IDA - IDACORP, Inc. Common Stock
@@ -6219,7 +6217,6 @@ JSM - Navient Corporation - 6% Senior Notes due December 15, 2043
 JSMD - Janus Henderson Small/Mid Cap Growth Alpha ETF
 JSML - Janus Henderson Small Cap Growth Alpha ETF
 JSPR - Jasper Therapeutics, Inc. - Class A Common Stock
-JSPRW - Jasper Therapeutics, Inc. - Warrant
 JSTC - Adasina Social Justice All Cap Global ETF
 JTAI - Jet.AI Inc. - Common Stock
 JTEK - JPMorgan U.S. Tech Leaders ETF
@@ -6376,7 +6373,6 @@ KLRA - Kailera Therapeutics, Inc. - Common stock
 KLRS - Kalaris Therapeutics, Inc.  - Common Stock
 KLTR - Kaltura, Inc. - Common Stock
 KLXE - KLX Energy Services Holdings, Inc.  - Common Stock
-KLXER - KLX Energy Services Holdings, Inc.  - Rights
 KMAR - Innovator U.S. Small Cap Power Buffer ETF - March
 KMAY - Innovator U.S. Small Cap Power Buffer ETF - May
 KMB - Kimberly-Clark Corporation - Common Stock
@@ -6428,6 +6424,7 @@ KOS - Kosmos Energy Ltd. Common Shares (DE)
 KOSS - Koss Corporation - Common Stock
 KOYN - CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares
 KOYNU - CSLM Digital Asset Acquisition Corp III - Units
+KOYNW - CSLM Digital Asset Acquisition Corp III - Warrants
 KPDD - KraneShares 2x Long PDD Daily ETF
 KPET - KPET Ultra Paceline Corporation Class A Ordinary Shares
 KPHO - KraneShares Dragon Capital Growth of Vietnam Index ETF
@@ -6557,11 +6554,11 @@ LBTYB - Liberty Global Ltd. - Class B Common Shares
 LBTYK - Liberty Global Ltd. - Class C Common Shares
 LCAP - Principal Capital Appreciation Select ETF
 LCCC - Lakeshore Acquisition III Corp. - Ordinary Shares
+LCCCR - Lakeshore Acquisition III Corp. - Rights
 LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
-LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCLG - Logan Capital Large Cap Growth ETF
@@ -7117,6 +7114,7 @@ MGC - Vanguard Morningstar Mega Cap ETF
 MGEE - MGE Energy Inc. - Common Stock
 MGF - Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest
 MGIH - Millennium Group International Holdings Limited - Ordinary Shares
+MGIN - Man Active Global Infrastructure ETF
 MGK - Vanguard Morningstar Mega Cap Growth ETF
 MGLD - The Marygold Companies, Inc. Common Stock
 MGM - MGM Resorts International Common Stock
@@ -7553,7 +7551,6 @@ MYSE - Myseum.AI, Inc. - Common Stock
 MYSZ - My Size, Inc. - Common Stock
 MYX - Maywood Acquisition Corp. 2 - Class A Ordinary Share
 MYXXU - Maywood Acquisition Corp. 2 - Units
-MYXXW - Maywood Acquisition Corp. 2 - Warrants
 MYY - ProShares Short MidCap400
 MZTI - The Marzetti Company - Common Stock
 MZYX - MOZAYYX Acquisition Corp. Class A Ordinary Shares
@@ -7820,7 +7817,6 @@ NOCT - Innovator Growth-100 Power Buffer ETF- October
 NODE - VanEck Onchain Economy ETF
 NODK - NI Holdings, Inc. - Common Stock
 NOEM - CO2 Energy Transition Corp. - Common Stock
-NOEMR - CO2 Energy Transition Corp. - Right
 NOEMU - CO2 Energy Transition Corp. - Unit
 NOEMW - CO2 Energy Transition Corp. - Warrant
 NOEQ - Northern Trust US Equity ETF
@@ -8172,7 +8168,6 @@ OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
 OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
-OIOWW - OIO Group - Warrants
 OIS - Oil States International, Inc. Common Stock
 OKE - ONEOK, Inc. Common Stock
 OKLC - Corgi OKLO 2x Daily ETF
@@ -8234,7 +8229,6 @@ ONIT - Onity Group Inc. Common Stock
 ONL - Orion Properties Inc. Common Stock
 ONLN - ProShares Online Retail ETF
 ONMD - OneMedNet Corp - Class A Common Stock
-ONMDW - OneMedNet Corp - Warrant
 ONOF - Global X Adaptive U.S. Risk Management ETF
 ONON - On Holding AG Class A Ordinary Shares
 ONT - Onterris, Inc. Common Stock
@@ -8380,7 +8374,6 @@ PAA - Plains All American Pipeline, L.P. - Common Units representing Limited Par
 PAAA - PGIM AAA CLO ETF
 PAAC - Proem Acquisition Corp I - Ordinary Shares
 PAACU - Proem Acquisition Corp I - Units
-PAACW - Proem Acquisition Corp I - Warrants
 PAAI - Paradium.AI, Inc. Common Stock
 PAAS - Pan American Silver Corp. Common Stock
 PAB - PGIM Active Aggregate Bond ETF
@@ -8554,8 +8547,8 @@ PEB - Pebblebrook Hotel Trust Common Shares of Beneficial Interest
 PEBK - Peoples Bancorp of North Carolina, Inc. - Common Stock
 PEBO - Peoples Bancorp Inc. - Common Stock
 PECE - Peace Acquisition Corp - Ordinary Shares
-PECER - Peace Acquisition Corp - Right
 PECEU - Peace Acquisition Corp - Units
+PECEW - Peace Acquisition Corp - Warrant
 PECO - Phillips Edison & Company, Inc. - Common Stock
 PED - Pedevco Corp. Common Stock
 PEG - Public Service Enterprise Group Incorporated Common Stock
@@ -8784,6 +8777,7 @@ PMTV - PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030
 PMTW - PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030
 PMVP - PMV Pharmaceuticals, Inc. - Common Stock
 PN - PN Smart Energy Limited - Class A Ordinary Shares
+PNAQ - Pinnacle Acquisition Corporation Class A Ordinary Shares
 PNBK - Patriot National Bancorp Inc. - Common Stock
 PNC - PNC Financial Services Group, Inc. (The) Common Stock
 PNFP - Pinnacle Financial Partners, Inc. Common stock
@@ -9064,7 +9058,6 @@ Q - Qnity Electronics, Inc. Common Stock
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
 QADR - QDRO Acquisition Corp. - Class A Ordinary Shares
 QADRU - QDRO Acquisition Corp. - Units
-QADRW - QDRO Acquisition Corp. - Warrant
 QAI - NYLIM Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
 QARP - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF
@@ -9759,7 +9752,6 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
-SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
 SALI - Schroders US Autocallable Ladder Income ETF
@@ -9799,7 +9791,6 @@ SBCWW - SBC Medical Group Holdings Incorporated - Warrants
 SBET - Sharplink, Inc. - Common Stock
 SBFG - SB Financial Group, Inc. - Common Stock
 SBFM - Sunshine Biopharma Inc. - Common stock
-SBFMW - Sunshine Biopharma Inc. - Warrant
 SBGI - Sinclair, Inc. - Class A Common Stock
 SBH - Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI - Western Asset Intermediate Muni Fund Inc Common Stock
@@ -10533,6 +10524,7 @@ SSBI - Summit State Bank - Common Stock
 SSCP - SMART Small Cap ETF
 SSD - Simpson Manufacturing Company, Inc. Common Stock
 SSEA - Starry Sea Acquisition Corp - Ordinary Shares
+SSEAR - Starry Sea Acquisition Corp - Rights
 SSEAU - Starry Sea Acquisition Corp - Unit
 SSFI - Day Hagan Smart Sector Fixed Income ETF
 SSG - ProShares UltraShort Semiconductors
@@ -11016,12 +11008,12 @@ TLDR - The Laddered T-Bill ETF
 TLF - Tandy Leather Factory, Inc. - common stock
 TLG - Touchstone Large Company Growth ETF
 TLH - iShares 10-20 Year Treasury Bond ETF
+TLIE - American Beacon The London Company Income Equity ETF
 TLIH - Ten-League International Holdings Limited - Ordinary Shares
 TLK - PT Telekomunikasi Indonesia, Tbk
 TLN - Talen Energy Corporation - Common Stock
 TLNC - Talon Capital Corp. - Class A Ordinary Shares
 TLNCU - Talon Capital Corp. - Units
-TLNCW - Talon Capital Corp. - Warrants
 TLPH - Talphera, Inc. - Common Stock
 TLRY - Tilray Brands, Inc. - Common Stock
 TLS - Telos Corporation - Common Stock
@@ -11635,7 +11627,6 @@ UYG - ProShares Ultra Financials
 UYLD - Angel Oak UltraShort Income ETF
 UYM - ProShares Ultra Materials
 UYSC - UY Scuti Acquisition Corp. - Ordinary Shares
-UYSCR - UY Scuti Acquisition Corp. - Rights
 UYSCU - UY Scuti Acquisition Corp. - Units
 UZD - Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069
 UZE - Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070
