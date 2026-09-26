@@ -13,7 +13,6 @@ AACIU - Armada Acquisition Corp. III - Units
 AACIW - Armada Acquisition Corp. III - Warrant
 AACO - Abony Acquisition Corp. I - Class A Ordinary Share
 AACOU - Abony Acquisition Corp. I - Units
-AACOW - Abony Acquisition Corp. I - Warrants
 AACP - Apogee Acquisition Corp - Class A Ordinary Shares
 AACPR - Apogee Acquisition Corp - Rights
 AACPU - Apogee Acquisition Corp - Units
@@ -199,6 +198,7 @@ ADNT - Adient plc Ordinary Shares
 ADP - Automatic Data Processing, Inc. - Common Stock
 ADPT - Adaptive Biotechnologies Corporation - Common Stock
 ADPV - Adaptiv Select ETF
+ADRX - ADARx Pharmaceuticals, Inc. - Common stock
 ADSE - ADS-TEC ENERGY PLC - Ordinary Shares
 ADSEW - ADS-TEC ENERGY PLC - Warrant
 ADSK - Autodesk, Inc. - Common Stock
@@ -443,7 +443,6 @@ ALH - Alliance Laundry Holdings Inc. Common Stock
 ALHC - Alignment Healthcare, Inc. - Common Stock
 ALIL - Argent Focused Small Cap ETF
 ALIS - Calisa Acquisition Corp - Ordinary shares
-ALISR - Calisa Acquisition Corp - Right
 ALISU - Calisa Acquisition Corp - Units
 ALIT - Alight, Inc. Class A Common Stock
 ALK - Alaska Air Group, Inc. Common Stock
@@ -464,12 +463,12 @@ ALNT - Allient Inc. - Common Stock
 ALNY - Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOV - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares
 ALOVU - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units
+ALOVW - Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants
 ALOY - REalloys Inc. - Common Stock
 ALP - Alpha Compute Corp  - Ordinary Shares
 ALPS - ALPS Group Inc - Ordinary Share
 ALPX - Alpex Acquisition Corporation - Class A Ordinary Shares
 ALPXU - Alpex Acquisition Corporation - Units
-ALPXW - Alpex Acquisition Corporation - Warrants
 ALRG - Allspring LT Large Core ETF
 ALRM - Alarm.com Holdings, Inc. - Common Stock
 ALRS - Alerus Financial Corporation - Common Stock
@@ -640,13 +639,11 @@ APIE - ActivePassive International Equity ETF
 APLD - Applied Digital Corporation - Common Stock
 APLE - Apple Hospitality REIT, Inc. Common Shares
 APLM - Apollomics Inc. - Class A Ordinary Shares
-APLMW - Apollomics Inc. - Warrant
 APLU - Allspring Core Plus ETF
 APLX - Tradr 2X Long APLD Daily ETF
 APLY - YieldMax AAPL Option Income Strategy ETF
 APLZ - Tradr 2X Short APLD Daily ETF
 APMC - AmperCap Acquisition Company - Ordinary Shares
-APMCR - AmperCap Acquisition Company - Right
 APMCU - AmperCap Acquisition Company - Unit
 APMD - Apnimed, Inc. - Common Stock
 APMI - Corgi AMAT 2x Daily ETF
@@ -707,7 +704,6 @@ ARCIW - Archimedes Tech SPAC Partners III Co. - Warrant
 ARCL - ARC Group Acquisition I Corp - Class A Ordinary Shares
 ARCLR - ARC Group Acquisition I Corp - Right
 ARCLU - ARC Group Acquisition I Corp - Unit
-ARCLW - ARC Group Acquisition I Corp - Warrants
 ARCM - Arrow Reserve Capital Management ETF
 ARCO - Arcos Dorados Holdings Inc. Class A Shares
 ARCP - Aristotle Core Plus Income ETF
@@ -763,7 +759,6 @@ ARR - ARMOUR Residential REIT, Inc.
 ARRY - Array Technologies, Inc. - Common Stock
 ARTC - Art Technology Acquisition Corp. - Class A Ordinary Shares
 ARTCU - Art Technology Acquisition Corp. - Units
-ARTCW - Art Technology Acquisition Corp. - Warrants
 ARTL - Artelo Biosciences, Inc. - Common Stock
 ARTNA - Artesian Resources Corporation - Class A Non-Voting Common Stock
 ARTV - Artiva Biotherapeutics, Inc. - Common Stock
@@ -1331,7 +1326,6 @@ BID - Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares
 BIDD - iShares International Dividend Active ETF
 BIDG - Leverage Shares 2X Long BIDU Daily ETF
 BIDU - Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share
-BIDWR - Tribeca Strategic Acquisition Corp. - Rights
 BIDWU - Tribeca Strategic Acquisition Corp. - Unit
 BIGY - YieldMax Target 12 Big 50 Option Income ETF
 BIIB - Biogen Inc. - Common Stock
@@ -1618,6 +1612,7 @@ BRNY - Burney U.S. Factor Rotation ETF
 BRO - Brown & Brown, Inc. Common Stock
 BROL - Baron Risk Optimized Large Cap ETF
 BROS - Dutch Bros Inc. Class A Common Stock
+BRRKU - Bluerock Acquisition Corp. II - Units
 BRRR - Coinshares Bitcoin ETF
 BRSL - Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares
 BRSM - MFS Blended Research Small-Mid Cap ETF
@@ -3276,6 +3271,7 @@ DYNCW - Dynamix Corporation - Warrant
 DYNF - iShares U.S. Equity Factor Rotation Active ETF
 DYOR - Insight Digital Partners II - Class A Ordinary Shares
 DYORU - Insight Digital Partners II - Units
+DYORW - Insight Digital Partners II - Warrants
 DYTA - SGI Dynamic Tactical ETF
 DZZ - DB Gold Double Short ETN due February 15, 2038
 E - ENI S.p.A. Common Stock
@@ -5537,6 +5533,7 @@ ICPI - iShares 0-1 Year TIPS Bond ETF
 ICPY - Tweedy, Browne International Insider + Value ETF
 ICSH - iShares Ultra Short Duration Bond Active ETF
 ICU - SeaStar Medical Holding Corporation - Common Stock
+ICUCW - SeaStar Medical Holding Corporation - Warrant
 ICUI - ICU Medical, Inc. - Common Stock
 ICVT - iShares Convertible Bond ETF
 IDA - IDACORP, Inc. Common Stock
@@ -5848,6 +5845,7 @@ IPW - iPower Inc. - Common Stock
 IPWR - Ideal Power Inc. - Common Stock
 IPX - IperionX Limited - American Depositary Share
 IPXG - Inection Point Acquisition Corp. VII  - Class A Ordinary Shares
+IPXGU - Inection Point Acquisition Corp. VII  - Unit
 IPXGW - Inection Point Acquisition Corp. VII  - Warrant
 IQ - iQIYI, Inc. - American Depositary Shares
 IQDF - Northern Trust International Quality Dividend ETF
@@ -6480,6 +6478,7 @@ KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
 KTUP - T-REX 2X Long KTOS Daily Target ETF
 KTWO - K2 Capital Acquisition Corporation - Class A Ordinary Share
+KTWOR - K2 Capital Acquisition Corporation - Rights
 KTWOU - K2 Capital Acquisition Corporation - Units
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -6746,6 +6745,7 @@ LOPE - Grand Canyon Education, Inc. - Common Stock
 LOPP - Gabelli Love Our Planet & People ETF Gabelli Love Our Planet & People ETF
 LOT - Lotus Technology Inc. - American Depositary Shares
 LOTI - Liberty One Tactical Income ETF
+LOTWW - Lotus Technology Inc. - Warrants
 LOUP - Innovator Deepwater Frontier Tech ETF
 LOVE - The Lovesac Company - Common Stock
 LOVIU - Live Oak Acquisition Corp. VI - Units
@@ -7078,6 +7078,7 @@ METV - Roundhill Ball Metaverse ETF
 METW - Roundhill META WeeklyPay ETF
 MEVO - M Evo Global Acquisition Corp II - Class A Ordinary Shares
 MEVOU - M Evo Global Acquisition Corp II - Units
+MEVOW - M Evo Global Acquisition Corp II - Warrants
 MEXX - Direxion Daily MSCI Mexico Bull 3X ETF
 MF - MindForge Inc. - Class A Ordinary Shares
 MFA - MFA Financial, Inc.
@@ -8441,6 +8442,7 @@ PBA - Pembina Pipeline Corp. Ordinary Shares (Canada)
 PBAM - Private Bancorp of America, Inc. - Common Stock
 PBAP - PGIM S&P 500 Buffer 20 ETF - April
 PBAU - PGIM S&P 500 Buffer 20 ETF - August
+PBCS - Portfolio Building Block World Consumer Staples ETF
 PBD - Invesco Global Clean Energy ETF
 PBDC - Putnam BDC Income ETF
 PBDE - PGIM S&P 500 Buffer 20 ETF - December
@@ -8477,8 +8479,10 @@ PBSC - Pacer Barings Secured Credit Flex ETF
 PBSE - PGIM S&P 500 Buffer 20 ETF - September
 PBT - Permian Basin Royalty Trust Common Stock
 PBTP - Invesco 0-5 Yr US TIPS ETF
+PBUB - Portfolio Building Block US Banks ETF
 PBUS - Invesco MSCI USA ETF
 PBW - Invesco WilderHill Clean Energy ETF
+PBWN - Portfolio Building Block World Ex US Industrials ETF
 PBYI - Puma Biotechnology Inc - Common Stock
 PC - Premium Catering (Holdings) Limited - Ordinary Shares
 PCAP - ProCap Acquisition Corp - Class A Ordinary Shares
@@ -9058,6 +9062,7 @@ Q - Qnity Electronics, Inc. Common Stock
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
 QADR - QDRO Acquisition Corp. - Class A Ordinary Shares
 QADRU - QDRO Acquisition Corp. - Units
+QADRW - QDRO Acquisition Corp. - Warrant
 QAI - NYLIM Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
 QARP - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF
@@ -9105,6 +9110,7 @@ QDVO - Amplify CWP Growth & Income ETF
 QEFA - State Street SPDR MSCI EAFE StrategicFactors ETF
 QEMM - State Street SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
+QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
 QEW - Invesco QQQ Equal Weight ETF
@@ -12102,6 +12108,7 @@ WLDU - Leverage Shares 2x Long World Stock Daily ETF
 WLFC - Willis Lease Finance Corporation - Common Stock
 WLII - Willow Lane Acquisition Corp. II - Class A Ordinary Shares
 WLIIU - Willow Lane Acquisition Corp. II - Unit
+WLIIW - Willow Lane Acquisition Corp. II - Warrants
 WLK - Westlake Corporation Common Stock
 WLKP - Westlake Chemical Partners LP Common Units representing limited partner interests
 WLTG - WealthTrust DBS Long Term Growth ETF
