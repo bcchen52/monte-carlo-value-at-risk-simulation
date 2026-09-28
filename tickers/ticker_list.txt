@@ -443,6 +443,7 @@ ALH - Alliance Laundry Holdings Inc. Common Stock
 ALHC - Alignment Healthcare, Inc. - Common Stock
 ALIL - Argent Focused Small Cap ETF
 ALIS - Calisa Acquisition Corp - Ordinary shares
+ALISR - Calisa Acquisition Corp - Right
 ALISU - Calisa Acquisition Corp - Units
 ALIT - Alight, Inc. Class A Common Stock
 ALK - Alaska Air Group, Inc. Common Stock
@@ -2813,7 +2814,7 @@ DCI - Donaldson Company, Inc. Common Stock
 DCMT - DoubleLine Commodity Strategy ETF
 DCO - Ducommun Incorporated Common Stock
 DCOM - Dime Commercial Bancshares, Inc. Common Stock
-DCOR - Dimensional US Core Equity 1 ETF
+DCOR - US Core Equity 1 Portfolio ETF Class Shares
 DCOY - Decoy Therapeutics Inc. - Common Stock
 DCRE - DoubleLine Commercial Real Estate Debt ETF
 DCTH - Delcath Systems, Inc. - Common Stock
@@ -2895,7 +2896,7 @@ DFAC - Dimensional U.S. Core Equity 2 ETF
 DFAE - Dimensional Emerging Core Equity Market ETF
 DFAI - Dimensional International Core Equity Market ETF
 DFAL - Dimensional US Large Cap Core Equity Market ETF
-DFAR - Dimensional US Real Estate ETF
+DFAR - DFA Real Estate Securities Portfolio ETF Class Shares
 DFAS - Dimensional U.S. Small Cap ETF
 DFAT - Dimensional U.S. Targeted Value ETF
 DFAU - Dimensional US Core Equity Market ETF
@@ -2937,7 +2938,7 @@ DFSD - Dimensional Short-Duration Fixed Income ETF
 DFSE - Dimensional Emerging Markets Sustainability Core 1 ETF
 DFSI - Dimensional International Sustainability Core 1 ETF
 DFSU - Dimensional US Sustainability Core 1 ETF
-DFSV - Dimensional US Small Cap Value ETF
+DFSV - US Small Cap Value Portfolio ETF Class Shares
 DFTT - DF Tactical 30 ETF
 DFTX - Definium Therapeutics, Inc.  - Common Shares
 DFUS - Dimensional U.S. Equity Market ETF
@@ -3195,7 +3196,7 @@ DTST - Data Storage Corporation - Common Stock
 DTW - DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077
 DUBS - Aptus Large Cap Enhanced Yield ETF
 DUG - ProShares UltraShort Energy
-DUHP - Dimensional US High Profitability ETF
+DUHP - US High Relative Profitability Portfolio ETF Class Shares
 DUK - Duke Energy Corporation (Holding Company) Common Stock
 DUKB - Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078
 DUKH - Ocean Park High Income ETF
@@ -3256,7 +3257,7 @@ DXLG - Destination XL Group, Inc. - Common Stock
 DXPE - DXP Enterprises, Inc. - Common Stock
 DXR - Daxor Corporation - Closed End Fund
 DXST - Decent Holding Inc. - Class A Ordinary Shares
-DXUV - Dimensional US Vector Equity ETF
+DXUV - US Vector Equity Portfolio ETF Class Shares
 DXYZ - Destiny Tech100 Inc. Common Stock
 DY - Dycom Industries, Inc. Common Stock
 DYAI - Dyadic International, Inc. - Common Stock
@@ -4026,17 +4027,18 @@ FFUT - Fidelity Managed Futures ETF
 FG - F&G Annuities & Life, Inc. Common Stock
 FGBI - First Guaranty Bancshares, Inc. - Common Stock
 FGBIP - First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock
+FGC - FG Communities Holdings Inc. - Common Stock
+FGCPP - FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock
 FGD - First Trust DJ Global Select Dividend
 FGDL - Franklin Responsibly Sourced Gold ETF
 FGI - FGI Industries Ltd. - Ordinary Shares
 FGII - FG Imperii Acquisition Corp. - Class A Ordinary Shares
 FGIIU - FG Imperii Acquisition Corp. - Units
 FGIIW - FG Imperii Acquisition Corp. - Warrants
+FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
 FGN - F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053
-FGNX - FG Nexus Inc. - Common Stock
-FGNXP - FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock
 FGRU - T-REX 2X Long FIGR Daily Target ETF
 FGSI - FT Vest Growth Strength & Target Income ETF
 FGSM - Frontier Asset Global Small Cap Equity ETF
@@ -4839,6 +4841,7 @@ GOVM - iShares 1-10 Year Treasury Bond ETF
 GOVT - iShares U.S. Treasury Bond ETF
 GOVX - GeoVax Labs, Inc. - Common Stock
 GOVZ - iShares 25  Year Treasury STRIPS Bond ETF
+GOW - GOWell Energy Technology - Ordinary shares
 GP - GreenPower Motor Company Inc. - Common Shares
 GPAC - General Purpose Acquisition Corp. - Class A Ordinary Shares
 GPACU - General Purpose Acquisition Corp. - Units
@@ -5823,9 +5826,6 @@ IPAV - Global X Infrastructure Development ex-U.S. ETF
 IPAY - Amplify Digital Payments ETF
 IPB - Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1
 IPDN - Professional Diversity Network, Inc. - Common Stock
-IPEX - Inflection Point Acquisition Corp. - Class A Ordinary Shares
-IPEXR - Inflection Point Acquisition Corp. - Right
-IPEXU - Inflection Point Acquisition Corp. - Unit
 IPFX - Inflection Point Acquisition Corp. VI - Class A Ordinary Shares
 IPFXU - Inflection Point Acquisition Corp. VI - Units
 IPFXW - Inflection Point Acquisition Corp. VI - Warrant
@@ -5845,6 +5845,7 @@ IPW - iPower Inc. - Common Stock
 IPWR - Ideal Power Inc. - Common Stock
 IPX - IperionX Limited - American Depositary Share
 IPXG - Inection Point Acquisition Corp. VII  - Class A Ordinary Shares
+IPXGU - Inection Point Acquisition Corp. VII  - Unit
 IPXGW - Inection Point Acquisition Corp. VII  - Warrant
 IQ - iQIYI, Inc. - American Depositary Shares
 IQDF - Northern Trust International Quality Dividend ETF
@@ -8374,6 +8375,7 @@ PAA - Plains All American Pipeline, L.P. - Common Units representing Limited Par
 PAAA - PGIM AAA CLO ETF
 PAAC - Proem Acquisition Corp I - Ordinary Shares
 PAACU - Proem Acquisition Corp I - Units
+PAACW - Proem Acquisition Corp I - Warrants
 PAAI - Paradium.AI, Inc. Common Stock
 PAAS - Pan American Silver Corp. Common Stock
 PAB - PGIM Active Aggregate Bond ETF
@@ -8545,7 +8547,6 @@ PDSB - PDS Biotechnology Corporation - Common Stock
 PDT - John Hancock Premium Dividend Fund
 PDX - PIMCO Dynamic Income Strategy Fund Common Shares of Beneficial Interest
 PDYN - Palladyne AI Corp. - Common stock
-PDYNW - Palladyne AI Corp. - Warrant
 PEB - Pebblebrook Hotel Trust Common Shares of Beneficial Interest
 PEBK - Peoples Bancorp of North Carolina, Inc. - Common Stock
 PEBO - Peoples Bancorp Inc. - Common Stock
@@ -8605,6 +8606,7 @@ PFN - PIMCO Income Strategy Fund II
 PFO - Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated
 PFOE - Pathfinder Focused Opportunities ETF
 PFRL - PGIM Floating Rate Income ETF
+PFRX - Putnam Focused U.S. Research ETF
 PFS - Provident Financial Services, Inc Common Stock
 PFSA - Profusa, Inc. - Common Stock
 PFSI - PennyMac Financial Services, Inc. Common Stock
@@ -9812,7 +9814,6 @@ SBSI - Southside Bancshares, Inc. Common Stock
 SBSW - D/B/A Sibanye-Stillwater Limited ADS
 SBTU - T-REX 2X Long SBET Daily Target ETF
 SBUX - Starbucks Corporation - Common Stock
-SBXD - SilverBox Corp IV Class A Ordinary Shares
 SBXE - SilverBox Corp V Class A Ordinary Shares
 SCA - GraniteShares Autocallable SMCI ETF
 SCAG - Scage Future - American Depositary Shares
