@@ -249,6 +249,7 @@ AESG - Harbor AlphaEdge Small Cap Growth ETF
 AESI - Atlas Energy Solutions Inc. Common Stock
 AESL - Harbor AlphaEdge Small Cap Value ETF
 AESP - Aeon Acquisition I Corp. - Class A Ordinary Shares
+AESPR - Aeon Acquisition I Corp. - Rights
 AESPU - Aeon Acquisition I Corp. - Units
 AESR - Anfield U.S. Equity Sector Rotation ETF
 AETH - Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF
@@ -995,6 +996,7 @@ AXG - Solowin Holdings - Class A Ordinary Share
 AXGN - Axogen, Inc. - Common Stock
 AXIL - AXIL Brands, Inc. Common Stock
 AXIN - Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares
+AXINR - Axiom Intelligence Acquisition Corp 1 - Right
 AXINU - Axiom Intelligence Acquisition Corp 1 - Units
 AXON - Axon Enterprise, Inc. - Common Stock
 AXP - American Express Company Common Stock
@@ -1298,6 +1300,7 @@ BGX - Blackstone Long Short Credit Income Fund Common Shares
 BGY - Blackrock Enhanced International Dividend Trust
 BH - Biglari Holdings Inc. Class B Common Stock
 BHAV - BHAV Acquisition Corp - Class A Ordinary Shares
+BHAVR - BHAV Acquisition Corp - Rights
 BHAVU - BHAV Acquisition Corp - Units
 BHB - Bar Harbor Bankshares, Inc. Common Stock
 BHC - Bausch Health Companies Inc. Common Stock
@@ -1634,6 +1637,7 @@ BRZL - MicroSectors 3x Long Brazil ETNs
 BRZU - Direxion Daily Brazil Bull 2X ETF
 BRZX - Corgi Brazil 2x Daily ETF
 BSAA - BEST SPAC I Acquisition Corp. - Class A Ordinary Shares
+BSAAR - BEST SPAC I Acquisition Corp. - Rights
 BSAAU - BEST SPAC I Acquisition Corp. - Unit
 BSAC - Banco Santander - Chile ADS
 BSBK - Bogota Financial Corp. - Common Stock
@@ -1849,6 +1853,7 @@ CAI - Caris Life Sciences, Inc. - Common Stock
 CAIE - Calamos Autocallable Income ETF
 CAII - Collective Acquisition Corp. II - Class A Ordinary Shares
 CAIIU - Collective Acquisition Corp. II - Units
+CAIIW - Collective Acquisition Corp. II - Warrants
 CAIQ - Calamos Nasdaq Autocallable Income ETF
 CAKE - The Cheesecake Factory Incorporated - Common Stock
 CAL - Caleres, Inc. Common Stock
@@ -3635,6 +3640,7 @@ ESGV - Vanguard ESG U.S. Stock ETF
 ESI - Element Solutions Inc. Common Stock
 ESIM - Eventide International ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
+ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLG - Eventide Large Cap Growth ETF
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESLV - Eventide Large Cap Value ETF
@@ -3925,6 +3931,7 @@ FDLS - Inspire Fidelis Multi Factor ETF
 FDM - First Trust DJ Select MicroCap ETF
 FDMM - Freedom Metals Acquisition Corp. - Class A Ordinary Shares
 FDMMU - Freedom Metals Acquisition Corp. - Units
+FDMMW - Freedom Metals Acquisition Corp. - Warrants
 FDMO - Fidelity Momentum Factor ETF
 FDMT - 4D Molecular Therapeutics, Inc. - Common Stock
 FDN - First Trust DJ Internet Index Fund
@@ -5404,6 +5411,7 @@ IACO - Idea Acquisition Corp. - Class A Ordinary Shares
 IACOU - Idea Acquisition Corp. - Units
 IACQ - Irenic Acquisition Corp. - Class A Ordinary Shares
 IACQU - Irenic Acquisition Corp. - Unit
+IACQW - Irenic Acquisition Corp. - Warrants
 IAE - Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IAF - abrdn Australia Equity Fund, Inc. Common Stock
 IAG - Iamgold Corporation Ordinary Shares
@@ -5833,7 +5841,6 @@ IPW - iPower Inc. - Common Stock
 IPWR - Ideal Power Inc. - Common Stock
 IPX - IperionX Limited - American Depositary Share
 IPXG - Inection Point Acquisition Corp. VII  - Class A Ordinary Shares
-IPXGU - Inection Point Acquisition Corp. VII  - Unit
 IPXGW - Inection Point Acquisition Corp. VII  - Warrant
 IQ - iQIYI, Inc. - American Depositary Shares
 IQDF - Northern Trust International Quality Dividend ETF
@@ -6879,6 +6886,7 @@ MAAY - GraniteShares YieldBOOST MARA ETF
 MAC - Macerich Company (The) Common Stock
 MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
+MACIW - Melar Acquisition Corp. I - Warrant
 MADE - iShares U.S. Manufacturing ETF
 MAGA - Truth Social America First ETF
 MAGC - Roundhill China Magnificent Seven ETF
@@ -7226,6 +7234,7 @@ MMAY - Pacer Swan SOS Moderate (May) ETF
 MMCA - NYLIM MacKay California Muni Intermediate ETF
 MMD - NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares
 MMED - MiniMed Group, Inc. - Common Stock
+MMEDV - MiniMed Group, Inc. - Common Stock When Issued
 MMHI - NYLIM MacKay Muni High Income ETF
 MMI - Marcus & Millichap, Inc. Common Stock
 MMID - MFS Active Mid Cap ETF
@@ -8057,6 +8066,7 @@ NZAC - State Street SPDR MSCI ACWI Climate Paris Aligned ETF
 NZF - Nuveen Municipal Credit Income Fund 
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -8162,6 +8172,7 @@ OILT - Texas Capital Texas Oil Index ETF
 OILU - MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN
 OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
+OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
 OIS - Oil States International, Inc. Common Stock
 OKE - ONEOK, Inc. Common Stock
@@ -10040,6 +10051,7 @@ SHOE - Shoe Station Group, Inc. - Common Stock
 SHOO - Steven Madden, Ltd. - Common Stock
 SHOP - Shopify Inc. - Class A Subordinate Voting Shares
 SHOT - RMG ML Sports Holdings - Class A Ordinary Shares
+SHOTR - RMG ML Sports Holdings - Rights
 SHOTU - RMG ML Sports Holdings - Unit
 SHPH - Shuttle Pharmaceuticals Holdings, Inc. - common stock
 SHPP - Pacer Industrials and Logistics ETF
@@ -11309,6 +11321,7 @@ TVA - Texas Ventures Acquisition III Corp - Class A Ordinary Share
 TVACU - Texas Ventures Acquisition III Corp - Unit
 TVACW - Texas Ventures Acquisition III Corp - Warrants
 TVAI - Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares
+TVAIR - Thayer Ventures Acquisition Corporation II - Rights
 TVAIU - Thayer Ventures Acquisition Corporation II - Unit
 TVAL - T. Rowe Price Value ETF
 TVC - Tennessee Valley Authority Common Stock
