@@ -362,6 +362,7 @@ AIIOW - Robo.ai Inc. - Warrant
 AIIR - Air Global PLC - Ordinary shares
 AIM - AIM ImmunoTech Inc. Common Stock
 AIMD - Ainos, Inc. - Common Stock
+AIMDW - Ainos, Inc. - warrants
 AIMG - Defiance AI Magnificent 10 ETF
 AIMS - Acuitas Small Cap Active ETF
 AIN - Albany International Corporation Common Stock
@@ -781,7 +782,6 @@ ASB - Associated Banc-Corp Common Stock
 ASBA - Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033
 ASBH - American Savings Bank, N.A. Common Stock
 ASBP - Aspire-Lakewood Holdings, Inc. - Common Stock
-ASBPW - Aspire-Lakewood Holdings, Inc. - Warrant
 ASC - Ardmore Shipping Corporation Common Stock
 ASCE - Allspring SMID Core ETF
 ASCI - abrdn International Small Cap Active ETF
@@ -1153,7 +1153,6 @@ BCFN - Baron Financials ETF
 BCG - Binah Capital Group, Inc. - Common Stock
 BCGD - Baron Global Durable Advantage ETF
 BCGS - Bancreek Global Select ETF
-BCGWW - Binah Capital Group, Inc. - Warrants
 BCH - Banco De Chile ADS
 BCHP - Principal Focused Blue Chip ETF
 BCHT - Birchtech Corp. Common Stock
@@ -1330,6 +1329,7 @@ BID - Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares
 BIDD - iShares International Dividend Active ETF
 BIDG - Leverage Shares 2X Long BIDU Daily ETF
 BIDU - Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share
+BIDWR - Tribeca Strategic Acquisition Corp. - Rights
 BIDWU - Tribeca Strategic Acquisition Corp. - Unit
 BIGY - YieldMax Target 12 Big 50 Option Income ETF
 BIIB - Biogen Inc. - Common Stock
@@ -1444,6 +1444,7 @@ BLOK - Amplify Blockchain Technology ETF
 BLOX - Nicholas Crypto Income ETF
 BLRK - Bluerock Acquisition Corp. - Class A Ordinary Shares
 BLRKU - Bluerock Acquisition Corp. - Units
+BLRKW - Bluerock Acquisition Corp. - Warrants
 BLRX - BioLineRx Ltd. - American Depositary Shares
 BLSG - Leverage Shares 2X Long BLSH Daily ETF
 BLSH - Bullish Ordinary Shares
@@ -2629,9 +2630,9 @@ CTEC - Global X ClimateTech ETF
 CTEF - Castellan Targeted Equity ETF
 CTEV - Claritev Corporation Class A Common Stock
 CTEX - ProShares S&P Kensho Cleantech ETF
-CTGG - Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)
+CTGG - Qwest Corporation - 6.500% Notes due 2051
 CTGO - Contango Silver & Gold Inc. Common Stock
-CTHH - Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)
+CTHH - Qwest Corporation - 6.750% Notes due 2052
 CTIF - Castellan Targeted Income ETF
 CTJL - Corgi U.S. Equities 30% Structured Buffer ETF - July Series
 CTJN - Corgi U.S. Equities 30% Structured Buffer ETF - June Series
@@ -3147,7 +3148,6 @@ DRVN - Driven Brands Holdings Inc. - Common Stock
 DRVR - Amplify S&P 500 Dividend Drivers ETF
 DSAC - Daedalus Special Acquisition Corp. - Class A Ordinary Shares
 DSACU - Daedalus Special Acquisition Corp. - Unit
-DSACW - Daedalus Special Acquisition Corp. - Warrant
 DSC - DSC Holdings Ltd. - American Depositary Shares
 DSCO - DoubleLine Securitized Credit ETF
 DSEP - FT Vest U.S. Equity Deep Buffer ETF - September
@@ -4276,6 +4276,7 @@ FOX - Fox Corporation - Class B Common Stock
 FOXA - Fox Corporation - Class A Common Stock
 FOXF - Fox Factory Holding Corp. - Common Stock
 FOXX - Foxx Development Holdings Inc. - Common Stock
+FOXXW - Foxx Development Holdings Inc. - Warrant
 FOXY - Simplify Currency Strategy ETF
 FPA - First Trust Asia Pacific Ex-Japan AlphaDEX Fund
 FPAA - FPA Global Allocation ETF
@@ -4760,6 +4761,7 @@ GLXU - T-REX 2X Long GLXY Daily Target ETF
 GLXY - Galaxy Digital Inc. - Class A common stock
 GM - General Motors Company Common Stock
 GMAB - Genmab A/S - American Depositary Shares
+GMAC - Simplify Brookwood Global Macro ETF
 GMAR - FT Vest U.S. Equity Moderate Buffer ETF - March
 GMAY - FT Vest U.S. Equity Moderate Buffer ETF - May
 GME - GameStop Corporation Common Stock
@@ -5145,6 +5147,7 @@ HFEQ - Unlimited HFEQ Equity Long/Short ETF
 HFFG - HF Foods Group Inc. - Common Stock
 HFGM - Unlimited HFGM Global Macro ETF
 HFGO - Hartford Large Cap Growth ETF
+HFIX - Nomura High Yield Total Return ETF
 HFMF - Unlimited HFMF Managed Futures ETF
 HFND - Unlimited HFND Multi-Strategy Return Tracker ETF
 HFRO - Highland Opportunities and Income Fund Common Shares of Beneficial Interest
@@ -5287,6 +5290,7 @@ HSAI - Hesai Group - American Depositary Share
 HSBC - HSBC Holdings, plc. Common Stock
 HSBH - HSBC Holdings plc ADRhedged
 HSCS - HeartSciences Inc. - Common Stock
+HSCSW - HeartSciences Inc. - Warrant
 HSCZ - iShares Currency Hedged MSCI EAFE Small-Cap ETF
 HSDT - Solana Company - Class A Common Stock
 HSEP - Corgi U.S. Equities 100% Structured Buffer ETF - September Series
@@ -5321,6 +5325,7 @@ HTZWW - Hertz Global Holdings, Inc - Warrant
 HUBB - Hubbell Inc Common Stock
 HUBC - Hub Cyber Security Ltd. - Ordinary Shares
 HUBCW - Hub Cyber Security Ltd. - Warrant expiring 2/27/28
+HUBCZ - Hub Cyber Security Ltd. - Warrant
 HUBG - Hub Group, Inc. - Class A Common Stock
 HUBS - HubSpot, Inc. Common Stock
 HUCK - Huckleberry.ai, Inc. - Class B Common Stock
@@ -6278,7 +6283,6 @@ KBFR - Innovator U.S. Small Cap Managed 10 Buffer ETF
 KBH - KB Home Common Stock
 KBON - Karbon Capital Partners Corp. - Class A Ordinary Shares
 KBONU - Karbon Capital Partners Corp. - Units
-KBONW - Karbon Capital Partners Corp. - Warrant
 KBR - KBR, Inc. Common Stock
 KBSX - FST Corp. - Ordinary Shares
 KBUF - KraneShares 90% KWEB Defined Outcome January 2027 ETF
@@ -6598,7 +6602,6 @@ LEND - SEI High Yield Bond & Alternative Credit ETF
 LENS - Sarmaya Thematic ETF
 LENZ - LENZ Therapeutics, Inc. - Common Stock
 LEO - BNY Mellon Strategic Municipals, Inc. Common Stock
-LESL - Leslie's, Inc. - Common Stock
 LEU - Centrus Energy Corp. Class A Common Stock
 LEUX - Tradr 2X Long LEU Daily ETF
 LEVI - Levi Strauss & Co Class A Common Stock
@@ -6837,7 +6840,7 @@ LUD - Luda Technology Group Limited Ordinary Shares
 LULG - Leverage Shares 2X Long LULU Daily ETF
 LULU - lululemon athletica inc. - Common Stock
 LUMA - KraneShares Photonic and Optical ETF
-LUMN - Lumen Technologies, Inc. Common Stock
+LUMN - Lumen Technologies, Inc.  - Common Stock
 LUNC - Longnook Uncommon Compounders ETF
 LUNG - Pulmonx Corporation - Common Stock
 LUNL - Defiance Daily Target 2X Long LUNR ETF
@@ -7205,6 +7208,7 @@ MKTX - MarketAxess Holdings, Inc. - Common Stock
 MKZR - MacKenzie Realty Capital, Inc. - Common Stock
 MLAA - Mountain Lake Acquisition Corp. II - Class A Ordinary Shares
 MLAAU - Mountain Lake Acquisition Corp. II - Units
+MLAAW - Mountain Lake Acquisition Corp. II - Warrants
 MLAB - Mesa Laboratories, Inc. - Common Stock
 MLCC - Global X MLCC & Electronic Components ETF
 MLCI - Mount Logan Capital Inc. - Common Stock
@@ -7739,7 +7743,6 @@ NHIV - NewHold Investment Corp IV - Class A Ordinary Shares
 NHIVU - NewHold Investment Corp IV - Units
 NHIVW - NewHold Investment Corp IV - Warrants
 NHP - National Healthcare Properties, Inc. - Class A Common Stock
-NHPBP - National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
 NHS - Neuberger High Yield Strategies Fund Inc. Common Stock
 NHTC - Natural Health Trends Corp. - Common Stock
 NHYB - Nuveen High Yield Corporate Bond ETF
@@ -8440,6 +8443,7 @@ PAVM - PAVmed Inc. - Common Stock
 PAVS - Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares
 PAWZ - ProShares Pet Care ETF
 PAX - Patria Investments Limited - Class A Common Shares
+PAXGU - Pine Tree Acquisition Corp. - Units
 PAXS - PIMCO Access Income Fund Common Shares of Beneficial Interest
 PAY - Paymentus Holdings, Inc. Class A Common Stock
 PAYC - Paycom Software, Inc. Common Stock
@@ -8565,6 +8569,7 @@ PEBO - Peoples Bancorp Inc. - Common Stock
 PECE - Peace Acquisition Corp - Ordinary Shares
 PECER - Peace Acquisition Corp - Right
 PECEU - Peace Acquisition Corp - Units
+PECEW - Peace Acquisition Corp - Warrant
 PECO - Phillips Edison & Company, Inc. - Common Stock
 PED - Pedevco Corp. Common Stock
 PEG - Public Service Enterprise Group Incorporated Common Stock
@@ -8956,7 +8961,6 @@ PSIG - PS International Group Ltd. - Ordinary Shares
 PSIL - AdvisorShares Psychedelics ETF
 PSIX - Power Solutions International, Inc. - Common Stock
 PSK - State Street SPDR ICE Preferred Securities ETF
-PSKY - Paramount Skydance Corporation - Class B Common Stock
 PSL - Invesco Dorsey Wright Consumer Staples Momentum ETF
 PSLV - Sprott Physical Silver Trust ETV
 PSMD - Pacer Swan SOS Moderate (January) ETF
@@ -9119,6 +9123,7 @@ QDVO - Amplify CWP Growth & Income ETF
 QEFA - State Street SPDR MSCI EAFE StrategicFactors ETF
 QEMM - State Street SPDR MSCI Emerging Markets StrategicFactors ETF
 QETA - Quetta Acquisition Corporation - Common Stock
+QETAR - Quetta Acquisition Corporation - Right
 QETAU - Quetta Acquisition Corporation - Unit
 QETH - Invesco Galaxy Ethereum ETF
 QEW - Invesco QQQ Equal Weight ETF
@@ -9213,7 +9218,6 @@ QQXT - First Trust NASDAQ-100 Ex-Technology Sector Index Fund
 QRED - QuasarEdge Acquisition Corporation Ordinary Shares
 QRHC - Quest Resource Holding Corporation - Common Stock
 QRMI - Global X NASDAQ 100 Risk Managed Income ETF
-QRVO - Qorvo, Inc. - Common Stock
 QS - QuantumScape Corporation - Common Stock
 QSE - Corgi Growth & Technology 10% Structured Buffer ETF - September Series
 QSEA - Quartzsea Acquisition Corporation - Ordinary Shares
@@ -9429,6 +9433,7 @@ RFAI - RF Acquisition Corp II - Ordinary Shares
 RFAIR - RF Acquisition Corp II - Right
 RFAIU - RF Acquisition Corp II - Unit
 RFAM - RF Acquisition Corp III - Ordinary Shares
+RFAMR - RF Acquisition Corp III - Rights
 RFAMU - RF Acquisition Corp III - Units
 RFCI - ALPS Dynamic Core Income ETF
 RFDA - ALPS Dynamic US Dividend Advantage ETF
@@ -10154,6 +10159,7 @@ SKWD - Skyward Specialty Insurance Group, Inc. - Common Stock
 SKY - Champion Homes, Inc. Common Stock
 SKYA - SkyAI, Inc. - Common Stock
 SKYAW - SkyAI, Inc. - Warrant
+SKYD - Skydance Corporation Class B Common Stock
 SKYE - Skye Bioscience, Inc. - Common Stock
 SKYH - Sky Harbour Group Corporation Class A Common Stock
 SKYQ - Sky Quarry Inc. - Common Stock
@@ -10652,7 +10658,6 @@ SUIL - 2x Sui ETF
 SUIS - Canary Staked SUI ETF
 SUJA - Suja Life, Inc. - Class A Common Stock
 SUMA - SUMA Acquisition Corporation - Class A Ordinary Shares
-SUMAR - SUMA Acquisition Corporation - Rights
 SUMAU - SUMA Acquisition Corporation - Units
 SUN - Sunoco LP Common Units representing limited partner interests
 SUNB - Sunbelt Rentals Holdings, Inc. Common Stock
@@ -10791,6 +10796,7 @@ TBBK - The Bancorp, Inc. - Common Stock
 TBCH - Turtle Beach Corporation - Common Stock
 TBCV - Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares
 TBCVU - Thunder Bridge Capital Partners V, Ltd. - Units
+TBCVW - Thunder Bridge Capital Partners V, Ltd. - Warrants
 TBF - ProShares Short 20+ Year Treasury
 TBFC - The Brinsmere Fund  Conservative ETF
 TBFG - The Brinsmere Fund Growth ETF
