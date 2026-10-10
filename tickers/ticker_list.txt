@@ -268,6 +268,7 @@ AFGR - First Trust Multi-Manager Large Growth ETF
 AFIF - Anfield Universal Fixed Income ETF
 AFIX - Allspring Broad Market Core Bond ETF
 AFJK - Aimei Health Technology Co., Ltd - Ordinary Share
+AFJKR - Aimei Health Technology Co., Ltd - Right
 AFJKU - Aimei Health Technology Co., Ltd - Unit
 AFK - VanEck Africa Index ETF
 AFL - AFLAC Incorporated Common Stock
@@ -762,6 +763,7 @@ ARR - ARMOUR Residential REIT, Inc.
 ARRY - Array Technologies, Inc. - Common Stock
 ARTC - Art Technology Acquisition Corp. - Class A Ordinary Shares
 ARTCU - Art Technology Acquisition Corp. - Units
+ARTCW - Art Technology Acquisition Corp. - Warrants
 ARTL - Artelo Biosciences, Inc. - Common Stock
 ARTNA - Artesian Resources Corporation - Class A Non-Voting Common Stock
 ARTV - Artiva Biotherapeutics, Inc. - Common Stock
@@ -1854,6 +1856,7 @@ CAI - Caris Life Sciences, Inc. - Common Stock
 CAIE - Calamos Autocallable Income ETF
 CAII - Collective Acquisition Corp. II - Class A Ordinary Shares
 CAIIU - Collective Acquisition Corp. II - Units
+CAIIW - Collective Acquisition Corp. II - Warrants
 CAIQ - Calamos Nasdaq Autocallable Income ETF
 CAKE - The Cheesecake Factory Incorporated - Common Stock
 CAL - Caleres, Inc. Common Stock
@@ -3188,6 +3191,7 @@ DTK - DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 
 DTM - DT Midstream, Inc. Common Stock 
 DTRE - First Trust Alerian Disruptive Technology Real Estate ETF
 DTSQ - DT Cloud Star Acquisition Corporation - Ordinary Shares
+DTSQR - DT Cloud Star Acquisition Corporation - Right
 DTSQU - DT Cloud Star Acquisition Corporation - Units
 DTSS - Datasea Intelligent Technology Ltd. - Class A Ordinary Shares
 DTST - Data Storage Corporation - Common Stock
@@ -4960,6 +4964,7 @@ GTEC - Greenland Technologies Holding Corporation - Class A Ordinary Shares
 GTEK - Goldman Sachs Future Tech Leaders Equity ETF
 GTEN - Gores Holdings X, Inc. - Class A ordinary shares
 GTENU - Gores Holdings X, Inc. - Units
+GTENW - Gores Holdings X, Inc. - Warrants
 GTERA - Globa Terra Acquisition Corporation - Class A Ordinary Shares
 GTERR - Globa Terra Acquisition Corporation - Rights
 GTERU - Globa Terra Acquisition Corporation - Units
@@ -6975,6 +6980,7 @@ MBWM - Mercantile Bank Corporation - Common Stock
 MBX - MBX Biosciences, Inc. - Common Stock
 MC - Moelis & Company Class A Common Stock
 MCAH - Mountain Crest Acquisition 6 Corp. - Ordinary Shares
+MCAHR - Mountain Crest Acquisition 6 Corp. - Rights
 MCAHU - Mountain Crest Acquisition 6 Corp. - Units
 MCB - Metropolitan Bank Holding Corp. Common Stock
 MCBS - MetroCity Bankshares, Inc. - Common Stock
@@ -8620,6 +8626,7 @@ PFXF - VanEck Preferred Securities ex Financials ETF
 PFXNZ - PhenixFIN Corporation  - 5.25% Notes due 2028
 PG - Procter & Gamble Company (The) Common Stock
 PGAC - Pantages Capital Acquisition Corporation - Class A Ordinary Shares
+PGACR - Pantages Capital Acquisition Corporation - Right
 PGACU - Pantages Capital Acquisition Corporation - Unit
 PGC - Peapack-Gladstone Financial Corporation - Common Stock
 PGEN - Precigen, Inc. - Common Stock
@@ -9244,6 +9251,7 @@ QUCY - Quantum Cyber N.V. - Ordinary Shares
 QUIK - QuickLogic Corporation - Common Stock
 QUIZ - Zacks Quality International ETF
 QUMS - Quantumsphere Acquisition Corp. - Ordinary Shares
+QUMSR - Quantumsphere Acquisition Corp. - Rights
 QUMSU - Quantumsphere Acquisition Corp. - Units
 QURE - uniQure N.V. - Ordinary Shares
 QUS - State Street SPDR MSCI USA StrategicFactors ETF
@@ -10663,7 +10671,6 @@ SUSB - iShares ESG Aware 1-5 Year USD Corporate Bond ETF
 SUSC - iShares ESG Aware USD Corporate Bond ETF
 SUSL - iShares ESG MSCI USA Leaders ETF
 SUZ - Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
-SVA - Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
 SVAL - iShares US Small Cap Value Factor ETF
 SVAQ - Silicon Valley Acquisition Corp. - Class A Ordinary Shares
 SVAQU - Silicon Valley Acquisition Corp. - Units
