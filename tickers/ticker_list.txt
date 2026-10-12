@@ -129,6 +129,7 @@ ACLO - TCW AAA CLO ETF
 ACLS - Axcelis Technologies, Inc. - Common Stock
 ACLZ - Corgi ACLS 2x Daily ETF
 ACM - AECOM Common Stock
+ACMG - American Century Mid Cap Growth Insights ETF
 ACMM - Corgi ACMR 2x Daily ETF
 ACMR - ACM Research, Inc. - Class A Common Stock
 ACN - Accenture plc Class A Ordinary Shares (Ireland)
@@ -5883,6 +5884,7 @@ IRHO - Iron Horse Acquisitions II Corp. - Common Stock
 IRHOR - Iron Horse Acquisitions II Corp. - Rights
 IRHOU - Iron Horse Acquisitions II Corp. - Units
 IRIX - IRIDEX Corporation - Common Stock
+IRLA - IRulya Therapeutics Inc. - Common Stock
 IRM - Iron Mountain Incorporated (Delaware)Common Stock REIT
 IRMD - iRadimed Corporation - Common Stock
 IROC - Invesco Rochester High Yield Municipal ETF
@@ -5959,6 +5961,7 @@ IVA - Inventiva S.A. - American Depository Shares
 IVAI - Ives Ultra AI Opportunities Inc. Common Stock
 IVAL - Alpha Architect International Quantitative Value ETF
 IVDA - Iveda Solutions, Inc. - Common Stock
+IVDAW - Iveda Solutions, Inc. - Warrant
 IVE - iShares S&P 500 Value ETF
 IVEP - Dan IVES Wedbush AI Power & Infrastructure ETF
 IVES - Dan IVES Wedbush AI Revolution ETF
@@ -6535,6 +6538,7 @@ LASE - Laser Photonics Corporation - Common Stock
 LASR - nLIGHT, Inc. - Common Stock
 LATA - Galata Acquisition Corp. II - Class A Ordinary Shares
 LATAU - Galata Acquisition Corp. II - Units
+LATAW - Galata Acquisition Corp. II - Warrant
 LATR - Corgi Buy Now Pay Later ETF
 LAUR - Laureate Education, Inc. - Common Stock
 LAW - CS Disco, Inc. Common Stock
@@ -7159,7 +7163,6 @@ MIACW - Meridian3 Industrials Acquisition Corp - Warrant
 MIAX - Miami International Holdings, Inc. Common Stock
 MIC - Corgi MU 2x Daily ETF
 MICC - The Magnum Ice Cream Company N.V. Ordinary Shares
-MID - American Century Mid Cap Growth Insights ETF
 MIDD - The Middleby Corporation - Common Stock
 MIDE - Xtrackers S&P MidCap 400 Scored & Screened ETF
 MIDU - Direxion Mid Cap Bull 3X ETF
@@ -7194,6 +7197,7 @@ MJUN - Pacer Swan SOS Moderate June ETF
 MKAM - MKAM ETF
 MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
+MKDWW - MKDWELL Tech Inc. - Warrants
 MKL - Markel Group Inc. Common Stock
 MKLY - McKinley Acquisition Corporation - Class A Ordinary Shares
 MKLYR - McKinley Acquisition Corporation - Rights
@@ -8067,6 +8071,7 @@ NZAC - State Street SPDR MSCI ACWI Climate Paris Aligned ETF
 NZF - Nuveen Municipal Credit Income Fund 
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -8175,6 +8180,7 @@ OILT - Texas Capital Texas Oil Index ETF
 OILU - MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN
 OIM - OneIM Acquisition Corp. - Class A Ordinary Shares
 OIMAU - OneIM Acquisition Corp. - Units
+OIMAW - OneIM Acquisition Corp. - Warrant
 OIO - OIO Group - Ordinary Shares
 OIS - Oil States International, Inc. Common Stock
 OKE - ONEOK, Inc. Common Stock
@@ -8410,6 +8416,7 @@ PALI - Palisade Bio, Inc. - Common Stock
 PALL - abrdn Physical Palladium Shares ETF
 PALO - Paloma Acquisition Corp I - Class A Ordinary Shares
 PALOU - Paloma Acquisition Corp I - Units
+PALOW - Paloma Acquisition Corp I - Warrants
 PALU - Direxion Daily PANW Bull 2X ETF
 PAM - Pampa Energia S.A.
 PAMC - Pacer Lunt MidCap Multi-Factor Alternator ETF
@@ -8715,6 +8722,7 @@ PLBL - Polibeli Group Ltd - Class A Ordinary Shares
 PLBY - Playboy, Inc. - Common Stock
 PLCE - Children's Place, Inc. (The) - Common Stock
 PLCI - Pelican Acquisition II Corporation - Ordinary Shares
+PLCIR - Pelican Acquisition II Corporation - Right
 PLCIU - Pelican Acquisition II Corporation - Unit
 PLD - Prologis, Inc. Common Stock
 PLG - Platinum Group Metals Ltd. Ordinary Shares (Canada)
@@ -9164,7 +9172,6 @@ QMOM - Alpha Architect U.S. Quantitative Momentum ETF
 QMY - Corgi Growth & Technology 10% Structured Buffer ETF - May Series
 QNBC - QNB Corp. - Common Stock
 QNC - Quantum eMotion Corp. Common Shares
-QNCX - Quince Therapeutics, Inc. - Common Stock
 QNDX - State Street SPDR Portfolio Nasdaq 100 ETF
 QNME - Quanome Technologies, Inc. - Common Stock
 QNRX - Quoin Pharmaceuticals, Ltd. - American Depositary Shares
@@ -9533,6 +9540,7 @@ RMBX - Tradr 2X Long RMBS Daily ETF
 RMCA - Rockefeller California Municipal Bond ETF
 RMCF - Rocky Mountain Chocolate Factory, Inc. - Common Stock
 RMCO - Royalty Management Holding Corporation - Class A Common Stock
+RMCOW - Royalty Management Holding Corporation - Warrant
 RMD - ResMed Inc. Common Stock
 RMHY - Global X Adaptive Risk Managed Yield ETF
 RMI - RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock
@@ -10671,7 +10679,6 @@ SUSB - iShares ESG Aware 1-5 Year USD Corporate Bond ETF
 SUSC - iShares ESG Aware USD Corporate Bond ETF
 SUSL - iShares ESG MSCI USA Leaders ETF
 SUZ - Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
-SVA - Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
 SVAL - iShares US Small Cap Value Factor ETF
 SVAQ - Silicon Valley Acquisition Corp. - Class A Ordinary Shares
 SVAQU - Silicon Valley Acquisition Corp. - Units
@@ -11992,7 +11999,7 @@ WABC - Westamerica Bancorporation - Common Stock
 WABF - Western Asset Bond ETF
 WAFD - WaFd, Inc. - Common Stock
 WAFDP - WaFd, Inc. - Depositary Shares
-WAFU - Wah Fu Education Group Limited - Ordinary Shares
+WAFU - Wah Fu Education & Technology Group Ltd. - Ordinary Shares
 WAGN - Pabrai Wagons ETF
 WAL - Western Alliance Bancorporation Common Stock (DE)
 WAMA - WisdomTree US Adaptive Moving Average Fund
@@ -12417,9 +12424,8 @@ XRP - Bitwise XRP ETF
 XRPC - Canary XRP ETF
 XRPI - Volatility Shares Trust XRP ETF
 XRPM - Amplify XRP 3% Monthly Option Income ETF
-XRPN - Armada Acquisition Corp. II - Class A Ordinary Shares
-XRPNU - Armada Acquisition Corp. II - Units
-XRPNW - Armada Acquisition Corp. II - Warrant
+XRPN - Evernorth Holdings Inc. - Class A Ordinary Shares
+XRPNW - Evernorth Holdings Inc. - Warrants
 XRPR - REX-Osprey XRP ETF
 XRPT - Volatility Shares Trust XRP 2X ETF
 XRPZ - Franklin XRP ETF
@@ -12536,6 +12542,7 @@ YI - 111, Inc. - American Depositary Shares
 YIBO - Planet Image International Limited - Class A Ordinary Shares
 YICC - Yorkville International Capital Corp. - Class A Ordinary Shares
 YICCU - Yorkville International Capital Corp. - Units
+YICCW - Yorkville International Capital Corp. - Warrants
 YINN - Direxion Daily FTSE China Bull 3X ETF
 YJ - Yunji Inc. - American Depository Shares
 YJUN - FT Vest International Equity Moderate Buffer ETF - June
