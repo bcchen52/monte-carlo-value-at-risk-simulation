@@ -2,6 +2,7 @@ A - Agilent Technologies, Inc. Common Stock
 AA - Alcoa Corporation Common Stock 
 AAA - Alternative Access First Priority CLO Bond ETF
 AAAA - Amplius Aggressive Asset Allocation ETF
+AAAB - Corgi FTSE Aaa-A Intermediate Corporate Bond ETF
 AAAC - Columbia AAA CLO ETF
 AAAD - PGIM AAA CLO Aggregate Duration ETF
 AAAP - Pacer Barings CLO Market Flex ETF
@@ -294,6 +295,7 @@ AGEM - abrdn Emerging Markets Dividend Active ETF
 AGEN - Agenus Inc. - Common Stock
 AGG - iShares Core U.S. Aggregate Bond ETF
 AGGA - EA Astoria Beacon Dynamic Core US Fixed Income ETF
+AGGB - Corgi FTSE U.S. Aggregate Bond ETF
 AGGH - Simplify Aggregate Bond ETF
 AGGM - iShares 1-10 Year U.S. Aggregate Bond ETF
 AGGS - Harbor Disciplined Bond ETF
@@ -432,7 +434,6 @@ ALCO - Alico, Inc. - Common Stock
 ALDB - Aptus Laddered Deep Buffer ETF
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
-ALDFW - Aldel Financial II Inc. - Warrants
 ALDX - Aldeyra Therapeutics, Inc. - Common Stock
 ALEC - Alector, Inc. - Common Stock
 ALF - Centurion Acquisition Corp. - Class A Ordinary Shares
@@ -587,6 +588,7 @@ ANDG - Andersen Group Inc. Class A Common Stock
 ANEL - Defiance Daily Target 2x Long ANET ETF
 ANET - Arista Networks, Inc. Common Stock
 ANF - Abercrombie & Fitch Company Common Stock
+ANG - Corgi FTSE Fallen Angels Bond ETF
 ANGH - Anghami Inc. - Ordinary Shares
 ANGHW - Anghami Inc. - Warrants
 ANGI - Angi Inc. - Class A Common Stock
@@ -1096,6 +1098,7 @@ BBAI - BigBear.ai, Inc. Common Stock
 BBAR - Banco BBVA Argentina S.A. ADS
 BBAX - JPMorgan BetaBuilders Developed Asia Pacific-ex Japan ETF
 BBB - CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF
+BBBB - Corgi FTSE BBB Rated Corporate Bond ETF
 BBBI - BondBloxx BBB Rated 5-10 Year Corporate Bond ETF
 BBBL - BondBloxx BBB Rated 10+ Year Corporate Bond ETF
 BBBS - BondBloxx BBB Rated 1-5 Year Corporate Bond ETF
@@ -2668,6 +2671,7 @@ CTVA - Corteva, Inc. Common Stock
 CTW - CTW - Class A Ordinary Shares
 CTWO - Common units
 CTXR - Citius Pharmaceuticals, Inc. - Common Stock
+CTY - City Therapeutics, Inc. - Common Stock
 CUB - Lionheart Holdings - Class A Ordinary Shares
 CUBB - Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034
 CUBE - CubeSmart Common Shares
@@ -3132,7 +3136,6 @@ DRAY - YieldMax DKNG Option Income Strategy ETF
 DRD - DRDGOLD Limited American Depositary Shares
 DRDB - Roman DBDR Acquisition Corp. II - Ordinary shares
 DRDBU - Roman DBDR Acquisition Corp. II - Unit
-DRDBW - Roman DBDR Acquisition Corp. II - Warrants
 DRES - GMO Domestic Resilience ETF
 DRGN - Themes China Generative Artificial Intelligence ETF
 DRH - Diamondrock Hospitality Company - Common Stock
@@ -3748,7 +3751,6 @@ EVNT - AltShares Event-Driven ETF
 EVO - Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share
 EVOX - Evolution Global Acquisition Corp - Class A Ordinary Shares
 EVOXU - Evolution Global Acquisition Corp - Units
-EVOXW - Evolution Global Acquisition Corp - Warrants
 EVPF - Eaton Vance Preferred Securities and Income ETF
 EVR - Evercore Inc. Class A Common Stock
 EVRG - Evergy, Inc. - Common Stock
@@ -4046,7 +4048,6 @@ FGDL - Franklin Responsibly Sourced Gold ETF
 FGI - FGI Industries Ltd. - Ordinary Shares
 FGII - FG Imperii Acquisition Corp. - Class A Ordinary Shares
 FGIIU - FG Imperii Acquisition Corp. - Units
-FGIIW - FG Imperii Acquisition Corp. - Warrants
 FGIWW - FGI Industries Ltd. - warrant
 FGL - Founder Group Limited - Class A Ordinary Shares
 FGM - First Trust Germany AlphaDEX Fund
@@ -4418,6 +4419,7 @@ FTMH - Franklin Municipal High Yield ETF
 FTMN - Franklin Minnesota Municipal Income ETF
 FTMS - Franklin Short-Term Municipal Income ETF
 FTMU - Franklin Municipal Income ETF
+FTN - Corgi FTSE 5-10 Year IG Corporate Bond ETF
 FTNJ - Franklin New Jersey Municipal Income ETF
 FTNT - Fortinet, Inc. - Common Stock
 FTNY - Franklin New York Municipal Income ETF
@@ -4556,6 +4558,7 @@ GBUG - Sprott Active Gold & Silver Miners ETF
 GBX - Greenbrier Companies, Inc. (The) Common Stock
 GCAD - Gabelli Commercial Aerospace and Defense ETF
 GCAL - Goldman Sachs Dynamic California Municipal Income ETF
+GCB - Corgi FTSE Intermediate Government/Credit Bond ETF
 GCBC - Greene County Bancorp, Inc. - Common Stock
 GCC - WisdomTree EnhancedContinuous Commodity Index Fund
 GCDT - Green Circle Decarbonize Technology Limited Class A Ordinary Shares
@@ -4564,7 +4567,6 @@ GCGRU - General Catalyst Global Resilience Merger Corp. - Units
 GCGRW - General Catalyst Global Resilience Merger Corp. - Warrants
 GCL - GCL Global Holdings Ltd - Ordinary Shares
 GCLO - Guggenheim Investment Grade CLO ETF
-GCLWW - GCL Global Holdings Ltd - Warrants
 GCMG - GCM Grosvenor Inc. - Class A Common Stock
 GCO - Genesco Inc. Common Stock
 GCOR - Goldman Sachs Access U.S. Aggregate Bond ETF
@@ -4688,7 +4690,6 @@ GHYG - iShares US & Intl High Yield Corp Bond ETF
 GIAX - Nicholas Global Equity and Income ETF
 GIB - CGI Inc. Common Stock
 GIBO - GIBO Holdings Limited - Class A Ordinary Shares
-GIBOW - GIBO Holdings Limited - Warrants
 GIC - Global Industrial Company Common Stock
 GIEQ - Goldman Sachs Data Enhanced International Equity ETF
 GIFT - Giftify, Inc. - Common Stock
@@ -5179,6 +5180,7 @@ HGLB - Highland Global Allocation Fund Common Stock
 HGRO - Hedgeye Quality Growth ETF
 HGTY - Hagerty, Inc. Class A Common Stock
 HGV - Hilton Grand Vacations Inc. Common Stock 
+HH - Corgi FTSE High Yield Corporate Bond ETF
 HHH - Howard Hughes Holdings Inc. Common Stock
 HHS - Harte Hanks, Inc. - Common Stock
 HIAI - Ai Funds High Conviction US Equity AI-Managed ETF
@@ -5275,7 +5277,6 @@ HOWL - Werewolf Therapeutics, Inc. - Common Stock
 HOYY - GraniteShares YieldBOOST HOOD ETF
 HP - Helmerich & Payne, Inc. Common Stock
 HPAI - Helport AI Limited - Ordinary Shares
-HPAIW - Helport AI Limited - Warrants
 HPE - Hewlett Packard Enterprise Company Common Stock
 HPEL - Leverage Shares 2X Long HPE Daily ETF
 HPF - John Hancock Pfd Income Fund II Pfd Income Fund II
@@ -5627,6 +5628,7 @@ IGA - Voya Global Advantage and Premium Opportunity Fund Common Shares of Benefi
 IGAC - Invest Green Acquisition Corporation - Class A Ordinary Shares
 IGACR - Invest Green Acquisition Corporation - Rights
 IGACU - Invest Green Acquisition Corporation - Units
+IGB - Corgi FTSE U.S. IG Corporate Bond ETF
 IGBH - iShares Interest Rate Hedged Long-Term Corporate Bond ETF
 IGC - IGC Pharma, Inc. Common Stock
 IGCB - TCW Corporate Bond ETF
@@ -5862,7 +5864,6 @@ IPWR - Ideal Power Inc. - Common Stock
 IPX - IperionX Limited - American Depositary Share
 IPXG - Inection Point Acquisition Corp. VII  - Class A Ordinary Shares
 IPXGU - Inection Point Acquisition Corp. VII  - Unit
-IPXGW - Inection Point Acquisition Corp. VII  - Warrant
 IQ - iQIYI, Inc. - American Depositary Shares
 IQDF - Northern Trust International Quality Dividend ETF
 IQDG - WisdomTree International Quality Dividend Growth Fund
@@ -6626,6 +6627,7 @@ LEXI - Alexis Practical Tactical ETF
 LEXX - Lexaria Bioscience Corp. - Common Stock
 LFAC - Leapfrog Acquisition Corporation - Class A Ordinary Shares
 LFACU - Leapfrog Acquisition Corporation - Units
+LFACW - Leapfrog Acquisition Corporation - Warrants
 LFAI - LifeX 2050 Longevity Income ETF
 LFAO - LifeX 2055 Longevity Income ETF
 LFAW - LifeX 2060 Longevity Income ETF
@@ -6677,6 +6679,7 @@ LIEN - Chicago Atlantic BDC, Inc. - Common Stock
 LIF - Life360, Inc. - Common Stock
 LIFE - Ethos Technologies Inc. - Class A Common Stock
 LIFT - LifeX 2028 Income Bucket ETF
+LIGB - Corgi FTSE 10 Year IG Corporate Bond ETF
 LII - Lennox International, Inc. Common Stock
 LILA - Liberty Latin America Ltd. - Class A Common Stock
 LILAK - Liberty Latin America Ltd. - Class C Common Stock
@@ -6834,6 +6837,7 @@ LSTB - Natixis Loomis Sayles Total Return Bond ETF
 LSTR - Landstar System, Inc. - Common Stock
 LSVD - LSV Disciplined Value ETF
 LTAX - Nomura Tax-Free USA ETF
+LTB - Corgi FTSE 20 Year U.S. Treasury Bond ETF
 LTBR - Lightbridge Corporation - Common Stock
 LTC - LTC Properties, Inc. Common Stock
 LTCC - Canary Litecoin ETF
@@ -7257,6 +7261,7 @@ MMCA - NYLIM MacKay California Muni Intermediate ETF
 MMD - NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares
 MMED - MiniMed Group, Inc. - Common Stock
 MMEDV - MiniMed Group, Inc. - Common Stock When Issued
+MMF - Corgi Money Market ETF
 MMHI - NYLIM MacKay Muni High Income ETF
 MMI - Marcus & Millichap, Inc. Common Stock
 MMID - MFS Active Mid Cap ETF
@@ -8550,6 +8555,7 @@ PCSA - Processa Pharmaceuticals, Inc. - Common Stock
 PCSG - Polen 5Perspectives Small-Mid Growth ETF
 PCT - PureCycle Technologies, Inc. - Common stock
 PCTTU - PureCycle Technologies, Inc. - Unit
+PCTTW - PureCycle Technologies, Inc. - Warrant
 PCTY - Paylocity Holding Corporation - Common Stock
 PCVX - Vaxcyte, Inc. - Common Stock
 PCY - Invesco Emerging Markets Sovereign Debt ETF
@@ -9786,6 +9792,7 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
+SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAIQ - WISeSat.Space Holdings Corp. - Ordinary Shares
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
@@ -10495,7 +10502,6 @@ SPWR - SunPower Inc. - Common Stock
 SPWRW - SunPower Inc. - Warrant
 SPXC - SPX Technologies, Inc. Common Stock
 SPXD - Xtrackers S&P 500 Diversified Sector Weight ETF
-SPXE - ProShares S&P 500 Ex-Energy ETF
 SPXL - Direxion Daily S&P 500 Bull 3X ETF
 SPXN - ProShares S&P 500 Ex-Financials ETF
 SPXP - Direxion U.S. 500 Plus ETF
@@ -10715,6 +10721,7 @@ SVRA - Savara, Inc. - Common Stock
 SVRE - SaverOne 2014 Ltd. - American Depositary Shares
 SVREW - SaverOne 2014 Ltd. - Warrant
 SVRN - SVRN, Inc. - Common Stock
+SVTN - Corgi FTSE 7-10 Year U.S. Treasury Bond ETF
 SVV - Savers Value Village, Inc. Common Stock
 SVXY - ProShares Short VIX Short Term Futures ETF
 SW - Smurfit WestRock plc Ordinary Shares
@@ -11122,6 +11129,7 @@ TNL - Travel   Leisure Co. Common  Stock
 TNMG - TNL Mediagene - Ordinary Shares
 TNON - Tenon Medical, Inc. - Common Stock
 TNONW - Tenon Medical, Inc. - Warrant
+TNTW - Corgi FTSE 10-20 Year U.S. Treasury Bond ETF
 TNUK - Tortoise Nuclear Renaissance ETF
 TNXP - Tonix Pharmaceuticals Holding Corp. - Common Stock
 TNXT - T. Rowe Price Innovation Leaders ETF
@@ -11332,6 +11340,7 @@ TTMX - Tradr 2X Long TTMI Daily ETF
 TTOP - 21Shares FTSE Crypto 10 Index ETF
 TTRX - Turn Therapeutics Inc. - Common Stock
 TTT - ProShares UltraPro Short 20 Year Treasury
+TTTT - Corgi FTSE U.S. TIPS Bond ETF
 TTWO - Take-Two Interactive Software, Inc. - Common Stock
 TTXD - Direxion Daily Technology Top 5 Bear 2X ETF
 TTXU - Direxion Daily Technology Top 5 Bull 2X ETF
@@ -11421,6 +11430,7 @@ UAN - CVR Partners, LP Common Units representing Limited Partner Interests
 UAPR - Innovator U.S. Equity Ultra Buffer ETF - April
 UAUG - Innovator U.S. Equity Ultra Buffer ETF - August
 UAVS - AgEagle Aerial Systems, Inc. Common Stock
+UB - Corgi FTSE U.S. Treasury Bond ETF
 UBCP - United Bancorp, Inc. - Common Stock
 UBER - Uber Technologies, Inc. Common Stock
 UBEW - Roundhill UBER WeeklyPay ETF
