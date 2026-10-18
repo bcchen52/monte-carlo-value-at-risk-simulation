@@ -10502,6 +10502,7 @@ SPWR - SunPower Inc. - Common Stock
 SPWRW - SunPower Inc. - Warrant
 SPXC - SPX Technologies, Inc. Common Stock
 SPXD - Xtrackers S&P 500 Diversified Sector Weight ETF
+SPXE - ProShares S&P 500 Ex-Energy ETF
 SPXL - Direxion Daily S&P 500 Bull 3X ETF
 SPXN - ProShares S&P 500 Ex-Financials ETF
 SPXP - Direxion U.S. 500 Plus ETF
