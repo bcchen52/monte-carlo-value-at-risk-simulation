@@ -159,7 +159,6 @@ ACTS - FIS Tactical Equity ETF
 ACTU - Actuate Therapeutics, Inc. - Common stock
 ACU - Acme United Corporation. Common Stock
 ACV - Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest
-ACVA - ACV Auctions Inc. Class A Common Stock
 ACVF - American Conservative Values ETF
 ACVT - Advent Convertible Bond ETF
 ACVU - Hartford Alpha Capture Value ETF
@@ -351,6 +350,7 @@ AIBU - Direxion Daily AI and Big Data Bull 2X ETF
 AIBZ - Bitzero Holdings Inc. - Common Shares
 AICH - China AI ETF
 AIDX - 20/20 Biolabs, Inc. - Common Stock
+AIED - Defiance LLM Catalyst Momentum ETF
 AIEQ - Amplify AI Powered Equity ETF
 AIFA - All In FutureTech Alliance, Inc. - Common Stock
 AIFC - AI Financial Corporation - Common Stock
@@ -540,7 +540,6 @@ AMMO - VistaShares Defense Supercycle ETF
 AMN - AMN Healthcare Services Inc
 AMOD - Alpha Modus Holdings, Inc. - Class A Common Stock
 AMODW - Alpha Modus Holdings, Inc. - Warrant
-AMOM - QRAFT AI-Enhanced U.S. Large Cap Momentum ETF
 AMP - Ameriprise Financial, Inc. Common Stock
 AMPG - Amplitech Group, Inc. - Common Stock
 AMPGZ - Amplitech Group, Inc. - Series B Right
@@ -562,7 +561,7 @@ AMSS - AMASS Brands Inc. - Common Stock
 AMST - Amesite Inc. - Common Stock
 AMT - American Tower Corporation (REIT) Common Stock
 AMTB - Amerant Bancorp Inc. Class A Common Stock
-AMTD - AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares
+AMTD - AMTD IDEA Group American Depositary Shares, each representing three hundred sixty (360) Class A Ordinary Shares
 AMTM - Amentum Holdings, Inc. Common Stock
 AMTX - Aemetis, Inc - Common Stock
 AMUB - ETRACS Alerian MLP Index ETN Series B due July 18, 2042
@@ -863,7 +862,6 @@ ATI - ATI Inc. Common Stock
 ATII - Archimedes Tech SPAC Partners II Co. - Ordinary Shares
 ATIIU - Archimedes Tech SPAC Partners II Co. - Unit
 ATIIW - Archimedes Tech SPAC Partners II Co. - Warrant
-ATKR - Atkore Inc. Common Stock
 ATLC - Atlanticus Holdings Corporation - Common Stock
 ATLCL - Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026
 ATLCP - Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share
@@ -1742,7 +1740,6 @@ BTO - John Hancock Financial Opportunities Fund Common Stock
 BTOC - Armlogi Holding Corp. - common stock
 BTOT - iShares Total USD Fixed Income Market ETF
 BTQ - BTQ Technologies Corp. - Common Stock
-BTRN - Global X Bitcoin Trend Strategy ETF
 BTSG - BrightSpring Health Services, Inc. - Common Stock
 BTSGU - BrightSpring Health Services, Inc. - Tangible Equity Unit
 BTT - BlackRock Municipal 2030 Target Term Trust
@@ -2055,7 +2052,7 @@ CDXS - Codexis, Inc. - Common Stock
 CDZI - Cadiz, Inc. - Common Stock
 CDZIP - Cadiz, Inc. - Depositary Shares
 CE - Celanese Corporation Common Stock
-CECO - CECO Environmental Corp. - Common Stock
+CECO - CECO Environmental Corp. Common Stock
 CEE - The Central and Eastern Europe Fund, Inc. (The) Common Stock
 CEF - Sprott Physical Gold and Silver Trust Units
 CEFA - Global X S&P Catholic Values Developed ex-U.S. ETF
@@ -2824,6 +2821,7 @@ DCBO - Docebo Inc. - Common Shares
 DCGO - DocGo Inc. - Common Stock
 DCH - Dauch Corporation Common Stock
 DCI - Donaldson Company, Inc. Common Stock
+DCM - DeFi Capital Markets, Inc. Common Stock
 DCMT - DoubleLine Commodity Strategy ETF
 DCO - Ducommun Incorporated Common Stock
 DCOM - Dime Commercial Bancshares, Inc. Common Stock
@@ -3136,6 +3134,7 @@ DRAY - YieldMax DKNG Option Income Strategy ETF
 DRD - DRDGOLD Limited American Depositary Shares
 DRDB - Roman DBDR Acquisition Corp. II - Ordinary shares
 DRDBU - Roman DBDR Acquisition Corp. II - Unit
+DRDBW - Roman DBDR Acquisition Corp. II - Warrants
 DRES - GMO Domestic Resilience ETF
 DRGN - Themes China Generative Artificial Intelligence ETF
 DRH - Diamondrock Hospitality Company - Common Stock
@@ -3399,7 +3398,7 @@ EFSC - Enterprise Financial Services Corporation - Common Stock
 EFSCP - Enterprise Financial Services Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of 5% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
 EFSI - Eagle Financial Services Inc - Common Stock
 EFT - Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest
-EFTY - Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares
+EFTY - Etoiles Capital Group Co., Ltd. - Common Stock
 EFU - ProShares UltraShort MSCI EAFE
 EFV - iShares MSCI EAFE Value ETF
 EFX - Equifax, Inc. Common Stock
@@ -3654,6 +3653,7 @@ ESGV - Vanguard ESG U.S. Stock ETF
 ESI - Element Solutions Inc. Common Stock
 ESIM - Eventide International ETF
 ESLA - Estrella Immunopharma, Inc. - Common Stock
+ESLAW - Estrella Immunopharma, Inc. - Warrant
 ESLG - Eventide Large Cap Growth ETF
 ESLT - Elbit Systems Ltd. - Ordinary Shares
 ESLV - Eventide Large Cap Value ETF
@@ -5513,7 +5513,7 @@ IBMX - iShares iBonds Dec 2035 Term Muni Bond ETF
 IBN - ICICI Bank Limited Common Stock
 IBND - State Street SPDR Bloomberg International Corporate Bond ETF
 IBO - Impact BioMedical, Inc. Common Stock
-IBOC - International Bancshares Corporation - Common Stock
+IBOC - International Bancshares Corporation Common Stock
 IBOT - VanEck Robotics ETF
 IBP - Installed Building Products, Inc. Common Stock
 IBRN - iShares Neuroscience and Healthcare ETF
@@ -5907,7 +5907,6 @@ IRS - IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each re
 IRT - Independence Realty Trust, Inc. Common Stock
 IRTC - iRhythm Holdings, Inc.  - Common Stock
 IRTR - iShares LifePath Retirement ETF
-IRVH - Global X Interest Rate Volatility & Inflation Hedge ETF
 IRWD - Ironwood Pharmaceuticals, Inc. - Class A Common Stock
 ISBA - Isabella Bank Corporation - Common stock
 ISBG - IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF
@@ -6591,6 +6590,7 @@ LCTD - iShares World ex U.S. Carbon Transition Readiness Aware Active ETF
 LCTO - Kurv U.S. Large Cap TaxOptimized ETF
 LCTU - iShares U.S. Carbon Transition Readiness Aware Active ETF
 LCTX - Lineage Cell Therapeutics, Inc. Common Stock
+LCU - Lion Copper Corp. - Common Shares
 LCUT - Lifetime Brands, Inc. - Common Stock
 LDDR - LifeX 2035 Income Bucket ETF
 LDEM - iShares ESG MSCI EM Leaders ETF
@@ -6814,7 +6814,6 @@ LRGC - AB US Large Cap Strategic Equities ETF
 LRGE - ClearBridge Large Cap Growth Select ETF
 LRGF - iShares U.S. Equity Factor ETF
 LRGG - Nomura Focused Large Growth ETF
-LRHC - La Rosa Holdings Corp. - Common Stock
 LRMR - Larimar Therapeutics, Inc. - Common Stock
 LRN - Stride, Inc. Common Stock
 LRND - NYLIM U.S. Large Cap R&D Leaders ETF
@@ -7260,7 +7259,6 @@ MMAY - Pacer Swan SOS Moderate (May) ETF
 MMCA - NYLIM MacKay California Muni Intermediate ETF
 MMD - NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares
 MMED - MiniMed Group, Inc. - Common Stock
-MMEDV - MiniMed Group, Inc. - Common Stock When Issued
 MMF - Corgi Money Market ETF
 MMHI - NYLIM MacKay Muni High Income ETF
 MMI - Marcus & Millichap, Inc. Common Stock
@@ -7762,7 +7760,7 @@ NHI - National Health Investors, Inc. Common Stock
 NHIV - NewHold Investment Corp IV - Class A Ordinary Shares
 NHIVU - NewHold Investment Corp IV - Units
 NHIVW - NewHold Investment Corp IV - Warrants
-NHP - National Healthcare Properties, Inc. - Class A Common Stock
+NHP - National Healthcare Properties, Inc. - Common Stock
 NHS - Neuberger High Yield Strategies Fund Inc. Common Stock
 NHTC - Natural Health Trends Corp. - Common Stock
 NHYB - Nuveen High Yield Corporate Bond ETF
@@ -8263,6 +8261,7 @@ ONIT - Onity Group Inc. Common Stock
 ONL - Orion Properties Inc. Common Stock
 ONLN - ProShares Online Retail ETF
 ONMD - OneMedNet Corp - Class A Common Stock
+ONMDW - OneMedNet Corp - Warrant
 ONOF - Global X Adaptive U.S. Risk Management ETF
 ONON - On Holding AG Class A Ordinary Shares
 ONT - Onterris, Inc. Common Stock
@@ -8384,6 +8383,7 @@ OWN - Inside Ownership 100 ETF
 OWNB - Bitwise Bitcoin Standard Corporations ETF
 OWNS - Quaker Investment Trust CCM Affordable Housing MBS ETF
 OXBR - Oxbridge Re Holdings Limited - Ordinary Shares
+OXBRW - Oxbridge Re Holdings Limited - Warrant
 OXLC - Oxford Lane Capital Corp. - Closed End Fund
 OXLCG - Oxford Lane Capital Corp. - 7.95% Notes due 2032
 OXLCI - Oxford Lane Capital Corp. - 8.75% Notes due 2030
@@ -9125,7 +9125,6 @@ QCAP - FT Vest Nasdaq-100 Conservative Buffer ETF - April
 QCJA - FT Vest Nasdaq-100 Conservative Buffer ETF - January
 QCJL - FT Vest Nasdaq-100 Conservative Buffer ETF - July
 QCLN - First Trust NASDAQ Clean Edge Green Energy Index Fund
-QCLR - Global X NASDAQ 100 Collar 95-110 ETF
 QCLS - Q/C Technologies, Inc. - Common Stock
 QCMD - Direxion Daily QCOM Bear 1X ETF
 QCML - GraniteShares 2x Long QCOM Daily ETF
@@ -9967,7 +9966,6 @@ SDY - State Street SPDR S&P Dividend ETF
 SE - Sea Limited American Depositary Shares, each representing one Class A Ordinary Share
 SEA - U.S. Global Sea to Sky Cargo ETF
 SEAT - Vivid Seats Inc. - Class A common stock
-SEATW - Vivid Seats Inc. - Warrant
 SEB - Seaboard Corporation Common Stock
 SECA - Main Active Rotation ETF
 SECR - NYLIM MacKay Securitized Income ETF
@@ -10007,6 +10005,7 @@ SEPT - AllianzIM U.S. Large Cap Buffer10 Sep ETF
 SEPU - AllianzIM U.S. Equity Buffer15 Uncapped Sep ETF
 SEPW - AllianzIM U.S. Large Cap Buffer20 Sep ETF
 SEPZ - TrueShares Structured Outcome (September) ETF
+SEQ - Sequoia ETF
 SER - Serina Therapeutics, Inc. Common Stock
 SERA - Sera Prognostics, Inc. - Class A Common Stock
 SERV - Serve Robotics Inc. - Common Stock
@@ -10555,6 +10554,7 @@ SRPT - Sarepta Therapeutics, Inc. - Common Stock
 SRRK - Scholar Rock Holding Corporation - Common Stock
 SRS - ProShares UltraShort Real Estate
 SRTA - Strata Critical Medical, Inc. - Class A Common Stock
+SRTM - Stratum Holdings Corp. - Common Stock
 SRTS - Sensus Healthcare, Inc. - Common Stock
 SRTY - ProShares UltraPro Short Russell2000
 SRV - NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest
@@ -11657,7 +11657,6 @@ UTWY - US Treasury 20 Year Bond ETF
 UTZ - Utz Brands Inc Class A Common Stock 
 UUP - Invesco DB USD Index Bullish Fund ETF
 UUPP - Principal CLO ETF
-UUU - Universal Safety Products, Inc. Common Stock
 UUUC - Corgi UUUU 2x Daily ETF
 UUUG - Leverage Shares 2X Long UUUU Daily ETF
 UUUU - Energy Fuels Inc Ordinary Shares (Canada)
@@ -12132,6 +12131,7 @@ WIA - Western Asset Inflation-Linked Income Fund
 WIMA - WisdomTree International Adaptive Moving Average Fund
 WIMI - WiMi Hologram Cloud Inc. - Class B Ordinary Shares
 WINA - Winmark Corporation - Common Stock
+WINC - William Blair Emerging Income ETF
 WING - Wingstop Inc. - Common Stock
 WINN - Harbor Long-Term Growers ETF
 WIP - State Street SPDR FTSE International Government Inflation-Protected Bond ETF
@@ -12299,7 +12299,6 @@ XCCC - BondBloxx CCC-Rated USD High Yield Corporate Bond ETF
 XCEM - Columbia EM Core ex-China ETF
 XCH - XCHG Limited - ADS
 XCHG - AB US Equity ETF
-XCLR - Global X S&P 500 Collar 95-110 ETF
 XCNY - State Street SPDR S&P Emerging Markets ex-China ETF
 XCOM - Corgi All Commodities 2x Daily ETF
 XCOR - FundX ETF
