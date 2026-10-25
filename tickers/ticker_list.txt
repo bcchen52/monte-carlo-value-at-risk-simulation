@@ -1028,7 +1028,6 @@ AZN - AstraZeneca PLC Ordinary Shares
 AZO - AutoZone, Inc. Common Stock
 AZTA - Azenta, Inc. - Common Stock
 AZTD - Aztlan Global Stock Selection DM SMID ETF
-AZTR - Azitra Inc Common Stock
 AZUL - Azul S.A. American Depositary Shares, each representing two (2) Common Shares
 AZYY - GraniteShares YieldBoost AMZN ETF
 AZZ - AZZ Inc.
