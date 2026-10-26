@@ -85,7 +85,6 @@ ABVX - Abivax SA - American Depositary Shares
 ABX - Abacus Global Management, Inc. Class A Common Stock
 ABXB - Abacus Flexible Bond Leaders ETF
 ABXL - Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028
-ACA - Arcosa, Inc. Common Stock 
 ACAA - Averin Capital Acquisition Corp. - Class A Ordinary Shares
 ACAAU - Averin Capital Acquisition Corp. - Units
 ACAAW - Averin Capital Acquisition Corp. - Warrants
@@ -256,6 +255,7 @@ AESP - Aeon Acquisition I Corp. - Class A Ordinary Shares
 AESPR - Aeon Acquisition I Corp. - Rights
 AESPU - Aeon Acquisition I Corp. - Units
 AESR - Anfield U.S. Equity Sector Rotation ETF
+AETR - Aetherion Technologies Inc. - Common Shares
 AEVA - Aeva Technologies, Inc. - Common Stock
 AEXA - American Exceptionalism Acquisition Corp. A Class A Ordinary Shares
 AEYE - AudioEye, Inc. - Common Stock
@@ -1028,6 +1028,7 @@ AZN - AstraZeneca PLC Ordinary Shares
 AZO - AutoZone, Inc. Common Stock
 AZTA - Azenta, Inc. - Common Stock
 AZTD - Aztlan Global Stock Selection DM SMID ETF
+AZTR - Azitra Inc Common Stock
 AZUL - Azul S.A. American Depositary Shares, each representing two (2) Common Shares
 AZYY - GraniteShares YieldBoost AMZN ETF
 AZZ - AZZ Inc.
@@ -1923,6 +1924,7 @@ CATX - Perspective Therapeutics, Inc. Common Stock
 CATY - Cathay General Bancorp - Common Stock
 CAUG - Corgi U.S. Equities 15% Structured Buffer ETF - August Series
 CAVA - CAVA Group, Inc. Common Stock
+CAYN - Calamos Least-Of Autocallable Income ETF
 CB - Chubb Limited  Common Stock
 CBAN - Colony Bankcorp, Inc. Common Stock
 CBAT - CBAK Energy Technology Limited - Ordinary Shares
@@ -2022,7 +2024,6 @@ CCZ - Comcast Holdings ZONES
 CD - Chaince Digital Holdings Inc. - American Ordinary Shares
 CDC - VictoryShares US EQ Income Enhanced Volatility Wtd ETF
 CDE - Coeur Mining, Inc. Common Stock
-CDEI - Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF
 CDIG - City Different Investments Global Equity ETF
 CDIO - Cardio Diagnostics Holdings Inc. - Common stock
 CDIOW - Cardio Diagnostics Holdings Inc. - Warrant
@@ -3454,7 +3455,6 @@ ELLA - Ellington Credit Company 8.50% Notes due 2031
 ELLO - Ellomay Capital Ltd Ordinary Shares (Israel)
 ELM - Elm Market Navigator ETF
 ELMD - Electromed, Inc. Common Stock
-ELME - Elme Communities Common Stock
 ELMT - The Elmet Group Co. - Common Stock
 ELOG - Eastern International Ltd. - Ordinary Shares
 ELOL - Leverage Shares 100% TSLA AND 100% SPCX Daily ETF
@@ -3888,6 +3888,7 @@ FCBC - First Community Bankshares, Inc. - Common Stock
 FCBD - Frontier Asset Core Bond ETF
 FCBM - First Carolina Financial Services, Inc. Common Stock
 FCCO - First Community Corporation - Common Stock
+FCDH - Forcendra Holding Limited - Class A Ordinary Shares
 FCEF - First Trust Income Opportunities ETF
 FCEL - FuelCell Energy, Inc. - Common Stock
 FCF - First Commonwealth Financial Corporation Common Stock
@@ -4640,7 +4641,6 @@ GF - New Germany Fund, Inc. (The) Common Stock
 GFAI - Guardforce AI Co., Limited - Ordinary Shares
 GFEB - FT Vest U.S. Equity Moderate Buffer ETF - February
 GFF - Griffon Corporation Common Stock
-GFGF - Guru Favorite Stocks ETF
 GFI - Gold Fields Limited American Depositary Shares
 GFL - GFL Environmental Inc. Subordinate voting shares, no par value
 GFLW - VictoryShares Free Cash Flow Growth ETF
@@ -4996,6 +4996,7 @@ GUACU - Berto Acquisition Corp. II - Units
 GUACW - Berto Acquisition Corp. II - Warrants
 GUG - Guggenheim Active Allocation Fund Common Shares of Beneficial Interest
 GUMI - Goldman Sachs Ultra Short Municipal Income ETF
+GUNN - Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)
 GUNR - Northern Trust Morningstar Global Upstream Natural Resources ETF
 GURE - Gulf Resources, Inc. - Common Stock
 GURU - Global X Guru Index ETF
@@ -6905,6 +6906,7 @@ MAAY - GraniteShares YieldBOOST MARA ETF
 MAC - Macerich Company (The) Common Stock
 MACI - Melar Acquisition Corp. I - Class A Ordinary Shares
 MACIU - Melar Acquisition Corp. I - Unit
+MACIW - Melar Acquisition Corp. I - Warrant
 MADE - iShares U.S. Manufacturing ETF
 MAGA - Truth Social America First ETF
 MAGC - Roundhill China Magnificent Seven ETF
@@ -8434,7 +8436,6 @@ PANG - Leverage Shares 2X Long PANW Daily ETF
 PANL - Pangaea Logistics Solutions Ltd. - Common Stock
 PANW - Palo Alto Networks, Inc. - Common Stock
 PAPI - Parametric Equity Premium Income ETF
-PAPL - Pineapple Financial Inc. Common Stock
 PAPR - Innovator U.S. Equity Power Buffer ETF - April
 PAR - PAR Technology Corporation Common Stock
 PARA - Banzai International, Inc. - Class A Common Stock
@@ -9013,6 +9014,7 @@ PTH - Invesco Dorsey Wright Healthcare Momentum ETF
 PTHS - Pelthos Therapeutics Inc. Common Stock
 PTIN - Pacer Trendpilot International ETF
 PTIR - GraniteShares 2x Long PLTR Daily ETF
+PTIV - Pineapple Financial Inc. Common Stock
 PTL - Inspire 500 ETF
 PTLC - Pacer Trendpilot US Large Cap ETF
 PTLE - PTL LTD - Class A Ordinary Shares
@@ -11940,7 +11942,6 @@ VSGX - Vanguard ESG International Stock ETF
 VSH - Vishay Intertechnology, Inc. Common Stock
 VSHY - Virtus Newfleet Short Duration High Yield Bond ETF
 VSLU - Applied Finance Valuation Large Cap ETF
-VSME - VS Media Holdings Limited - Class A Ordinary Shares
 VSMV - VictoryShares US Multi-Factor Minimum Volatility ETF
 VSNT - Versant Media Group, Inc. - Class A Common Stock
 VSOL - VanEck Solana ETF
@@ -12070,7 +12071,6 @@ WDS - Woodside Energy Group Limited American Depositary Shares, each representin
 WDTE - Defiance S&P 500 Weekly Distribution ETF
 WEA - Western Asset Bond Fund Share of Beneficial Interest
 WEAT - Teucrium Wheat Fund ETV
-WEAV - Weave Communications, Inc. Common Stock
 WEBL - Direxion Daily Dow Jones Internet Bull 3X ETF
 WEBS - Direxion Daily Dow Jones Internet Bear 3X ETF
 WEBX - Corgi Chinese Internet 2x Daily ETF
@@ -12172,7 +12172,6 @@ WPAC - White Pearl Acquisition Corp. Class A Ordinary Shares
 WPC - W. P. Carey Inc. REIT
 WPM - Wheaton Precious Metals Corp Common Shares (Canada)
 WPP - WPP plc American Depositary Shares
-WPRT - Westport Fuel Systems Inc - Common Shares
 WQEY - WISeQey Corp - Ordinary Shares
 WQTM - WisdomTree Quantum Computing Fund
 WR - Corgi U.S. War Machine ETF
