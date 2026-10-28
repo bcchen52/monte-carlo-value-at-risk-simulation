@@ -438,6 +438,7 @@ ALCO - Alico, Inc. - Common Stock
 ALDB - Aptus Laddered Deep Buffer ETF
 ALDF - Aldel Financial II Inc. - Class A Ordinary Shares
 ALDFU - Aldel Financial II Inc. - Units
+ALDFW - Aldel Financial II Inc. - Warrants
 ALDX - Aldeyra Therapeutics, Inc. - Common Stock
 ALEC - Alector, Inc. - Common Stock
 ALF - Centurion Acquisition Corp. - Class A Ordinary Shares
@@ -1198,6 +1199,7 @@ BDBT - Bluemonte Core Bond ETF
 BDC - Belden Inc Common Stock
 BDCI - BTC Development Corp. - Class A Ordinary Shares
 BDCIU - BTC Development Corp. - Unit
+BDCIW - BTC Development Corp. - Warrant
 BDCX - ETRACS Quarterly Pay 1.5x Leveraged MarketVector BDC Liquid Index ETN due June 10, 2050
 BDCZ - ETRACS MarketVector Business Development Companies Liquid Index ETN due April 26, 2041
 BDEC - Innovator U.S. Equity Buffer ETF - December
@@ -1508,7 +1510,6 @@ BNAIW - Brand Engagement Network Inc. - Warrant
 BNAV - Amplify Fairlead Tactical Bitcoin ETF
 BNC - BNB Standard Corporation - Common Stock
 BNCWW - BNB Standard Corporation - Warrant
-BNCWZ - BNB Standard Corporation - Warrants
 BND - Vanguard Total Bond Market ETF
 BNDC - Northern Trust Core Bond ETF
 BNDD - Quadratic Deflation ETF
@@ -1713,7 +1714,6 @@ BSY - Bentley Systems, Incorporated - Class B Common Stock
 BTA - Beacon Tactical Alternatives Risk ETF
 BTAL - AGF U.S. Market Neutral Anti-Beta Fund
 BTBD - BT Brands, Inc. - Common Stock
-BTBDW - BT Brands, Inc. - Warrant
 BTBT - Bit Digital, Inc. - Ordinary Share
 BTC - Grayscale Bitcoin Mini Trust (BTC)
 BTCC - Grayscale Bitcoin High Income ETF
@@ -1894,6 +1894,7 @@ CAPR - Capricor Therapeutics, Inc. - Common Stock
 CAPS - Capstone Holding Corp. - Common Stock
 CAQ - Cambridge Acquisition Corp. - Class A Ordinary Shares
 CAQUU - Cambridge Acquisition Corp. - Unit
+CAQUW - Cambridge Acquisition Corp. - Warrants
 CAR - Avis Budget Group, Inc. - Common Stock
 CARD - MAX Auto Industry -3x Inverse Leveraged ETN
 CARE - Carter Bankshares, Inc. - Common Stock
@@ -2225,6 +2226,7 @@ CIMO - Chimera Investment Corporation 9.250% Senior Notes due 2029
 CIMP - Chimera Investment Corporation 8.875% Senior Notes due 2030
 CINF - Cincinnati Financial Corporation - Common Stock
 CING - Cingulate Inc. - Common Stock
+CINGW - Cingulate Inc. - Warrants
 CINT - CI&T Inc Class A Common Shares
 CION - CION Investment Corporation Common Stock
 CIR - Corgi CRCL 2x Daily ETF
@@ -3223,7 +3225,6 @@ DUST - Direxion Daily Gold Miners Index Bear 2X ETF
 DUTY - U.S. Defense ETF
 DV - DoubleVerify Holdings, Inc. Common Stock
 DVA - DaVita Inc. Common Stock
-DVAL - BrandywineGLOBAL-Dynamic US Large Cap Value ETF
 DVDN - Kingsbarn Dividend Opportunity ETF
 DVGR - DAC 3D Dividend Growth ETF
 DVLT - Datavault AI Inc. - Common Stock
@@ -3323,7 +3324,6 @@ ECOW - Pacer Emerging Markets Cash Cows 100 ETF
 ECPG - Encore Capital Group Inc - Common Stock
 ECVT - Ecovyst Inc. Common Stock
 ECX - ECARX Holdings Inc. - Class A Ordinary shares
-ECXWW - ECARX Holdings Inc. - Warrants
 ED - Consolidated Edison, Inc. Common Stock
 EDBL - Edible Garden AG Incorporated - Common Stock
 EDBLW - Edible Garden AG Incorporated - Warrant
@@ -3486,7 +3486,6 @@ EMD - Western Asset Emerging Markets Debt Fund Inc Common Stock
 EMDM - First Trust Bloomberg Emerging Market Democracies ETF
 EMDV - ProShares MSCI Emerging Markets Dividend Growers ETF
 EME - EMCOR Group, Inc. Common Stock
-EMEM - Sophus Capital Emerging Market ETF
 EMEQ - Nomura Focused Emerging Markets Equity ETF
 EMES - Harbor Emerging Markets Select ETF
 EMET - VanEck Copper and Electrification Metals ETF
@@ -4027,6 +4026,7 @@ FFOG - Franklin Focused Growth ETF
 FFOX - FundX Future Fund Opportunities ETF
 FFR - FF EAI Robotics Ecosystem Inc. - Common Stock
 FFSM - Fidelity Fundamental Small-Mid Cap ETF
+FFTT - Masonglory Limited - Class A Ordinary Shares
 FFTY - CapForce IBD 50 ETF
 FFUT - Fidelity Managed Futures ETF
 FG - F&G Annuities & Life, Inc. Common Stock
@@ -5857,7 +5857,6 @@ IPWR - Ideal Power Inc. - Common Stock
 IPX - IperionX Limited - American Depositary Share
 IPXG - Inection Point Acquisition Corp. VII  - Class A Ordinary Shares
 IPXGU - Inection Point Acquisition Corp. VII  - Unit
-IPXGW - Inection Point Acquisition Corp. VII  - Warrant
 IQ - iQIYI, Inc. - American Depositary Shares
 IQDF - Northern Trust International Quality Dividend ETF
 IQDG - WisdomTree International Quality Dividend Growth Fund
@@ -6333,7 +6332,6 @@ KEYS - Keysight Technologies Inc. Common Stock
 KEYX - Corgi KEYS 2x Daily ETF
 KEYY - Keystone Acquisition Corp. - Class A Ordinary Shares
 KEYYU - Keystone Acquisition Corp. - Unit
-KEYYW - Keystone Acquisition Corp. - Warrants
 KF - Korea Fund, Inc. (The) New Common Stock
 KFEB - Innovator U.S. Small Cap Power Buffer ETF - February
 KFFB - Kentucky First Federal Bancorp - Common Stock
@@ -6828,7 +6826,6 @@ LTCC - Canary Litecoin ETF
 LTGO - Latigo Biotherapeutics, Inc. - Common Stock
 LTGR - Long Table Growth Corp. - Class A Ordinary Shares
 LTGRU - Long Table Growth Corp. - Units
-LTGRW - Long Table Growth Corp. - Warrants
 LTH - Life Time Group Holdings, Inc. Common Stock
 LTL - ProShares Ultra Communication Services
 LTM - LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)
@@ -7402,7 +7399,6 @@ MSGE - Madison Square Garden Entertainment Corp. Class A Common Stock
 MSGK - MSG Knickerbockers Corp. Class A Common Stock
 MSGM - Motorsport Games Inc. - Class A Common Stock
 MSGR - MSG Rangers Corp. Class A Common Stock
-MSGY - Masonglory Limited - Class A Ordinary Shares
 MSI - Motorola Solutions, Inc. Common Stock
 MSIF - MSC Income Fund, Inc. Common Stock
 MSIX - Corgi MSI 2x Daily ETF
@@ -7481,7 +7477,6 @@ MUG - Leverage Shares 2X Long MU Daily ETF
 MUIB - Direxion MU Defined Income Boost ETF
 MUJ - Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock
 MULL - GraniteShares 2x Long MU Daily ETF
-MULT - Franklin Multisector Income ETF
 MUNA - Northern Trust 2030 Tax-Exempt Distributing Ladder ETF
 MUNB - Northern Trust 2035 Tax-Exempt Distributing Ladder ETF
 MUNC - Northern Trust 2045 Tax-Exempt Distributing Ladder ETF
@@ -7654,7 +7649,6 @@ NCNO - nCino, Inc. - Common Stock
 NCO - Southern Cross Acquisition I Corp. - Ordinary Shares
 NCOOR - Southern Cross Acquisition I Corp. - Rights
 NCOOU - Southern Cross Acquisition I Corp. - Units
-NCOOW - Southern Cross Acquisition I Corp. - Warrants
 NCPB - Nuveen Core Plus Bond ETF
 NCPL - Netcapital Inc. - Common Stock
 NCPLW - Netcapital Inc. - warrants
@@ -8076,9 +8070,9 @@ NZAC - State Street SPDR MSCI ACWI Climate Paris Aligned ETF
 NZF - Nuveen Municipal Credit Income Fund 
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
-OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
 OACP - OneAscent Core Plus Bond ETF
 OAEM - OneAscent Emerging Markets ETF
 OAIM - OneAscent International Equity ETF
@@ -8245,6 +8239,7 @@ ONIT - Onity Group Inc. Common Stock
 ONL - Orion Properties Inc. Common Stock
 ONLN - ProShares Online Retail ETF
 ONMD - OneMedNet Corp - Class A Common Stock
+ONMDW - OneMedNet Corp - Warrant
 ONOF - Global X Adaptive U.S. Risk Management ETF
 ONON - On Holding AG Class A Ordinary Shares
 ONT - Onterris, Inc. Common Stock
@@ -10704,7 +10699,6 @@ SVM - Silvercorp Metals Inc. Common Shares
 SVOL - Simplify Volatility Premium ETF
 SVRA - Savara, Inc. - Common Stock
 SVRE - SaverOne 2014 Ltd. - American Depositary Shares
-SVREW - SaverOne 2014 Ltd. - Warrant
 SVRN - SVRN, Inc. - Common Stock
 SVTN - Corgi FTSE 7-10 Year U.S. Treasury Bond ETF
 SVV - Savers Value Village, Inc. Common Stock
@@ -11586,7 +11580,6 @@ USEP - Innovator U.S. Equity Ultra Buffer ETF - September
 USEW - Cambria US EW ETF
 USFD - US Foods Holding Corp. Common Stock
 USFE - First Eagle US Equity ETF
-USFI - BrandywineGLOBAL - U.S. Fixed Income ETF
 USFR - WisdomTree Floating Rate Treasury Fund
 USG - USCF Gold Strategy Plus Income Fund
 USGG - Leverage Shares 2X Long USAR Daily ETF
@@ -12454,6 +12447,7 @@ XSHP - Kurv SpaceX Enhanced Income ETF
 XSHQ - Invesco S&P SmallCap Quality ETF
 XSLL - Xsolla SPAC 1 - Class A Ordinary Shares
 XSLLU - Xsolla SPAC 1 - Units
+XSLLW - Xsolla SPAC 1 - Warrants
 XSLV - Invesco S&P SmallCap Low Volatility ETF
 XSMO - Invesco S&P SmallCap Momentum ETF
 XSOE - WisdomTree Emerging Markets Ex-State Owned Enterprises Fund
