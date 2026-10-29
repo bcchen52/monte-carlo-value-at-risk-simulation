@@ -196,7 +196,6 @@ ADEA - Adeia Inc.  - Common Stock
 ADGM - Adagio Medical Holdings, Inc - Common Stock
 ADI - Analog Devices, Inc. - Common Stock
 ADIG - ADI Global Distribution Inc. Common Stock
-ADIL - Adial Pharmaceuticals, Inc - Common Stock
 ADIU - Leverage Shares 2X Long ADI Daily ETF
 ADIV - Guinness Atkinson Asia Pacific Dividend Builder ETF
 ADM - Archer-Daniels-Midland Company Common Stock
@@ -1028,6 +1027,7 @@ AZI - Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares
 AZIO - Azio AI Holdings, Inc. - Common stock
 AZN - AstraZeneca PLC Ordinary Shares
 AZO - AutoZone, Inc. Common Stock
+AZR - Azora Therapeutics, Inc. - Common Stock
 AZTA - Azenta, Inc. - Common Stock
 AZTD - Aztlan Global Stock Selection DM SMID ETF
 AZTR - Azitra Inc Common Stock
@@ -1208,6 +1208,7 @@ BDIV - AAM Brentview Dividend Growth ETF
 BDJ - Blackrock Enhanced Equity Dividend Trust
 BDL - Flanigan's Enterprises, Inc. Common Stock
 BDMD - Baird Medical Investment Holdings Ltd - Ordinary Share
+BDMDW - Baird Medical Investment Holdings Ltd - Warrant
 BDN - Brandywine Realty Trust Common Stock
 BDRX - Biodexa Pharmaceuticals plc - American Depositary Shares
 BDRY - Breakwave Dry Bulk Shipping ETF
@@ -1311,6 +1312,7 @@ BGUS - Baillie Gifford U.S. Equity Growth ETF
 BGX - Blackstone Long Short Credit Income Fund Common Shares
 BGY - Blackrock Enhanced International Dividend Trust
 BH - Biglari Holdings Inc. Class B Common Stock
+BHAIU - BHAV Acquisition Corp II - Units
 BHAV - BHAV Acquisition Corp - Class A Ordinary Shares
 BHAVR - BHAV Acquisition Corp - Rights
 BHAVU - BHAV Acquisition Corp - Units
@@ -3857,6 +3859,7 @@ FBCG - Fidelity Blue Chip Growth ETF
 FBCV - Fidelity Blue Chip Value ETF
 FBDC - FT Confluence BDC & Specialty Finance Income ETF
 FBDT - First Breach Inc. - Common Stock
+FBEQ - Franklin US Equity Bitcoin Drip Index ETF
 FBGL - FBS Global Limited - Ordinary Shares
 FBIN - Fortune Brands Innovations, Inc. Common Stock
 FBIO - Fortress Biotech, Inc. - Common Stock
@@ -4060,6 +4063,7 @@ FHYS - Federated Hermes Short Duration High Yield ETF
 FIAT - YieldMax Short COIN Option Income Strategy ETF
 FIAX - Nicholas Fixed Income Alternative ETF
 FIBK - First Interstate BancSystem, Inc. - Common Stock
+FIBT - Franklin US Innovation Bitcoin DRIP Index ETF
 FICO - Fair Isaac Corporation Common Stock
 FICS - First Trust International Developed Capital Strength ETF
 FID - First Trust S&P International Dividend Aristocrats ETF
@@ -4074,6 +4078,7 @@ FIGR - Figure Technology Solutions, Inc. - Class A Common Stock
 FIGS - FIGS, Inc. Class A Common Stock
 FIGX - FIGX Capital Acquisition Corp. - Class A ordinary share
 FIGXU - FIGX Capital Acquisition Corp. - Units
+FIGXW - FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.
 FIIG - First Trust Intermediate Duration Investment Grade Corporate ETF
 FIMU - Fidelity Intermediate Municipal Income ETF
 FINA - Fidelity MSCI North American Subset Index ETF
@@ -4659,6 +4664,7 @@ GGME - Invesco Next Gen Media and Gaming ETF
 GGN - GAMCO Global Gold, Natural Resources & Income Trust
 GGOV - iShares Global Government Bond USD Hedged Active ETF
 GGR - Gogoro Inc. - Ordinary Shares
+GGROW - Gogoro Inc. - Warrant
 GGRW - Gabelli Growth Innovators ETF
 GGT - Gabelli Multi-Media Trust, Inc. (The) Common Stock
 GGTL - Gabelli Global Technology Leaders ETF
@@ -4934,7 +4940,6 @@ GSGO - Goldman Sachs Growth Opportunities ETF
 GSHD - Goosehead Insurance, Inc. - Class A Common Stock
 GSHR - Gesher Acquisition Corp. II - Class A Ordinary Shares
 GSHRU - Gesher Acquisition Corp. II - Units
-GSHRW - Gesher Acquisition Corp. II - Warrants
 GSIB - Themes Global Systemically Important Banks ETF
 GSID - Goldman Sachs MarketBeta International Equity ETF
 GSIE - Goldman Sachs ActiveBeta International Equity ETF
@@ -6222,7 +6227,7 @@ JRSH - Jerash Holdings (US), Inc. - Common Stock
 JRVR - James River Group Holdings, Inc. - Common Stock
 JSCP - JPMorgan Short Duration Core Plus ETF
 JSI - Janus Henderson Securitized Income ETF
-JSM - Navient Corporation - 6% Senior Notes due December 15, 2043
+JSM - Navient LLC - 6% Senior Notes due December 15, 2043
 JSMD - Janus Henderson Small/Mid Cap Growth Alpha ETF
 JSML - Janus Henderson Small Cap Growth Alpha ETF
 JSPR - Jasper Therapeutics, Inc. - Class A Common Stock
@@ -6438,7 +6443,6 @@ KQQQ - Kurv Technology Titans Select ETF
 KR - Kroger Company (The) Common Stock
 KRAQ - KRAKacquisition Corp - Class A Ordinary Shares
 KRAQU - KRAKacquisition Corp - Unit
-KRAQW - KRAKacquisition Corp - Warrants
 KRBN - KraneShares Global Carbon Strategy ETF
 KRC - Kilroy Realty Corporation Common Stock
 KRE - State Street SPDR S&P Regional Banking ETF
@@ -6670,6 +6674,7 @@ LILAK - Liberty Latin America Ltd. - Class C Common Stock
 LILAP - Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares
 LIME - Neutron Holdings, Inc. - Common Stock
 LIMN - Liminatus Pharma, Inc. - Class A Common Stock
+LIMNW - Liminatus Pharma, Inc. - Warrants
 LIN - Linde plc - Ordinary Shares
 LINC - Lincoln Educational Services Corporation - Common Stock
 LIND - Lindblad Expeditions Holdings Inc.  - Common Stock
@@ -7084,7 +7089,6 @@ METV - Roundhill Metaverse ETF
 METW - Roundhill META WeeklyPay ETF
 MEVO - M Evo Global Acquisition Corp II - Class A Ordinary Shares
 MEVOU - M Evo Global Acquisition Corp II - Units
-MEVOW - M Evo Global Acquisition Corp II - Warrants
 MEXX - Direxion Daily MSCI Mexico Bull 3X ETF
 MF - MindForge Inc. - Class A Ordinary Shares
 MFA - MFA Financial, Inc.
@@ -7596,7 +7600,7 @@ NATO - Themes Transatlantic Defense ETF
 NATR - Nature's Sunshine Products, Inc. - Common Stock
 NAUG - Innovator Growth-100 Power Buffer ETF - August
 NAUT - Nautilus Biotechnology, Inc. - Common Stock
-NAVI - Navient Corporation - Common Stock
+NAVI - Navient Holdings, Inc. - Common Stock
 NAVN - Navan, Inc. - Class A Common Stock
 NAZ - Nuveen Arizona Quality Municipal Income Fund Common Stock
 NB - NioCorp Developments Ltd. - Common Stock
@@ -8728,6 +8732,7 @@ PLGO - Pelagos Insurance Capital Limited Common Shares
 PLIB - Direxion PLTR Defined Income Boost ETF
 PLMK - Plum Acquisition Corp. IV - Class A Ordinary Shares
 PLMKU - Plum Acquisition Corp. IV - Unit
+PLMKW - Plum Acquisition Corp. IV - Warrants
 PLMR - Palomar Holdings, Inc. - Common stock
 PLNT - Planet Fitness, Inc. Common Stock
 PLOW - Douglas Dynamics, Inc. Common Stock
@@ -9013,6 +9018,7 @@ PTNT - Corgi IP Licensing & Royalties ETF
 PTON - Peloton Interactive, Inc. - Common Stock
 PTOR - Praetorian Acquisition Corp. - Class A Ordinary Shares
 PTORU - Praetorian Acquisition Corp. - Units
+PTORW - Praetorian Acquisition Corp. - Warrant
 PTRB - PGIM Total Return Bond ETF
 PTRN - Pattern Group Inc. - Series A Common Stock
 PTY - Pimco Corporate & Income Opportunity Fund
@@ -10186,7 +10192,7 @@ SLI - Standard Lithium Ltd. Common Shares
 SLJY - Amplify SILJ Junior Silver Miners Covered Call ETF
 SLM - SLM Corporation - Common Stock
 SLMBP - SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B
-SLMT - Brera Holdings PLC - Class B Ordinary Shares
+SLMT - Solmate Infrastructure Public Limited Company - Class B Ordinary Shares
 SLN - Silence Therapeutics Plc - American Depository Share
 SLND - Southland Holdings, Inc. Common Stock
 SLNG - Stabilis Solutions, Inc. - Common Stock
