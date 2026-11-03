@@ -142,6 +142,7 @@ ACNT - Ascent Industries Co. - Common Stock
 ACOG - Alpha Cognition Inc. - Common Stock
 ACOM - Harbor Active Commodity ETF
 ACON - Aclarion, Inc. - Common Stock
+ACONW - Aclarion, Inc. - Warrant
 ACP - abrdn Income Credit Strategies Fund Common Shares
 ACQQ - ProShares Nasdaq-100 Autocallable Income ETF
 ACR - ACRES Commercial Realty Corp. Common Stock
@@ -372,7 +373,6 @@ AIIOW - Robo.ai Inc. - Warrant
 AIIR - Air Global PLC - Ordinary shares
 AIM - AIM ImmunoTech Inc. Common Stock
 AIMD - Ainos, Inc. - Common Stock
-AIMDW - Ainos, Inc. - warrants
 AIMG - Defiance AI Magnificent 10 ETF
 AIMS - Acuitas Small Cap Active ETF
 AIN - Albany International Corporation Common Stock
@@ -718,6 +718,7 @@ ARCIW - Archimedes Tech SPAC Partners III Co. - Warrant
 ARCL - ARC Group Acquisition I Corp - Class A Ordinary Shares
 ARCLR - ARC Group Acquisition I Corp - Right
 ARCLU - ARC Group Acquisition I Corp - Unit
+ARCLW - ARC Group Acquisition I Corp - Warrants
 ARCM - Arrow Reserve Capital Management ETF
 ARCO - Arcos Dorados Holdings Inc. Class A Shares
 ARCP - Aristotle Core Plus Income ETF
@@ -915,7 +916,6 @@ AUPH - Aurinia Pharmaceuticals Inc - Common Shares
 AUR - Aurora Innovation, Inc.  - Class A Common Stock
 AURA - Aura Biosciences, Inc. - Common Stock
 AURE - Aurelion Inc.  - Class A Ordinary Shares
-AUROW - Aurora Innovation, Inc.  - Warrant
 AUSF - Global X Adaptive U.S. Factor ETF
 AUSM - Allspring Ultra Short Municipal ETF
 AUST - Austin Gold Corp. Common Shares
@@ -1470,7 +1470,6 @@ BLUC - Bluemonte Large Cap Core ETF
 BLUI - Bluemonte Diversified Income ETF
 BLUW - Blue Water Acquisition Corp. III - Class A Ordinary Shares
 BLUWU - Blue Water Acquisition Corp. III - Unit.
-BLUWW - Blue Water Acquisition Corp. III - Warrant.
 BLUX - Bluemonte Dynamic Total Market ETF
 BLV - Vanguard Long-Term Bond ETF
 BLW - Blackrock Limited Duration Income Trust
@@ -3499,6 +3498,7 @@ EMGF - iShares Emerging Markets Equity Factor ETF
 EMHC - State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY - iShares J.P. Morgan EM High Yield Bond ETF
 EMIF - iShares Emerging Markets Infrastructure ETF
+EMIL - VanEck EM Focus Inflation Bond ETF
 EMIS - Emmis Acquisition Corp. - Class A Ordinary Share
 EMISR - Emmis Acquisition Corp. - Rights
 EMJL - Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series
@@ -3704,7 +3704,6 @@ ETY - Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Be
 EU - enCore Energy Corp. - Common Stock
 EUAD - Select STOXX Europe Aerospace & Defense ETF
 EUDA - Euda Health Holdings Limited - Ordinary Shares
-EUDAW - Euda Health Holdings Limited - Warrant
 EUDG - WisdomTree Europe Quality Dividend Growth Fund
 EUDV - ProShares MSCI Europe Dividend Growers ETF
 EUFN - iShares MSCI Europe Financials ETF
@@ -4687,6 +4686,7 @@ GHYG - iShares US & Intl High Yield Corp Bond ETF
 GIAX - Nicholas Global Equity and Income ETF
 GIB - CGI Inc. Common Stock
 GIBO - GIBO Holdings Limited - Class A Ordinary Shares
+GIBOW - GIBO Holdings Limited - Warrants
 GIC - Global Industrial Company Common Stock
 GIEQ - Goldman Sachs Data Enhanced International Equity ETF
 GIFT - Giftify, Inc. - Common Stock
@@ -5241,7 +5241,6 @@ HNRG - Hallador Energy Company - Common Stock
 HNST - The Honest Company, Inc. - Common Stock
 HNVR - Hanover Bancorp, Inc. - Common Stock
 HODL - VanEck Bitcoin Trust 
-HODO - House of Doge Inc. - Common Stock
 HODU - Direxion Daily HOOD Bull 2X ETF
 HOFT - Hooker Furnishings Corporation - Common Stock
 HOG - Harley-Davidson, Inc. Common Stock
@@ -5752,7 +5751,6 @@ INDO - Indonesia Energy Corporation Limited Ordinary Shares
 INDP - Indaptus Therapeutics, Inc. - Common Stock
 INDQ - Pacer ActiveAlpha India Quality ETF
 INDS - Pacer Industrial Real Estate ETF
-INDV - Indivior Pharmaceuticals, Inc.  - Common Stock
 INDY - iShares India 50 ETF
 INDZ - VanEck India Select ETF
 INEO - INNEOVA Holdings Limited - Class A Ordinary Shares
@@ -7200,7 +7198,6 @@ MJUN - Pacer Swan SOS Moderate June ETF
 MKAM - MKAM ETF
 MKC - McCormick & Company, Incorporated Common Stock
 MKDW - MKDWELL Tech Inc. - Ordinary Shares
-MKDWW - MKDWELL Tech Inc. - Warrants
 MKL - Markel Group Inc. Common Stock
 MKLY - McKinley Acquisition Corporation - Class A Ordinary Shares
 MKLYR - McKinley Acquisition Corporation - Rights
@@ -7220,8 +7217,6 @@ MLCI - Mount Logan Capital Inc. - Common Stock
 MLCIL - Mount Logan Capital Inc. - 8.00% Notes Due 2031
 MLCO - Melco Resorts & Entertainment Limited - American Depositary Shares 
 MLDR - Global X Intermediate-Term Treasury Ladder ETF
-MLEC - Moolec Science SA - Ordinary Shares
-MLECW - Moolec Science SA - Warrant
 MLGO - MicroAlgo, Inc. - Ordinary Shares
 MLI - Mueller Industries, Inc. Common Stock
 MLKN - MillerKnoll, Inc. - Common Stock
@@ -8091,7 +8086,6 @@ OASC - OneAscent Enhanced Small and Mid Cap ETF
 OBA - Oxley Bridge Acquisition Limited - Class A Ordinary Shares
 OBAI - Our Bond, Inc. - Common Stock
 OBAWU - Oxley Bridge Acquisition Limited - Unit
-OBAWW - Oxley Bridge Acquisition Limited - Warrants
 OBDC - Blue Owl Capital Corporation Common Stock
 OBE - Obsidian Energy Ltd. Common Shares
 OBIL - US Treasury 12 Month Bill ETF
@@ -8367,7 +8361,6 @@ OWN - Inside Ownership 100 ETF
 OWNB - Bitwise Bitcoin Standard Corporations ETF
 OWNS - Quaker Investment Trust CCM Affordable Housing MBS ETF
 OXBR - Oxbridge Re Holdings Limited - Ordinary Shares
-OXBRW - Oxbridge Re Holdings Limited - Warrant
 OXLC - Oxford Lane Capital Corp. - Closed End Fund
 OXLCG - Oxford Lane Capital Corp. - 7.95% Notes due 2032
 OXLCI - Oxford Lane Capital Corp. - 8.75% Notes due 2030
@@ -8508,6 +8501,7 @@ PBYI - Puma Biotechnology Inc - Common Stock
 PC - Premium Catering (Holdings) Limited - Ordinary Shares
 PCAP - ProCap Acquisition Corp - Class A Ordinary Shares
 PCAPU - ProCap Acquisition Corp - Unit
+PCAPW - ProCap Acquisition Corp - Warrant
 PCAR - PACCAR Inc. - Common Stock
 PCB - PCB Bancorp - Common Stock
 PCEB - Polen Euro High Yield Bond ETF
@@ -9702,7 +9696,6 @@ RVNU - Xtrackers Municipal Infrastructure Revenue Bond Active ETF
 RVP - Retractable Technologies, Inc. Common Stock
 RVSB - Riverview Bancorp Inc - Common Stock
 RVSN - Rail Vision Ltd. - Ordinary Shares
-RVSNW - Rail Vision Ltd. - Warrant
 RVT - Royce Small-Cap Trust, Inc. Common Stock
 RVTY - Revvity, Inc. Common Stock
 RW - Rainwater Equity ETF
@@ -10369,6 +10362,7 @@ SOR - Source Capital, Inc. Cmn Shs of BI
 SORA - AsiaStrategy - Ordinary Shares
 SORN - Soren Acquisition Corp. - Class A Ordinary Shares
 SORNU - Soren Acquisition Corp. - Unit
+SORNW - Soren Acquisition Corp. - Warrant
 SOS - SOS Limited Class A Ordinary Shares
 SOTK - Sono-Tek Corporation - Common Stock
 SOUL - Soulpower Acquisition Corporation Class A Ordinary Shares
@@ -10672,7 +10666,7 @@ SUNB - Sunbelt Rentals Holdings, Inc. Common Stock
 SUNC - SunocoCorp LLC Common Units, representing limited liability company interests
 SUNE - SUNation Energy, Inc. - Common Stock
 SUNS - Sunrise Realty Trust, Inc. - Common Stock
-SUPN - Supernus Pharmaceuticals, Inc. - Common Stock
+SUPN - Supernus, Inc. - Common Stock
 SUPP - TCW Transform Supply Chain ETF
 SUPV - Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares
 SUPX - SuperX AI Technology Limited - Ordinary Shares
@@ -10715,7 +10709,6 @@ SWAN - Amplify BlackSwan Growth & Treasury Core ETF
 SWBI - Smith & Wesson Brands, Inc. - Common Stock
 SWIM - Latham Group, Inc. - Common Stock
 SWK - Stanley Black & Decker, Inc. Common Stock
-SWKHL - SWK Holdings Corporation - 9.00% Senior Notes due 2027
 SWKS - Skyworks Solutions, Inc. - Common Stock
 SWMR - Swarmer, Inc - common stock
 SWP - SWP Growth & Income ETF
