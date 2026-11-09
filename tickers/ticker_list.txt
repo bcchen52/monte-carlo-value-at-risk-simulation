@@ -87,6 +87,7 @@ ABXB - Abacus Flexible Bond Leaders ETF
 ABXL - Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028
 ACAA - Averin Capital Acquisition Corp. - Class A Ordinary Shares
 ACAAU - Averin Capital Acquisition Corp. - Units
+ACAAW - Averin Capital Acquisition Corp. - Warrants
 ACAD - ACADIA Pharmaceuticals Inc. - Common Stock
 ACB - Aurora Cannabis Inc. - Common Shares
 ACBE - Pacer Metaurus Enhanced Core Income Autocallable ETF
@@ -732,7 +733,6 @@ ARES - Ares Management Corporation Class A Common Stock
 ARGT - Global X MSCI Argentina ETF
 ARGX - argenx SE - American Depositary Shares
 ARHS - Arhaus, Inc. - Class A Common Stock
-ARI - Apollo Commercial Real Estate Finance, Inc
 ARIA - ARIA Opportunities ETF
 ARIS - Aris Mining Corporation Common Shares
 ARKB - ARK 21Shares Bitcoin ETF 
@@ -1412,7 +1412,6 @@ BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
 BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
-BKHY - BNY Mellon High Yield ETF
 BKIE - BNY Mellon International Equity ETF
 BKKT - Bakkt, Inc. Class A Common Stock
 BKLC - BNY Mellon US Large Cap Core Equity ETF
@@ -1808,7 +1807,6 @@ BWG - BrandywineGLOBAL Global Income Opportunities Fund Inc.
 BWIN - The Baldwin Insurance Group, Inc. - Class A Common Stock
 BWIV - Blue Water Acquisition Corp. IV Class A Ordinary Shares
 BWLP - BW LPG Limited Common Shares
-BWMN - Bowman Consulting Group Ltd. - Common Stock
 BWMX - Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares
 BWQG - BWM Quality Growth ETF
 BWTG - Brendan Wood TopGun Index ETF
@@ -2325,7 +2323,6 @@ CMSC - CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078
 CMSD - CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079
 CMT - Core Molding Technologies Inc Common Stock
 CMTG - Claros Mortgage Trust, Inc. Common Stock
-CMTL - Comtech Telecommunications Corp. - Common Stock
 CMTV - Community Bancorp.  - Common stock
 CNA - CNA Financial Corporation Common Stock
 CNAV - Mohr Company Nav ETF
@@ -5032,6 +5029,7 @@ H - Hyatt Hotels Corporation Class A Common Stock
 HACK - Amplify Cybersecurity ETF
 HACQ - HCM IV Acquisition Corp. - Class A Ordinary Share
 HACQU - HCM IV Acquisition Corp. - Unit
+HACQW - HCM IV Acquisition Corp. - Warrants
 HAE - Haemonetics Corporation Common Stock
 HAFC - Hanmi Financial Corporation - Common Stock
 HAFN - Hafnia Limited Common Shares
@@ -5366,6 +5364,7 @@ HXF - Mast HedgeIndex Managed Futures Strategy ETF
 HXHX - Haoxin Holdings Limited - Class A Ordinary Shares
 HXL - Hexcel Corporation Common Stock
 HY - Hyster-Yale, Inc. Class A common stock
+HYAC - Haymaker Acquisition Corp V Class A Ordinary Shares
 HYBB - iShares BB Rated Corporate Bond ETF
 HYBI - NEOS Enhanced Income Credit Select ETF
 HYBL - State Street Blackstone High Income ETF
@@ -5378,6 +5377,7 @@ HYEM - VanEck Emerging Markets High Yield Bond ETF
 HYFI - AB High Yield ETF
 HYFM - Hydrofarm Holdings Group, Inc. - Common Stock
 HYFT - MindWalk Holdings Corp. - Common Stock
+HYFY - Lazard Hybrid Financial Income ETF
 HYG - iShares iBoxx $ High Yield Corporate Bond ETF
 HYGD - MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs
 HYGH - iShares Interest Rate Hedged High Yield Bond ETF
@@ -5759,7 +5759,6 @@ INKM - State Street Income Allocation ETF
 INKT - MiNK Therapeutics, Inc. - Common Stock
 INLF - INLIF LIMITED - Class A Ordinary shares
 INLX - Intellinetics, Inc. Common Stock
-INM - InMed Pharmaceuticals Inc. - Common Shares
 INMB - INmune Bio Inc. - Common stock
 INMD - InMode Ltd.  - Ordinary Shares
 INMU - iShares Intermediate Muni Income Active ETF
@@ -6869,6 +6868,8 @@ LYFT - Lyft, Inc. - Class A Common Stock
 LYG - Lloyds Banking Group Plc American Depositary Shares
 LYLD - Cambria Large Cap Shareholder Yield ETF
 LYNX - Lyntris Inc. Common Stock
+LYR - Lyrical U.S. Value Equity ETF
+LYRI - Lyrical International Value Equity ETF
 LYTE - Roundhill Photonics & Optics ETF
 LYTS - LSI Industries Inc. - Common Stock
 LYV - Live Nation Entertainment, Inc. Common Stock
@@ -7001,7 +7002,6 @@ MCRB - Seres Therapeutics, Inc. - Common Stock
 MCRI - Monarch Casino & Resort, Inc. - Common Stock
 MCRP - Micropolis AI Robotics Ordinary Shares
 MCS - Marcus Corporation (The) Common Stock
-MCTA - Charming Medical Limited - Class A Ordinary Shares
 MCVT - Miller Convertible Total Return ETF
 MCY - Mercury General Corporation Common Stock
 MD - Pediatrix Medical Group, Inc. Common Stock
@@ -7090,6 +7090,7 @@ MFIC - MidCap Financial Investment Corporation - Closed End Fund
 MFICL - MidCap Financial Investment Corporation - 8.00% Notes due 2028
 MFIG - Motley Fool Innovative Growth ETF
 MFIN - Medallion Financial Corp. - Common Stock
+MFIX - Nomura Strategic Income ETF
 MFLX - First Trust Flexible Municipal High Income ETF
 MFM - Aberdeen Municipal Income Fund Common Shares of Beneficial Interest
 MFMO - Motley Fool Momentum Factor ETF
@@ -7442,6 +7443,7 @@ MTNB - Matinas Biopharma Holdings, Inc. Common Stock
 MTNE - CH4 Natural Solutions Corporation Class A Ordinary Shares
 MTR - Mesa Royalty Trust Common Stock
 MTRA - Invesco International Growth Focus ETF
+MTRI - Mentari Therapeutics, Inc. - Common Stock
 MTRN - Materion Corporation
 MTRX - Matrix Service Company - Common Stock
 MTSG - Leverage Shares 2X Long MTSI Daily ETF
@@ -7550,6 +7552,7 @@ MYSZ - My Size, Inc. - Common Stock
 MYX - Maywood Acquisition Corp. 2 - Class A Ordinary Share
 MYXXR - Maywood Acquisition Corp. 2 - Rights
 MYXXU - Maywood Acquisition Corp. 2 - Units
+MYXXW - Maywood Acquisition Corp. 2 - Warrants
 MYY - ProShares Short MidCap400
 MZTI - The Marzetti Company - Common Stock
 MZYX - MOZAYYX Acquisition Corp. Class A Ordinary Shares
@@ -7634,6 +7637,7 @@ NCMI - National CineMedia, Inc. - Common Stock
 NCNA - NuCana plc - American Depositary Shares
 NCNO - nCino, Inc. - Common Stock
 NCO - Southern Cross Acquisition I Corp. - Ordinary Shares
+NCOOR - Southern Cross Acquisition I Corp. - Rights
 NCOOU - Southern Cross Acquisition I Corp. - Units
 NCPB - Nuveen Core Plus Bond ETF
 NCPL - Netcapital Inc. - Common Stock
@@ -8859,6 +8863,7 @@ PRCT - PROCEPT BioRobotics Corporation - Common Stock
 PRDO - Perdoceo Education Corporation - Common Stock
 PRE - Prenetics Global Limited - Class A Ordinary Share
 PREF - Principal Spectrum Preferred Securities Active ETF
+PRENW - Prenetics Global Limited - Warrant
 PRF - Invesco RAFI US 1000 ETF
 PRFD - PIMCO Preferred and Capital Securities Active Exchange-Traded Fund
 PRFX - PRF Technologies Ltd. - Ordinary Shares
@@ -9057,6 +9062,7 @@ Q - Qnity Electronics, Inc. Common Stock
 QABA - First Trust NASDAQ ABA Community Bank Index Fund
 QADR - QDRO Acquisition Corp. - Class A Ordinary Shares
 QADRU - QDRO Acquisition Corp. - Units
+QADRW - QDRO Acquisition Corp. - Warrant
 QAI - NYLIM Hedge Multi-Strategy Tracker ETF
 QALT - SEI DBi Multi-Strategy Alternative ETF
 QARP - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF
@@ -9577,7 +9583,6 @@ ROG - Rogers Corporation Common Stock
 ROIV - Roivant Sciences Ltd. - Common Shares
 ROK - Rockwell Automation, Inc. Common Stock
 ROKT - State Street SPDR S&P Kensho Final Frontiers ETF
-ROKU - Roku, Inc. - Class A Common Stock
 ROL - Rollins, Inc. Common Stock
 ROLR - High Roller Technologies, Inc. Common Stock
 ROM - ProShares Ultra Technology
@@ -10212,6 +10217,7 @@ SMCP - SMART Mid Cap ETF
 SMCX - Defiance Daily Target 2X Long SMCI ETF
 SMCY - YieldMax SMCI Option Income Strategy ETF
 SMCZ - Defiance Daily Target 2X Short SMCI ETF
+SMDC - Nomura Small and Mid Cap ETF
 SMDD - UltraPro Short MidCap400
 SMDV - ProShares Russell 2000 Dividend Growers ETF
 SMDX - Intech S&P Small-Mid Cap Diversified Alpha ETF
@@ -10237,7 +10243,6 @@ SMMT - Summit Therapeutics Inc.  - Common Stock
 SMMU - Short Term Municipal Bond Active Exchange-Traded Fund
 SMMV - iShares MSCI USA Small-Cap Min Vol Factor ETF
 SMN - ProShares UltraShort Materials
-SMNG - xETFs Samsung Group ETF
 SMOG - VanEck Low Carbon Energy ETF
 SMOM - Symmetry Panoramic Sector Momentum ETF
 SMOT - VanEck Morningstar SMID Moat ETF
@@ -10348,7 +10353,6 @@ SOTK - Sono-Tek Corporation - Common Stock
 SOUL - Soulpower Acquisition Corporation Class A Ordinary Shares
 SOUN - SoundHound AI, Inc. - Class A Common Stock
 SOUNW - SoundHound AI, Inc. - Warrant
-SOUX - Defiance Daily Target 2X Long SOUN ETF
 SOVF - Sovereign's Capital Flourish Fund
 SOWG - Sow Good Inc. - Common Stock
 SOXL - Direxion Daily Semiconductor Bull 3X ETF
@@ -10798,7 +10802,6 @@ TCAF - T. Rowe Price Capital Appreciation Equity ETF
 TCAI - Tortoise AI Infrastructure ETF
 TCAL - T. Rowe Price Capital Appreciation Premium Income ETF
 TCAN - 21Shares Canton Network ETF
-TCBI - Texas Capital Bancshares, Inc. Common Stock
 TCBK - TriCo Bancshares - Common Stock
 TCBS - Texas Community Bancshares, Inc. - Common Stock
 TCBX - Third Coast Bancshares, Inc. Common Stock
@@ -11008,7 +11011,6 @@ TLACU - Three Lions Acquisition Corp. - Units
 TLACW - Three Lions Acquisition Corp. - Warrants
 TLCE - Thrivent Large Cap Stock ETF
 TLCI - Touchstone International Equity ETF
-TLDR - The Laddered T-Bill ETF
 TLF - Tandy Leather Factory, Inc. - common stock
 TLG - Touchstone Large Company Growth ETF
 TLH - iShares 10-20 Year Treasury Bond ETF
@@ -11346,6 +11348,7 @@ TWST - Twist Bioscience Corporation - Common Stock
 TX - Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)
 TXBC - 21Shares FTSE Crypto 10 ex-BTC Index ETF
 TXCA - Northern Trust California Intermediate Tax-Exempt Bond ETF
+TXCP - Texas Capital Bancshares, Inc. Common Stock
 TXG - 10x Genomics, Inc. - Common Stock
 TXMD - TherapeuticsMD, Inc. - Common Stock
 TXN - Texas Instruments Incorporated - Common Stock
@@ -11458,7 +11461,6 @@ ULH - Universal Logistics Holdings, Inc. - Common Stock
 ULS - UL Solutions Inc. Class A Common Stock
 ULST - State Street Ultra Short Term Bond ETF
 ULTA - Ulta Beauty, Inc. - Common Stock
-ULTI - REX IncomeMax Option Strategy ETF
 ULTY - YieldMax Ultra Option Income Strategy ETF
 ULVM - VictoryShares US Value Momentum ETF
 UMAC - Unusual Machines, Inc. Common Stock
@@ -12256,6 +12258,7 @@ XDAT - Franklin Exponential Data ETF
 XDEC - FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December
 XDEF - Xtrackers Europe Defense Technologies ETF
 XDIV - Roundhill S&P 500 No Dividend Target ETF
+XDLR - Lazard Non-Dollar Active Income ETF
 XDQQ - Innovator Growth Accelerated ETF - Quarterly
 XDSQ - Innovator U.S. Equity Accelerated ETF - Quarterly
 XDTE - Roundhill S&P 500 0DTE Covered Call Strategy ETF
