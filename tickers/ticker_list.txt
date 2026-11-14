@@ -771,6 +771,7 @@ ARR - ARMOUR Residential REIT, Inc.
 ARRY - Array Technologies, Inc. - Common Stock
 ARTC - Art Technology Acquisition Corp. - Class A Ordinary Shares
 ARTCU - Art Technology Acquisition Corp. - Units
+ARTCW - Art Technology Acquisition Corp. - Warrants
 ARTL - Artelo Biosciences, Inc. - Common Stock
 ARTNA - Artesian Resources Corporation - Class A Non-Voting Common Stock
 ARTV - Artiva Biotherapeutics, Inc. - Common Stock
@@ -1971,6 +1972,7 @@ CC - Chemours Company (The) Common Stock
 CCAP - Crescent Capital BDC, Inc. - Common Stock
 CCAQ - Collective Acquisition Corp. - Class A ordinary shares
 CCAQU - Collective Acquisition Corp. - Units
+CCAQW - Collective Acquisition Corp. - Warrants
 CCB - Coastal Financial Corporation - Common Stock
 CCBG - Capital City Bank Group - Common Stock
 CCC - CCC Intelligent Solutions Holdings Inc. - Common Stock
@@ -2617,6 +2619,7 @@ CSWC - Capital Southwest Corporation - Common Stock
 CSX - CSX Corporation - Common Stock
 CTA - Simplify Managed Futures Strategy ETF
 CTAA - ClearThink 1 Acquisition Corp. - Class A Ordinary Shares
+CTAAR - ClearThink 1 Acquisition Corp. - Rights
 CTAAU - ClearThink 1 Acquisition Corp. - Units
 CTAG - Calamos Timpani Active SMID Growth ETF
 CTAP - Simplify US Equity PLUS Managed Futures Strategy ETF
@@ -4453,6 +4456,7 @@ FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
 FWAC - Futurewave Acquisition Corporation - Ordinary Shares
+FWACR - Futurewave Acquisition Corporation - Rights
 FWACU - Futurewave Acquisition Corporation - Units
 FWD - AB Disruptors ETF
 FWDI - Forward Industries, Inc. - Common Stock
@@ -4689,6 +4693,7 @@ GIWWR - GigCapital8 Corp. - Rights
 GIWWU - GigCapital8 Corp. - Units
 GIX - GigCapital9 Corp. - Class A Ordinary Share
 GIXI - Gix Internet Ltd. - Ordinary Shares
+GIXXR - GigCapital9 Corp. - Rights
 GIXXU - GigCapital9 Corp. - Units
 GJAN - FT Vest U.S. Equity Moderate Buffer ETF - January
 GJH - Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1
@@ -5076,6 +5081,7 @@ HCC - Warrior Met Coal, Inc. Common Stock
 HCHL - Happy City Holdings Limited - Class A Ordinary shares
 HCI - HCI Group, Inc. Common Stock
 HCIC - Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares
+HCICR - Hennessy Capital Investment Corp. VIII - Share Rights
 HCICU - Hennessy Capital Investment Corp. VIII - Units
 HCKT - The Hackett Group, Inc. - Common Stock
 HCM - HUTCHMED (China) Limited - American Depositary Shares
@@ -5420,6 +5426,7 @@ IAUI - NEOS Gold High Income ETF
 IAUM - iShares Gold Trust Micro Shares
 IAUX - i-80 Gold Corp. Common Shares
 IBAC - IB Acquisition Corp. - Common Stock
+IBACR - IB Acquisition Corp. - Right
 IBAT - iShares Energy Storage & Materials ETF
 IBB - iShares Biotechnology ETF
 IBBQ - Invesco Nasdaq Biotechnology ETF
@@ -5950,6 +5957,7 @@ IVA - Inventiva S.A. - American Depository Shares
 IVAI - Ives Ultra AI Opportunities Inc. Common Stock
 IVAL - Alpha Architect International Quantitative Value ETF
 IVDA - Iveda Solutions, Inc. - Common Stock
+IVDAW - Iveda Solutions, Inc. - Warrant
 IVE - iShares S&P 500 Value ETF
 IVEP - Dan IVES Wedbush AI Power & Infrastructure ETF
 IVES - Dan IVES Wedbush AI Revolution ETF
@@ -6461,6 +6469,7 @@ KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
 KTTA - Pasithea Therapeutics Corp. - Common Stock
 KTUP - T-REX 2X Long KTOS Daily Target ETF
 KTWO - K2 Capital Acquisition Corporation - Class A Ordinary Share
+KTWOR - K2 Capital Acquisition Corporation - Rights
 KTWOU - K2 Capital Acquisition Corporation - Units
 KULR - KULR Technology Group, Inc. Common Stock
 KURA - Kura Oncology, Inc. - Common Stock
@@ -6842,6 +6851,7 @@ LVWR - LiveWire Group, Inc. Common Stock
 LW - Lamb Weston Holdings, Inc. Common Stock 
 LWAC - LightWave Acquisition Corp. - Class A Ordinary Shares
 LWACU - LightWave Acquisition Corp. - Units
+LWACW - LightWave Acquisition Corp. - Warrants
 LWAY - Lifeway Foods, Inc. - Common Stock
 LWLG - Lightwave Logic, Inc. - Common Stock
 LWLX - Tradr 2X Long LWLG Daily ETF
@@ -7004,6 +7014,7 @@ MDB - MongoDB, Inc. - Class A Common Stock
 MDBH - MDB Capital Holdings, LLC - Class A common 
 MDCR - Pacer Swan SOS Moderate December ETF
 MDCX - Medicus Pharma Ltd. - Common Stock
+MDCXW - Medicus Pharma Ltd. - Warrant
 MDEV - First Trust Indxx Medical Devices ETF
 MDGL - Madrigal Pharmaceuticals, Inc. - Common Stock
 MDIA - Mediaco Holding Inc. - Class A Common Stock
@@ -7776,6 +7787,7 @@ NMIH - NMI Holdings Inc - Common Stock
 NML - Neuberger Energy Infrastructure and Income Fund Inc. Common Stock
 NMM - Navios Maritime Partners LP Common Units Representing Limited Partner Interests
 NMP - NMP Acquisition Corp. - Class A Ordinary Shares
+NMPAR - NMP Acquisition Corp. - Right
 NMPAU - NMP Acquisition Corp. - Units
 NMR - Nomura Holdings Inc ADR American Depositary Shares
 NMRA - Neumora Therapeutics, Inc. - Common Stock
@@ -9741,6 +9753,7 @@ SAH - Sonic Automotive, Inc. Common Stock
 SAIA - Saia, Inc. - Common Stock
 SAIC - Science Applications International Corporation - Common Stock
 SAIH - SAIHEAT Limited - Class A Ordinary Shares
+SAIHW - SAIHEAT Limited - Warrant
 SAIL - SailPoint, Inc. - Common Stock
 SAIQ - WISeSat.Space Holdings Corp. - Ordinary Shares
 SAJ - Saratoga Investment Corp 8.00% Notes due 2027
@@ -11000,6 +11013,7 @@ TLK - PT Telekomunikasi Indonesia, Tbk
 TLN - Talen Energy Corporation - Common Stock
 TLNC - Talon Capital Corp. - Class A Ordinary Shares
 TLNCU - Talon Capital Corp. - Units
+TLNCW - Talon Capital Corp. - Warrants
 TLPH - Talphera, Inc. - Common Stock
 TLRY - Tilray Brands, Inc. - Common Stock
 TLS - Telos Corporation - Common Stock
@@ -11049,6 +11063,7 @@ TMSL - T. Rowe Price Small-Mid Cap ETF
 TMSWW - Teamshares Inc. - Warrants
 TMTS - Spartacus Acquisition Corp. II - Class A Ordinary Shares
 TMTSU - Spartacus Acquisition Corp. II - Unit
+TMTSW - Spartacus Acquisition Corp. II - Warrants
 TMUS - T-Mobile US, Inc. - Common Stock
 TMUSI - T-Mobile US, Inc. - 5.500% Senior Notes due June 2070
 TMUSL - T-Mobile US, Inc. - 6.250% Senior Notes due 2069
@@ -12029,6 +12044,7 @@ WEN - Wendy's Company (The) - Common Stock
 WENC - West Enclave Merger Corp. Ordinary Shares
 WENN - Wen Acquisition Corp - Class A Ordinary Shares
 WENNU - Wen Acquisition Corp - Unit
+WENNW - Wen Acquisition Corp - Warrant
 WEPN - Nicholas Defense and Rare Earth Income ETF
 WERN - Werner Enterprises, Inc. - Common Stock
 WES - Western Midstream Partners, LP Common Units Representing Limited Partner Interests
