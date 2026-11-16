@@ -221,6 +221,7 @@ ADX - Adams Diversified Equity Fund Inc.
 ADXN - Addex Therapeutics Ltd - American Depositary Shares
 AEAQ - Activate Energy Acquisition Corp. - Class A Ordinary Share
 AEAQU - Activate Energy Acquisition Corp. - Unit
+AEAQW - Activate Energy Acquisition Corp. - Warrant
 AEBI - Aebi Schmidt Holding AG - Common Stock
 AEC - Anfield Energy Inc. - Common Shares
 AEE - Ameren Corporation Common Stock
@@ -1221,7 +1222,6 @@ BEAGR - Bold Eagle Acquisition Corp. - Right
 BEAGU - Bold Eagle Acquisition Corp. - Units
 BEAM - Beam Therapeutics Inc. - Common Stock
 BEAT - Heartbeam, Inc. - Common Stock
-BEATW - Heartbeam, Inc. - Warrant
 BEBE - TGE Value Creative Solutions Corp Class A Ordinary Shares
 BEC - Corgi BE 2x Daily ETF
 BEDY - BNY Mellon Enhanced Dividend and Income ETF
@@ -1406,7 +1406,6 @@ BKEM - BNY Mellon Emerging Markets Equity ETF
 BKF - iShares MSCI BIC ETF
 BKFI - BNY Mellon Active Core Bond ETF
 BKGI - BNY Mellon Global Infrastructure Income ETF
-BKH - Black Hills Corporation Common Stock
 BKHA - Black Hawk Acquisition Corporation - Class A Ordinary Shares
 BKHAR - Black Hawk Acquisition Corporation - Rights
 BKHAU - Black Hawk Acquisition Corporation - Units
@@ -1472,6 +1471,7 @@ BLX - Bladex, Inc. Class E Common Stock
 BLZE - Backblaze, Inc. - Common Stock
 BLZR - Trailblazer Acquisition Corp. - Class A Ordinary Shares
 BLZRU - Trailblazer Acquisition Corp. - Unit
+BLZRW - Trailblazer Acquisition Corp. - Warrant
 BMA - Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
 BMAR - Innovator U.S. Equity Buffer ETF - March
 BMAY - Innovator U.S. Equity Buffer ETF - May
@@ -1625,6 +1625,7 @@ BRNY - Burney U.S. Factor Rotation ETF
 BRO - Brown & Brown, Inc. Common Stock
 BROL - Baron Risk Optimized Large Cap ETF
 BROS - Dutch Bros Inc. Class A Common Stock
+BRRK - Bluerock Acquisition Corp. II - Class A Ordinary Shares
 BRRKU - Bluerock Acquisition Corp. II - Units
 BRRR - Coinshares Bitcoin ETF
 BRSL - Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares
@@ -1711,7 +1712,6 @@ BSY - Bentley Systems, Incorporated - Class B Common Stock
 BTA - Beacon Tactical Alternatives Risk ETF
 BTAL - AGF U.S. Market Neutral Anti-Beta Fund
 BTBD - BT Brands, Inc. - Common Stock
-BTBDW - BT Brands, Inc. - Warrant
 BTBT - Bit Digital, Inc. - Ordinary Share
 BTC - Grayscale Bitcoin Mini Trust (BTC)
 BTCC - Grayscale Bitcoin High Income ETF
@@ -4257,7 +4257,7 @@ FOA - Finance of America Companies Inc. Class A Common Stock
 FOCL - EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share
 FOCT - FT Vest U.S. Equity Buffer ETF - October
 FOF - Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock
-FOFO - Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares
+FOFO - Hang Feng Technology Innovation Co., Ltd. - Class A Ordinary Shares
 FOIL - Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares
 FOMG - Leverage Shares 2X Long FORM Daily ETF
 FOPC - Frontier Asset Opportunistic Credit ETF
@@ -4452,6 +4452,7 @@ FVC - First Trust Dorsey Wright Dynamic Focus 5 ETF
 FVCB - FVCBankcorp, Inc. - Common Stock
 FVD - First Trust VL Dividend
 FVN - Future Vision II Acquisition Corporation - Ordinary Shares
+FVNNR - Future Vision II Acquisition Corporation - Right
 FVNNU - Future Vision II Acquisition Corporation - Units
 FVR - FrontView REIT, Inc. Common Stock
 FVRR - Fiverr International Ltd. Ordinary Shares, no par value
@@ -5088,6 +5089,7 @@ HCM - HUTCHMED (China) Limited - American Depositary Shares
 HCMA - HCM III Acquisition Corp. - Class A Ordinary Share
 HCMAU - HCM III Acquisition Corp. - Units
 HCMT - Direxion HCM Tactical Enhanced US ETF
+HCOP - Hartford Hybrid and Credit Opportunities ETF
 HCOW - Amplify COWS Covered Call ETF
 HCRB - Hartford Core Bond ETF
 HCSG - Healthcare Services Group, Inc. - Common Stock
@@ -5402,11 +5404,13 @@ HYTR - Counterpoint High Yield Trend ETF
 HYUP - Xtrackers High Beta High Yield Bond ETF
 HYXF - iShares ESG Advanced High Yield Corporate Bond ETF
 HYZD - WisdomTree Interest Rate Hedged High Yield Bond Fund
+HZN - Bright Horizon Energy Corporation Common Stock
 HZO - MarineMax, Inc.  (FL) Common Stock
 IA - Innovative Solutions and Support, Inc. - Common Stock
 IACL - GraniteShares US 100 Autocallable Income ETF
 IACO - Idea Acquisition Corp. - Class A Ordinary Shares
 IACOU - Idea Acquisition Corp. - Units
+IACOW - Idea Acquisition Corp. - Warrants
 IACQ - Irenic Acquisition Corp. - Class A Ordinary Shares
 IACQU - Irenic Acquisition Corp. - Unit
 IACQW - Irenic Acquisition Corp. - Warrants
@@ -5934,7 +5938,6 @@ ITDI - iShares LifePath Target Date 2065 ETF
 ITDJ - iShares LifePath Target Date 2070 ETF
 ITEQ - Amplify BlueStar Israel Technology ETF
 ITG - ITG, Inc. - Class A Common Stock
-ITGR - Integer Holdings Corporation Common Stock
 ITHA - ITHAX Acquisition Corp III - Class A Ordinary Shares
 ITHAU - ITHAX Acquisition Corp III - Units
 ITIC - Investors Title Company - Common Stock
@@ -6462,7 +6465,6 @@ KT - KT Corporation Common Stock
 KTB - Kontoor Brands, Inc. Common Stock 
 KTCC - Key Tronic Corporation - Common Stock
 KTEC - KraneShares Hang Seng TECH Index ETF
-KTF - DWS Municipal Income Trust
 KTH - Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock
 KTN - Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KTOS - Kratos Defense & Security Solutions, Inc. - Common Stock
@@ -7636,6 +7638,7 @@ NCNO - nCino, Inc. - Common Stock
 NCO - Southern Cross Acquisition I Corp. - Ordinary Shares
 NCOOR - Southern Cross Acquisition I Corp. - Rights
 NCOOU - Southern Cross Acquisition I Corp. - Units
+NCOOW - Southern Cross Acquisition I Corp. - Warrants
 NCPB - Nuveen Core Plus Bond ETF
 NCPL - Netcapital Inc. - Common Stock
 NCPLW - Netcapital Inc. - warrants
@@ -8005,7 +8008,6 @@ NWAX - New America Acquisition I Corp. Class A Common Stock
 NWBI - Northwest Bancshares, Inc. - Common Stock
 NWCL - newcleo plc - Ordinary Shares
 NWCLW - newcleo plc - Warrants
-NWE - NorthWestern Energy Group, Inc.  - Common Stock
 NWFL - Norwood Financial Corp. - Common Stock
 NWG - NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)
 NWGL - CL Workshop Group Limited - American Depositary Shares
@@ -8698,7 +8700,6 @@ PLAY - Dave & Buster's Entertainment, Inc. - Common Stock
 PLBC - Plumas Bancorp - Common Stock
 PLBL - Polibeli Group Ltd - Class A Ordinary Shares
 PLBY - Playboy, Inc. - Common Stock
-PLCE - Children's Place, Inc. (The) - Common Stock
 PLCI - Pelican Acquisition II Corporation - Ordinary Shares
 PLCIR - Pelican Acquisition II Corporation - Right
 PLCIU - Pelican Acquisition II Corporation - Unit
@@ -8809,6 +8810,7 @@ PONOU - Pono Capital Four, Inc. - Units
 PONY - Pony AI Inc. - American Depositary Shares
 POOL - Pool Corporation - Common Stock
 POR - Portland General Electric Co Common Stock
+PORT - Southport Acquisition Corp. II Class A Ordinary Shares
 POST - Post Holdings, Inc. Common Stock
 POW - VistaShares Electrification Supercycle ETF
 POWA - Invesco Bloomberg Pricing Power ETF
@@ -10583,7 +10585,6 @@ STLA - Stellantis N.V. Common Shares
 STLD - Steel Dynamics, Inc. - Common Stock
 STLL - Leverage Shares 2X Long STRL Daily ETF
 STLN - Starling Oncology, Inc. - Common Stock
-STLNW - Starling Oncology, Inc. - Warrant
 STLR - Stellar ETF
 STLU - 2x Stellar ETF
 STM - STMicroelectronics N.V. Common Stock
