@@ -5542,7 +5542,6 @@ ICE - Intercontinental Exchange Inc. Common Stock
 ICF - iShares Select U.S. REIT ETF
 ICFI - ICF International, Inc. - Common Stock
 ICG - Intchains Group Limited - American Depositary Shares
-ICHR - Ichor Holdings - Ordinary Shares
 ICL - ICL Group Ltd. Ordinary Shares
 ICLN - iShares Global Clean Energy ETF
 ICLO - Invesco AAA CLO Floating Rate Note ETF
