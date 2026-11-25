@@ -68,6 +68,7 @@ ABLD - Abacus FCF Real Assets Leaders ETF
 ABLG - Abacus FCF International Leaders ETF
 ABLS - Abacus FCF Small Cap Leaders ETF
 ABLV - Able View Global Inc. - Class B Ordinary Shares
+ABLVW - Able View Global Inc. - Warrant
 ABM - ABM Industries Incorporated Common Stock
 ABNB - Airbnb, Inc. - Class A Common Stock
 ABND - American Century Core Plus Income ETF
@@ -496,6 +497,7 @@ ALTY - Global X Alternative Income ETF
 ALUB - Alussa Energy Acquisition Corp. II Class A Ordinary Shares
 ALV - Autoliv, Inc. Common Stock
 ALVO - Alvotech - Ordinary Shares
+ALVOW - Alvotech - Warrant
 ALX - Alexander's, Inc. Common Stock
 ALXO - ALX Oncology Holdings Inc. - Common Stock
 ALZN - Alzamend Neuro, Inc. - Common Stock
@@ -1283,6 +1285,7 @@ BFIX - Build Bond Innovation ETF
 BFJA - FT Vest Bitcoin Strategy Floor15 ETF - January
 BFJL - FT Vest Bitcoin Strategy Floor15 ETF July
 BFLB - BufferLABS US Equity Dynamic Buffer ETF
+BFLR - BlueFlare, Inc. - Common Stock
 BFLX - iShares Flexible Equity Active ETF
 BFLY - Butterfly Network, Inc. Class A Common Stock
 BFOC - FT Vest Bitcoin Strategy Floor15 ETF - October
@@ -2432,7 +2435,6 @@ COO - The Cooper Companies, Inc.  - Common Stock
 COOK - Traeger, Inc. Common Stock
 COOL - VegaShares AI Thermal, Cooling & Power Management ETF
 COOT - Australian Oilseeds Holdings Limited - Ordinary Shares
-COOTW - Australian Oilseeds Holdings Limited - Warrant
 COP - ConocoPhillips Common Stock
 COPA - Themes Copper Miners ETF
 COPJ - Sprott Junior Copper Miners ETF
@@ -2476,6 +2478,7 @@ CPER - United States Copper Index Fund ETV
 CPF - Central Pacific Financial Corp New
 CPHC - Canterbury Park Holding Corporation - Common Stock
 CPHI - China Pharma Holdings, Inc. Common Stock
+CPHY - F/m Compoundr High Yield Bond ETF
 CPII - American Beacon Ionic Inflation Protection ETF
 CPIX - Cumberland Pharmaceuticals Inc. - Common Stock
 CPK - Chesapeake Utilities Corporation Common Stock
@@ -4275,7 +4278,6 @@ FNG - Leverage Shares 2X Long FN Daily ETF
 FNGD - MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038
 FNGG - Direxion Daily NYSE FANG+ Bull 2X ETF
 FNGO - MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038
-FNGR - FingerMotion, Inc. - common stock
 FNGS - MicroSectors FANG  ETNs due January 8, 2038
 FNGU - MicroSectors FANG+ 3X Leveraged ETNs
 FNK - First Trust Mid Cap Value AlphaDEX Fund
@@ -6004,6 +6006,7 @@ IVAL - Alpha Architect International Quantitative Value ETF
 IVDA - Iveda Solutions, Inc. - Common Stock
 IVDAW - Iveda Solutions, Inc. - Warrant
 IVE - iShares S&P 500 Value ETF
+IVEA - Dan IVES Wedbush AI Autocallable Income ETF
 IVEP - Dan IVES Wedbush AI Power & Infrastructure ETF
 IVES - Dan IVES Wedbush AI Revolution ETF
 IVF - INVO Fertility, Inc. - Common Stock
@@ -6589,7 +6592,6 @@ LCCCU - Lakeshore Acquisition III Corp. - Unit
 LCDS - JPMorgan Fundamental Data Science Large Core ETF
 LCF - Touchstone US Large Cap Focused ETF
 LCFY - Locafy Limited - Ordinary Share
-LCFYW - Locafy Limited - Warrant
 LCID - Lucid Group, Inc. - Common Stock
 LCII - LCI Industries
 LCIV - Logan Capital International ETF
@@ -7289,7 +7291,6 @@ MMT - Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest
 MMTM - State Street SPDR S&P 1500 Momentum Tilt ETF
 MMTX - Miluna Acquisition Corp - Class A Ordinary Shares
 MMTXU - Miluna Acquisition Corp - Units
-MMTXW - Miluna Acquisition Corp - Warrant
 MMU - Western Asset Managed Municipals Fund, Inc. Common Stock
 MMYT - MakeMyTrip Limited - Ordinary Shares
 MN - Corgi MANGOS ETF
@@ -7736,6 +7737,7 @@ NEXA - Nexa Resources S.A. Common Shares
 NEXM - NexMetals Mining Corp. - Common Stock
 NEXN - Nexxen International Ltd. - Ordinary Shares
 NEXR - Nexera Technologies Ltd - Ordinary Shares
+NEXRW - Nexera Technologies Ltd - Warrant
 NEXT - NextDecade Corporation - Common Stock
 NFE - New Fortress Energy Inc. - Class A Common Stock
 NFEB - Innovator Growth-100 Power Buffer ETF - February
@@ -7795,6 +7797,7 @@ NISM - NYLIM International Small-Mid Cap Equity ETF
 NITE - The Nightview Fund NITE
 NIU - Niu Technologies - American Depositary Shares
 NIVF - NewGenIvf Group Limited - Class A Ordinary Shares
+NIVFW - NewGenIvf Group Limited - Warrants
 NIXT - Research Affiliates Deletions ETF
 NIXX - Nixxy, Inc. - Common Stock
 NJAN - Innovator Growth-100 Power Buffer ETF - January
@@ -8390,7 +8393,6 @@ OWN - Inside Ownership 100 ETF
 OWNB - Bitwise Bitcoin Standard Corporations ETF
 OWNS - Quaker Investment Trust CCM Affordable Housing MBS ETF
 OXBR - Oxbridge Re Holdings Limited - Ordinary Shares
-OXBRW - Oxbridge Re Holdings Limited - Warrant
 OXLC - Oxford Lane Capital Corp. - Closed End Fund
 OXLCG - Oxford Lane Capital Corp. - 7.95% Notes due 2032
 OXLCI - Oxford Lane Capital Corp. - 8.75% Notes due 2030
@@ -8457,7 +8459,6 @@ PARA - Parabolic Technologies, Inc. - Class A Common Stock
 PARAW - Parabolic Technologies, Inc. - Warrant
 PARK - Park Dental Partners, Inc. - Common Stock
 PARR - Par Pacific Holdings, Inc.  Common Stock
-PASG - Passage Bio, Inc. - Common Stock
 PASW - Ping An Biomedical Co., Ltd. - Class A Ordinary Shares
 PATH - UiPath, Inc. Class A Common Stock
 PATK - Patrick Industries, Inc. - Common Stock
@@ -9582,6 +9583,7 @@ RMSG - Real Messenger Corporation - Ordinary Shares
 RMSGW - Real Messenger Corporation - Warrants
 RMT - Royce Micro-Cap Trust, Inc. Common Stock
 RMTI - Rockwell Medical, Inc. - Common Stock
+RMTX - Remix Therapeutics, Inc. - Common Stock
 RNA - Atrium Therapeutics, Inc. - Common Stock
 RNAC - Cartesian Therapeutics, Inc. - Common Stock
 RNAQ - Rainier Acquisition Corporation - Class A Ordinary Shares
@@ -9791,7 +9793,6 @@ SACH - Sachem Capital Corp. Common Shares
 SAEN - Genenta Science S.p.A. - American Depositary Shares
 SAFE - Safehold Inc. New Common Stock 
 SAFT - Safety Insurance Group, Inc. - Common Stock
-SAFX - XCF Global, Inc. - Class A Common Stock
 SAGP - Strategas Global Policy Opportunities ETF
 SAGT - SAGTEC GLOBAL LIMITED - Class A Ordinary shares
 SAGU - Shreya Acquisition Group Class A Ordinary Shares
