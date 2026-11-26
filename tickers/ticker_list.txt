@@ -2356,6 +2356,7 @@ CNAV - Mohr Company Nav ETF
 CNBS - Amplify Seymour Cannabis ETF
 CNC - Centene Corporation Common Stock
 CNCK - Coincheck Group N.V. - Ordinary Shares
+CNCKW - Coincheck Group N.V. - Warrants
 CNDT - Conduent Incorporated - Common Stock
 CNEQ - Alger Concentrated Equity ETF
 CNET - ZW Data Action Technologies Inc. - Common Stock
