@@ -597,7 +597,6 @@ ANET - Arista Networks, Inc. Common Stock
 ANF - Abercrombie & Fitch Company Common Stock
 ANG - Corgi FTSE Fallen Angels Bond ETF
 ANGH - Anghami Inc. - Ordinary Shares
-ANGHW - Anghami Inc. - Warrants
 ANGI - Angi Inc. - Class A Common Stock
 ANGL - VanEck Fallen Angel High Yield Bond ETF
 ANGO - AngioDynamics, Inc. - Common Stock
@@ -2953,7 +2952,6 @@ DFIT - Davidson Intermediate Taxable ETF
 DFIV - Dimensional International Value ETF
 DFJ - WisdomTree Japan SmallCap Fund
 DFLI - Dragonfly Energy Holdings Corp - Common Stock
-DFLIW - Dragonfly Energy Holdings Corp - Warrant
 DFLV - Dimensional US Large Cap Value ETF
 DFMC - U.S. Micro Cap Portfolio: ETF Class Shares
 DFNL - Davis Select Financial ETF
@@ -4257,7 +4255,6 @@ FMNY - First Trust New York Municipal High Income ETF
 FMQQ - FMQQ The Next Frontier Internet ETF
 FMS - Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 of an Ordinary Share)
 FMST - Foremost Clean Energy Ltd. - Common Shares
-FMSTW - Foremost Clean Energy Ltd. - Warrant
 FMTL - First Trust Indxx Critical Metals ETF
 FMTM - MarketDesk Focused U.S. Momentum ETF
 FMUB - Fidelity Municipal Bond Opportunities ETF
@@ -4499,7 +4496,6 @@ FVRR - Fiverr International Ltd. Ordinary Shares, no par value
 FWAC - Futurewave Acquisition Corporation - Ordinary Shares
 FWACR - Futurewave Acquisition Corporation - Rights
 FWACU - Futurewave Acquisition Corporation - Units
-FWACW - Futurewave Acquisition Corporation - Warrants
 FWD - AB Disruptors ETF
 FWDI - Forward Industries, Inc. - Common Stock
 FWONA - Liberty Media Corporation - Series A Common Stock
@@ -4917,7 +4913,7 @@ GRBK - Green Brick Partners, Inc. Common Stock
 GRC - Gorman-Rupp Company (The) Common Stock
 GRCE - Grace Therapeutics, Inc. - Common Stock
 GRDN - Guardian Pharmacy Services, Inc. Class A Common Stock
-GRDX - GridAI Technologies Corp.  - Common Stock
+GRDX - GridAI Power Corp. - Common Stock
 GREK - Global X MSCI Greece ETF
 GRF - Eagle Capital Growth Fund, Inc. Common Stock
 GRFS - Grifols, S.A. - American Depositary Shares
@@ -5138,7 +5134,6 @@ HCOP - Hartford Hybrid and Credit Opportunities ETF
 HCOW - Amplify COWS Covered Call ETF
 HCRB - Hartford Core Bond ETF
 HCSG - Healthcare Services Group, Inc. - Common Stock
-HCTI - Healthcare Triangle, Inc. - Common Stock
 HCWB - HCW Biologics Inc. - Common Stock
 HCXY - Hercules Capital, Inc. 6.25% Notes due 2033
 HD - Home Depot, Inc. (The) Common Stock
@@ -5354,6 +5349,7 @@ HTHT - H World Group Limited - American Depositary Shares
 HTLD - Heartland Express, Inc. - Common Stock
 HTLM - HomesToLife Ltd - Ordinary Shares
 HTO - H2O America  - Common Stock
+HTOEU - H2O America  - Equity Units
 HTOO - Fusion Fuel Green PLC - Ordinary Shares
 HTRB - Hartford Total Return Bond ETF
 HTT - High Templar Tech Limited American depositary shares, each representing one Class A ordinary share
@@ -8102,6 +8098,7 @@ NZAC - State Street SPDR MSCI ACWI Climate Paris Aligned ETF
 NZF - Nuveen Municipal Credit Income Fund 
 O - Realty Income Corporation Common Stock
 OABI - OmniAb, Inc. - Common Stock
+OABIW - OmniAb, Inc. - Warrant
 OACC - Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
 OACCU - Oaktree Acquisition Corp. III Life Sciences - Unit
 OACCW - Oaktree Acquisition Corp. III Life Sciences - Warrant
@@ -9729,7 +9726,6 @@ RVNU - Xtrackers Municipal Infrastructure Revenue Bond Active ETF
 RVP - Retractable Technologies, Inc. Common Stock
 RVSB - Riverview Bancorp Inc - Common Stock
 RVSN - Rail Vision Ltd. - Ordinary Shares
-RVSNW - Rail Vision Ltd. - Warrant
 RVT - Royce Small-Cap Trust, Inc. Common Stock
 RVTY - Revvity, Inc. Common Stock
 RW - Rainwater Equity ETF
@@ -10059,7 +10055,7 @@ SGHT - Sight Sciences, Inc. - Common Stock
 SGI - Somnigroup International Inc. Common Stock
 SGLC - SGI U.S. Large Cap Core ETF
 SGLD - Scorpio Gold Corporation - Common Stock
-SGLY - Singularity Future Technology Ltd. - Common Stock
+SGLY - Compower Ltd. - Common Stock
 SGML - Sigma Lithium Corporation - common shares
 SGMT - Sagimet Biosciences Inc. - Series A Common Stock
 SGOL - abrdn Physical Gold Shares ETF
@@ -12006,7 +12002,6 @@ VUSI - Voya Ultra Short Income ETF
 VUSV - Vanguard Wellington U.S. Value Active ETF
 VUZI - Vuzix Corporation  - Common Stock
 VV - Vanguard Morningstar Large-Cap ETF
-VVOS - Vivos Therapeutics, Inc. - Common Stock
 VVPL - Vulcan Value Partners ETF
 VVR - Invesco Senior Income Trust Common Stock (DE)
 VVV - Valvoline Inc. Common Stock
