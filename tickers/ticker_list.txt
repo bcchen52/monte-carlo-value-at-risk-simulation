@@ -1576,7 +1576,6 @@ BOTJ - Bank of the James Financial Group, Inc. - Common Stock
 BOTT - Themes Humanoid Robotics ETF
 BOTZ - Global X Robotics & Artificial Intelligence ETF
 BOUT - CapForce IBD Breakout Opportunities ETF
-BOW - Bowhead Specialty Holdings Inc. Common Stock
 BOX - Box, Inc. Class A Common Stock
 BOXA - Alpha Architect Aggregate Bond ETF
 BOXL - Boxlight Corporation - Class A Common Stock
@@ -2743,7 +2742,7 @@ CWPD - CWP Premium Dividend ETF
 CWPG - CWP Premium Growth ETF
 CWS - AdvisorShares Focused Equity ETF
 CWST - Casella Waste Systems, Inc. - Class A Common Stock
-CWT - California Water Service Group Common Stock
+CWT - Watermark Utilities Common Stock
 CWVX - Tradr 2X Long CRWV Daily ETF
 CWY - GraniteShares YieldBOOST CRWV ETF
 CX - Cemex, S.A.B. de C.V. Sponsored ADR
@@ -3247,7 +3246,6 @@ DUSG - U.S. Small Cap Growth Portfolio: ETF Class Shares
 DUSL - Direxion Daily Industrials Bull 3X ETF
 DUST - Direxion Daily Gold Miners Index Bear 2X ETF
 DUTY - U.S. Defense ETF
-DV - DoubleVerify Holdings, Inc. Common Stock
 DVA - DaVita Inc. Common Stock
 DVDN - Kingsbarn Dividend Opportunity ETF
 DVGR - DAC 3D Dividend Growth ETF
@@ -7661,7 +7659,7 @@ NBTR - Neuberger Total Return Bond ETF
 NBTX - Nanobiotix S.A. - ADSs
 NBXG - Neuberger Next Generation Connectivity Fund Inc. Common Stock
 NC - NACCO Industries, Inc. Common Stock
-NCA - Nuveen California Municipal Value Fund
+NCA - Nuveen California Municipal Income Fund Common Stock
 NCDL - Nuveen Churchill Direct Lending Corp. Common Stock
 NCEL - NewcelX Ltd. - Ordinary Shares
 NCEW - New Century Logistics (BVI) Limited - Ordinary Shares
@@ -7849,7 +7847,7 @@ NNNN - Anbio Biotechnology - Class A Ordinary Shares
 NNOV - Innovator Growth-100 Power Buffer ETF - November
 NNOX - NANO-X IMAGING LTD - Ordinary Shares
 NNVC - NanoViricides, Inc. Common Stock
-NNY - Nuveen New York Municipal Value Fund Common Stock
+NNY - Nuveen New York Municipal Income Fund Common Stock
 NOA - North American Construction Group Ltd. Common Shares (no par)
 NOAH - Noah Holdings Limited American Depositary Shares
 NOBL - ProShares S&P 500 Dividend Aristocrats ETF
@@ -10401,7 +10399,6 @@ SOUL - Soulpower Acquisition Corporation Class A Ordinary Shares
 SOUN - SoundHound AI, Inc. - Class A Common Stock
 SOUNW - SoundHound AI, Inc. - Warrant
 SOUX - Defiance Daily Target 2X Long SOUN ETF
-SOVF - Sovereign's Capital Flourish Fund
 SOWG - Sow Good Inc. - Common Stock
 SOXL - Direxion Daily Semiconductor Bull 3X ETF
 SOXQ - Invesco PHLX Semiconductor ETF
